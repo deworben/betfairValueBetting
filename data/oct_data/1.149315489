@@ -1,0 +1,107 @@
+{"op":"mcm","clk":"7666744274","pt":1539091221548,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447328740,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7666803394","pt":1539091753364,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447328740,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7670117858","pt":1539130765566,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:00:00.000Z","suspendTime":"2018-10-11T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:00:00.000Z","version":2448043667,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7670288560","pt":1539137836579,"mc":[{"id":"1.149315489","rc":[{"ltp":2.2,"id":5617034},{"ltp":1.84,"id":5829494}]}]}
+{"op":"mcm","clk":"7672118133","pt":1539176779637,"mc":[{"id":"1.149315489","rc":[{"ltp":1.89,"id":5829494}]}]}
+{"op":"mcm","clk":"7673263677","pt":1539193765880,"mc":[{"id":"1.149315489","rc":[{"ltp":1.87,"id":5829494}]}]}
+{"op":"mcm","clk":"7673281964","pt":1539194107341,"mc":[{"id":"1.149315489","rc":[{"ltp":1.84,"id":5829494}]}]}
+{"op":"mcm","clk":"7673372575","pt":1539195306690,"mc":[{"id":"1.149315489","rc":[{"ltp":1.82,"id":5829494}]}]}
+{"op":"mcm","clk":"7673469992","pt":1539196526105,"mc":[{"id":"1.149315489","rc":[{"ltp":2.08,"id":5617034}]}]}
+{"op":"mcm","clk":"7673474214","pt":1539196574920,"mc":[{"id":"1.149315489","rc":[{"ltp":1.81,"id":5829494}]}]}
+{"op":"mcm","clk":"7673488635","pt":1539196735602,"mc":[{"id":"1.149315489","rc":[{"ltp":1.74,"id":5829494}]}]}
+{"op":"mcm","clk":"7673519514","pt":1539197006173,"mc":[{"id":"1.149315489","rc":[{"ltp":1.71,"id":5829494}]}]}
+{"op":"mcm","clk":"7674323945","pt":1539207983064,"mc":[{"id":"1.149315489","rc":[{"ltp":2.28,"id":5617034},{"ltp":1.67,"id":5829494}]}]}
+{"op":"mcm","clk":"7674427996","pt":1539209792774,"mc":[{"id":"1.149315489","rc":[{"ltp":1.68,"id":5829494}]}]}
+{"op":"mcm","clk":"7674626760","pt":1539213315179,"mc":[{"id":"1.149315489","rc":[{"ltp":1.66,"id":5829494}]}]}
+{"op":"mcm","clk":"7674851644","pt":1539217203643,"mc":[{"id":"1.149315489","rc":[{"ltp":2.36,"id":5617034}]}]}
+{"op":"mcm","clk":"7674856818","pt":1539217282033,"mc":[{"id":"1.149315489","rc":[{"ltp":1.74,"id":5829494}]}]}
+{"op":"mcm","clk":"7674859764","pt":1539217332290,"mc":[{"id":"1.149315489","rc":[{"ltp":2.3,"id":5617034},{"ltp":1.76,"id":5829494}]}]}
+{"op":"mcm","clk":"7674863988","pt":1539217406282,"mc":[{"id":"1.149315489","rc":[{"ltp":2.26,"id":5617034}]}]}
+{"op":"mcm","clk":"7675888014","pt":1539233784330,"mc":[{"id":"1.149315489","rc":[{"ltp":1.74,"id":5829494}]}]}
+{"op":"mcm","clk":"7675915795","pt":1539234206325,"mc":[{"id":"1.149315489","rc":[{"ltp":2.28,"id":5617034}]}]}
+{"op":"mcm","clk":"7676040911","pt":1539236174860,"mc":[{"id":"1.149315489","rc":[{"ltp":2.46,"id":5617034},{"ltp":1.69,"id":5829494}]}]}
+{"op":"mcm","clk":"7676097546","pt":1539236939171,"mc":[{"id":"1.149315489","rc":[{"ltp":1.67,"id":5829494}]}]}
+{"op":"mcm","clk":"7676461043","pt":1539243565984,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:30:00.000Z","suspendTime":"2018-10-11T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:00:00.000Z","version":2449466677,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7676461162","pt":1539243568038,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:30:00.000Z","suspendTime":"2018-10-11T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:30:00.000Z","version":2449466677,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7676502368","pt":1539244329630,"mc":[{"id":"1.149315489","rc":[{"ltp":1.69,"id":5829494}]}]}
+{"op":"mcm","clk":"7676505704","pt":1539244395403,"mc":[{"id":"1.149315489","rc":[{"ltp":2.42,"id":5617034}]}]}
+{"op":"mcm","clk":"7676557914","pt":1539245358332,"mc":[{"id":"1.149315489","rc":[{"ltp":1.67,"id":5829494}]}]}
+{"op":"mcm","clk":"7676561023","pt":1539245423988,"mc":[{"id":"1.149315489","rc":[{"ltp":1.65,"id":5829494}]}]}
+{"op":"mcm","clk":"7676563451","pt":1539245479577,"mc":[{"id":"1.149315489","rc":[{"ltp":1.64,"id":5829494}]}]}
+{"op":"mcm","clk":"7676600449","pt":1539246085797,"mc":[{"id":"1.149315489","rc":[{"ltp":2.58,"id":5617034}]}]}
+{"op":"mcm","clk":"7676682500","pt":1539247465992,"mc":[{"id":"1.149315489","rc":[{"ltp":1.61,"id":5829494}]}]}
+{"op":"mcm","clk":"7676684804","pt":1539247517632,"mc":[{"id":"1.149315489","rc":[{"ltp":2.62,"id":5617034}]}]}
+{"op":"mcm","clk":"7676689978","pt":1539247644064,"mc":[{"id":"1.149315489","rc":[{"ltp":1.6,"id":5829494}]}]}
+{"op":"mcm","clk":"7676700409","pt":1539247876405,"mc":[{"id":"1.149315489","rc":[{"ltp":1.62,"id":5829494}]}]}
+{"op":"mcm","clk":"7676710296","pt":1539248090043,"mc":[{"id":"1.149315489","rc":[{"ltp":1.6,"id":5829494}]}]}
+{"op":"mcm","clk":"7676733187","pt":1539248417081,"mc":[{"id":"1.149315489","rc":[{"ltp":2.58,"id":5617034}]}]}
+{"op":"mcm","clk":"7676764965","pt":1539249094242,"mc":[{"id":"1.149315489","rc":[{"ltp":1.62,"id":5829494}]}]}
+{"op":"mcm","clk":"7676780072","pt":1539249264810,"mc":[{"id":"1.149315489","rc":[{"ltp":2.66,"id":5617034}]}]}
+{"op":"mcm","clk":"7676802707","pt":1539249796006,"mc":[{"id":"1.149315489","rc":[{"ltp":2.6,"id":5617034}]}]}
+{"op":"mcm","clk":"7676805837","pt":1539249866165,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:23:00.000Z","suspendTime":"2018-10-11T09:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:30:00.000Z","version":2449507797,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7676808264","pt":1539249918065,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:23:00.000Z","suspendTime":"2018-10-11T09:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:23:00.000Z","version":2449507797,"name":"Match Odds","eventName":"Giannessi v De Schepper"},"rc":[{"ltp":2.5,"id":5617034}]}]}
+{"op":"mcm","clk":"7676809237","pt":1539249942381,"mc":[{"id":"1.149315489","rc":[{"ltp":2.46,"id":5617034},{"ltp":1.68,"id":5829494}]}]}
+{"op":"mcm","clk":"7676829787","pt":1539250205114,"mc":[{"id":"1.149315489","rc":[{"ltp":2.54,"id":5617034},{"ltp":1.64,"id":5829494}]}]}
+{"op":"mcm","clk":"7676835834","pt":1539250341859,"mc":[{"id":"1.149315489","rc":[{"ltp":1.7,"id":5829494}]}]}
+{"op":"mcm","clk":"7676836995","pt":1539250366610,"mc":[{"id":"1.149315489","rc":[{"ltp":1.69,"id":5829494}]}]}
+{"op":"mcm","clk":"7676840769","pt":1539250457563,"mc":[{"id":"1.149315489","rc":[{"ltp":2.56,"id":5617034},{"ltp":1.64,"id":5829494}]}]}
+{"op":"mcm","clk":"7676846468","pt":1539250583797,"mc":[{"id":"1.149315489","rc":[{"ltp":2.4,"id":5617034}]}]}
+{"op":"mcm","clk":"7676847720","pt":1539250614230,"mc":[{"id":"1.149315489","rc":[{"ltp":1.65,"id":5829494}]}]}
+{"op":"mcm","clk":"7676849196","pt":1539250648703,"mc":[{"id":"1.149315489","rc":[{"ltp":2.54,"id":5617034}]}]}
+{"op":"mcm","clk":"7676852974","pt":1539250730476,"mc":[{"id":"1.149315489","rc":[{"ltp":1.64,"id":5829494}]}]}
+{"op":"mcm","clk":"7676857372","pt":1539250818988,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:23:00.000Z","suspendTime":"2018-10-11T09:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:23:00.000Z","version":2449514015,"name":"Match Odds","eventName":"Giannessi v De Schepper"},"rc":[{"ltp":2.28,"id":5617034},{"ltp":1.67,"id":5829494}]}]}
+{"op":"mcm","clk":"7676860231","pt":1539250886168,"mc":[{"id":"1.149315489","rc":[{"ltp":2.46,"id":5617034},{"ltp":1.68,"id":5829494}]}]}
+{"op":"mcm","clk":"7676871279","pt":1539250946335,"mc":[{"id":"1.149315489","rc":[{"ltp":2.54,"id":5617034},{"ltp":1.72,"id":5829494}]}]}
+{"op":"mcm","clk":"7676873556","pt":1539251005511,"mc":[{"id":"1.149315489","rc":[{"ltp":2.66,"id":5617034},{"ltp":1.6,"id":5829494}]}]}
+{"op":"mcm","clk":"7676875735","pt":1539251058266,"mc":[{"id":"1.149315489","rc":[{"ltp":2.5,"id":5617034},{"ltp":1.66,"id":5829494}]}]}
+{"op":"mcm","clk":"7676881120","pt":1539251185400,"mc":[{"id":"1.149315489","rc":[{"ltp":1.72,"id":5829494}]}]}
+{"op":"mcm","clk":"7676885846","pt":1539251305330,"mc":[{"id":"1.149315489","rc":[{"ltp":1.7,"id":5829494}]}]}
+{"op":"mcm","clk":"7676888237","pt":1539251365258,"mc":[{"id":"1.149315489","rc":[{"ltp":1.62,"id":5829494}]}]}
+{"op":"mcm","clk":"7676894014","pt":1539251485381,"mc":[{"id":"1.149315489","rc":[{"ltp":1.61,"id":5829494}]}]}
+{"op":"mcm","clk":"7676896924","pt":1539251543258,"mc":[{"id":"1.149315489","rc":[{"ltp":2.64,"id":5617034},{"ltp":1.67,"id":5829494}]}]}
+{"op":"mcm","clk":"7676900044","pt":1539251606399,"mc":[{"id":"1.149315489","rc":[{"ltp":2.7,"id":5617034},{"ltp":1.59,"id":5829494}]}]}
+{"op":"mcm","clk":"7676902998","pt":1539251665163,"mc":[{"id":"1.149315489","rc":[{"ltp":2.74,"id":5617034}]}]}
+{"op":"mcm","clk":"7676905995","pt":1539251723808,"mc":[{"id":"1.149315489","rc":[{"ltp":1.41,"id":5829494}]}]}
+{"op":"mcm","clk":"7676909090","pt":1539251785785,"mc":[{"id":"1.149315489","rc":[{"ltp":4.1,"id":5617034},{"ltp":1.33,"id":5829494}]}]}
+{"op":"mcm","clk":"7676921075","pt":1539251846336,"mc":[{"id":"1.149315489","rc":[{"ltp":3.2,"id":5617034},{"ltp":1.46,"id":5829494}]}]}
+{"op":"mcm","clk":"7676924895","pt":1539251906172,"mc":[{"id":"1.149315489","rc":[{"ltp":3.05,"id":5617034},{"ltp":1.48,"id":5829494}]}]}
+{"op":"mcm","clk":"7676928331","pt":1539251962925,"mc":[{"id":"1.149315489","rc":[{"ltp":2.72,"id":5617034},{"ltp":1.58,"id":5829494}]}]}
+{"op":"mcm","clk":"7676931847","pt":1539252025804,"mc":[{"id":"1.149315489","rc":[{"ltp":2.62,"id":5617034},{"ltp":1.62,"id":5829494}]}]}
+{"op":"mcm","clk":"7676935613","pt":1539252081534,"mc":[{"id":"1.149315489","rc":[{"ltp":1.44,"id":5829494}]}]}
+{"op":"mcm","clk":"7676939745","pt":1539252144613,"mc":[{"id":"1.149315489","rc":[{"ltp":3.9,"id":5617034},{"ltp":1.33,"id":5829494}]}]}
+{"op":"mcm","clk":"7676943985","pt":1539252205903,"mc":[{"id":"1.149315489","rc":[{"ltp":4.2,"id":5617034},{"ltp":1.28,"id":5829494}]}]}
+{"op":"mcm","clk":"7676947254","pt":1539252266367,"mc":[{"id":"1.149315489","rc":[{"ltp":1.33,"id":5829494}]}]}
+{"op":"mcm","clk":"7676950611","pt":1539252321931,"mc":[{"id":"1.149315489","rc":[{"ltp":1.35,"id":5829494}]}]}
+{"op":"mcm","clk":"7676954624","pt":1539252386172,"mc":[{"id":"1.149315489","rc":[{"ltp":3.4,"id":5617034},{"ltp":1.56,"id":5829494}]}]}
+{"op":"mcm","clk":"7676958398","pt":1539252446262,"mc":[{"id":"1.149315489","rc":[{"ltp":2.78,"id":5617034},{"ltp":1.55,"id":5829494}]}]}
+{"op":"mcm","clk":"7676962158","pt":1539252505732,"mc":[{"id":"1.149315489","rc":[{"ltp":2.62,"id":5617034},{"ltp":1.62,"id":5829494}]}]}
+{"op":"mcm","clk":"7676965768","pt":1539252566282,"mc":[{"id":"1.149315489","rc":[{"ltp":2.94,"id":5617034},{"ltp":1.52,"id":5829494}]}]}
+{"op":"mcm","clk":"7676969189","pt":1539252626248,"mc":[{"id":"1.149315489","rc":[{"ltp":3.7,"id":5617034},{"ltp":1.37,"id":5829494}]}]}
+{"op":"mcm","clk":"7676973368","pt":1539252685937,"mc":[{"id":"1.149315489","rc":[{"ltp":2.92,"id":5617034},{"ltp":1.43,"id":5829494}]}]}
+{"op":"mcm","clk":"7676985477","pt":1539252746015,"mc":[{"id":"1.149315489","rc":[{"ltp":3.4,"id":5617034},{"ltp":1.55,"id":5829494}]}]}
+{"op":"mcm","clk":"7676988687","pt":1539252805363,"mc":[{"id":"1.149315489","rc":[{"ltp":4.6,"id":5617034},{"ltp":1.27,"id":5829494}]}]}
+{"op":"mcm","clk":"7676992035","pt":1539252865821,"mc":[{"id":"1.149315489","rc":[{"ltp":6.0,"id":5617034},{"ltp":1.2,"id":5829494}]}]}
+{"op":"mcm","clk":"7676996008","pt":1539252926319,"mc":[{"id":"1.149315489","rc":[{"ltp":1.19,"id":5829494}]}]}
+{"op":"mcm","clk":"7677003675","pt":1539253045475,"mc":[{"id":"1.149315489","rc":[{"ltp":6.2,"id":5617034}]}]}
+{"op":"mcm","clk":"7677008112","pt":1539253106337,"mc":[{"id":"1.149315489","rc":[{"ltp":7.2,"id":5617034},{"ltp":1.18,"id":5829494}]}]}
+{"op":"mcm","clk":"7677012603","pt":1539253166022,"mc":[{"id":"1.149315489","rc":[{"ltp":6.6,"id":5617034},{"ltp":1.11,"id":5829494}]}]}
+{"op":"mcm","clk":"7677016157","pt":1539253223078,"mc":[{"id":"1.149315489","rc":[{"ltp":13.5,"id":5617034},{"ltp":1.08,"id":5829494}]}]}
+{"op":"mcm","clk":"7677020087","pt":1539253284665,"mc":[{"id":"1.149315489","rc":[{"ltp":1.06,"id":5829494}]}]}
+{"op":"mcm","clk":"7677023376","pt":1539253344208,"mc":[{"id":"1.149315489","rc":[{"ltp":1.05,"id":5829494}]}]}
+{"op":"mcm","clk":"7677026938","pt":1539253405397,"mc":[{"id":"1.149315489","rc":[{"ltp":16.5,"id":5617034},{"ltp":1.06,"id":5829494}]}]}
+{"op":"mcm","clk":"7677030398","pt":1539253465549,"mc":[{"id":"1.149315489","rc":[{"ltp":26.0,"id":5617034},{"ltp":1.04,"id":5829494}]}]}
+{"op":"mcm","clk":"7677033423","pt":1539253524631,"mc":[{"id":"1.149315489","rc":[{"ltp":1.02,"id":5829494}]}]}
+{"op":"mcm","clk":"7677036060","pt":1539253585199,"mc":[{"id":"1.149315489","rc":[{"ltp":50.0,"id":5617034},{"ltp":1.01,"id":5829494}]}]}
+{"op":"mcm","clk":"7677047383","pt":1539253643262,"mc":[{"id":"1.149315489","rc":[{"ltp":1.03,"id":5829494}]}]}
+{"op":"mcm","clk":"7677050499","pt":1539253706424,"mc":[{"id":"1.149315489","rc":[{"ltp":34.0,"id":5617034},{"ltp":1.04,"id":5829494}]}]}
+{"op":"mcm","clk":"7677054109","pt":1539253766413,"mc":[{"id":"1.149315489","rc":[{"ltp":21.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7677058058","pt":1539253825801,"mc":[{"id":"1.149315489","rc":[{"ltp":15.0,"id":5617034},{"ltp":1.07,"id":5829494}]}]}
+{"op":"mcm","clk":"7677061913","pt":1539253885089,"mc":[{"id":"1.149315489","rc":[{"ltp":1.08,"id":5829494}]}]}
+{"op":"mcm","clk":"7677065884","pt":1539253941433,"mc":[{"id":"1.149315489","rc":[{"ltp":13.5,"id":5617034}]}]}
+{"op":"mcm","clk":"7677070497","pt":1539254003739,"mc":[{"id":"1.149315489","rc":[{"ltp":1.06,"id":5829494}]}]}
+{"op":"mcm","clk":"7677073722","pt":1539254047298,"mc":[{"id":"1.149315489","rc":[{"ltp":15.0,"id":5617034},{"ltp":1.05,"id":5829494}]}]}
+{"op":"mcm","clk":"7677081918","pt":1539254186389,"mc":[{"id":"1.149315489","rc":[{"ltp":26.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7677085639","pt":1539254246037,"mc":[{"id":"1.149315489","rc":[{"ltp":1.02,"id":5829494}]}]}
+{"op":"mcm","clk":"7677088810","pt":1539254302307,"mc":[{"id":"1.149315489","rc":[{"ltp":1.01,"id":5829494}]}]}
+{"op":"mcm","clk":"7677109673","pt":1539254545745,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:23:00.000Z","suspendTime":"2018-10-11T09:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"ACTIVE","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:23:00.000Z","version":2449541109,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}
+{"op":"mcm","clk":"7677109776","pt":1539254548037,"mc":[{"id":"1.149315489","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947854","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:23:00.000Z","suspendTime":"2018-10-11T09:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-11T10:42:22.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":5829494,"name":"Alessandro Giannessi"},{"status":"LOSER","sortPriority":2,"id":5617034,"name":"Kenny De Schepper"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:23:00.000Z","version":2449541173,"name":"Match Odds","eventName":"Giannessi v De Schepper"}}]}

@@ -1,0 +1,130 @@
+{"op":"mcm","clk":"7695562614","pt":1540004401795,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:00:00.000Z","suspendTime":"2018-10-20T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:00:00.000Z","version":2463004608,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7695601439","pt":1540004900592,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:00:00.000Z","suspendTime":"2018-10-20T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:00:00.000Z","version":2463004608,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7700927227","pt":1540040263214,"mc":[{"id":"1.149888912","rc":[{"ltp":6.6,"id":7430078}]}]}
+{"op":"mcm","clk":"7702905291","pt":1540047443546,"mc":[{"id":"1.149888912","rc":[{"ltp":1.16,"id":9626650}]}]}
+{"op":"mcm","clk":"7702926688","pt":1540047540587,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T19:15:00.000Z","suspendTime":"2018-10-20T19:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T19:15:00.000Z","version":2464714352,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7702936798","pt":1540047591340,"mc":[{"id":"1.149888912","rc":[{"ltp":7.2,"id":7430078}]}]}
+{"op":"mcm","clk":"7702992474","pt":1540047834617,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:59:00.000Z","suspendTime":"2018-10-20T18:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:59:00.000Z","version":2464765409,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7704814496","pt":1540054736294,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T19:02:00.000Z","suspendTime":"2018-10-20T19:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T19:02:00.000Z","version":2465526769,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7704870404","pt":1540055033185,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T19:17:00.000Z","suspendTime":"2018-10-20T19:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T19:17:00.000Z","version":2465566879,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7704942448","pt":1540055336144,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T19:06:00.000Z","suspendTime":"2018-10-20T19:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T19:06:00.000Z","version":2465585791,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7705857052","pt":1540059834427,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:26:00.000Z","suspendTime":"2018-10-20T18:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:26:00.000Z","version":2465890413,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7705905544","pt":1540060133000,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:27:00.000Z","suspendTime":"2018-10-20T18:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:27:00.000Z","version":2465906412,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7705913038","pt":1540060179558,"mc":[{"id":"1.149888912","rc":[{"ltp":5.9,"id":7430078}]}]}
+{"op":"mcm","clk":"7705922326","pt":1540060235488,"mc":[{"id":"1.149888912","rc":[{"ltp":1.15,"id":9626650}]}]}
+{"op":"mcm","clk":"7705976393","pt":1540060560229,"mc":[{"id":"1.149888912","rc":[{"ltp":7.0,"id":7430078},{"ltp":1.16,"id":9626650}]}]}
+{"op":"mcm","clk":"7706030026","pt":1540060804996,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:27:00.000Z","suspendTime":"2018-10-20T18:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:27:00.000Z","version":2465963162,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}
+{"op":"mcm","clk":"7706059881","pt":1540060984009,"mc":[{"id":"1.149888912","rc":[{"ltp":1.12,"id":9626650}]}]}
+{"op":"mcm","clk":"7706070424","pt":1540061041065,"mc":[{"id":"1.149888912","rc":[{"ltp":1.09,"id":9626650}]}]}
+{"op":"mcm","clk":"7706080713","pt":1540061101411,"mc":[{"id":"1.149888912","rc":[{"ltp":1.07,"id":9626650}]}]}
+{"op":"mcm","clk":"7706091684","pt":1540061163550,"mc":[{"id":"1.149888912","rc":[{"ltp":1.06,"id":9626650}]}]}
+{"op":"mcm","clk":"7706100197","pt":1540061214488,"mc":[{"id":"1.149888912","rc":[{"ltp":13.5,"id":7430078},{"ltp":1.08,"id":9626650}]}]}
+{"op":"mcm","clk":"7706109816","pt":1540061277218,"mc":[{"id":"1.149888912","rc":[{"ltp":1.1,"id":9626650}]}]}
+{"op":"mcm","clk":"7706128581","pt":1540061405239,"mc":[{"id":"1.149888912","rc":[{"ltp":8.0,"id":7430078},{"ltp":1.14,"id":9626650}]}]}
+{"op":"mcm","clk":"7706137290","pt":1540061464902,"mc":[{"id":"1.149888912","rc":[{"ltp":5.6,"id":7430078},{"ltp":1.22,"id":9626650}]}]}
+{"op":"mcm","clk":"7706145607","pt":1540061523954,"mc":[{"id":"1.149888912","rc":[{"ltp":4.6,"id":7430078},{"ltp":1.28,"id":9626650}]}]}
+{"op":"mcm","clk":"7706167459","pt":1540061582528,"mc":[{"id":"1.149888912","rc":[{"ltp":4.2,"id":7430078},{"ltp":1.25,"id":9626650}]}]}
+{"op":"mcm","clk":"7706182161","pt":1540061696736,"mc":[{"id":"1.149888912","rc":[{"ltp":4.5,"id":7430078},{"ltp":1.28,"id":9626650}]}]}
+{"op":"mcm","clk":"7706189546","pt":1540061751003,"mc":[{"id":"1.149888912","rc":[{"ltp":1.3,"id":9626650}]}]}
+{"op":"mcm","clk":"7706216476","pt":1540061938866,"mc":[{"id":"1.149888912","rc":[{"ltp":5.3,"id":7430078}]}]}
+{"op":"mcm","clk":"7706225447","pt":1540061999583,"mc":[{"id":"1.149888912","rc":[{"ltp":4.9,"id":7430078}]}]}
+{"op":"mcm","clk":"7706239232","pt":1540062110893,"mc":[{"id":"1.149888912","rc":[{"ltp":6.4,"id":7430078},{"ltp":1.19,"id":9626650}]}]}
+{"op":"mcm","clk":"7706301444","pt":1540062483257,"mc":[{"id":"1.149888912","rc":[{"ltp":1.08,"id":9626650}]}]}
+{"op":"mcm","clk":"7706311585","pt":1540062545460,"mc":[{"id":"1.149888912","rc":[{"ltp":8.2,"id":7430078},{"ltp":1.09,"id":9626650}]}]}
+{"op":"mcm","clk":"7706318937","pt":1540062593983,"mc":[{"id":"1.149888912","rc":[{"ltp":1.07,"id":9626650}]}]}
+{"op":"mcm","clk":"7706377351","pt":1540062964716,"mc":[{"id":"1.149888912","rc":[{"ltp":1.12,"id":9626650}]}]}
+{"op":"mcm","clk":"7706388118","pt":1540063024953,"mc":[{"id":"1.149888912","rc":[{"ltp":13.5,"id":7430078},{"ltp":1.08,"id":9626650}]}]}
+{"op":"mcm","clk":"7706415932","pt":1540063200956,"mc":[{"id":"1.149888912","rc":[{"ltp":11.0,"id":7430078},{"ltp":1.1,"id":9626650}]}]}
+{"op":"mcm","clk":"7706455995","pt":1540063384362,"mc":[{"id":"1.149888912","rc":[{"ltp":10.0,"id":7430078},{"ltp":1.11,"id":9626650}]}]}
+{"op":"mcm","clk":"7706464494","pt":1540063441085,"mc":[{"id":"1.149888912","rc":[{"ltp":7.0,"id":7430078},{"ltp":1.09,"id":9626650}]}]}
+{"op":"mcm","clk":"7706471640","pt":1540063496046,"mc":[{"id":"1.149888912","rc":[{"ltp":1.06,"id":9626650}]}]}
+{"op":"mcm","clk":"7706479998","pt":1540063560699,"mc":[{"id":"1.149888912","rc":[{"ltp":17.5,"id":7430078},{"ltp":1.07,"id":9626650}]}]}
+{"op":"mcm","clk":"7706487332","pt":1540063621845,"mc":[{"id":"1.149888912","rc":[{"ltp":1.06,"id":9626650}]}]}
+{"op":"mcm","clk":"7706495561","pt":1540063686829,"mc":[{"id":"1.149888912","rc":[{"ltp":1.05,"id":9626650}]}]}
+{"op":"mcm","clk":"7706528891","pt":1540063924548,"mc":[{"id":"1.149888912","rc":[{"ltp":1.04,"id":9626650}]}]}
+{"op":"mcm","clk":"7706537168","pt":1540063983947,"mc":[{"id":"1.149888912","rc":[{"ltp":15.0,"id":7430078},{"ltp":1.08,"id":9626650}]}]}
+{"op":"mcm","clk":"7706542969","pt":1540064029445,"mc":[{"id":"1.149888912","rc":[{"ltp":11.0,"id":7430078},{"ltp":1.1,"id":9626650}]}]}
+{"op":"mcm","clk":"7706552190","pt":1540064104718,"mc":[{"id":"1.149888912","rc":[{"ltp":10.0,"id":7430078},{"ltp":1.11,"id":9626650}]}]}
+{"op":"mcm","clk":"7706569298","pt":1540064218558,"mc":[{"id":"1.149888912","rc":[{"ltp":7.6,"id":7430078},{"ltp":1.15,"id":9626650}]}]}
+{"op":"mcm","clk":"7706592623","pt":1540064283851,"mc":[{"id":"1.149888912","rc":[{"ltp":7.2,"id":7430078},{"ltp":1.14,"id":9626650}]}]}
+{"op":"mcm","clk":"7706601215","pt":1540064341834,"mc":[{"id":"1.149888912","rc":[{"ltp":11.0,"id":7430078}]}]}
+{"op":"mcm","clk":"7706620396","pt":1540064460233,"mc":[{"id":"1.149888912","rc":[{"ltp":13.5,"id":7430078},{"ltp":1.1,"id":9626650}]}]}
+{"op":"mcm","clk":"7706635203","pt":1540064557612,"mc":[{"id":"1.149888912","rc":[{"ltp":1.14,"id":9626650}]}]}
+{"op":"mcm","clk":"7706646875","pt":1540064641669,"mc":[{"id":"1.149888912","rc":[{"ltp":7.6,"id":7430078},{"ltp":1.15,"id":9626650}]}]}
+{"op":"mcm","clk":"7706661528","pt":1540064747711,"mc":[{"id":"1.149888912","rc":[{"ltp":1.14,"id":9626650}]}]}
+{"op":"mcm","clk":"7706672286","pt":1540064824771,"mc":[{"id":"1.149888912","rc":[{"ltp":6.0,"id":7430078},{"ltp":1.2,"id":9626650}]}]}
+{"op":"mcm","clk":"7706680142","pt":1540064879292,"mc":[{"id":"1.149888912","rc":[{"ltp":4.6,"id":7430078},{"ltp":1.28,"id":9626650}]}]}
+{"op":"mcm","clk":"7706689301","pt":1540064943742,"mc":[{"id":"1.149888912","rc":[{"ltp":5.2,"id":7430078},{"ltp":1.24,"id":9626650}]}]}
+{"op":"mcm","clk":"7706702780","pt":1540065057340,"mc":[{"id":"1.149888912","rc":[{"ltp":6.2,"id":7430078},{"ltp":1.2,"id":9626650}]}]}
+{"op":"mcm","clk":"7706711799","pt":1540065125005,"mc":[{"id":"1.149888912","rc":[{"ltp":5.7,"id":7430078}]}]}
+{"op":"mcm","clk":"7706731710","pt":1540065181642,"mc":[{"id":"1.149888912","rc":[{"ltp":5.6,"id":7430078}]}]}
+{"op":"mcm","clk":"7706738640","pt":1540065243517,"mc":[{"id":"1.149888912","rc":[{"ltp":5.7,"id":7430078},{"ltp":1.21,"id":9626650}]}]}
+{"op":"mcm","clk":"7706744002","pt":1540065303883,"mc":[{"id":"1.149888912","rc":[{"ltp":6.0,"id":7430078},{"ltp":1.2,"id":9626650}]}]}
+{"op":"mcm","clk":"7706759051","pt":1540065422872,"mc":[{"id":"1.149888912","rc":[{"ltp":5.1,"id":7430078}]}]}
+{"op":"mcm","clk":"7706766010","pt":1540065482669,"mc":[{"id":"1.149888912","rc":[{"ltp":4.1,"id":7430078}]}]}
+{"op":"mcm","clk":"7706780933","pt":1540065603060,"mc":[{"id":"1.149888912","rc":[{"ltp":3.2,"id":7430078},{"ltp":1.32,"id":9626650}]}]}
+{"op":"mcm","clk":"7706788417","pt":1540065664985,"mc":[{"id":"1.149888912","rc":[{"ltp":3.1,"id":7430078},{"ltp":1.47,"id":9626650}]}]}
+{"op":"mcm","clk":"7706795139","pt":1540065724159,"mc":[{"id":"1.149888912","rc":[{"ltp":2.92,"id":7430078},{"ltp":1.43,"id":9626650}]}]}
+{"op":"mcm","clk":"7706802204","pt":1540065783464,"mc":[{"id":"1.149888912","rc":[{"ltp":2.96,"id":7430078}]}]}
+{"op":"mcm","clk":"7706808156","pt":1540065843249,"mc":[{"id":"1.149888912","rc":[{"ltp":3.35,"id":7430078}]}]}
+{"op":"mcm","clk":"7706814610","pt":1540065904678,"mc":[{"id":"1.149888912","rc":[{"ltp":2.84,"id":7430078}]}]}
+{"op":"mcm","clk":"7706819278","pt":1540065947757,"mc":[{"id":"1.149888912","rc":[{"ltp":2.78,"id":7430078},{"ltp":1.56,"id":9626650}]}]}
+{"op":"mcm","clk":"7706827500","pt":1540066023848,"mc":[{"id":"1.149888912","rc":[{"ltp":2.8,"id":7430078},{"ltp":1.55,"id":9626650}]}]}
+{"op":"mcm","clk":"7706847135","pt":1540066083621,"mc":[{"id":"1.149888912","rc":[{"ltp":2.56,"id":7430078}]}]}
+{"op":"mcm","clk":"7706858862","pt":1540066202682,"mc":[{"id":"1.149888912","rc":[{"ltp":2.98,"id":7430078},{"ltp":1.5,"id":9626650}]}]}
+{"op":"mcm","clk":"7706865127","pt":1540066263857,"mc":[{"id":"1.149888912","rc":[{"ltp":2.6,"id":7430078}]}]}
+{"op":"mcm","clk":"7706870792","pt":1540066324863,"mc":[{"id":"1.149888912","rc":[{"ltp":1.66,"id":9626650}]}]}
+{"op":"mcm","clk":"7706876604","pt":1540066384855,"mc":[{"id":"1.149888912","rc":[{"ltp":2.54,"id":7430078},{"ltp":1.65,"id":9626650}]}]}
+{"op":"mcm","clk":"7706881917","pt":1540066437259,"mc":[{"id":"1.149888912","rc":[{"ltp":1.66,"id":9626650}]}]}
+{"op":"mcm","clk":"7706885985","pt":1540066475055,"mc":[{"id":"1.149888912","rc":[{"ltp":2.56,"id":7430078},{"ltp":1.64,"id":9626650}]}]}
+{"op":"mcm","clk":"7706895403","pt":1540066562283,"mc":[{"id":"1.149888912","rc":[{"ltp":2.66,"id":7430078}]}]}
+{"op":"mcm","clk":"7706899044","pt":1540066596843,"mc":[{"id":"1.149888912","rc":[{"ltp":1.6,"id":9626650}]}]}
+{"op":"mcm","clk":"7706924959","pt":1540066860509,"mc":[{"id":"1.149888912","rc":[{"ltp":1.52,"id":9626650}]}]}
+{"op":"mcm","clk":"7706930770","pt":1540066924153,"mc":[{"id":"1.149888912","rc":[{"ltp":2.56,"id":7430078},{"ltp":1.64,"id":9626650}]}]}
+{"op":"mcm","clk":"7706953857","pt":1540067044605,"mc":[{"id":"1.149888912","rc":[{"ltp":2.16,"id":7430078},{"ltp":1.86,"id":9626650}]}]}
+{"op":"mcm","clk":"7706958772","pt":1540067105169,"mc":[{"id":"1.149888912","rc":[{"ltp":2.56,"id":7430078},{"ltp":1.64,"id":9626650}]}]}
+{"op":"mcm","clk":"7706964152","pt":1540067163364,"mc":[{"id":"1.149888912","rc":[{"ltp":3.25,"id":7430078},{"ltp":1.54,"id":9626650}]}]}
+{"op":"mcm","clk":"7706969128","pt":1540067222069,"mc":[{"id":"1.149888912","rc":[{"ltp":3.05,"id":7430078},{"ltp":1.49,"id":9626650}]}]}
+{"op":"mcm","clk":"7706973441","pt":1540067282446,"mc":[{"id":"1.149888912","rc":[{"ltp":2.5,"id":7430078},{"ltp":1.66,"id":9626650}]}]}
+{"op":"mcm","clk":"7706987969","pt":1540067465266,"mc":[{"id":"1.149888912","rc":[{"ltp":2.48,"id":7430078},{"ltp":1.74,"id":9626650}]}]}
+{"op":"mcm","clk":"7706992661","pt":1540067523810,"mc":[{"id":"1.149888912","rc":[{"ltp":2.98,"id":7430078},{"ltp":1.6,"id":9626650}]}]}
+{"op":"mcm","clk":"7707002129","pt":1540067640708,"mc":[{"id":"1.149888912","rc":[{"ltp":2.88,"id":7430078},{"ltp":1.54,"id":9626650}]}]}
+{"op":"mcm","clk":"7707007470","pt":1540067699978,"mc":[{"id":"1.149888912","rc":[{"ltp":2.84,"id":7430078},{"ltp":1.56,"id":9626650}]}]}
+{"op":"mcm","clk":"7707013369","pt":1540067764609,"mc":[{"id":"1.149888912","rc":[{"ltp":2.38,"id":7430078},{"ltp":1.72,"id":9626650}]}]}
+{"op":"mcm","clk":"7707018137","pt":1540067821873,"mc":[{"id":"1.149888912","rc":[{"ltp":2.42,"id":7430078}]}]}
+{"op":"mcm","clk":"7707036408","pt":1540067882652,"mc":[{"id":"1.149888912","rc":[{"ltp":1.7,"id":9626650}]}]}
+{"op":"mcm","clk":"7707041973","pt":1540067944165,"mc":[{"id":"1.149888912","rc":[{"ltp":2.16,"id":7430078},{"ltp":1.85,"id":9626650}]}]}
+{"op":"mcm","clk":"7707047210","pt":1540068004837,"mc":[{"id":"1.149888912","rc":[{"ltp":1.84,"id":7430078},{"ltp":1.89,"id":9626650}]}]}
+{"op":"mcm","clk":"7707051927","pt":1540068062482,"mc":[{"id":"1.149888912","rc":[{"ltp":2.4,"id":7430078},{"ltp":1.71,"id":9626650}]}]}
+{"op":"mcm","clk":"7707056952","pt":1540068124933,"mc":[{"id":"1.149888912","rc":[{"ltp":1.89,"id":9626650}]}]}
+{"op":"mcm","clk":"7707061580","pt":1540068184157,"mc":[{"id":"1.149888912","rc":[{"ltp":2.46,"id":7430078},{"ltp":1.68,"id":9626650}]}]}
+{"op":"mcm","clk":"7707066607","pt":1540068243506,"mc":[{"id":"1.149888912","rc":[{"ltp":2.04,"id":7430078},{"ltp":1.7,"id":9626650}]}]}
+{"op":"mcm","clk":"7707070980","pt":1540068301925,"mc":[{"id":"1.149888912","rc":[{"ltp":1.96,"id":9626650}]}]}
+{"op":"mcm","clk":"7707076237","pt":1540068363952,"mc":[{"id":"1.149888912","rc":[{"ltp":2.4,"id":7430078},{"ltp":1.7,"id":9626650}]}]}
+{"op":"mcm","clk":"7707081414","pt":1540068424574,"mc":[{"id":"1.149888912","rc":[{"ltp":2.32,"id":7430078},{"ltp":1.76,"id":9626650}]}]}
+{"op":"mcm","clk":"7707085896","pt":1540068484100,"mc":[{"id":"1.149888912","rc":[{"ltp":2.78,"id":7430078},{"ltp":1.56,"id":9626650}]}]}
+{"op":"mcm","clk":"7707090127","pt":1540068543846,"mc":[{"id":"1.149888912","rc":[{"ltp":2.5,"id":7430078},{"ltp":1.52,"id":9626650}]}]}
+{"op":"mcm","clk":"7707094677","pt":1540068604926,"mc":[{"id":"1.149888912","rc":[{"ltp":2.24,"id":7430078},{"ltp":1.8,"id":9626650}]}]}
+{"op":"mcm","clk":"7707098872","pt":1540068662805,"mc":[{"id":"1.149888912","rc":[{"ltp":2.16,"id":7430078},{"ltp":1.86,"id":9626650}]}]}
+{"op":"mcm","clk":"7707103617","pt":1540068723322,"mc":[{"id":"1.149888912","rc":[{"ltp":1.68,"id":9626650}]}]}
+{"op":"mcm","clk":"7707121043","pt":1540068784540,"mc":[{"id":"1.149888912","rc":[{"ltp":2.78,"id":7430078},{"ltp":1.53,"id":9626650}]}]}
+{"op":"mcm","clk":"7707125594","pt":1540068840944,"mc":[{"id":"1.149888912","rc":[{"ltp":1.58,"id":9626650}]}]}
+{"op":"mcm","clk":"7707128527","pt":1540068877457,"mc":[{"id":"1.149888912","rc":[{"ltp":1.57,"id":9626650}]}]}
+{"op":"mcm","clk":"7707135865","pt":1540068964948,"mc":[{"id":"1.149888912","rc":[{"ltp":1.54,"id":9626650}]}]}
+{"op":"mcm","clk":"7707141169","pt":1540069024984,"mc":[{"id":"1.149888912","rc":[{"ltp":2.16,"id":7430078},{"ltp":2.0,"id":9626650}]}]}
+{"op":"mcm","clk":"7707145833","pt":1540069079552,"mc":[{"id":"1.149888912","rc":[{"ltp":2.56,"id":7430078},{"ltp":1.65,"id":9626650}]}]}
+{"op":"mcm","clk":"7707151854","pt":1540069144977,"mc":[{"id":"1.149888912","rc":[{"ltp":2.2,"id":7430078},{"ltp":1.84,"id":9626650}]}]}
+{"op":"mcm","clk":"7707157943","pt":1540069204950,"mc":[{"id":"1.149888912","rc":[{"ltp":2.76,"id":7430078},{"ltp":1.57,"id":9626650}]}]}
+{"op":"mcm","clk":"7707163515","pt":1540069264117,"mc":[{"id":"1.149888912","rc":[{"ltp":2.96,"id":7430078},{"ltp":1.54,"id":9626650}]}]}
+{"op":"mcm","clk":"7707169065","pt":1540069324215,"mc":[{"id":"1.149888912","rc":[{"ltp":2.88,"id":7430078},{"ltp":1.53,"id":9626650}]}]}
+{"op":"mcm","clk":"7707174266","pt":1540069383828,"mc":[{"id":"1.149888912","rc":[{"ltp":3.1,"id":7430078},{"ltp":1.47,"id":9626650}]}]}
+{"op":"mcm","clk":"7707180044","pt":1540069444673,"mc":[{"id":"1.149888912","rc":[{"ltp":1.46,"id":9626650}]}]}
+{"op":"mcm","clk":"7707185632","pt":1540069505145,"mc":[{"id":"1.149888912","rc":[{"ltp":2.28,"id":7430078},{"ltp":1.78,"id":9626650}]}]}
+{"op":"mcm","clk":"7707191187","pt":1540069564022,"mc":[{"id":"1.149888912","rc":[{"ltp":2.3,"id":7430078},{"ltp":1.76,"id":9626650}]}]}
+{"op":"mcm","clk":"7707196495","pt":1540069618255,"mc":[{"id":"1.149888912","rc":[{"ltp":2.62,"id":7430078},{"ltp":1.61,"id":9626650}]}]}
+{"op":"mcm","clk":"7707221611","pt":1540069742279,"mc":[{"id":"1.149888912","rc":[{"ltp":3.0,"id":7430078},{"ltp":1.52,"id":9626650}]}]}
+{"op":"mcm","clk":"7707228057","pt":1540069804582,"mc":[{"id":"1.149888912","rc":[{"ltp":1.49,"id":9626650}]}]}
+{"op":"mcm","clk":"7707234654","pt":1540069865200,"mc":[{"id":"1.149888912","rc":[{"ltp":2.72,"id":7430078},{"ltp":1.58,"id":9626650}]}]}
+{"op":"mcm","clk":"7707240802","pt":1540069918154,"mc":[{"id":"1.149888912","rc":[{"ltp":3.3,"id":7430078},{"ltp":1.41,"id":9626650}]}]}
+{"op":"mcm","clk":"7707247825","pt":1540069978356,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:27:00.000Z","suspendTime":"2018-10-20T18:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"ACTIVE","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:27:00.000Z","version":2466408800,"name":"Match Odds","eventName":"Zukas v Ser Galdos"},"rc":[{"ltp":7.2,"id":7430078},{"ltp":1.16,"id":9626650}]}]}
+{"op":"mcm","clk":"7707252695","pt":1540070024043,"mc":[{"id":"1.149888912","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965868","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T18:27:00.000Z","suspendTime":"2018-10-20T18:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T21:13:37.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9626650,"name":"Matias Zukas"},{"status":"LOSER","sortPriority":2,"id":7430078,"name":"Sergio Galdos"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T18:27:00.000Z","version":2466409132,"name":"Match Odds","eventName":"Zukas v Ser Galdos"}}]}

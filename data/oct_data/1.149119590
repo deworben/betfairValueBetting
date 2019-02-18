@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"7640999269","pt":1538693288779,"mc":[{"id":"1.149119590","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939416","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9528104,"name":"D Lao"},{"status":"ACTIVE","sortPriority":2,"id":9631235,"name":"M Bouzkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-04T22:50:00.000Z","version":2437432505,"name":"Match Odds","eventName":"D Lao v M Bouzkova"}}]}
+{"op":"mcm","clk":"7641011516","pt":1538693494397,"mc":[{"id":"1.149119590","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939416","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9528104,"name":"D Lao"},{"status":"ACTIVE","sortPriority":2,"id":9631235,"name":"M Bouzkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-04T22:51:30.000Z","version":2437433026,"name":"Match Odds","eventName":"D Lao v M Bouzkova"}}]}
+{"op":"mcm","clk":"7641036313","pt":1538693878308,"mc":[{"id":"1.149119590","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939416","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9528104,"name":"D Lao"},{"status":"ACTIVE","sortPriority":2,"id":9631235,"name":"M Bouzkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-04T22:51:30.000Z","version":2437433026,"name":"Match Odds","eventName":"D Lao v M Bouzkova"}}]}
+{"op":"mcm","clk":"7641079480","pt":1538694325696,"mc":[{"id":"1.149119590","rc":[{"ltp":1.43,"id":9631235}]}]}
+{"op":"mcm","clk":"7641085517","pt":1538694424446,"mc":[{"id":"1.149119590","rc":[{"ltp":2.38,"id":9528104},{"ltp":1.73,"id":9631235}]}]}
+{"op":"mcm","clk":"7641118053","pt":1538694971092,"mc":[{"id":"1.149119590","rc":[{"ltp":3.0,"id":9528104},{"ltp":1.5,"id":9631235}]}]}
+{"op":"mcm","clk":"7641165555","pt":1538695484590,"mc":[{"id":"1.149119590","rc":[{"ltp":3.65,"id":9528104},{"ltp":1.37,"id":9631235}]}]}
+{"op":"mcm","clk":"7641169859","pt":1538695544612,"mc":[{"id":"1.149119590","rc":[{"ltp":1.73,"id":9631235}]}]}
+{"op":"mcm","clk":"7641178049","pt":1538695675681,"mc":[{"id":"1.149119590","rc":[{"ltp":3.0,"id":9528104},{"ltp":1.5,"id":9631235}]}]}
+{"op":"mcm","clk":"7641217069","pt":1538696054271,"mc":[{"id":"1.149119590","rc":[{"ltp":1.2,"id":9631235}]}]}
+{"op":"mcm","clk":"7641219936","pt":1538696101750,"mc":[{"id":"1.149119590","rc":[{"ltp":1.55,"id":9631235}]}]}
+{"op":"mcm","clk":"7641224703","pt":1538696174454,"mc":[{"id":"1.149119590","rc":[{"ltp":1.6,"id":9631235}]}]}
+{"op":"mcm","clk":"7641231794","pt":1538696285188,"mc":[{"id":"1.149119590","rc":[{"ltp":2.5,"id":9528104},{"ltp":1.66,"id":9631235}]}]}
+{"op":"mcm","clk":"7641234492","pt":1538696327850,"mc":[{"id":"1.149119590","rc":[{"ltp":1.6,"id":9631235}]}]}
+{"op":"mcm","clk":"7641239659","pt":1538696413918,"mc":[{"id":"1.149119590","rc":[{"ltp":1.89,"id":9528104},{"ltp":2.12,"id":9631235}]}]}
+{"op":"mcm","clk":"7641244045","pt":1538696469124,"mc":[{"id":"1.149119590","rc":[{"ltp":1.94,"id":9631235}]}]}
+{"op":"mcm","clk":"7641252638","pt":1538696590019,"mc":[{"id":"1.149119590","rc":[{"ltp":2.02,"id":9631235}]}]}
+{"op":"mcm","clk":"7641255658","pt":1538696636097,"mc":[{"id":"1.149119590","rc":[{"ltp":1.76,"id":9528104},{"ltp":2.3,"id":9631235}]}]}
+{"op":"mcm","clk":"7641264377","pt":1538696763113,"mc":[{"id":"1.149119590","rc":[{"ltp":1.7,"id":9528104},{"ltp":2.42,"id":9631235}]}]}
+{"op":"mcm","clk":"7641284589","pt":1538696833559,"mc":[{"id":"1.149119590","rc":[{"ltp":1.54,"id":9528104}]}]}
+{"op":"mcm","clk":"7641288439","pt":1538696893656,"mc":[{"id":"1.149119590","rc":[{"ltp":1.47,"id":9528104},{"ltp":3.1,"id":9631235}]}]}
+{"op":"mcm","clk":"7641296159","pt":1538697012129,"mc":[{"id":"1.149119590","rc":[{"ltp":1.6,"id":9528104},{"ltp":2.66,"id":9631235}]}]}
+{"op":"mcm","clk":"7641299959","pt":1538697072512,"mc":[{"id":"1.149119590","rc":[{"ltp":1.47,"id":9528104}]}]}
+{"op":"mcm","clk":"7641303977","pt":1538697134201,"mc":[{"id":"1.149119590","rc":[{"ltp":1.4,"id":9528104}]}]}
+{"op":"mcm","clk":"7641312203","pt":1538697253444,"mc":[{"id":"1.149119590","rc":[{"ltp":1.33,"id":9528104},{"ltp":4.0,"id":9631235}]}]}
+{"op":"mcm","clk":"7641316428","pt":1538697314197,"mc":[{"id":"1.149119590","rc":[{"ltp":4.5,"id":9631235}]}]}
+{"op":"mcm","clk":"7641320183","pt":1538697372123,"mc":[{"id":"1.149119590","rc":[{"ltp":4.6,"id":9631235}]}]}
+{"op":"mcm","clk":"7641327911","pt":1538697490996,"mc":[{"id":"1.149119590","rc":[{"ltp":1.44,"id":9528104},{"ltp":3.35,"id":9631235}]}]}
+{"op":"mcm","clk":"7641331807","pt":1538697541865,"mc":[{"id":"1.149119590","rc":[{"ltp":1.3,"id":9528104},{"ltp":4.4,"id":9631235}]}]}
+{"op":"mcm","clk":"7641337086","pt":1538697612173,"mc":[{"id":"1.149119590","rc":[{"ltp":1.25,"id":9528104},{"ltp":6.4,"id":9631235}]}]}
+{"op":"mcm","clk":"7641341753","pt":1538697674560,"mc":[{"id":"1.149119590","rc":[{"ltp":5.0,"id":9631235}]}]}
+{"op":"mcm","clk":"7641382479","pt":1538697971472,"mc":[{"id":"1.149119590","rc":[{"ltp":3.5,"id":9631235}]}]}
+{"op":"mcm","clk":"7641386721","pt":1538698027144,"mc":[{"id":"1.149119590","rc":[{"ltp":1.4,"id":9528104}]}]}
+{"op":"mcm","clk":"7641390924","pt":1538698088745,"mc":[{"id":"1.149119590","rc":[{"ltp":2.68,"id":9631235}]}]}
+{"op":"mcm","clk":"7641395490","pt":1538698151386,"mc":[{"id":"1.149119590","rc":[{"ltp":1.76,"id":9528104},{"ltp":2.7,"id":9631235}]}]}
+{"op":"mcm","clk":"7641399515","pt":1538698214119,"mc":[{"id":"1.149119590","rc":[{"ltp":1.58,"id":9528104}]}]}
+{"op":"mcm","clk":"7641407443","pt":1538698327150,"mc":[{"id":"1.149119590","rc":[{"ltp":3.5,"id":9631235}]}]}
+{"op":"mcm","clk":"7641448937","pt":1538698694318,"mc":[{"id":"1.149119590","rc":[{"ltp":1.45,"id":9528104},{"ltp":3.2,"id":9631235}]}]}
+{"op":"mcm","clk":"7641453061","pt":1538698754453,"mc":[{"id":"1.149119590","rc":[{"ltp":1.26,"id":9528104},{"ltp":4.6,"id":9631235}]}]}
+{"op":"mcm","clk":"7641456313","pt":1538698807146,"mc":[{"id":"1.149119590","rc":[{"ltp":1.18,"id":9528104},{"ltp":6.4,"id":9631235}]}]}
+{"op":"mcm","clk":"7641459609","pt":1538698861364,"mc":[{"id":"1.149119590","rc":[{"ltp":1.32,"id":9528104}]}]}
+{"op":"mcm","clk":"7641464133","pt":1538698928209,"mc":[{"id":"1.149119590","rc":[{"ltp":1.03,"id":9528104}]}]}
+{"op":"mcm","clk":"7641477588","pt":1538699153068,"mc":[{"id":"1.149119590","rc":[{"ltp":1.07,"id":9528104}]}]}
+{"op":"mcm","clk":"7641488418","pt":1538699352324,"mc":[{"id":"1.149119590","rc":[{"ltp":1.46,"id":9528104},{"ltp":3.15,"id":9631235}]}]}
+{"op":"mcm","clk":"7641495649","pt":1538699473042,"mc":[{"id":"1.149119590","rc":[{"ltp":1.3,"id":9528104},{"ltp":4.4,"id":9631235}]}]}
+{"op":"mcm","clk":"7641498906","pt":1538699524638,"mc":[{"id":"1.149119590","rc":[{"ltp":1.18,"id":9528104},{"ltp":6.6,"id":9631235}]}]}
+{"op":"mcm","clk":"7641523041","pt":1538699640068,"mc":[{"id":"1.149119590","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939416","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-05T00:33:58.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9528104,"name":"D Lao"},{"status":"LOSER","sortPriority":2,"id":9631235,"name":"M Bouzkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-04T22:51:30.000Z","version":2437488240,"name":"Match Odds","eventName":"D Lao v M Bouzkova"}}]}

@@ -1,0 +1,90 @@
+{"op":"mcm","clk":"7800274693","pt":1540315782327,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:00:00.000Z","suspendTime":"2018-10-24T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:00:00.000Z","version":2472026711,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7800341389","pt":1540316278015,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:00:00.000Z","suspendTime":"2018-10-24T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:00:00.000Z","version":2472026711,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7802922066","pt":1540340931721,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T15:00:00.000Z","suspendTime":"2018-10-25T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:00:00.000Z","version":2472642060,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7802922257","pt":1540340934741,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T15:00:00.000Z","suspendTime":"2018-10-25T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2472642060,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7803071901","pt":1540343935985,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T16:00:00.000Z","suspendTime":"2018-10-24T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T16:00:00.000Z","version":2472675059,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7803780083","pt":1540359884578,"mc":[{"id":"1.150068698","rc":[{"ltp":1.43,"id":6670624}]}]}
+{"op":"mcm","clk":"7805903016","pt":1540384960024,"mc":[{"id":"1.150068698","rc":[{"ltp":3.3,"id":5304142}]}]}
+{"op":"mcm","clk":"7806295151","pt":1540387704631,"mc":[{"id":"1.150068698","rc":[{"ltp":1.34,"id":6670624}]}]}
+{"op":"mcm","clk":"7806596525","pt":1540389651603,"mc":[{"id":"1.150068698","rc":[{"ltp":3.9,"id":5304142}]}]}
+{"op":"mcm","clk":"7806822453","pt":1540390724334,"mc":[{"id":"1.150068698","rc":[{"ltp":1.3,"id":6670624}]}]}
+{"op":"mcm","clk":"7806832379","pt":1540390781803,"mc":[{"id":"1.150068698","rc":[{"ltp":1.29,"id":6670624},{"ltp":4.4,"id":5304142}]}]}
+{"op":"mcm","clk":"7806843982","pt":1540390847840,"mc":[{"id":"1.150068698","rc":[{"ltp":1.28,"id":6670624}]}]}
+{"op":"mcm","clk":"7806865739","pt":1540390961993,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7806879264","pt":1540391030916,"mc":[{"id":"1.150068698","rc":[{"ltp":1.28,"id":6670624}]}]}
+{"op":"mcm","clk":"7806958235","pt":1540391448431,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624},{"ltp":4.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7806990925","pt":1540391566069,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7807032312","pt":1540391805856,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7807114863","pt":1540392288780,"mc":[{"id":"1.150068698","rc":[{"ltp":4.8,"id":5304142}]}]}
+{"op":"mcm","clk":"7807185839","pt":1540392692278,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7807213780","pt":1540392892418,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7807367152","pt":1540393785343,"mc":[{"id":"1.150068698","rc":[{"ltp":1.28,"id":6670624},{"ltp":4.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7807720983","pt":1540395621160,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7807858631","pt":1540396432432,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:52:00.000Z","suspendTime":"2018-10-24T15:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:52:00.000Z","version":2473508599,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7807873870","pt":1540396549122,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7807880651","pt":1540396608918,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7807886364","pt":1540396664449,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7807892838","pt":1540396723586,"mc":[{"id":"1.150068698","rc":[{"ltp":1.27,"id":6670624}]}]}
+{"op":"mcm","clk":"7807897629","pt":1540396765677,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7807991086","pt":1540397379495,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:52:00.000Z","suspendTime":"2018-10-24T15:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:52:00.000Z","version":2473589415,"name":"Match Odds","eventName":"Clezar v Garin"}}]}
+{"op":"mcm","clk":"7808000154","pt":1540397449707,"mc":[{"id":"1.150068698","rc":[{"ltp":1.24,"id":6670624},{"ltp":5.1,"id":5304142}]}]}
+{"op":"mcm","clk":"7808015740","pt":1540397571242,"mc":[{"id":"1.150068698","rc":[{"ltp":1.26,"id":6670624},{"ltp":4.9,"id":5304142}]}]}
+{"op":"mcm","clk":"7808023778","pt":1540397633097,"mc":[{"id":"1.150068698","rc":[{"ltp":1.35,"id":6670624},{"ltp":3.85,"id":5304142}]}]}
+{"op":"mcm","clk":"7808031476","pt":1540397692122,"mc":[{"id":"1.150068698","rc":[{"ltp":1.39,"id":6670624},{"ltp":3.55,"id":5304142}]}]}
+{"op":"mcm","clk":"7808039679","pt":1540397752866,"mc":[{"id":"1.150068698","rc":[{"ltp":1.33,"id":6670624},{"ltp":3.1,"id":5304142}]}]}
+{"op":"mcm","clk":"7808046868","pt":1540397812278,"mc":[{"id":"1.150068698","rc":[{"ltp":1.31,"id":6670624},{"ltp":4.2,"id":5304142}]}]}
+{"op":"mcm","clk":"7808066371","pt":1540397873050,"mc":[{"id":"1.150068698","rc":[{"ltp":1.38,"id":6670624},{"ltp":3.6,"id":5304142}]}]}
+{"op":"mcm","clk":"7808073561","pt":1540397933076,"mc":[{"id":"1.150068698","rc":[{"ltp":1.31,"id":6670624},{"ltp":4.3,"id":5304142}]}]}
+{"op":"mcm","clk":"7808081021","pt":1540397992987,"mc":[{"id":"1.150068698","rc":[{"ltp":1.3,"id":6670624},{"ltp":4.4,"id":5304142}]}]}
+{"op":"mcm","clk":"7808088884","pt":1540398052203,"mc":[{"id":"1.150068698","rc":[{"ltp":1.32,"id":6670624}]}]}
+{"op":"mcm","clk":"7808096434","pt":1540398110318,"mc":[{"id":"1.150068698","rc":[{"ltp":1.35,"id":6670624},{"ltp":3.6,"id":5304142}]}]}
+{"op":"mcm","clk":"7808104798","pt":1540398172955,"mc":[{"id":"1.150068698","rc":[{"ltp":1.29,"id":6670624},{"ltp":4.4,"id":5304142}]}]}
+{"op":"mcm","clk":"7808110102","pt":1540398216827,"mc":[{"id":"1.150068698","rc":[{"ltp":1.38,"id":6670624},{"ltp":4.1,"id":5304142}]}]}
+{"op":"mcm","clk":"7808118852","pt":1540398288797,"mc":[{"id":"1.150068698","rc":[{"ltp":1.39,"id":6670624},{"ltp":3.55,"id":5304142}]}]}
+{"op":"mcm","clk":"7808126422","pt":1540398352530,"mc":[{"id":"1.150068698","rc":[{"ltp":1.34,"id":6670624},{"ltp":3.9,"id":5304142}]}]}
+{"op":"mcm","clk":"7808133499","pt":1540398412422,"mc":[{"id":"1.150068698","rc":[{"ltp":1.31,"id":6670624},{"ltp":4.2,"id":5304142}]}]}
+{"op":"mcm","clk":"7808141677","pt":1540398471856,"mc":[{"id":"1.150068698","rc":[{"ltp":1.4,"id":6670624},{"ltp":3.55,"id":5304142}]}]}
+{"op":"mcm","clk":"7808149376","pt":1540398529184,"mc":[{"id":"1.150068698","rc":[{"ltp":1.43,"id":6670624},{"ltp":3.35,"id":5304142}]}]}
+{"op":"mcm","clk":"7808164200","pt":1540398650039,"mc":[{"id":"1.150068698","rc":[{"ltp":1.36,"id":6670624},{"ltp":3.75,"id":5304142}]}]}
+{"op":"mcm","clk":"7808171860","pt":1540398712189,"mc":[{"id":"1.150068698","rc":[{"ltp":1.33,"id":6670624}]}]}
+{"op":"mcm","clk":"7808197929","pt":1540398831919,"mc":[{"id":"1.150068698","rc":[{"ltp":1.21,"id":6670624}]}]}
+{"op":"mcm","clk":"7808204869","pt":1540398892894,"mc":[{"id":"1.150068698","rc":[{"ltp":1.2,"id":6670624},{"ltp":5.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808211376","pt":1540398952959,"mc":[{"id":"1.150068698","rc":[{"ltp":1.15,"id":6670624},{"ltp":7.6,"id":5304142}]}]}
+{"op":"mcm","clk":"7808218109","pt":1540399012546,"mc":[{"id":"1.150068698","rc":[{"ltp":1.14,"id":6670624},{"ltp":8.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808225126","pt":1540399072691,"mc":[{"id":"1.150068698","rc":[{"ltp":1.13,"id":6670624},{"ltp":8.6,"id":5304142}]}]}
+{"op":"mcm","clk":"7808232247","pt":1540399132359,"mc":[{"id":"1.150068698","rc":[{"ltp":1.12,"id":6670624},{"ltp":9.4,"id":5304142}]}]}
+{"op":"mcm","clk":"7808238776","pt":1540399192653,"mc":[{"id":"1.150068698","rc":[{"ltp":1.14,"id":6670624},{"ltp":6.8,"id":5304142}]}]}
+{"op":"mcm","clk":"7808244894","pt":1540399252103,"mc":[{"id":"1.150068698","rc":[{"ltp":1.11,"id":6670624},{"ltp":10.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808251115","pt":1540399308512,"mc":[{"id":"1.150068698","rc":[{"ltp":1.1,"id":6670624},{"ltp":8.8,"id":5304142}]}]}
+{"op":"mcm","clk":"7808258730","pt":1540399372748,"mc":[{"id":"1.150068698","rc":[{"ltp":1.08,"id":6670624},{"ltp":13.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7808265141","pt":1540399433077,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624},{"ltp":15.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808270354","pt":1540399491816,"mc":[{"id":"1.150068698","rc":[{"ltp":1.08,"id":6670624}]}]}
+{"op":"mcm","clk":"7808275708","pt":1540399552202,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624},{"ltp":15.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7808297787","pt":1540399673015,"mc":[{"id":"1.150068698","rc":[{"ltp":1.09,"id":6670624},{"ltp":13.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7808302371","pt":1540399732281,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624},{"ltp":16.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808306760","pt":1540399792732,"mc":[{"id":"1.150068698","rc":[{"ltp":15.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808310513","pt":1540399852957,"mc":[{"id":"1.150068698","rc":[{"ltp":1.08,"id":6670624},{"ltp":13.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7808315145","pt":1540399911062,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624}]}]}
+{"op":"mcm","clk":"7808319320","pt":1540399970071,"mc":[{"id":"1.150068698","rc":[{"ltp":1.04,"id":6670624},{"ltp":26.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808323377","pt":1540400031544,"mc":[{"id":"1.150068698","rc":[{"ltp":1.08,"id":6670624}]}]}
+{"op":"mcm","clk":"7808327360","pt":1540400093035,"mc":[{"id":"1.150068698","rc":[{"ltp":13.5,"id":5304142}]}]}
+{"op":"mcm","clk":"7808337040","pt":1540400212300,"mc":[{"id":"1.150068698","rc":[{"ltp":1.06,"id":6670624}]}]}
+{"op":"mcm","clk":"7808340109","pt":1540400251674,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624}]}]}
+{"op":"mcm","clk":"7808351995","pt":1540400392104,"mc":[{"id":"1.150068698","rc":[{"ltp":1.04,"id":6670624},{"ltp":18.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808357952","pt":1540400452903,"mc":[{"id":"1.150068698","rc":[{"ltp":1.05,"id":6670624}]}]}
+{"op":"mcm","clk":"7808363727","pt":1540400512022,"mc":[{"id":"1.150068698","rc":[{"ltp":1.07,"id":6670624}]}]}
+{"op":"mcm","clk":"7808383949","pt":1540400572901,"mc":[{"id":"1.150068698","rc":[{"ltp":1.05,"id":6670624},{"ltp":12.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808396145","pt":1540400692654,"mc":[{"id":"1.150068698","rc":[{"ltp":1.01,"id":6670624}]}]}
+{"op":"mcm","clk":"7808401302","pt":1540400752627,"mc":[{"id":"1.150068698","rc":[{"ltp":1.03,"id":6670624},{"ltp":50.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808406304","pt":1540400813048,"mc":[{"id":"1.150068698","rc":[{"ltp":1.02,"id":6670624}]}]}
+{"op":"mcm","clk":"7808416797","pt":1540400927102,"mc":[{"id":"1.150068698","rc":[{"ltp":110.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808422504","pt":1540400989283,"mc":[{"id":"1.150068698","rc":[{"ltp":1.01,"id":6670624}]}]}
+{"op":"mcm","clk":"7808428566","pt":1540401052741,"mc":[{"id":"1.150068698","rc":[{"ltp":100.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808439467","pt":1540401171769,"mc":[{"id":"1.150068698","rc":[{"ltp":1.02,"id":6670624}]}]}
+{"op":"mcm","clk":"7808445119","pt":1540401232693,"mc":[{"id":"1.150068698","rc":[{"ltp":50.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808450647","pt":1540401292889,"mc":[{"id":"1.150068698","rc":[{"ltp":1.03,"id":6670624}]}]}
+{"op":"mcm","clk":"7808455800","pt":1540401349799,"mc":[{"id":"1.150068698","rc":[{"ltp":1.02,"id":6670624}]}]}
+{"op":"mcm","clk":"7808461813","pt":1540401412772,"mc":[{"id":"1.150068698","rc":[{"ltp":1.01,"id":6670624}]}]}
+{"op":"mcm","clk":"7808486473","pt":1540401532140,"mc":[{"id":"1.150068698","rc":[{"ltp":1.02,"id":6670624},{"ltp":100.0,"id":5304142}]}]}
+{"op":"mcm","clk":"7808499212","pt":1540401653011,"mc":[{"id":"1.150068698","rc":[{"ltp":1.01,"id":6670624}]}]}
+{"op":"mcm","clk":"7808511103","pt":1540401772637,"mc":[{"id":"1.150068698","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972092","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:52:00.000Z","suspendTime":"2018-10-24T15:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-24T17:22:46.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":5304142,"name":"Guilherme Clezar"},{"status":"WINNER","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:52:00.000Z","version":2473764916,"name":"Match Odds","eventName":"Clezar v Garin"}}]}

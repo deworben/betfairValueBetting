@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7599715168","pt":1538465436839,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:30:00.000Z","version":2433764014,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"}}]}
+{"op":"mcm","clk":"7599730502","pt":1538465657696,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:30:00.000Z","version":2433764014,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"}}]}
+{"op":"mcm","clk":"7600972743","pt":1538481092770,"mc":[{"id":"1.148976281","rc":[{"ltp":1.47,"id":9630526},{"ltp":3.1,"id":9628416}]}]}
+{"op":"mcm","clk":"7601453842","pt":1538485810746,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:15:00.000Z","version":2433983801,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"}}]}
+{"op":"mcm","clk":"7601505752","pt":1538486182071,"mc":[{"id":"1.148976281","rc":[{"ltp":1.41,"id":9630526}]}]}
+{"op":"mcm","clk":"7601511785","pt":1538486242690,"mc":[{"id":"1.148976281","rc":[{"ltp":1.4,"id":9630526}]}]}
+{"op":"mcm","clk":"7601542760","pt":1538486524470,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:15:00.000Z","version":2433996049,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"}}]}
+{"op":"mcm","clk":"7601572256","pt":1538486794852,"mc":[{"id":"1.148976281","rc":[{"ltp":1.56,"id":9630526},{"ltp":2.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601612849","pt":1538487097643,"mc":[{"id":"1.148976281","rc":[{"ltp":1.45,"id":9630526}]}]}
+{"op":"mcm","clk":"7601629951","pt":1538487271283,"mc":[{"id":"1.148976281","rc":[{"ltp":1.41,"id":9630526}]}]}
+{"op":"mcm","clk":"7601641596","pt":1538487392370,"mc":[{"id":"1.148976281","rc":[{"ltp":1.52,"id":9630526}]}]}
+{"op":"mcm","clk":"7601647313","pt":1538487446698,"mc":[{"id":"1.148976281","rc":[{"ltp":1.5,"id":9630526}]}]}
+{"op":"mcm","clk":"7601654472","pt":1538487517321,"mc":[{"id":"1.148976281","rc":[{"ltp":1.42,"id":9630526},{"ltp":3.4,"id":9628416}]}]}
+{"op":"mcm","clk":"7601660274","pt":1538487577133,"mc":[{"id":"1.148976281","rc":[{"ltp":1.41,"id":9630526},{"ltp":3.45,"id":9628416}]}]}
+{"op":"mcm","clk":"7601665674","pt":1538487631783,"mc":[{"id":"1.148976281","rc":[{"ltp":1.37,"id":9630526},{"ltp":3.75,"id":9628416}]}]}
+{"op":"mcm","clk":"7601671538","pt":1538487695366,"mc":[{"id":"1.148976281","rc":[{"ltp":1.36,"id":9630526}]}]}
+{"op":"mcm","clk":"7601689830","pt":1538487754930,"mc":[{"id":"1.148976281","rc":[{"ltp":1.33,"id":9630526}]}]}
+{"op":"mcm","clk":"7601695697","pt":1538487815229,"mc":[{"id":"1.148976281","rc":[{"ltp":1.28,"id":9630526},{"ltp":4.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601700696","pt":1538487863328,"mc":[{"id":"1.148976281","rc":[{"ltp":1.33,"id":9630526},{"ltp":4.1,"id":9628416}]}]}
+{"op":"mcm","clk":"7601713782","pt":1538487992669,"mc":[{"id":"1.148976281","rc":[{"ltp":1.36,"id":9630526},{"ltp":3.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601719517","pt":1538488055417,"mc":[{"id":"1.148976281","rc":[{"ltp":1.26,"id":9630526}]}]}
+{"op":"mcm","clk":"7601735682","pt":1538488295060,"mc":[{"id":"1.148976281","rc":[{"ltp":1.22,"id":9630526}]}]}
+{"op":"mcm","clk":"7601744429","pt":1538488413344,"mc":[{"id":"1.148976281","rc":[{"ltp":1.39,"id":9630526},{"ltp":3.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601749467","pt":1538488475225,"mc":[{"id":"1.148976281","rc":[{"ltp":1.4,"id":9630526},{"ltp":3.55,"id":9628416}]}]}
+{"op":"mcm","clk":"7601753856","pt":1538488537333,"mc":[{"id":"1.148976281","rc":[{"ltp":1.35,"id":9630526},{"ltp":3.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601779939","pt":1538488717564,"mc":[{"id":"1.148976281","rc":[{"ltp":1.22,"id":9630526},{"ltp":5.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601784607","pt":1538488775375,"mc":[{"id":"1.148976281","rc":[{"ltp":5.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601789752","pt":1538488835072,"mc":[{"id":"1.148976281","rc":[{"ltp":1.18,"id":9630526}]}]}
+{"op":"mcm","clk":"7601793321","pt":1538488883443,"mc":[{"id":"1.148976281","rc":[{"ltp":1.15,"id":9630526},{"ltp":7.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601804692","pt":1538489018603,"mc":[{"id":"1.148976281","rc":[{"ltp":8.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601809033","pt":1538489073432,"mc":[{"id":"1.148976281","rc":[{"ltp":1.14,"id":9630526}]}]}
+{"op":"mcm","clk":"7601813702","pt":1538489126384,"mc":[{"id":"1.148976281","rc":[{"ltp":1.13,"id":9630526},{"ltp":8.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601820729","pt":1538489196920,"mc":[{"id":"1.148976281","rc":[{"ltp":1.14,"id":9630526}]}]}
+{"op":"mcm","clk":"7601827345","pt":1538489253645,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T14:06:35.000Z","version":2434045115,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"},"rc":[{"ltp":1.13,"id":9630526},{"ltp":8.8,"id":9628416}]}]}
+{"op":"mcm","clk":"7601833297","pt":1538489316749,"mc":[{"id":"1.148976281","rc":[{"ltp":1.14,"id":9630526},{"ltp":9.4,"id":9628416}]}]}
+{"op":"mcm","clk":"7601838863","pt":1538489370366,"mc":[{"id":"1.148976281","rc":[{"ltp":1.12,"id":9630526}]}]}
+{"op":"mcm","clk":"7601851954","pt":1538489498570,"mc":[{"id":"1.148976281","rc":[{"ltp":1.19,"id":9630526}]}]}
+{"op":"mcm","clk":"7601870189","pt":1538489557271,"mc":[{"id":"1.148976281","rc":[{"ltp":1.17,"id":9630526},{"ltp":7.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601876511","pt":1538489616108,"mc":[{"id":"1.148976281","rc":[{"ltp":1.15,"id":9630526},{"ltp":8.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601882960","pt":1538489676532,"mc":[{"id":"1.148976281","rc":[{"ltp":1.16,"id":9630526},{"ltp":7.4,"id":9628416}]}]}
+{"op":"mcm","clk":"7601890088","pt":1538489738556,"mc":[{"id":"1.148976281","rc":[{"ltp":1.22,"id":9630526},{"ltp":5.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601896785","pt":1538489798658,"mc":[{"id":"1.148976281","rc":[{"ltp":1.23,"id":9630526},{"ltp":5.4,"id":9628416}]}]}
+{"op":"mcm","clk":"7601903442","pt":1538489856731,"mc":[{"id":"1.148976281","rc":[{"ltp":1.21,"id":9630526},{"ltp":6.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601910632","pt":1538489918688,"mc":[{"id":"1.148976281","rc":[{"ltp":1.11,"id":9630526},{"ltp":10.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7601917338","pt":1538489977492,"mc":[{"id":"1.148976281","rc":[{"ltp":9.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601924423","pt":1538490038621,"mc":[{"id":"1.148976281","rc":[{"ltp":1.09,"id":9630526},{"ltp":10.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601930944","pt":1538490098317,"mc":[{"id":"1.148976281","rc":[{"ltp":1.08,"id":9630526},{"ltp":13.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7601949515","pt":1538490276855,"mc":[{"id":"1.148976281","rc":[{"ltp":1.1,"id":9630526},{"ltp":11.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7601956044","pt":1538490338670,"mc":[{"id":"1.148976281","rc":[{"ltp":1.12,"id":9630526},{"ltp":10.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7601962258","pt":1538490397317,"mc":[{"id":"1.148976281","rc":[{"ltp":8.6,"id":9628416}]}]}
+{"op":"mcm","clk":"7601979946","pt":1538490455333,"mc":[{"id":"1.148976281","rc":[{"ltp":9.4,"id":9628416}]}]}
+{"op":"mcm","clk":"7601986595","pt":1538490518015,"mc":[{"id":"1.148976281","rc":[{"ltp":1.11,"id":9630526},{"ltp":10.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7601992833","pt":1538490577858,"mc":[{"id":"1.148976281","rc":[{"ltp":1.08,"id":9630526}]}]}
+{"op":"mcm","clk":"7601999055","pt":1538490634288,"mc":[{"id":"1.148976281","rc":[{"ltp":13.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7602006711","pt":1538490695541,"mc":[{"id":"1.148976281","rc":[{"ltp":1.09,"id":9630526}]}]}
+{"op":"mcm","clk":"7602013722","pt":1538490758125,"mc":[{"id":"1.148976281","rc":[{"ltp":1.06,"id":9630526}]}]}
+{"op":"mcm","clk":"7602020412","pt":1538490816957,"mc":[{"id":"1.148976281","rc":[{"ltp":1.07,"id":9630526},{"ltp":15.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7602027870","pt":1538490874788,"mc":[{"id":"1.148976281","rc":[{"ltp":1.08,"id":9630526}]}]}
+{"op":"mcm","clk":"7602035412","pt":1538490936920,"mc":[{"id":"1.148976281","rc":[{"ltp":1.03,"id":9630526}]}]}
+{"op":"mcm","clk":"7602042288","pt":1538490993043,"mc":[{"id":"1.148976281","rc":[{"ltp":1.05,"id":9630526}]}]}
+{"op":"mcm","clk":"7602057869","pt":1538491116051,"mc":[{"id":"1.148976281","rc":[{"ltp":1.03,"id":9630526}]}]}
+{"op":"mcm","clk":"7602065346","pt":1538491178629,"mc":[{"id":"1.148976281","rc":[{"ltp":1.08,"id":9630526},{"ltp":17.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7602072758","pt":1538491237809,"mc":[{"id":"1.148976281","rc":[{"ltp":13.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7602079480","pt":1538491298242,"mc":[{"id":"1.148976281","rc":[{"ltp":1.07,"id":9630526}]}]}
+{"op":"mcm","clk":"7602097883","pt":1538491357084,"mc":[{"id":"1.148976281","rc":[{"ltp":1.04,"id":9630526},{"ltp":22.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7602104487","pt":1538491416883,"mc":[{"id":"1.148976281","rc":[{"ltp":1.03,"id":9630526}]}]}
+{"op":"mcm","clk":"7602119050","pt":1538491537908,"mc":[{"id":"1.148976281","rc":[{"ltp":1.02,"id":9630526},{"ltp":34.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7602136992","pt":1538491716176,"mc":[{"id":"1.148976281","rc":[{"ltp":1.03,"id":9630526}]}]}
+{"op":"mcm","clk":"7602142491","pt":1538491778493,"mc":[{"id":"1.148976281","rc":[{"ltp":1.06,"id":9630526},{"ltp":17.5,"id":9628416}]}]}
+{"op":"mcm","clk":"7602147795","pt":1538491834324,"mc":[{"id":"1.148976281","rc":[{"ltp":1.07,"id":9630526}]}]}
+{"op":"mcm","clk":"7602153695","pt":1538491898716,"mc":[{"id":"1.148976281","rc":[{"ltp":1.1,"id":9630526},{"ltp":11.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7602159445","pt":1538491956151,"mc":[{"id":"1.148976281","rc":[{"ltp":1.07,"id":9630526},{"ltp":26.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7602164429","pt":1538492013061,"mc":[{"id":"1.148976281","rc":[{"ltp":1.01,"id":9630526},{"ltp":100.0,"id":9628416}]}]}
+{"op":"mcm","clk":"7602170234","pt":1538492077878,"mc":[{"id":"1.148976281","rc":[{"ltp":1.03,"id":9630526}]}]}
+{"op":"mcm","clk":"7602175543","pt":1538492138596,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"ACTIVE","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T14:06:35.000Z","version":2434095032,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"},"rc":[{"ltp":1.01,"id":9630526}]}]}
+{"op":"mcm","clk":"7602175800","pt":1538492141723,"mc":[{"id":"1.148976281","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T14:55:38.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9630526,"name":"D Chiesa"},{"status":"LOSER","sortPriority":2,"id":9628416,"name":"C Ferrando"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T14:06:35.000Z","version":2434095041,"name":"Match Odds","eventName":"D Chiesa v C Ferrando"}}]}

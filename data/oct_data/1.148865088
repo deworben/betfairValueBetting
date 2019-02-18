@@ -1,0 +1,118 @@
+{"op":"mcm","clk":"7524798989","pt":1538256042761,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-09-30T18:00:00.000Z","suspendTime":"2018-09-30T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-09-30T18:00:00.000Z","version":2428940795,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7524850430","pt":1538256426278,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-09-30T18:00:00.000Z","suspendTime":"2018-09-30T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-09-30T18:00:00.000Z","version":2428940795,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7525786486","pt":1538266810488,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T18:00:00.000Z","suspendTime":"2018-10-01T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T18:00:00.000Z","version":2429211737,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7536016147","pt":1538353194869,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:00:00.000Z","suspendTime":"2018-10-02T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:00:00.000Z","version":2432457574,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7538331086","pt":1538390554212,"mc":[{"id":"1.148865088","rc":[{"ltp":2.04,"id":6064287},{"ltp":1.97,"id":3103121}]}]}
+{"op":"mcm","clk":"7538642711","pt":1538393795477,"mc":[{"id":"1.148865088","rc":[{"ltp":1.83,"id":3103121}]}]}
+{"op":"mcm","clk":"7538766270","pt":1538395040698,"mc":[{"id":"1.148865088","rc":[{"ltp":1.81,"id":3103121}]}]}
+{"op":"mcm","clk":"7541722800","pt":1538419363153,"mc":[{"id":"1.148865088","rc":[{"ltp":1.86,"id":3103121}]}]}
+{"op":"mcm","clk":"7541811812","pt":1538420027011,"mc":[{"id":"1.148865088","rc":[{"ltp":2.22,"id":6064287},{"ltp":1.81,"id":3103121}]}]}
+{"op":"mcm","clk":"7542447395","pt":1538425524616,"mc":[{"id":"1.148865088","rc":[{"ltp":1.74,"id":3103121}]}]}
+{"op":"mcm","clk":"7542811822","pt":1538431583907,"mc":[{"id":"1.148865088","rc":[{"ltp":1.75,"id":3103121}]}]}
+{"op":"mcm","clk":"7543179511","pt":1538437170881,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T19:00:00.000Z","suspendTime":"2018-10-02T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T19:00:00.000Z","version":2433602293,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7543702907","pt":1538448021435,"mc":[{"id":"1.148865088","rc":[{"ltp":1.76,"id":3103121}]}]}
+{"op":"mcm","clk":"7544058415","pt":1538457367369,"mc":[{"id":"1.148865088","rc":[{"ltp":1.77,"id":3103121}]}]}
+{"op":"mcm","clk":"7545233620","pt":1538478216595,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":3103121}]}]}
+{"op":"mcm","clk":"7545318768","pt":1538479347463,"mc":[{"id":"1.148865088","rc":[{"ltp":2.1,"id":6064287},{"ltp":1.91,"id":3103121}]}]}
+{"op":"mcm","clk":"7545343369","pt":1538479820306,"mc":[{"id":"1.148865088","rc":[{"ltp":1.78,"id":3103121}]}]}
+{"op":"mcm","clk":"7545393709","pt":1538480531619,"mc":[{"id":"1.148865088","rc":[{"ltp":2.12,"id":6064287}]}]}
+{"op":"mcm","clk":"7545407102","pt":1538480740593,"mc":[{"id":"1.148865088","rc":[{"ltp":2.14,"id":6064287}]}]}
+{"op":"mcm","clk":"7545741301","pt":1538485229677,"mc":[{"id":"1.148865088","rc":[{"ltp":1.9,"id":3103121}]}]}
+{"op":"mcm","clk":"7545935944","pt":1538487377342,"mc":[{"id":"1.148865088","rc":[{"ltp":1.81,"id":3103121}]}]}
+{"op":"mcm","clk":"7546801345","pt":1538496026037,"mc":[{"id":"1.148865088","rc":[{"ltp":1.79,"id":3103121}]}]}
+{"op":"mcm","clk":"7546811209","pt":1538496162570,"mc":[{"id":"1.148865088","rc":[{"ltp":1.8,"id":3103121}]}]}
+{"op":"mcm","clk":"7546879747","pt":1538496879234,"mc":[{"id":"1.148865088","rc":[{"ltp":2.2,"id":6064287},{"ltp":1.82,"id":3103121}]}]}
+{"op":"mcm","clk":"7546954605","pt":1538497833011,"mc":[{"id":"1.148865088","rc":[{"ltp":1.79,"id":3103121}]}]}
+{"op":"mcm","clk":"7547000893","pt":1538498379688,"mc":[{"id":"1.148865088","rc":[{"ltp":1.82,"id":3103121}]}]}
+{"op":"mcm","clk":"7547077275","pt":1538499280657,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:50:00.000Z","suspendTime":"2018-10-02T18:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:50:00.000Z","version":2434209176,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7547103656","pt":1538499631414,"mc":[{"id":"1.148865088","rc":[{"ltp":2.14,"id":6064287}]}]}
+{"op":"mcm","clk":"7547108921","pt":1538499695157,"mc":[{"id":"1.148865088","rc":[{"ltp":2.12,"id":6064287}]}]}
+{"op":"mcm","clk":"7547113571","pt":1538499757831,"mc":[{"id":"1.148865088","rc":[{"ltp":1.9,"id":3103121}]}]}
+{"op":"mcm","clk":"7547121671","pt":1538499883166,"mc":[{"id":"1.148865088","rc":[{"ltp":2.08,"id":6064287},{"ltp":1.94,"id":3103121}]}]}
+{"op":"mcm","clk":"7547125757","pt":1538499941986,"mc":[{"id":"1.148865088","rc":[{"ltp":2.04,"id":6064287}]}]}
+{"op":"mcm","clk":"7547130217","pt":1538500004715,"mc":[{"id":"1.148865088","rc":[{"ltp":2.02,"id":6064287},{"ltp":1.98,"id":3103121}]}]}
+{"op":"mcm","clk":"7547154980","pt":1538500187680,"mc":[{"id":"1.148865088","rc":[{"ltp":1.95,"id":3103121}]}]}
+{"op":"mcm","clk":"7547160172","pt":1538500248281,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287},{"ltp":2.14,"id":3103121}]}]}
+{"op":"mcm","clk":"7547164984","pt":1538500307791,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287},{"ltp":2.12,"id":3103121}]}]}
+{"op":"mcm","clk":"7547169839","pt":1538500367944,"mc":[{"id":"1.148865088","rc":[{"ltp":1.91,"id":6064287},{"ltp":2.16,"id":3103121}]}]}
+{"op":"mcm","clk":"7547174370","pt":1538500428075,"mc":[{"id":"1.148865088","rc":[{"ltp":1.9,"id":6064287},{"ltp":2.1,"id":3103121}]}]}
+{"op":"mcm","clk":"7547184397","pt":1538500548096,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547198472","pt":1538500708228,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287}]}]}
+{"op":"mcm","clk":"7547204490","pt":1538500779757,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287},{"ltp":2.14,"id":3103121}]}]}
+{"op":"mcm","clk":"7547208471","pt":1538500831656,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287},{"ltp":2.12,"id":3103121}]}]}
+{"op":"mcm","clk":"7547234361","pt":1538501013321,"mc":[{"id":"1.148865088","rc":[{"ltp":1.9,"id":6064287}]}]}
+{"op":"mcm","clk":"7547244404","pt":1538501144842,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287},{"ltp":2.14,"id":3103121}]}]}
+{"op":"mcm","clk":"7547249590","pt":1538501206251,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547253873","pt":1538501261157,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287}]}]}
+{"op":"mcm","clk":"7547258532","pt":1538501327215,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547266266","pt":1538501445048,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547270078","pt":1538501507952,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547273686","pt":1538501565807,"mc":[{"id":"1.148865088","rc":[{"ltp":1.86,"id":6064287}]}]}
+{"op":"mcm","clk":"7547277572","pt":1538501626320,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547282889","pt":1538501717172,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547315016","pt":1538501994109,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287}]}]}
+{"op":"mcm","clk":"7547346842","pt":1538502407313,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547448486","pt":1538503517628,"mc":[{"id":"1.148865088","rc":[{"ltp":2.12,"id":3103121}]}]}
+{"op":"mcm","clk":"7547484600","pt":1538503788207,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:25:00.000Z","suspendTime":"2018-10-02T18:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:25:00.000Z","version":2434337564,"name":"Match Odds","eventName":"Evans v Duckworth"},"rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547498989","pt":1538503965702,"mc":[{"id":"1.148865088","rc":[{"ltp":1.9,"id":6064287},{"ltp":2.14,"id":3103121}]}]}
+{"op":"mcm","clk":"7547509687","pt":1538504078741,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:09:00.000Z","suspendTime":"2018-10-02T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:09:00.000Z","version":2434340809,"name":"Match Odds","eventName":"Evans v Duckworth"},"rc":[{"ltp":1.88,"id":6064287},{"ltp":2.12,"id":3103121}]}]}
+{"op":"mcm","clk":"7547516838","pt":1538504148059,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547521808","pt":1538504204078,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547526847","pt":1538504260121,"mc":[{"id":"1.148865088","rc":[{"ltp":1.89,"id":6064287}]}]}
+{"op":"mcm","clk":"7547533214","pt":1538504326012,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547539545","pt":1538504387529,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287}]}]}
+{"op":"mcm","clk":"7547545689","pt":1538504445524,"mc":[{"id":"1.148865088","rc":[{"ltp":1.87,"id":6064287}]}]}
+{"op":"mcm","clk":"7547552621","pt":1538504508088,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:09:00.000Z","suspendTime":"2018-10-02T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:09:00.000Z","version":2434347091,"name":"Match Odds","eventName":"Evans v Duckworth"},"rc":[{"ltp":1.89,"id":6064287}]}]}
+{"op":"mcm","clk":"7547575988","pt":1538504626102,"mc":[{"id":"1.148865088","rc":[{"ltp":2.04,"id":6064287},{"ltp":1.97,"id":3103121}]}]}
+{"op":"mcm","clk":"7547581682","pt":1538504688192,"mc":[{"id":"1.148865088","rc":[{"ltp":1.85,"id":6064287},{"ltp":2.16,"id":3103121}]}]}
+{"op":"mcm","clk":"7547587628","pt":1538504747505,"mc":[{"id":"1.148865088","rc":[{"ltp":1.95,"id":6064287},{"ltp":2.06,"id":3103121}]}]}
+{"op":"mcm","clk":"7547593064","pt":1538504807934,"mc":[{"id":"1.148865088","rc":[{"ltp":1.85,"id":6064287},{"ltp":2.16,"id":3103121}]}]}
+{"op":"mcm","clk":"7547598007","pt":1538504867868,"mc":[{"id":"1.148865088","rc":[{"ltp":1.72,"id":6064287}]}]}
+{"op":"mcm","clk":"7547602901","pt":1538504924112,"mc":[{"id":"1.148865088","rc":[{"ltp":1.78,"id":6064287},{"ltp":2.22,"id":3103121}]}]}
+{"op":"mcm","clk":"7547608398","pt":1538504987550,"mc":[{"id":"1.148865088","rc":[{"ltp":1.94,"id":6064287},{"ltp":2.06,"id":3103121}]}]}
+{"op":"mcm","clk":"7547614866","pt":1538505047805,"mc":[{"id":"1.148865088","rc":[{"ltp":1.88,"id":6064287},{"ltp":2.16,"id":3103121}]}]}
+{"op":"mcm","clk":"7547620366","pt":1538505106412,"mc":[{"id":"1.148865088","rc":[{"ltp":1.93,"id":6064287},{"ltp":2.08,"id":3103121}]}]}
+{"op":"mcm","clk":"7547626342","pt":1538505168106,"mc":[{"id":"1.148865088","rc":[{"ltp":1.76,"id":6064287},{"ltp":2.3,"id":3103121}]}]}
+{"op":"mcm","clk":"7547631982","pt":1538505223280,"mc":[{"id":"1.148865088","rc":[{"ltp":1.74,"id":6064287},{"ltp":2.28,"id":3103121}]}]}
+{"op":"mcm","clk":"7547638328","pt":1538505284589,"mc":[{"id":"1.148865088","rc":[{"ltp":2.32,"id":3103121}]}]}
+{"op":"mcm","clk":"7547645732","pt":1538505347477,"mc":[{"id":"1.148865088","rc":[{"ltp":1.65,"id":6064287},{"ltp":2.46,"id":3103121}]}]}
+{"op":"mcm","clk":"7547651996","pt":1538505407105,"mc":[{"id":"1.148865088","rc":[{"ltp":1.54,"id":6064287},{"ltp":2.78,"id":3103121}]}]}
+{"op":"mcm","clk":"7547670360","pt":1538505468245,"mc":[{"id":"1.148865088","rc":[{"ltp":1.72,"id":6064287},{"ltp":2.38,"id":3103121}]}]}
+{"op":"mcm","clk":"7547676198","pt":1538505527862,"mc":[{"id":"1.148865088","rc":[{"ltp":1.86,"id":6064287},{"ltp":2.16,"id":3103121}]}]}
+{"op":"mcm","clk":"7547682445","pt":1538505587634,"mc":[{"id":"1.148865088","rc":[{"ltp":1.78,"id":6064287},{"ltp":2.28,"id":3103121}]}]}
+{"op":"mcm","clk":"7547688991","pt":1538505648234,"mc":[{"id":"1.148865088","rc":[{"ltp":1.83,"id":6064287},{"ltp":2.12,"id":3103121}]}]}
+{"op":"mcm","clk":"7547695739","pt":1538505707698,"mc":[{"id":"1.148865088","rc":[{"ltp":1.93,"id":6064287},{"ltp":2.06,"id":3103121}]}]}
+{"op":"mcm","clk":"7547702461","pt":1538505768204,"mc":[{"id":"1.148865088","rc":[{"ltp":2.84,"id":6064287},{"ltp":1.54,"id":3103121}]}]}
+{"op":"mcm","clk":"7547709320","pt":1538505828029,"mc":[{"id":"1.148865088","rc":[{"ltp":2.98,"id":6064287},{"ltp":1.52,"id":3103121}]}]}
+{"op":"mcm","clk":"7547716832","pt":1538505886807,"mc":[{"id":"1.148865088","rc":[{"ltp":2.96,"id":6064287}]}]}
+{"op":"mcm","clk":"7547725757","pt":1538505948257,"mc":[{"id":"1.148865088","rc":[{"ltp":3.2,"id":6064287},{"ltp":1.46,"id":3103121}]}]}
+{"op":"mcm","clk":"7547734259","pt":1538506008213,"mc":[{"id":"1.148865088","rc":[{"ltp":3.4,"id":6064287},{"ltp":1.43,"id":3103121}]}]}
+{"op":"mcm","clk":"7547743199","pt":1538506067384,"mc":[{"id":"1.148865088","rc":[{"ltp":3.1,"id":6064287},{"ltp":1.45,"id":3103121}]}]}
+{"op":"mcm","clk":"7547752560","pt":1538506128044,"mc":[{"id":"1.148865088","rc":[{"ltp":1.37,"id":3103121}]}]}
+{"op":"mcm","clk":"7547761855","pt":1538506188231,"mc":[{"id":"1.148865088","rc":[{"ltp":4.8,"id":6064287},{"ltp":1.28,"id":3103121}]}]}
+{"op":"mcm","clk":"7547770620","pt":1538506245538,"mc":[{"id":"1.148865088","rc":[{"ltp":4.5,"id":6064287}]}]}
+{"op":"mcm","clk":"7547801602","pt":1538506367295,"mc":[{"id":"1.148865088","rc":[{"ltp":1.26,"id":3103121}]}]}
+{"op":"mcm","clk":"7547811911","pt":1538506428104,"mc":[{"id":"1.148865088","rc":[{"ltp":4.8,"id":6064287}]}]}
+{"op":"mcm","clk":"7547830534","pt":1538506547779,"mc":[{"id":"1.148865088","rc":[{"ltp":4.7,"id":6064287},{"ltp":1.29,"id":3103121}]}]}
+{"op":"mcm","clk":"7547839903","pt":1538506608140,"mc":[{"id":"1.148865088","rc":[{"ltp":4.1,"id":6064287},{"ltp":1.31,"id":3103121}]}]}
+{"op":"mcm","clk":"7547849148","pt":1538506668192,"mc":[{"id":"1.148865088","rc":[{"ltp":1.29,"id":3103121}]}]}
+{"op":"mcm","clk":"7547858190","pt":1538506728101,"mc":[{"id":"1.148865088","rc":[{"ltp":4.5,"id":6064287},{"ltp":1.28,"id":3103121}]}]}
+{"op":"mcm","clk":"7547867404","pt":1538506786772,"mc":[{"id":"1.148865088","rc":[{"ltp":4.8,"id":6064287},{"ltp":1.25,"id":3103121}]}]}
+{"op":"mcm","clk":"7547877386","pt":1538506846811,"mc":[{"id":"1.148865088","rc":[{"ltp":5.1,"id":6064287},{"ltp":1.24,"id":3103121}]}]}
+{"op":"mcm","clk":"7547897493","pt":1538506968268,"mc":[{"id":"1.148865088","rc":[{"ltp":4.2,"id":6064287},{"ltp":1.3,"id":3103121}]}]}
+{"op":"mcm","clk":"7547907373","pt":1538507028208,"mc":[{"id":"1.148865088","rc":[{"ltp":1.33,"id":3103121}]}]}
+{"op":"mcm","clk":"7547917663","pt":1538507087963,"mc":[{"id":"1.148865088","rc":[{"ltp":1.31,"id":3103121}]}]}
+{"op":"mcm","clk":"7547927639","pt":1538507146996,"mc":[{"id":"1.148865088","rc":[{"ltp":1.26,"id":3103121}]}]}
+{"op":"mcm","clk":"7547937218","pt":1538507207180,"mc":[{"id":"1.148865088","rc":[{"ltp":5.1,"id":6064287},{"ltp":1.23,"id":3103121}]}]}
+{"op":"mcm","clk":"7547959186","pt":1538507268122,"mc":[{"id":"1.148865088","rc":[{"ltp":1.24,"id":3103121}]}]}
+{"op":"mcm","clk":"7547969673","pt":1538507327671,"mc":[{"id":"1.148865088","rc":[{"ltp":5.3,"id":6064287},{"ltp":1.23,"id":3103121}]}]}
+{"op":"mcm","clk":"7547980004","pt":1538507388167,"mc":[{"id":"1.148865088","rc":[{"ltp":13.5,"id":6064287},{"ltp":1.06,"id":3103121}]}]}
+{"op":"mcm","clk":"7547990795","pt":1538507448127,"mc":[{"id":"1.148865088","rc":[{"ltp":17.5,"id":6064287},{"ltp":1.07,"id":3103121}]}]}
+{"op":"mcm","clk":"7548001414","pt":1538507507464,"mc":[{"id":"1.148865088","rc":[{"ltp":15.0,"id":6064287},{"ltp":1.04,"id":3103121}]}]}
+{"op":"mcm","clk":"7548011855","pt":1538507568122,"mc":[{"id":"1.148865088","rc":[{"ltp":23.0,"id":6064287},{"ltp":1.07,"id":3103121}]}]}
+{"op":"mcm","clk":"7548021849","pt":1538507626251,"mc":[{"id":"1.148865088","rc":[{"ltp":34.0,"id":6064287},{"ltp":1.04,"id":3103121}]}]}
+{"op":"mcm","clk":"7548032291","pt":1538507688255,"mc":[{"id":"1.148865088","rc":[{"ltp":50.0,"id":6064287},{"ltp":1.02,"id":3103121}]}]}
+{"op":"mcm","clk":"7548042493","pt":1538507748184,"mc":[{"id":"1.148865088","rc":[{"ltp":100.0,"id":6064287},{"ltp":1.01,"id":3103121}]}]}
+{"op":"mcm","clk":"7548052239","pt":1538507807939,"mc":[{"id":"1.148865088","rc":[{"ltp":190.0,"id":6064287}]}]}
+{"op":"mcm","clk":"7548092634","pt":1538508047234,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:09:00.000Z","suspendTime":"2018-10-02T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"ACTIVE","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:09:00.000Z","version":2434506790,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}
+{"op":"mcm","clk":"7548092936","pt":1538508048874,"mc":[{"id":"1.148865088","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28931356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:09:00.000Z","suspendTime":"2018-10-02T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T19:20:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":3103121,"name":"Daniel Evans"},{"status":"LOSER","sortPriority":2,"id":6064287,"name":"James Duckworth"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:09:00.000Z","version":2434507378,"name":"Match Odds","eventName":"Evans v Duckworth"}}]}

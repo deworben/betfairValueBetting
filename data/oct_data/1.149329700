@@ -1,0 +1,88 @@
+{"op":"mcm","clk":"7668792289","pt":1539111025630,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447717356,"name":"Match Odds","eventName":"Krawietz v Moraing"}}]}
+{"op":"mcm","clk":"7668897327","pt":1539111686363,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447717356,"name":"Match Odds","eventName":"Krawietz v Moraing"}}]}
+{"op":"mcm","clk":"7670118436","pt":1539130777621,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:00:00.000Z","suspendTime":"2018-10-11T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2448046071,"name":"Match Odds","eventName":"Krawietz v Moraing"}}]}
+{"op":"mcm","clk":"7670118560","pt":1539130780617,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:00:00.000Z","suspendTime":"2018-10-11T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:00:00.000Z","version":2448046071,"name":"Match Odds","eventName":"Krawietz v Moraing"}}]}
+{"op":"mcm","clk":"7670566505","pt":1539147557881,"mc":[{"id":"1.149329700","rc":[{"ltp":2.66,"id":4061310}]}]}
+{"op":"mcm","clk":"7670619749","pt":1539149178518,"mc":[{"id":"1.149329700","rc":[{"ltp":2.64,"id":4061310},{"ltp":1.6,"id":8596348}]}]}
+{"op":"mcm","clk":"7671078274","pt":1539160822110,"mc":[{"id":"1.149329700","rc":[{"ltp":2.52,"id":4061310}]}]}
+{"op":"mcm","clk":"7672848875","pt":1539186086981,"mc":[{"id":"1.149329700","rc":[{"ltp":2.54,"id":4061310}]}]}
+{"op":"mcm","clk":"7673591472","pt":1539197815085,"mc":[{"id":"1.149329700","rc":[{"ltp":2.5,"id":4061310}]}]}
+{"op":"mcm","clk":"7674428158","pt":1539209795642,"mc":[{"id":"1.149329700","rc":[{"ltp":2.66,"id":4061310}]}]}
+{"op":"mcm","clk":"7674896103","pt":1539217827093,"mc":[{"id":"1.149329700","rc":[{"ltp":2.68,"id":4061310},{"ltp":1.59,"id":8596348}]}]}
+{"op":"mcm","clk":"7674899319","pt":1539217884714,"mc":[{"id":"1.149329700","rc":[{"ltp":2.72,"id":4061310},{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676086397","pt":1539236775454,"mc":[{"id":"1.149329700","rc":[{"ltp":2.62,"id":4061310}]}]}
+{"op":"mcm","clk":"7676177669","pt":1539238210725,"mc":[{"id":"1.149329700","rc":[{"ltp":1.56,"id":8596348}]}]}
+{"op":"mcm","clk":"7676219200","pt":1539238801601,"mc":[{"id":"1.149329700","rc":[{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676553104","pt":1539245252774,"mc":[{"id":"1.149329700","rc":[{"ltp":2.64,"id":4061310}]}]}
+{"op":"mcm","clk":"7676685242","pt":1539247528444,"mc":[{"id":"1.149329700","rc":[{"ltp":1.59,"id":8596348}]}]}
+{"op":"mcm","clk":"7676695020","pt":1539247762202,"mc":[{"id":"1.149329700","rc":[{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676711778","pt":1539248124910,"mc":[{"id":"1.149329700","rc":[{"ltp":2.58,"id":4061310},{"ltp":1.63,"id":8596348}]}]}
+{"op":"mcm","clk":"7676731051","pt":1539248371256,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T08:57:00.000Z","suspendTime":"2018-10-11T08:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T08:57:00.000Z","version":2449498320,"name":"Match Odds","eventName":"Krawietz v Moraing"},"rc":[{"ltp":1.61,"id":8596348}]}]}
+{"op":"mcm","clk":"7676746165","pt":1539248671543,"mc":[{"id":"1.149329700","rc":[{"ltp":1.63,"id":8596348}]}]}
+{"op":"mcm","clk":"7676754732","pt":1539248855848,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T08:57:00.000Z","suspendTime":"2018-10-11T08:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T08:57:00.000Z","version":2449502588,"name":"Match Odds","eventName":"Krawietz v Moraing"},"rc":[{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676759941","pt":1539248978977,"mc":[{"id":"1.149329700","rc":[{"ltp":2.78,"id":4061310},{"ltp":1.56,"id":8596348}]}]}
+{"op":"mcm","clk":"7676765148","pt":1539249098632,"mc":[{"id":"1.149329700","rc":[{"ltp":2.54,"id":4061310},{"ltp":1.65,"id":8596348}]}]}
+{"op":"mcm","clk":"7676775775","pt":1539249154583,"mc":[{"id":"1.149329700","rc":[{"ltp":2.36,"id":4061310},{"ltp":1.76,"id":8596348}]}]}
+{"op":"mcm","clk":"7676778198","pt":1539249214993,"mc":[{"id":"1.149329700","rc":[{"ltp":2.26,"id":4061310},{"ltp":1.8,"id":8596348}]}]}
+{"op":"mcm","clk":"7676780625","pt":1539249277440,"mc":[{"id":"1.149329700","rc":[{"ltp":1.66,"id":8596348}]}]}
+{"op":"mcm","clk":"7676783082","pt":1539249338826,"mc":[{"id":"1.149329700","rc":[{"ltp":2.56,"id":4061310},{"ltp":1.64,"id":8596348}]}]}
+{"op":"mcm","clk":"7676785145","pt":1539249395959,"mc":[{"id":"1.149329700","rc":[{"ltp":1.65,"id":8596348}]}]}
+{"op":"mcm","clk":"7676787453","pt":1539249457429,"mc":[{"id":"1.149329700","rc":[{"ltp":2.72,"id":4061310},{"ltp":1.54,"id":8596348}]}]}
+{"op":"mcm","clk":"7676789928","pt":1539249517902,"mc":[{"id":"1.149329700","rc":[{"ltp":2.5,"id":4061310},{"ltp":1.66,"id":8596348}]}]}
+{"op":"mcm","clk":"7676792415","pt":1539249578874,"mc":[{"id":"1.149329700","rc":[{"ltp":3.25,"id":4061310},{"ltp":1.46,"id":8596348}]}]}
+{"op":"mcm","clk":"7676794707","pt":1539249637448,"mc":[{"id":"1.149329700","rc":[{"ltp":1.53,"id":8596348}]}]}
+{"op":"mcm","clk":"7676797699","pt":1539249698627,"mc":[{"id":"1.149329700","rc":[{"ltp":2.46,"id":4061310},{"ltp":1.68,"id":8596348}]}]}
+{"op":"mcm","clk":"7676801055","pt":1539249758983,"mc":[{"id":"1.149329700","rc":[{"ltp":2.84,"id":4061310},{"ltp":1.54,"id":8596348}]}]}
+{"op":"mcm","clk":"7676802688","pt":1539249795488,"mc":[{"id":"1.149329700","rc":[{"ltp":1.56,"id":8596348}]}]}
+{"op":"mcm","clk":"7676809097","pt":1539249937575,"mc":[{"id":"1.149329700","rc":[{"ltp":1.67,"id":8596348}]}]}
+{"op":"mcm","clk":"7676811575","pt":1539249998932,"mc":[{"id":"1.149329700","rc":[{"ltp":2.54,"id":4061310},{"ltp":1.8,"id":8596348}]}]}
+{"op":"mcm","clk":"7676822931","pt":1539250058937,"mc":[{"id":"1.149329700","rc":[{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676825589","pt":1539250117488,"mc":[{"id":"1.149329700","rc":[{"ltp":2.78,"id":4061310},{"ltp":1.56,"id":8596348}]}]}
+{"op":"mcm","clk":"7676828502","pt":1539250178392,"mc":[{"id":"1.149329700","rc":[{"ltp":1.58,"id":8596348}]}]}
+{"op":"mcm","clk":"7676831177","pt":1539250238427,"mc":[{"id":"1.149329700","rc":[{"ltp":2.82,"id":4061310},{"ltp":1.55,"id":8596348}]}]}
+{"op":"mcm","clk":"7676833899","pt":1539250298444,"mc":[{"id":"1.149329700","rc":[{"ltp":3.9,"id":4061310},{"ltp":1.34,"id":8596348}]}]}
+{"op":"mcm","clk":"7676836637","pt":1539250358816,"mc":[{"id":"1.149329700","rc":[{"ltp":1.4,"id":8596348}]}]}
+{"op":"mcm","clk":"7676838973","pt":1539250416225,"mc":[{"id":"1.149329700","rc":[{"ltp":3.1,"id":4061310},{"ltp":1.47,"id":8596348}]}]}
+{"op":"mcm","clk":"7676841653","pt":1539250478916,"mc":[{"id":"1.149329700","rc":[{"ltp":1.46,"id":8596348}]}]}
+{"op":"mcm","clk":"7676844295","pt":1539250538448,"mc":[{"id":"1.149329700","rc":[{"ltp":1.45,"id":8596348}]}]}
+{"op":"mcm","clk":"7676847124","pt":1539250598810,"mc":[{"id":"1.149329700","rc":[{"ltp":6.4,"id":4061310},{"ltp":1.18,"id":8596348}]}]}
+{"op":"mcm","clk":"7676849511","pt":1539250656173,"mc":[{"id":"1.149329700","rc":[{"ltp":5.6,"id":4061310},{"ltp":1.3,"id":8596348}]}]}
+{"op":"mcm","clk":"7676851917","pt":1539250705740,"mc":[{"id":"1.149329700","rc":[{"ltp":1.22,"id":8596348}]}]}
+{"op":"mcm","clk":"7676855235","pt":1539250776824,"mc":[{"id":"1.149329700","rc":[{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676858281","pt":1539250838985,"mc":[{"id":"1.149329700","rc":[{"ltp":1.18,"id":8596348}]}]}
+{"op":"mcm","clk":"7676860734","pt":1539250898487,"mc":[{"id":"1.149329700","rc":[{"ltp":6.4,"id":4061310}]}]}
+{"op":"mcm","clk":"7676871752","pt":1539250958247,"mc":[{"id":"1.149329700","rc":[{"ltp":6.0,"id":4061310},{"ltp":1.2,"id":8596348}]}]}
+{"op":"mcm","clk":"7676873976","pt":1539251015424,"mc":[{"id":"1.149329700","rc":[{"ltp":6.8,"id":4061310},{"ltp":1.17,"id":8596348}]}]}
+{"op":"mcm","clk":"7676876454","pt":1539251076759,"mc":[{"id":"1.149329700","rc":[{"ltp":1.21,"id":8596348}]}]}
+{"op":"mcm","clk":"7676879141","pt":1539251138333,"mc":[{"id":"1.149329700","rc":[{"ltp":1.19,"id":8596348}]}]}
+{"op":"mcm","clk":"7676881646","pt":1539251198610,"mc":[{"id":"1.149329700","rc":[{"ltp":1.18,"id":8596348}]}]}
+{"op":"mcm","clk":"7676883963","pt":1539251258562,"mc":[{"id":"1.149329700","rc":[{"ltp":7.0,"id":4061310},{"ltp":1.16,"id":8596348}]}]}
+{"op":"mcm","clk":"7676886334","pt":1539251318117,"mc":[{"id":"1.149329700","rc":[{"ltp":1.2,"id":8596348}]}]}
+{"op":"mcm","clk":"7676888572","pt":1539251371639,"mc":[{"id":"1.149329700","rc":[{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676891555","pt":1539251438502,"mc":[{"id":"1.149329700","rc":[{"ltp":5.2,"id":4061310},{"ltp":1.21,"id":8596348}]}]}
+{"op":"mcm","clk":"7676894647","pt":1539251498776,"mc":[{"id":"1.149329700","rc":[{"ltp":5.1,"id":4061310},{"ltp":1.22,"id":8596348}]}]}
+{"op":"mcm","clk":"7676897661","pt":1539251558743,"mc":[{"id":"1.149329700","rc":[{"ltp":5.0,"id":4061310},{"ltp":1.25,"id":8596348}]}]}
+{"op":"mcm","clk":"7676900679","pt":1539251618936,"mc":[{"id":"1.149329700","rc":[{"ltp":4.8,"id":4061310},{"ltp":1.26,"id":8596348}]}]}
+{"op":"mcm","clk":"7676903570","pt":1539251677287,"mc":[{"id":"1.149329700","rc":[{"ltp":6.0,"id":4061310},{"ltp":1.21,"id":8596348}]}]}
+{"op":"mcm","clk":"7676906669","pt":1539251736706,"mc":[{"id":"1.149329700","rc":[{"ltp":7.8,"id":4061310},{"ltp":1.16,"id":8596348}]}]}
+{"op":"mcm","clk":"7676909780","pt":1539251798470,"mc":[{"id":"1.149329700","rc":[{"ltp":5.0,"id":4061310},{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676921753","pt":1539251858165,"mc":[{"id":"1.149329700","rc":[{"ltp":5.3,"id":4061310},{"ltp":1.26,"id":8596348}]}]}
+{"op":"mcm","clk":"7676925580","pt":1539251918012,"mc":[{"id":"1.149329700","rc":[{"ltp":5.0,"id":4061310},{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676929181","pt":1539251978775,"mc":[{"id":"1.149329700","rc":[{"ltp":6.0,"id":4061310},{"ltp":1.19,"id":8596348}]}]}
+{"op":"mcm","clk":"7676932633","pt":1539252038138,"mc":[{"id":"1.149329700","rc":[{"ltp":1.25,"id":8596348}]}]}
+{"op":"mcm","clk":"7676936673","pt":1539252098981,"mc":[{"id":"1.149329700","rc":[{"ltp":5.1,"id":4061310},{"ltp":1.26,"id":8596348}]}]}
+{"op":"mcm","clk":"7676940763","pt":1539252158648,"mc":[{"id":"1.149329700","rc":[{"ltp":1.24,"id":8596348}]}]}
+{"op":"mcm","clk":"7676944654","pt":1539252218820,"mc":[{"id":"1.149329700","rc":[{"ltp":5.8,"id":4061310},{"ltp":1.2,"id":8596348}]}]}
+{"op":"mcm","clk":"7676948027","pt":1539252278901,"mc":[{"id":"1.149329700","rc":[{"ltp":5.0,"id":4061310},{"ltp":1.26,"id":8596348}]}]}
+{"op":"mcm","clk":"7676951650","pt":1539252338958,"mc":[{"id":"1.149329700","rc":[{"ltp":5.3,"id":4061310},{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676955340","pt":1539252397804,"mc":[{"id":"1.149329700","rc":[{"ltp":1.18,"id":8596348}]}]}
+{"op":"mcm","clk":"7676959080","pt":1539252457580,"mc":[{"id":"1.149329700","rc":[{"ltp":5.0,"id":4061310},{"ltp":1.25,"id":8596348}]}]}
+{"op":"mcm","clk":"7676962997","pt":1539252518966,"mc":[{"id":"1.149329700","rc":[{"ltp":4.2,"id":4061310},{"ltp":1.27,"id":8596348}]}]}
+{"op":"mcm","clk":"7676966448","pt":1539252578758,"mc":[{"id":"1.149329700","rc":[{"ltp":1.23,"id":8596348}]}]}
+{"op":"mcm","clk":"7676970893","pt":1539252638869,"mc":[{"id":"1.149329700","rc":[{"ltp":6.0,"id":4061310},{"ltp":1.21,"id":8596348}]}]}
+{"op":"mcm","clk":"7676974093","pt":1539252698642,"mc":[{"id":"1.149329700","rc":[{"ltp":8.8,"id":4061310},{"ltp":1.1,"id":8596348}]}]}
+{"op":"mcm","clk":"7676986091","pt":1539252758203,"mc":[{"id":"1.149329700","rc":[{"ltp":50.0,"id":4061310},{"ltp":1.02,"id":8596348}]}]}
+{"op":"mcm","clk":"7676989378","pt":1539252818281,"mc":[{"id":"1.149329700","rc":[{"ltp":1.01,"id":8596348}]}]}
+{"op":"mcm","clk":"7676992758","pt":1539252878664,"mc":[{"id":"1.149329700","rc":[{"ltp":1.05,"id":8596348}]}]}
+{"op":"mcm","clk":"7676996402","pt":1539252932112,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T08:57:00.000Z","suspendTime":"2018-10-11T08:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"ACTIVE","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T08:57:00.000Z","version":2449530143,"name":"Match Odds","eventName":"Krawietz v Moraing"},"rc":[{"ltp":1.02,"id":8596348}]}]}
+{"op":"mcm","clk":"7676998562","pt":1539252966995,"mc":[{"id":"1.149329700","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948274","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T08:57:00.000Z","suspendTime":"2018-10-11T08:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-11T10:16:01.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4061310,"name":"Kevin Krawietz"},{"status":"WINNER","sortPriority":2,"id":8596348,"name":"Mats Moraing"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T08:57:00.000Z","version":2449530453,"name":"Match Odds","eventName":"Krawietz v Moraing"}}]}

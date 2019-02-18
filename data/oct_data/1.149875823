@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7692499808","pt":1539975561412,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:00:00.000Z","suspendTime":"2018-10-20T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:00:00.000Z","version":2462355014,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}
+{"op":"mcm","clk":"7692545306","pt":1539975826514,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:00:00.000Z","suspendTime":"2018-10-20T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:00:00.000Z","version":2462384563,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}
+{"op":"mcm","clk":"7692663752","pt":1539976294835,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:00:00.000Z","suspendTime":"2018-10-20T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:00:00.000Z","version":2462384563,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}
+{"op":"mcm","clk":"7696428173","pt":1540014304574,"mc":[{"id":"1.149875823","rc":[{"ltp":1.18,"id":19924825}]}]}
+{"op":"mcm","clk":"7696709310","pt":1540016854879,"mc":[{"id":"1.149875823","rc":[{"ltp":1.19,"id":19924825}]}]}
+{"op":"mcm","clk":"7698042297","pt":1540026723635,"mc":[{"id":"1.149875823","rc":[{"ltp":1.21,"id":19924825}]}]}
+{"op":"mcm","clk":"7698171111","pt":1540027377576,"mc":[{"id":"1.149875823","rc":[{"ltp":5.0,"id":9631939},{"ltp":1.25,"id":19924825}]}]}
+{"op":"mcm","clk":"7698394058","pt":1540028580290,"mc":[{"id":"1.149875823","rc":[{"ltp":1.22,"id":19924825}]}]}
+{"op":"mcm","clk":"7698449134","pt":1540028946285,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:48:00.000Z","suspendTime":"2018-10-20T09:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:48:00.000Z","version":2463477386,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}
+{"op":"mcm","clk":"7698585248","pt":1540029686994,"mc":[{"id":"1.149875823","rc":[{"ltp":5.4,"id":9631939}]}]}
+{"op":"mcm","clk":"7698616221","pt":1540029841114,"mc":[{"id":"1.149875823","rc":[{"ltp":1.2,"id":19924825}]}]}
+{"op":"mcm","clk":"7698626738","pt":1540029897526,"mc":[{"id":"1.149875823","rc":[{"ltp":5.0,"id":9631939},{"ltp":1.21,"id":19924825}]}]}
+{"op":"mcm","clk":"7698633876","pt":1540029938025,"mc":[{"id":"1.149875823","rc":[{"ltp":5.1,"id":9631939}]}]}
+{"op":"mcm","clk":"7698718249","pt":1540030315191,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:48:00.000Z","suspendTime":"2018-10-20T09:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:48:00.000Z","version":2463537558,"name":"Match Odds","eventName":"Jaziri v Huesler"},"rc":[{"ltp":4.9,"id":9631939},{"ltp":1.25,"id":19924825}]}]}
+{"op":"mcm","clk":"7698731139","pt":1540030387117,"mc":[{"id":"1.149875823","rc":[{"ltp":4.6,"id":9631939},{"ltp":1.31,"id":19924825}]}]}
+{"op":"mcm","clk":"7698742409","pt":1540030445911,"mc":[{"id":"1.149875823","rc":[{"ltp":3.3,"id":9631939},{"ltp":1.35,"id":19924825}]}]}
+{"op":"mcm","clk":"7698753993","pt":1540030506831,"mc":[{"id":"1.149875823","rc":[{"ltp":1.38,"id":19924825}]}]}
+{"op":"mcm","clk":"7698776318","pt":1540030626604,"mc":[{"id":"1.149875823","rc":[{"ltp":4.3,"id":9631939},{"ltp":1.3,"id":19924825}]}]}
+{"op":"mcm","clk":"7698788270","pt":1540030686891,"mc":[{"id":"1.149875823","rc":[{"ltp":3.9,"id":9631939},{"ltp":1.35,"id":19924825}]}]}
+{"op":"mcm","clk":"7698804400","pt":1540030747109,"mc":[{"id":"1.149875823","rc":[{"ltp":1.36,"id":19924825}]}]}
+{"op":"mcm","clk":"7698817642","pt":1540030800671,"mc":[{"id":"1.149875823","rc":[{"ltp":3.75,"id":9631939}]}]}
+{"op":"mcm","clk":"7698838775","pt":1540030922459,"mc":[{"id":"1.149875823","rc":[{"ltp":1.33,"id":19924825}]}]}
+{"op":"mcm","clk":"7698868522","pt":1540030986962,"mc":[{"id":"1.149875823","rc":[{"ltp":3.85,"id":9631939},{"ltp":1.32,"id":19924825}]}]}
+{"op":"mcm","clk":"7698879317","pt":1540031046656,"mc":[{"id":"1.149875823","rc":[{"ltp":4.4,"id":9631939},{"ltp":1.31,"id":19924825}]}]}
+{"op":"mcm","clk":"7698889856","pt":1540031104554,"mc":[{"id":"1.149875823","rc":[{"ltp":4.6,"id":9631939},{"ltp":1.26,"id":19924825}]}]}
+{"op":"mcm","clk":"7698900767","pt":1540031166357,"mc":[{"id":"1.149875823","rc":[{"ltp":1.33,"id":19924825}]}]}
+{"op":"mcm","clk":"7698911122","pt":1540031224682,"mc":[{"id":"1.149875823","rc":[{"ltp":1.31,"id":19924825}]}]}
+{"op":"mcm","clk":"7698920759","pt":1540031283023,"mc":[{"id":"1.149875823","rc":[{"ltp":3.75,"id":9631939},{"ltp":1.35,"id":19924825}]}]}
+{"op":"mcm","clk":"7698932132","pt":1540031347049,"mc":[{"id":"1.149875823","rc":[{"ltp":3.85,"id":9631939}]}]}
+{"op":"mcm","clk":"7698942811","pt":1540031406886,"mc":[{"id":"1.149875823","rc":[{"ltp":3.95,"id":9631939},{"ltp":1.36,"id":19924825}]}]}
+{"op":"mcm","clk":"7698952927","pt":1540031466982,"mc":[{"id":"1.149875823","rc":[{"ltp":4.1,"id":9631939},{"ltp":1.34,"id":19924825}]}]}
+{"op":"mcm","clk":"7698962854","pt":1540031526310,"mc":[{"id":"1.149875823","rc":[{"ltp":3.5,"id":9631939},{"ltp":1.38,"id":19924825}]}]}
+{"op":"mcm","clk":"7698973282","pt":1540031586893,"mc":[{"id":"1.149875823","rc":[{"ltp":3.75,"id":9631939},{"ltp":1.35,"id":19924825}]}]}
+{"op":"mcm","clk":"7698982537","pt":1540031646609,"mc":[{"id":"1.149875823","rc":[{"ltp":1.38,"id":19924825}]}]}
+{"op":"mcm","clk":"7698992107","pt":1540031705986,"mc":[{"id":"1.149875823","rc":[{"ltp":1.39,"id":19924825}]}]}
+{"op":"mcm","clk":"7699002631","pt":1540031767126,"mc":[{"id":"1.149875823","rc":[{"ltp":3.65,"id":9631939},{"ltp":1.36,"id":19924825}]}]}
+{"op":"mcm","clk":"7699030928","pt":1540031827124,"mc":[{"id":"1.149875823","rc":[{"ltp":4.0,"id":9631939},{"ltp":1.34,"id":19924825}]}]}
+{"op":"mcm","clk":"7699041437","pt":1540031887062,"mc":[{"id":"1.149875823","rc":[{"ltp":1.32,"id":19924825}]}]}
+{"op":"mcm","clk":"7699052395","pt":1540031946953,"mc":[{"id":"1.149875823","rc":[{"ltp":6.4,"id":9631939},{"ltp":1.2,"id":19924825}]}]}
+{"op":"mcm","clk":"7699063118","pt":1540032006240,"mc":[{"id":"1.149875823","rc":[{"ltp":1.17,"id":19924825}]}]}
+{"op":"mcm","clk":"7699074510","pt":1540032064845,"mc":[{"id":"1.149875823","rc":[{"ltp":9.2,"id":9631939},{"ltp":1.12,"id":19924825}]}]}
+{"op":"mcm","clk":"7699086026","pt":1540032126812,"mc":[{"id":"1.149875823","rc":[{"ltp":1.1,"id":19924825}]}]}
+{"op":"mcm","clk":"7699096749","pt":1540032186716,"mc":[{"id":"1.149875823","rc":[{"ltp":7.6,"id":9631939},{"ltp":1.17,"id":19924825}]}]}
+{"op":"mcm","clk":"7699106996","pt":1540032246833,"mc":[{"id":"1.149875823","rc":[{"ltp":9.2,"id":9631939},{"ltp":1.11,"id":19924825}]}]}
+{"op":"mcm","clk":"7699116042","pt":1540032305163,"mc":[{"id":"1.149875823","rc":[{"ltp":12.0,"id":9631939},{"ltp":1.09,"id":19924825}]}]}
+{"op":"mcm","clk":"7699134688","pt":1540032426687,"mc":[{"id":"1.149875823","rc":[{"ltp":11.0,"id":9631939},{"ltp":1.12,"id":19924825}]}]}
+{"op":"mcm","clk":"7699142833","pt":1540032485000,"mc":[{"id":"1.149875823","rc":[{"ltp":9.2,"id":9631939},{"ltp":1.11,"id":19924825}]}]}
+{"op":"mcm","clk":"7699176508","pt":1540032664999,"mc":[{"id":"1.149875823","rc":[{"ltp":11.0,"id":9631939},{"ltp":1.12,"id":19924825}]}]}
+{"op":"mcm","clk":"7699186451","pt":1540032725011,"mc":[{"id":"1.149875823","rc":[{"ltp":10.0,"id":9631939},{"ltp":1.13,"id":19924825}]}]}
+{"op":"mcm","clk":"7699213569","pt":1540032787034,"mc":[{"id":"1.149875823","rc":[{"ltp":1.11,"id":19924825}]}]}
+{"op":"mcm","clk":"7699223295","pt":1540032846638,"mc":[{"id":"1.149875823","rc":[{"ltp":1.13,"id":19924825}]}]}
+{"op":"mcm","clk":"7699232456","pt":1540032906150,"mc":[{"id":"1.149875823","rc":[{"ltp":1.09,"id":19924825}]}]}
+{"op":"mcm","clk":"7699246163","pt":1540032966353,"mc":[{"id":"1.149875823","rc":[{"ltp":1.07,"id":19924825}]}]}
+{"op":"mcm","clk":"7699257503","pt":1540033026058,"mc":[{"id":"1.149875823","rc":[{"ltp":11.0,"id":9631939},{"ltp":1.12,"id":19924825}]}]}
+{"op":"mcm","clk":"7699268228","pt":1540033085898,"mc":[{"id":"1.149875823","rc":[{"ltp":1.09,"id":19924825}]}]}
+{"op":"mcm","clk":"7699279126","pt":1540033145125,"mc":[{"id":"1.149875823","rc":[{"ltp":9.0,"id":9631939},{"ltp":1.1,"id":19924825}]}]}
+{"op":"mcm","clk":"7699291408","pt":1540033205479,"mc":[{"id":"1.149875823","rc":[{"ltp":1.09,"id":19924825}]}]}
+{"op":"mcm","clk":"7699303028","pt":1540033265396,"mc":[{"id":"1.149875823","rc":[{"ltp":1.04,"id":19924825}]}]}
+{"op":"mcm","clk":"7699327228","pt":1540033380815,"mc":[{"id":"1.149875823","rc":[{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699340398","pt":1540033444169,"mc":[{"id":"1.149875823","rc":[{"ltp":1.02,"id":19924825}]}]}
+{"op":"mcm","clk":"7699353052","pt":1540033505260,"mc":[{"id":"1.149875823","rc":[{"ltp":34.0,"id":9631939},{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699365127","pt":1540033565110,"mc":[{"id":"1.149875823","rc":[{"ltp":1.02,"id":19924825}]}]}
+{"op":"mcm","clk":"7699377616","pt":1540033624128,"mc":[{"id":"1.149875823","rc":[{"ltp":1.04,"id":19924825}]}]}
+{"op":"mcm","clk":"7699407192","pt":1540033684578,"mc":[{"id":"1.149875823","rc":[{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699417958","pt":1540033742110,"mc":[{"id":"1.149875823","rc":[{"ltp":1.02,"id":19924825}]}]}
+{"op":"mcm","clk":"7699429336","pt":1540033805663,"mc":[{"id":"1.149875823","rc":[{"ltp":26.0,"id":9631939},{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699440941","pt":1540033864930,"mc":[{"id":"1.149875823","rc":[{"ltp":1.02,"id":19924825}]}]}
+{"op":"mcm","clk":"7699453201","pt":1540033926970,"mc":[{"id":"1.149875823","rc":[{"ltp":25.0,"id":9631939},{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699464383","pt":1540033986491,"mc":[{"id":"1.149875823","rc":[{"ltp":1.04,"id":19924825}]}]}
+{"op":"mcm","clk":"7699475708","pt":1540034046002,"mc":[{"id":"1.149875823","rc":[{"ltp":1.03,"id":19924825}]}]}
+{"op":"mcm","clk":"7699486832","pt":1540034107071,"mc":[{"id":"1.149875823","rc":[{"ltp":40.0,"id":9631939},{"ltp":1.02,"id":19924825}]}]}
+{"op":"mcm","clk":"7699499890","pt":1540034166459,"mc":[{"id":"1.149875823","rc":[{"ltp":1.01,"id":19924825}]}]}
+{"op":"mcm","clk":"7699520505","pt":1540034286312,"mc":[{"id":"1.149875823","rc":[{"ltp":320.0,"id":9631939}]}]}
+{"op":"mcm","clk":"7699539795","pt":1540034400062,"mc":[{"id":"1.149875823","rc":[{"ltp":490.0,"id":9631939}]}]}
+{"op":"mcm","clk":"7699549533","pt":1540034456517,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:48:00.000Z","suspendTime":"2018-10-20T09:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"ACTIVE","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:48:00.000Z","version":2463710016,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}
+{"op":"mcm","clk":"7699556034","pt":1540034493779,"mc":[{"id":"1.149875823","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965397","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:48:00.000Z","suspendTime":"2018-10-20T09:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T11:21:27.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924825,"name":"Malek Jaziri"},{"status":"LOSER","sortPriority":2,"id":9631939,"name":"Marc-Andrea Huesler"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:48:00.000Z","version":2463712281,"name":"Match Odds","eventName":"Jaziri v Huesler"}}]}

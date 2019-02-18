@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7798190974","pt":1540299366102,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"ACTIVE","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:00:00.000Z","version":2471733350,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}
+{"op":"mcm","clk":"7798211181","pt":1540299561321,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"ACTIVE","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:00:00.000Z","version":2471733350,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}
+{"op":"mcm","clk":"7799161417","pt":1540306511450,"mc":[{"id":"1.150049569","rc":[{"ltp":1.37,"id":9627403}]}]}
+{"op":"mcm","clk":"7799249483","pt":1540307292994,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"ACTIVE","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:00:00.000Z","version":2471865936,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}
+{"op":"mcm","clk":"7799255433","pt":1540307351720,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"ACTIVE","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:08:28.000Z","version":2471866040,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}
+{"op":"mcm","clk":"7799356348","pt":1540308199963,"mc":[{"id":"1.150049569","rc":[{"ltp":3.25,"id":9632466}]}]}
+{"op":"mcm","clk":"7799447932","pt":1540308920222,"mc":[{"id":"1.150049569","rc":[{"ltp":6.2,"id":9632466},{"ltp":1.2,"id":9627403}]}]}
+{"op":"mcm","clk":"7799493246","pt":1540309338612,"mc":[{"id":"1.150049569","rc":[{"ltp":1.23,"id":9627403}]}]}
+{"op":"mcm","clk":"7799499667","pt":1540309398162,"mc":[{"id":"1.150049569","rc":[{"ltp":3.8,"id":9632466}]}]}
+{"op":"mcm","clk":"7799512238","pt":1540309504114,"mc":[{"id":"1.150049569","rc":[{"ltp":3.75,"id":9632466},{"ltp":1.37,"id":9627403}]}]}
+{"op":"mcm","clk":"7799551953","pt":1540309755437,"mc":[{"id":"1.150049569","rc":[{"ltp":2.02,"id":9632466}]}]}
+{"op":"mcm","clk":"7799558481","pt":1540309818630,"mc":[{"id":"1.150049569","rc":[{"ltp":2.02,"id":9627403}]}]}
+{"op":"mcm","clk":"7799570656","pt":1540309938328,"mc":[{"id":"1.150049569","rc":[{"ltp":2.26,"id":9627403}]}]}
+{"op":"mcm","clk":"7799600105","pt":1540310239758,"mc":[{"id":"1.150049569","rc":[{"ltp":1.52,"id":9632466}]}]}
+{"op":"mcm","clk":"7799678664","pt":1540310899836,"mc":[{"id":"1.150049569","rc":[{"ltp":1.8,"id":9632466}]}]}
+{"op":"mcm","clk":"7799726528","pt":1540311318978,"mc":[{"id":"1.150049569","rc":[{"ltp":1.41,"id":9632466},{"ltp":3.05,"id":9627403}]}]}
+{"op":"mcm","clk":"7799792052","pt":1540311795997,"mc":[{"id":"1.150049569","rc":[{"ltp":1.92,"id":9632466},{"ltp":2.1,"id":9627403}]}]}
+{"op":"mcm","clk":"7799798536","pt":1540311857906,"mc":[{"id":"1.150049569","rc":[{"ltp":2.98,"id":9632466},{"ltp":1.51,"id":9627403}]}]}
+{"op":"mcm","clk":"7799805312","pt":1540311920274,"mc":[{"id":"1.150049569","rc":[{"ltp":3.15,"id":9632466}]}]}
+{"op":"mcm","clk":"7800038284","pt":1540313894946,"mc":[{"id":"1.150049569","rc":[{"ltp":3.25,"id":9632466},{"ltp":1.45,"id":9627403}]}]}
+{"op":"mcm","clk":"7800043375","pt":1540313952070,"mc":[{"id":"1.150049569","rc":[{"ltp":1.41,"id":9627403}]}]}
+{"op":"mcm","clk":"7800053537","pt":1540314062810,"mc":[{"id":"1.150049569","rc":[{"ltp":5.7,"id":9632466},{"ltp":1.21,"id":9627403}]}]}
+{"op":"mcm","clk":"7800057687","pt":1540314099502,"mc":[{"id":"1.150049569","rc":[{"ltp":5.6,"id":9632466},{"ltp":1.22,"id":9627403}]}]}
+{"op":"mcm","clk":"7800079786","pt":1540314200305,"mc":[{"id":"1.150049569","rc":[{"ltp":3.0,"id":9632466},{"ltp":1.5,"id":9627403}]}]}
+{"op":"mcm","clk":"7800085927","pt":1540314259215,"mc":[{"id":"1.150049569","rc":[{"ltp":3.8,"id":9632466},{"ltp":1.36,"id":9627403}]}]}
+{"op":"mcm","clk":"7800092214","pt":1540314319843,"mc":[{"id":"1.150049569","rc":[{"ltp":3.55,"id":9632466},{"ltp":1.4,"id":9627403}]}]}
+{"op":"mcm","clk":"7800098818","pt":1540314379155,"mc":[{"id":"1.150049569","rc":[{"ltp":1.51,"id":9627403}]}]}
+{"op":"mcm","clk":"7800105700","pt":1540314435564,"mc":[{"id":"1.150049569","rc":[{"ltp":2.52,"id":9632466}]}]}
+{"op":"mcm","clk":"7800113858","pt":1540314500034,"mc":[{"id":"1.150049569","rc":[{"ltp":2.26,"id":9632466},{"ltp":1.8,"id":9627403}]}]}
+{"op":"mcm","clk":"7800127691","pt":1540314611069,"mc":[{"id":"1.150049569","rc":[{"ltp":1.63,"id":9627403}]}]}
+{"op":"mcm","clk":"7800135463","pt":1540314679540,"mc":[{"id":"1.150049569","rc":[{"ltp":2.64,"id":9632466},{"ltp":1.61,"id":9627403}]}]}
+{"op":"mcm","clk":"7800140018","pt":1540314717052,"mc":[{"id":"1.150049569","rc":[{"ltp":1.58,"id":9627403}]}]}
+{"op":"mcm","clk":"7800149199","pt":1540314800386,"mc":[{"id":"1.150049569","rc":[{"ltp":2.22,"id":9632466},{"ltp":1.63,"id":9627403}]}]}
+{"op":"mcm","clk":"7800156240","pt":1540314859771,"mc":[{"id":"1.150049569","rc":[{"ltp":1.41,"id":9627403}]}]}
+{"op":"mcm","clk":"7800161169","pt":1540314906224,"mc":[{"id":"1.150049569","rc":[{"ltp":3.8,"id":9632466},{"ltp":1.36,"id":9627403}]}]}
+{"op":"mcm","clk":"7800170168","pt":1540314980219,"mc":[{"id":"1.150049569","rc":[{"ltp":1.41,"id":9627403}]}]}
+{"op":"mcm","clk":"7800174511","pt":1540315018000,"mc":[{"id":"1.150049569","rc":[{"ltp":3.55,"id":9632466},{"ltp":1.4,"id":9627403}]}]}
+{"op":"mcm","clk":"7800196302","pt":1540315098578,"mc":[{"id":"1.150049569","rc":[{"ltp":1.21,"id":9627403}]}]}
+{"op":"mcm","clk":"7800203173","pt":1540315155768,"mc":[{"id":"1.150049569","rc":[{"ltp":5.7,"id":9632466}]}]}
+{"op":"mcm","clk":"7800217490","pt":1540315278560,"mc":[{"id":"1.150049569","rc":[{"ltp":5.4,"id":9632466},{"ltp":1.23,"id":9627403}]}]}
+{"op":"mcm","clk":"7800224695","pt":1540315339688,"mc":[{"id":"1.150049569","rc":[{"ltp":10.5,"id":9632466},{"ltp":1.11,"id":9627403}]}]}
+{"op":"mcm","clk":"7800231117","pt":1540315397450,"mc":[{"id":"1.150049569","rc":[{"ltp":8.6,"id":9632466},{"ltp":1.14,"id":9627403}]}]}
+{"op":"mcm","clk":"7800237939","pt":1540315459447,"mc":[{"id":"1.150049569","rc":[{"ltp":7.8,"id":9632466},{"ltp":1.15,"id":9627403}]}]}
+{"op":"mcm","clk":"7800244375","pt":1540315518463,"mc":[{"id":"1.150049569","rc":[{"ltp":7.0,"id":9632466},{"ltp":1.17,"id":9627403}]}]}
+{"op":"mcm","clk":"7800250703","pt":1540315575588,"mc":[{"id":"1.150049569","rc":[{"ltp":8.8,"id":9632466},{"ltp":1.13,"id":9627403}]}]}
+{"op":"mcm","clk":"7800258152","pt":1540315639442,"mc":[{"id":"1.150049569","rc":[{"ltp":1.1,"id":9627403}]}]}
+{"op":"mcm","clk":"7800265187","pt":1540315700146,"mc":[{"id":"1.150049569","rc":[{"ltp":7.2,"id":9632466},{"ltp":1.2,"id":9627403}]}]}
+{"op":"mcm","clk":"7800272137","pt":1540315758714,"mc":[{"id":"1.150049569","rc":[{"ltp":3.95,"id":9632466},{"ltp":1.34,"id":9627403}]}]}
+{"op":"mcm","clk":"7800278668","pt":1540315818444,"mc":[{"id":"1.150049569","rc":[{"ltp":1.58,"id":9627403}]}]}
+{"op":"mcm","clk":"7800285447","pt":1540315879960,"mc":[{"id":"1.150049569","rc":[{"ltp":1.36,"id":9627403}]}]}
+{"op":"mcm","clk":"7800303350","pt":1540315940302,"mc":[{"id":"1.150049569","rc":[{"ltp":1.22,"id":9627403}]}]}
+{"op":"mcm","clk":"7800309923","pt":1540315999830,"mc":[{"id":"1.150049569","rc":[{"ltp":4.6,"id":9632466},{"ltp":1.17,"id":9627403}]}]}
+{"op":"mcm","clk":"7800316084","pt":1540316059529,"mc":[{"id":"1.150049569","rc":[{"ltp":6.8,"id":9632466},{"ltp":1.16,"id":9627403}]}]}
+{"op":"mcm","clk":"7800322706","pt":1540316119953,"mc":[{"id":"1.150049569","rc":[{"ltp":4.6,"id":9632466},{"ltp":1.24,"id":9627403}]}]}
+{"op":"mcm","clk":"7800329871","pt":1540316180369,"mc":[{"id":"1.150049569","rc":[{"ltp":9.6,"id":9632466},{"ltp":1.12,"id":9627403}]}]}
+{"op":"mcm","clk":"7800336936","pt":1540316240208,"mc":[{"id":"1.150049569","rc":[{"ltp":4.5,"id":9632466},{"ltp":1.3,"id":9627403}]}]}
+{"op":"mcm","clk":"7800343895","pt":1540316299653,"mc":[{"id":"1.150049569","rc":[{"ltp":3.05,"id":9632466},{"ltp":1.59,"id":9627403}]}]}
+{"op":"mcm","clk":"7800350627","pt":1540316360280,"mc":[{"id":"1.150049569","rc":[{"ltp":1.4,"id":9627403}]}]}
+{"op":"mcm","clk":"7800357523","pt":1540316420399,"mc":[{"id":"1.150049569","rc":[{"ltp":4.1,"id":9632466},{"ltp":1.21,"id":9627403}]}]}
+{"op":"mcm","clk":"7800364090","pt":1540316478892,"mc":[{"id":"1.150049569","rc":[{"ltp":4.6,"id":9632466},{"ltp":1.26,"id":9627403}]}]}
+{"op":"mcm","clk":"7800370639","pt":1540316539100,"mc":[{"id":"1.150049569","rc":[{"ltp":6.6,"id":9632466},{"ltp":1.18,"id":9627403}]}]}
+{"op":"mcm","clk":"7800377522","pt":1540316600219,"mc":[{"id":"1.150049569","rc":[{"ltp":4.4,"id":9632466},{"ltp":1.35,"id":9627403}]}]}
+{"op":"mcm","clk":"7800384368","pt":1540316659703,"mc":[{"id":"1.150049569","rc":[{"ltp":7.4,"id":9632466},{"ltp":1.16,"id":9627403}]}]}
+{"op":"mcm","clk":"7800391737","pt":1540316720402,"mc":[{"id":"1.150049569","rc":[{"ltp":26.0,"id":9632466},{"ltp":1.04,"id":9627403}]}]}
+{"op":"mcm","clk":"7800399143","pt":1540316780185,"mc":[{"id":"1.150049569","rc":[{"ltp":22.0,"id":9632466},{"ltp":1.01,"id":9627403}]}]}
+{"op":"mcm","clk":"7800417564","pt":1540316839383,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"ACTIVE","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:08:28.000Z","version":2472050660,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}
+{"op":"mcm","clk":"7800417870","pt":1540316842111,"mc":[{"id":"1.150049569","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971534","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T17:47:18.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9632466,"name":"J Roberts"},{"status":"WINNER","sortPriority":2,"id":9627403,"name":"M Tchoutakian"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T15:08:28.000Z","version":2472050708,"name":"Match Odds","eventName":"J Roberts v M Tchoutakian"}}]}

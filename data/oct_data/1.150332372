@@ -1,0 +1,103 @@
+{"op":"mcm","clk":"7822259474","pt":1540666830145,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480240563,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7822307949","pt":1540667256942,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480240563,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7824773248","pt":1540686585512,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2480954395,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7834722283","pt":1540772975739,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:00:00.000Z","suspendTime":"2018-10-30T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:00:00.000Z","version":2484205017,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7836608110","pt":1540812644051,"mc":[{"id":"1.150332372","rc":[{"ltp":1.19,"id":2395048}]}]}
+{"op":"mcm","clk":"7837646208","pt":1540822300003,"mc":[{"id":"1.150332372","rc":[{"ltp":5.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7840090801","pt":1540847335680,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:30:00.000Z","suspendTime":"2018-10-30T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:30:00.000Z","version":2485199432,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7841958015","pt":1540891235198,"mc":[{"id":"1.150332372","rc":[{"ltp":1.17,"id":2395048}]}]}
+{"op":"mcm","clk":"7843241002","pt":1540912602409,"mc":[{"id":"1.150332372","rc":[{"ltp":1.19,"id":2395048},{"ltp":6.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843268954","pt":1540912897922,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048}]}]}
+{"op":"mcm","clk":"7843284321","pt":1540913070729,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:22:00.000Z","suspendTime":"2018-10-30T15:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:22:00.000Z","version":2485943719,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7843288546","pt":1540913125490,"mc":[{"id":"1.150332372","rc":[{"ltp":1.2,"id":2395048}]}]}
+{"op":"mcm","clk":"7843343254","pt":1540913658984,"mc":[{"id":"1.150332372","rc":[{"ltp":1.15,"id":2395048}]}]}
+{"op":"mcm","clk":"7843354742","pt":1540913802308,"mc":[{"id":"1.150332372","rc":[{"ltp":1.16,"id":2395048}]}]}
+{"op":"mcm","clk":"7843373417","pt":1540914022281,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048}]}]}
+{"op":"mcm","clk":"7843396546","pt":1540914155542,"mc":[{"id":"1.150332372","rc":[{"ltp":6.4,"id":10278441}]}]}
+{"op":"mcm","clk":"7843410054","pt":1540914329633,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:22:00.000Z","suspendTime":"2018-10-30T15:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:22:00.000Z","version":2485972554,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7843421317","pt":1540914457958,"mc":[{"id":"1.150332372","rc":[{"ltp":1.25,"id":2395048}]}]}
+{"op":"mcm","clk":"7843425642","pt":1540914515202,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048}]}]}
+{"op":"mcm","clk":"7843430475","pt":1540914582403,"mc":[{"id":"1.150332372","rc":[{"ltp":1.14,"id":2395048}]}]}
+{"op":"mcm","clk":"7843435225","pt":1540914642389,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048}]}]}
+{"op":"mcm","clk":"7843443795","pt":1540914762226,"mc":[{"id":"1.150332372","rc":[{"ltp":1.12,"id":2395048},{"ltp":9.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843448289","pt":1540914822392,"mc":[{"id":"1.150332372","rc":[{"ltp":1.1,"id":2395048},{"ltp":9.4,"id":10278441}]}]}
+{"op":"mcm","clk":"7843452575","pt":1540914882281,"mc":[{"id":"1.150332372","rc":[{"ltp":1.13,"id":2395048}]}]}
+{"op":"mcm","clk":"7843456416","pt":1540914942037,"mc":[{"id":"1.150332372","rc":[{"ltp":1.15,"id":2395048},{"ltp":10.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843460841","pt":1540915001679,"mc":[{"id":"1.150332372","rc":[{"ltp":1.2,"id":2395048},{"ltp":6.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843478858","pt":1540915062154,"mc":[{"id":"1.150332372","rc":[{"ltp":1.14,"id":2395048},{"ltp":7.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843484080","pt":1540915122137,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048},{"ltp":6.8,"id":10278441}]}]}
+{"op":"mcm","clk":"7843489776","pt":1540915182331,"mc":[{"id":"1.150332372","rc":[{"ltp":1.17,"id":2395048},{"ltp":6.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843495096","pt":1540915241759,"mc":[{"id":"1.150332372","rc":[{"ltp":1.13,"id":2395048},{"ltp":8.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843500120","pt":1540915301297,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048},{"ltp":6.4,"id":10278441}]}]}
+{"op":"mcm","clk":"7843504393","pt":1540915362161,"mc":[{"id":"1.150332372","rc":[{"ltp":1.21,"id":2395048},{"ltp":5.7,"id":10278441}]}]}
+{"op":"mcm","clk":"7843508634","pt":1540915421014,"mc":[{"id":"1.150332372","rc":[{"ltp":1.23,"id":2395048},{"ltp":5.3,"id":10278441}]}]}
+{"op":"mcm","clk":"7843513398","pt":1540915482155,"mc":[{"id":"1.150332372","rc":[{"ltp":1.2,"id":2395048},{"ltp":5.1,"id":10278441}]}]}
+{"op":"mcm","clk":"7843518275","pt":1540915541931,"mc":[{"id":"1.150332372","rc":[{"ltp":6.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843523585","pt":1540915601331,"mc":[{"id":"1.150332372","rc":[{"ltp":1.16,"id":2395048},{"ltp":6.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843528952","pt":1540915661438,"mc":[{"id":"1.150332372","rc":[{"ltp":1.12,"id":2395048},{"ltp":9.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843534052","pt":1540915720355,"mc":[{"id":"1.150332372","rc":[{"ltp":1.18,"id":2395048}]}]}
+{"op":"mcm","clk":"7843538851","pt":1540915781252,"mc":[{"id":"1.150332372","rc":[{"ltp":1.17,"id":2395048},{"ltp":6.8,"id":10278441}]}]}
+{"op":"mcm","clk":"7843544451","pt":1540915842002,"mc":[{"id":"1.150332372","rc":[{"ltp":1.25,"id":2395048},{"ltp":5.1,"id":10278441}]}]}
+{"op":"mcm","clk":"7843549595","pt":1540915901525,"mc":[{"id":"1.150332372","rc":[{"ltp":5.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843568338","pt":1540915962025,"mc":[{"id":"1.150332372","rc":[{"ltp":1.3,"id":2395048},{"ltp":4.4,"id":10278441}]}]}
+{"op":"mcm","clk":"7843573707","pt":1540916021300,"mc":[{"id":"1.150332372","rc":[{"ltp":1.39,"id":2395048},{"ltp":3.55,"id":10278441}]}]}
+{"op":"mcm","clk":"7843579112","pt":1540916081654,"mc":[{"id":"1.150332372","rc":[{"ltp":1.28,"id":2395048},{"ltp":4.9,"id":10278441}]}]}
+{"op":"mcm","clk":"7843584814","pt":1540916141952,"mc":[{"id":"1.150332372","rc":[{"ltp":1.23,"id":2395048},{"ltp":5.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843590582","pt":1540916202372,"mc":[{"id":"1.150332372","rc":[{"ltp":1.24,"id":2395048},{"ltp":4.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843596423","pt":1540916261349,"mc":[{"id":"1.150332372","rc":[{"ltp":1.29,"id":2395048},{"ltp":4.8,"id":10278441}]}]}
+{"op":"mcm","clk":"7843602053","pt":1540916322346,"mc":[{"id":"1.150332372","rc":[{"ltp":1.25,"id":2395048},{"ltp":5.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843608088","pt":1540916382338,"mc":[{"id":"1.150332372","rc":[{"ltp":1.38,"id":2395048},{"ltp":3.7,"id":10278441}]}]}
+{"op":"mcm","clk":"7843613573","pt":1540916441824,"mc":[{"id":"1.150332372","rc":[{"ltp":1.52,"id":2395048},{"ltp":2.92,"id":10278441}]}]}
+{"op":"mcm","clk":"7843619072","pt":1540916502241,"mc":[{"id":"1.150332372","rc":[{"ltp":1.51,"id":2395048}]}]}
+{"op":"mcm","clk":"7843624810","pt":1540916561902,"mc":[{"id":"1.150332372","rc":[{"ltp":1.67,"id":2395048},{"ltp":2.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843630541","pt":1540916622078,"mc":[{"id":"1.150332372","rc":[{"ltp":1.51,"id":2395048},{"ltp":3.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843635223","pt":1540916681977,"mc":[{"id":"1.150332372","rc":[{"ltp":1.5,"id":2395048}]}]}
+{"op":"mcm","clk":"7843640332","pt":1540916741694,"mc":[{"id":"1.150332372","rc":[{"ltp":1.29,"id":2395048},{"ltp":4.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843644936","pt":1540916801243,"mc":[{"id":"1.150332372","rc":[{"ltp":4.3,"id":10278441}]}]}
+{"op":"mcm","clk":"7843662965","pt":1540916862183,"mc":[{"id":"1.150332372","rc":[{"ltp":1.3,"id":2395048}]}]}
+{"op":"mcm","clk":"7843667952","pt":1540916922372,"mc":[{"id":"1.150332372","rc":[{"ltp":1.24,"id":2395048}]}]}
+{"op":"mcm","clk":"7843673271","pt":1540916982345,"mc":[{"id":"1.150332372","rc":[{"ltp":1.27,"id":2395048},{"ltp":3.9,"id":10278441}]}]}
+{"op":"mcm","clk":"7843678498","pt":1540917042351,"mc":[{"id":"1.150332372","rc":[{"ltp":1.24,"id":2395048},{"ltp":5.1,"id":10278441}]}]}
+{"op":"mcm","clk":"7843682877","pt":1540917102363,"mc":[{"id":"1.150332372","rc":[{"ltp":5.3,"id":10278441}]}]}
+{"op":"mcm","clk":"7843686881","pt":1540917161904,"mc":[{"id":"1.150332372","rc":[{"ltp":1.14,"id":2395048},{"ltp":6.2,"id":10278441}]}]}
+{"op":"mcm","clk":"7843691218","pt":1540917220912,"mc":[{"id":"1.150332372","rc":[{"ltp":1.1,"id":2395048},{"ltp":11.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843695806","pt":1540917281863,"mc":[{"id":"1.150332372","rc":[{"ltp":1.11,"id":2395048},{"ltp":10.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843704770","pt":1540917401940,"mc":[{"id":"1.150332372","rc":[{"ltp":1.07,"id":2395048},{"ltp":12.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843708994","pt":1540917461783,"mc":[{"id":"1.150332372","rc":[{"ltp":15.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843713841","pt":1540917521733,"mc":[{"id":"1.150332372","rc":[{"ltp":1.08,"id":2395048},{"ltp":14.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843718763","pt":1540917581748,"mc":[{"id":"1.150332372","rc":[{"ltp":1.07,"id":2395048},{"ltp":15.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843728054","pt":1540917701573,"mc":[{"id":"1.150332372","rc":[{"ltp":1.06,"id":2395048},{"ltp":17.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843754508","pt":1540917882348,"mc":[{"id":"1.150332372","rc":[{"ltp":1.09,"id":2395048},{"ltp":13.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843759648","pt":1540917941933,"mc":[{"id":"1.150332372","rc":[{"ltp":1.1,"id":2395048}]}]}
+{"op":"mcm","clk":"7843764357","pt":1540918001837,"mc":[{"id":"1.150332372","rc":[{"ltp":1.09,"id":2395048},{"ltp":11.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843768543","pt":1540918059565,"mc":[{"id":"1.150332372","rc":[{"ltp":1.08,"id":2395048}]}]}
+{"op":"mcm","clk":"7843773217","pt":1540918122138,"mc":[{"id":"1.150332372","rc":[{"ltp":1.1,"id":2395048}]}]}
+{"op":"mcm","clk":"7843777761","pt":1540918181860,"mc":[{"id":"1.150332372","rc":[{"ltp":1.09,"id":2395048}]}]}
+{"op":"mcm","clk":"7843782959","pt":1540918242326,"mc":[{"id":"1.150332372","rc":[{"ltp":1.06,"id":2395048}]}]}
+{"op":"mcm","clk":"7843787561","pt":1540918301073,"mc":[{"id":"1.150332372","rc":[{"ltp":17.5,"id":10278441}]}]}
+{"op":"mcm","clk":"7843792543","pt":1540918362211,"mc":[{"id":"1.150332372","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7843797555","pt":1540918421485,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048},{"ltp":26.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843802456","pt":1540918480723,"mc":[{"id":"1.150332372","rc":[{"ltp":1.05,"id":2395048},{"ltp":36.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843807992","pt":1540918542247,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048}]}]}
+{"op":"mcm","clk":"7843812590","pt":1540918601775,"mc":[{"id":"1.150332372","rc":[{"ltp":1.02,"id":2395048},{"ltp":34.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843833885","pt":1540918722287,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048},{"ltp":50.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843838350","pt":1540918782109,"mc":[{"id":"1.150332372","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7843843053","pt":1540918842014,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048},{"ltp":26.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843853901","pt":1540918962192,"mc":[{"id":"1.150332372","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7843859204","pt":1540919020504,"mc":[{"id":"1.150332372","rc":[{"ltp":1.02,"id":2395048},{"ltp":50.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843864875","pt":1540919081994,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048},{"ltp":95.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843871159","pt":1540919138049,"mc":[{"id":"1.150332372","rc":[{"ltp":34.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843877111","pt":1540919202364,"mc":[{"id":"1.150332372","rc":[{"ltp":32.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843883029","pt":1540919262286,"mc":[{"id":"1.150332372","rc":[{"ltp":21.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843888674","pt":1540919322015,"mc":[{"id":"1.150332372","rc":[{"ltp":1.04,"id":2395048},{"ltp":26.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843894281","pt":1540919381869,"mc":[{"id":"1.150332372","rc":[{"ltp":1.05,"id":2395048},{"ltp":21.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843899835","pt":1540919441996,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048},{"ltp":34.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843905710","pt":1540919502395,"mc":[{"id":"1.150332372","rc":[{"ltp":50.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843924468","pt":1540919559080,"mc":[{"id":"1.150332372","rc":[{"ltp":1.02,"id":2395048},{"ltp":34.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843931214","pt":1540919621733,"mc":[{"id":"1.150332372","rc":[{"ltp":1.03,"id":2395048}]}]}
+{"op":"mcm","clk":"7843937423","pt":1540919679997,"mc":[{"id":"1.150332372","rc":[{"ltp":26.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843943727","pt":1540919742406,"mc":[{"id":"1.150332372","rc":[{"ltp":1.01,"id":2395048}]}]}
+{"op":"mcm","clk":"7843949651","pt":1540919801269,"mc":[{"id":"1.150332372","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7843955741","pt":1540919862182,"mc":[{"id":"1.150332372","rc":[{"ltp":1.02,"id":2395048},{"ltp":21.0,"id":10278441}]}]}
+{"op":"mcm","clk":"7843961504","pt":1540919918957,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:22:00.000Z","suspendTime":"2018-10-30T15:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"ACTIVE","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:22:00.000Z","version":2486089664,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}
+{"op":"mcm","clk":"7843962376","pt":1540919926816,"mc":[{"id":"1.150332372","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980134","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T15:22:00.000Z","suspendTime":"2018-10-30T15:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T17:18:38.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":10278441,"name":"Nicolas Alvarez"},{"status":"WINNER","sortPriority":2,"id":2395048,"name":"Pedro Sousa"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T15:22:00.000Z","version":2486089932,"name":"Match Odds","eventName":"Nic Alvarez v P Sousa"}}]}

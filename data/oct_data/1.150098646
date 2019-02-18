@@ -1,0 +1,96 @@
+{"op":"mcm","clk":"7788355320","pt":1540372291013,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:00:00.000Z","version":2472857117,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7788374712","pt":1540372435519,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:00:00.000Z","version":2472857117,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792322536","pt":1540400130668,"mc":[{"id":"1.150098646","rc":[{"ltp":1.34,"id":9627507}]}]}
+{"op":"mcm","clk":"7792357908","pt":1540400289399,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:10:00.000Z","version":2473687025,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792457392","pt":1540400888288,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:20:00.000Z","version":2473732136,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792567779","pt":1540401490644,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:30:00.000Z","version":2473755497,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792586526","pt":1540401610057,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:25:00.000Z","version":2473757753,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792615046","pt":1540401777187,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:25:00.000Z","version":2473764965,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792728882","pt":1540402360706,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"ACTIVE","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:31:50.000Z","version":2473800611,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}
+{"op":"mcm","clk":"7792738818","pt":1540402418367,"mc":[{"id":"1.150098646","rc":[{"ltp":1.26,"id":9627507}]}]}
+{"op":"mcm","clk":"7792810256","pt":1540402838771,"mc":[{"id":"1.150098646","rc":[{"ltp":1.14,"id":9627507}]}]}
+{"op":"mcm","clk":"7792888397","pt":1540403261038,"mc":[{"id":"1.150098646","rc":[{"ltp":1.06,"id":9627507}]}]}
+{"op":"mcm","clk":"7792896081","pt":1540403310881,"mc":[{"id":"1.150098646","rc":[{"ltp":1.07,"id":9627507}]}]}
+{"op":"mcm","clk":"7792921018","pt":1540403495531,"mc":[{"id":"1.150098646","rc":[{"ltp":1.1,"id":9627507}]}]}
+{"op":"mcm","clk":"7792929102","pt":1540403560261,"mc":[{"id":"1.150098646","rc":[{"ltp":11.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7792950438","pt":1540403741205,"mc":[{"id":"1.150098646","rc":[{"ltp":1.07,"id":9627507},{"ltp":15.5,"id":9628117}]}]}
+{"op":"mcm","clk":"7792975811","pt":1540403860024,"mc":[{"id":"1.150098646","rc":[{"ltp":1.08,"id":9627507}]}]}
+{"op":"mcm","clk":"7793033137","pt":1540404280236,"mc":[{"id":"1.150098646","rc":[{"ltp":1.05,"id":9627507}]}]}
+{"op":"mcm","clk":"7793064991","pt":1540404517418,"mc":[{"id":"1.150098646","rc":[{"ltp":1.09,"id":9627507},{"ltp":12.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793073347","pt":1540404578486,"mc":[{"id":"1.150098646","rc":[{"ltp":1.11,"id":9627507}]}]}
+{"op":"mcm","clk":"7793081205","pt":1540404637674,"mc":[{"id":"1.150098646","rc":[{"ltp":1.08,"id":9627507}]}]}
+{"op":"mcm","clk":"7793088888","pt":1540404698473,"mc":[{"id":"1.150098646","rc":[{"ltp":1.1,"id":9627507}]}]}
+{"op":"mcm","clk":"7793125032","pt":1540404874660,"mc":[{"id":"1.150098646","rc":[{"ltp":1.06,"id":9627507}]}]}
+{"op":"mcm","clk":"7793199083","pt":1540405418253,"mc":[{"id":"1.150098646","rc":[{"ltp":1.08,"id":9627507}]}]}
+{"op":"mcm","clk":"7793213160","pt":1540405538916,"mc":[{"id":"1.150098646","rc":[{"ltp":1.1,"id":9627507},{"ltp":11.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793219198","pt":1540405591476,"mc":[{"id":"1.150098646","rc":[{"ltp":1.12,"id":9627507}]}]}
+{"op":"mcm","clk":"7793239217","pt":1540405660774,"mc":[{"id":"1.150098646","rc":[{"ltp":1.09,"id":9627507}]}]}
+{"op":"mcm","clk":"7793246041","pt":1540405718028,"mc":[{"id":"1.150098646","rc":[{"ltp":1.25,"id":9627507}]}]}
+{"op":"mcm","clk":"7793253515","pt":1540405781133,"mc":[{"id":"1.150098646","rc":[{"ltp":1.17,"id":9627507}]}]}
+{"op":"mcm","clk":"7793261250","pt":1540405841188,"mc":[{"id":"1.150098646","rc":[{"ltp":1.2,"id":9627507},{"ltp":6.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793276158","pt":1540405958936,"mc":[{"id":"1.150098646","rc":[{"ltp":1.24,"id":9627507},{"ltp":5.2,"id":9628117}]}]}
+{"op":"mcm","clk":"7793292823","pt":1540406080197,"mc":[{"id":"1.150098646","rc":[{"ltp":1.32,"id":9627507},{"ltp":4.1,"id":9628117}]}]}
+{"op":"mcm","clk":"7793317269","pt":1540406257459,"mc":[{"id":"1.150098646","rc":[{"ltp":1.29,"id":9627507}]}]}
+{"op":"mcm","clk":"7793325523","pt":1540406319252,"mc":[{"id":"1.150098646","rc":[{"ltp":1.3,"id":9627507},{"ltp":4.2,"id":9628117}]}]}
+{"op":"mcm","clk":"7793333138","pt":1540406380096,"mc":[{"id":"1.150098646","rc":[{"ltp":1.34,"id":9627507},{"ltp":4.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793339452","pt":1540406430674,"mc":[{"id":"1.150098646","rc":[{"ltp":1.36,"id":9627507},{"ltp":3.75,"id":9628117}]}]}
+{"op":"mcm","clk":"7793369836","pt":1540406559488,"mc":[{"id":"1.150098646","rc":[{"ltp":1.16,"id":9627507}]}]}
+{"op":"mcm","clk":"7793378204","pt":1540406618202,"mc":[{"id":"1.150098646","rc":[{"ltp":7.2,"id":9628117}]}]}
+{"op":"mcm","clk":"7793402543","pt":1540406800568,"mc":[{"id":"1.150098646","rc":[{"ltp":1.12,"id":9627507}]}]}
+{"op":"mcm","clk":"7793409797","pt":1540406861018,"mc":[{"id":"1.150098646","rc":[{"ltp":1.21,"id":9627507},{"ltp":4.4,"id":9628117}]}]}
+{"op":"mcm","clk":"7793416971","pt":1540406921449,"mc":[{"id":"1.150098646","rc":[{"ltp":1.38,"id":9627507},{"ltp":3.6,"id":9628117}]}]}
+{"op":"mcm","clk":"7793424713","pt":1540406981451,"mc":[{"id":"1.150098646","rc":[{"ltp":1.4,"id":9627507},{"ltp":3.9,"id":9628117}]}]}
+{"op":"mcm","clk":"7793440440","pt":1540407094963,"mc":[{"id":"1.150098646","rc":[{"ltp":1.44,"id":9627507},{"ltp":3.3,"id":9628117}]}]}
+{"op":"mcm","clk":"7793457095","pt":1540407218654,"mc":[{"id":"1.150098646","rc":[{"ltp":1.54,"id":9627507},{"ltp":2.86,"id":9628117}]}]}
+{"op":"mcm","clk":"7793465027","pt":1540407281487,"mc":[{"id":"1.150098646","rc":[{"ltp":2.0,"id":9627507},{"ltp":1.99,"id":9628117}]}]}
+{"op":"mcm","clk":"7793479498","pt":1540407401230,"mc":[{"id":"1.150098646","rc":[{"ltp":1.71,"id":9627507},{"ltp":2.14,"id":9628117}]}]}
+{"op":"mcm","clk":"7793498756","pt":1540407460748,"mc":[{"id":"1.150098646","rc":[{"ltp":1.69,"id":9627507},{"ltp":2.44,"id":9628117}]}]}
+{"op":"mcm","clk":"7793505470","pt":1540407518399,"mc":[{"id":"1.150098646","rc":[{"ltp":1.7,"id":9627507}]}]}
+{"op":"mcm","clk":"7793512434","pt":1540407578285,"mc":[{"id":"1.150098646","rc":[{"ltp":1.59,"id":9627507}]}]}
+{"op":"mcm","clk":"7793519660","pt":1540407636599,"mc":[{"id":"1.150098646","rc":[{"ltp":1.53,"id":9627507}]}]}
+{"op":"mcm","clk":"7793527742","pt":1540407701518,"mc":[{"id":"1.150098646","rc":[{"ltp":1.52,"id":9627507},{"ltp":2.92,"id":9628117}]}]}
+{"op":"mcm","clk":"7793534798","pt":1540407761197,"mc":[{"id":"1.150098646","rc":[{"ltp":1.54,"id":9627507},{"ltp":2.86,"id":9628117}]}]}
+{"op":"mcm","clk":"7793542885","pt":1540407821272,"mc":[{"id":"1.150098646","rc":[{"ltp":1.93,"id":9627507},{"ltp":2.06,"id":9628117}]}]}
+{"op":"mcm","clk":"7793550442","pt":1540407880138,"mc":[{"id":"1.150098646","rc":[{"ltp":2.1,"id":9627507},{"ltp":1.9,"id":9628117}]}]}
+{"op":"mcm","clk":"7793558772","pt":1540407940651,"mc":[{"id":"1.150098646","rc":[{"ltp":2.16,"id":9627507}]}]}
+{"op":"mcm","clk":"7793567903","pt":1540408001504,"mc":[{"id":"1.150098646","rc":[{"ltp":1.94,"id":9627507},{"ltp":2.06,"id":9628117}]}]}
+{"op":"mcm","clk":"7793576623","pt":1540408060410,"mc":[{"id":"1.150098646","rc":[{"ltp":2.38,"id":9627507},{"ltp":1.72,"id":9628117}]}]}
+{"op":"mcm","clk":"7793585171","pt":1540408117129,"mc":[{"id":"1.150098646","rc":[{"ltp":1.46,"id":9628117}]}]}
+{"op":"mcm","clk":"7793594721","pt":1540408180954,"mc":[{"id":"1.150098646","rc":[{"ltp":1.32,"id":9628117}]}]}
+{"op":"mcm","clk":"7793603310","pt":1540408241149,"mc":[{"id":"1.150098646","rc":[{"ltp":1.66,"id":9628117}]}]}
+{"op":"mcm","clk":"7793611866","pt":1540408301132,"mc":[{"id":"1.150098646","rc":[{"ltp":1.64,"id":9628117}]}]}
+{"op":"mcm","clk":"7793632566","pt":1540408360999,"mc":[{"id":"1.150098646","rc":[{"ltp":2.4,"id":9627507},{"ltp":1.68,"id":9628117}]}]}
+{"op":"mcm","clk":"7793640111","pt":1540408421454,"mc":[{"id":"1.150098646","rc":[{"ltp":2.54,"id":9627507},{"ltp":1.65,"id":9628117}]}]}
+{"op":"mcm","clk":"7793647197","pt":1540408478007,"mc":[{"id":"1.150098646","rc":[{"ltp":3.0,"id":9627507},{"ltp":1.54,"id":9628117}]}]}
+{"op":"mcm","clk":"7793655153","pt":1540408540862,"mc":[{"id":"1.150098646","rc":[{"ltp":2.5,"id":9627507},{"ltp":1.8,"id":9628117}]}]}
+{"op":"mcm","clk":"7793662789","pt":1540408601248,"mc":[{"id":"1.150098646","rc":[{"ltp":2.16,"id":9627507},{"ltp":1.89,"id":9628117}]}]}
+{"op":"mcm","clk":"7793670816","pt":1540408660504,"mc":[{"id":"1.150098646","rc":[{"ltp":2.4,"id":9627507},{"ltp":1.95,"id":9628117}]}]}
+{"op":"mcm","clk":"7793678597","pt":1540408720199,"mc":[{"id":"1.150098646","rc":[{"ltp":1.9,"id":9627507},{"ltp":2.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793686950","pt":1540408779722,"mc":[{"id":"1.150098646","rc":[{"ltp":1.8,"id":9627507},{"ltp":2.24,"id":9628117}]}]}
+{"op":"mcm","clk":"7793694558","pt":1540408836067,"mc":[{"id":"1.150098646","rc":[{"ltp":1.49,"id":9627507},{"ltp":2.86,"id":9628117}]}]}
+{"op":"mcm","clk":"7793704170","pt":1540408901416,"mc":[{"id":"1.150098646","rc":[{"ltp":1.7,"id":9627507},{"ltp":2.88,"id":9628117}]}]}
+{"op":"mcm","clk":"7793712722","pt":1540408961517,"mc":[{"id":"1.150098646","rc":[{"ltp":1.72,"id":9627507},{"ltp":2.2,"id":9628117}]}]}
+{"op":"mcm","clk":"7793720978","pt":1540409021007,"mc":[{"id":"1.150098646","rc":[{"ltp":1.58,"id":9627507}]}]}
+{"op":"mcm","clk":"7793728450","pt":1540409081508,"mc":[{"id":"1.150098646","rc":[{"ltp":1.51,"id":9627507}]}]}
+{"op":"mcm","clk":"7793736128","pt":1540409140911,"mc":[{"id":"1.150098646","rc":[{"ltp":1.68,"id":9627507},{"ltp":2.68,"id":9628117}]}]}
+{"op":"mcm","clk":"7793743489","pt":1540409200359,"mc":[{"id":"1.150098646","rc":[{"ltp":1.51,"id":9627507},{"ltp":2.96,"id":9628117}]}]}
+{"op":"mcm","clk":"7793762431","pt":1540409261512,"mc":[{"id":"1.150098646","rc":[{"ltp":1.33,"id":9627507},{"ltp":3.75,"id":9628117}]}]}
+{"op":"mcm","clk":"7793769896","pt":1540409319539,"mc":[{"id":"1.150098646","rc":[{"ltp":1.44,"id":9627507},{"ltp":3.9,"id":9628117}]}]}
+{"op":"mcm","clk":"7793777125","pt":1540409381373,"mc":[{"id":"1.150098646","rc":[{"ltp":1.72,"id":9627507},{"ltp":2.4,"id":9628117}]}]}
+{"op":"mcm","clk":"7793784068","pt":1540409441295,"mc":[{"id":"1.150098646","rc":[{"ltp":1.63,"id":9627507},{"ltp":2.42,"id":9628117}]}]}
+{"op":"mcm","clk":"7793790645","pt":1540409499622,"mc":[{"id":"1.150098646","rc":[{"ltp":1.52,"id":9627507}]}]}
+{"op":"mcm","clk":"7793797599","pt":1540409560027,"mc":[{"id":"1.150098646","rc":[{"ltp":1.36,"id":9627507},{"ltp":3.9,"id":9628117}]}]}
+{"op":"mcm","clk":"7793805193","pt":1540409621312,"mc":[{"id":"1.150098646","rc":[{"ltp":1.49,"id":9627507},{"ltp":3.05,"id":9628117}]}]}
+{"op":"mcm","clk":"7793812647","pt":1540409681513,"mc":[{"id":"1.150098646","rc":[{"ltp":1.52,"id":9627507},{"ltp":2.4,"id":9628117}]}]}
+{"op":"mcm","clk":"7793820352","pt":1540409740849,"mc":[{"id":"1.150098646","rc":[{"ltp":1.43,"id":9627507},{"ltp":3.35,"id":9628117}]}]}
+{"op":"mcm","clk":"7793827577","pt":1540409801303,"mc":[{"id":"1.150098646","rc":[{"ltp":1.32,"id":9627507}]}]}
+{"op":"mcm","clk":"7793833827","pt":1540409859732,"mc":[{"id":"1.150098646","rc":[{"ltp":4.3,"id":9628117}]}]}
+{"op":"mcm","clk":"7793839905","pt":1540409918487,"mc":[{"id":"1.150098646","rc":[{"ltp":1.35,"id":9627507},{"ltp":3.85,"id":9628117}]}]}
+{"op":"mcm","clk":"7793846920","pt":1540409979972,"mc":[{"id":"1.150098646","rc":[{"ltp":1.29,"id":9627507},{"ltp":5.7,"id":9628117}]}]}
+{"op":"mcm","clk":"7793853799","pt":1540410041489,"mc":[{"id":"1.150098646","rc":[{"ltp":1.16,"id":9627507}]}]}
+{"op":"mcm","clk":"7793859653","pt":1540410100063,"mc":[{"id":"1.150098646","rc":[{"ltp":1.23,"id":9627507},{"ltp":4.5,"id":9628117}]}]}
+{"op":"mcm","clk":"7793877740","pt":1540410161550,"mc":[{"id":"1.150098646","rc":[{"ltp":1.28,"id":9627507},{"ltp":4.6,"id":9628117}]}]}
+{"op":"mcm","clk":"7793883314","pt":1540410219836,"mc":[{"id":"1.150098646","rc":[{"ltp":1.13,"id":9627507},{"ltp":8.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793888886","pt":1540410277876,"mc":[{"id":"1.150098646","rc":[{"ltp":1.01,"id":9627507}]}]}
+{"op":"mcm","clk":"7793900247","pt":1540410388846,"mc":[{"id":"1.150098646","rc":[{"ltp":1000.0,"id":9628117}]}]}
+{"op":"mcm","clk":"7793903917","pt":1540410424945,"mc":[{"id":"1.150098646","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972913","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T17:00:00.000Z","suspendTime":"2018-10-24T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-24T19:47:02.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9627507,"name":"H Carter"},{"status":"LOSER","sortPriority":2,"id":9628117,"name":"J Ho"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T17:31:50.000Z","version":2474191398,"name":"Match Odds","eventName":"H Carter v J Ho"}}]}

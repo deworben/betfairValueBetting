@@ -1,0 +1,97 @@
+{"op":"mcm","clk":"7645542684","pt":1538866262918,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442525744,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7645561868","pt":1538866486621,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442525744,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7646171664","pt":1538871599647,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T18:00:00.000Z","suspendTime":"2018-10-08T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T18:00:00.000Z","version":2442730418,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7655684242","pt":1538936596851,"mc":[{"id":"1.149209538","rc":[{"ltp":3.05,"id":9395318}]}]}
+{"op":"mcm","clk":"7656378820","pt":1538941203998,"mc":[{"id":"1.149209538","rc":[{"ltp":3.15,"id":9395318}]}]}
+{"op":"mcm","clk":"7657558002","pt":1538958012257,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T18:00:00.000Z","suspendTime":"2018-10-09T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T18:00:00.000Z","version":2445881004,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7659794217","pt":1538995911639,"mc":[{"id":"1.149209538","rc":[{"ltp":1.38,"id":8257852},{"ltp":3.6,"id":9395318}]}]}
+{"op":"mcm","clk":"7660702657","pt":1539006003653,"mc":[{"id":"1.149209538","rc":[{"ltp":3.4,"id":9395318}]}]}
+{"op":"mcm","clk":"7663300263","pt":1539039578543,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T17:00:00.000Z","suspendTime":"2018-10-09T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T17:00:00.000Z","version":2446877760,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7665878640","pt":1539081042839,"mc":[{"id":"1.149209538","rc":[{"ltp":1.33,"id":8257852}]}]}
+{"op":"mcm","clk":"7667754270","pt":1539102003481,"mc":[{"id":"1.149209538","rc":[{"ltp":1.3,"id":8257852},{"ltp":3.85,"id":9395318}]}]}
+{"op":"mcm","clk":"7667927379","pt":1539103770606,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T16:46:00.000Z","suspendTime":"2018-10-09T16:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T16:46:00.000Z","version":2447488138,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7667933478","pt":1539103838267,"mc":[{"id":"1.149209538","rc":[{"ltp":1.34,"id":8257852}]}]}
+{"op":"mcm","clk":"7667965981","pt":1539104152880,"mc":[{"id":"1.149209538","rc":[{"ltp":3.9,"id":9395318}]}]}
+{"op":"mcm","clk":"7668004615","pt":1539104480136,"mc":[{"id":"1.149209538","rc":[{"ltp":1.31,"id":8257852}]}]}
+{"op":"mcm","clk":"7668010219","pt":1539104539542,"mc":[{"id":"1.149209538","rc":[{"ltp":3.85,"id":9395318}]}]}
+{"op":"mcm","clk":"7668059218","pt":1539105061437,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T16:46:00.000Z","suspendTime":"2018-10-09T16:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T16:46:00.000Z","version":2447506703,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}
+{"op":"mcm","clk":"7668063417","pt":1539105116828,"mc":[{"id":"1.149209538","rc":[{"ltp":1.39,"id":8257852},{"ltp":3.55,"id":9395318}]}]}
+{"op":"mcm","clk":"7668076202","pt":1539105178836,"mc":[{"id":"1.149209538","rc":[{"ltp":1.45,"id":8257852},{"ltp":3.3,"id":9395318}]}]}
+{"op":"mcm","clk":"7668082518","pt":1539105244338,"mc":[{"id":"1.149209538","rc":[{"ltp":3.15,"id":9395318}]}]}
+{"op":"mcm","clk":"7668094707","pt":1539105363376,"mc":[{"id":"1.149209538","rc":[{"ltp":1.37,"id":8257852},{"ltp":3.7,"id":9395318}]}]}
+{"op":"mcm","clk":"7668105332","pt":1539105470875,"mc":[{"id":"1.149209538","rc":[{"ltp":1.47,"id":8257852},{"ltp":3.1,"id":9395318}]}]}
+{"op":"mcm","clk":"7668112261","pt":1539105542136,"mc":[{"id":"1.149209538","rc":[{"ltp":1.43,"id":8257852},{"ltp":3.35,"id":9395318}]}]}
+{"op":"mcm","clk":"7668135555","pt":1539105783785,"mc":[{"id":"1.149209538","rc":[{"ltp":1.42,"id":8257852}]}]}
+{"op":"mcm","clk":"7668145233","pt":1539105882601,"mc":[{"id":"1.149209538","rc":[{"ltp":1.45,"id":8257852}]}]}
+{"op":"mcm","clk":"7668153364","pt":1539105964989,"mc":[{"id":"1.149209538","rc":[{"ltp":1.53,"id":8257852},{"ltp":3.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668158662","pt":1539106022991,"mc":[{"id":"1.149209538","rc":[{"ltp":2.88,"id":9395318}]}]}
+{"op":"mcm","clk":"7668171986","pt":1539106081210,"mc":[{"id":"1.149209538","rc":[{"ltp":1.44,"id":8257852},{"ltp":2.96,"id":9395318}]}]}
+{"op":"mcm","clk":"7668177596","pt":1539106145345,"mc":[{"id":"1.149209538","rc":[{"ltp":1.54,"id":8257852}]}]}
+{"op":"mcm","clk":"7668188984","pt":1539106261547,"mc":[{"id":"1.149209538","rc":[{"ltp":1.45,"id":8257852},{"ltp":3.25,"id":9395318}]}]}
+{"op":"mcm","clk":"7668199851","pt":1539106385082,"mc":[{"id":"1.149209538","rc":[{"ltp":1.43,"id":8257852}]}]}
+{"op":"mcm","clk":"7668205911","pt":1539106442950,"mc":[{"id":"1.149209538","rc":[{"ltp":1.54,"id":8257852}]}]}
+{"op":"mcm","clk":"7668217713","pt":1539106563501,"mc":[{"id":"1.149209538","rc":[{"ltp":1.64,"id":8257852},{"ltp":2.8,"id":9395318}]}]}
+{"op":"mcm","clk":"7668223615","pt":1539106623363,"mc":[{"id":"1.149209538","rc":[{"ltp":1.54,"id":8257852}]}]}
+{"op":"mcm","clk":"7668229942","pt":1539106684139,"mc":[{"id":"1.149209538","rc":[{"ltp":1.83,"id":8257852},{"ltp":2.2,"id":9395318}]}]}
+{"op":"mcm","clk":"7668235404","pt":1539106744680,"mc":[{"id":"1.149209538","rc":[{"ltp":1.63,"id":8257852},{"ltp":2.84,"id":9395318}]}]}
+{"op":"mcm","clk":"7668240249","pt":1539106804143,"mc":[{"id":"1.149209538","rc":[{"ltp":1.57,"id":8257852},{"ltp":2.54,"id":9395318}]}]}
+{"op":"mcm","clk":"7668244659","pt":1539106863028,"mc":[{"id":"1.149209538","rc":[{"ltp":2.96,"id":9395318}]}]}
+{"op":"mcm","clk":"7668262405","pt":1539106981568,"mc":[{"id":"1.149209538","rc":[{"ltp":1.68,"id":8257852},{"ltp":2.46,"id":9395318}]}]}
+{"op":"mcm","clk":"7668267454","pt":1539107045215,"mc":[{"id":"1.149209538","rc":[{"ltp":1.58,"id":8257852},{"ltp":2.44,"id":9395318}]}]}
+{"op":"mcm","clk":"7668272484","pt":1539107105182,"mc":[{"id":"1.149209538","rc":[{"ltp":1.59,"id":8257852},{"ltp":2.56,"id":9395318}]}]}
+{"op":"mcm","clk":"7668277694","pt":1539107163931,"mc":[{"id":"1.149209538","rc":[{"ltp":1.53,"id":8257852},{"ltp":2.88,"id":9395318}]}]}
+{"op":"mcm","clk":"7668283504","pt":1539107224952,"mc":[{"id":"1.149209538","rc":[{"ltp":2.92,"id":9395318}]}]}
+{"op":"mcm","clk":"7668289381","pt":1539107285238,"mc":[{"id":"1.149209538","rc":[{"ltp":1.5,"id":8257852},{"ltp":3.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668293988","pt":1539107332728,"mc":[{"id":"1.149209538","rc":[{"ltp":1.64,"id":8257852},{"ltp":2.54,"id":9395318}]}]}
+{"op":"mcm","clk":"7668308142","pt":1539107463630,"mc":[{"id":"1.149209538","rc":[{"ltp":1.85,"id":8257852},{"ltp":2.5,"id":9395318}]}]}
+{"op":"mcm","clk":"7668315753","pt":1539107523302,"mc":[{"id":"1.149209538","rc":[{"ltp":1.98,"id":8257852},{"ltp":1.82,"id":9395318}]}]}
+{"op":"mcm","clk":"7668323616","pt":1539107583674,"mc":[{"id":"1.149209538","rc":[{"ltp":1.72,"id":8257852},{"ltp":2.38,"id":9395318}]}]}
+{"op":"mcm","clk":"7668331363","pt":1539107645071,"mc":[{"id":"1.149209538","rc":[{"ltp":1.4,"id":8257852},{"ltp":3.5,"id":9395318}]}]}
+{"op":"mcm","clk":"7668338945","pt":1539107705086,"mc":[{"id":"1.149209538","rc":[{"ltp":1.47,"id":8257852},{"ltp":3.1,"id":9395318}]}]}
+{"op":"mcm","clk":"7668346109","pt":1539107764864,"mc":[{"id":"1.149209538","rc":[{"ltp":1.58,"id":8257852},{"ltp":2.78,"id":9395318}]}]}
+{"op":"mcm","clk":"7668352995","pt":1539107824866,"mc":[{"id":"1.149209538","rc":[{"ltp":1.38,"id":8257852}]}]}
+{"op":"mcm","clk":"7668367487","pt":1539107876754,"mc":[{"id":"1.149209538","rc":[{"ltp":1.29,"id":8257852},{"ltp":4.5,"id":9395318}]}]}
+{"op":"mcm","clk":"7668375712","pt":1539107945226,"mc":[{"id":"1.149209538","rc":[{"ltp":1.26,"id":8257852},{"ltp":4.8,"id":9395318}]}]}
+{"op":"mcm","clk":"7668383598","pt":1539108000459,"mc":[{"id":"1.149209538","rc":[{"ltp":1.34,"id":8257852}]}]}
+{"op":"mcm","clk":"7668392629","pt":1539108065416,"mc":[{"id":"1.149209538","rc":[{"ltp":2.18,"id":8257852},{"ltp":1.92,"id":9395318}]}]}
+{"op":"mcm","clk":"7668400275","pt":1539108123033,"mc":[{"id":"1.149209538","rc":[{"ltp":1.55,"id":8257852},{"ltp":2.34,"id":9395318}]}]}
+{"op":"mcm","clk":"7668408670","pt":1539108184737,"mc":[{"id":"1.149209538","rc":[{"ltp":1.82,"id":8257852},{"ltp":2.16,"id":9395318}]}]}
+{"op":"mcm","clk":"7668417104","pt":1539108245166,"mc":[{"id":"1.149209538","rc":[{"ltp":1.9,"id":8257852},{"ltp":2.1,"id":9395318}]}]}
+{"op":"mcm","clk":"7668426162","pt":1539108305346,"mc":[{"id":"1.149209538","rc":[{"ltp":1.55,"id":8257852},{"ltp":2.8,"id":9395318}]}]}
+{"op":"mcm","clk":"7668434060","pt":1539108364971,"mc":[{"id":"1.149209538","rc":[{"ltp":1.17,"id":8257852},{"ltp":7.2,"id":9395318}]}]}
+{"op":"mcm","clk":"7668448242","pt":1539108479285,"mc":[{"id":"1.149209538","rc":[{"ltp":6.8,"id":9395318}]}]}
+{"op":"mcm","clk":"7668456376","pt":1539108545353,"mc":[{"id":"1.149209538","rc":[{"ltp":1.15,"id":8257852},{"ltp":7.6,"id":9395318}]}]}
+{"op":"mcm","clk":"7668464145","pt":1539108604904,"mc":[{"id":"1.149209538","rc":[{"ltp":1.18,"id":8257852},{"ltp":7.2,"id":9395318}]}]}
+{"op":"mcm","clk":"7668471890","pt":1539108665353,"mc":[{"id":"1.149209538","rc":[{"ltp":1.19,"id":8257852},{"ltp":6.2,"id":9395318}]}]}
+{"op":"mcm","clk":"7668479240","pt":1539108724137,"mc":[{"id":"1.149209538","rc":[{"ltp":1.16,"id":8257852},{"ltp":7.2,"id":9395318}]}]}
+{"op":"mcm","clk":"7668495253","pt":1539108785122,"mc":[{"id":"1.149209538","rc":[{"ltp":6.6,"id":9395318}]}]}
+{"op":"mcm","clk":"7668502969","pt":1539108843917,"mc":[{"id":"1.149209538","rc":[{"ltp":1.15,"id":8257852},{"ltp":7.6,"id":9395318}]}]}
+{"op":"mcm","clk":"7668517488","pt":1539108965031,"mc":[{"id":"1.149209538","rc":[{"ltp":1.18,"id":8257852},{"ltp":6.4,"id":9395318}]}]}
+{"op":"mcm","clk":"7668532566","pt":1539109084669,"mc":[{"id":"1.149209538","rc":[{"ltp":1.15,"id":8257852},{"ltp":6.8,"id":9395318}]}]}
+{"op":"mcm","clk":"7668540153","pt":1539109145382,"mc":[{"id":"1.149209538","rc":[{"ltp":1.14,"id":8257852},{"ltp":8.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668555811","pt":1539109261915,"mc":[{"id":"1.149209538","rc":[{"ltp":1.12,"id":8257852},{"ltp":9.4,"id":9395318}]}]}
+{"op":"mcm","clk":"7668564810","pt":1539109324360,"mc":[{"id":"1.149209538","rc":[{"ltp":1.06,"id":8257852},{"ltp":10.5,"id":9395318}]}]}
+{"op":"mcm","clk":"7668572853","pt":1539109384989,"mc":[{"id":"1.149209538","rc":[{"ltp":1.05,"id":8257852},{"ltp":17.5,"id":9395318}]}]}
+{"op":"mcm","clk":"7668580672","pt":1539109444122,"mc":[{"id":"1.149209538","rc":[{"ltp":1.04,"id":8257852},{"ltp":21.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668587915","pt":1539109505085,"mc":[{"id":"1.149209538","rc":[{"ltp":1.06,"id":8257852}]}]}
+{"op":"mcm","clk":"7668595184","pt":1539109564583,"mc":[{"id":"1.149209538","rc":[{"ltp":1.03,"id":8257852},{"ltp":27.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668602572","pt":1539109624056,"mc":[{"id":"1.149209538","rc":[{"ltp":1.08,"id":8257852},{"ltp":12.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668618648","pt":1539109685376,"mc":[{"id":"1.149209538","rc":[{"ltp":26.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668625671","pt":1539109744760,"mc":[{"id":"1.149209538","rc":[{"ltp":1.05,"id":8257852},{"ltp":21.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668632534","pt":1539109804278,"mc":[{"id":"1.149209538","rc":[{"ltp":1.02,"id":8257852}]}]}
+{"op":"mcm","clk":"7668639236","pt":1539109864591,"mc":[{"id":"1.149209538","rc":[{"ltp":1.03,"id":8257852},{"ltp":34.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668645828","pt":1539109924529,"mc":[{"id":"1.149209538","rc":[{"ltp":1.02,"id":8257852}]}]}
+{"op":"mcm","clk":"7668653129","pt":1539109983377,"mc":[{"id":"1.149209538","rc":[{"ltp":1.03,"id":8257852}]}]}
+{"op":"mcm","clk":"7668661118","pt":1539110043322,"mc":[{"id":"1.149209538","rc":[{"ltp":1.04,"id":8257852},{"ltp":26.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668668435","pt":1539110104163,"mc":[{"id":"1.149209538","rc":[{"ltp":1.01,"id":8257852}]}]}
+{"op":"mcm","clk":"7668674926","pt":1539110157634,"mc":[{"id":"1.149209538","rc":[{"ltp":1.02,"id":8257852},{"ltp":50.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668690337","pt":1539110284724,"mc":[{"id":"1.149209538","rc":[{"ltp":1.01,"id":8257852}]}]}
+{"op":"mcm","clk":"7668706829","pt":1539110404327,"mc":[{"id":"1.149209538","rc":[{"ltp":1.02,"id":8257852}]}]}
+{"op":"mcm","clk":"7668715155","pt":1539110465233,"mc":[{"id":"1.149209538","rc":[{"ltp":1.01,"id":8257852},{"ltp":100.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668738802","pt":1539110583319,"mc":[{"id":"1.149209538","rc":[{"ltp":1.02,"id":8257852}]}]}
+{"op":"mcm","clk":"7668744843","pt":1539110627714,"mc":[{"id":"1.149209538","rc":[{"ltp":1.01,"id":8257852},{"ltp":55.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668754941","pt":1539110703159,"mc":[{"id":"1.149209538","rc":[{"ltp":1.03,"id":8257852},{"ltp":34.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668761706","pt":1539110763804,"mc":[{"id":"1.149209538","rc":[{"ltp":1.01,"id":8257852}]}]}
+{"op":"mcm","clk":"7668768684","pt":1539110823911,"mc":[{"id":"1.149209538","rc":[{"ltp":1.03,"id":8257852},{"ltp":50.0,"id":9395318}]}]}
+{"op":"mcm","clk":"7668775025","pt":1539110885191,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T16:46:00.000Z","suspendTime":"2018-10-09T16:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"ACTIVE","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T16:46:00.000Z","version":2447700205,"name":"Match Odds","eventName":"Rybakov v Janvier"},"rc":[{"ltp":1.02,"id":8257852}]}]}
+{"op":"mcm","clk":"7668776071","pt":1539110894355,"mc":[{"id":"1.149209538","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T16:46:00.000Z","suspendTime":"2018-10-09T16:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T18:48:08.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9395318,"name":"Alex Rybakov"},{"status":"WINNER","sortPriority":2,"id":8257852,"name":"Maxime Janvier"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T16:46:00.000Z","version":2447705325,"name":"Match Odds","eventName":"Rybakov v Janvier"}}]}

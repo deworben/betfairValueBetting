@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7683125432","pt":1539082253031,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T05:00:00.000Z","suspendTime":"2018-10-10T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T05:00:00.000Z","version":2447240366,"name":"Match Odds","eventName":"Kamke v Safwat"}}]}
+{"op":"mcm","clk":"7683145587","pt":1539082567126,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T05:00:00.000Z","suspendTime":"2018-10-10T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T05:00:00.000Z","version":2447240366,"name":"Match Odds","eventName":"Kamke v Safwat"}}]}
+{"op":"mcm","clk":"7683471529","pt":1539087861192,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T06:00:00.000Z","suspendTime":"2018-10-10T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T06:00:00.000Z","version":2447294812,"name":"Match Odds","eventName":"Kamke v Safwat"}}]}
+{"op":"mcm","clk":"7686177291","pt":1539115971362,"mc":[{"id":"1.149312958","rc":[{"ltp":1.49,"id":2581407}]}]}
+{"op":"mcm","clk":"7687048624","pt":1539131204017,"mc":[{"id":"1.149312958","rc":[{"ltp":1.5,"id":2581407}]}]}
+{"op":"mcm","clk":"7687536832","pt":1539143217252,"mc":[{"id":"1.149312958","rc":[{"ltp":1.49,"id":2581407}]}]}
+{"op":"mcm","clk":"7687565502","pt":1539144033810,"mc":[{"id":"1.149312958","rc":[{"ltp":2.76,"id":6948116}]}]}
+{"op":"mcm","clk":"7687588280","pt":1539144580375,"mc":[{"id":"1.149312958","rc":[{"ltp":2.74,"id":6948116}]}]}
+{"op":"mcm","clk":"7687692529","pt":1539147612560,"mc":[{"id":"1.149312958","rc":[{"ltp":1.51,"id":2581407}]}]}
+{"op":"mcm","clk":"7687702768","pt":1539147754729,"mc":[{"id":"1.149312958","rc":[{"ltp":1.58,"id":2581407}]}]}
+{"op":"mcm","clk":"7687762951","pt":1539149939061,"mc":[{"id":"1.149312958","rc":[{"ltp":1.57,"id":2581407}]}]}
+{"op":"mcm","clk":"7687787226","pt":1539150883778,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T05:52:00.000Z","suspendTime":"2018-10-10T05:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T05:52:00.000Z","version":2448166913,"name":"Match Odds","eventName":"Kamke v Safwat"}}]}
+{"op":"mcm","clk":"7687788581","pt":1539150944569,"mc":[{"id":"1.149312958","rc":[{"ltp":1.58,"id":2581407}]}]}
+{"op":"mcm","clk":"7687814775","pt":1539151678130,"mc":[{"id":"1.149312958","rc":[{"ltp":1.53,"id":2581407}]}]}
+{"op":"mcm","clk":"7687818199","pt":1539151800820,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T05:52:00.000Z","suspendTime":"2018-10-10T05:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T05:52:00.000Z","version":2448171936,"name":"Match Odds","eventName":"Kamke v Safwat"},"rc":[{"ltp":1.48,"id":2581407},{"ltp":3.1,"id":6948116}]}]}
+{"op":"mcm","clk":"7687819850","pt":1539151857885,"mc":[{"id":"1.149312958","rc":[{"ltp":1.43,"id":2581407}]}]}
+{"op":"mcm","clk":"7687824309","pt":1539151979465,"mc":[{"id":"1.149312958","rc":[{"ltp":1.37,"id":2581407}]}]}
+{"op":"mcm","clk":"7687826478","pt":1539152040807,"mc":[{"id":"1.149312958","rc":[{"ltp":1.44,"id":2581407}]}]}
+{"op":"mcm","clk":"7687828339","pt":1539152095053,"mc":[{"id":"1.149312958","rc":[{"ltp":1.33,"id":2581407}]}]}
+{"op":"mcm","clk":"7687833761","pt":1539152220773,"mc":[{"id":"1.149312958","rc":[{"ltp":1.25,"id":2581407}]}]}
+{"op":"mcm","clk":"7687842628","pt":1539152264110,"mc":[{"id":"1.149312958","rc":[{"ltp":1.22,"id":2581407}]}]}
+{"op":"mcm","clk":"7687847419","pt":1539152400282,"mc":[{"id":"1.149312958","rc":[{"ltp":1.27,"id":2581407},{"ltp":5.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687849433","pt":1539152460666,"mc":[{"id":"1.149312958","rc":[{"ltp":1.21,"id":2581407}]}]}
+{"op":"mcm","clk":"7687850211","pt":1539152485822,"mc":[{"id":"1.149312958","rc":[{"ltp":1.16,"id":2581407}]}]}
+{"op":"mcm","clk":"7687853214","pt":1539152580443,"mc":[{"id":"1.149312958","rc":[{"ltp":1.15,"id":2581407}]}]}
+{"op":"mcm","clk":"7687855023","pt":1539152640358,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407}]}]}
+{"op":"mcm","clk":"7687857055","pt":1539152700080,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407}]}]}
+{"op":"mcm","clk":"7687858903","pt":1539152756656,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407}]}]}
+{"op":"mcm","clk":"7687860823","pt":1539152818429,"mc":[{"id":"1.149312958","rc":[{"ltp":8.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687864950","pt":1539152939795,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407}]}]}
+{"op":"mcm","clk":"7687866123","pt":1539152972115,"mc":[{"id":"1.149312958","rc":[{"ltp":1.11,"id":2581407},{"ltp":10.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687870992","pt":1539153118018,"mc":[{"id":"1.149312958","rc":[{"ltp":1.09,"id":2581407},{"ltp":11.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687880676","pt":1539153175944,"mc":[{"id":"1.149312958","rc":[{"ltp":1.1,"id":2581407}]}]}
+{"op":"mcm","clk":"7687891109","pt":1539153480817,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407},{"ltp":8.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687895452","pt":1539153600352,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407}]}]}
+{"op":"mcm","clk":"7687897863","pt":1539153660316,"mc":[{"id":"1.149312958","rc":[{"ltp":1.11,"id":2581407}]}]}
+{"op":"mcm","clk":"7687899516","pt":1539153714673,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407}]}]}
+{"op":"mcm","clk":"7687902169","pt":1539153780916,"mc":[{"id":"1.149312958","rc":[{"ltp":1.16,"id":2581407}]}]}
+{"op":"mcm","clk":"7687904545","pt":1539153828571,"mc":[{"id":"1.149312958","rc":[{"ltp":1.17,"id":2581407},{"ltp":6.8,"id":6948116}]}]}
+{"op":"mcm","clk":"7687907569","pt":1539153900410,"mc":[{"id":"1.149312958","rc":[{"ltp":1.15,"id":2581407},{"ltp":7.6,"id":6948116}]}]}
+{"op":"mcm","clk":"7687910228","pt":1539153958949,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407}]}]}
+{"op":"mcm","clk":"7687912715","pt":1539154020793,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407}]}]}
+{"op":"mcm","clk":"7687922731","pt":1539154080662,"mc":[{"id":"1.149312958","rc":[{"ltp":1.08,"id":2581407}]}]}
+{"op":"mcm","clk":"7687925649","pt":1539154139483,"mc":[{"id":"1.149312958","rc":[{"ltp":1.05,"id":2581407},{"ltp":15.5,"id":6948116}]}]}
+{"op":"mcm","clk":"7687928919","pt":1539154199281,"mc":[{"id":"1.149312958","rc":[{"ltp":1.07,"id":2581407}]}]}
+{"op":"mcm","clk":"7687935564","pt":1539154320022,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407}]}]}
+{"op":"mcm","clk":"7687937360","pt":1539154351413,"mc":[{"id":"1.149312958","rc":[{"ltp":1.15,"id":2581407}]}]}
+{"op":"mcm","clk":"7687942140","pt":1539154438476,"mc":[{"id":"1.149312958","rc":[{"ltp":1.17,"id":2581407}]}]}
+{"op":"mcm","clk":"7687945169","pt":1539154499197,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407}]}]}
+{"op":"mcm","clk":"7687951243","pt":1539154620850,"mc":[{"id":"1.149312958","rc":[{"ltp":1.18,"id":2581407}]}]}
+{"op":"mcm","clk":"7687957162","pt":1539154740678,"mc":[{"id":"1.149312958","rc":[{"ltp":1.19,"id":2581407}]}]}
+{"op":"mcm","clk":"7687959795","pt":1539154800274,"mc":[{"id":"1.149312958","rc":[{"ltp":1.26,"id":2581407},{"ltp":6.2,"id":6948116}]}]}
+{"op":"mcm","clk":"7687962796","pt":1539154859772,"mc":[{"id":"1.149312958","rc":[{"ltp":1.21,"id":2581407},{"ltp":5.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687965587","pt":1539154920428,"mc":[{"id":"1.149312958","rc":[{"ltp":1.18,"id":2581407}]}]}
+{"op":"mcm","clk":"7687976546","pt":1539154979419,"mc":[{"id":"1.149312958","rc":[{"ltp":1.16,"id":2581407},{"ltp":7.2,"id":6948116}]}]}
+{"op":"mcm","clk":"7687979243","pt":1539155040199,"mc":[{"id":"1.149312958","rc":[{"ltp":1.2,"id":2581407},{"ltp":6.4,"id":6948116}]}]}
+{"op":"mcm","clk":"7687981952","pt":1539155099421,"mc":[{"id":"1.149312958","rc":[{"ltp":1.21,"id":2581407}]}]}
+{"op":"mcm","clk":"7687984723","pt":1539155159436,"mc":[{"id":"1.149312958","rc":[{"ltp":1.19,"id":2581407}]}]}
+{"op":"mcm","clk":"7687987209","pt":1539155220910,"mc":[{"id":"1.149312958","rc":[{"ltp":1.09,"id":2581407},{"ltp":8.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687989516","pt":1539155279909,"mc":[{"id":"1.149312958","rc":[{"ltp":1.13,"id":2581407},{"ltp":8.6,"id":6948116}]}]}
+{"op":"mcm","clk":"7687992053","pt":1539155340452,"mc":[{"id":"1.149312958","rc":[{"ltp":1.09,"id":2581407}]}]}
+{"op":"mcm","clk":"7687994312","pt":1539155400286,"mc":[{"id":"1.149312958","rc":[{"ltp":1.14,"id":2581407},{"ltp":8.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7687997208","pt":1539155460809,"mc":[{"id":"1.149312958","rc":[{"ltp":8.2,"id":6948116}]}]}
+{"op":"mcm","clk":"7688000161","pt":1539155519454,"mc":[{"id":"1.149312958","rc":[{"ltp":1.21,"id":2581407},{"ltp":7.2,"id":6948116}]}]}
+{"op":"mcm","clk":"7688002528","pt":1539155576839,"mc":[{"id":"1.149312958","rc":[{"ltp":1.19,"id":2581407},{"ltp":5.7,"id":6948116}]}]}
+{"op":"mcm","clk":"7688004977","pt":1539155640234,"mc":[{"id":"1.149312958","rc":[{"ltp":1.21,"id":2581407}]}]}
+{"op":"mcm","clk":"7688007240","pt":1539155700316,"mc":[{"id":"1.149312958","rc":[{"ltp":1.19,"id":2581407}]}]}
+{"op":"mcm","clk":"7688009727","pt":1539155759837,"mc":[{"id":"1.149312958","rc":[{"ltp":5.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7688012470","pt":1539155820929,"mc":[{"id":"1.149312958","rc":[{"ltp":1.25,"id":2581407}]}]}
+{"op":"mcm","clk":"7688022843","pt":1539155880768,"mc":[{"id":"1.149312958","rc":[{"ltp":1.16,"id":2581407}]}]}
+{"op":"mcm","clk":"7688025535","pt":1539155940845,"mc":[{"id":"1.149312958","rc":[{"ltp":1.09,"id":2581407}]}]}
+{"op":"mcm","clk":"7688028312","pt":1539155998369,"mc":[{"id":"1.149312958","rc":[{"ltp":1.05,"id":2581407}]}]}
+{"op":"mcm","clk":"7688031858","pt":1539156060678,"mc":[{"id":"1.149312958","rc":[{"ltp":1.03,"id":2581407}]}]}
+{"op":"mcm","clk":"7688034649","pt":1539156120925,"mc":[{"id":"1.149312958","rc":[{"ltp":1.02,"id":2581407}]}]}
+{"op":"mcm","clk":"7688037722","pt":1539156180844,"mc":[{"id":"1.149312958","rc":[{"ltp":1.03,"id":2581407},{"ltp":34.0,"id":6948116}]}]}
+{"op":"mcm","clk":"7688040225","pt":1539156227354,"mc":[{"id":"1.149312958","rc":[{"ltp":1.01,"id":2581407}]}]}
+{"op":"mcm","clk":"7688044377","pt":1539156299061,"mc":[{"id":"1.149312958","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947633","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T05:52:00.000Z","suspendTime":"2018-10-10T05:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T07:24:52.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"LOSER","sortPriority":2,"id":6948116,"name":"Mohamed Safwat"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T05:52:00.000Z","version":2448213946,"name":"Match Odds","eventName":"Kamke v Safwat"}}]}

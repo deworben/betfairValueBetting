@@ -1,0 +1,73 @@
+{"op":"mcm","clk":"7653503526","pt":1538806826857,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T05:00:00.000Z","suspendTime":"2018-10-07T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"ACTIVE","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T05:00:00.000Z","version":2439437258,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"}}]}
+{"op":"mcm","clk":"7653566452","pt":1538807355935,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T05:00:00.000Z","suspendTime":"2018-10-07T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"ACTIVE","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T05:00:00.000Z","version":2439437258,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"}}]}
+{"op":"mcm","clk":"7664134737","pt":1538856928385,"mc":[{"id":"1.149172788","rc":[{"ltp":1.33,"id":8521090}]}]}
+{"op":"mcm","clk":"7667092285","pt":1538888059209,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:52:00.000Z","suspendTime":"2018-10-07T04:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"ACTIVE","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:52:00.000Z","version":2442992047,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"}}]}
+{"op":"mcm","clk":"7667097646","pt":1538888157118,"mc":[{"id":"1.149172788","rc":[{"ltp":1.46,"id":8521090},{"ltp":3.2,"id":8842327}]}]}
+{"op":"mcm","clk":"7667115105","pt":1538888468747,"mc":[{"id":"1.149172788","rc":[{"ltp":1.34,"id":8521090}]}]}
+{"op":"mcm","clk":"7667167874","pt":1538889087742,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:52:00.000Z","suspendTime":"2018-10-07T04:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"ACTIVE","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:52:00.000Z","version":2443017818,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"}}]}
+{"op":"mcm","clk":"7667171778","pt":1538889144696,"mc":[{"id":"1.149172788","rc":[{"ltp":1.29,"id":8521090},{"ltp":4.5,"id":8842327}]}]}
+{"op":"mcm","clk":"7667181360","pt":1538889262663,"mc":[{"id":"1.149172788","rc":[{"ltp":1.21,"id":8521090}]}]}
+{"op":"mcm","clk":"7667186823","pt":1538889329718,"mc":[{"id":"1.149172788","rc":[{"ltp":5.7,"id":8842327}]}]}
+{"op":"mcm","clk":"7667191264","pt":1538889384523,"mc":[{"id":"1.149172788","rc":[{"ltp":1.25,"id":8521090}]}]}
+{"op":"mcm","clk":"7667212594","pt":1538889504711,"mc":[{"id":"1.149172788","rc":[{"ltp":3.25,"id":8842327}]}]}
+{"op":"mcm","clk":"7667226723","pt":1538889689587,"mc":[{"id":"1.149172788","rc":[{"ltp":1.45,"id":8521090}]}]}
+{"op":"mcm","clk":"7667229912","pt":1538889731712,"mc":[{"id":"1.149172788","rc":[{"ltp":1.41,"id":8521090},{"ltp":3.45,"id":8842327}]}]}
+{"op":"mcm","clk":"7667264116","pt":1538890228522,"mc":[{"id":"1.149172788","rc":[{"ltp":1.64,"id":8521090}]}]}
+{"op":"mcm","clk":"7667283877","pt":1538890349483,"mc":[{"id":"1.149172788","rc":[{"ltp":1.65,"id":8521090},{"ltp":2.5,"id":8842327}]}]}
+{"op":"mcm","clk":"7667293362","pt":1538890469745,"mc":[{"id":"1.149172788","rc":[{"ltp":1.99,"id":8521090},{"ltp":2.0,"id":8842327}]}]}
+{"op":"mcm","clk":"7667306449","pt":1538890644510,"mc":[{"id":"1.149172788","rc":[{"ltp":2.16,"id":8521090},{"ltp":1.86,"id":8842327}]}]}
+{"op":"mcm","clk":"7667341392","pt":1538891066507,"mc":[{"id":"1.149172788","rc":[{"ltp":2.0,"id":8842327}]}]}
+{"op":"mcm","clk":"7667347090","pt":1538891126911,"mc":[{"id":"1.149172788","rc":[{"ltp":2.2,"id":8521090},{"ltp":1.83,"id":8842327}]}]}
+{"op":"mcm","clk":"7667349565","pt":1538891156421,"mc":[{"id":"1.149172788","rc":[{"ltp":1.7,"id":8842327}]}]}
+{"op":"mcm","clk":"7667379588","pt":1538891417406,"mc":[{"id":"1.149172788","rc":[{"ltp":1.86,"id":8842327}]}]}
+{"op":"mcm","clk":"7667388584","pt":1538891547035,"mc":[{"id":"1.149172788","rc":[{"ltp":1.64,"id":8842327}]}]}
+{"op":"mcm","clk":"7667392543","pt":1538891607815,"mc":[{"id":"1.149172788","rc":[{"ltp":2.6,"id":8521090},{"ltp":1.62,"id":8842327}]}]}
+{"op":"mcm","clk":"7667396438","pt":1538891662070,"mc":[{"id":"1.149172788","rc":[{"ltp":1.43,"id":8842327}]}]}
+{"op":"mcm","clk":"7667401617","pt":1538891728961,"mc":[{"id":"1.149172788","rc":[{"ltp":1.29,"id":8842327}]}]}
+{"op":"mcm","clk":"7667406224","pt":1538891789639,"mc":[{"id":"1.149172788","rc":[{"ltp":1.28,"id":8842327}]}]}
+{"op":"mcm","clk":"7667425681","pt":1538892087055,"mc":[{"id":"1.149172788","rc":[{"ltp":5.5,"id":8521090},{"ltp":1.23,"id":8842327}]}]}
+{"op":"mcm","clk":"7667440056","pt":1538892148813,"mc":[{"id":"1.149172788","rc":[{"ltp":5.0,"id":8521090},{"ltp":1.25,"id":8842327}]}]}
+{"op":"mcm","clk":"7667449099","pt":1538892268985,"mc":[{"id":"1.149172788","rc":[{"ltp":1.3,"id":8842327}]}]}
+{"op":"mcm","clk":"7667452983","pt":1538892327033,"mc":[{"id":"1.149172788","rc":[{"ltp":1.63,"id":8842327}]}]}
+{"op":"mcm","clk":"7667457329","pt":1538892389267,"mc":[{"id":"1.149172788","rc":[{"ltp":1.43,"id":8842327}]}]}
+{"op":"mcm","clk":"7667466284","pt":1538892509203,"mc":[{"id":"1.149172788","rc":[{"ltp":4.6,"id":8521090},{"ltp":1.28,"id":8842327}]}]}
+{"op":"mcm","clk":"7667471170","pt":1538892569266,"mc":[{"id":"1.149172788","rc":[{"ltp":11.0,"id":8521090},{"ltp":1.1,"id":8842327}]}]}
+{"op":"mcm","clk":"7667476438","pt":1538892629079,"mc":[{"id":"1.149172788","rc":[{"ltp":1.21,"id":8842327}]}]}
+{"op":"mcm","clk":"7667481201","pt":1538892688292,"mc":[{"id":"1.149172788","rc":[{"ltp":5.7,"id":8521090}]}]}
+{"op":"mcm","clk":"7667490750","pt":1538892806174,"mc":[{"id":"1.149172788","rc":[{"ltp":6.0,"id":8521090},{"ltp":1.2,"id":8842327}]}]}
+{"op":"mcm","clk":"7667526981","pt":1538893108981,"mc":[{"id":"1.149172788","rc":[{"ltp":6.2,"id":8521090},{"ltp":1.18,"id":8842327}]}]}
+{"op":"mcm","clk":"7667532218","pt":1538893166449,"mc":[{"id":"1.149172788","rc":[{"ltp":6.4,"id":8521090}]}]}
+{"op":"mcm","clk":"7667537800","pt":1538893226534,"mc":[{"id":"1.149172788","rc":[{"ltp":6.8,"id":8521090},{"ltp":1.17,"id":8842327}]}]}
+{"op":"mcm","clk":"7667543489","pt":1538893286985,"mc":[{"id":"1.149172788","rc":[{"ltp":1.18,"id":8842327}]}]}
+{"op":"mcm","clk":"7667578368","pt":1538893708902,"mc":[{"id":"1.149172788","rc":[{"ltp":1.17,"id":8842327}]}]}
+{"op":"mcm","clk":"7667622559","pt":1538894069576,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7667658374","pt":1538894485357,"mc":[{"id":"1.149172788","rc":[{"ltp":1.18,"id":8842327}]}]}
+{"op":"mcm","clk":"7667745716","pt":1538895388437,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7667754488","pt":1538895506367,"mc":[{"id":"1.149172788","rc":[{"ltp":7.2,"id":8521090}]}]}
+{"op":"mcm","clk":"7667807256","pt":1538895987612,"mc":[{"id":"1.149172788","rc":[{"ltp":1.15,"id":8842327}]}]}
+{"op":"mcm","clk":"7667843979","pt":1538896469159,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7667959836","pt":1538897609700,"mc":[{"id":"1.149172788","rc":[{"ltp":1.15,"id":8842327}]}]}
+{"op":"mcm","clk":"7667964436","pt":1538897667861,"mc":[{"id":"1.149172788","rc":[{"ltp":7.6,"id":8521090}]}]}
+{"op":"mcm","clk":"7667976859","pt":1538897845432,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7667995573","pt":1538898085788,"mc":[{"id":"1.149172788","rc":[{"ltp":1.15,"id":8842327}]}]}
+{"op":"mcm","clk":"7668214012","pt":1538900428068,"mc":[{"id":"1.149172788","rc":[{"ltp":1.14,"id":8842327}]}]}
+{"op":"mcm","clk":"7668486773","pt":1538903549662,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7668549712","pt":1538904029438,"mc":[{"id":"1.149172788","rc":[{"ltp":8.0,"id":8521090},{"ltp":1.14,"id":8842327}]}]}
+{"op":"mcm","clk":"7668555566","pt":1538904086396,"mc":[{"id":"1.149172788","rc":[{"ltp":11.0,"id":8521090},{"ltp":1.1,"id":8842327}]}]}
+{"op":"mcm","clk":"7668562017","pt":1538904147769,"mc":[{"id":"1.149172788","rc":[{"ltp":1.09,"id":8842327}]}]}
+{"op":"mcm","clk":"7668580351","pt":1538904326532,"mc":[{"id":"1.149172788","rc":[{"ltp":1.11,"id":8842327}]}]}
+{"op":"mcm","clk":"7668586901","pt":1538904389516,"mc":[{"id":"1.149172788","rc":[{"ltp":1.08,"id":8842327}]}]}
+{"op":"mcm","clk":"7668598881","pt":1538904508510,"mc":[{"id":"1.149172788","rc":[{"ltp":7.2,"id":8521090},{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7668604880","pt":1538904567792,"mc":[{"id":"1.149172788","rc":[{"ltp":1.33,"id":8842327}]}]}
+{"op":"mcm","clk":"7668612244","pt":1538904628841,"mc":[{"id":"1.149172788","rc":[{"ltp":1.59,"id":8842327}]}]}
+{"op":"mcm","clk":"7668619118","pt":1538904688855,"mc":[{"id":"1.149172788","rc":[{"ltp":2.7,"id":8521090},{"ltp":1.47,"id":8842327}]}]}
+{"op":"mcm","clk":"7668637008","pt":1538904745105,"mc":[{"id":"1.149172788","rc":[{"ltp":1.41,"id":8842327}]}]}
+{"op":"mcm","clk":"7668644973","pt":1538904808170,"mc":[{"id":"1.149172788","rc":[{"ltp":2.92,"id":8521090},{"ltp":1.5,"id":8842327}]}]}
+{"op":"mcm","clk":"7668653823","pt":1538904869777,"mc":[{"id":"1.149172788","rc":[{"ltp":1.34,"id":8842327}]}]}
+{"op":"mcm","clk":"7668661507","pt":1538904928845,"mc":[{"id":"1.149172788","rc":[{"ltp":1.14,"id":8842327}]}]}
+{"op":"mcm","clk":"7668669335","pt":1538904989819,"mc":[{"id":"1.149172788","rc":[{"ltp":8.6,"id":8521090},{"ltp":1.25,"id":8842327}]}]}
+{"op":"mcm","clk":"7668676348","pt":1538905045581,"mc":[{"id":"1.149172788","rc":[{"ltp":1.08,"id":8842327}]}]}
+{"op":"mcm","clk":"7668684470","pt":1538905105155,"mc":[{"id":"1.149172788","rc":[{"ltp":1.16,"id":8842327}]}]}
+{"op":"mcm","clk":"7668692210","pt":1538905167851,"mc":[{"id":"1.149172788","rc":[{"ltp":4.1,"id":8521090},{"ltp":1.31,"id":8842327}]}]}
+{"op":"mcm","clk":"7668706769","pt":1538905282300,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:52:00.000Z","suspendTime":"2018-10-07T04:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"ACTIVE","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:52:00.000Z","version":2443331155,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"},"rc":[{"ltp":1.07,"id":8842327}]}]}
+{"op":"mcm","clk":"7668712070","pt":1538905323481,"mc":[{"id":"1.149172788","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941606","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:52:00.000Z","suspendTime":"2018-10-07T04:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T09:41:58.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8521090,"name":"Yunseong Chung"},{"status":"WINNER","sortPriority":2,"id":8842327,"name":"Artem Dubrivnyy"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:52:00.000Z","version":2443333772,"name":"Match Odds","eventName":"Y Chung v Arte Dubrivnyy"}}]}

@@ -1,0 +1,80 @@
+{"op":"mcm","clk":"7788834488","pt":1540165914810,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:00:00.000Z","suspendTime":"2018-10-22T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:00:00.000Z","version":2470234623,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7788842329","pt":1540166051881,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:00:00.000Z","suspendTime":"2018-10-22T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:00:00.000Z","version":2470234623,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7788894513","pt":1540166750845,"mc":[{"id":"1.149891485","rc":[{"ltp":1.23,"id":7283330}]}]}
+{"op":"mcm","clk":"7788992921","pt":1540168184469,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T00:00:00.000Z","suspendTime":"2018-10-23T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T00:00:00.000Z","version":2470290719,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7789337258","pt":1540174377199,"mc":[{"id":"1.149891485","rc":[{"ltp":4.4,"id":7335941}]}]}
+{"op":"mcm","clk":"7789591820","pt":1540180127791,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T23:00:00.000Z","suspendTime":"2018-10-22T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T23:00:00.000Z","version":2470410336,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7789680608","pt":1540182083047,"mc":[{"id":"1.149891485","rc":[{"ltp":4.6,"id":7335941},{"ltp":1.28,"id":7283330}]}]}
+{"op":"mcm","clk":"7791480918","pt":1540212899027,"mc":[{"id":"1.149891485","rc":[{"ltp":1.27,"id":7283330}]}]}
+{"op":"mcm","clk":"7793893427","pt":1540236235687,"mc":[{"id":"1.149891485","rc":[{"ltp":1.29,"id":7283330}]}]}
+{"op":"mcm","clk":"7794120310","pt":1540238671438,"mc":[{"id":"1.149891485","rc":[{"ltp":1.27,"id":7283330}]}]}
+{"op":"mcm","clk":"7794543389","pt":1540245832743,"mc":[{"id":"1.149891485","rc":[{"ltp":1.26,"id":7283330}]}]}
+{"op":"mcm","clk":"7794688286","pt":1540248518226,"mc":[{"id":"1.149891485","rc":[{"ltp":1.27,"id":7283330}]}]}
+{"op":"mcm","clk":"7794691614","pt":1540248583681,"mc":[{"id":"1.149891485","rc":[{"ltp":4.8,"id":7335941},{"ltp":1.25,"id":7283330}]}]}
+{"op":"mcm","clk":"7794703545","pt":1540248824437,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T22:49:00.000Z","suspendTime":"2018-10-22T22:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T22:49:00.000Z","version":2471268565,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7794709780","pt":1540248932322,"mc":[{"id":"1.149891485","rc":[{"ltp":4.5,"id":7335941},{"ltp":1.29,"id":7283330}]}]}
+{"op":"mcm","clk":"7794724779","pt":1540249195442,"mc":[{"id":"1.149891485","rc":[{"ltp":5.2,"id":7335941},{"ltp":1.24,"id":7283330}]}]}
+{"op":"mcm","clk":"7794727377","pt":1540249232053,"mc":[{"id":"1.149891485","rc":[{"ltp":4.6,"id":7335941}]}]}
+{"op":"mcm","clk":"7794766211","pt":1540249740200,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T22:49:00.000Z","suspendTime":"2018-10-22T22:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T22:49:00.000Z","version":2471284907,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7794768769","pt":1540249799481,"mc":[{"id":"1.149891485","rc":[{"ltp":1.22,"id":7283330}]}]}
+{"op":"mcm","clk":"7794771379","pt":1540249859506,"mc":[{"id":"1.149891485","rc":[{"ltp":4.7,"id":7335941},{"ltp":1.24,"id":7283330}]}]}
+{"op":"mcm","clk":"7794773944","pt":1540249919921,"mc":[{"id":"1.149891485","rc":[{"ltp":5.7,"id":7335941},{"ltp":1.21,"id":7283330}]}]}
+{"op":"mcm","clk":"7794776622","pt":1540249980228,"mc":[{"id":"1.149891485","rc":[{"ltp":6.0,"id":7335941},{"ltp":1.28,"id":7283330}]}]}
+{"op":"mcm","clk":"7794779361","pt":1540250040656,"mc":[{"id":"1.149891485","rc":[{"ltp":4.4,"id":7335941}]}]}
+{"op":"mcm","clk":"7794782004","pt":1540250101222,"mc":[{"id":"1.149891485","rc":[{"ltp":4.1,"id":7335941},{"ltp":1.31,"id":7283330}]}]}
+{"op":"mcm","clk":"7794784673","pt":1540250161012,"mc":[{"id":"1.149891485","rc":[{"ltp":4.7,"id":7335941},{"ltp":1.27,"id":7283330}]}]}
+{"op":"mcm","clk":"7794787726","pt":1540250220902,"mc":[{"id":"1.149891485","rc":[{"ltp":4.5,"id":7335941}]}]}
+{"op":"mcm","clk":"7794802355","pt":1540250281178,"mc":[{"id":"1.149891485","rc":[{"ltp":4.3,"id":7335941},{"ltp":1.3,"id":7283330}]}]}
+{"op":"mcm","clk":"7794805187","pt":1540250339374,"mc":[{"id":"1.149891485","rc":[{"ltp":4.1,"id":7335941}]}]}
+{"op":"mcm","clk":"7794808158","pt":1540250400937,"mc":[{"id":"1.149891485","rc":[{"ltp":1.32,"id":7283330}]}]}
+{"op":"mcm","clk":"7794811274","pt":1540250461155,"mc":[{"id":"1.149891485","rc":[{"ltp":3.9,"id":7335941},{"ltp":1.34,"id":7283330}]}]}
+{"op":"mcm","clk":"7794814062","pt":1540250518113,"mc":[{"id":"1.149891485","rc":[{"ltp":1.3,"id":7283330}]}]}
+{"op":"mcm","clk":"7794819354","pt":1540250640922,"mc":[{"id":"1.149891485","rc":[{"ltp":7.2,"id":7335941},{"ltp":1.19,"id":7283330}]}]}
+{"op":"mcm","clk":"7794821649","pt":1540250692264,"mc":[{"id":"1.149891485","rc":[{"ltp":1.12,"id":7283330}]}]}
+{"op":"mcm","clk":"7794824946","pt":1540250759585,"mc":[{"id":"1.149891485","rc":[{"ltp":1.13,"id":7283330}]}]}
+{"op":"mcm","clk":"7794827877","pt":1540250819814,"mc":[{"id":"1.149891485","rc":[{"ltp":1.12,"id":7283330}]}]}
+{"op":"mcm","clk":"7794830707","pt":1540250881075,"mc":[{"id":"1.149891485","rc":[{"ltp":10.0,"id":7335941},{"ltp":1.11,"id":7283330}]}]}
+{"op":"mcm","clk":"7794833287","pt":1540250941098,"mc":[{"id":"1.149891485","rc":[{"ltp":1.1,"id":7283330}]}]}
+{"op":"mcm","clk":"7794837564","pt":1540251060849,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794839922","pt":1540251113997,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794858223","pt":1540251240693,"mc":[{"id":"1.149891485","rc":[{"ltp":17.5,"id":7335941}]}]}
+{"op":"mcm","clk":"7794861311","pt":1540251298588,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794867670","pt":1540251420937,"mc":[{"id":"1.149891485","rc":[{"ltp":13.5,"id":7335941},{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794870525","pt":1540251480548,"mc":[{"id":"1.149891485","rc":[{"ltp":15.5,"id":7335941}]}]}
+{"op":"mcm","clk":"7794873709","pt":1540251540930,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794877052","pt":1540251601023,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794883415","pt":1540251720929,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794886199","pt":1540251779078,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794889239","pt":1540251841093,"mc":[{"id":"1.149891485","rc":[{"ltp":1.08,"id":7283330}]}]}
+{"op":"mcm","clk":"7794892046","pt":1540251897745,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794894768","pt":1540251955525,"mc":[{"id":"1.149891485","rc":[{"ltp":21.0,"id":7335941}]}]}
+{"op":"mcm","clk":"7794897632","pt":1540252012095,"mc":[{"id":"1.149891485","rc":[{"ltp":13.5,"id":7335941},{"ltp":1.08,"id":7283330}]}]}
+{"op":"mcm","clk":"7794914815","pt":1540252141117,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794917248","pt":1540252200965,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794920028","pt":1540252260296,"mc":[{"id":"1.149891485","rc":[{"ltp":15.0,"id":7335941}]}]}
+{"op":"mcm","clk":"7794922461","pt":1540252320713,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794927909","pt":1540252439600,"mc":[{"id":"1.149891485","rc":[{"ltp":21.0,"id":7335941},{"ltp":1.04,"id":7283330}]}]}
+{"op":"mcm","clk":"7794930959","pt":1540252500770,"mc":[{"id":"1.149891485","rc":[{"ltp":17.5,"id":7335941},{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794934158","pt":1540252559826,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794937595","pt":1540252620798,"mc":[{"id":"1.149891485","rc":[{"ltp":26.0,"id":7335941},{"ltp":1.04,"id":7283330}]}]}
+{"op":"mcm","clk":"7794941107","pt":1540252678280,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794944437","pt":1540252740777,"mc":[{"id":"1.149891485","rc":[{"ltp":13.5,"id":7335941},{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794951122","pt":1540252861121,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794954282","pt":1540252920717,"mc":[{"id":"1.149891485","rc":[{"ltp":1.05,"id":7283330}]}]}
+{"op":"mcm","clk":"7794969644","pt":1540252980306,"mc":[{"id":"1.149891485","rc":[{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7794973842","pt":1540253041019,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794981104","pt":1540253159061,"mc":[{"id":"1.149891485","rc":[{"ltp":1.08,"id":7283330}]}]}
+{"op":"mcm","clk":"7794985059","pt":1540253221042,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7794996697","pt":1540253398491,"mc":[{"id":"1.149891485","rc":[{"ltp":17.5,"id":7335941},{"ltp":1.06,"id":7283330}]}]}
+{"op":"mcm","clk":"7795004202","pt":1540253520767,"mc":[{"id":"1.149891485","rc":[{"ltp":1.09,"id":7283330}]}]}
+{"op":"mcm","clk":"7795007660","pt":1540253578517,"mc":[{"id":"1.149891485","rc":[{"ltp":13.5,"id":7335941}]}]}
+{"op":"mcm","clk":"7795011464","pt":1540253641026,"mc":[{"id":"1.149891485","rc":[{"ltp":1.07,"id":7283330}]}]}
+{"op":"mcm","clk":"7795015026","pt":1540253699524,"mc":[{"id":"1.149891485","rc":[{"ltp":15.0,"id":7335941}]}]}
+{"op":"mcm","clk":"7795018531","pt":1540253759413,"mc":[{"id":"1.149891485","rc":[{"ltp":1.1,"id":7283330}]}]}
+{"op":"mcm","clk":"7795021664","pt":1540253819309,"mc":[{"id":"1.149891485","rc":[{"ltp":11.0,"id":7335941}]}]}
+{"op":"mcm","clk":"7795036747","pt":1540253879507,"mc":[{"id":"1.149891485","rc":[{"ltp":1.09,"id":7283330}]}]}
+{"op":"mcm","clk":"7795040043","pt":1540253932733,"mc":[{"id":"1.149891485","rc":[{"ltp":1.08,"id":7283330}]}]}
+{"op":"mcm","clk":"7795044594","pt":1540254001111,"mc":[{"id":"1.149891485","rc":[{"ltp":28.0,"id":7335941},{"ltp":1.04,"id":7283330}]}]}
+{"op":"mcm","clk":"7795048877","pt":1540254061103,"mc":[{"id":"1.149891485","rc":[{"ltp":100.0,"id":7335941},{"ltp":1.01,"id":7283330}]}]}
+{"op":"mcm","clk":"7795060377","pt":1540254239271,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T22:49:00.000Z","suspendTime":"2018-10-22T22:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"ACTIVE","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T22:49:00.000Z","version":2471369544,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}
+{"op":"mcm","clk":"7795062073","pt":1540254267338,"mc":[{"id":"1.149891485","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966035","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T22:49:00.000Z","suspendTime":"2018-10-22T22:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T00:24:22.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":7335941,"name":"Bradley Mousley"},{"status":"WINNER","sortPriority":2,"id":7283330,"name":"Alex Bolt"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T22:49:00.000Z","version":2471369690,"name":"Match Odds","eventName":"Mousley v Bolt"}}]}

@@ -1,0 +1,90 @@
+{"op":"mcm","clk":"7811557752","pt":1540434532837,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:30:00.000Z","version":2474630564,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7811563274","pt":1540434648513,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:30:00.000Z","version":2474630564,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7812025189","pt":1540442774688,"mc":[{"id":"1.150151719","rc":[{"ltp":3.55,"id":9626818},{"ltp":1.4,"id":9626618}]}]}
+{"op":"mcm","clk":"7812509556","pt":1540451929605,"mc":[{"id":"1.150151719","rc":[{"ltp":2.84,"id":9626818},{"ltp":1.55,"id":9626618}]}]}
+{"op":"mcm","clk":"7812552303","pt":1540452881560,"mc":[{"id":"1.150151719","rc":[{"ltp":3.5,"id":9626818},{"ltp":1.4,"id":9626618}]}]}
+{"op":"mcm","clk":"7812884173","pt":1540458763941,"mc":[{"id":"1.150151719","rc":[{"ltp":3.0,"id":9626818}]}]}
+{"op":"mcm","clk":"7812969146","pt":1540460093113,"mc":[{"id":"1.150151719","rc":[{"ltp":2.56,"id":9626818},{"ltp":1.65,"id":9626618}]}]}
+{"op":"mcm","clk":"7812989947","pt":1540460532152,"mc":[{"id":"1.150151719","rc":[{"ltp":1.51,"id":9626618}]}]}
+{"op":"mcm","clk":"7813119836","pt":1540462223059,"mc":[{"id":"1.150151719","rc":[{"ltp":2.96,"id":9626818}]}]}
+{"op":"mcm","clk":"7813133249","pt":1540462422277,"mc":[{"id":"1.150151719","rc":[{"ltp":2.62,"id":9626818}]}]}
+{"op":"mcm","clk":"7813334143","pt":1540465231934,"mc":[{"id":"1.150151719","rc":[{"ltp":2.84,"id":9626818},{"ltp":1.54,"id":9626618}]}]}
+{"op":"mcm","clk":"7813369618","pt":1540465594007,"mc":[{"id":"1.150151719","rc":[{"ltp":2.76,"id":9626818}]}]}
+{"op":"mcm","clk":"7813437819","pt":1540466343699,"mc":[{"id":"1.150151719","rc":[{"ltp":1.47,"id":9626618}]}]}
+{"op":"mcm","clk":"7813465844","pt":1540466707042,"mc":[{"id":"1.150151719","rc":[{"ltp":3.1,"id":9626818},{"ltp":1.45,"id":9626618}]}]}
+{"op":"mcm","clk":"7813479589","pt":1540466889628,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:40:00.000Z","version":2474824864,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7813520359","pt":1540467313541,"mc":[{"id":"1.150151719","rc":[{"ltp":1.47,"id":9626618}]}]}
+{"op":"mcm","clk":"7813537034","pt":1540467533895,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:45:00.000Z","version":2474847193,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"},"rc":[{"ltp":2.74,"id":9626818},{"ltp":1.58,"id":9626618}]}]}
+{"op":"mcm","clk":"7813561354","pt":1540467856429,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:45:00.000Z","version":2474850181,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7813595420","pt":1540468160556,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:49:16.000Z","version":2474852168,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7813601456","pt":1540468253981,"mc":[{"id":"1.150151719","rc":[{"ltp":1.45,"id":9626618}]}]}
+{"op":"mcm","clk":"7813605415","pt":1540468313303,"mc":[{"id":"1.150151719","rc":[{"ltp":1.37,"id":9626618}]}]}
+{"op":"mcm","clk":"7813617932","pt":1540468487948,"mc":[{"id":"1.150151719","rc":[{"ltp":1.57,"id":9626618}]}]}
+{"op":"mcm","clk":"7813631026","pt":1540468669932,"mc":[{"id":"1.150151719","rc":[{"ltp":1.97,"id":9626818},{"ltp":2.02,"id":9626618}]}]}
+{"op":"mcm","clk":"7813635183","pt":1540468735854,"mc":[{"id":"1.150151719","rc":[{"ltp":2.18,"id":9626818},{"ltp":1.88,"id":9626618}]}]}
+{"op":"mcm","clk":"7813638154","pt":1540468789191,"mc":[{"id":"1.150151719","rc":[{"ltp":1.77,"id":9626618}]}]}
+{"op":"mcm","clk":"7813642015","pt":1540468855655,"mc":[{"id":"1.150151719","rc":[{"ltp":1.89,"id":9626618}]}]}
+{"op":"mcm","clk":"7813645183","pt":1540468913280,"mc":[{"id":"1.150151719","rc":[{"ltp":1.76,"id":9626618}]}]}
+{"op":"mcm","clk":"7813665535","pt":1540469035509,"mc":[{"id":"1.150151719","rc":[{"ltp":2.04,"id":9626818},{"ltp":1.96,"id":9626618}]}]}
+{"op":"mcm","clk":"7813668696","pt":1540469093810,"mc":[{"id":"1.150151719","rc":[{"ltp":1.9,"id":9626818},{"ltp":2.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813671976","pt":1540469149113,"mc":[{"id":"1.150151719","rc":[{"ltp":1.89,"id":9626818},{"ltp":2.12,"id":9626618}]}]}
+{"op":"mcm","clk":"7813675852","pt":1540469206692,"mc":[{"id":"1.150151719","rc":[{"ltp":2.02,"id":9626818},{"ltp":1.97,"id":9626618}]}]}
+{"op":"mcm","clk":"7813680113","pt":1540469271480,"mc":[{"id":"1.150151719","rc":[{"ltp":1.84,"id":9626618}]}]}
+{"op":"mcm","clk":"7813691356","pt":1540469450600,"mc":[{"id":"1.150151719","rc":[{"ltp":1.62,"id":9626618}]}]}
+{"op":"mcm","clk":"7813699716","pt":1540469575746,"mc":[{"id":"1.150151719","rc":[{"ltp":1.51,"id":9626618}]}]}
+{"op":"mcm","clk":"7813703273","pt":1540469634989,"mc":[{"id":"1.150151719","rc":[{"ltp":1.42,"id":9626618}]}]}
+{"op":"mcm","clk":"7813706907","pt":1540469691226,"mc":[{"id":"1.150151719","rc":[{"ltp":1.39,"id":9626618}]}]}
+{"op":"mcm","clk":"7813710349","pt":1540469747807,"mc":[{"id":"1.150151719","rc":[{"ltp":1.38,"id":9626618}]}]}
+{"op":"mcm","clk":"7813714297","pt":1540469814437,"mc":[{"id":"1.150151719","rc":[{"ltp":1.35,"id":9626618}]}]}
+{"op":"mcm","clk":"7813731167","pt":1540469872066,"mc":[{"id":"1.150151719","rc":[{"ltp":1.46,"id":9626618}]}]}
+{"op":"mcm","clk":"7813738389","pt":1540469991625,"mc":[{"id":"1.150151719","rc":[{"ltp":1.38,"id":9626618}]}]}
+{"op":"mcm","clk":"7813742085","pt":1540470051818,"mc":[{"id":"1.150151719","rc":[{"ltp":1.24,"id":9626618}]}]}
+{"op":"mcm","clk":"7813746154","pt":1540470115932,"mc":[{"id":"1.150151719","rc":[{"ltp":1.2,"id":9626618}]}]}
+{"op":"mcm","clk":"7813750149","pt":1540470175569,"mc":[{"id":"1.150151719","rc":[{"ltp":1.25,"id":9626618}]}]}
+{"op":"mcm","clk":"7813753767","pt":1540470232644,"mc":[{"id":"1.150151719","rc":[{"ltp":1.18,"id":9626618}]}]}
+{"op":"mcm","clk":"7813770260","pt":1540470474879,"mc":[{"id":"1.150151719","rc":[{"ltp":6.4,"id":9626818},{"ltp":1.16,"id":9626618}]}]}
+{"op":"mcm","clk":"7813773653","pt":1540470532860,"mc":[{"id":"1.150151719","rc":[{"ltp":1.12,"id":9626618}]}]}
+{"op":"mcm","clk":"7813777382","pt":1540470594431,"mc":[{"id":"1.150151719","rc":[{"ltp":8.8,"id":9626818},{"ltp":1.14,"id":9626618}]}]}
+{"op":"mcm","clk":"7813781133","pt":1540470654956,"mc":[{"id":"1.150151719","rc":[{"ltp":1.15,"id":9626618}]}]}
+{"op":"mcm","clk":"7813784576","pt":1540470715680,"mc":[{"id":"1.150151719","rc":[{"ltp":1.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813801413","pt":1540470774143,"mc":[{"id":"1.150151719","rc":[{"ltp":1.15,"id":9626618}]}]}
+{"op":"mcm","clk":"7813804615","pt":1540470833515,"mc":[{"id":"1.150151719","rc":[{"ltp":1.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813808434","pt":1540470895869,"mc":[{"id":"1.150151719","rc":[{"ltp":12.0,"id":9626818},{"ltp":1.09,"id":9626618}]}]}
+{"op":"mcm","clk":"7813812196","pt":1540470954410,"mc":[{"id":"1.150151719","rc":[{"ltp":1.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813815731","pt":1540471014614,"mc":[{"id":"1.150151719","rc":[{"ltp":1.12,"id":9626618}]}]}
+{"op":"mcm","clk":"7813822924","pt":1540471135441,"mc":[{"id":"1.150151719","rc":[{"ltp":1.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813826395","pt":1540471195618,"mc":[{"id":"1.150151719","rc":[{"ltp":1.05,"id":9626618}]}]}
+{"op":"mcm","clk":"7813830082","pt":1540471255632,"mc":[{"id":"1.150151719","rc":[{"ltp":1.04,"id":9626618}]}]}
+{"op":"mcm","clk":"7813834134","pt":1540471313835,"mc":[{"id":"1.150151719","rc":[{"ltp":1.03,"id":9626618}]}]}
+{"op":"mcm","clk":"7813843210","pt":1540471435190,"mc":[{"id":"1.150151719","rc":[{"ltp":21.0,"id":9626818},{"ltp":1.05,"id":9626618}]}]}
+{"op":"mcm","clk":"7813847220","pt":1540471493820,"mc":[{"id":"1.150151719","rc":[{"ltp":13.5,"id":9626818}]}]}
+{"op":"mcm","clk":"7813851057","pt":1540471555726,"mc":[{"id":"1.150151719","rc":[{"ltp":10.0,"id":9626818},{"ltp":1.11,"id":9626618}]}]}
+{"op":"mcm","clk":"7813854861","pt":1540471615648,"mc":[{"id":"1.150151719","rc":[{"ltp":1.13,"id":9626618}]}]}
+{"op":"mcm","clk":"7813872251","pt":1540471674983,"mc":[{"id":"1.150151719","rc":[{"ltp":9.2,"id":9626818},{"ltp":1.1,"id":9626618}]}]}
+{"op":"mcm","clk":"7813875700","pt":1540471733846,"mc":[{"id":"1.150151719","rc":[{"ltp":1.13,"id":9626618}]}]}
+{"op":"mcm","clk":"7813878703","pt":1540471794793,"mc":[{"id":"1.150151719","rc":[{"ltp":1.12,"id":9626618}]}]}
+{"op":"mcm","clk":"7813885625","pt":1540471914063,"mc":[{"id":"1.150151719","rc":[{"ltp":7.6,"id":9626818},{"ltp":1.16,"id":9626618}]}]}
+{"op":"mcm","clk":"7813889292","pt":1540471975229,"mc":[{"id":"1.150151719","rc":[{"ltp":1.18,"id":9626618}]}]}
+{"op":"mcm","clk":"7813893594","pt":1540472035779,"mc":[{"id":"1.150151719","rc":[{"ltp":1.2,"id":9626618}]}]}
+{"op":"mcm","clk":"7813897034","pt":1540472090952,"mc":[{"id":"1.150151719","rc":[{"ltp":1.19,"id":9626618}]}]}
+{"op":"mcm","clk":"7813900687","pt":1540472154145,"mc":[{"id":"1.150151719","rc":[{"ltp":1.15,"id":9626618}]}]}
+{"op":"mcm","clk":"7813903546","pt":1540472203654,"mc":[{"id":"1.150151719","rc":[{"ltp":1.21,"id":9626618}]}]}
+{"op":"mcm","clk":"7813907370","pt":1540472274827,"mc":[{"id":"1.150151719","rc":[{"ltp":1.19,"id":9626618}]}]}
+{"op":"mcm","clk":"7813911093","pt":1540472335023,"mc":[{"id":"1.150151719","rc":[{"ltp":1.14,"id":9626618}]}]}
+{"op":"mcm","clk":"7813914326","pt":1540472393088,"mc":[{"id":"1.150151719","rc":[{"ltp":1.16,"id":9626618}]}]}
+{"op":"mcm","clk":"7813917283","pt":1540472455775,"mc":[{"id":"1.150151719","rc":[{"ltp":1.21,"id":9626618}]}]}
+{"op":"mcm","clk":"7813920419","pt":1540472512210,"mc":[{"id":"1.150151719","rc":[{"ltp":3.85,"id":9626818},{"ltp":1.29,"id":9626618}]}]}
+{"op":"mcm","clk":"7813937617","pt":1540472570705,"mc":[{"id":"1.150151719","rc":[{"ltp":1.33,"id":9626618}]}]}
+{"op":"mcm","clk":"7813941056","pt":1540472632406,"mc":[{"id":"1.150151719","rc":[{"ltp":1.35,"id":9626618}]}]}
+{"op":"mcm","clk":"7813948181","pt":1540472755218,"mc":[{"id":"1.150151719","rc":[{"ltp":1.28,"id":9626618}]}]}
+{"op":"mcm","clk":"7813951904","pt":1540472812859,"mc":[{"id":"1.150151719","rc":[{"ltp":1.21,"id":9626618}]}]}
+{"op":"mcm","clk":"7813955753","pt":1540472865073,"mc":[{"id":"1.150151719","rc":[{"ltp":1.19,"id":9626618}]}]}
+{"op":"mcm","clk":"7813963798","pt":1540472991886,"mc":[{"id":"1.150151719","rc":[{"ltp":1.3,"id":9626618}]}]}
+{"op":"mcm","clk":"7813968235","pt":1540473053343,"mc":[{"id":"1.150151719","rc":[{"ltp":10.0,"id":9626818},{"ltp":1.11,"id":9626618}]}]}
+{"op":"mcm","clk":"7813972558","pt":1540473115426,"mc":[{"id":"1.150151719","rc":[{"ltp":1.12,"id":9626618}]}]}
+{"op":"mcm","clk":"7813976509","pt":1540473175870,"mc":[{"id":"1.150151719","rc":[{"ltp":1.09,"id":9626618}]}]}
+{"op":"mcm","clk":"7813980012","pt":1540473232269,"mc":[{"id":"1.150151719","rc":[{"ltp":1.08,"id":9626618}]}]}
+{"op":"mcm","clk":"7813983647","pt":1540473294928,"mc":[{"id":"1.150151719","rc":[{"ltp":1.02,"id":9626618}]}]}
+{"op":"mcm","clk":"7813986889","pt":1540473352504,"mc":[{"id":"1.150151719","rc":[{"ltp":1.01,"id":9626618}]}]}
+{"op":"mcm","clk":"7814032461","pt":1540473864727,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"ACTIVE","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:49:16.000Z","version":2474905680,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}
+{"op":"mcm","clk":"7814046188","pt":1540474049345,"mc":[{"id":"1.150151719","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972701","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T11:30:00.000Z","suspendTime":"2018-10-25T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T13:27:24.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9626818,"name":"G Garcia Perez"},{"status":"WINNER","sortPriority":2,"id":9626618,"name":"M Niculescu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T11:49:16.000Z","version":2474906731,"name":"Match Odds","eventName":"G Garcia Perez v M Niculescu"}}]}

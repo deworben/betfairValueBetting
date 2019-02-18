@@ -1,0 +1,92 @@
+{"op":"mcm","clk":"7715329893","pt":1539631797477,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T16:00:00.000Z","suspendTime":"2018-10-16T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T16:00:00.000Z","version":2457522509,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}
+{"op":"mcm","clk":"7715420945","pt":1539632791296,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T16:00:00.000Z","suspendTime":"2018-10-16T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T16:00:00.000Z","version":2457522509,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}
+{"op":"mcm","clk":"7715960105","pt":1539640729542,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T18:00:00.000Z","suspendTime":"2018-10-16T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T18:00:00.000Z","version":2457628802,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}
+{"op":"mcm","clk":"7717830208","pt":1539673688795,"mc":[{"id":"1.149663486","rc":[{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7718998760","pt":1539687907426,"mc":[{"id":"1.149663486","rc":[{"ltp":8.4,"id":6603921},{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7719170179","pt":1539689977484,"mc":[{"id":"1.149663486","rc":[{"ltp":12.0,"id":6603921},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7720319813","pt":1539700720292,"mc":[{"id":"1.149663486","rc":[{"ltp":8.6,"id":6603921},{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7720633401","pt":1539703531170,"mc":[{"id":"1.149663486","rc":[{"ltp":1.08,"id":19924841}]}]}
+{"op":"mcm","clk":"7720708151","pt":1539704099046,"mc":[{"id":"1.149663486","rc":[{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7720853631","pt":1539705223799,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T17:52:00.000Z","suspendTime":"2018-10-16T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T17:52:00.000Z","version":2458239174,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}
+{"op":"mcm","clk":"7720927914","pt":1539705713122,"mc":[{"id":"1.149663486","rc":[{"ltp":9.6,"id":6603921},{"ltp":1.08,"id":19924841}]}]}
+{"op":"mcm","clk":"7720935633","pt":1539705772152,"mc":[{"id":"1.149663486","rc":[{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7720944282","pt":1539705837049,"mc":[{"id":"1.149663486","rc":[{"ltp":8.4,"id":6603921},{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7720952112","pt":1539705893760,"mc":[{"id":"1.149663486","rc":[{"ltp":7.4,"id":6603921},{"ltp":1.16,"id":19924841}]}]}
+{"op":"mcm","clk":"7720958585","pt":1539705938479,"mc":[{"id":"1.149663486","rc":[{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7720976423","pt":1539706071672,"mc":[{"id":"1.149663486","rc":[{"ltp":7.6,"id":6603921}]}]}
+{"op":"mcm","clk":"7720985059","pt":1539706135553,"mc":[{"id":"1.149663486","rc":[{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7721215393","pt":1539707516072,"mc":[{"id":"1.149663486","rc":[{"ltp":1.13,"id":19924841}]}]}
+{"op":"mcm","clk":"7721224133","pt":1539707575164,"mc":[{"id":"1.149663486","rc":[{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7721234160","pt":1539707637384,"mc":[{"id":"1.149663486","rc":[{"ltp":8.0,"id":6603921}]}]}
+{"op":"mcm","clk":"7721265524","pt":1539707818598,"mc":[{"id":"1.149663486","rc":[{"ltp":7.8,"id":6603921}]}]}
+{"op":"mcm","clk":"7721275835","pt":1539707878312,"mc":[{"id":"1.149663486","rc":[{"ltp":7.6,"id":6603921}]}]}
+{"op":"mcm","clk":"7721540854","pt":1539709438532,"mc":[{"id":"1.149663486","rc":[{"ltp":7.4,"id":6603921}]}]}
+{"op":"mcm","clk":"7721548311","pt":1539709488662,"mc":[{"id":"1.149663486","rc":[{"ltp":7.2,"id":6603921}]}]}
+{"op":"mcm","clk":"7721589598","pt":1539709738474,"mc":[{"id":"1.149663486","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7721597721","pt":1539709787372,"mc":[{"id":"1.149663486","rc":[{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7721793784","pt":1539710926500,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T17:27:00.000Z","suspendTime":"2018-10-16T17:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T17:27:00.000Z","version":2458426698,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}
+{"op":"mcm","clk":"7721801916","pt":1539710986457,"mc":[{"id":"1.149663486","rc":[{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7721846809","pt":1539711298615,"mc":[{"id":"1.149663486","rc":[{"ltp":6.8,"id":6603921}]}]}
+{"op":"mcm","clk":"7721989037","pt":1539712076434,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T17:27:00.000Z","suspendTime":"2018-10-16T17:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T17:27:00.000Z","version":2458458475,"name":"Match Odds","eventName":"Thompson v Rochette"},"rc":[{"ltp":8.6,"id":6603921},{"ltp":1.13,"id":19924841}]}]}
+{"op":"mcm","clk":"7722008331","pt":1539712198621,"mc":[{"id":"1.149663486","rc":[{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7722026185","pt":1539712310064,"mc":[{"id":"1.149663486","rc":[{"ltp":1.13,"id":19924841}]}]}
+{"op":"mcm","clk":"7722036300","pt":1539712373763,"mc":[{"id":"1.149663486","rc":[{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7722045289","pt":1539712432931,"mc":[{"id":"1.149663486","rc":[{"ltp":1.13,"id":19924841}]}]}
+{"op":"mcm","clk":"7722055360","pt":1539712498591,"mc":[{"id":"1.149663486","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7722101555","pt":1539712738612,"mc":[{"id":"1.149663486","rc":[{"ltp":9.4,"id":6603921},{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7722110860","pt":1539712797997,"mc":[{"id":"1.149663486","rc":[{"ltp":13.5,"id":6603921}]}]}
+{"op":"mcm","clk":"7722119853","pt":1539712854499,"mc":[{"id":"1.149663486","rc":[{"ltp":11.0,"id":6603921}]}]}
+{"op":"mcm","clk":"7722130645","pt":1539712918110,"mc":[{"id":"1.149663486","rc":[{"ltp":7.2,"id":6603921},{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7722140249","pt":1539712976298,"mc":[{"id":"1.149663486","rc":[{"ltp":6.2,"id":6603921},{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7722158816","pt":1539713081066,"mc":[{"id":"1.149663486","rc":[{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7722170740","pt":1539713157206,"mc":[{"id":"1.149663486","rc":[{"ltp":10.0,"id":6603921},{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7722188989","pt":1539713277479,"mc":[{"id":"1.149663486","rc":[{"ltp":13.5,"id":6603921},{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722198295","pt":1539713337083,"mc":[{"id":"1.149663486","rc":[{"ltp":17.5,"id":6603921},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722206636","pt":1539713392418,"mc":[{"id":"1.149663486","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722224847","pt":1539713518616,"mc":[{"id":"1.149663486","rc":[{"ltp":21.0,"id":6603921}]}]}
+{"op":"mcm","clk":"7722261162","pt":1539713697861,"mc":[{"id":"1.149663486","rc":[{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722269289","pt":1539713752068,"mc":[{"id":"1.149663486","rc":[{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7722288859","pt":1539713876743,"mc":[{"id":"1.149663486","rc":[{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722307640","pt":1539713997683,"mc":[{"id":"1.149663486","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722325440","pt":1539714118088,"mc":[{"id":"1.149663486","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722333317","pt":1539714176951,"mc":[{"id":"1.149663486","rc":[{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7722340626","pt":1539714237330,"mc":[{"id":"1.149663486","rc":[{"ltp":12.0,"id":6603921},{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722355022","pt":1539714358421,"mc":[{"id":"1.149663486","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722361811","pt":1539714416938,"mc":[{"id":"1.149663486","rc":[{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722377887","pt":1539714474885,"mc":[{"id":"1.149663486","rc":[{"ltp":17.5,"id":6603921}]}]}
+{"op":"mcm","clk":"7722385576","pt":1539714537942,"mc":[{"id":"1.149663486","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722392394","pt":1539714597798,"mc":[{"id":"1.149663486","rc":[{"ltp":12.0,"id":6603921},{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7722407009","pt":1539714717913,"mc":[{"id":"1.149663486","rc":[{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7722414674","pt":1539714778362,"mc":[{"id":"1.149663486","rc":[{"ltp":7.0,"id":6603921},{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7722422319","pt":1539714837105,"mc":[{"id":"1.149663486","rc":[{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7722430263","pt":1539714898592,"mc":[{"id":"1.149663486","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722438419","pt":1539714957151,"mc":[{"id":"1.149663486","rc":[{"ltp":26.0,"id":6603921},{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722446088","pt":1539715015357,"mc":[{"id":"1.149663486","rc":[{"ltp":21.0,"id":6603921},{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722488539","pt":1539715318626,"mc":[{"id":"1.149663486","rc":[{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7722505728","pt":1539715374465,"mc":[{"id":"1.149663486","rc":[{"ltp":26.0,"id":6603921},{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722523047","pt":1539715498557,"mc":[{"id":"1.149663486","rc":[{"ltp":17.5,"id":6603921},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722531931","pt":1539715558473,"mc":[{"id":"1.149663486","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722549191","pt":1539715674034,"mc":[{"id":"1.149663486","rc":[{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7722576935","pt":1539715857927,"mc":[{"id":"1.149663486","rc":[{"ltp":34.0,"id":6603921},{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722585675","pt":1539715917842,"mc":[{"id":"1.149663486","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722593827","pt":1539715978635,"mc":[{"id":"1.149663486","rc":[{"ltp":17.5,"id":6603921},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722601437","pt":1539716037393,"mc":[{"id":"1.149663486","rc":[{"ltp":21.0,"id":6603921},{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722617902","pt":1539716158092,"mc":[{"id":"1.149663486","rc":[{"ltp":30.0,"id":6603921},{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722643794","pt":1539716276563,"mc":[{"id":"1.149663486","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722652452","pt":1539716338485,"mc":[{"id":"1.149663486","rc":[{"ltp":11.0,"id":6603921},{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7722660119","pt":1539716394026,"mc":[{"id":"1.149663486","rc":[{"ltp":15.0,"id":6603921},{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7722669093","pt":1539716457098,"mc":[{"id":"1.149663486","rc":[{"ltp":17.5,"id":6603921},{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7722676817","pt":1539716512764,"mc":[{"id":"1.149663486","rc":[{"ltp":21.0,"id":6603921}]}]}
+{"op":"mcm","clk":"7722686038","pt":1539716578259,"mc":[{"id":"1.149663486","rc":[{"ltp":18.0,"id":6603921},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722694612","pt":1539716637463,"mc":[{"id":"1.149663486","rc":[{"ltp":13.5,"id":6603921},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7722703518","pt":1539716697503,"mc":[{"id":"1.149663486","rc":[{"ltp":8.2,"id":6603921},{"ltp":1.14,"id":19924841}]}]}
+{"op":"mcm","clk":"7722712521","pt":1539716757298,"mc":[{"id":"1.149663486","rc":[{"ltp":12.5,"id":6603921},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7722721779","pt":1539716817359,"mc":[{"id":"1.149663486","rc":[{"ltp":21.0,"id":6603921},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7722731343","pt":1539716878630,"mc":[{"id":"1.149663486","rc":[{"ltp":10.0,"id":6603921},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7722740443","pt":1539716938394,"mc":[{"id":"1.149663486","rc":[{"ltp":10.5,"id":6603921},{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7722749558","pt":1539716998419,"mc":[{"id":"1.149663486","rc":[{"ltp":10.0,"id":6603921},{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7722758867","pt":1539717057561,"mc":[{"id":"1.149663486","rc":[{"ltp":8.2,"id":6603921},{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7722768406","pt":1539717118295,"mc":[{"id":"1.149663486","rc":[{"ltp":6.2,"id":6603921},{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7722787152","pt":1539717178388,"mc":[{"id":"1.149663486","rc":[{"ltp":12.5,"id":6603921},{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7722792972","pt":1539717215375,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T17:27:00.000Z","suspendTime":"2018-10-16T17:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T17:27:00.000Z","version":2458657752,"name":"Match Odds","eventName":"Thompson v Rochette"},"rc":[{"ltp":26.0,"id":6603921},{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7722798889","pt":1539717255172,"mc":[{"id":"1.149663486","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T17:27:00.000Z","suspendTime":"2018-10-16T17:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-16T19:14:08.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"LOSER","sortPriority":2,"id":6603921,"name":"Laurent Rochette"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T17:27:00.000Z","version":2458659414,"name":"Match Odds","eventName":"Thompson v Rochette"}}]}

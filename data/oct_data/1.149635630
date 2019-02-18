@@ -1,0 +1,103 @@
+{"op":"mcm","clk":"7713858512","pt":1539617394622,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2457183086,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}
+{"op":"mcm","clk":"7713873974","pt":1539617568205,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2457183086,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}
+{"op":"mcm","clk":"7716528215","pt":1539649730893,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T09:00:00.000Z","suspendTime":"2018-10-17T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T09:00:00.000Z","version":2457700506,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}
+{"op":"mcm","clk":"7718771360","pt":1539685366958,"mc":[{"id":"1.149635630","rc":[{"ltp":1.43,"id":9633253}]}]}
+{"op":"mcm","clk":"7720004614","pt":1539698030018,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T13:00:00.000Z","suspendTime":"2018-10-17T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T13:00:00.000Z","version":2458087812,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}
+{"op":"mcm","clk":"7722868362","pt":1539717755658,"mc":[{"id":"1.149635630","rc":[{"ltp":1.48,"id":9633253}]}]}
+{"op":"mcm","clk":"7723634184","pt":1539726624849,"mc":[{"id":"1.149635630","rc":[{"ltp":1.47,"id":9633253}]}]}
+{"op":"mcm","clk":"7723773635","pt":1539730117800,"mc":[{"id":"1.149635630","rc":[{"ltp":1.46,"id":9633253}]}]}
+{"op":"mcm","clk":"7725540501","pt":1539757427213,"mc":[{"id":"1.149635630","rc":[{"ltp":1.43,"id":9633253}]}]}
+{"op":"mcm","clk":"7726873902","pt":1539773331721,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T12:48:00.000Z","suspendTime":"2018-10-17T12:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T12:48:00.000Z","version":2459175664,"name":"Match Odds","eventName":"Lamasine v Humbert"},"rc":[{"ltp":1.46,"id":9633253}]}]}
+{"op":"mcm","clk":"7726898234","pt":1539773687657,"mc":[{"id":"1.149635630","rc":[{"ltp":1.43,"id":9633253}]}]}
+{"op":"mcm","clk":"7727067468","pt":1539775375771,"mc":[{"id":"1.149635630","rc":[{"ltp":1.44,"id":9633253},{"ltp":3.3,"id":8428332}]}]}
+{"op":"mcm","clk":"7727087210","pt":1539775607224,"mc":[{"id":"1.149635630","rc":[{"ltp":1.46,"id":9633253}]}]}
+{"op":"mcm","clk":"7727124134","pt":1539775865029,"mc":[{"id":"1.149635630","rc":[{"ltp":1.43,"id":9633253}]}]}
+{"op":"mcm","clk":"7727531071","pt":1539779744627,"mc":[{"id":"1.149635630","rc":[{"ltp":1.4,"id":9633253},{"ltp":3.35,"id":8428332}]}]}
+{"op":"mcm","clk":"7727548696","pt":1539779931517,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T12:41:00.000Z","suspendTime":"2018-10-17T12:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T12:41:00.000Z","version":2459290931,"name":"Match Odds","eventName":"Lamasine v Humbert"},"rc":[{"ltp":3.5,"id":8428332}]}]}
+{"op":"mcm","clk":"7727605971","pt":1539780414927,"mc":[{"id":"1.149635630","rc":[{"ltp":1.39,"id":9633253}]}]}
+{"op":"mcm","clk":"7727612264","pt":1539780473339,"mc":[{"id":"1.149635630","rc":[{"ltp":1.4,"id":9633253}]}]}
+{"op":"mcm","clk":"7727630847","pt":1539780638606,"mc":[{"id":"1.149635630","rc":[{"ltp":1.43,"id":9633253},{"ltp":3.25,"id":8428332}]}]}
+{"op":"mcm","clk":"7727638565","pt":1539780716214,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T12:41:00.000Z","suspendTime":"2018-10-17T12:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T12:41:00.000Z","version":2459296513,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}
+{"op":"mcm","clk":"7727643737","pt":1539780775989,"mc":[{"id":"1.149635630","rc":[{"ltp":1.42,"id":9633253},{"ltp":3.35,"id":8428332}]}]}
+{"op":"mcm","clk":"7727654629","pt":1539780895828,"mc":[{"id":"1.149635630","rc":[{"ltp":1.51,"id":9633253},{"ltp":3.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727660245","pt":1539780955353,"mc":[{"id":"1.149635630","rc":[{"ltp":1.57,"id":9633253},{"ltp":2.9,"id":8428332}]}]}
+{"op":"mcm","clk":"7727665738","pt":1539781013871,"mc":[{"id":"1.149635630","rc":[{"ltp":1.52,"id":9633253}]}]}
+{"op":"mcm","clk":"7727688315","pt":1539781135982,"mc":[{"id":"1.149635630","rc":[{"ltp":1.47,"id":9633253},{"ltp":3.1,"id":8428332}]}]}
+{"op":"mcm","clk":"7727693608","pt":1539781193852,"mc":[{"id":"1.149635630","rc":[{"ltp":1.45,"id":9633253}]}]}
+{"op":"mcm","clk":"7727699616","pt":1539781255226,"mc":[{"id":"1.149635630","rc":[{"ltp":1.35,"id":9633253},{"ltp":3.9,"id":8428332}]}]}
+{"op":"mcm","clk":"7727705633","pt":1539781316321,"mc":[{"id":"1.149635630","rc":[{"ltp":1.22,"id":9633253}]}]}
+{"op":"mcm","clk":"7727711066","pt":1539781375430,"mc":[{"id":"1.149635630","rc":[{"ltp":5.3,"id":8428332}]}]}
+{"op":"mcm","clk":"7727716868","pt":1539781435119,"mc":[{"id":"1.149635630","rc":[{"ltp":1.26,"id":9633253}]}]}
+{"op":"mcm","clk":"7727722296","pt":1539781491993,"mc":[{"id":"1.149635630","rc":[{"ltp":1.18,"id":9633253}]}]}
+{"op":"mcm","clk":"7727729211","pt":1539781555912,"mc":[{"id":"1.149635630","rc":[{"ltp":1.19,"id":9633253},{"ltp":6.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727735185","pt":1539781616414,"mc":[{"id":"1.149635630","rc":[{"ltp":1.16,"id":9633253}]}]}
+{"op":"mcm","clk":"7727741074","pt":1539781675720,"mc":[{"id":"1.149635630","rc":[{"ltp":1.15,"id":9633253}]}]}
+{"op":"mcm","clk":"7727747003","pt":1539781735748,"mc":[{"id":"1.149635630","rc":[{"ltp":1.21,"id":9633253},{"ltp":5.7,"id":8428332}]}]}
+{"op":"mcm","clk":"7727764998","pt":1539781913724,"mc":[{"id":"1.149635630","rc":[{"ltp":1.16,"id":9633253}]}]}
+{"op":"mcm","clk":"7727782045","pt":1539781974212,"mc":[{"id":"1.149635630","rc":[{"ltp":1.18,"id":9633253},{"ltp":7.2,"id":8428332}]}]}
+{"op":"mcm","clk":"7727792753","pt":1539782089159,"mc":[{"id":"1.149635630","rc":[{"ltp":1.2,"id":9633253}]}]}
+{"op":"mcm","clk":"7727803854","pt":1539782216173,"mc":[{"id":"1.149635630","rc":[{"ltp":1.35,"id":9633253},{"ltp":3.85,"id":8428332}]}]}
+{"op":"mcm","clk":"7727809626","pt":1539782276192,"mc":[{"id":"1.149635630","rc":[{"ltp":1.31,"id":9633253},{"ltp":3.55,"id":8428332}]}]}
+{"op":"mcm","clk":"7727814853","pt":1539782331579,"mc":[{"id":"1.149635630","rc":[{"ltp":1.23,"id":9633253}]}]}
+{"op":"mcm","clk":"7727820766","pt":1539782395219,"mc":[{"id":"1.149635630","rc":[{"ltp":1.3,"id":9633253},{"ltp":4.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727826404","pt":1539782455360,"mc":[{"id":"1.149635630","rc":[{"ltp":1.42,"id":9633253},{"ltp":3.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7727832017","pt":1539782516305,"mc":[{"id":"1.149635630","rc":[{"ltp":1.31,"id":9633253}]}]}
+{"op":"mcm","clk":"7727837109","pt":1539782575570,"mc":[{"id":"1.149635630","rc":[{"ltp":1.48,"id":9633253},{"ltp":3.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7727842165","pt":1539782635941,"mc":[{"id":"1.149635630","rc":[{"ltp":1.64,"id":9633253},{"ltp":2.58,"id":8428332}]}]}
+{"op":"mcm","clk":"7727846897","pt":1539782695078,"mc":[{"id":"1.149635630","rc":[{"ltp":1.61,"id":9633253},{"ltp":2.64,"id":8428332}]}]}
+{"op":"mcm","clk":"7727851952","pt":1539782756230,"mc":[{"id":"1.149635630","rc":[{"ltp":1.5,"id":9633253},{"ltp":3.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727856912","pt":1539782815462,"mc":[{"id":"1.149635630","rc":[{"ltp":1.55,"id":9633253},{"ltp":2.54,"id":8428332}]}]}
+{"op":"mcm","clk":"7727873255","pt":1539782876318,"mc":[{"id":"1.149635630","rc":[{"ltp":1.51,"id":9633253},{"ltp":2.96,"id":8428332}]}]}
+{"op":"mcm","clk":"7727878376","pt":1539782935922,"mc":[{"id":"1.149635630","rc":[{"ltp":1.49,"id":9633253},{"ltp":2.94,"id":8428332}]}]}
+{"op":"mcm","clk":"7727884088","pt":1539782995883,"mc":[{"id":"1.149635630","rc":[{"ltp":1.52,"id":9633253},{"ltp":2.82,"id":8428332}]}]}
+{"op":"mcm","clk":"7727890023","pt":1539783056370,"mc":[{"id":"1.149635630","rc":[{"ltp":1.7,"id":9633253},{"ltp":2.48,"id":8428332}]}]}
+{"op":"mcm","clk":"7727896121","pt":1539783115851,"mc":[{"id":"1.149635630","rc":[{"ltp":1.73,"id":9633253},{"ltp":2.38,"id":8428332}]}]}
+{"op":"mcm","clk":"7727901866","pt":1539783176186,"mc":[{"id":"1.149635630","rc":[{"ltp":1.76,"id":9633253}]}]}
+{"op":"mcm","clk":"7727907616","pt":1539783235549,"mc":[{"id":"1.149635630","rc":[{"ltp":2.48,"id":8428332}]}]}
+{"op":"mcm","clk":"7727913520","pt":1539783295118,"mc":[{"id":"1.149635630","rc":[{"ltp":2.06,"id":9633253},{"ltp":2.3,"id":8428332}]}]}
+{"op":"mcm","clk":"7727919389","pt":1539783356364,"mc":[{"id":"1.149635630","rc":[{"ltp":1.6,"id":9633253},{"ltp":2.76,"id":8428332}]}]}
+{"op":"mcm","clk":"7727924874","pt":1539783416287,"mc":[{"id":"1.149635630","rc":[{"ltp":1.41,"id":9633253},{"ltp":3.45,"id":8428332}]}]}
+{"op":"mcm","clk":"7727930169","pt":1539783475107,"mc":[{"id":"1.149635630","rc":[{"ltp":1.28,"id":9633253},{"ltp":4.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7727935601","pt":1539783536240,"mc":[{"id":"1.149635630","rc":[{"ltp":1.22,"id":9633253},{"ltp":6.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727940816","pt":1539783596262,"mc":[{"id":"1.149635630","rc":[{"ltp":1.18,"id":9633253},{"ltp":5.5,"id":8428332}]}]}
+{"op":"mcm","clk":"7727946306","pt":1539783655606,"mc":[{"id":"1.149635630","rc":[{"ltp":7.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7727952013","pt":1539783715703,"mc":[{"id":"1.149635630","rc":[{"ltp":1.15,"id":9633253},{"ltp":8.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7727967743","pt":1539783774107,"mc":[{"id":"1.149635630","rc":[{"ltp":1.16,"id":9633253}]}]}
+{"op":"mcm","clk":"7727973116","pt":1539783835619,"mc":[{"id":"1.149635630","rc":[{"ltp":7.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7727977690","pt":1539783890185,"mc":[{"id":"1.149635630","rc":[{"ltp":1.15,"id":9633253},{"ltp":7.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7727983676","pt":1539783956329,"mc":[{"id":"1.149635630","rc":[{"ltp":1.13,"id":9633253}]}]}
+{"op":"mcm","clk":"7727988857","pt":1539784014508,"mc":[{"id":"1.149635630","rc":[{"ltp":9.2,"id":8428332}]}]}
+{"op":"mcm","clk":"7727994636","pt":1539784076086,"mc":[{"id":"1.149635630","rc":[{"ltp":1.14,"id":9633253},{"ltp":8.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728000148","pt":1539784134891,"mc":[{"id":"1.149635630","rc":[{"ltp":1.11,"id":9633253}]}]}
+{"op":"mcm","clk":"7728005613","pt":1539784194204,"mc":[{"id":"1.149635630","rc":[{"ltp":9.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7728011432","pt":1539784254635,"mc":[{"id":"1.149635630","rc":[{"ltp":1.12,"id":9633253},{"ltp":10.5,"id":8428332}]}]}
+{"op":"mcm","clk":"7728017235","pt":1539784316342,"mc":[{"id":"1.149635630","rc":[{"ltp":1.13,"id":9633253},{"ltp":8.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7728022725","pt":1539784375520,"mc":[{"id":"1.149635630","rc":[{"ltp":1.15,"id":9633253},{"ltp":7.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7728027868","pt":1539784436407,"mc":[{"id":"1.149635630","rc":[{"ltp":1.16,"id":9633253},{"ltp":7.4,"id":8428332}]}]}
+{"op":"mcm","clk":"7728032486","pt":1539784495465,"mc":[{"id":"1.149635630","rc":[{"ltp":6.2,"id":8428332}]}]}
+{"op":"mcm","clk":"7728037201","pt":1539784555421,"mc":[{"id":"1.149635630","rc":[{"ltp":1.13,"id":9633253},{"ltp":8.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7728041984","pt":1539784616218,"mc":[{"id":"1.149635630","rc":[{"ltp":1.14,"id":9633253},{"ltp":8.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728057985","pt":1539784676176,"mc":[{"id":"1.149635630","rc":[{"ltp":1.17,"id":9633253}]}]}
+{"op":"mcm","clk":"7728062824","pt":1539784735317,"mc":[{"id":"1.149635630","rc":[{"ltp":1.16,"id":9633253},{"ltp":6.8,"id":8428332}]}]}
+{"op":"mcm","clk":"7728067777","pt":1539784795509,"mc":[{"id":"1.149635630","rc":[{"ltp":1.14,"id":9633253}]}]}
+{"op":"mcm","clk":"7728073092","pt":1539784851319,"mc":[{"id":"1.149635630","rc":[{"ltp":1.15,"id":9633253}]}]}
+{"op":"mcm","clk":"7728079002","pt":1539784915833,"mc":[{"id":"1.149635630","rc":[{"ltp":8.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728084369","pt":1539784976111,"mc":[{"id":"1.149635630","rc":[{"ltp":1.07,"id":9633253},{"ltp":13.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728089317","pt":1539785035582,"mc":[{"id":"1.149635630","rc":[{"ltp":1.06,"id":9633253}]}]}
+{"op":"mcm","clk":"7728094347","pt":1539785096376,"mc":[{"id":"1.149635630","rc":[{"ltp":1.01,"id":9633253},{"ltp":21.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728099519","pt":1539785155540,"mc":[{"id":"1.149635630","rc":[{"ltp":1.02,"id":9633253},{"ltp":26.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728104564","pt":1539785215651,"mc":[{"id":"1.149635630","rc":[{"ltp":1.03,"id":9633253}]}]}
+{"op":"mcm","clk":"7728109895","pt":1539785275907,"mc":[{"id":"1.149635630","rc":[{"ltp":1.04,"id":9633253}]}]}
+{"op":"mcm","clk":"7728115185","pt":1539785335244,"mc":[{"id":"1.149635630","rc":[{"ltp":1.03,"id":9633253}]}]}
+{"op":"mcm","clk":"7728120237","pt":1539785394467,"mc":[{"id":"1.149635630","rc":[{"ltp":1.04,"id":9633253}]}]}
+{"op":"mcm","clk":"7728125518","pt":1539785455103,"mc":[{"id":"1.149635630","rc":[{"ltp":1.05,"id":9633253},{"ltp":21.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728130738","pt":1539785515487,"mc":[{"id":"1.149635630","rc":[{"ltp":1.07,"id":9633253},{"ltp":8.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728146748","pt":1539785576285,"mc":[{"id":"1.149635630","rc":[{"ltp":1.14,"id":9633253},{"ltp":7.6,"id":8428332}]}]}
+{"op":"mcm","clk":"7728151664","pt":1539785635524,"mc":[{"id":"1.149635630","rc":[{"ltp":1.12,"id":9633253},{"ltp":9.2,"id":8428332}]}]}
+{"op":"mcm","clk":"7728156538","pt":1539785696207,"mc":[{"id":"1.149635630","rc":[{"ltp":1.14,"id":9633253}]}]}
+{"op":"mcm","clk":"7728161236","pt":1539785753650,"mc":[{"id":"1.149635630","rc":[{"ltp":1.13,"id":9633253}]}]}
+{"op":"mcm","clk":"7728166477","pt":1539785815713,"mc":[{"id":"1.149635630","rc":[{"ltp":1.02,"id":9633253}]}]}
+{"op":"mcm","clk":"7728171219","pt":1539785874190,"mc":[{"id":"1.149635630","rc":[{"ltp":1.01,"id":9633253}]}]}
+{"op":"mcm","clk":"7728176274","pt":1539785935104,"mc":[{"id":"1.149635630","rc":[{"ltp":1.02,"id":9633253}]}]}
+{"op":"mcm","clk":"7728181235","pt":1539785994771,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T12:41:00.000Z","suspendTime":"2018-10-17T12:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"ACTIVE","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T12:41:00.000Z","version":2459353781,"name":"Match Odds","eventName":"Lamasine v Humbert"},"rc":[{"ltp":1.01,"id":9633253},{"ltp":26.0,"id":8428332}]}]}
+{"op":"mcm","clk":"7728182103","pt":1539786005123,"mc":[{"id":"1.149635630","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958567","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T12:41:00.000Z","suspendTime":"2018-10-17T12:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-17T14:19:59.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8428332,"name":"Tristan Lamasine"},{"status":"WINNER","sortPriority":2,"id":9633253,"name":"Ugo Humbert"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T12:41:00.000Z","version":2459354079,"name":"Match Odds","eventName":"Lamasine v Humbert"}}]}

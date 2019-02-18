@@ -1,0 +1,64 @@
+{"op":"mcm","clk":"7827209093","pt":1540607391874,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T14:00:00.000Z","suspendTime":"2018-10-27T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T14:00:00.000Z","version":2477458316,"name":"Match Odds","eventName":"18735158"}}]}
+{"op":"mcm","clk":"7827266228","pt":1540608108072,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T14:00:00.000Z","suspendTime":"2018-10-27T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T14:00:00.000Z","version":2477458316,"name":"Match Odds","eventName":"18735158"}}]}
+{"op":"mcm","clk":"7831421453","pt":1540640678352,"mc":[{"id":"1.150293261","rc":[{"ltp":1.28,"id":8859306}]}]}
+{"op":"mcm","clk":"7831811752","pt":1540642490354,"mc":[{"id":"1.150293261","rc":[{"ltp":1.27,"id":8859306}]}]}
+{"op":"mcm","clk":"7833083518","pt":1540647412577,"mc":[{"id":"1.150293261","rc":[{"ltp":1.22,"id":8859306}]}]}
+{"op":"mcm","clk":"7833293654","pt":1540648162867,"mc":[{"id":"1.150293261","rc":[{"ltp":1.28,"id":8859306}]}]}
+{"op":"mcm","clk":"7833350682","pt":1540648425429,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T13:53:00.000Z","suspendTime":"2018-10-27T13:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T13:53:00.000Z","version":2478633801,"name":"Match Odds","eventName":"18735158"}}]}
+{"op":"mcm","clk":"7833420063","pt":1540648717711,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T13:53:00.000Z","suspendTime":"2018-10-27T13:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T13:53:00.000Z","version":2478642974,"name":"Match Odds","eventName":"18735158"}}]}
+{"op":"mcm","clk":"7833626885","pt":1540649327305,"mc":[{"id":"1.150293261","rc":[{"ltp":4.5,"id":7444812}]}]}
+{"op":"mcm","clk":"7833645402","pt":1540649380642,"mc":[{"id":"1.150293261","rc":[{"ltp":4.1,"id":7444812},{"ltp":1.33,"id":8859306}]}]}
+{"op":"mcm","clk":"7833797182","pt":1540649811987,"mc":[{"id":"1.150293261","rc":[{"ltp":1.31,"id":8859306}]}]}
+{"op":"mcm","clk":"7834100632","pt":1540650651202,"mc":[{"id":"1.150293261","rc":[{"ltp":1.33,"id":8859306}]}]}
+{"op":"mcm","clk":"7834120285","pt":1540650708449,"mc":[{"id":"1.150293261","rc":[{"ltp":1.35,"id":8859306}]}]}
+{"op":"mcm","clk":"7834171391","pt":1540650806178,"mc":[{"id":"1.150293261","rc":[{"ltp":1.17,"id":8859306}]}]}
+{"op":"mcm","clk":"7834239151","pt":1540651001233,"mc":[{"id":"1.150293261","rc":[{"ltp":1.12,"id":8859306}]}]}
+{"op":"mcm","clk":"7834280724","pt":1540651126819,"mc":[{"id":"1.150293261","rc":[{"ltp":1.09,"id":8859306}]}]}
+{"op":"mcm","clk":"7834481920","pt":1540651670849,"mc":[{"id":"1.150293261","rc":[{"ltp":1.04,"id":8859306}]}]}
+{"op":"mcm","clk":"7834500481","pt":1540651730071,"mc":[{"id":"1.150293261","rc":[{"ltp":1.03,"id":8859306}]}]}
+{"op":"mcm","clk":"7834551153","pt":1540651909116,"mc":[{"id":"1.150293261","rc":[{"ltp":1.01,"id":8859306}]}]}
+{"op":"mcm","clk":"7834581380","pt":1540652029829,"mc":[{"id":"1.150293261","rc":[{"ltp":1.02,"id":8859306}]}]}
+{"op":"mcm","clk":"7834750263","pt":1540652629449,"mc":[{"id":"1.150293261","rc":[{"ltp":1.01,"id":8859306}]}]}
+{"op":"mcm","clk":"7834785257","pt":1540652742410,"mc":[{"id":"1.150293261","rc":[{"ltp":50.0,"id":7444812},{"ltp":1.02,"id":8859306}]}]}
+{"op":"mcm","clk":"7834803658","pt":1540652794611,"mc":[{"id":"1.150293261","rc":[{"ltp":21.0,"id":7444812},{"ltp":1.07,"id":8859306}]}]}
+{"op":"mcm","clk":"7834851915","pt":1540652929399,"mc":[{"id":"1.150293261","rc":[{"ltp":1.16,"id":8859306}]}]}
+{"op":"mcm","clk":"7834875055","pt":1540652992273,"mc":[{"id":"1.150293261","rc":[{"ltp":1.15,"id":8859306}]}]}
+{"op":"mcm","clk":"7834897946","pt":1540653052371,"mc":[{"id":"1.150293261","rc":[{"ltp":1.21,"id":8859306}]}]}
+{"op":"mcm","clk":"7834939659","pt":1540653166310,"mc":[{"id":"1.150293261","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7834986501","pt":1540653290802,"mc":[{"id":"1.150293261","rc":[{"ltp":6.8,"id":7444812},{"ltp":1.13,"id":8859306}]}]}
+{"op":"mcm","clk":"7835004879","pt":1540653339962,"mc":[{"id":"1.150293261","rc":[{"ltp":1.17,"id":8859306}]}]}
+{"op":"mcm","clk":"7835031092","pt":1540653411865,"mc":[{"id":"1.150293261","rc":[{"ltp":1.22,"id":8859306}]}]}
+{"op":"mcm","clk":"7835066971","pt":1540653465714,"mc":[{"id":"1.150293261","rc":[{"ltp":8.0,"id":7444812},{"ltp":1.15,"id":8859306}]}]}
+{"op":"mcm","clk":"7835090590","pt":1540653530926,"mc":[{"id":"1.150293261","rc":[{"ltp":1.08,"id":8859306}]}]}
+{"op":"mcm","clk":"7835110420","pt":1540653586146,"mc":[{"id":"1.150293261","rc":[{"ltp":8.8,"id":7444812},{"ltp":1.07,"id":8859306}]}]}
+{"op":"mcm","clk":"7835132736","pt":1540653650029,"mc":[{"id":"1.150293261","rc":[{"ltp":5.3,"id":7444812},{"ltp":1.24,"id":8859306}]}]}
+{"op":"mcm","clk":"7835195362","pt":1540653829115,"mc":[{"id":"1.150293261","rc":[{"ltp":3.25,"id":7444812}]}]}
+{"op":"mcm","clk":"7835216140","pt":1540653890175,"mc":[{"id":"1.150293261","rc":[{"ltp":3.85,"id":7444812}]}]}
+{"op":"mcm","clk":"7835237716","pt":1540653952260,"mc":[{"id":"1.150293261","rc":[{"ltp":2.88,"id":7444812},{"ltp":1.62,"id":8859306}]}]}
+{"op":"mcm","clk":"7835256556","pt":1540654007404,"mc":[{"id":"1.150293261","rc":[{"ltp":3.0,"id":7444812},{"ltp":1.5,"id":8859306}]}]}
+{"op":"mcm","clk":"7835278981","pt":1540654072238,"mc":[{"id":"1.150293261","rc":[{"ltp":2.88,"id":7444812},{"ltp":1.62,"id":8859306}]}]}
+{"op":"mcm","clk":"7835299259","pt":1540654129439,"mc":[{"id":"1.150293261","rc":[{"ltp":2.3,"id":7444812},{"ltp":1.77,"id":8859306}]}]}
+{"op":"mcm","clk":"7835319743","pt":1540654188779,"mc":[{"id":"1.150293261","rc":[{"ltp":1.7,"id":7444812},{"ltp":2.42,"id":8859306}]}]}
+{"op":"mcm","clk":"7835344017","pt":1540654252067,"mc":[{"id":"1.150293261","rc":[{"ltp":2.3,"id":7444812},{"ltp":1.77,"id":8859306}]}]}
+{"op":"mcm","clk":"7835366361","pt":1540654312216,"mc":[{"id":"1.150293261","rc":[{"ltp":2.62,"id":7444812},{"ltp":1.62,"id":8859306}]}]}
+{"op":"mcm","clk":"7835402866","pt":1540654370535,"mc":[{"id":"1.150293261","rc":[{"ltp":2.2,"id":7444812},{"ltp":1.76,"id":8859306}]}]}
+{"op":"mcm","clk":"7835424358","pt":1540654429983,"mc":[{"id":"1.150293261","rc":[{"ltp":2.06,"id":7444812},{"ltp":1.95,"id":8859306}]}]}
+{"op":"mcm","clk":"7835446397","pt":1540654491853,"mc":[{"id":"1.150293261","rc":[{"ltp":1.89,"id":8859306}]}]}
+{"op":"mcm","clk":"7835466637","pt":1540654550850,"mc":[{"id":"1.150293261","rc":[{"ltp":2.0,"id":7444812},{"ltp":2.0,"id":8859306}]}]}
+{"op":"mcm","clk":"7835526831","pt":1540654732218,"mc":[{"id":"1.150293261","rc":[{"ltp":2.02,"id":8859306}]}]}
+{"op":"mcm","clk":"7835546681","pt":1540654790795,"mc":[{"id":"1.150293261","rc":[{"ltp":2.06,"id":7444812},{"ltp":1.89,"id":8859306}]}]}
+{"op":"mcm","clk":"7835569237","pt":1540654852378,"mc":[{"id":"1.150293261","rc":[{"ltp":1.92,"id":7444812},{"ltp":2.08,"id":8859306}]}]}
+{"op":"mcm","clk":"7835607264","pt":1540654971851,"mc":[{"id":"1.150293261","rc":[{"ltp":2.24,"id":7444812},{"ltp":1.8,"id":8859306}]}]}
+{"op":"mcm","clk":"7835626645","pt":1540655032283,"mc":[{"id":"1.150293261","rc":[{"ltp":2.0,"id":7444812},{"ltp":2.0,"id":8859306}]}]}
+{"op":"mcm","clk":"7835641748","pt":1540655079474,"mc":[{"id":"1.150293261","rc":[{"ltp":2.3,"id":7444812}]}]}
+{"op":"mcm","clk":"7835664094","pt":1540655152002,"mc":[{"id":"1.150293261","rc":[{"ltp":1.95,"id":7444812},{"ltp":2.06,"id":8859306}]}]}
+{"op":"mcm","clk":"7835730941","pt":1540655329431,"mc":[{"id":"1.150293261","rc":[{"ltp":3.85,"id":7444812},{"ltp":1.43,"id":8859306}]}]}
+{"op":"mcm","clk":"7835745329","pt":1540655386484,"mc":[{"id":"1.150293261","rc":[{"ltp":6.2,"id":7444812},{"ltp":1.19,"id":8859306}]}]}
+{"op":"mcm","clk":"7835760484","pt":1540655452283,"mc":[{"id":"1.150293261","rc":[{"ltp":7.2,"id":7444812},{"ltp":1.15,"id":8859306}]}]}
+{"op":"mcm","clk":"7835771139","pt":1540655502087,"mc":[{"id":"1.150293261","rc":[{"ltp":11.0,"id":7444812},{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7835836193","pt":1540655871026,"mc":[{"id":"1.150293261","rc":[{"ltp":17.5,"id":7444812},{"ltp":1.06,"id":8859306}]}]}
+{"op":"mcm","clk":"7835845283","pt":1540655931433,"mc":[{"id":"1.150293261","rc":[{"ltp":6.2,"id":7444812},{"ltp":1.17,"id":8859306}]}]}
+{"op":"mcm","clk":"7835854532","pt":1540655992309,"mc":[{"id":"1.150293261","rc":[{"ltp":11.0,"id":7444812},{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7835876359","pt":1540656111382,"mc":[{"id":"1.150293261","rc":[{"ltp":1.11,"id":8859306}]}]}
+{"op":"mcm","clk":"7835896801","pt":1540656135096,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T13:53:00.000Z","suspendTime":"2018-10-27T13:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T13:53:00.000Z","version":2479497386,"name":"Match Odds","eventName":"18735158"}}]}
+{"op":"mcm","clk":"7836004595","pt":1540656607354,"mc":[{"id":"1.150293261","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978446","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T13:53:00.000Z","suspendTime":"2018-10-27T13:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-27T16:05:52.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"LOSER","sortPriority":2,"id":7444812,"name":"Alexander Ritschard"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T13:53:00.000Z","version":2479534253,"name":"Match Odds","eventName":"18735158"}}]}

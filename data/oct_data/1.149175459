@@ -1,0 +1,72 @@
+{"op":"mcm","clk":"7635721683","pt":1538812227641,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T02:00:00.000Z","suspendTime":"2018-10-07T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"ACTIVE","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T02:00:00.000Z","version":2439524043,"name":"Match Odds","eventName":"Jia Lu v Sharipova"}}]}
+{"op":"mcm","clk":"7636341202","pt":1538816843687,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T02:00:00.000Z","suspendTime":"2018-10-07T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"ACTIVE","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T02:00:00.000Z","version":2439549020,"name":"Match Odds","eventName":"Jia Lu v Sharipova"}}]}
+{"op":"mcm","clk":"7644491825","pt":1538856846019,"mc":[{"id":"1.149175459","rc":[{"ltp":1.5,"id":4196657}]}]}
+{"op":"mcm","clk":"7646845584","pt":1538876901020,"mc":[{"id":"1.149175459","rc":[{"ltp":1.55,"id":4196657}]}]}
+{"op":"mcm","clk":"7646856788","pt":1538877022808,"mc":[{"id":"1.149175459","rc":[{"ltp":1.54,"id":4196657}]}]}
+{"op":"mcm","clk":"7646879678","pt":1538877273863,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:50:00.000Z","suspendTime":"2018-10-07T01:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"ACTIVE","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:50:00.000Z","version":2442842841,"name":"Match Odds","eventName":"Jia Lu v Sharipova"}}]}
+{"op":"mcm","clk":"7646883353","pt":1538877320264,"mc":[{"id":"1.149175459","rc":[{"ltp":1.57,"id":4196657},{"ltp":2.74,"id":9002321}]}]}
+{"op":"mcm","clk":"7646912391","pt":1538877545507,"mc":[{"id":"1.149175459","rc":[{"ltp":1.54,"id":4196657}]}]}
+{"op":"mcm","clk":"7646963183","pt":1538878285614,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:50:00.000Z","suspendTime":"2018-10-07T01:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"ACTIVE","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:50:00.000Z","version":2442862611,"name":"Match Odds","eventName":"Jia Lu v Sharipova"},"rc":[{"ltp":1.55,"id":4196657}]}]}
+{"op":"mcm","clk":"7646979514","pt":1538878354912,"mc":[{"id":"1.149175459","rc":[{"ltp":1.59,"id":4196657},{"ltp":2.68,"id":9002321}]}]}
+{"op":"mcm","clk":"7646982970","pt":1538878408167,"mc":[{"id":"1.149175459","rc":[{"ltp":1.68,"id":4196657},{"ltp":2.46,"id":9002321}]}]}
+{"op":"mcm","clk":"7646987510","pt":1538878475049,"mc":[{"id":"1.149175459","rc":[{"ltp":1.49,"id":4196657},{"ltp":3.1,"id":9002321}]}]}
+{"op":"mcm","clk":"7646992188","pt":1538878531355,"mc":[{"id":"1.149175459","rc":[{"ltp":1.5,"id":4196657},{"ltp":3.05,"id":9002321}]}]}
+{"op":"mcm","clk":"7647001694","pt":1538878655155,"mc":[{"id":"1.149175459","rc":[{"ltp":1.42,"id":4196657},{"ltp":3.15,"id":9002321}]}]}
+{"op":"mcm","clk":"7647005807","pt":1538878712812,"mc":[{"id":"1.149175459","rc":[{"ltp":1.62,"id":4196657},{"ltp":2.62,"id":9002321}]}]}
+{"op":"mcm","clk":"7647010153","pt":1538878774324,"mc":[{"id":"1.149175459","rc":[{"ltp":1.57,"id":4196657},{"ltp":2.78,"id":9002321}]}]}
+{"op":"mcm","clk":"7647019007","pt":1538878894058,"mc":[{"id":"1.149175459","rc":[{"ltp":1.75,"id":4196657},{"ltp":2.34,"id":9002321}]}]}
+{"op":"mcm","clk":"7647023440","pt":1538878950624,"mc":[{"id":"1.149175459","rc":[{"ltp":1.62,"id":4196657}]}]}
+{"op":"mcm","clk":"7647028322","pt":1538879015110,"mc":[{"id":"1.149175459","rc":[{"ltp":1.66,"id":4196657}]}]}
+{"op":"mcm","clk":"7647032376","pt":1538879070713,"mc":[{"id":"1.149175459","rc":[{"ltp":1.79,"id":4196657}]}]}
+{"op":"mcm","clk":"7647034697","pt":1538879105815,"mc":[{"id":"1.149175459","rc":[{"ltp":1.77,"id":4196657},{"ltp":2.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647039955","pt":1538879194855,"mc":[{"id":"1.149175459","rc":[{"ltp":2.0,"id":4196657}]}]}
+{"op":"mcm","clk":"7647055637","pt":1538879254933,"mc":[{"id":"1.149175459","rc":[{"ltp":1.88,"id":9002321}]}]}
+{"op":"mcm","clk":"7647059448","pt":1538879315100,"mc":[{"id":"1.149175459","rc":[{"ltp":1.85,"id":4196657},{"ltp":2.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647066147","pt":1538879434886,"mc":[{"id":"1.149175459","rc":[{"ltp":1.95,"id":4196657},{"ltp":2.04,"id":9002321}]}]}
+{"op":"mcm","clk":"7647069459","pt":1538879492557,"mc":[{"id":"1.149175459","rc":[{"ltp":2.32,"id":4196657},{"ltp":1.77,"id":9002321}]}]}
+{"op":"mcm","clk":"7647073399","pt":1538879554970,"mc":[{"id":"1.149175459","rc":[{"ltp":2.44,"id":4196657},{"ltp":1.69,"id":9002321}]}]}
+{"op":"mcm","clk":"7647077768","pt":1538879614861,"mc":[{"id":"1.149175459","rc":[{"ltp":2.4,"id":4196657},{"ltp":1.82,"id":9002321}]}]}
+{"op":"mcm","clk":"7647080968","pt":1538879669384,"mc":[{"id":"1.149175459","rc":[{"ltp":2.08,"id":4196657},{"ltp":1.92,"id":9002321}]}]}
+{"op":"mcm","clk":"7647084884","pt":1538879732931,"mc":[{"id":"1.149175459","rc":[{"ltp":2.06,"id":4196657},{"ltp":1.95,"id":9002321}]}]}
+{"op":"mcm","clk":"7647092913","pt":1538879853504,"mc":[{"id":"1.149175459","rc":[{"ltp":1.91,"id":4196657}]}]}
+{"op":"mcm","clk":"7647096608","pt":1538879911326,"mc":[{"id":"1.149175459","rc":[{"ltp":1.64,"id":4196657},{"ltp":2.58,"id":9002321}]}]}
+{"op":"mcm","clk":"7647101489","pt":1538879975101,"mc":[{"id":"1.149175459","rc":[{"ltp":1.72,"id":4196657}]}]}
+{"op":"mcm","clk":"7647106390","pt":1538880034011,"mc":[{"id":"1.149175459","rc":[{"ltp":1.6,"id":4196657},{"ltp":2.38,"id":9002321}]}]}
+{"op":"mcm","clk":"7647110803","pt":1538880093419,"mc":[{"id":"1.149175459","rc":[{"ltp":1.56,"id":4196657}]}]}
+{"op":"mcm","clk":"7647127367","pt":1538880154195,"mc":[{"id":"1.149175459","rc":[{"ltp":1.46,"id":4196657}]}]}
+{"op":"mcm","clk":"7647136050","pt":1538880274620,"mc":[{"id":"1.149175459","rc":[{"ltp":1.36,"id":4196657},{"ltp":3.75,"id":9002321}]}]}
+{"op":"mcm","clk":"7647140804","pt":1538880335043,"mc":[{"id":"1.149175459","rc":[{"ltp":1.37,"id":4196657}]}]}
+{"op":"mcm","clk":"7647145915","pt":1538880394820,"mc":[{"id":"1.149175459","rc":[{"ltp":1.22,"id":4196657},{"ltp":5.6,"id":9002321}]}]}
+{"op":"mcm","clk":"7647150241","pt":1538880454516,"mc":[{"id":"1.149175459","rc":[{"ltp":1.28,"id":4196657},{"ltp":4.6,"id":9002321}]}]}
+{"op":"mcm","clk":"7647154578","pt":1538880515086,"mc":[{"id":"1.149175459","rc":[{"ltp":1.22,"id":4196657},{"ltp":5.2,"id":9002321}]}]}
+{"op":"mcm","clk":"7647158861","pt":1538880571270,"mc":[{"id":"1.149175459","rc":[{"ltp":1.33,"id":4196657}]}]}
+{"op":"mcm","clk":"7647168661","pt":1538880695149,"mc":[{"id":"1.149175459","rc":[{"ltp":1.22,"id":4196657},{"ltp":5.6,"id":9002321}]}]}
+{"op":"mcm","clk":"7647172299","pt":1538880748540,"mc":[{"id":"1.149175459","rc":[{"ltp":1.19,"id":4196657},{"ltp":6.4,"id":9002321}]}]}
+{"op":"mcm","clk":"7647180655","pt":1538880875017,"mc":[{"id":"1.149175459","rc":[{"ltp":1.18,"id":4196657}]}]}
+{"op":"mcm","clk":"7647184599","pt":1538880933204,"mc":[{"id":"1.149175459","rc":[{"ltp":1.1,"id":4196657},{"ltp":8.8,"id":9002321}]}]}
+{"op":"mcm","clk":"7647188795","pt":1538880993246,"mc":[{"id":"1.149175459","rc":[{"ltp":1.08,"id":4196657},{"ltp":13.5,"id":9002321}]}]}
+{"op":"mcm","clk":"7647205644","pt":1538881055129,"mc":[{"id":"1.149175459","rc":[{"ltp":1.06,"id":4196657}]}]}
+{"op":"mcm","clk":"7647212905","pt":1538881172489,"mc":[{"id":"1.149175459","rc":[{"ltp":1.05,"id":4196657}]}]}
+{"op":"mcm","clk":"7647221035","pt":1538881293661,"mc":[{"id":"1.149175459","rc":[{"ltp":1.08,"id":4196657}]}]}
+{"op":"mcm","clk":"7647224882","pt":1538881354588,"mc":[{"id":"1.149175459","rc":[{"ltp":1.06,"id":4196657}]}]}
+{"op":"mcm","clk":"7647229553","pt":1538881413254,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657}]}]}
+{"op":"mcm","clk":"7647237943","pt":1538881534259,"mc":[{"id":"1.149175459","rc":[{"ltp":1.02,"id":4196657}]}]}
+{"op":"mcm","clk":"7647256394","pt":1538881774717,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657}]}]}
+{"op":"mcm","clk":"7647260531","pt":1538881834567,"mc":[{"id":"1.149175459","rc":[{"ltp":1.05,"id":4196657}]}]}
+{"op":"mcm","clk":"7647264644","pt":1538881888315,"mc":[{"id":"1.149175459","rc":[{"ltp":1.04,"id":4196657}]}]}
+{"op":"mcm","clk":"7647282070","pt":1538881954835,"mc":[{"id":"1.149175459","rc":[{"ltp":21.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647287027","pt":1538882014434,"mc":[{"id":"1.149175459","rc":[{"ltp":1.07,"id":4196657},{"ltp":15.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647291788","pt":1538882074176,"mc":[{"id":"1.149175459","rc":[{"ltp":1.06,"id":4196657}]}]}
+{"op":"mcm","clk":"7647296811","pt":1538882134160,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657}]}]}
+{"op":"mcm","clk":"7647301714","pt":1538882194739,"mc":[{"id":"1.149175459","rc":[{"ltp":1.02,"id":4196657}]}]}
+{"op":"mcm","clk":"7647306261","pt":1538882255132,"mc":[{"id":"1.149175459","rc":[{"ltp":18.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647309855","pt":1538882312881,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657},{"ltp":34.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647313733","pt":1538882373804,"mc":[{"id":"1.149175459","rc":[{"ltp":29.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647317481","pt":1538882433383,"mc":[{"id":"1.149175459","rc":[{"ltp":1.05,"id":4196657}]}]}
+{"op":"mcm","clk":"7647321645","pt":1538882493874,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657},{"ltp":26.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647325479","pt":1538882549122,"mc":[{"id":"1.149175459","rc":[{"ltp":34.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647330092","pt":1538882613289,"mc":[{"id":"1.149175459","rc":[{"ltp":1.02,"id":4196657},{"ltp":30.0,"id":9002321}]}]}
+{"op":"mcm","clk":"7647334757","pt":1538882675145,"mc":[{"id":"1.149175459","rc":[{"ltp":1.03,"id":4196657}]}]}
+{"op":"mcm","clk":"7647339496","pt":1538882734945,"mc":[{"id":"1.149175459","rc":[{"ltp":1.01,"id":4196657}]}]}
+{"op":"mcm","clk":"7647361440","pt":1538882854641,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:50:00.000Z","suspendTime":"2018-10-07T01:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"ACTIVE","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:50:00.000Z","version":2442933829,"name":"Match Odds","eventName":"Jia Lu v Sharipova"}}]}
+{"op":"mcm","clk":"7647365648","pt":1538882911599,"mc":[{"id":"1.149175459","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941767","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:50:00.000Z","suspendTime":"2018-10-07T01:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T03:28:25.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9002321,"name":"Jia-Jing Lu"},{"status":"WINNER","sortPriority":2,"id":4196657,"name":"Sabina Sharipova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:50:00.000Z","version":2442934363,"name":"Match Odds","eventName":"Jia Lu v Sharipova"}}]}

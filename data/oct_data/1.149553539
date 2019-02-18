@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7698373621","pt":1539449414977,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:00:00.000Z","suspendTime":"2018-10-14T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:00:00.000Z","version":2453620602,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}
+{"op":"mcm","clk":"7698424255","pt":1539449790074,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:00:00.000Z","suspendTime":"2018-10-14T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:00:00.000Z","version":2453620602,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}
+{"op":"mcm","clk":"7703129965","pt":1539501737070,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7703223405","pt":1539502801196,"mc":[{"id":"1.149553539","rc":[{"ltp":13.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7703369060","pt":1539504377178,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190}]}]}
+{"op":"mcm","clk":"7704244062","pt":1539511705473,"mc":[{"id":"1.149553539","rc":[{"ltp":1.07,"id":2504190}]}]}
+{"op":"mcm","clk":"7704659270","pt":1539514604759,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190}]}]}
+{"op":"mcm","clk":"7705163793","pt":1539518064863,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T13:49:00.000Z","suspendTime":"2018-10-14T13:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T13:49:00.000Z","version":2455288354,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}
+{"op":"mcm","clk":"7705396676","pt":1539519517062,"mc":[{"id":"1.149553539","rc":[{"ltp":18.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7705702197","pt":1539521589323,"mc":[{"id":"1.149553539","rc":[{"ltp":1.05,"id":2504190}]}]}
+{"op":"mcm","clk":"7705715843","pt":1539521694228,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190}]}]}
+{"op":"mcm","clk":"7705915840","pt":1539522796718,"mc":[{"id":"1.149553539","rc":[{"ltp":1.07,"id":2504190}]}]}
+{"op":"mcm","clk":"7705922386","pt":1539522832603,"mc":[{"id":"1.149553539","rc":[{"ltp":1.09,"id":2504190},{"ltp":13.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7705938814","pt":1539522919942,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7705945508","pt":1539522955588,"mc":[{"id":"1.149553539","rc":[{"ltp":1.12,"id":2504190},{"ltp":10.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7706117863","pt":1539523901986,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706198784","pt":1539524401801,"mc":[{"id":"1.149553539","rc":[{"ltp":11.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706250039","pt":1539524642259,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706255940","pt":1539524674606,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706301472","pt":1539524984091,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T13:47:00.000Z","suspendTime":"2018-10-14T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T13:47:00.000Z","version":2455551698,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}
+{"op":"mcm","clk":"7706315270","pt":1539525078140,"mc":[{"id":"1.149553539","rc":[{"ltp":1.09,"id":2504190}]}]}
+{"op":"mcm","clk":"7706371833","pt":1539525425888,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190},{"ltp":14.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706375436","pt":1539525453538,"mc":[{"id":"1.149553539","rc":[{"ltp":1.07,"id":2504190}]}]}
+{"op":"mcm","clk":"7706388799","pt":1539525546685,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190}]}]}
+{"op":"mcm","clk":"7706408379","pt":1539525671067,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T13:47:00.000Z","suspendTime":"2018-10-14T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T13:47:00.000Z","version":2455596575,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}
+{"op":"mcm","clk":"7706420355","pt":1539525739866,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190},{"ltp":10.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706430750","pt":1539525799973,"mc":[{"id":"1.149553539","rc":[{"ltp":11.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706440528","pt":1539525853758,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706451622","pt":1539525919324,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706461476","pt":1539525979708,"mc":[{"id":"1.149553539","rc":[{"ltp":1.11,"id":2504190},{"ltp":10.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706471421","pt":1539526037667,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706481831","pt":1539526097156,"mc":[{"id":"1.149553539","rc":[{"ltp":1.09,"id":2504190},{"ltp":12.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706492950","pt":1539526159955,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706503580","pt":1539526219847,"mc":[{"id":"1.149553539","rc":[{"ltp":1.09,"id":2504190},{"ltp":11.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706514161","pt":1539526280027,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706533963","pt":1539526339742,"mc":[{"id":"1.149553539","rc":[{"ltp":1.11,"id":2504190}]}]}
+{"op":"mcm","clk":"7706545230","pt":1539526398440,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706605726","pt":1539526697675,"mc":[{"id":"1.149553539","rc":[{"ltp":1.12,"id":2504190},{"ltp":9.2,"id":10372218}]}]}
+{"op":"mcm","clk":"7706619026","pt":1539526759934,"mc":[{"id":"1.149553539","rc":[{"ltp":1.13,"id":2504190},{"ltp":8.6,"id":10372218}]}]}
+{"op":"mcm","clk":"7706632767","pt":1539526820006,"mc":[{"id":"1.149553539","rc":[{"ltp":1.11,"id":2504190},{"ltp":10.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7706645030","pt":1539526878892,"mc":[{"id":"1.149553539","rc":[{"ltp":10.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706705779","pt":1539527179952,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190}]}]}
+{"op":"mcm","clk":"7706725049","pt":1539527239103,"mc":[{"id":"1.149553539","rc":[{"ltp":1.13,"id":2504190},{"ltp":8.8,"id":10372218}]}]}
+{"op":"mcm","clk":"7706734745","pt":1539527296837,"mc":[{"id":"1.149553539","rc":[{"ltp":1.11,"id":2504190}]}]}
+{"op":"mcm","clk":"7706745794","pt":1539527359657,"mc":[{"id":"1.149553539","rc":[{"ltp":1.12,"id":2504190},{"ltp":9.2,"id":10372218}]}]}
+{"op":"mcm","clk":"7706757301","pt":1539527419940,"mc":[{"id":"1.149553539","rc":[{"ltp":1.16,"id":2504190},{"ltp":7.2,"id":10372218}]}]}
+{"op":"mcm","clk":"7706768947","pt":1539527479093,"mc":[{"id":"1.149553539","rc":[{"ltp":1.13,"id":2504190},{"ltp":8.8,"id":10372218}]}]}
+{"op":"mcm","clk":"7706780276","pt":1539527535885,"mc":[{"id":"1.149553539","rc":[{"ltp":9.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706793275","pt":1539527599112,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190},{"ltp":11.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706806882","pt":1539527659749,"mc":[{"id":"1.149553539","rc":[{"ltp":1.09,"id":2504190}]}]}
+{"op":"mcm","clk":"7706820221","pt":1539527720020,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190}]}]}
+{"op":"mcm","clk":"7706832613","pt":1539527779906,"mc":[{"id":"1.149553539","rc":[{"ltp":1.07,"id":2504190},{"ltp":15.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706844115","pt":1539527838189,"mc":[{"id":"1.149553539","rc":[{"ltp":1.12,"id":2504190},{"ltp":8.6,"id":10372218}]}]}
+{"op":"mcm","clk":"7706855544","pt":1539527899981,"mc":[{"id":"1.149553539","rc":[{"ltp":8.2,"id":10372218}]}]}
+{"op":"mcm","clk":"7706877496","pt":1539528019952,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706888386","pt":1539528079742,"mc":[{"id":"1.149553539","rc":[{"ltp":1.04,"id":2504190},{"ltp":26.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706907373","pt":1539528139606,"mc":[{"id":"1.149553539","rc":[{"ltp":1.05,"id":2504190}]}]}
+{"op":"mcm","clk":"7706928501","pt":1539528257713,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190},{"ltp":13.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7706939577","pt":1539528319767,"mc":[{"id":"1.149553539","rc":[{"ltp":1.1,"id":2504190},{"ltp":11.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706949860","pt":1539528379950,"mc":[{"id":"1.149553539","rc":[{"ltp":9.2,"id":10372218}]}]}
+{"op":"mcm","clk":"7706959249","pt":1539528440019,"mc":[{"id":"1.149553539","rc":[{"ltp":1.08,"id":2504190}]}]}
+{"op":"mcm","clk":"7706967630","pt":1539528493049,"mc":[{"id":"1.149553539","rc":[{"ltp":1.05,"id":2504190},{"ltp":13.5,"id":10372218}]}]}
+{"op":"mcm","clk":"7706987663","pt":1539528619652,"mc":[{"id":"1.149553539","rc":[{"ltp":1.03,"id":2504190},{"ltp":26.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7706997311","pt":1539528679078,"mc":[{"id":"1.149553539","rc":[{"ltp":1.05,"id":2504190},{"ltp":21.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707006957","pt":1539528735486,"mc":[{"id":"1.149553539","rc":[{"ltp":1.04,"id":2504190},{"ltp":26.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707017359","pt":1539528798119,"mc":[{"id":"1.149553539","rc":[{"ltp":1.06,"id":2504190},{"ltp":21.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707026043","pt":1539528853875,"mc":[{"id":"1.149553539","rc":[{"ltp":1.04,"id":2504190},{"ltp":26.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707035389","pt":1539528912167,"mc":[{"id":"1.149553539","rc":[{"ltp":21.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707063030","pt":1539529038593,"mc":[{"id":"1.149553539","rc":[{"ltp":1.03,"id":2504190},{"ltp":34.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707071484","pt":1539529100033,"mc":[{"id":"1.149553539","rc":[{"ltp":1.04,"id":2504190},{"ltp":26.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707079660","pt":1539529158362,"mc":[{"id":"1.149553539","rc":[{"ltp":34.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707088111","pt":1539529218731,"mc":[{"id":"1.149553539","rc":[{"ltp":1.03,"id":2504190}]}]}
+{"op":"mcm","clk":"7707096895","pt":1539529279562,"mc":[{"id":"1.149553539","rc":[{"ltp":1.02,"id":2504190},{"ltp":50.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707105447","pt":1539529339062,"mc":[{"id":"1.149553539","rc":[{"ltp":1.01,"id":2504190}]}]}
+{"op":"mcm","clk":"7707223400","pt":1539529999504,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T13:47:00.000Z","suspendTime":"2018-10-14T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"ACTIVE","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T13:47:00.000Z","version":2455806247,"name":"Match Odds","eventName":"Polansky v Friberg"},"rc":[{"ltp":100.0,"id":10372218}]}]}
+{"op":"mcm","clk":"7707224012","pt":1539530003407,"mc":[{"id":"1.149553539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955720","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T13:47:00.000Z","suspendTime":"2018-10-14T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T15:13:18.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2504190,"name":"Peter Polansky"},{"status":"LOSER","sortPriority":2,"id":10372218,"name":"Karl Friberg"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T13:47:00.000Z","version":2455806361,"name":"Match Odds","eventName":"Polansky v Friberg"}}]}

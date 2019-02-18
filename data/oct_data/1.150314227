@@ -1,0 +1,90 @@
+{"op":"mcm","clk":"7759012314","pt":1540637949112,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T04:00:00.000Z","suspendTime":"2018-10-28T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T04:00:00.000Z","version":2478041869,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7762495171","pt":1540652884449,"mc":[{"id":"1.150314227","rc":[{"ltp":1.08,"id":9630231},{"ltp":13.5,"id":8824373}]}]}
+{"op":"mcm","clk":"7766574228","pt":1540675883456,"mc":[{"id":"1.150314227","rc":[{"ltp":1.07,"id":9630231},{"ltp":16.5,"id":8824373}]}]}
+{"op":"mcm","clk":"7767127474","pt":1540681769939,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7767586418","pt":1540686566412,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T04:00:00.000Z","suspendTime":"2018-10-29T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T04:00:00.000Z","version":2480951236,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7770123701","pt":1540716604884,"mc":[{"id":"1.150314227","rc":[{"ltp":15.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7771040482","pt":1540723202665,"mc":[{"id":"1.150314227","rc":[{"ltp":16.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7771358206","pt":1540724970377,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7772896178","pt":1540732874981,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231},{"ltp":17.5,"id":8824373}]}]}
+{"op":"mcm","clk":"7775582475","pt":1540745038756,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":26.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7777059454","pt":1540752004030,"mc":[{"id":"1.150314227","rc":[{"ltp":21.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7777901777","pt":1540757310110,"mc":[{"id":"1.150314227","rc":[{"ltp":22.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7778745504","pt":1540763402727,"mc":[{"id":"1.150314227","rc":[{"ltp":27.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7778876565","pt":1540764703957,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7778989972","pt":1540765967455,"mc":[{"id":"1.150314227","rc":[{"ltp":22.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7779410998","pt":1540772957578,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:00:00.000Z","suspendTime":"2018-10-30T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:00:00.000Z","version":2484202301,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7780083118","pt":1540790753306,"mc":[{"id":"1.150314227","rc":[{"ltp":26.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7780265713","pt":1540795320582,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":25.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7780362954","pt":1540797239005,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T09:30:00.000Z","suspendTime":"2018-10-30T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T09:30:00.000Z","version":2484349772,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7780556490","pt":1540800381819,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7782328992","pt":1540822976082,"mc":[{"id":"1.150314227","rc":[{"ltp":24.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7783103007","pt":1540834263681,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":25.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7784336003","pt":1540843581720,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7784393753","pt":1540843921921,"mc":[{"id":"1.150314227","rc":[{"ltp":30.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7784502604","pt":1540844738350,"mc":[{"id":"1.150314227","rc":[{"ltp":32.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7784641688","pt":1540846079603,"mc":[{"id":"1.150314227","rc":[{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7785763544","pt":1540860693719,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7786766244","pt":1540881172433,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231},{"ltp":24.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7786769632","pt":1540881304214,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7786895013","pt":1540884236777,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T09:21:00.000Z","suspendTime":"2018-10-30T09:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T09:21:00.000Z","version":2485480002,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7787016590","pt":1540887049481,"mc":[{"id":"1.150314227","rc":[{"ltp":25.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787107188","pt":1540888799226,"mc":[{"id":"1.150314227","rc":[{"ltp":27.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787149849","pt":1540889643593,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787152330","pt":1540889704519,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7787157025","pt":1540889824801,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787158381","pt":1540889856357,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231}]}]}
+{"op":"mcm","clk":"7787161700","pt":1540889929862,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T08:58:00.000Z","suspendTime":"2018-10-30T08:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T08:58:00.000Z","version":2485521635,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7787166691","pt":1540890050594,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787170648","pt":1540890170637,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231},{"ltp":18.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787174827","pt":1540890301555,"mc":[{"id":"1.150314227","rc":[{"ltp":17.5,"id":8824373}]}]}
+{"op":"mcm","clk":"7787176197","pt":1540890338066,"mc":[{"id":"1.150314227","rc":[{"ltp":1.07,"id":9630231},{"ltp":14.5,"id":8824373}]}]}
+{"op":"mcm","clk":"7787178327","pt":1540890401802,"mc":[{"id":"1.150314227","rc":[{"ltp":20.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787192520","pt":1540890475723,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787202427","pt":1540890719929,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231}]}]}
+{"op":"mcm","clk":"7787208288","pt":1540890844649,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T08:58:00.000Z","suspendTime":"2018-10-30T08:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T08:58:00.000Z","version":2485529444,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"},"rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787210627","pt":1540890897071,"mc":[{"id":"1.150314227","rc":[{"ltp":1.07,"id":9630231}]}]}
+{"op":"mcm","clk":"7787213422","pt":1540890964779,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231},{"ltp":17.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787216115","pt":1540891023334,"mc":[{"id":"1.150314227","rc":[{"ltp":26.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787218833","pt":1540891084924,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231}]}]}
+{"op":"mcm","clk":"7787221072","pt":1540891144291,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787223127","pt":1540891204034,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7787225422","pt":1540891264987,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787245966","pt":1540891504898,"mc":[{"id":"1.150314227","rc":[{"ltp":30.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787248293","pt":1540891564807,"mc":[{"id":"1.150314227","rc":[{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787250589","pt":1540891621924,"mc":[{"id":"1.150314227","rc":[{"ltp":1.01,"id":9630231}]}]}
+{"op":"mcm","clk":"7787256642","pt":1540891745031,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231},{"ltp":50.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787274941","pt":1540892097537,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787280605","pt":1540892222136,"mc":[{"id":"1.150314227","rc":[{"ltp":1.01,"id":9630231}]}]}
+{"op":"mcm","clk":"7787294990","pt":1540892278549,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787297975","pt":1540892340447,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231}]}]}
+{"op":"mcm","clk":"7787305790","pt":1540892523908,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787308479","pt":1540892584411,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231},{"ltp":22.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787313389","pt":1540892704693,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787315610","pt":1540892764748,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231}]}]}
+{"op":"mcm","clk":"7787320495","pt":1540892883609,"mc":[{"id":"1.150314227","rc":[{"ltp":1.01,"id":9630231}]}]}
+{"op":"mcm","clk":"7787323012","pt":1540892944632,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231}]}]}
+{"op":"mcm","clk":"7787326160","pt":1540893004105,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787330788","pt":1540893062639,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231},{"ltp":50.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787349963","pt":1540893184701,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787357776","pt":1540893304506,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231}]}]}
+{"op":"mcm","clk":"7787360945","pt":1540893364806,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7787367146","pt":1540893484550,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231},{"ltp":15.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787369885","pt":1540893544826,"mc":[{"id":"1.150314227","rc":[{"ltp":1.06,"id":9630231}]}]}
+{"op":"mcm","clk":"7787372903","pt":1540893604252,"mc":[{"id":"1.150314227","rc":[{"ltp":17.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787375896","pt":1540893664714,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":21.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787378636","pt":1540893724735,"mc":[{"id":"1.150314227","rc":[{"ltp":26.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787381755","pt":1540893784996,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787384604","pt":1540893844919,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":21.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787387431","pt":1540893904696,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787390366","pt":1540893964548,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231},{"ltp":50.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787393280","pt":1540894024850,"mc":[{"id":"1.150314227","rc":[{"ltp":1.03,"id":9630231},{"ltp":34.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787407726","pt":1540894078134,"mc":[{"id":"1.150314227","rc":[{"ltp":36.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787411116","pt":1540894144817,"mc":[{"id":"1.150314227","rc":[{"ltp":1.04,"id":9630231},{"ltp":21.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787414466","pt":1540894204812,"mc":[{"id":"1.150314227","rc":[{"ltp":1.05,"id":9630231}]}]}
+{"op":"mcm","clk":"7787419747","pt":1540894263492,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231},{"ltp":50.0,"id":8824373}]}]}
+{"op":"mcm","clk":"7787437017","pt":1540894564746,"mc":[{"id":"1.150314227","rc":[{"ltp":1.01,"id":9630231}]}]}
+{"op":"mcm","clk":"7787447052","pt":1540894738569,"mc":[{"id":"1.150314227","rc":[{"ltp":1.02,"id":9630231}]}]}
+{"op":"mcm","clk":"7787450707","pt":1540894804442,"mc":[{"id":"1.150314227","rc":[{"ltp":1.01,"id":9630231}]}]}
+{"op":"mcm","clk":"7787478388","pt":1540895104617,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T08:58:00.000Z","suspendTime":"2018-10-30T08:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"ACTIVE","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T08:58:00.000Z","version":2485584369,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}
+{"op":"mcm","clk":"7787480145","pt":1540895136709,"mc":[{"id":"1.150314227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T08:58:00.000Z","suspendTime":"2018-10-30T08:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T10:25:02.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8824373,"name":"Kwan Yau Ng"},{"status":"WINNER","sortPriority":2,"id":9630231,"name":"Valentini Grammatikopou"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T08:58:00.000Z","version":2485584433,"name":"Match Odds","eventName":"Yau Ng v Grammatikopoulou"}}]}

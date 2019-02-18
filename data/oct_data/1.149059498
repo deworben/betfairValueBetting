@@ -1,0 +1,73 @@
+{"op":"mcm","clk":"7634337692","pt":1538634017925,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T02:00:00.000Z","suspendTime":"2018-10-05T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T02:00:00.000Z","version":2436482858,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}
+{"op":"mcm","clk":"7634349627","pt":1538634206814,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T02:00:00.000Z","suspendTime":"2018-10-05T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T02:00:00.000Z","version":2436482858,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}
+{"op":"mcm","clk":"7641244601","pt":1538696476975,"mc":[{"id":"1.149059498","rc":[{"ltp":1.64,"id":20122610}]}]}
+{"op":"mcm","clk":"7641453328","pt":1538698759295,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T02:00:00.000Z","suspendTime":"2018-10-06T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T02:00:00.000Z","version":2437478167,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}
+{"op":"mcm","clk":"7643636404","pt":1538725213379,"mc":[{"id":"1.149059498","rc":[{"ltp":2.28,"id":12739925}]}]}
+{"op":"mcm","clk":"7644433275","pt":1538732978272,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T04:30:00.000Z","suspendTime":"2018-10-06T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T04:30:00.000Z","version":2437712326,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}
+{"op":"mcm","clk":"7650167851","pt":1538770455703,"mc":[{"id":"1.149059498","rc":[{"ltp":1.65,"id":20122610}]}]}
+{"op":"mcm","clk":"7650175099","pt":1538770516208,"mc":[{"id":"1.149059498","rc":[{"ltp":1.63,"id":20122610}]}]}
+{"op":"mcm","clk":"7650325976","pt":1538772020170,"mc":[{"id":"1.149059498","rc":[{"ltp":2.32,"id":12739925}]}]}
+{"op":"mcm","clk":"7650720622","pt":1538777645432,"mc":[{"id":"1.149059498","rc":[{"ltp":1.65,"id":20122610}]}]}
+{"op":"mcm","clk":"7650721950","pt":1538777668827,"mc":[{"id":"1.149059498","rc":[{"ltp":1.75,"id":20122610}]}]}
+{"op":"mcm","clk":"7650728470","pt":1538777764098,"mc":[{"id":"1.149059498","rc":[{"ltp":1.65,"id":20122610}]}]}
+{"op":"mcm","clk":"7650754439","pt":1538777943536,"mc":[{"id":"1.149059498","rc":[{"ltp":1.66,"id":20122610}]}]}
+{"op":"mcm","clk":"7650773090","pt":1538778311738,"mc":[{"id":"1.149059498","rc":[{"ltp":1.68,"id":20122610}]}]}
+{"op":"mcm","clk":"7650774766","pt":1538778342209,"mc":[{"id":"1.149059498","rc":[{"ltp":1.65,"id":20122610}]}]}
+{"op":"mcm","clk":"7650839727","pt":1538779219232,"mc":[{"id":"1.149059498","rc":[{"ltp":1.75,"id":20122610}]}]}
+{"op":"mcm","clk":"7650941747","pt":1538780596776,"mc":[{"id":"1.149059498","rc":[{"ltp":1.67,"id":20122610}]}]}
+{"op":"mcm","clk":"7650944765","pt":1538780656322,"mc":[{"id":"1.149059498","rc":[{"ltp":1.76,"id":20122610}]}]}
+{"op":"mcm","clk":"7650951400","pt":1538780770096,"mc":[{"id":"1.149059498","rc":[{"ltp":1.7,"id":20122610}]}]}
+{"op":"mcm","clk":"7651557456","pt":1538787797000,"mc":[{"id":"1.149059498","rc":[{"ltp":1.65,"id":20122610}]}]}
+{"op":"mcm","clk":"7652147272","pt":1538795174372,"mc":[{"id":"1.149059498","rc":[{"ltp":1.64,"id":20122610}]}]}
+{"op":"mcm","clk":"7652320482","pt":1538797334528,"mc":[{"id":"1.149059498","rc":[{"ltp":1.73,"id":20122610},{"ltp":2.5,"id":12739925}]}]}
+{"op":"mcm","clk":"7652323083","pt":1538797379315,"mc":[{"id":"1.149059498","rc":[{"ltp":1.72,"id":20122610}]}]}
+{"op":"mcm","clk":"7652326998","pt":1538797448265,"mc":[{"id":"1.149059498","rc":[{"ltp":2.44,"id":12739925}]}]}
+{"op":"mcm","clk":"7652330840","pt":1538797510992,"mc":[{"id":"1.149059498","rc":[{"ltp":1.71,"id":20122610}]}]}
+{"op":"mcm","clk":"7652436276","pt":1538798540791,"mc":[{"id":"1.149059498","rc":[{"ltp":1.66,"id":20122610}]}]}
+{"op":"mcm","clk":"7652480398","pt":1538799007478,"mc":[{"id":"1.149059498","rc":[{"ltp":1.69,"id":20122610}]}]}
+{"op":"mcm","clk":"7652552665","pt":1538799632491,"mc":[{"id":"1.149059498","rc":[{"ltp":1.74,"id":20122610}]}]}
+{"op":"mcm","clk":"7652581824","pt":1538799904479,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T04:22:00.000Z","suspendTime":"2018-10-06T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T04:22:00.000Z","version":2439334854,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}
+{"op":"mcm","clk":"7652584336","pt":1538799934217,"mc":[{"id":"1.149059498","rc":[{"ltp":2.3,"id":12739925}]}]}
+{"op":"mcm","clk":"7652608869","pt":1538800210167,"mc":[{"id":"1.149059498","rc":[{"ltp":1.69,"id":20122610},{"ltp":2.46,"id":12739925}]}]}
+{"op":"mcm","clk":"7652650612","pt":1538800449249,"mc":[{"id":"1.149059498","rc":[{"ltp":1.77,"id":20122610},{"ltp":2.28,"id":12739925}]}]}
+{"op":"mcm","clk":"7652689035","pt":1538800815645,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T04:22:00.000Z","suspendTime":"2018-10-06T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"ACTIVE","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T04:22:00.000Z","version":2439340038,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"},"rc":[{"ltp":1.61,"id":20122610}]}]}
+{"op":"mcm","clk":"7652695484","pt":1538800872611,"mc":[{"id":"1.149059498","rc":[{"ltp":1.45,"id":20122610}]}]}
+{"op":"mcm","clk":"7652710512","pt":1538800997919,"mc":[{"id":"1.149059498","rc":[{"ltp":1.49,"id":20122610},{"ltp":3.05,"id":12739925}]}]}
+{"op":"mcm","clk":"7652728485","pt":1538801177975,"mc":[{"id":"1.149059498","rc":[{"ltp":1.35,"id":20122610}]}]}
+{"op":"mcm","clk":"7652761710","pt":1538801348039,"mc":[{"id":"1.149059498","rc":[{"ltp":1.43,"id":20122610}]}]}
+{"op":"mcm","clk":"7652775993","pt":1538801480171,"mc":[{"id":"1.149059498","rc":[{"ltp":1.35,"id":20122610}]}]}
+{"op":"mcm","clk":"7652781728","pt":1538801536834,"mc":[{"id":"1.149059498","rc":[{"ltp":1.48,"id":20122610}]}]}
+{"op":"mcm","clk":"7652787956","pt":1538801596014,"mc":[{"id":"1.149059498","rc":[{"ltp":1.77,"id":20122610},{"ltp":2.3,"id":12739925}]}]}
+{"op":"mcm","clk":"7652794183","pt":1538801659722,"mc":[{"id":"1.149059498","rc":[{"ltp":2.26,"id":12739925}]}]}
+{"op":"mcm","clk":"7652799946","pt":1538801716687,"mc":[{"id":"1.149059498","rc":[{"ltp":1.84,"id":20122610},{"ltp":2.2,"id":12739925}]}]}
+{"op":"mcm","clk":"7652824955","pt":1538801960588,"mc":[{"id":"1.149059498","rc":[{"ltp":1.97,"id":12739925}]}]}
+{"op":"mcm","clk":"7652830756","pt":1538802015305,"mc":[{"id":"1.149059498","rc":[{"ltp":1.9,"id":20122610},{"ltp":2.1,"id":12739925}]}]}
+{"op":"mcm","clk":"7652838061","pt":1538802078715,"mc":[{"id":"1.149059498","rc":[{"ltp":2.04,"id":20122610},{"ltp":1.97,"id":12739925}]}]}
+{"op":"mcm","clk":"7652861920","pt":1538802138473,"mc":[{"id":"1.149059498","rc":[{"ltp":2.66,"id":20122610},{"ltp":1.61,"id":12739925}]}]}
+{"op":"mcm","clk":"7652868405","pt":1538802188571,"mc":[{"id":"1.149059498","rc":[{"ltp":1.53,"id":12739925}]}]}
+{"op":"mcm","clk":"7652876798","pt":1538802258804,"mc":[{"id":"1.149059498","rc":[{"ltp":1.4,"id":12739925}]}]}
+{"op":"mcm","clk":"7652883727","pt":1538802318552,"mc":[{"id":"1.149059498","rc":[{"ltp":1.43,"id":12739925}]}]}
+{"op":"mcm","clk":"7652896941","pt":1538802440685,"mc":[{"id":"1.149059498","rc":[{"ltp":1.36,"id":12739925}]}]}
+{"op":"mcm","clk":"7652903118","pt":1538802500776,"mc":[{"id":"1.149059498","rc":[{"ltp":3.25,"id":20122610},{"ltp":1.42,"id":12739925}]}]}
+{"op":"mcm","clk":"7652915032","pt":1538802620154,"mc":[{"id":"1.149059498","rc":[{"ltp":3.45,"id":20122610},{"ltp":1.41,"id":12739925}]}]}
+{"op":"mcm","clk":"7652921689","pt":1538802678458,"mc":[{"id":"1.149059498","rc":[{"ltp":3.65,"id":20122610},{"ltp":1.37,"id":12739925}]}]}
+{"op":"mcm","clk":"7652942755","pt":1538802859627,"mc":[{"id":"1.149059498","rc":[{"ltp":1.3,"id":12739925}]}]}
+{"op":"mcm","clk":"7652949837","pt":1538802918886,"mc":[{"id":"1.149059498","rc":[{"ltp":1.42,"id":12739925}]}]}
+{"op":"mcm","clk":"7652958379","pt":1538802979191,"mc":[{"id":"1.149059498","rc":[{"ltp":3.3,"id":20122610},{"ltp":1.43,"id":12739925}]}]}
+{"op":"mcm","clk":"7652983520","pt":1538803038399,"mc":[{"id":"1.149059498","rc":[{"ltp":3.5,"id":20122610},{"ltp":1.4,"id":12739925}]}]}
+{"op":"mcm","clk":"7652989894","pt":1538803087578,"mc":[{"id":"1.149059498","rc":[{"ltp":1.41,"id":12739925}]}]}
+{"op":"mcm","clk":"7652998500","pt":1538803153247,"mc":[{"id":"1.149059498","rc":[{"ltp":3.25,"id":20122610},{"ltp":1.48,"id":12739925}]}]}
+{"op":"mcm","clk":"7653007832","pt":1538803217999,"mc":[{"id":"1.149059498","rc":[{"ltp":1.44,"id":12739925}]}]}
+{"op":"mcm","clk":"7653015462","pt":1538803277857,"mc":[{"id":"1.149059498","rc":[{"ltp":1.35,"id":12739925}]}]}
+{"op":"mcm","clk":"7653023608","pt":1538803340019,"mc":[{"id":"1.149059498","rc":[{"ltp":4.3,"id":20122610},{"ltp":1.32,"id":12739925}]}]}
+{"op":"mcm","clk":"7653031184","pt":1538803400669,"mc":[{"id":"1.149059498","rc":[{"ltp":4.5,"id":20122610},{"ltp":1.28,"id":12739925}]}]}
+{"op":"mcm","clk":"7653038270","pt":1538803459211,"mc":[{"id":"1.149059498","rc":[{"ltp":6.2,"id":20122610},{"ltp":1.19,"id":12739925}]}]}
+{"op":"mcm","clk":"7653044507","pt":1538803511270,"mc":[{"id":"1.149059498","rc":[{"ltp":8.6,"id":20122610},{"ltp":1.13,"id":12739925}]}]}
+{"op":"mcm","clk":"7653057369","pt":1538803640184,"mc":[{"id":"1.149059498","rc":[{"ltp":1.12,"id":12739925}]}]}
+{"op":"mcm","clk":"7653062087","pt":1538803687481,"mc":[{"id":"1.149059498","rc":[{"ltp":12.0,"id":20122610},{"ltp":1.09,"id":12739925}]}]}
+{"op":"mcm","clk":"7653070010","pt":1538803760228,"mc":[{"id":"1.149059498","rc":[{"ltp":24.0,"id":20122610},{"ltp":1.04,"id":12739925}]}]}
+{"op":"mcm","clk":"7653075534","pt":1538803814578,"mc":[{"id":"1.149059498","rc":[{"ltp":34.0,"id":20122610},{"ltp":1.03,"id":12739925}]}]}
+{"op":"mcm","clk":"7653077268","pt":1538803832190,"mc":[{"id":"1.149059498","rc":[{"ltp":1.02,"id":12739925}]}]}
+{"op":"mcm","clk":"7653115919","pt":1538804000813,"mc":[{"id":"1.149059498","rc":[{"ltp":1.03,"id":12739925}]}]}
+{"op":"mcm","clk":"7653123717","pt":1538804058850,"mc":[{"id":"1.149059498","rc":[{"ltp":1.01,"id":12739925}]}]}
+{"op":"mcm","clk":"7653167342","pt":1538804414556,"mc":[{"id":"1.149059498","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937676","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T04:22:00.000Z","suspendTime":"2018-10-06T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T05:40:09.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":20122610,"name":"Hradecka/Makarova"},{"status":"WINNER","sortPriority":2,"id":12739925,"name":"Dabrowski/Xu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T04:22:00.000Z","version":2439399684,"name":"Match Odds","eventName":"Hradecka/Makarova v Dabrowski/Xu"}}]}

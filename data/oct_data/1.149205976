@@ -1,0 +1,61 @@
+{"op":"mcm","clk":"7587158584","pt":1538855449992,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:15:00.000Z","suspendTime":"2018-10-07T07:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"ACTIVE","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:15:00.000Z","version":2442200640,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}
+{"op":"mcm","clk":"7587345192","pt":1538856761879,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:15:00.000Z","suspendTime":"2018-10-07T07:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"ACTIVE","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:15:00.000Z","version":2442200640,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}
+{"op":"mcm","clk":"7591562754","pt":1538896174473,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:04:00.000Z","suspendTime":"2018-10-07T07:04:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"ACTIVE","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:04:00.000Z","version":2443132457,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}
+{"op":"mcm","clk":"7591657304","pt":1538897156539,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:04:00.000Z","suspendTime":"2018-10-07T07:04:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"ACTIVE","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:04:00.000Z","version":2443147815,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}
+{"op":"mcm","clk":"7591667053","pt":1538897273681,"mc":[{"id":"1.149205976","rc":[{"ltp":1.41,"id":7234181},{"ltp":3.4,"id":9624989}]}]}
+{"op":"mcm","clk":"7591672200","pt":1538897336766,"mc":[{"id":"1.149205976","rc":[{"ltp":1.59,"id":7234181},{"ltp":2.68,"id":9624989}]}]}
+{"op":"mcm","clk":"7591677515","pt":1538897402750,"mc":[{"id":"1.149205976","rc":[{"ltp":2.82,"id":9624989}]}]}
+{"op":"mcm","clk":"7591693473","pt":1538897579282,"mc":[{"id":"1.149205976","rc":[{"ltp":1.15,"id":7234181}]}]}
+{"op":"mcm","clk":"7591740724","pt":1538897940701,"mc":[{"id":"1.149205976","rc":[{"ltp":1.14,"id":7234181}]}]}
+{"op":"mcm","clk":"7591784007","pt":1538898358553,"mc":[{"id":"1.149205976","rc":[{"ltp":1.15,"id":7234181},{"ltp":7.8,"id":9624989}]}]}
+{"op":"mcm","clk":"7591840301","pt":1538898746575,"mc":[{"id":"1.149205976","rc":[{"ltp":1.02,"id":7234181}]}]}
+{"op":"mcm","clk":"7591850364","pt":1538898845206,"mc":[{"id":"1.149205976","rc":[{"ltp":1.12,"id":7234181}]}]}
+{"op":"mcm","clk":"7591860428","pt":1538898951344,"mc":[{"id":"1.149205976","rc":[{"ltp":1.14,"id":7234181}]}]}
+{"op":"mcm","clk":"7591867170","pt":1538899022412,"mc":[{"id":"1.149205976","rc":[{"ltp":1.1,"id":7234181}]}]}
+{"op":"mcm","clk":"7591873204","pt":1538899074033,"mc":[{"id":"1.149205976","rc":[{"ltp":1.08,"id":7234181}]}]}
+{"op":"mcm","clk":"7591887616","pt":1538899204381,"mc":[{"id":"1.149205976","rc":[{"ltp":1.17,"id":7234181},{"ltp":6.8,"id":9624989}]}]}
+{"op":"mcm","clk":"7591902049","pt":1538899320265,"mc":[{"id":"1.149205976","rc":[{"ltp":1.18,"id":7234181}]}]}
+{"op":"mcm","clk":"7591914352","pt":1538899429831,"mc":[{"id":"1.149205976","rc":[{"ltp":1.16,"id":7234181}]}]}
+{"op":"mcm","clk":"7591963550","pt":1538899743352,"mc":[{"id":"1.149205976","rc":[{"ltp":1.06,"id":7234181},{"ltp":17.5,"id":9624989}]}]}
+{"op":"mcm","clk":"7591970516","pt":1538899796943,"mc":[{"id":"1.149205976","rc":[{"ltp":1.08,"id":7234181}]}]}
+{"op":"mcm","clk":"7591993551","pt":1538899981664,"mc":[{"id":"1.149205976","rc":[{"ltp":13.5,"id":9624989}]}]}
+{"op":"mcm","clk":"7592015052","pt":1538900160903,"mc":[{"id":"1.149205976","rc":[{"ltp":11.0,"id":9624989}]}]}
+{"op":"mcm","clk":"7592030738","pt":1538900284796,"mc":[{"id":"1.149205976","rc":[{"ltp":5.7,"id":9624989}]}]}
+{"op":"mcm","clk":"7592037915","pt":1538900337999,"mc":[{"id":"1.149205976","rc":[{"ltp":1.21,"id":7234181}]}]}
+{"op":"mcm","clk":"7592054111","pt":1538900455822,"mc":[{"id":"1.149205976","rc":[{"ltp":1.22,"id":7234181},{"ltp":5.5,"id":9624989}]}]}
+{"op":"mcm","clk":"7592062266","pt":1538900518569,"mc":[{"id":"1.149205976","rc":[{"ltp":1.26,"id":7234181},{"ltp":4.8,"id":9624989}]}]}
+{"op":"mcm","clk":"7592080080","pt":1538900563461,"mc":[{"id":"1.149205976","rc":[{"ltp":1.15,"id":7234181}]}]}
+{"op":"mcm","clk":"7592089784","pt":1538900641084,"mc":[{"id":"1.149205976","rc":[{"ltp":1.1,"id":7234181}]}]}
+{"op":"mcm","clk":"7592110348","pt":1538900811346,"mc":[{"id":"1.149205976","rc":[{"ltp":1.08,"id":7234181},{"ltp":13.5,"id":9624989}]}]}
+{"op":"mcm","clk":"7592117360","pt":1538900872280,"mc":[{"id":"1.149205976","rc":[{"ltp":1.06,"id":7234181},{"ltp":17.5,"id":9624989}]}]}
+{"op":"mcm","clk":"7592125627","pt":1538900941887,"mc":[{"id":"1.149205976","rc":[{"ltp":1.11,"id":7234181},{"ltp":10.0,"id":9624989}]}]}
+{"op":"mcm","clk":"7592173028","pt":1538901301585,"mc":[{"id":"1.149205976","rc":[{"ltp":7.2,"id":9624989}]}]}
+{"op":"mcm","clk":"7592181288","pt":1538901363154,"mc":[{"id":"1.149205976","rc":[{"ltp":1.31,"id":7234181},{"ltp":4.7,"id":9624989}]}]}
+{"op":"mcm","clk":"7592189873","pt":1538901425018,"mc":[{"id":"1.149205976","rc":[{"ltp":1.38,"id":7234181},{"ltp":3.65,"id":9624989}]}]}
+{"op":"mcm","clk":"7592210509","pt":1538901482360,"mc":[{"id":"1.149205976","rc":[{"ltp":1.36,"id":7234181},{"ltp":3.8,"id":9624989}]}]}
+{"op":"mcm","clk":"7592218671","pt":1538901539060,"mc":[{"id":"1.149205976","rc":[{"ltp":1.28,"id":7234181},{"ltp":4.6,"id":9624989}]}]}
+{"op":"mcm","clk":"7592227225","pt":1538901602663,"mc":[{"id":"1.149205976","rc":[{"ltp":1.26,"id":7234181},{"ltp":5.7,"id":9624989}]}]}
+{"op":"mcm","clk":"7592233903","pt":1538901645796,"mc":[{"id":"1.149205976","rc":[{"ltp":1.18,"id":7234181},{"ltp":6.4,"id":9624989}]}]}
+{"op":"mcm","clk":"7592245641","pt":1538901718708,"mc":[{"id":"1.149205976","rc":[{"ltp":1.42,"id":7234181},{"ltp":3.4,"id":9624989}]}]}
+{"op":"mcm","clk":"7592255498","pt":1538901784805,"mc":[{"id":"1.149205976","rc":[{"ltp":1.51,"id":7234181},{"ltp":2.96,"id":9624989}]}]}
+{"op":"mcm","clk":"7592263756","pt":1538901845169,"mc":[{"id":"1.149205976","rc":[{"ltp":1.48,"id":7234181},{"ltp":3.05,"id":9624989}]}]}
+{"op":"mcm","clk":"7592272192","pt":1538901905027,"mc":[{"id":"1.149205976","rc":[{"ltp":1.47,"id":7234181},{"ltp":3.2,"id":9624989}]}]}
+{"op":"mcm","clk":"7592279974","pt":1538901960769,"mc":[{"id":"1.149205976","rc":[{"ltp":3.3,"id":9624989}]}]}
+{"op":"mcm","clk":"7592288291","pt":1538902023684,"mc":[{"id":"1.149205976","rc":[{"ltp":1.42,"id":7234181},{"ltp":3.35,"id":9624989}]}]}
+{"op":"mcm","clk":"7592295207","pt":1538902072941,"mc":[{"id":"1.149205976","rc":[{"ltp":1.41,"id":7234181},{"ltp":3.4,"id":9624989}]}]}
+{"op":"mcm","clk":"7592303943","pt":1538902140502,"mc":[{"id":"1.149205976","rc":[{"ltp":1.35,"id":7234181},{"ltp":3.85,"id":9624989}]}]}
+{"op":"mcm","clk":"7592312218","pt":1538902201144,"mc":[{"id":"1.149205976","rc":[{"ltp":3.9,"id":9624989}]}]}
+{"op":"mcm","clk":"7592320849","pt":1538902263589,"mc":[{"id":"1.149205976","rc":[{"ltp":1.28,"id":7234181}]}]}
+{"op":"mcm","clk":"7592328756","pt":1538902324226,"mc":[{"id":"1.149205976","rc":[{"ltp":1.21,"id":7234181}]}]}
+{"op":"mcm","clk":"7592355547","pt":1538902434477,"mc":[{"id":"1.149205976","rc":[{"ltp":1.13,"id":7234181},{"ltp":8.6,"id":9624989}]}]}
+{"op":"mcm","clk":"7592364098","pt":1538902501572,"mc":[{"id":"1.149205976","rc":[{"ltp":1.1,"id":7234181},{"ltp":11.0,"id":9624989}]}]}
+{"op":"mcm","clk":"7592380130","pt":1538902624896,"mc":[{"id":"1.149205976","rc":[{"ltp":1.08,"id":7234181}]}]}
+{"op":"mcm","clk":"7592384843","pt":1538902659805,"mc":[{"id":"1.149205976","rc":[{"ltp":1.07,"id":7234181}]}]}
+{"op":"mcm","clk":"7592394048","pt":1538902737928,"mc":[{"id":"1.149205976","rc":[{"ltp":1.05,"id":7234181}]}]}
+{"op":"mcm","clk":"7592403224","pt":1538902802467,"mc":[{"id":"1.149205976","rc":[{"ltp":21.0,"id":9624989}]}]}
+{"op":"mcm","clk":"7592413043","pt":1538902863231,"mc":[{"id":"1.149205976","rc":[{"ltp":1.04,"id":7234181}]}]}
+{"op":"mcm","clk":"7592422523","pt":1538902924836,"mc":[{"id":"1.149205976","rc":[{"ltp":1.02,"id":7234181}]}]}
+{"op":"mcm","clk":"7592431270","pt":1538902984214,"mc":[{"id":"1.149205976","rc":[{"ltp":1.01,"id":7234181}]}]}
+{"op":"mcm","clk":"7592506526","pt":1538903404385,"mc":[{"id":"1.149205976","rc":[{"ltp":1.02,"id":7234181}]}]}
+{"op":"mcm","clk":"7592531901","pt":1538903581383,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:04:00.000Z","suspendTime":"2018-10-07T07:04:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"ACTIVE","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:04:00.000Z","version":2443284327,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}
+{"op":"mcm","clk":"7592535478","pt":1538903606220,"mc":[{"id":"1.149205976","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943248","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T07:04:00.000Z","suspendTime":"2018-10-07T07:04:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T09:13:24.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9624989,"name":"Nerman Fatic"},{"status":"WINNER","sortPriority":2,"id":7234181,"name":"Jeremy Jahn"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T07:04:00.000Z","version":2443286554,"name":"Match Odds","eventName":"Fatic v Jahn"}}]}

@@ -1,0 +1,59 @@
+{"op":"mcm","clk":"7777557765","pt":1540754980308,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2483553519,"name":"Match Odds","eventName":"M Cuevas v U Blanch"}}]}
+{"op":"mcm","clk":"7777574748","pt":1540755102762,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2483553519,"name":"Match Odds","eventName":"M Cuevas v U Blanch"}}]}
+{"op":"mcm","clk":"7778243558","pt":1540759432569,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:30:00.000Z","suspendTime":"2018-10-29T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:30:00.000Z","version":2483822742,"name":"Match Odds","eventName":"M Cuevas v U Blanch"}}]}
+{"op":"mcm","clk":"7780119250","pt":1540791601800,"mc":[{"id":"1.150368609","rc":[{"ltp":1.9,"id":8326736},{"ltp":2.06,"id":10082229}]}]}
+{"op":"mcm","clk":"7780208880","pt":1540794046694,"mc":[{"id":"1.150368609","rc":[{"ltp":1.94,"id":10082229}]}]}
+{"op":"mcm","clk":"7780710947","pt":1540802801852,"mc":[{"id":"1.150368609","rc":[{"ltp":1.98,"id":10082229}]}]}
+{"op":"mcm","clk":"7780863718","pt":1540804941927,"mc":[{"id":"1.150368609","rc":[{"ltp":1.94,"id":8326736},{"ltp":2.06,"id":10082229}]}]}
+{"op":"mcm","clk":"7780935557","pt":1540805967849,"mc":[{"id":"1.150368609","rc":[{"ltp":1.83,"id":8326736},{"ltp":2.2,"id":10082229}]}]}
+{"op":"mcm","clk":"7781439195","pt":1540811580032,"mc":[{"id":"1.150368609","rc":[{"ltp":2.16,"id":10082229}]}]}
+{"op":"mcm","clk":"7781441469","pt":1540811612928,"mc":[{"id":"1.150368609","rc":[{"ltp":2.18,"id":10082229}]}]}
+{"op":"mcm","clk":"7782194015","pt":1540821301347,"mc":[{"id":"1.150368609","rc":[{"ltp":1.75,"id":8326736},{"ltp":2.34,"id":10082229}]}]}
+{"op":"mcm","clk":"7782216479","pt":1540821661661,"mc":[{"id":"1.150368609","rc":[{"ltp":1.58,"id":8326736},{"ltp":2.74,"id":10082229}]}]}
+{"op":"mcm","clk":"7782225716","pt":1540821824852,"mc":[{"id":"1.150368609","rc":[{"ltp":1.57,"id":8326736}]}]}
+{"op":"mcm","clk":"7782237600","pt":1540822006757,"mc":[{"id":"1.150368609","rc":[{"ltp":1.81,"id":8326736},{"ltp":2.22,"id":10082229}]}]}
+{"op":"mcm","clk":"7782305020","pt":1540822778925,"mc":[{"id":"1.150368609","rc":[{"ltp":1.89,"id":8326736},{"ltp":2.14,"id":10082229}]}]}
+{"op":"mcm","clk":"7782430209","pt":1540824251803,"mc":[{"id":"1.150368609","rc":[{"ltp":1.72,"id":8326736}]}]}
+{"op":"mcm","clk":"7782572014","pt":1540826342687,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:17:00.000Z","suspendTime":"2018-10-29T15:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:17:00.000Z","version":2484725394,"name":"Match Odds","eventName":"M Cuevas v U Blanch"},"rc":[{"ltp":2.1,"id":10082229}]}]}
+{"op":"mcm","clk":"7782591934","pt":1540826552627,"mc":[{"id":"1.150368609","rc":[{"ltp":1.74,"id":8326736}]}]}
+{"op":"mcm","clk":"7782600656","pt":1540826702216,"mc":[{"id":"1.150368609","rc":[{"ltp":1.75,"id":8326736}]}]}
+{"op":"mcm","clk":"7782615514","pt":1540826970872,"mc":[{"id":"1.150368609","rc":[{"ltp":1.74,"id":8326736}]}]}
+{"op":"mcm","clk":"7782656404","pt":1540827601555,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:17:00.000Z","suspendTime":"2018-10-29T15:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:17:00.000Z","version":2484749864,"name":"Match Odds","eventName":"M Cuevas v U Blanch"}}]}
+{"op":"mcm","clk":"7782664104","pt":1540827762613,"mc":[{"id":"1.150368609","rc":[{"ltp":1.66,"id":8326736},{"ltp":2.5,"id":10082229}]}]}
+{"op":"mcm","clk":"7782672853","pt":1540827960210,"mc":[{"id":"1.150368609","rc":[{"ltp":1.72,"id":8326736}]}]}
+{"op":"mcm","clk":"7782681690","pt":1540828137393,"mc":[{"id":"1.150368609","rc":[{"ltp":1.7,"id":8326736},{"ltp":2.44,"id":10082229}]}]}
+{"op":"mcm","clk":"7782684474","pt":1540828202641,"mc":[{"id":"1.150368609","rc":[{"ltp":1.72,"id":8326736}]}]}
+{"op":"mcm","clk":"7782689487","pt":1540828319492,"mc":[{"id":"1.150368609","rc":[{"ltp":1.66,"id":8326736},{"ltp":2.5,"id":10082229}]}]}
+{"op":"mcm","clk":"7782703398","pt":1540828382073,"mc":[{"id":"1.150368609","rc":[{"ltp":1.83,"id":8326736},{"ltp":2.2,"id":10082229}]}]}
+{"op":"mcm","clk":"7782705884","pt":1540828437555,"mc":[{"id":"1.150368609","rc":[{"ltp":1.72,"id":8326736},{"ltp":2.4,"id":10082229}]}]}
+{"op":"mcm","clk":"7782710923","pt":1540828555597,"mc":[{"id":"1.150368609","rc":[{"ltp":1.56,"id":8326736},{"ltp":2.78,"id":10082229}]}]}
+{"op":"mcm","clk":"7782715762","pt":1540828679175,"mc":[{"id":"1.150368609","rc":[{"ltp":1.25,"id":8326736},{"ltp":5.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782723122","pt":1540828858795,"mc":[{"id":"1.150368609","rc":[{"ltp":1.26,"id":8326736}]}]}
+{"op":"mcm","clk":"7782729478","pt":1540828981013,"mc":[{"id":"1.150368609","rc":[{"ltp":1.16,"id":8326736}]}]}
+{"op":"mcm","clk":"7782732305","pt":1540829041930,"mc":[{"id":"1.150368609","rc":[{"ltp":7.2,"id":10082229}]}]}
+{"op":"mcm","clk":"7782734770","pt":1540829088342,"mc":[{"id":"1.150368609","rc":[{"ltp":6.4,"id":10082229}]}]}
+{"op":"mcm","clk":"7782738326","pt":1540829157703,"mc":[{"id":"1.150368609","rc":[{"ltp":7.2,"id":10082229}]}]}
+{"op":"mcm","clk":"7782756096","pt":1540829282131,"mc":[{"id":"1.150368609","rc":[{"ltp":1.14,"id":8326736}]}]}
+{"op":"mcm","clk":"7782759193","pt":1540829333989,"mc":[{"id":"1.150368609","rc":[{"ltp":8.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782766023","pt":1540829462899,"mc":[{"id":"1.150368609","rc":[{"ltp":1.12,"id":8326736}]}]}
+{"op":"mcm","clk":"7782769032","pt":1540829521443,"mc":[{"id":"1.150368609","rc":[{"ltp":1.04,"id":8326736}]}]}
+{"op":"mcm","clk":"7782775439","pt":1540829642780,"mc":[{"id":"1.150368609","rc":[{"ltp":1.03,"id":8326736},{"ltp":34.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782778589","pt":1540829702467,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736}]}]}
+{"op":"mcm","clk":"7782781400","pt":1540829762499,"mc":[{"id":"1.150368609","rc":[{"ltp":1.03,"id":8326736},{"ltp":50.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782783895","pt":1540829820076,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736}]}]}
+{"op":"mcm","clk":"7782786303","pt":1540829879723,"mc":[{"id":"1.150368609","rc":[{"ltp":1.01,"id":8326736}]}]}
+{"op":"mcm","clk":"7782788351","pt":1540829942268,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736}]}]}
+{"op":"mcm","clk":"7782790141","pt":1540829985958,"mc":[{"id":"1.150368609","rc":[{"ltp":1.03,"id":8326736},{"ltp":21.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782793262","pt":1540830062598,"mc":[{"id":"1.150368609","rc":[{"ltp":50.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782795611","pt":1540830120533,"mc":[{"id":"1.150368609","rc":[{"ltp":1.05,"id":8326736},{"ltp":34.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782809701","pt":1540830181870,"mc":[{"id":"1.150368609","rc":[{"ltp":1.04,"id":8326736}]}]}
+{"op":"mcm","clk":"7782815028","pt":1540830302705,"mc":[{"id":"1.150368609","rc":[{"ltp":1.03,"id":8326736}]}]}
+{"op":"mcm","clk":"7782820224","pt":1540830417495,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736}]}]}
+{"op":"mcm","clk":"7782825868","pt":1540830538076,"mc":[{"id":"1.150368609","rc":[{"ltp":1.01,"id":8326736}]}]}
+{"op":"mcm","clk":"7782836661","pt":1540830774766,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736},{"ltp":100.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782843013","pt":1540830901507,"mc":[{"id":"1.150368609","rc":[{"ltp":1.01,"id":8326736}]}]}
+{"op":"mcm","clk":"7782848096","pt":1540831021448,"mc":[{"id":"1.150368609","rc":[{"ltp":1.02,"id":8326736}]}]}
+{"op":"mcm","clk":"7782865976","pt":1540831140987,"mc":[{"id":"1.150368609","rc":[{"ltp":50.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782869500","pt":1540831202930,"mc":[{"id":"1.150368609","rc":[{"ltp":1.01,"id":8326736},{"ltp":34.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782873249","pt":1540831259870,"mc":[{"id":"1.150368609","rc":[{"ltp":110.0,"id":10082229}]}]}
+{"op":"mcm","clk":"7782876246","pt":1540831312853,"mc":[{"id":"1.150368609","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:17:00.000Z","suspendTime":"2018-10-29T15:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T16:41:47.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"LOSER","sortPriority":2,"id":10082229,"name":"Ulises Blanch"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:17:00.000Z","version":2484801406,"name":"Match Odds","eventName":"M Cuevas v U Blanch"}}]}

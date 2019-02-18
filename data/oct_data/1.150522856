@@ -1,0 +1,101 @@
+{"op":"mcm","clk":"7794488576","pt":1540979041600,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:00:00.000Z","version":2487121781,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7794492144","pt":1540979135168,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:00:00.000Z","version":2487121781,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7796347665","pt":1540995369702,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:10:00.000Z","version":2487458987,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797285173","pt":1541003371098,"mc":[{"id":"1.150522856","rc":[{"ltp":1.29,"id":9626838}]}]}
+{"op":"mcm","clk":"7797456548","pt":1541004930845,"mc":[{"id":"1.150522856","rc":[{"ltp":1.39,"id":9626838}]}]}
+{"op":"mcm","clk":"7797560998","pt":1541005692069,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:20:00.000Z","version":2487821888,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797646390","pt":1541006292563,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:30:00.000Z","version":2487836270,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797742480","pt":1541006890193,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:40:00.000Z","version":2487853332,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797758635","pt":1541007008449,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:35:00.000Z","version":2487862328,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797893282","pt":1541007785382,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"ACTIVE","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:42:17.000Z","version":2487902858,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}
+{"op":"mcm","clk":"7797920925","pt":1541007965343,"mc":[{"id":"1.150522856","rc":[{"ltp":1.43,"id":9626838},{"ltp":3.35,"id":9626865}]}]}
+{"op":"mcm","clk":"7797934782","pt":1541008072338,"mc":[{"id":"1.150522856","rc":[{"ltp":1.3,"id":9626838}]}]}
+{"op":"mcm","clk":"7797963669","pt":1541008306937,"mc":[{"id":"1.150522856","rc":[{"ltp":1.21,"id":9626838}]}]}
+{"op":"mcm","clk":"7798006449","pt":1541008558306,"mc":[{"id":"1.150522856","rc":[{"ltp":1.19,"id":9626838}]}]}
+{"op":"mcm","clk":"7798036877","pt":1541008800575,"mc":[{"id":"1.150522856","rc":[{"ltp":1.24,"id":9626838}]}]}
+{"op":"mcm","clk":"7798065312","pt":1541008986069,"mc":[{"id":"1.150522856","rc":[{"ltp":1.21,"id":9626838}]}]}
+{"op":"mcm","clk":"7798074165","pt":1541009042990,"mc":[{"id":"1.150522856","rc":[{"ltp":1.18,"id":9626838}]}]}
+{"op":"mcm","clk":"7798099389","pt":1541009213152,"mc":[{"id":"1.150522856","rc":[{"ltp":1.37,"id":9626838},{"ltp":3.7,"id":9626865}]}]}
+{"op":"mcm","clk":"7798158496","pt":1541009501720,"mc":[{"id":"1.150522856","rc":[{"ltp":1.24,"id":9626838}]}]}
+{"op":"mcm","clk":"7798195968","pt":1541009757633,"mc":[{"id":"1.150522856","rc":[{"ltp":1.18,"id":9626838}]}]}
+{"op":"mcm","clk":"7798222823","pt":1541009929662,"mc":[{"id":"1.150522856","rc":[{"ltp":1.11,"id":9626838}]}]}
+{"op":"mcm","clk":"7798246975","pt":1541010111602,"mc":[{"id":"1.150522856","rc":[{"ltp":1.13,"id":9626838}]}]}
+{"op":"mcm","clk":"7798306457","pt":1541010424146,"mc":[{"id":"1.150522856","rc":[{"ltp":1.23,"id":9626838}]}]}
+{"op":"mcm","clk":"7798321271","pt":1541010532295,"mc":[{"id":"1.150522856","rc":[{"ltp":1.22,"id":9626838},{"ltp":5.5,"id":9626865}]}]}
+{"op":"mcm","clk":"7798331316","pt":1541010605969,"mc":[{"id":"1.150522856","rc":[{"ltp":1.2,"id":9626838}]}]}
+{"op":"mcm","clk":"7798372766","pt":1541010905428,"mc":[{"id":"1.150522856","rc":[{"ltp":1.11,"id":9626838}]}]}
+{"op":"mcm","clk":"7798380802","pt":1541010954883,"mc":[{"id":"1.150522856","rc":[{"ltp":1.13,"id":9626838}]}]}
+{"op":"mcm","clk":"7798386103","pt":1541010989037,"mc":[{"id":"1.150522856","rc":[{"ltp":1.11,"id":9626838}]}]}
+{"op":"mcm","clk":"7798405922","pt":1541011027484,"mc":[{"id":"1.150522856","rc":[{"ltp":1.13,"id":9626838}]}]}
+{"op":"mcm","clk":"7798437234","pt":1541011206734,"mc":[{"id":"1.150522856","rc":[{"ltp":1.14,"id":9626838}]}]}
+{"op":"mcm","clk":"7798447262","pt":1541011266342,"mc":[{"id":"1.150522856","rc":[{"ltp":1.15,"id":9626838}]}]}
+{"op":"mcm","clk":"7798456666","pt":1541011326434,"mc":[{"id":"1.150522856","rc":[{"ltp":1.14,"id":9626838}]}]}
+{"op":"mcm","clk":"7798462573","pt":1541011364004,"mc":[{"id":"1.150522856","rc":[{"ltp":1.11,"id":9626838},{"ltp":10.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7798474902","pt":1541011439783,"mc":[{"id":"1.150522856","rc":[{"ltp":1.16,"id":9626838}]}]}
+{"op":"mcm","clk":"7798495806","pt":1541011566064,"mc":[{"id":"1.150522856","rc":[{"ltp":1.05,"id":9626838}]}]}
+{"op":"mcm","clk":"7798505632","pt":1541011626075,"mc":[{"id":"1.150522856","rc":[{"ltp":1.09,"id":9626838}]}]}
+{"op":"mcm","clk":"7798514475","pt":1541011683982,"mc":[{"id":"1.150522856","rc":[{"ltp":1.13,"id":9626838},{"ltp":8.6,"id":9626865}]}]}
+{"op":"mcm","clk":"7798582012","pt":1541012046210,"mc":[{"id":"1.150522856","rc":[{"ltp":1.15,"id":9626838}]}]}
+{"op":"mcm","clk":"7798622595","pt":1541012339764,"mc":[{"id":"1.150522856","rc":[{"ltp":1.08,"id":9626838}]}]}
+{"op":"mcm","clk":"7798682994","pt":1541012706309,"mc":[{"id":"1.150522856","rc":[{"ltp":1.06,"id":9626838}]}]}
+{"op":"mcm","clk":"7798757599","pt":1541013102845,"mc":[{"id":"1.150522856","rc":[{"ltp":1.05,"id":9626838}]}]}
+{"op":"mcm","clk":"7798842540","pt":1541013656349,"mc":[{"id":"1.150522856","rc":[{"ltp":1.28,"id":9626838}]}]}
+{"op":"mcm","clk":"7798903021","pt":1541014019991,"mc":[{"id":"1.150522856","rc":[{"ltp":1.49,"id":9626838}]}]}
+{"op":"mcm","clk":"7798910384","pt":1541014084295,"mc":[{"id":"1.150522856","rc":[{"ltp":1.68,"id":9626838},{"ltp":2.46,"id":9626865}]}]}
+{"op":"mcm","clk":"7798917797","pt":1541014145682,"mc":[{"id":"1.150522856","rc":[{"ltp":1.78,"id":9626838},{"ltp":2.28,"id":9626865}]}]}
+{"op":"mcm","clk":"7798926080","pt":1541014206784,"mc":[{"id":"1.150522856","rc":[{"ltp":1.71,"id":9626838}]}]}
+{"op":"mcm","clk":"7798943625","pt":1541014324735,"mc":[{"id":"1.150522856","rc":[{"ltp":1.65,"id":9626838}]}]}
+{"op":"mcm","clk":"7798945010","pt":1541014333467,"mc":[{"id":"1.150522856","rc":[{"ltp":1.71,"id":9626838}]}]}
+{"op":"mcm","clk":"7798958012","pt":1541014422062,"mc":[{"id":"1.150522856","rc":[{"ltp":1.73,"id":9626838},{"ltp":2.36,"id":9626865}]}]}
+{"op":"mcm","clk":"7798979826","pt":1541014566678,"mc":[{"id":"1.150522856","rc":[{"ltp":1.68,"id":9626838}]}]}
+{"op":"mcm","clk":"7799018635","pt":1541014746150,"mc":[{"id":"1.150522856","rc":[{"ltp":1.47,"id":9626838},{"ltp":3.1,"id":9626865}]}]}
+{"op":"mcm","clk":"7799024762","pt":1541014790007,"mc":[{"id":"1.150522856","rc":[{"ltp":1.41,"id":9626838}]}]}
+{"op":"mcm","clk":"7799045057","pt":1541014923630,"mc":[{"id":"1.150522856","rc":[{"ltp":1.35,"id":9626838}]}]}
+{"op":"mcm","clk":"7799051232","pt":1541014969150,"mc":[{"id":"1.150522856","rc":[{"ltp":1.2,"id":9626838}]}]}
+{"op":"mcm","clk":"7799062238","pt":1541015045464,"mc":[{"id":"1.150522856","rc":[{"ltp":1.29,"id":9626838}]}]}
+{"op":"mcm","clk":"7799070244","pt":1541015102130,"mc":[{"id":"1.150522856","rc":[{"ltp":1.21,"id":9626838}]}]}
+{"op":"mcm","clk":"7799079940","pt":1541015165723,"mc":[{"id":"1.150522856","rc":[{"ltp":1.37,"id":9626838}]}]}
+{"op":"mcm","clk":"7799088826","pt":1541015224968,"mc":[{"id":"1.150522856","rc":[{"ltp":1.33,"id":9626838},{"ltp":4.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7799098179","pt":1541015284651,"mc":[{"id":"1.150522856","rc":[{"ltp":1.28,"id":9626838}]}]}
+{"op":"mcm","clk":"7799107474","pt":1541015340418,"mc":[{"id":"1.150522856","rc":[{"ltp":4.5,"id":9626865}]}]}
+{"op":"mcm","clk":"7799116193","pt":1541015394203,"mc":[{"id":"1.150522856","rc":[{"ltp":1.2,"id":9626838}]}]}
+{"op":"mcm","clk":"7799126887","pt":1541015464870,"mc":[{"id":"1.150522856","rc":[{"ltp":1.25,"id":9626838}]}]}
+{"op":"mcm","clk":"7799132268","pt":1541015499133,"mc":[{"id":"1.150522856","rc":[{"ltp":1.37,"id":9626838}]}]}
+{"op":"mcm","clk":"7799152107","pt":1541015541615,"mc":[{"id":"1.150522856","rc":[{"ltp":3.75,"id":9626865}]}]}
+{"op":"mcm","clk":"7799176184","pt":1541015703645,"mc":[{"id":"1.150522856","rc":[{"ltp":1.48,"id":9626838},{"ltp":3.05,"id":9626865}]}]}
+{"op":"mcm","clk":"7799205872","pt":1541015884313,"mc":[{"id":"1.150522856","rc":[{"ltp":1.46,"id":9626838}]}]}
+{"op":"mcm","clk":"7799215011","pt":1541015943036,"mc":[{"id":"1.150522856","rc":[{"ltp":1.37,"id":9626838}]}]}
+{"op":"mcm","clk":"7799234465","pt":1541016066767,"mc":[{"id":"1.150522856","rc":[{"ltp":1.35,"id":9626838}]}]}
+{"op":"mcm","clk":"7799242763","pt":1541016118162,"mc":[{"id":"1.150522856","rc":[{"ltp":1.31,"id":9626838}]}]}
+{"op":"mcm","clk":"7799253779","pt":1541016185655,"mc":[{"id":"1.150522856","rc":[{"ltp":1.27,"id":9626838}]}]}
+{"op":"mcm","clk":"7799264296","pt":1541016246469,"mc":[{"id":"1.150522856","rc":[{"ltp":1.37,"id":9626838}]}]}
+{"op":"mcm","clk":"7799274587","pt":1541016306074,"mc":[{"id":"1.150522856","rc":[{"ltp":1.23,"id":9626838}]}]}
+{"op":"mcm","clk":"7799285285","pt":1541016366408,"mc":[{"id":"1.150522856","rc":[{"ltp":1.17,"id":9626838}]}]}
+{"op":"mcm","clk":"7799294829","pt":1541016420175,"mc":[{"id":"1.150522856","rc":[{"ltp":1.19,"id":9626838}]}]}
+{"op":"mcm","clk":"7799318238","pt":1541016481339,"mc":[{"id":"1.150522856","rc":[{"ltp":1.16,"id":9626838},{"ltp":7.2,"id":9626865}]}]}
+{"op":"mcm","clk":"7799328485","pt":1541016543718,"mc":[{"id":"1.150522856","rc":[{"ltp":1.2,"id":9626838}]}]}
+{"op":"mcm","clk":"7799338280","pt":1541016602144,"mc":[{"id":"1.150522856","rc":[{"ltp":1.27,"id":9626838},{"ltp":4.8,"id":9626865}]}]}
+{"op":"mcm","clk":"7799349490","pt":1541016666264,"mc":[{"id":"1.150522856","rc":[{"ltp":1.11,"id":9626838}]}]}
+{"op":"mcm","clk":"7799359481","pt":1541016724991,"mc":[{"id":"1.150522856","rc":[{"ltp":1.07,"id":9626838}]}]}
+{"op":"mcm","clk":"7799379259","pt":1541016841925,"mc":[{"id":"1.150522856","rc":[{"ltp":1.05,"id":9626838}]}]}
+{"op":"mcm","clk":"7799389283","pt":1541016905455,"mc":[{"id":"1.150522856","rc":[{"ltp":1.03,"id":9626838}]}]}
+{"op":"mcm","clk":"7799398966","pt":1541016965929,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799417879","pt":1541017085550,"mc":[{"id":"1.150522856","rc":[{"ltp":1.01,"id":9626838}]}]}
+{"op":"mcm","clk":"7799436641","pt":1541017206593,"mc":[{"id":"1.150522856","rc":[{"ltp":55.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7799446338","pt":1541017266875,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799455031","pt":1541017324417,"mc":[{"id":"1.150522856","rc":[{"ltp":1.01,"id":9626838}]}]}
+{"op":"mcm","clk":"7799477475","pt":1541017386404,"mc":[{"id":"1.150522856","rc":[{"ltp":1.03,"id":9626838}]}]}
+{"op":"mcm","clk":"7799485378","pt":1541017441242,"mc":[{"id":"1.150522856","rc":[{"ltp":36.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7799494688","pt":1541017505487,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799502739","pt":1541017562646,"mc":[{"id":"1.150522856","rc":[{"ltp":1.04,"id":9626838}]}]}
+{"op":"mcm","clk":"7799510820","pt":1541017618201,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799528891","pt":1541017742956,"mc":[{"id":"1.150522856","rc":[{"ltp":1.04,"id":9626838}]}]}
+{"op":"mcm","clk":"7799537733","pt":1541017806055,"mc":[{"id":"1.150522856","rc":[{"ltp":18.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7799546546","pt":1541017866440,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799562621","pt":1541017977912,"mc":[{"id":"1.150522856","rc":[{"ltp":1.03,"id":9626838},{"ltp":34.0,"id":9626865}]}]}
+{"op":"mcm","clk":"7799572822","pt":1541018046746,"mc":[{"id":"1.150522856","rc":[{"ltp":1.01,"id":9626838}]}]}
+{"op":"mcm","clk":"7799581423","pt":1541018105453,"mc":[{"id":"1.150522856","rc":[{"ltp":1.05,"id":9626838}]}]}
+{"op":"mcm","clk":"7799588576","pt":1541018160281,"mc":[{"id":"1.150522856","rc":[{"ltp":1.04,"id":9626838}]}]}
+{"op":"mcm","clk":"7799597213","pt":1541018224925,"mc":[{"id":"1.150522856","rc":[{"ltp":1.02,"id":9626838}]}]}
+{"op":"mcm","clk":"7799617435","pt":1541018281183,"mc":[{"id":"1.150522856","rc":[{"ltp":1.01,"id":9626838}]}]}
+{"op":"mcm","clk":"7799622801","pt":1541018325355,"mc":[{"id":"1.150522856","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986157","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T17:00:00.000Z","suspendTime":"2018-10-31T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-31T20:38:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9626838,"name":"K Kozlova"},{"status":"LOSER","sortPriority":2,"id":9626865,"name":"A Cadantu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T17:42:17.000Z","version":2488509034,"name":"Match Odds","eventName":"K Kozlova v A Cadantu"}}]}

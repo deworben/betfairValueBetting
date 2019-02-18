@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7774081391","pt":1540060162057,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T18:00:00.000Z","suspendTime":"2018-10-21T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T18:00:00.000Z","version":2465906294,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7774285737","pt":1540061198698,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T18:00:00.000Z","suspendTime":"2018-10-21T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T18:00:00.000Z","version":2465906294,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7780946535","pt":1540118135654,"mc":[{"id":"1.149921330","rc":[{"ltp":1.22,"id":8258569}]}]}
+{"op":"mcm","clk":"7781494627","pt":1540121549941,"mc":[{"id":"1.149921330","rc":[{"ltp":4.3,"id":4903608}]}]}
+{"op":"mcm","clk":"7784662983","pt":1540135525613,"mc":[{"id":"1.149921330","rc":[{"ltp":4.5,"id":4903608},{"ltp":1.29,"id":8258569}]}]}
+{"op":"mcm","clk":"7785248835","pt":1540138302147,"mc":[{"id":"1.149921330","rc":[{"ltp":1.2,"id":8258569}]}]}
+{"op":"mcm","clk":"7785409111","pt":1540139141446,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7785458641","pt":1540139439916,"mc":[{"id":"1.149921330","rc":[{"ltp":1.13,"id":8258569}]}]}
+{"op":"mcm","clk":"7785491645","pt":1540139562775,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7785499897","pt":1540139609979,"mc":[{"id":"1.149921330","rc":[{"ltp":1.19,"id":8258569}]}]}
+{"op":"mcm","clk":"7785512157","pt":1540139675090,"mc":[{"id":"1.149921330","rc":[{"ltp":1.17,"id":8258569}]}]}
+{"op":"mcm","clk":"7785535633","pt":1540139799981,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7785547163","pt":1540139860580,"mc":[{"id":"1.149921330","rc":[{"ltp":8.6,"id":4903608},{"ltp":1.16,"id":8258569}]}]}
+{"op":"mcm","clk":"7785558231","pt":1540139922775,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7785567316","pt":1540139972763,"mc":[{"id":"1.149921330","rc":[{"ltp":1.13,"id":8258569}]}]}
+{"op":"mcm","clk":"7785580390","pt":1540140043767,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7785591275","pt":1540140102991,"mc":[{"id":"1.149921330","rc":[{"ltp":1.13,"id":8258569}]}]}
+{"op":"mcm","clk":"7785602183","pt":1540140162354,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7785669442","pt":1540140488636,"mc":[{"id":"1.149921330","rc":[{"ltp":8.2,"id":4903608},{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7785690531","pt":1540140635554,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7785778147","pt":1540141291726,"mc":[{"id":"1.149921330","rc":[{"ltp":1.16,"id":8258569}]}]}
+{"op":"mcm","clk":"7785857417","pt":1540141736316,"mc":[{"id":"1.149921330","rc":[{"ltp":7.6,"id":4903608}]}]}
+{"op":"mcm","clk":"7785906141","pt":1540142043580,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786005478","pt":1540142560087,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786291860","pt":1540144120628,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T17:46:00.000Z","suspendTime":"2018-10-21T17:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T18:00:00.000Z","version":2469516839,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7786299826","pt":1540144179255,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T17:46:00.000Z","suspendTime":"2018-10-21T17:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T17:46:00.000Z","version":2469516839,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7786313269","pt":1540144275931,"mc":[{"id":"1.149921330","rc":[{"ltp":8.8,"id":4903608},{"ltp":1.13,"id":8258569}]}]}
+{"op":"mcm","clk":"7786355963","pt":1540144596472,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786375923","pt":1540144752075,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786382154","pt":1540144798183,"mc":[{"id":"1.149921330","rc":[{"ltp":1.13,"id":8258569}]}]}
+{"op":"mcm","clk":"7786450910","pt":1540145198419,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T17:46:00.000Z","suspendTime":"2018-10-21T17:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T17:46:00.000Z","version":2469580029,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7786459859","pt":1540145256377,"mc":[{"id":"1.149921330","rc":[{"ltp":7.6,"id":4903608},{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786470212","pt":1540145323308,"mc":[{"id":"1.149921330","rc":[{"ltp":5.7,"id":4903608},{"ltp":1.21,"id":8258569}]}]}
+{"op":"mcm","clk":"7786479563","pt":1540145381770,"mc":[{"id":"1.149921330","rc":[{"ltp":5.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7786489337","pt":1540145441379,"mc":[{"id":"1.149921330","rc":[{"ltp":7.6,"id":4903608},{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786499402","pt":1540145501576,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786510038","pt":1540145563264,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786520236","pt":1540145623718,"mc":[{"id":"1.149921330","rc":[{"ltp":6.4,"id":4903608},{"ltp":1.19,"id":8258569}]}]}
+{"op":"mcm","clk":"7786530396","pt":1540145681954,"mc":[{"id":"1.149921330","rc":[{"ltp":6.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7786541291","pt":1540145743104,"mc":[{"id":"1.149921330","rc":[{"ltp":7.6,"id":4903608},{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786551059","pt":1540145803731,"mc":[{"id":"1.149921330","rc":[{"ltp":8.0,"id":4903608},{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786578919","pt":1540145910726,"mc":[{"id":"1.149921330","rc":[{"ltp":6.2,"id":4903608},{"ltp":1.19,"id":8258569}]}]}
+{"op":"mcm","clk":"7786590108","pt":1540145983045,"mc":[{"id":"1.149921330","rc":[{"ltp":1.18,"id":8258569}]}]}
+{"op":"mcm","clk":"7786598954","pt":1540146041464,"mc":[{"id":"1.149921330","rc":[{"ltp":4.8,"id":4903608},{"ltp":1.25,"id":8258569}]}]}
+{"op":"mcm","clk":"7786608870","pt":1540146103866,"mc":[{"id":"1.149921330","rc":[{"ltp":4.3,"id":4903608},{"ltp":1.28,"id":8258569}]}]}
+{"op":"mcm","clk":"7786618457","pt":1540146163032,"mc":[{"id":"1.149921330","rc":[{"ltp":6.0,"id":4903608},{"ltp":1.2,"id":8258569}]}]}
+{"op":"mcm","clk":"7786628511","pt":1540146223435,"mc":[{"id":"1.149921330","rc":[{"ltp":1.15,"id":8258569}]}]}
+{"op":"mcm","clk":"7786636733","pt":1540146275898,"mc":[{"id":"1.149921330","rc":[{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786647888","pt":1540146343177,"mc":[{"id":"1.149921330","rc":[{"ltp":8.6,"id":4903608},{"ltp":1.18,"id":8258569}]}]}
+{"op":"mcm","clk":"7786657931","pt":1540146403878,"mc":[{"id":"1.149921330","rc":[{"ltp":6.0,"id":4903608},{"ltp":1.2,"id":8258569}]}]}
+{"op":"mcm","clk":"7786667976","pt":1540146463717,"mc":[{"id":"1.149921330","rc":[{"ltp":1.21,"id":8258569}]}]}
+{"op":"mcm","clk":"7786688227","pt":1540146583050,"mc":[{"id":"1.149921330","rc":[{"ltp":15.0,"id":4903608},{"ltp":1.07,"id":8258569}]}]}
+{"op":"mcm","clk":"7786698487","pt":1540146643484,"mc":[{"id":"1.149921330","rc":[{"ltp":13.5,"id":4903608},{"ltp":1.08,"id":8258569}]}]}
+{"op":"mcm","clk":"7786708162","pt":1540146703525,"mc":[{"id":"1.149921330","rc":[{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7786738798","pt":1540146823868,"mc":[{"id":"1.149921330","rc":[{"ltp":1.07,"id":8258569}]}]}
+{"op":"mcm","clk":"7786759855","pt":1540146942831,"mc":[{"id":"1.149921330","rc":[{"ltp":1.06,"id":8258569}]}]}
+{"op":"mcm","clk":"7786770690","pt":1540147003831,"mc":[{"id":"1.149921330","rc":[{"ltp":1.07,"id":8258569}]}]}
+{"op":"mcm","clk":"7786791487","pt":1540147120454,"mc":[{"id":"1.149921330","rc":[{"ltp":1.06,"id":8258569}]}]}
+{"op":"mcm","clk":"7786802476","pt":1540147183244,"mc":[{"id":"1.149921330","rc":[{"ltp":1.07,"id":8258569}]}]}
+{"op":"mcm","clk":"7786834437","pt":1540147362740,"mc":[{"id":"1.149921330","rc":[{"ltp":21.0,"id":4903608},{"ltp":1.05,"id":8258569}]}]}
+{"op":"mcm","clk":"7786867085","pt":1540147543871,"mc":[{"id":"1.149921330","rc":[{"ltp":1.04,"id":8258569}]}]}
+{"op":"mcm","clk":"7786877236","pt":1540147603260,"mc":[{"id":"1.149921330","rc":[{"ltp":1.05,"id":8258569}]}]}
+{"op":"mcm","clk":"7786897352","pt":1540147661843,"mc":[{"id":"1.149921330","rc":[{"ltp":17.5,"id":4903608},{"ltp":1.06,"id":8258569}]}]}
+{"op":"mcm","clk":"7786907072","pt":1540147723807,"mc":[{"id":"1.149921330","rc":[{"ltp":13.5,"id":4903608},{"ltp":1.08,"id":8258569}]}]}
+{"op":"mcm","clk":"7786915015","pt":1540147782254,"mc":[{"id":"1.149921330","rc":[{"ltp":11.0,"id":4903608},{"ltp":1.14,"id":8258569}]}]}
+{"op":"mcm","clk":"7786923529","pt":1540147842119,"mc":[{"id":"1.149921330","rc":[{"ltp":7.6,"id":4903608}]}]}
+{"op":"mcm","clk":"7786932311","pt":1540147901774,"mc":[{"id":"1.149921330","rc":[{"ltp":15.0,"id":4903608},{"ltp":1.07,"id":8258569}]}]}
+{"op":"mcm","clk":"7786949355","pt":1540148023415,"mc":[{"id":"1.149921330","rc":[{"ltp":1.06,"id":8258569}]}]}
+{"op":"mcm","clk":"7786971935","pt":1540148201850,"mc":[{"id":"1.149921330","rc":[{"ltp":26.0,"id":4903608},{"ltp":1.03,"id":8258569}]}]}
+{"op":"mcm","clk":"7786979085","pt":1540148260544,"mc":[{"id":"1.149921330","rc":[{"ltp":1.02,"id":8258569}]}]}
+{"op":"mcm","clk":"7786994446","pt":1540148381283,"mc":[{"id":"1.149921330","rc":[{"ltp":50.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7787003635","pt":1540148441489,"mc":[{"id":"1.149921330","rc":[{"ltp":110.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7787011552","pt":1540148492387,"mc":[{"id":"1.149921330","rc":[{"ltp":1.01,"id":8258569}]}]}
+{"op":"mcm","clk":"7787042560","pt":1540148622644,"mc":[{"id":"1.149921330","rc":[{"ltp":100.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7787051424","pt":1540148677568,"mc":[{"id":"1.149921330","rc":[{"ltp":290.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7787078869","pt":1540148840224,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T17:46:00.000Z","suspendTime":"2018-10-21T17:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T17:46:00.000Z","version":2469692999,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}
+{"op":"mcm","clk":"7787084939","pt":1540148875500,"mc":[{"id":"1.149921330","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967406","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T17:46:00.000Z","suspendTime":"2018-10-21T17:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-21T19:07:51.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"WINNER","sortPriority":2,"id":8258569,"name":"Thai-Son Kwiatkowski"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T17:46:00.000Z","version":2469694824,"name":"Match Odds","eventName":"Krainik v Kwiatkowski"}}]}

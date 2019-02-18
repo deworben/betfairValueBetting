@@ -1,0 +1,81 @@
+{"op":"mcm","clk":"7647859197","pt":1539486493235,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:00:00.000Z","version":2454764186,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7647862837","pt":1539486586472,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:00:00.000Z","version":2454764186,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7650021604","pt":1539510938345,"mc":[{"id":"1.149570777","rc":[{"ltp":1.66,"id":9627876}]}]}
+{"op":"mcm","clk":"7650024281","pt":1539510956381,"mc":[{"id":"1.149570777","rc":[{"ltp":2.52,"id":9626783}]}]}
+{"op":"mcm","clk":"7650062687","pt":1539511210364,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:30:00.000Z","version":2455053953,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7650430561","pt":1539513094370,"mc":[{"id":"1.149570777","rc":[{"ltp":1.53,"id":9627876},{"ltp":2.88,"id":9626783}]}]}
+{"op":"mcm","clk":"7650454289","pt":1539513229433,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:30:00.000Z","version":2455134432,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7650473186","pt":1539513328959,"mc":[{"id":"1.149570777","rc":[{"ltp":1.51,"id":9627876},{"ltp":2.98,"id":9626783}]}]}
+{"op":"mcm","clk":"7650544510","pt":1539513633200,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:40:29.000Z","version":2455146356,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7650566671","pt":1539513757742,"mc":[{"id":"1.149570777","rc":[{"ltp":1.61,"id":9627876},{"ltp":2.64,"id":9626783}]}]}
+{"op":"mcm","clk":"7650597946","pt":1539513937940,"mc":[{"id":"1.149570777","rc":[{"ltp":1.42,"id":9627876}]}]}
+{"op":"mcm","clk":"7650625846","pt":1539514106787,"mc":[{"id":"1.149570777","rc":[{"ltp":1.35,"id":9627876}]}]}
+{"op":"mcm","clk":"7650728689","pt":1539514659080,"mc":[{"id":"1.149570777","rc":[{"ltp":1.23,"id":9627876}]}]}
+{"op":"mcm","clk":"7650748302","pt":1539514778773,"mc":[{"id":"1.149570777","rc":[{"ltp":1.25,"id":9627876}]}]}
+{"op":"mcm","clk":"7650788248","pt":1539515018518,"mc":[{"id":"1.149570777","rc":[{"ltp":1.17,"id":9627876},{"ltp":7.0,"id":9626783}]}]}
+{"op":"mcm","clk":"7650798494","pt":1539515077141,"mc":[{"id":"1.149570777","rc":[{"ltp":1.19,"id":9627876}]}]}
+{"op":"mcm","clk":"7650821164","pt":1539515197332,"mc":[{"id":"1.149570777","rc":[{"ltp":1.18,"id":9627876}]}]}
+{"op":"mcm","clk":"7650888136","pt":1539515496640,"mc":[{"id":"1.149570777","rc":[{"ltp":1.29,"id":9627876}]}]}
+{"op":"mcm","clk":"7650896400","pt":1539515547185,"mc":[{"id":"1.149570777","rc":[{"ltp":1.24,"id":9627876}]}]}
+{"op":"mcm","clk":"7650918241","pt":1539515678970,"mc":[{"id":"1.149570777","rc":[{"ltp":1.34,"id":9627876}]}]}
+{"op":"mcm","clk":"7650928326","pt":1539515738049,"mc":[{"id":"1.149570777","rc":[{"ltp":1.24,"id":9627876}]}]}
+{"op":"mcm","clk":"7650947031","pt":1539515856521,"mc":[{"id":"1.149570777","rc":[{"ltp":1.32,"id":9627876}]}]}
+{"op":"mcm","clk":"7650957252","pt":1539515919911,"mc":[{"id":"1.149570777","rc":[{"ltp":1.33,"id":9627876}]}]}
+{"op":"mcm","clk":"7650963381","pt":1539515956255,"mc":[{"id":"1.149570777","rc":[{"ltp":1.41,"id":9627876}]}]}
+{"op":"mcm","clk":"7650977590","pt":1539516036652,"mc":[{"id":"1.149570777","rc":[{"ltp":1.36,"id":9627876},{"ltp":3.8,"id":9626783}]}]}
+{"op":"mcm","clk":"7651008131","pt":1539516156453,"mc":[{"id":"1.149570777","rc":[{"ltp":1.44,"id":9627876},{"ltp":3.3,"id":9626783}]}]}
+{"op":"mcm","clk":"7651037589","pt":1539516336693,"mc":[{"id":"1.149570777","rc":[{"ltp":1.77,"id":9627876},{"ltp":2.3,"id":9626783}]}]}
+{"op":"mcm","clk":"7651046713","pt":1539516395949,"mc":[{"id":"1.149570777","rc":[{"ltp":1.9,"id":9627876},{"ltp":2.12,"id":9626783}]}]}
+{"op":"mcm","clk":"7651065161","pt":1539516517494,"mc":[{"id":"1.149570777","rc":[{"ltp":1.63,"id":9626783}]}]}
+{"op":"mcm","clk":"7651074767","pt":1539516579367,"mc":[{"id":"1.149570777","rc":[{"ltp":2.46,"id":9627876},{"ltp":1.58,"id":9626783}]}]}
+{"op":"mcm","clk":"7651083659","pt":1539516637360,"mc":[{"id":"1.149570777","rc":[{"ltp":2.26,"id":9627876}]}]}
+{"op":"mcm","clk":"7651092900","pt":1539516699120,"mc":[{"id":"1.149570777","rc":[{"ltp":2.8,"id":9627876},{"ltp":1.55,"id":9626783}]}]}
+{"op":"mcm","clk":"7651101411","pt":1539516754203,"mc":[{"id":"1.149570777","rc":[{"ltp":2.14,"id":9627876},{"ltp":1.88,"id":9626783}]}]}
+{"op":"mcm","clk":"7651106307","pt":1539516786152,"mc":[{"id":"1.149570777","rc":[{"ltp":1.84,"id":9627876}]}]}
+{"op":"mcm","clk":"7651130634","pt":1539516937972,"mc":[{"id":"1.149570777","rc":[{"ltp":1.58,"id":9627876},{"ltp":2.74,"id":9626783}]}]}
+{"op":"mcm","clk":"7651139142","pt":1539516987606,"mc":[{"id":"1.149570777","rc":[{"ltp":1.36,"id":9627876}]}]}
+{"op":"mcm","clk":"7651171531","pt":1539517119911,"mc":[{"id":"1.149570777","rc":[{"ltp":3.25,"id":9626783}]}]}
+{"op":"mcm","clk":"7651180359","pt":1539517171770,"mc":[{"id":"1.149570777","rc":[{"ltp":1.28,"id":9627876},{"ltp":4.6,"id":9626783}]}]}
+{"op":"mcm","clk":"7651190103","pt":1539517235738,"mc":[{"id":"1.149570777","rc":[{"ltp":1.24,"id":9627876},{"ltp":5.1,"id":9626783}]}]}
+{"op":"mcm","clk":"7651199114","pt":1539517297545,"mc":[{"id":"1.149570777","rc":[{"ltp":1.2,"id":9627876}]}]}
+{"op":"mcm","clk":"7651215378","pt":1539517412054,"mc":[{"id":"1.149570777","rc":[{"ltp":1.19,"id":9627876}]}]}
+{"op":"mcm","clk":"7651224233","pt":1539517477065,"mc":[{"id":"1.149570777","rc":[{"ltp":1.22,"id":9627876},{"ltp":5.5,"id":9626783}]}]}
+{"op":"mcm","clk":"7651238047","pt":1539517581524,"mc":[{"id":"1.149570777","rc":[{"ltp":1.25,"id":9627876}]}]}
+{"op":"mcm","clk":"7651257010","pt":1539517719689,"mc":[{"id":"1.149570777","rc":[{"ltp":1.14,"id":9627876}]}]}
+{"op":"mcm","clk":"7651270771","pt":1539517819137,"mc":[{"id":"1.149570777","rc":[{"ltp":1.11,"id":9627876}]}]}
+{"op":"mcm","clk":"7651281782","pt":1539517898839,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876}]}]}
+{"op":"mcm","clk":"7651299595","pt":1539517955210,"mc":[{"id":"1.149570777","rc":[{"ltp":1.08,"id":9627876}]}]}
+{"op":"mcm","clk":"7651308476","pt":1539518019475,"mc":[{"id":"1.149570777","rc":[{"ltp":1.06,"id":9627876}]}]}
+{"op":"mcm","clk":"7651316797","pt":1539518079887,"mc":[{"id":"1.149570777","rc":[{"ltp":1.08,"id":9627876},{"ltp":21.0,"id":9626783}]}]}
+{"op":"mcm","clk":"7651323938","pt":1539518138599,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876}]}]}
+{"op":"mcm","clk":"7651330778","pt":1539518193269,"mc":[{"id":"1.149570777","rc":[{"ltp":1.13,"id":9627876}]}]}
+{"op":"mcm","clk":"7651347118","pt":1539518319766,"mc":[{"id":"1.149570777","rc":[{"ltp":1.14,"id":9627876}]}]}
+{"op":"mcm","clk":"7651354150","pt":1539518380007,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876}]}]}
+{"op":"mcm","clk":"7651361263","pt":1539518439871,"mc":[{"id":"1.149570777","rc":[{"ltp":1.09,"id":9627876}]}]}
+{"op":"mcm","clk":"7651367842","pt":1539518495921,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876}]}]}
+{"op":"mcm","clk":"7651374872","pt":1539518553523,"mc":[{"id":"1.149570777","rc":[{"ltp":1.08,"id":9627876}]}]}
+{"op":"mcm","clk":"7651383103","pt":1539518615766,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876},{"ltp":11.0,"id":9626783}]}]}
+{"op":"mcm","clk":"7651391591","pt":1539518676994,"mc":[{"id":"1.149570777","rc":[{"ltp":1.08,"id":9627876}]}]}
+{"op":"mcm","clk":"7651400568","pt":1539518739663,"mc":[{"id":"1.149570777","rc":[{"ltp":1.11,"id":9627876}]}]}
+{"op":"mcm","clk":"7651409049","pt":1539518798757,"mc":[{"id":"1.149570777","rc":[{"ltp":1.12,"id":9627876}]}]}
+{"op":"mcm","clk":"7651427821","pt":1539518858573,"mc":[{"id":"1.149570777","rc":[{"ltp":1.14,"id":9627876}]}]}
+{"op":"mcm","clk":"7651436678","pt":1539518919833,"mc":[{"id":"1.149570777","rc":[{"ltp":1.16,"id":9627876},{"ltp":5.5,"id":9626783}]}]}
+{"op":"mcm","clk":"7651454418","pt":1539519038262,"mc":[{"id":"1.149570777","rc":[{"ltp":1.18,"id":9627876}]}]}
+{"op":"mcm","clk":"7651463114","pt":1539519096631,"mc":[{"id":"1.149570777","rc":[{"ltp":1.25,"id":9627876},{"ltp":5.1,"id":9626783}]}]}
+{"op":"mcm","clk":"7651479535","pt":1539519218273,"mc":[{"id":"1.149570777","rc":[{"ltp":1.17,"id":9627876}]}]}
+{"op":"mcm","clk":"7651487498","pt":1539519278061,"mc":[{"id":"1.149570777","rc":[{"ltp":1.11,"id":9627876},{"ltp":10.5,"id":9626783}]}]}
+{"op":"mcm","clk":"7651493521","pt":1539519325036,"mc":[{"id":"1.149570777","rc":[{"ltp":1.17,"id":9627876}]}]}
+{"op":"mcm","clk":"7651500734","pt":1539519382012,"mc":[{"id":"1.149570777","rc":[{"ltp":1.15,"id":9627876}]}]}
+{"op":"mcm","clk":"7651510816","pt":1539519459644,"mc":[{"id":"1.149570777","rc":[{"ltp":1.13,"id":9627876}]}]}
+{"op":"mcm","clk":"7651526981","pt":1539519579439,"mc":[{"id":"1.149570777","rc":[{"ltp":1.12,"id":9627876},{"ltp":9.6,"id":9626783}]}]}
+{"op":"mcm","clk":"7651535773","pt":1539519638927,"mc":[{"id":"1.149570777","rc":[{"ltp":1.18,"id":9627876},{"ltp":6.6,"id":9626783}]}]}
+{"op":"mcm","clk":"7651542577","pt":1539519684759,"mc":[{"id":"1.149570777","rc":[{"ltp":1.15,"id":9627876}]}]}
+{"op":"mcm","clk":"7651563394","pt":1539519759355,"mc":[{"id":"1.149570777","rc":[{"ltp":1.16,"id":9627876}]}]}
+{"op":"mcm","clk":"7651571392","pt":1539519819311,"mc":[{"id":"1.149570777","rc":[{"ltp":1.11,"id":9627876}]}]}
+{"op":"mcm","clk":"7651579371","pt":1539519878785,"mc":[{"id":"1.149570777","rc":[{"ltp":1.05,"id":9627876},{"ltp":14.5,"id":9626783}]}]}
+{"op":"mcm","clk":"7651587462","pt":1539519939579,"mc":[{"id":"1.149570777","rc":[{"ltp":1.07,"id":9627876}]}]}
+{"op":"mcm","clk":"7651594058","pt":1539519992129,"mc":[{"id":"1.149570777","rc":[{"ltp":1.1,"id":9627876},{"ltp":11.0,"id":9626783}]}]}
+{"op":"mcm","clk":"7651602084","pt":1539520054912,"mc":[{"id":"1.149570777","rc":[{"ltp":1.07,"id":9627876}]}]}
+{"op":"mcm","clk":"7651610684","pt":1539520119576,"mc":[{"id":"1.149570777","rc":[{"ltp":1.01,"id":9627876},{"ltp":34.0,"id":9626783}]}]}
+{"op":"mcm","clk":"7651615858","pt":1539520159923,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"ACTIVE","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:40:29.000Z","version":2455359206,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}
+{"op":"mcm","clk":"7651621547","pt":1539520201143,"mc":[{"id":"1.149570777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955758","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:00:00.000Z","suspendTime":"2018-10-14T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T12:29:58.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9626783,"name":"K Kawa"},{"status":"WINNER","sortPriority":2,"id":9627876,"name":"T Martincova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T10:40:29.000Z","version":2455360387,"name":"Match Odds","eventName":"K Kawa v T Martincova"}}]}

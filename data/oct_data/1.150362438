@@ -1,0 +1,58 @@
+{"op":"mcm","clk":"7831738614","pt":1540745965956,"mc":[{"id":"1.150362438","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981829","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T18:30:00.000Z","suspendTime":"2018-10-28T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21392338,"name":"18758324"},{"status":"ACTIVE","sortPriority":2,"id":10434911,"name":"Gomez/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T18:30:00.000Z","version":2483017131,"name":"Match Odds","eventName":"18758325"}}]}
+{"op":"mcm","clk":"7831987368","pt":1540747600805,"mc":[{"id":"1.150362438","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981829","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T18:30:00.000Z","suspendTime":"2018-10-28T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21392338,"name":"18758324"},{"status":"ACTIVE","sortPriority":2,"id":10434911,"name":"Gomez/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T18:30:00.000Z","version":2483017131,"name":"Match Odds","eventName":"18758325"}}]}
+{"op":"mcm","clk":"7832498060","pt":1540751327123,"mc":[{"id":"1.150362438","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981829","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T18:23:00.000Z","suspendTime":"2018-10-28T18:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21392338,"name":"18758324"},{"status":"ACTIVE","sortPriority":2,"id":10434911,"name":"Gomez/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T18:23:00.000Z","version":2483376989,"name":"Match Odds","eventName":"18758325"}}]}
+{"op":"mcm","clk":"7832577612","pt":1540751914617,"mc":[{"id":"1.150362438","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981829","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T18:23:00.000Z","suspendTime":"2018-10-28T18:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21392338,"name":"18758324"},{"status":"ACTIVE","sortPriority":2,"id":10434911,"name":"Gomez/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T18:23:00.000Z","version":2483408071,"name":"Match Odds","eventName":"18758325"}}]}
+{"op":"mcm","clk":"7832587496","pt":1540751985118,"mc":[{"id":"1.150362438","rc":[{"ltp":1.87,"id":10434911},{"ltp":2.14,"id":21392338}]}]}
+{"op":"mcm","clk":"7832594988","pt":1540752039625,"mc":[{"id":"1.150362438","rc":[{"ltp":2.3,"id":10434911},{"ltp":1.76,"id":21392338}]}]}
+{"op":"mcm","clk":"7832604372","pt":1540752105273,"mc":[{"id":"1.150362438","rc":[{"ltp":2.46,"id":10434911},{"ltp":1.68,"id":21392338}]}]}
+{"op":"mcm","clk":"7832621651","pt":1540752160374,"mc":[{"id":"1.150362438","rc":[{"ltp":2.42,"id":10434911},{"ltp":1.7,"id":21392338}]}]}
+{"op":"mcm","clk":"7832630982","pt":1540752227746,"mc":[{"id":"1.150362438","rc":[{"ltp":2.0,"id":10434911},{"ltp":2.2,"id":21392338}]}]}
+{"op":"mcm","clk":"7832639104","pt":1540752286044,"mc":[{"id":"1.150362438","rc":[{"ltp":1.8,"id":10434911},{"ltp":2.24,"id":21392338}]}]}
+{"op":"mcm","clk":"7832646721","pt":1540752344048,"mc":[{"id":"1.150362438","rc":[{"ltp":2.08,"id":21392338}]}]}
+{"op":"mcm","clk":"7832654739","pt":1540752406804,"mc":[{"id":"1.150362438","rc":[{"ltp":2.24,"id":10434911},{"ltp":1.8,"id":21392338}]}]}
+{"op":"mcm","clk":"7832662968","pt":1540752468164,"mc":[{"id":"1.150362438","rc":[{"ltp":2.2,"id":10434911},{"ltp":1.83,"id":21392338}]}]}
+{"op":"mcm","clk":"7832676732","pt":1540752585079,"mc":[{"id":"1.150362438","rc":[{"ltp":1.89,"id":21392338}]}]}
+{"op":"mcm","clk":"7832683131","pt":1540752645259,"mc":[{"id":"1.150362438","rc":[{"ltp":2.32,"id":10434911},{"ltp":1.94,"id":21392338}]}]}
+{"op":"mcm","clk":"7832696580","pt":1540752764681,"mc":[{"id":"1.150362438","rc":[{"ltp":2.12,"id":10434911},{"ltp":1.86,"id":21392338}]}]}
+{"op":"mcm","clk":"7832715967","pt":1540752940898,"mc":[{"id":"1.150362438","rc":[{"ltp":1.89,"id":10434911},{"ltp":2.12,"id":21392338}]}]}
+{"op":"mcm","clk":"7832737429","pt":1540753066281,"mc":[{"id":"1.150362438","rc":[{"ltp":1.8,"id":10434911},{"ltp":2.24,"id":21392338}]}]}
+{"op":"mcm","clk":"7832743196","pt":1540753126174,"mc":[{"id":"1.150362438","rc":[{"ltp":1.71,"id":10434911},{"ltp":2.4,"id":21392338}]}]}
+{"op":"mcm","clk":"7832749261","pt":1540753187256,"mc":[{"id":"1.150362438","rc":[{"ltp":1.69,"id":10434911},{"ltp":2.44,"id":21392338}]}]}
+{"op":"mcm","clk":"7832766082","pt":1540753368073,"mc":[{"id":"1.150362438","rc":[{"ltp":1.9,"id":10434911},{"ltp":2.1,"id":21392338}]}]}
+{"op":"mcm","clk":"7832771138","pt":1540753421291,"mc":[{"id":"1.150362438","rc":[{"ltp":1.89,"id":10434911},{"ltp":2.12,"id":21392338}]}]}
+{"op":"mcm","clk":"7832777147","pt":1540753485210,"mc":[{"id":"1.150362438","rc":[{"ltp":1.92,"id":10434911}]}]}
+{"op":"mcm","clk":"7832783167","pt":1540753547784,"mc":[{"id":"1.150362438","rc":[{"ltp":1.83,"id":10434911},{"ltp":2.2,"id":21392338}]}]}
+{"op":"mcm","clk":"7832794581","pt":1540753665784,"mc":[{"id":"1.150362438","rc":[{"ltp":2.76,"id":21392338}]}]}
+{"op":"mcm","clk":"7832805591","pt":1540753783795,"mc":[{"id":"1.150362438","rc":[{"ltp":2.12,"id":10434911},{"ltp":1.89,"id":21392338}]}]}
+{"op":"mcm","clk":"7832811438","pt":1540753847790,"mc":[{"id":"1.150362438","rc":[{"ltp":2.2,"id":10434911},{"ltp":1.83,"id":21392338}]}]}
+{"op":"mcm","clk":"7832816765","pt":1540753907225,"mc":[{"id":"1.150362438","rc":[{"ltp":2.0,"id":10434911}]}]}
+{"op":"mcm","clk":"7832831554","pt":1540753966733,"mc":[{"id":"1.150362438","rc":[{"ltp":1.98,"id":21392338}]}]}
+{"op":"mcm","clk":"7832843662","pt":1540754086376,"mc":[{"id":"1.150362438","rc":[{"ltp":1.86,"id":10434911},{"ltp":2.36,"id":21392338}]}]}
+{"op":"mcm","clk":"7832849970","pt":1540754148058,"mc":[{"id":"1.150362438","rc":[{"ltp":1.66,"id":10434911},{"ltp":2.5,"id":21392338}]}]}
+{"op":"mcm","clk":"7832854654","pt":1540754195450,"mc":[{"id":"1.150362438","rc":[{"ltp":1.7,"id":10434911},{"ltp":2.42,"id":21392338}]}]}
+{"op":"mcm","clk":"7832866640","pt":1540754314587,"mc":[{"id":"1.150362438","rc":[{"ltp":2.5,"id":21392338}]}]}
+{"op":"mcm","clk":"7832872982","pt":1540754386823,"mc":[{"id":"1.150362438","rc":[{"ltp":1.62,"id":10434911},{"ltp":2.6,"id":21392338}]}]}
+{"op":"mcm","clk":"7832877900","pt":1540754447243,"mc":[{"id":"1.150362438","rc":[{"ltp":2.66,"id":21392338}]}]}
+{"op":"mcm","clk":"7832883037","pt":1540754506073,"mc":[{"id":"1.150362438","rc":[{"ltp":2.5,"id":21392338}]}]}
+{"op":"mcm","clk":"7832888155","pt":1540754567652,"mc":[{"id":"1.150362438","rc":[{"ltp":1.68,"id":10434911}]}]}
+{"op":"mcm","clk":"7832892743","pt":1540754626874,"mc":[{"id":"1.150362438","rc":[{"ltp":1.6,"id":10434911},{"ltp":2.66,"id":21392338}]}]}
+{"op":"mcm","clk":"7832898027","pt":1540754682388,"mc":[{"id":"1.150362438","rc":[{"ltp":1.66,"id":10434911}]}]}
+{"op":"mcm","clk":"7832903705","pt":1540754745346,"mc":[{"id":"1.150362438","rc":[{"ltp":1.64,"id":10434911},{"ltp":2.6,"id":21392338}]}]}
+{"op":"mcm","clk":"7832908883","pt":1540754805727,"mc":[{"id":"1.150362438","rc":[{"ltp":1.6,"id":10434911}]}]}
+{"op":"mcm","clk":"7832923312","pt":1540754866804,"mc":[{"id":"1.150362438","rc":[{"ltp":1.55,"id":10434911},{"ltp":2.8,"id":21392338}]}]}
+{"op":"mcm","clk":"7832929146","pt":1540754925778,"mc":[{"id":"1.150362438","rc":[{"ltp":1.5,"id":10434911},{"ltp":2.98,"id":21392338}]}]}
+{"op":"mcm","clk":"7832934944","pt":1540754984699,"mc":[{"id":"1.150362438","rc":[{"ltp":1.48,"id":10434911}]}]}
+{"op":"mcm","clk":"7832940828","pt":1540755044007,"mc":[{"id":"1.150362438","rc":[{"ltp":1.49,"id":10434911}]}]}
+{"op":"mcm","clk":"7832947133","pt":1540755107508,"mc":[{"id":"1.150362438","rc":[{"ltp":1.52,"id":10434911},{"ltp":2.96,"id":21392338}]}]}
+{"op":"mcm","clk":"7832951135","pt":1540755145811,"mc":[{"id":"1.150362438","rc":[{"ltp":1.72,"id":10434911},{"ltp":2.46,"id":21392338}]}]}
+{"op":"mcm","clk":"7832959860","pt":1540755221322,"mc":[{"id":"1.150362438","rc":[{"ltp":2.2,"id":10434911},{"ltp":1.83,"id":21392338}]}]}
+{"op":"mcm","clk":"7832968010","pt":1540755287818,"mc":[{"id":"1.150362438","rc":[{"ltp":2.34,"id":10434911},{"ltp":1.74,"id":21392338}]}]}
+{"op":"mcm","clk":"7832975494","pt":1540755347872,"mc":[{"id":"1.150362438","rc":[{"ltp":2.56,"id":10434911},{"ltp":1.64,"id":21392338}]}]}
+{"op":"mcm","clk":"7832982488","pt":1540755406889,"mc":[{"id":"1.150362438","rc":[{"ltp":1.55,"id":10434911},{"ltp":2.82,"id":21392338}]}]}
+{"op":"mcm","clk":"7832989007","pt":1540755466171,"mc":[{"id":"1.150362438","rc":[{"ltp":1.5,"id":10434911},{"ltp":3.0,"id":21392338}]}]}
+{"op":"mcm","clk":"7832995824","pt":1540755528039,"mc":[{"id":"1.150362438","rc":[{"ltp":1.21,"id":10434911},{"ltp":6.4,"id":21392338}]}]}
+{"op":"mcm","clk":"7833002606","pt":1540755588142,"mc":[{"id":"1.150362438","rc":[{"ltp":1.4,"id":10434911},{"ltp":4.2,"id":21392338}]}]}
+{"op":"mcm","clk":"7833009433","pt":1540755647485,"mc":[{"id":"1.150362438","rc":[{"ltp":1.06,"id":10434911},{"ltp":7.6,"id":21392338}]}]}
+{"op":"mcm","clk":"7833016257","pt":1540755707503,"mc":[{"id":"1.150362438","rc":[{"ltp":1.21,"id":10434911},{"ltp":3.9,"id":21392338}]}]}
+{"op":"mcm","clk":"7833032255","pt":1540755767956,"mc":[{"id":"1.150362438","rc":[{"ltp":3.4,"id":10434911},{"ltp":1.41,"id":21392338}]}]}
+{"op":"mcm","clk":"7833038169","pt":1540755817984,"mc":[{"id":"1.150362438","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981829","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T18:23:00.000Z","suspendTime":"2018-10-28T18:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-28T19:43:34.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":21392338,"name":"18758324"},{"status":"LOSER","sortPriority":2,"id":10434911,"name":"Gomez/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T18:23:00.000Z","version":2483588090,"name":"Match Odds","eventName":"18758325"}}]}

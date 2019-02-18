@@ -1,0 +1,126 @@
+{"op":"mcm","clk":"7547543179","pt":1538504422102,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-03T09:00:00.000Z","suspendTime":"2018-10-03T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-03T09:00:00.000Z","version":2434344526,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7547619909","pt":1538505101670,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-03T09:00:00.000Z","suspendTime":"2018-10-03T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-03T09:00:00.000Z","version":2434344526,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7549653022","pt":1538525972446,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T09:00:00.000Z","suspendTime":"2018-10-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-03T09:00:00.000Z","version":2434821783,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7549653399","pt":1538525976462,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T09:00:00.000Z","suspendTime":"2018-10-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T09:00:00.000Z","version":2434821783,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7552567725","pt":1538564493460,"mc":[{"id":"1.149012876","rc":[{"ltp":1.6,"id":2303153}]}]}
+{"op":"mcm","clk":"7553111571","pt":1538568195298,"mc":[{"id":"1.149012876","rc":[{"ltp":1.64,"id":2303153}]}]}
+{"op":"mcm","clk":"7555367193","pt":1538582962841,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T12:30:00.000Z","suspendTime":"2018-10-04T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T12:30:00.000Z","version":2435712361,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7558283317","pt":1538613284873,"mc":[{"id":"1.149012876","rc":[{"ltp":1.63,"id":2303153}]}]}
+{"op":"mcm","clk":"7559724919","pt":1538637612090,"mc":[{"id":"1.149012876","rc":[{"ltp":1.64,"id":2303153}]}]}
+{"op":"mcm","clk":"7559746236","pt":1538637752219,"mc":[{"id":"1.149012876","rc":[{"ltp":1.67,"id":2303153},{"ltp":2.48,"id":8284482}]}]}
+{"op":"mcm","clk":"7559754619","pt":1538637886362,"mc":[{"id":"1.149012876","rc":[{"ltp":1.63,"id":2303153}]}]}
+{"op":"mcm","clk":"7560068296","pt":1538641760763,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T12:25:00.000Z","suspendTime":"2018-10-04T12:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T12:25:00.000Z","version":2436537907,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7560127953","pt":1538642402216,"mc":[{"id":"1.149012876","rc":[{"ltp":2.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7560382798","pt":1538645494564,"mc":[{"id":"1.149012876","rc":[{"ltp":1.57,"id":2303153}]}]}
+{"op":"mcm","clk":"7560387052","pt":1538645552631,"mc":[{"id":"1.149012876","rc":[{"ltp":1.58,"id":2303153}]}]}
+{"op":"mcm","clk":"7560445740","pt":1538646271328,"mc":[{"id":"1.149012876","rc":[{"ltp":1.6,"id":2303153},{"ltp":2.68,"id":8284482}]}]}
+{"op":"mcm","clk":"7560472472","pt":1538646694217,"mc":[{"id":"1.149012876","rc":[{"ltp":1.59,"id":2303153},{"ltp":2.7,"id":8284482}]}]}
+{"op":"mcm","clk":"7560493970","pt":1538646812268,"mc":[{"id":"1.149012876","rc":[{"ltp":1.61,"id":2303153},{"ltp":2.66,"id":8284482}]}]}
+{"op":"mcm","clk":"7560502776","pt":1538646930489,"mc":[{"id":"1.149012876","rc":[{"ltp":1.58,"id":2303153}]}]}
+{"op":"mcm","clk":"7560521792","pt":1538647160936,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T12:16:00.000Z","suspendTime":"2018-10-04T12:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T12:16:00.000Z","version":2436598977,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7560545680","pt":1538647462034,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T12:02:00.000Z","suspendTime":"2018-10-04T12:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T12:02:00.000Z","version":2436603262,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7560583855","pt":1538647833494,"mc":[{"id":"1.149012876","rc":[{"ltp":1.55,"id":2303153},{"ltp":2.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7560602972","pt":1538648088677,"mc":[{"id":"1.149012876","rc":[{"ltp":1.52,"id":2303153},{"ltp":2.88,"id":8284482}]}]}
+{"op":"mcm","clk":"7560654781","pt":1538648548278,"mc":[{"id":"1.149012876","rc":[{"ltp":1.53,"id":2303153}]}]}
+{"op":"mcm","clk":"7560666838","pt":1538648698753,"mc":[{"id":"1.149012876","rc":[{"ltp":1.52,"id":2303153}]}]}
+{"op":"mcm","clk":"7560676676","pt":1538648830821,"mc":[{"id":"1.149012876","rc":[{"ltp":1.53,"id":2303153}]}]}
+{"op":"mcm","clk":"7560703263","pt":1538649153922,"mc":[{"id":"1.149012876","rc":[{"ltp":2.82,"id":8284482}]}]}
+{"op":"mcm","clk":"7560704955","pt":1538649175057,"mc":[{"id":"1.149012876","rc":[{"ltp":1.55,"id":2303153}]}]}
+{"op":"mcm","clk":"7560741702","pt":1538649452192,"mc":[{"id":"1.149012876","rc":[{"ltp":2.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7560747283","pt":1538649514538,"mc":[{"id":"1.149012876","rc":[{"ltp":1.54,"id":2303153},{"ltp":2.84,"id":8284482}]}]}
+{"op":"mcm","clk":"7560752185","pt":1538649574189,"mc":[{"id":"1.149012876","rc":[{"ltp":1.56,"id":2303153},{"ltp":2.82,"id":8284482}]}]}
+{"op":"mcm","clk":"7560757602","pt":1538649634247,"mc":[{"id":"1.149012876","rc":[{"ltp":1.61,"id":2303153},{"ltp":2.7,"id":8284482}]}]}
+{"op":"mcm","clk":"7560762589","pt":1538649688040,"mc":[{"id":"1.149012876","rc":[{"ltp":1.65,"id":2303153},{"ltp":2.56,"id":8284482}]}]}
+{"op":"mcm","clk":"7560768289","pt":1538649753320,"mc":[{"id":"1.149012876","rc":[{"ltp":1.62,"id":2303153},{"ltp":2.6,"id":8284482}]}]}
+{"op":"mcm","clk":"7560774065","pt":1538649813479,"mc":[{"id":"1.149012876","rc":[{"ltp":1.63,"id":2303153}]}]}
+{"op":"mcm","clk":"7560779200","pt":1538649869643,"mc":[{"id":"1.149012876","rc":[{"ltp":1.61,"id":2303153}]}]}
+{"op":"mcm","clk":"7560785841","pt":1538649933802,"mc":[{"id":"1.149012876","rc":[{"ltp":1.62,"id":2303153}]}]}
+{"op":"mcm","clk":"7560799504","pt":1538650079070,"mc":[{"id":"1.149012876","rc":[{"ltp":1.66,"id":2303153}]}]}
+{"op":"mcm","clk":"7560809654","pt":1538650195075,"mc":[{"id":"1.149012876","rc":[{"ltp":1.62,"id":2303153}]}]}
+{"op":"mcm","clk":"7560902338","pt":1538651012233,"mc":[{"id":"1.149012876","rc":[{"ltp":2.62,"id":8284482}]}]}
+{"op":"mcm","clk":"7560967030","pt":1538651544482,"mc":[{"id":"1.149012876","rc":[{"ltp":1.65,"id":2303153}]}]}
+{"op":"mcm","clk":"7560978754","pt":1538651669866,"mc":[{"id":"1.149012876","rc":[{"ltp":1.6,"id":2303153},{"ltp":2.64,"id":8284482}]}]}
+{"op":"mcm","clk":"7561016317","pt":1538652124469,"mc":[{"id":"1.149012876","rc":[{"ltp":1.56,"id":2303153}]}]}
+{"op":"mcm","clk":"7561068121","pt":1538652560867,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T11:27:00.000Z","suspendTime":"2018-10-04T11:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T11:27:00.000Z","version":2436702190,"name":"Match Odds","eventName":"Andujar v Mager"}}]}
+{"op":"mcm","clk":"7561106503","pt":1538652953337,"mc":[{"id":"1.149012876","rc":[{"ltp":1.59,"id":2303153}]}]}
+{"op":"mcm","clk":"7561140783","pt":1538653154719,"mc":[{"id":"1.149012876","rc":[{"ltp":1.6,"id":2303153}]}]}
+{"op":"mcm","clk":"7561149014","pt":1538653241028,"mc":[{"id":"1.149012876","rc":[{"ltp":1.59,"id":2303153}]}]}
+{"op":"mcm","clk":"7561160176","pt":1538653350748,"mc":[{"id":"1.149012876","rc":[{"ltp":2.58,"id":8284482}]}]}
+{"op":"mcm","clk":"7561178080","pt":1538653527709,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T11:27:00.000Z","suspendTime":"2018-10-04T11:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T11:27:00.000Z","version":2436712529,"name":"Match Odds","eventName":"Andujar v Mager"},"rc":[{"ltp":1.68,"id":2303153},{"ltp":2.36,"id":8284482}]}]}
+{"op":"mcm","clk":"7561184680","pt":1538653593794,"mc":[{"id":"1.149012876","rc":[{"ltp":1.75,"id":2303153}]}]}
+{"op":"mcm","clk":"7561190326","pt":1538653654416,"mc":[{"id":"1.149012876","rc":[{"ltp":1.67,"id":2303153},{"ltp":2.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561195940","pt":1538653713037,"mc":[{"id":"1.149012876","rc":[{"ltp":1.46,"id":2303153},{"ltp":2.78,"id":8284482}]}]}
+{"op":"mcm","clk":"7561200745","pt":1538653772441,"mc":[{"id":"1.149012876","rc":[{"ltp":1.48,"id":2303153}]}]}
+{"op":"mcm","clk":"7561205895","pt":1538653834401,"mc":[{"id":"1.149012876","rc":[{"ltp":1.65,"id":2303153},{"ltp":2.38,"id":8284482}]}]}
+{"op":"mcm","clk":"7561211417","pt":1538653894243,"mc":[{"id":"1.149012876","rc":[{"ltp":1.7,"id":2303153},{"ltp":2.46,"id":8284482}]}]}
+{"op":"mcm","clk":"7561232117","pt":1538653954176,"mc":[{"id":"1.149012876","rc":[{"ltp":1.71,"id":2303153},{"ltp":2.4,"id":8284482}]}]}
+{"op":"mcm","clk":"7561238460","pt":1538654013656,"mc":[{"id":"1.149012876","rc":[{"ltp":1.63,"id":2303153},{"ltp":2.6,"id":8284482}]}]}
+{"op":"mcm","clk":"7561244489","pt":1538654074496,"mc":[{"id":"1.149012876","rc":[{"ltp":1.55,"id":2303153},{"ltp":2.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7561250010","pt":1538654132168,"mc":[{"id":"1.149012876","rc":[{"ltp":1.5,"id":2303153}]}]}
+{"op":"mcm","clk":"7561256108","pt":1538654193415,"mc":[{"id":"1.149012876","rc":[{"ltp":1.56,"id":2303153},{"ltp":2.84,"id":8284482}]}]}
+{"op":"mcm","clk":"7561262279","pt":1538654253865,"mc":[{"id":"1.149012876","rc":[{"ltp":1.47,"id":2303153}]}]}
+{"op":"mcm","clk":"7561267527","pt":1538654310555,"mc":[{"id":"1.149012876","rc":[{"ltp":1.43,"id":2303153}]}]}
+{"op":"mcm","clk":"7561273304","pt":1538654371591,"mc":[{"id":"1.149012876","rc":[{"ltp":1.33,"id":2303153},{"ltp":4.1,"id":8284482}]}]}
+{"op":"mcm","clk":"7561279683","pt":1538654433184,"mc":[{"id":"1.149012876","rc":[{"ltp":1.34,"id":2303153}]}]}
+{"op":"mcm","clk":"7561286053","pt":1538654494023,"mc":[{"id":"1.149012876","rc":[{"ltp":1.26,"id":2303153},{"ltp":4.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561292883","pt":1538654554569,"mc":[{"id":"1.149012876","rc":[{"ltp":1.28,"id":2303153}]}]}
+{"op":"mcm","clk":"7561299849","pt":1538654614480,"mc":[{"id":"1.149012876","rc":[{"ltp":1.24,"id":2303153}]}]}
+{"op":"mcm","clk":"7561306147","pt":1538654674027,"mc":[{"id":"1.149012876","rc":[{"ltp":1.26,"id":2303153},{"ltp":4.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7561311638","pt":1538654731669,"mc":[{"id":"1.149012876","rc":[{"ltp":1.25,"id":2303153},{"ltp":4.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561318456","pt":1538654792826,"mc":[{"id":"1.149012876","rc":[{"ltp":6.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561339732","pt":1538654853828,"mc":[{"id":"1.149012876","rc":[{"ltp":1.29,"id":2303153}]}]}
+{"op":"mcm","clk":"7561351455","pt":1538654971731,"mc":[{"id":"1.149012876","rc":[{"ltp":1.3,"id":2303153}]}]}
+{"op":"mcm","clk":"7561357844","pt":1538655034584,"mc":[{"id":"1.149012876","rc":[{"ltp":1.32,"id":2303153},{"ltp":4.4,"id":8284482}]}]}
+{"op":"mcm","clk":"7561363654","pt":1538655091857,"mc":[{"id":"1.149012876","rc":[{"ltp":1.38,"id":2303153},{"ltp":3.65,"id":8284482}]}]}
+{"op":"mcm","clk":"7561370032","pt":1538655152538,"mc":[{"id":"1.149012876","rc":[{"ltp":1.41,"id":2303153}]}]}
+{"op":"mcm","clk":"7561376653","pt":1538655212465,"mc":[{"id":"1.149012876","rc":[{"ltp":1.34,"id":2303153}]}]}
+{"op":"mcm","clk":"7561383714","pt":1538655273552,"mc":[{"id":"1.149012876","rc":[{"ltp":1.25,"id":2303153},{"ltp":5.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561390664","pt":1538655329985,"mc":[{"id":"1.149012876","rc":[{"ltp":1.2,"id":2303153}]}]}
+{"op":"mcm","clk":"7561397770","pt":1538655394453,"mc":[{"id":"1.149012876","rc":[{"ltp":1.19,"id":2303153}]}]}
+{"op":"mcm","clk":"7561403594","pt":1538655452104,"mc":[{"id":"1.149012876","rc":[{"ltp":1.15,"id":2303153}]}]}
+{"op":"mcm","clk":"7561428051","pt":1538655694429,"mc":[{"id":"1.149012876","rc":[{"ltp":1.14,"id":2303153},{"ltp":8.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561453582","pt":1538655812319,"mc":[{"id":"1.149012876","rc":[{"ltp":1.15,"id":2303153}]}]}
+{"op":"mcm","clk":"7561459018","pt":1538655874286,"mc":[{"id":"1.149012876","rc":[{"ltp":1.1,"id":2303153}]}]}
+{"op":"mcm","clk":"7561465165","pt":1538655934247,"mc":[{"id":"1.149012876","rc":[{"ltp":1.07,"id":2303153},{"ltp":15.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561471011","pt":1538655992320,"mc":[{"id":"1.149012876","rc":[{"ltp":1.14,"id":2303153},{"ltp":8.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7561476846","pt":1538656054256,"mc":[{"id":"1.149012876","rc":[{"ltp":1.08,"id":2303153},{"ltp":12.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561482489","pt":1538656114398,"mc":[{"id":"1.149012876","rc":[{"ltp":1.12,"id":2303153}]}]}
+{"op":"mcm","clk":"7561488530","pt":1538656174592,"mc":[{"id":"1.149012876","rc":[{"ltp":1.05,"id":2303153},{"ltp":13.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561494999","pt":1538656234453,"mc":[{"id":"1.149012876","rc":[{"ltp":17.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561501174","pt":1538656293105,"mc":[{"id":"1.149012876","rc":[{"ltp":1.07,"id":2303153}]}]}
+{"op":"mcm","clk":"7561506926","pt":1538656354335,"mc":[{"id":"1.149012876","rc":[{"ltp":1.06,"id":2303153}]}]}
+{"op":"mcm","clk":"7561512602","pt":1538656414548,"mc":[{"id":"1.149012876","rc":[{"ltp":1.08,"id":2303153},{"ltp":13.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561517902","pt":1538656474304,"mc":[{"id":"1.149012876","rc":[{"ltp":1.14,"id":2303153},{"ltp":7.6,"id":8284482}]}]}
+{"op":"mcm","clk":"7561523135","pt":1538656533811,"mc":[{"id":"1.149012876","rc":[{"ltp":1.15,"id":2303153},{"ltp":8.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561528782","pt":1538656593875,"mc":[{"id":"1.149012876","rc":[{"ltp":1.12,"id":2303153}]}]}
+{"op":"mcm","clk":"7561549234","pt":1538656654430,"mc":[{"id":"1.149012876","rc":[{"ltp":1.1,"id":2303153},{"ltp":13.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561554793","pt":1538656713705,"mc":[{"id":"1.149012876","rc":[{"ltp":1.07,"id":2303153},{"ltp":12.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7561560328","pt":1538656773809,"mc":[{"id":"1.149012876","rc":[{"ltp":18.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561565573","pt":1538656834168,"mc":[{"id":"1.149012876","rc":[{"ltp":1.04,"id":2303153}]}]}
+{"op":"mcm","clk":"7561570695","pt":1538656894137,"mc":[{"id":"1.149012876","rc":[{"ltp":1.06,"id":2303153},{"ltp":21.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561576150","pt":1538656954128,"mc":[{"id":"1.149012876","rc":[{"ltp":1.04,"id":2303153},{"ltp":18.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561581928","pt":1538657014388,"mc":[{"id":"1.149012876","rc":[{"ltp":1.02,"id":2303153},{"ltp":30.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561587665","pt":1538657074569,"mc":[{"id":"1.149012876","rc":[{"ltp":1.03,"id":2303153},{"ltp":50.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561593118","pt":1538657134119,"mc":[{"id":"1.149012876","rc":[{"ltp":1.04,"id":2303153},{"ltp":26.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561598786","pt":1538657193589,"mc":[{"id":"1.149012876","rc":[{"ltp":1.03,"id":2303153},{"ltp":34.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561605000","pt":1538657254141,"mc":[{"id":"1.149012876","rc":[{"ltp":1.01,"id":2303153},{"ltp":55.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561617472","pt":1538657371454,"mc":[{"id":"1.149012876","rc":[{"ltp":1.02,"id":2303153}]}]}
+{"op":"mcm","clk":"7561622907","pt":1538657434319,"mc":[{"id":"1.149012876","rc":[{"ltp":60.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561628231","pt":1538657493881,"mc":[{"id":"1.149012876","rc":[{"ltp":1.01,"id":2303153}]}]}
+{"op":"mcm","clk":"7561647857","pt":1538657552639,"mc":[{"id":"1.149012876","rc":[{"ltp":190.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561662981","pt":1538657733229,"mc":[{"id":"1.149012876","rc":[{"ltp":270.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561673139","pt":1538657854173,"mc":[{"id":"1.149012876","rc":[{"ltp":110.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561678288","pt":1538657914448,"mc":[{"id":"1.149012876","rc":[{"ltp":1.02,"id":2303153},{"ltp":50.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561683532","pt":1538657974424,"mc":[{"id":"1.149012876","rc":[{"ltp":1.03,"id":2303153},{"ltp":34.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561688329","pt":1538658034466,"mc":[{"id":"1.149012876","rc":[{"ltp":50.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561693112","pt":1538658094430,"mc":[{"id":"1.149012876","rc":[{"ltp":1.01,"id":2303153}]}]}
+{"op":"mcm","clk":"7561697568","pt":1538658153439,"mc":[{"id":"1.149012876","rc":[{"ltp":100.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561702064","pt":1538658214087,"mc":[{"id":"1.149012876","rc":[{"ltp":1.04,"id":2303153},{"ltp":34.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561711141","pt":1538658331888,"mc":[{"id":"1.149012876","rc":[{"ltp":1.07,"id":2303153},{"ltp":15.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561715851","pt":1538658393555,"mc":[{"id":"1.149012876","rc":[{"ltp":1.04,"id":2303153},{"ltp":21.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561735029","pt":1538658453139,"mc":[{"id":"1.149012876","rc":[{"ltp":1.03,"id":2303153},{"ltp":34.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561739319","pt":1538658510288,"mc":[{"id":"1.149012876","rc":[{"ltp":1.06,"id":2303153},{"ltp":21.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561744444","pt":1538658574362,"mc":[{"id":"1.149012876","rc":[{"ltp":1.05,"id":2303153},{"ltp":26.0,"id":8284482}]}]}
+{"op":"mcm","clk":"7561749228","pt":1538658634386,"mc":[{"id":"1.149012876","rc":[{"ltp":1.02,"id":2303153}]}]}
+{"op":"mcm","clk":"7561753525","pt":1538658690353,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T11:27:00.000Z","suspendTime":"2018-10-04T11:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T11:27:00.000Z","version":2436791429,"name":"Match Odds","eventName":"Andujar v Mager"},"rc":[{"ltp":1.01,"id":2303153}]}]}
+{"op":"mcm","clk":"7561754124","pt":1538658698158,"mc":[{"id":"1.149012876","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28935622","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T11:27:00.000Z","suspendTime":"2018-10-04T11:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-04T13:11:29.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2303153,"name":"Pablo Andujar"},{"status":"LOSER","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T11:27:00.000Z","version":2436791537,"name":"Match Odds","eventName":"Andujar v Mager"}}]}

@@ -1,0 +1,48 @@
+{"op":"mcm","clk":"7774326527","pt":1540193533068,"mc":[{"id":"1.149998236","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628371,"name":"N Vikhlyantseva"},{"status":"ACTIVE","sortPriority":2,"id":9628777,"name":"T Korpatsch"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470459639,"name":"Match Odds","eventName":"N Vikhlyantseva v T Korpatsch"}}]}
+{"op":"mcm","clk":"7774330250","pt":1540193673286,"mc":[{"id":"1.149998236","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628371,"name":"N Vikhlyantseva"},{"status":"ACTIVE","sortPriority":2,"id":9628777,"name":"T Korpatsch"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470459639,"name":"Match Odds","eventName":"N Vikhlyantseva v T Korpatsch"}}]}
+{"op":"mcm","clk":"7774394958","pt":1540195262714,"mc":[{"id":"1.149998236","rc":[{"ltp":1.51,"id":9628371}]}]}
+{"op":"mcm","clk":"7774420808","pt":1540195898461,"mc":[{"id":"1.149998236","rc":[{"ltp":1.32,"id":9628371}]}]}
+{"op":"mcm","clk":"7774555462","pt":1540198601119,"mc":[{"id":"1.149998236","rc":[{"ltp":3.25,"id":9628777},{"ltp":1.44,"id":9628371}]}]}
+{"op":"mcm","clk":"7774691622","pt":1540200697251,"mc":[{"id":"1.149998236","rc":[{"ltp":3.1,"id":9628777},{"ltp":1.47,"id":9628371}]}]}
+{"op":"mcm","clk":"7774746817","pt":1540201579867,"mc":[{"id":"1.149998236","rc":[{"ltp":2.88,"id":9628777}]}]}
+{"op":"mcm","clk":"7774803742","pt":1540202432317,"mc":[{"id":"1.149998236","rc":[{"ltp":3.25,"id":9628777},{"ltp":1.38,"id":9628371}]}]}
+{"op":"mcm","clk":"7774835178","pt":1540202949382,"mc":[{"id":"1.149998236","rc":[{"ltp":1.4,"id":9628371}]}]}
+{"op":"mcm","clk":"7774941927","pt":1540204169991,"mc":[{"id":"1.149998236","rc":[{"ltp":3.5,"id":9628777}]}]}
+{"op":"mcm","clk":"7775080073","pt":1540205876556,"mc":[{"id":"1.149998236","rc":[{"ltp":1.39,"id":9628371}]}]}
+{"op":"mcm","clk":"7775125633","pt":1540206521556,"mc":[{"id":"1.149998236","rc":[{"ltp":1.38,"id":9628371}]}]}
+{"op":"mcm","clk":"7775376459","pt":1540209583652,"mc":[{"id":"1.149998236","rc":[{"ltp":1.37,"id":9628371}]}]}
+{"op":"mcm","clk":"7775380304","pt":1540209629006,"mc":[{"id":"1.149998236","rc":[{"ltp":1.36,"id":9628371}]}]}
+{"op":"mcm","clk":"7775465917","pt":1540210579756,"mc":[{"id":"1.149998236","rc":[{"ltp":3.55,"id":9628777},{"ltp":1.37,"id":9628371}]}]}
+{"op":"mcm","clk":"7775477186","pt":1540210708839,"mc":[{"id":"1.149998236","rc":[{"ltp":1.36,"id":9628371}]}]}
+{"op":"mcm","clk":"7775486148","pt":1540210820582,"mc":[{"id":"1.149998236","rc":[{"ltp":1.37,"id":9628371}]}]}
+{"op":"mcm","clk":"7775497451","pt":1540210959989,"mc":[{"id":"1.149998236","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628371,"name":"N Vikhlyantseva"},{"status":"ACTIVE","sortPriority":2,"id":9628777,"name":"T Korpatsch"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470612969,"name":"Match Odds","eventName":"N Vikhlyantseva v T Korpatsch"}}]}
+{"op":"mcm","clk":"7775506431","pt":1540211080616,"mc":[{"id":"1.149998236","rc":[{"ltp":1.32,"id":9628371}]}]}
+{"op":"mcm","clk":"7775515949","pt":1540211202170,"mc":[{"id":"1.149998236","rc":[{"ltp":1.27,"id":9628371}]}]}
+{"op":"mcm","clk":"7775542479","pt":1540211381865,"mc":[{"id":"1.149998236","rc":[{"ltp":1.2,"id":9628371}]}]}
+{"op":"mcm","clk":"7775547308","pt":1540211426734,"mc":[{"id":"1.149998236","rc":[{"ltp":1.3,"id":9628371}]}]}
+{"op":"mcm","clk":"7775554662","pt":1540211501036,"mc":[{"id":"1.149998236","rc":[{"ltp":1.26,"id":9628371}]}]}
+{"op":"mcm","clk":"7775575600","pt":1540211742578,"mc":[{"id":"1.149998236","rc":[{"ltp":1.2,"id":9628371}]}]}
+{"op":"mcm","clk":"7775595382","pt":1540211981105,"mc":[{"id":"1.149998236","rc":[{"ltp":1.16,"id":9628371}]}]}
+{"op":"mcm","clk":"7775599482","pt":1540212040568,"mc":[{"id":"1.149998236","rc":[{"ltp":1.06,"id":9628371}]}]}
+{"op":"mcm","clk":"7775602712","pt":1540212089940,"mc":[{"id":"1.149998236","rc":[{"ltp":1.05,"id":9628371}]}]}
+{"op":"mcm","clk":"7775617934","pt":1540212155452,"mc":[{"id":"1.149998236","rc":[{"ltp":1.04,"id":9628371}]}]}
+{"op":"mcm","clk":"7775622333","pt":1540212219387,"mc":[{"id":"1.149998236","rc":[{"ltp":1.03,"id":9628371}]}]}
+{"op":"mcm","clk":"7775630669","pt":1540212335697,"mc":[{"id":"1.149998236","rc":[{"ltp":1.04,"id":9628371}]}]}
+{"op":"mcm","clk":"7775638435","pt":1540212435843,"mc":[{"id":"1.149998236","rc":[{"ltp":1.05,"id":9628371}]}]}
+{"op":"mcm","clk":"7775659824","pt":1540212691073,"mc":[{"id":"1.149998236","rc":[{"ltp":18.0,"id":9628777},{"ltp":1.06,"id":9628371}]}]}
+{"op":"mcm","clk":"7775669948","pt":1540212822627,"mc":[{"id":"1.149998236","rc":[{"ltp":1.03,"id":9628371}]}]}
+{"op":"mcm","clk":"7775674592","pt":1540212879298,"mc":[{"id":"1.149998236","rc":[{"ltp":1.02,"id":9628371}]}]}
+{"op":"mcm","clk":"7775682552","pt":1540212975468,"mc":[{"id":"1.149998236","rc":[{"ltp":1.03,"id":9628371}]}]}
+{"op":"mcm","clk":"7775700254","pt":1540213062119,"mc":[{"id":"1.149998236","rc":[{"ltp":17.5,"id":9628777},{"ltp":1.06,"id":9628371}]}]}
+{"op":"mcm","clk":"7775702451","pt":1540213092245,"mc":[{"id":"1.149998236","rc":[{"ltp":1.03,"id":9628371}]}]}
+{"op":"mcm","clk":"7775708983","pt":1540213174343,"mc":[{"id":"1.149998236","rc":[{"ltp":1.04,"id":9628371}]}]}
+{"op":"mcm","clk":"7775714482","pt":1540213243675,"mc":[{"id":"1.149998236","rc":[{"ltp":38.0,"id":9628777},{"ltp":1.03,"id":9628371}]}]}
+{"op":"mcm","clk":"7775734096","pt":1540213460589,"mc":[{"id":"1.149998236","rc":[{"ltp":17.5,"id":9628777},{"ltp":1.06,"id":9628371}]}]}
+{"op":"mcm","clk":"7775760875","pt":1540213720564,"mc":[{"id":"1.149998236","rc":[{"ltp":1.12,"id":9628371}]}]}
+{"op":"mcm","clk":"7775765600","pt":1540213769187,"mc":[{"id":"1.149998236","rc":[{"ltp":1.01,"id":9628371}]}]}
+{"op":"mcm","clk":"7775848699","pt":1540214504928,"mc":[{"id":"1.149998236","rc":[{"ltp":100.0,"id":9628777}]}]}
+{"op":"mcm","clk":"7776378933","pt":1540220057012,"mc":[{"id":"1.149998236","rc":[{"ltp":160.0,"id":9628777}]}]}
+{"op":"mcm","clk":"7776494776","pt":1540221528446,"mc":[{"id":"1.149998236","rc":[{"ltp":170.0,"id":9628777}]}]}
+{"op":"mcm","clk":"7776632701","pt":1540223778947,"mc":[{"id":"1.149998236","rc":[{"ltp":150.0,"id":9628777}]}]}
+{"op":"mcm","clk":"7776818485","pt":1540226055019,"mc":[{"id":"1.149998236","rc":[{"ltp":200.0,"id":9628777}]}]}
+{"op":"mcm","clk":"7777256065","pt":1540230147337,"mc":[{"id":"1.149998236","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-22T17:42:22.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9628371,"name":"N Vikhlyantseva"},{"status":"LOSER","sortPriority":2,"id":9628777,"name":"T Korpatsch"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470929885,"name":"Match Odds","eventName":"N Vikhlyantseva v T Korpatsch"}}]}

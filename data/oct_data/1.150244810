@@ -1,0 +1,127 @@
+{"op":"mcm","clk":"7749257602","pt":1540562099567,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:00:00.000Z","suspendTime":"2018-10-27T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:00:00.000Z","version":2476213928,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7749283074","pt":1540562337804,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:00:00.000Z","suspendTime":"2018-10-27T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:00:00.000Z","version":2476213928,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7755286273","pt":1540605228542,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T03:50:00.000Z","suspendTime":"2018-10-27T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T03:50:00.000Z","version":2477414760,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7755379859","pt":1540606140714,"mc":[{"id":"1.150244810","rc":[{"ltp":1.09,"id":6669343}]}]}
+{"op":"mcm","clk":"7755829185","pt":1540612125115,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:05:00.000Z","suspendTime":"2018-10-27T04:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:05:00.000Z","version":2477545033,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7755869433","pt":1540612789406,"mc":[{"id":"1.150244810","rc":[{"ltp":1.16,"id":6669343}]}]}
+{"op":"mcm","clk":"7755884748","pt":1540613022812,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:20:00.000Z","suspendTime":"2018-10-27T04:20:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:20:00.000Z","version":2477552533,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7755964885","pt":1540613925486,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:35:00.000Z","suspendTime":"2018-10-27T04:35:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:35:00.000Z","version":2477559295,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7756026638","pt":1540614525182,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:44:00.000Z","suspendTime":"2018-10-27T04:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:44:00.000Z","version":2477562552,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7756047903","pt":1540614827119,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:30:00.000Z","suspendTime":"2018-10-27T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:30:00.000Z","version":2477564430,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7756092323","pt":1540615259682,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:30:00.000Z","suspendTime":"2018-10-27T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:30:00.000Z","version":2477568376,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7756100484","pt":1540615374428,"mc":[{"id":"1.150244810","rc":[{"ltp":1.07,"id":6669343},{"ltp":15.0,"id":10430114}]}]}
+{"op":"mcm","clk":"7756109358","pt":1540615502067,"mc":[{"id":"1.150244810","rc":[{"ltp":1.11,"id":6669343}]}]}
+{"op":"mcm","clk":"7756113822","pt":1540615560014,"mc":[{"id":"1.150244810","rc":[{"ltp":1.15,"id":6669343}]}]}
+{"op":"mcm","clk":"7756117989","pt":1540615623847,"mc":[{"id":"1.150244810","rc":[{"ltp":1.13,"id":6669343}]}]}
+{"op":"mcm","clk":"7756121687","pt":1540615685532,"mc":[{"id":"1.150244810","rc":[{"ltp":1.11,"id":6669343}]}]}
+{"op":"mcm","clk":"7756135504","pt":1540615919875,"mc":[{"id":"1.150244810","rc":[{"ltp":1.07,"id":6669343}]}]}
+{"op":"mcm","clk":"7756163027","pt":1540616098381,"mc":[{"id":"1.150244810","rc":[{"ltp":1.08,"id":6669343}]}]}
+{"op":"mcm","clk":"7756170930","pt":1540616225000,"mc":[{"id":"1.150244810","rc":[{"ltp":1.12,"id":6669343}]}]}
+{"op":"mcm","clk":"7756174665","pt":1540616285561,"mc":[{"id":"1.150244810","rc":[{"ltp":1.13,"id":6669343},{"ltp":8.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756178433","pt":1540616342553,"mc":[{"id":"1.150244810","rc":[{"ltp":1.22,"id":6669343},{"ltp":5.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756182770","pt":1540616405124,"mc":[{"id":"1.150244810","rc":[{"ltp":5.3,"id":10430114}]}]}
+{"op":"mcm","clk":"7756186120","pt":1540616465032,"mc":[{"id":"1.150244810","rc":[{"ltp":1.24,"id":6669343},{"ltp":5.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756193549","pt":1540616584926,"mc":[{"id":"1.150244810","rc":[{"ltp":1.35,"id":6669343},{"ltp":3.9,"id":10430114}]}]}
+{"op":"mcm","clk":"7756197421","pt":1540616643584,"mc":[{"id":"1.150244810","rc":[{"ltp":4.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756200283","pt":1540616705034,"mc":[{"id":"1.150244810","rc":[{"ltp":1.47,"id":6669343},{"ltp":3.15,"id":10430114}]}]}
+{"op":"mcm","clk":"7756203439","pt":1540616764664,"mc":[{"id":"1.150244810","rc":[{"ltp":3.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756207041","pt":1540616824173,"mc":[{"id":"1.150244810","rc":[{"ltp":1.32,"id":6669343},{"ltp":4.4,"id":10430114}]}]}
+{"op":"mcm","clk":"7756244409","pt":1540617183231,"mc":[{"id":"1.150244810","rc":[{"ltp":1.11,"id":6669343}]}]}
+{"op":"mcm","clk":"7756251517","pt":1540617302823,"mc":[{"id":"1.150244810","rc":[{"ltp":1.08,"id":6669343}]}]}
+{"op":"mcm","clk":"7756259786","pt":1540617420390,"mc":[{"id":"1.150244810","rc":[{"ltp":1.13,"id":6669343},{"ltp":8.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756264490","pt":1540617481756,"mc":[{"id":"1.150244810","rc":[{"ltp":1.14,"id":6669343}]}]}
+{"op":"mcm","clk":"7756279488","pt":1540617664907,"mc":[{"id":"1.150244810","rc":[{"ltp":1.11,"id":6669343}]}]}
+{"op":"mcm","clk":"7756305210","pt":1540617767892,"mc":[{"id":"1.150244810","rc":[{"ltp":1.12,"id":6669343},{"ltp":9.2,"id":10430114}]}]}
+{"op":"mcm","clk":"7756315351","pt":1540617904790,"mc":[{"id":"1.150244810","rc":[{"ltp":1.25,"id":6669343}]}]}
+{"op":"mcm","clk":"7756320240","pt":1540617965461,"mc":[{"id":"1.150244810","rc":[{"ltp":1.27,"id":6669343},{"ltp":5.7,"id":10430114}]}]}
+{"op":"mcm","clk":"7756324916","pt":1540618020557,"mc":[{"id":"1.150244810","rc":[{"ltp":1.38,"id":6669343},{"ltp":3.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756337222","pt":1540618145321,"mc":[{"id":"1.150244810","rc":[{"ltp":3.9,"id":10430114}]}]}
+{"op":"mcm","clk":"7756342516","pt":1540618203160,"mc":[{"id":"1.150244810","rc":[{"ltp":1.46,"id":6669343},{"ltp":3.15,"id":10430114}]}]}
+{"op":"mcm","clk":"7756348404","pt":1540618263269,"mc":[{"id":"1.150244810","rc":[{"ltp":1.21,"id":6669343}]}]}
+{"op":"mcm","clk":"7756358847","pt":1540618369445,"mc":[{"id":"1.150244810","rc":[{"ltp":1.4,"id":6669343}]}]}
+{"op":"mcm","clk":"7756366226","pt":1540618444832,"mc":[{"id":"1.150244810","rc":[{"ltp":1.39,"id":6669343}]}]}
+{"op":"mcm","clk":"7756371005","pt":1540618504110,"mc":[{"id":"1.150244810","rc":[{"ltp":1.51,"id":6669343},{"ltp":2.72,"id":10430114}]}]}
+{"op":"mcm","clk":"7756375930","pt":1540618564917,"mc":[{"id":"1.150244810","rc":[{"ltp":1.53,"id":6669343},{"ltp":2.88,"id":10430114}]}]}
+{"op":"mcm","clk":"7756380224","pt":1540618621274,"mc":[{"id":"1.150244810","rc":[{"ltp":1.51,"id":6669343},{"ltp":2.96,"id":10430114}]}]}
+{"op":"mcm","clk":"7756402654","pt":1540618680315,"mc":[{"id":"1.150244810","rc":[{"ltp":1.57,"id":6669343},{"ltp":2.74,"id":10430114}]}]}
+{"op":"mcm","clk":"7756406351","pt":1540618725142,"mc":[{"id":"1.150244810","rc":[{"ltp":1.51,"id":6669343},{"ltp":2.96,"id":10430114}]}]}
+{"op":"mcm","clk":"7756411881","pt":1540618803746,"mc":[{"id":"1.150244810","rc":[{"ltp":1.39,"id":6669343},{"ltp":3.2,"id":10430114}]}]}
+{"op":"mcm","clk":"7756416075","pt":1540618861695,"mc":[{"id":"1.150244810","rc":[{"ltp":1.37,"id":6669343},{"ltp":3.7,"id":10430114}]}]}
+{"op":"mcm","clk":"7756421045","pt":1540618923560,"mc":[{"id":"1.150244810","rc":[{"ltp":1.52,"id":6669343},{"ltp":2.92,"id":10430114}]}]}
+{"op":"mcm","clk":"7756429799","pt":1540619044179,"mc":[{"id":"1.150244810","rc":[{"ltp":1.68,"id":6669343},{"ltp":2.46,"id":10430114}]}]}
+{"op":"mcm","clk":"7756437872","pt":1540619165643,"mc":[{"id":"1.150244810","rc":[{"ltp":2.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756440946","pt":1540619219565,"mc":[{"id":"1.150244810","rc":[{"ltp":1.94,"id":6669343},{"ltp":2.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756445237","pt":1540619285364,"mc":[{"id":"1.150244810","rc":[{"ltp":1.66,"id":6669343}]}]}
+{"op":"mcm","clk":"7756449080","pt":1540619342594,"mc":[{"id":"1.150244810","rc":[{"ltp":1.78,"id":6669343},{"ltp":2.02,"id":10430114}]}]}
+{"op":"mcm","clk":"7756453044","pt":1540619405428,"mc":[{"id":"1.150244810","rc":[{"ltp":1.83,"id":6669343},{"ltp":2.12,"id":10430114}]}]}
+{"op":"mcm","clk":"7756456494","pt":1540619463406,"mc":[{"id":"1.150244810","rc":[{"ltp":1.74,"id":6669343},{"ltp":2.36,"id":10430114}]}]}
+{"op":"mcm","clk":"7756459802","pt":1540619523479,"mc":[{"id":"1.150244810","rc":[{"ltp":1.76,"id":6669343},{"ltp":2.32,"id":10430114}]}]}
+{"op":"mcm","clk":"7756480554","pt":1540619584481,"mc":[{"id":"1.150244810","rc":[{"ltp":1.64,"id":6669343},{"ltp":2.58,"id":10430114}]}]}
+{"op":"mcm","clk":"7756490282","pt":1540619765639,"mc":[{"id":"1.150244810","rc":[{"ltp":1.72,"id":6669343},{"ltp":2.4,"id":10430114}]}]}
+{"op":"mcm","clk":"7756492067","pt":1540619811891,"mc":[{"id":"1.150244810","rc":[{"ltp":1.83,"id":6669343},{"ltp":2.22,"id":10430114}]}]}
+{"op":"mcm","clk":"7756496103","pt":1540619885270,"mc":[{"id":"1.150244810","rc":[{"ltp":1.82,"id":6669343},{"ltp":2.24,"id":10430114}]}]}
+{"op":"mcm","clk":"7756499962","pt":1540619937293,"mc":[{"id":"1.150244810","rc":[{"ltp":1.64,"id":6669343}]}]}
+{"op":"mcm","clk":"7756504589","pt":1540620005617,"mc":[{"id":"1.150244810","rc":[{"ltp":1.6,"id":6669343}]}]}
+{"op":"mcm","clk":"7756507642","pt":1540620049546,"mc":[{"id":"1.150244810","rc":[{"ltp":2.68,"id":10430114}]}]}
+{"op":"mcm","clk":"7756512925","pt":1540620122590,"mc":[{"id":"1.150244810","rc":[{"ltp":1.71,"id":6669343},{"ltp":2.38,"id":10430114}]}]}
+{"op":"mcm","clk":"7756517549","pt":1540620185125,"mc":[{"id":"1.150244810","rc":[{"ltp":1.43,"id":6669343},{"ltp":3.35,"id":10430114}]}]}
+{"op":"mcm","clk":"7756522004","pt":1540620244127,"mc":[{"id":"1.150244810","rc":[{"ltp":2.54,"id":10430114}]}]}
+{"op":"mcm","clk":"7756535180","pt":1540620424195,"mc":[{"id":"1.150244810","rc":[{"ltp":1.92,"id":6669343},{"ltp":2.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756556741","pt":1540620485411,"mc":[{"id":"1.150244810","rc":[{"ltp":1.9,"id":6669343},{"ltp":2.12,"id":10430114}]}]}
+{"op":"mcm","clk":"7756561451","pt":1540620545477,"mc":[{"id":"1.150244810","rc":[{"ltp":2.72,"id":6669343},{"ltp":1.58,"id":10430114}]}]}
+{"op":"mcm","clk":"7756565823","pt":1540620603904,"mc":[{"id":"1.150244810","rc":[{"ltp":2.3,"id":6669343},{"ltp":1.59,"id":10430114}]}]}
+{"op":"mcm","clk":"7756570155","pt":1540620662569,"mc":[{"id":"1.150244810","rc":[{"ltp":5.1,"id":6669343},{"ltp":1.24,"id":10430114}]}]}
+{"op":"mcm","clk":"7756575292","pt":1540620724180,"mc":[{"id":"1.150244810","rc":[{"ltp":4.0,"id":6669343},{"ltp":1.37,"id":10430114}]}]}
+{"op":"mcm","clk":"7756579811","pt":1540620780960,"mc":[{"id":"1.150244810","rc":[{"ltp":1.52,"id":10430114}]}]}
+{"op":"mcm","clk":"7756583917","pt":1540620834666,"mc":[{"id":"1.150244810","rc":[{"ltp":2.28,"id":6669343},{"ltp":1.8,"id":10430114}]}]}
+{"op":"mcm","clk":"7756589773","pt":1540620903825,"mc":[{"id":"1.150244810","rc":[{"ltp":2.06,"id":6669343},{"ltp":1.74,"id":10430114}]}]}
+{"op":"mcm","clk":"7756594011","pt":1540620956223,"mc":[{"id":"1.150244810","rc":[{"ltp":1.89,"id":6669343},{"ltp":2.06,"id":10430114}]}]}
+{"op":"mcm","clk":"7756599384","pt":1540621022143,"mc":[{"id":"1.150244810","rc":[{"ltp":2.2,"id":6669343}]}]}
+{"op":"mcm","clk":"7756603914","pt":1540621084431,"mc":[{"id":"1.150244810","rc":[{"ltp":1.74,"id":10430114}]}]}
+{"op":"mcm","clk":"7756608573","pt":1540621145600,"mc":[{"id":"1.150244810","rc":[{"ltp":1.93,"id":6669343},{"ltp":2.06,"id":10430114}]}]}
+{"op":"mcm","clk":"7756613907","pt":1540621205603,"mc":[{"id":"1.150244810","rc":[{"ltp":3.5,"id":6669343},{"ltp":1.4,"id":10430114}]}]}
+{"op":"mcm","clk":"7756623676","pt":1540621323565,"mc":[{"id":"1.150244810","rc":[{"ltp":1.76,"id":10430114}]}]}
+{"op":"mcm","clk":"7756645692","pt":1540621385466,"mc":[{"id":"1.150244810","rc":[{"ltp":2.36,"id":6669343},{"ltp":1.73,"id":10430114}]}]}
+{"op":"mcm","clk":"7756650203","pt":1540621445437,"mc":[{"id":"1.150244810","rc":[{"ltp":3.85,"id":6669343},{"ltp":1.35,"id":10430114}]}]}
+{"op":"mcm","clk":"7756654378","pt":1540621504329,"mc":[{"id":"1.150244810","rc":[{"ltp":1.26,"id":10430114}]}]}
+{"op":"mcm","clk":"7756658903","pt":1540621564332,"mc":[{"id":"1.150244810","rc":[{"ltp":2.42,"id":6669343},{"ltp":1.7,"id":10430114}]}]}
+{"op":"mcm","clk":"7756663367","pt":1540621623956,"mc":[{"id":"1.150244810","rc":[{"ltp":1.76,"id":6669343},{"ltp":2.28,"id":10430114}]}]}
+{"op":"mcm","clk":"7756668360","pt":1540621685509,"mc":[{"id":"1.150244810","rc":[{"ltp":2.06,"id":10430114}]}]}
+{"op":"mcm","clk":"7756672359","pt":1540621742437,"mc":[{"id":"1.150244810","rc":[{"ltp":2.32,"id":10430114}]}]}
+{"op":"mcm","clk":"7756684955","pt":1540621924666,"mc":[{"id":"1.150244810","rc":[{"ltp":1.46,"id":6669343},{"ltp":2.96,"id":10430114}]}]}
+{"op":"mcm","clk":"7756689005","pt":1540621985135,"mc":[{"id":"1.150244810","rc":[{"ltp":1.37,"id":6669343},{"ltp":2.84,"id":10430114}]}]}
+{"op":"mcm","clk":"7756692875","pt":1540622043992,"mc":[{"id":"1.150244810","rc":[{"ltp":1.33,"id":6669343}]}]}
+{"op":"mcm","clk":"7756696377","pt":1540622105386,"mc":[{"id":"1.150244810","rc":[{"ltp":1.25,"id":6669343},{"ltp":5.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756700294","pt":1540622164436,"mc":[{"id":"1.150244810","rc":[{"ltp":1.36,"id":6669343},{"ltp":3.75,"id":10430114}]}]}
+{"op":"mcm","clk":"7756704025","pt":1540622221901,"mc":[{"id":"1.150244810","rc":[{"ltp":1.54,"id":6669343},{"ltp":2.84,"id":10430114}]}]}
+{"op":"mcm","clk":"7756725233","pt":1540622278325,"mc":[{"id":"1.150244810","rc":[{"ltp":1.28,"id":6669343},{"ltp":3.4,"id":10430114}]}]}
+{"op":"mcm","clk":"7756728815","pt":1540622343373,"mc":[{"id":"1.150244810","rc":[{"ltp":1.19,"id":6669343},{"ltp":6.2,"id":10430114}]}]}
+{"op":"mcm","clk":"7756732928","pt":1540622405429,"mc":[{"id":"1.150244810","rc":[{"ltp":1.24,"id":6669343},{"ltp":5.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756745312","pt":1540622584447,"mc":[{"id":"1.150244810","rc":[{"ltp":1.36,"id":6669343},{"ltp":3.75,"id":10430114}]}]}
+{"op":"mcm","clk":"7756749101","pt":1540622643215,"mc":[{"id":"1.150244810","rc":[{"ltp":1.32,"id":6669343},{"ltp":4.1,"id":10430114}]}]}
+{"op":"mcm","clk":"7756753258","pt":1540622705403,"mc":[{"id":"1.150244810","rc":[{"ltp":1.35,"id":6669343}]}]}
+{"op":"mcm","clk":"7756760498","pt":1540622824440,"mc":[{"id":"1.150244810","rc":[{"ltp":1.87,"id":6669343},{"ltp":2.14,"id":10430114}]}]}
+{"op":"mcm","clk":"7756763164","pt":1540622881825,"mc":[{"id":"1.150244810","rc":[{"ltp":2.02,"id":6669343},{"ltp":1.98,"id":10430114}]}]}
+{"op":"mcm","clk":"7756766253","pt":1540622944485,"mc":[{"id":"1.150244810","rc":[{"ltp":3.0,"id":6669343}]}]}
+{"op":"mcm","clk":"7756768686","pt":1540622990430,"mc":[{"id":"1.150244810","rc":[{"ltp":1.5,"id":10430114}]}]}
+{"op":"mcm","clk":"7756796838","pt":1540623185587,"mc":[{"id":"1.150244810","rc":[{"ltp":1.8,"id":6669343},{"ltp":2.08,"id":10430114}]}]}
+{"op":"mcm","clk":"7756800593","pt":1540623245229,"mc":[{"id":"1.150244810","rc":[{"ltp":1.98,"id":6669343},{"ltp":2.02,"id":10430114}]}]}
+{"op":"mcm","clk":"7756804480","pt":1540623305419,"mc":[{"id":"1.150244810","rc":[{"ltp":1.62,"id":6669343},{"ltp":2.6,"id":10430114}]}]}
+{"op":"mcm","clk":"7756812401","pt":1540623424437,"mc":[{"id":"1.150244810","rc":[{"ltp":2.46,"id":6669343},{"ltp":1.68,"id":10430114}]}]}
+{"op":"mcm","clk":"7756816526","pt":1540623482820,"mc":[{"id":"1.150244810","rc":[{"ltp":2.12,"id":6669343},{"ltp":1.89,"id":10430114}]}]}
+{"op":"mcm","clk":"7756820224","pt":1540623533964,"mc":[{"id":"1.150244810","rc":[{"ltp":2.38,"id":6669343},{"ltp":1.72,"id":10430114}]}]}
+{"op":"mcm","clk":"7756825707","pt":1540623605431,"mc":[{"id":"1.150244810","rc":[{"ltp":3.0,"id":6669343},{"ltp":1.5,"id":10430114}]}]}
+{"op":"mcm","clk":"7756830350","pt":1540623660222,"mc":[{"id":"1.150244810","rc":[{"ltp":3.2,"id":6669343},{"ltp":1.47,"id":10430114}]}]}
+{"op":"mcm","clk":"7756836014","pt":1540623720939,"mc":[{"id":"1.150244810","rc":[{"ltp":3.85,"id":6669343},{"ltp":1.35,"id":10430114}]}]}
+{"op":"mcm","clk":"7756840241","pt":1540623782525,"mc":[{"id":"1.150244810","rc":[{"ltp":3.9,"id":6669343},{"ltp":1.34,"id":10430114}]}]}
+{"op":"mcm","clk":"7756844256","pt":1540623842901,"mc":[{"id":"1.150244810","rc":[{"ltp":2.62,"id":6669343},{"ltp":1.61,"id":10430114}]}]}
+{"op":"mcm","clk":"7756848156","pt":1540623896492,"mc":[{"id":"1.150244810","rc":[{"ltp":2.84,"id":6669343},{"ltp":1.54,"id":10430114}]}]}
+{"op":"mcm","clk":"7756859352","pt":1540624023383,"mc":[{"id":"1.150244810","rc":[{"ltp":1.42,"id":10430114}]}]}
+{"op":"mcm","clk":"7756880767","pt":1540624085469,"mc":[{"id":"1.150244810","rc":[{"ltp":4.1,"id":6669343},{"ltp":1.32,"id":10430114}]}]}
+{"op":"mcm","clk":"7756888147","pt":1540624205571,"mc":[{"id":"1.150244810","rc":[{"ltp":5.5,"id":6669343},{"ltp":1.21,"id":10430114}]}]}
+{"op":"mcm","clk":"7756892644","pt":1540624265445,"mc":[{"id":"1.150244810","rc":[{"ltp":6.8,"id":6669343},{"ltp":1.17,"id":10430114}]}]}
+{"op":"mcm","clk":"7756896765","pt":1540624323303,"mc":[{"id":"1.150244810","rc":[{"ltp":1.04,"id":10430114}]}]}
+{"op":"mcm","clk":"7756901557","pt":1540624385450,"mc":[{"id":"1.150244810","rc":[{"ltp":15.0,"id":6669343},{"ltp":1.07,"id":10430114}]}]}
+{"op":"mcm","clk":"7756905818","pt":1540624444377,"mc":[{"id":"1.150244810","rc":[{"ltp":1.01,"id":10430114}]}]}
+{"op":"mcm","clk":"7756909356","pt":1540624494061,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:30:00.000Z","suspendTime":"2018-10-27T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"ACTIVE","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:30:00.000Z","version":2477662392,"name":"Match Odds","eventName":"18726742"}}]}
+{"op":"mcm","clk":"7756912204","pt":1540624530148,"mc":[{"id":"1.150244810","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977337","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T04:30:00.000Z","suspendTime":"2018-10-27T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-27T07:15:23.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":10430114,"name":"Haitong Xia"},{"status":"LOSER","sortPriority":2,"id":6669343,"name":"Sergey Betov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T04:30:00.000Z","version":2477663131,"name":"Match Odds","eventName":"18726742"}}]}

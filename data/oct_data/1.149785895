@@ -1,0 +1,52 @@
+{"op":"mcm","clk":"7736413029","pt":1539881235076,"mc":[{"id":"1.149785895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963235","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T12:30:00.000Z","suspendTime":"2018-10-19T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7053035,"name":"Joao Sousa"},{"status":"ACTIVE","sortPriority":2,"id":8942641,"name":"Nicolaas Scholtz"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T12:30:00.000Z","version":2460719261,"name":"Match Odds","eventName":"Joao Sousa v Nicolaas Scholtz"}}]}
+{"op":"mcm","clk":"7736498651","pt":1539882138047,"mc":[{"id":"1.149785895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963235","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T12:30:00.000Z","suspendTime":"2018-10-19T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7053035,"name":"Joao Sousa"},{"status":"ACTIVE","sortPriority":2,"id":8942641,"name":"Nicolaas Scholtz"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T12:30:00.000Z","version":2460719261,"name":"Match Odds","eventName":"2. Joao Sousa v Nicolaas Scholtz"}}]}
+{"op":"mcm","clk":"7740916231","pt":1539938149905,"mc":[{"id":"1.149785895","rc":[{"ltp":1.1,"id":7053035}]}]}
+{"op":"mcm","clk":"7741397646","pt":1539942464550,"mc":[{"id":"1.149785895","rc":[{"ltp":1.09,"id":7053035}]}]}
+{"op":"mcm","clk":"7742354487","pt":1539949214928,"mc":[{"id":"1.149785895","rc":[{"ltp":1.05,"id":7053035}]}]}
+{"op":"mcm","clk":"7742484579","pt":1539949963385,"mc":[{"id":"1.149785895","rc":[{"ltp":1.04,"id":7053035}]}]}
+{"op":"mcm","clk":"7742610082","pt":1539950715975,"mc":[{"id":"1.149785895","rc":[{"ltp":23.0,"id":8942641},{"ltp":1.05,"id":7053035}]}]}
+{"op":"mcm","clk":"7742756789","pt":1539951432613,"mc":[{"id":"1.149785895","rc":[{"ltp":12.5,"id":8942641},{"ltp":1.08,"id":7053035}]}]}
+{"op":"mcm","clk":"7742815809","pt":1539951737860,"mc":[{"id":"1.149785895","rc":[{"ltp":14.5,"id":8942641}]}]}
+{"op":"mcm","clk":"7742858680","pt":1539951974590,"mc":[{"id":"1.149785895","rc":[{"ltp":14.0,"id":8942641},{"ltp":1.05,"id":7053035}]}]}
+{"op":"mcm","clk":"7742905960","pt":1539952154388,"mc":[{"id":"1.149785895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963235","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T12:30:00.000Z","suspendTime":"2018-10-19T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7053035,"name":"Joao Sousa"},{"status":"ACTIVE","sortPriority":2,"id":8942641,"name":"Nicolaas Scholtz"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T12:30:00.000Z","version":2461495812,"name":"Match Odds","eventName":"2. Joao Sousa v Nicolaas Scholtz"}}]}
+{"op":"mcm","clk":"7742972137","pt":1539952517843,"mc":[{"id":"1.149785895","rc":[{"ltp":11.0,"id":8942641},{"ltp":1.1,"id":7053035}]}]}
+{"op":"mcm","clk":"7743006657","pt":1539952693830,"mc":[{"id":"1.149785895","rc":[{"ltp":15.5,"id":8942641},{"ltp":1.07,"id":7053035}]}]}
+{"op":"mcm","clk":"7743017104","pt":1539952754178,"mc":[{"id":"1.149785895","rc":[{"ltp":9.4,"id":8942641},{"ltp":1.12,"id":7053035}]}]}
+{"op":"mcm","clk":"7743039851","pt":1539952876057,"mc":[{"id":"1.149785895","rc":[{"ltp":7.2,"id":8942641},{"ltp":1.16,"id":7053035}]}]}
+{"op":"mcm","clk":"7743066066","pt":1539952936886,"mc":[{"id":"1.149785895","rc":[{"ltp":8.6,"id":8942641},{"ltp":1.13,"id":7053035}]}]}
+{"op":"mcm","clk":"7743087286","pt":1539953052955,"mc":[{"id":"1.149785895","rc":[{"ltp":15.5,"id":8942641},{"ltp":1.07,"id":7053035}]}]}
+{"op":"mcm","clk":"7743109020","pt":1539953172378,"mc":[{"id":"1.149785895","rc":[{"ltp":1.06,"id":7053035}]}]}
+{"op":"mcm","clk":"7743146739","pt":1539953416858,"mc":[{"id":"1.149785895","rc":[{"ltp":17.5,"id":8942641},{"ltp":1.07,"id":7053035}]}]}
+{"op":"mcm","clk":"7743161901","pt":1539953518313,"mc":[{"id":"1.149785895","rc":[{"ltp":1.06,"id":7053035}]}]}
+{"op":"mcm","clk":"7743174190","pt":1539953596618,"mc":[{"id":"1.149785895","rc":[{"ltp":1.04,"id":7053035}]}]}
+{"op":"mcm","clk":"7743183221","pt":1539953651640,"mc":[{"id":"1.149785895","rc":[{"ltp":1.06,"id":7053035}]}]}
+{"op":"mcm","clk":"7743194209","pt":1539953716337,"mc":[{"id":"1.149785895","rc":[{"ltp":15.0,"id":8942641},{"ltp":1.07,"id":7053035}]}]}
+{"op":"mcm","clk":"7743204434","pt":1539953777384,"mc":[{"id":"1.149785895","rc":[{"ltp":9.0,"id":8942641},{"ltp":1.11,"id":7053035}]}]}
+{"op":"mcm","clk":"7743229465","pt":1539953837598,"mc":[{"id":"1.149785895","rc":[{"ltp":9.2,"id":8942641}]}]}
+{"op":"mcm","clk":"7743238291","pt":1539953895466,"mc":[{"id":"1.149785895","rc":[{"ltp":1.12,"id":7053035}]}]}
+{"op":"mcm","clk":"7743247139","pt":1539953955062,"mc":[{"id":"1.149785895","rc":[{"ltp":8.2,"id":8942641},{"ltp":1.14,"id":7053035}]}]}
+{"op":"mcm","clk":"7743262261","pt":1539954076716,"mc":[{"id":"1.149785895","rc":[{"ltp":6.6,"id":8942641},{"ltp":1.18,"id":7053035}]}]}
+{"op":"mcm","clk":"7743270758","pt":1539954132149,"mc":[{"id":"1.149785895","rc":[{"ltp":7.8,"id":8942641},{"ltp":1.15,"id":7053035}]}]}
+{"op":"mcm","clk":"7743280909","pt":1539954196633,"mc":[{"id":"1.149785895","rc":[{"ltp":1.14,"id":7053035}]}]}
+{"op":"mcm","clk":"7743290375","pt":1539954257763,"mc":[{"id":"1.149785895","rc":[{"ltp":8.4,"id":8942641}]}]}
+{"op":"mcm","clk":"7743311185","pt":1539954375948,"mc":[{"id":"1.149785895","rc":[{"ltp":1.08,"id":7053035}]}]}
+{"op":"mcm","clk":"7743321979","pt":1539954436430,"mc":[{"id":"1.149785895","rc":[{"ltp":15.5,"id":8942641},{"ltp":1.06,"id":7053035}]}]}
+{"op":"mcm","clk":"7743332847","pt":1539954497714,"mc":[{"id":"1.149785895","rc":[{"ltp":12.0,"id":8942641},{"ltp":1.07,"id":7053035}]}]}
+{"op":"mcm","clk":"7743342999","pt":1539954557712,"mc":[{"id":"1.149785895","rc":[{"ltp":8.0,"id":8942641},{"ltp":1.15,"id":7053035}]}]}
+{"op":"mcm","clk":"7743351819","pt":1539954614500,"mc":[{"id":"1.149785895","rc":[{"ltp":11.0,"id":8942641},{"ltp":1.06,"id":7053035}]}]}
+{"op":"mcm","clk":"7743362319","pt":1539954677845,"mc":[{"id":"1.149785895","rc":[{"ltp":21.0,"id":8942641},{"ltp":1.05,"id":7053035}]}]}
+{"op":"mcm","clk":"7743416898","pt":1539954917855,"mc":[{"id":"1.149785895","rc":[{"ltp":1.04,"id":7053035}]}]}
+{"op":"mcm","clk":"7743426300","pt":1539954976603,"mc":[{"id":"1.149785895","rc":[{"ltp":36.0,"id":8942641},{"ltp":1.03,"id":7053035}]}]}
+{"op":"mcm","clk":"7743435527","pt":1539955035636,"mc":[{"id":"1.149785895","rc":[{"ltp":34.0,"id":8942641},{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743445087","pt":1539955096640,"mc":[{"id":"1.149785895","rc":[{"ltp":50.0,"id":8942641},{"ltp":1.02,"id":7053035}]}]}
+{"op":"mcm","clk":"7743453090","pt":1539955149299,"mc":[{"id":"1.149785895","rc":[{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743472624","pt":1539955276704,"mc":[{"id":"1.149785895","rc":[{"ltp":1.02,"id":7053035}]}]}
+{"op":"mcm","clk":"7743481984","pt":1539955335270,"mc":[{"id":"1.149785895","rc":[{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743491167","pt":1539955396647,"mc":[{"id":"1.149785895","rc":[{"ltp":1.02,"id":7053035}]}]}
+{"op":"mcm","clk":"7743523387","pt":1539955593437,"mc":[{"id":"1.149785895","rc":[{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743551704","pt":1539955667714,"mc":[{"id":"1.149785895","rc":[{"ltp":1.02,"id":7053035}]}]}
+{"op":"mcm","clk":"7743563206","pt":1539955743005,"mc":[{"id":"1.149785895","rc":[{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743575126","pt":1539955814101,"mc":[{"id":"1.149785895","rc":[{"ltp":1.02,"id":7053035}]}]}
+{"op":"mcm","clk":"7743582782","pt":1539955863415,"mc":[{"id":"1.149785895","rc":[{"ltp":1.01,"id":7053035}]}]}
+{"op":"mcm","clk":"7743678535","pt":1539956476265,"mc":[{"id":"1.149785895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963235","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T12:30:00.000Z","suspendTime":"2018-10-19T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7053035,"name":"Joao Sousa"},{"status":"ACTIVE","sortPriority":2,"id":8942641,"name":"Nicolaas Scholtz"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T12:30:00.000Z","version":2461622282,"name":"Match Odds","eventName":"2. Joao Sousa v Nicolaas Scholtz"}}]}
+{"op":"mcm","clk":"7743714165","pt":1539956611487,"mc":[{"id":"1.149785895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963235","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T12:30:00.000Z","suspendTime":"2018-10-19T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T13:43:25.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7053035,"name":"Joao Sousa"},{"status":"LOSER","sortPriority":2,"id":8942641,"name":"Nicolaas Scholtz"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T12:30:00.000Z","version":2461624341,"name":"Match Odds","eventName":"2. Joao Sousa v Nicolaas Scholtz"}}]}

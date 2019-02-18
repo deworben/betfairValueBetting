@@ -1,0 +1,109 @@
+{"op":"mcm","clk":"7581107647","pt":1538828435293,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:00:00.000Z","suspendTime":"2018-10-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:00:00.000Z","version":2440090575,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7581469426","pt":1538829988636,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:00:00.000Z","suspendTime":"2018-10-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:00:00.000Z","version":2440090575,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7589056630","pt":1538871627892,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2442736583,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7601935617","pt":1538958034524,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2445884974,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7603721029","pt":1538995989064,"mc":[{"id":"1.149180843","rc":[{"ltp":1.66,"id":2397396}]}]}
+{"op":"mcm","clk":"7608509737","pt":1539044395856,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2446941393,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7612256048","pt":1539104078563,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T13:00:00.000Z","suspendTime":"2018-10-10T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T13:00:00.000Z","version":2447491217,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7612368022","pt":1539105399231,"mc":[{"id":"1.149180843","rc":[{"ltp":1.78,"id":2397396},{"ltp":2.28,"id":7335936}]}]}
+{"op":"mcm","clk":"7612872379","pt":1539110402694,"mc":[{"id":"1.149180843","rc":[{"ltp":1.75,"id":2397396}]}]}
+{"op":"mcm","clk":"7614800832","pt":1539136758026,"mc":[{"id":"1.149180843","rc":[{"ltp":1.78,"id":2397396},{"ltp":2.22,"id":7335936}]}]}
+{"op":"mcm","clk":"7615356187","pt":1539147576293,"mc":[{"id":"1.149180843","rc":[{"ltp":1.77,"id":2397396}]}]}
+{"op":"mcm","clk":"7615675219","pt":1539152975069,"mc":[{"id":"1.149180843","rc":[{"ltp":1.76,"id":2397396}]}]}
+{"op":"mcm","clk":"7616436603","pt":1539164493368,"mc":[{"id":"1.149180843","rc":[{"ltp":1.73,"id":2397396},{"ltp":2.36,"id":7335936}]}]}
+{"op":"mcm","clk":"7616937597","pt":1539169353680,"mc":[{"id":"1.149180843","rc":[{"ltp":1.75,"id":2397396}]}]}
+{"op":"mcm","clk":"7617440857","pt":1539173457360,"mc":[{"id":"1.149180843","rc":[{"ltp":1.73,"id":2397396}]}]}
+{"op":"mcm","clk":"7617468585","pt":1539173704498,"mc":[{"id":"1.149180843","rc":[{"ltp":1.75,"id":2397396}]}]}
+{"op":"mcm","clk":"7617534178","pt":1539174219488,"mc":[{"id":"1.149180843","rc":[{"ltp":1.73,"id":2397396}]}]}
+{"op":"mcm","clk":"7617594670","pt":1539174750302,"mc":[{"id":"1.149180843","rc":[{"ltp":1.75,"id":2397396}]}]}
+{"op":"mcm","clk":"7617641420","pt":1539175105542,"mc":[{"id":"1.149180843","rc":[{"ltp":2.26,"id":7335936}]}]}
+{"op":"mcm","clk":"7617698225","pt":1539175654021,"mc":[{"id":"1.149180843","rc":[{"ltp":1.73,"id":2397396},{"ltp":2.38,"id":7335936}]}]}
+{"op":"mcm","clk":"7617717928","pt":1539175867281,"mc":[{"id":"1.149180843","rc":[{"ltp":1.81,"id":2397396},{"ltp":2.24,"id":7335936}]}]}
+{"op":"mcm","clk":"7617746668","pt":1539176070890,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:50:00.000Z","suspendTime":"2018-10-10T12:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:50:00.000Z","version":2448483168,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7617850857","pt":1539176839932,"mc":[{"id":"1.149180843","rc":[{"ltp":1.73,"id":2397396}]}]}
+{"op":"mcm","clk":"7617870481","pt":1539176979483,"mc":[{"id":"1.149180843","rc":[{"ltp":1.72,"id":2397396},{"ltp":2.28,"id":7335936}]}]}
+{"op":"mcm","clk":"7617895791","pt":1539177152130,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:50:00.000Z","suspendTime":"2018-10-10T12:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:50:00.000Z","version":2448519293,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}
+{"op":"mcm","clk":"7617913650","pt":1539177279263,"mc":[{"id":"1.149180843","rc":[{"ltp":1.71,"id":2397396}]}]}
+{"op":"mcm","clk":"7617931507","pt":1539177401220,"mc":[{"id":"1.149180843","rc":[{"ltp":2.88,"id":7335936}]}]}
+{"op":"mcm","clk":"7617940151","pt":1539177461207,"mc":[{"id":"1.149180843","rc":[{"ltp":1.43,"id":2397396},{"ltp":3.2,"id":7335936}]}]}
+{"op":"mcm","clk":"7617948481","pt":1539177520716,"mc":[{"id":"1.149180843","rc":[{"ltp":1.31,"id":2397396},{"ltp":4.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7617956655","pt":1539177577110,"mc":[{"id":"1.149180843","rc":[{"ltp":1.35,"id":2397396}]}]}
+{"op":"mcm","clk":"7617970639","pt":1539177670038,"mc":[{"id":"1.149180843","rc":[{"ltp":1.29,"id":2397396}]}]}
+{"op":"mcm","clk":"7618010928","pt":1539177881346,"mc":[{"id":"1.149180843","rc":[{"ltp":1.19,"id":2397396},{"ltp":6.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618020155","pt":1539177941788,"mc":[{"id":"1.149180843","rc":[{"ltp":1.17,"id":2397396}]}]}
+{"op":"mcm","clk":"7618026059","pt":1539177981102,"mc":[{"id":"1.149180843","rc":[{"ltp":1.16,"id":2397396},{"ltp":6.8,"id":7335936}]}]}
+{"op":"mcm","clk":"7618045924","pt":1539178120450,"mc":[{"id":"1.149180843","rc":[{"ltp":1.19,"id":2397396}]}]}
+{"op":"mcm","clk":"7618062594","pt":1539178241272,"mc":[{"id":"1.149180843","rc":[{"ltp":1.21,"id":2397396},{"ltp":5.7,"id":7335936}]}]}
+{"op":"mcm","clk":"7618070679","pt":1539178299269,"mc":[{"id":"1.149180843","rc":[{"ltp":1.18,"id":2397396}]}]}
+{"op":"mcm","clk":"7618078916","pt":1539178356304,"mc":[{"id":"1.149180843","rc":[{"ltp":6.2,"id":7335936}]}]}
+{"op":"mcm","clk":"7618097925","pt":1539178480183,"mc":[{"id":"1.149180843","rc":[{"ltp":1.17,"id":2397396},{"ltp":7.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618106602","pt":1539178537429,"mc":[{"id":"1.149180843","rc":[{"ltp":1.12,"id":2397396}]}]}
+{"op":"mcm","clk":"7618132556","pt":1539178658647,"mc":[{"id":"1.149180843","rc":[{"ltp":1.21,"id":2397396},{"ltp":5.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618141352","pt":1539178720822,"mc":[{"id":"1.149180843","rc":[{"ltp":1.2,"id":2397396},{"ltp":6.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618150579","pt":1539178781282,"mc":[{"id":"1.149180843","rc":[{"ltp":1.21,"id":2397396}]}]}
+{"op":"mcm","clk":"7618167911","pt":1539178901520,"mc":[{"id":"1.149180843","rc":[{"ltp":1.22,"id":2397396},{"ltp":5.7,"id":7335936}]}]}
+{"op":"mcm","clk":"7618175925","pt":1539178960501,"mc":[{"id":"1.149180843","rc":[{"ltp":1.21,"id":2397396}]}]}
+{"op":"mcm","clk":"7618183589","pt":1539179016324,"mc":[{"id":"1.149180843","rc":[{"ltp":1.24,"id":2397396}]}]}
+{"op":"mcm","clk":"7618193092","pt":1539179081631,"mc":[{"id":"1.149180843","rc":[{"ltp":1.17,"id":2397396},{"ltp":7.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618201716","pt":1539179141886,"mc":[{"id":"1.149180843","rc":[{"ltp":1.16,"id":2397396},{"ltp":7.2,"id":7335936}]}]}
+{"op":"mcm","clk":"7618209539","pt":1539179199357,"mc":[{"id":"1.149180843","rc":[{"ltp":1.12,"id":2397396}]}]}
+{"op":"mcm","clk":"7618217675","pt":1539179261163,"mc":[{"id":"1.149180843","rc":[{"ltp":5.3,"id":7335936}]}]}
+{"op":"mcm","clk":"7618223179","pt":1539179307701,"mc":[{"id":"1.149180843","rc":[{"ltp":1.24,"id":2397396},{"ltp":5.1,"id":7335936}]}]}
+{"op":"mcm","clk":"7618231147","pt":1539179377613,"mc":[{"id":"1.149180843","rc":[{"ltp":1.27,"id":2397396}]}]}
+{"op":"mcm","clk":"7618238651","pt":1539179439999,"mc":[{"id":"1.149180843","rc":[{"ltp":1.23,"id":2397396}]}]}
+{"op":"mcm","clk":"7618246290","pt":1539179501948,"mc":[{"id":"1.149180843","rc":[{"ltp":1.12,"id":2397396}]}]}
+{"op":"mcm","clk":"7618276902","pt":1539179679460,"mc":[{"id":"1.149180843","rc":[{"ltp":1.13,"id":2397396}]}]}
+{"op":"mcm","clk":"7618283406","pt":1539179728902,"mc":[{"id":"1.149180843","rc":[{"ltp":1.23,"id":2397396},{"ltp":5.3,"id":7335936}]}]}
+{"op":"mcm","clk":"7618292310","pt":1539179801695,"mc":[{"id":"1.149180843","rc":[{"ltp":1.24,"id":2397396},{"ltp":5.4,"id":7335936}]}]}
+{"op":"mcm","clk":"7618299661","pt":1539179860159,"mc":[{"id":"1.149180843","rc":[{"ltp":1.2,"id":2397396}]}]}
+{"op":"mcm","clk":"7618307614","pt":1539179921348,"mc":[{"id":"1.149180843","rc":[{"ltp":1.24,"id":2397396}]}]}
+{"op":"mcm","clk":"7618315213","pt":1539179979402,"mc":[{"id":"1.149180843","rc":[{"ltp":1.56,"id":2397396}]}]}
+{"op":"mcm","clk":"7618323679","pt":1539180041779,"mc":[{"id":"1.149180843","rc":[{"ltp":1.6,"id":2397396},{"ltp":2.68,"id":7335936}]}]}
+{"op":"mcm","clk":"7618331932","pt":1539180099951,"mc":[{"id":"1.149180843","rc":[{"ltp":1.71,"id":2397396},{"ltp":2.42,"id":7335936}]}]}
+{"op":"mcm","clk":"7618340390","pt":1539180161757,"mc":[{"id":"1.149180843","rc":[{"ltp":1.69,"id":2397396}]}]}
+{"op":"mcm","clk":"7618349107","pt":1539180221817,"mc":[{"id":"1.149180843","rc":[{"ltp":1.64,"id":2397396},{"ltp":2.56,"id":7335936}]}]}
+{"op":"mcm","clk":"7618357151","pt":1539180279881,"mc":[{"id":"1.149180843","rc":[{"ltp":1.7,"id":2397396},{"ltp":2.42,"id":7335936}]}]}
+{"op":"mcm","clk":"7618365812","pt":1539180338419,"mc":[{"id":"1.149180843","rc":[{"ltp":1.74,"id":2397396},{"ltp":2.4,"id":7335936}]}]}
+{"op":"mcm","clk":"7618374517","pt":1539180400224,"mc":[{"id":"1.149180843","rc":[{"ltp":2.36,"id":7335936}]}]}
+{"op":"mcm","clk":"7618391712","pt":1539180461088,"mc":[{"id":"1.149180843","rc":[{"ltp":1.77,"id":2397396},{"ltp":2.3,"id":7335936}]}]}
+{"op":"mcm","clk":"7618400247","pt":1539180521515,"mc":[{"id":"1.149180843","rc":[{"ltp":1.68,"id":2397396},{"ltp":2.56,"id":7335936}]}]}
+{"op":"mcm","clk":"7618408713","pt":1539180581249,"mc":[{"id":"1.149180843","rc":[{"ltp":1.61,"id":2397396}]}]}
+{"op":"mcm","clk":"7618416707","pt":1539180638795,"mc":[{"id":"1.149180843","rc":[{"ltp":2.62,"id":7335936}]}]}
+{"op":"mcm","clk":"7618425307","pt":1539180701582,"mc":[{"id":"1.149180843","rc":[{"ltp":1.7,"id":2397396},{"ltp":2.6,"id":7335936}]}]}
+{"op":"mcm","clk":"7618433778","pt":1539180761809,"mc":[{"id":"1.149180843","rc":[{"ltp":1.63,"id":2397396},{"ltp":2.44,"id":7335936}]}]}
+{"op":"mcm","clk":"7618441805","pt":1539180820804,"mc":[{"id":"1.149180843","rc":[{"ltp":1.54,"id":2397396},{"ltp":2.84,"id":7335936}]}]}
+{"op":"mcm","clk":"7618449632","pt":1539180878147,"mc":[{"id":"1.149180843","rc":[{"ltp":1.18,"id":2397396},{"ltp":6.8,"id":7335936}]}]}
+{"op":"mcm","clk":"7618458029","pt":1539180941544,"mc":[{"id":"1.149180843","rc":[{"ltp":1.15,"id":2397396},{"ltp":7.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618465911","pt":1539180998403,"mc":[{"id":"1.149180843","rc":[{"ltp":1.12,"id":2397396},{"ltp":10.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618474495","pt":1539181059773,"mc":[{"id":"1.149180843","rc":[{"ltp":1.1,"id":2397396}]}]}
+{"op":"mcm","clk":"7618482947","pt":1539181121120,"mc":[{"id":"1.149180843","rc":[{"ltp":1.11,"id":2397396},{"ltp":11.0,"id":7335936}]}]}
+{"op":"mcm","clk":"7618490833","pt":1539181180607,"mc":[{"id":"1.149180843","rc":[{"ltp":1.13,"id":2397396},{"ltp":8.6,"id":7335936}]}]}
+{"op":"mcm","clk":"7618498900","pt":1539181241863,"mc":[{"id":"1.149180843","rc":[{"ltp":1.14,"id":2397396},{"ltp":8.4,"id":7335936}]}]}
+{"op":"mcm","clk":"7618506072","pt":1539181299892,"mc":[{"id":"1.149180843","rc":[{"ltp":1.1,"id":2397396},{"ltp":13.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618522269","pt":1539181360690,"mc":[{"id":"1.149180843","rc":[{"ltp":1.07,"id":2397396}]}]}
+{"op":"mcm","clk":"7618529754","pt":1539181421260,"mc":[{"id":"1.149180843","rc":[{"ltp":1.08,"id":2397396},{"ltp":15.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618537779","pt":1539181481710,"mc":[{"id":"1.149180843","rc":[{"ltp":1.1,"id":2397396},{"ltp":13.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618545619","pt":1539181541949,"mc":[{"id":"1.149180843","rc":[{"ltp":11.5,"id":7335936}]}]}
+{"op":"mcm","clk":"7618553151","pt":1539181600230,"mc":[{"id":"1.149180843","rc":[{"ltp":1.14,"id":2397396},{"ltp":7.6,"id":7335936}]}]}
+{"op":"mcm","clk":"7618561399","pt":1539181661826,"mc":[{"id":"1.149180843","rc":[{"ltp":1.29,"id":2397396},{"ltp":4.7,"id":7335936}]}]}
+{"op":"mcm","clk":"7618569411","pt":1539181721883,"mc":[{"id":"1.149180843","rc":[{"ltp":1.37,"id":2397396},{"ltp":3.65,"id":7335936}]}]}
+{"op":"mcm","clk":"7618577179","pt":1539181781865,"mc":[{"id":"1.149180843","rc":[{"ltp":1.69,"id":2397396},{"ltp":2.54,"id":7335936}]}]}
+{"op":"mcm","clk":"7618585114","pt":1539181841050,"mc":[{"id":"1.149180843","rc":[{"ltp":1.57,"id":2397396},{"ltp":2.52,"id":7335936}]}]}
+{"op":"mcm","clk":"7618592573","pt":1539181901616,"mc":[{"id":"1.149180843","rc":[{"ltp":1.86,"id":2397396},{"ltp":2.12,"id":7335936}]}]}
+{"op":"mcm","clk":"7618599795","pt":1539181961330,"mc":[{"id":"1.149180843","rc":[{"ltp":1.87,"id":2397396},{"ltp":2.16,"id":7335936}]}]}
+{"op":"mcm","clk":"7618607375","pt":1539182021707,"mc":[{"id":"1.149180843","rc":[{"ltp":1.78,"id":2397396},{"ltp":2.28,"id":7335936}]}]}
+{"op":"mcm","clk":"7618614900","pt":1539182081761,"mc":[{"id":"1.149180843","rc":[{"ltp":2.48,"id":2397396},{"ltp":1.7,"id":7335936}]}]}
+{"op":"mcm","clk":"7618623187","pt":1539182141816,"mc":[{"id":"1.149180843","rc":[{"ltp":1.78,"id":2397396},{"ltp":2.28,"id":7335936}]}]}
+{"op":"mcm","clk":"7618631462","pt":1539182201894,"mc":[{"id":"1.149180843","rc":[{"ltp":1.65,"id":2397396},{"ltp":2.56,"id":7335936}]}]}
+{"op":"mcm","clk":"7618648133","pt":1539182261883,"mc":[{"id":"1.149180843","rc":[{"ltp":1.75,"id":2397396},{"ltp":2.54,"id":7335936}]}]}
+{"op":"mcm","clk":"7618655539","pt":1539182321875,"mc":[{"id":"1.149180843","rc":[{"ltp":1.97,"id":2397396},{"ltp":2.06,"id":7335936}]}]}
+{"op":"mcm","clk":"7618663144","pt":1539182381935,"mc":[{"id":"1.149180843","rc":[{"ltp":1.85,"id":2397396},{"ltp":2.18,"id":7335936}]}]}
+{"op":"mcm","clk":"7618670082","pt":1539182441627,"mc":[{"id":"1.149180843","rc":[{"ltp":1.68,"id":2397396},{"ltp":2.46,"id":7335936}]}]}
+{"op":"mcm","clk":"7618683124","pt":1539182561726,"mc":[{"id":"1.149180843","rc":[{"ltp":2.48,"id":7335936}]}]}
+{"op":"mcm","clk":"7618689574","pt":1539182621922,"mc":[{"id":"1.149180843","rc":[{"ltp":1.96,"id":2397396},{"ltp":2.06,"id":7335936}]}]}
+{"op":"mcm","clk":"7618696200","pt":1539182681586,"mc":[{"id":"1.149180843","rc":[{"ltp":2.08,"id":2397396},{"ltp":1.91,"id":7335936}]}]}
+{"op":"mcm","clk":"7618703078","pt":1539182741891,"mc":[{"id":"1.149180843","rc":[{"ltp":5.7,"id":2397396},{"ltp":1.21,"id":7335936}]}]}
+{"op":"mcm","clk":"7618709812","pt":1539182801877,"mc":[{"id":"1.149180843","rc":[{"ltp":4.1,"id":2397396},{"ltp":1.31,"id":7335936}]}]}
+{"op":"mcm","clk":"7618716502","pt":1539182861940,"mc":[{"id":"1.149180843","rc":[{"ltp":17.0,"id":2397396},{"ltp":1.07,"id":7335936}]}]}
+{"op":"mcm","clk":"7618722707","pt":1539182921184,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:50:00.000Z","suspendTime":"2018-10-10T12:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"ACTIVE","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:50:00.000Z","version":2448635211,"name":"Match Odds","eventName":"Novak v Bachinger"},"rc":[{"ltp":50.0,"id":2397396},{"ltp":1.01,"id":7335936}]}]}
+{"op":"mcm","clk":"7618726662","pt":1539182962681,"mc":[{"id":"1.149180843","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942318","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:50:00.000Z","suspendTime":"2018-10-10T12:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T14:49:14.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7335936,"name":"Dennis Novak"},{"status":"LOSER","sortPriority":2,"id":2397396,"name":"Matthias Bachinger"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:50:00.000Z","version":2448636597,"name":"Match Odds","eventName":"Novak v Bachinger"}}]}

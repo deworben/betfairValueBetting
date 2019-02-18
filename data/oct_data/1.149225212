@@ -1,0 +1,112 @@
+{"op":"mcm","clk":"7648699669","pt":1538898441627,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2443163129,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7656652991","pt":1538943467902,"mc":[{"id":"1.149225212","rc":[{"ltp":3.55,"id":5321877}]}]}
+{"op":"mcm","clk":"7656744614","pt":1538944470053,"mc":[{"id":"1.149225212","rc":[{"ltp":1.4,"id":8736064},{"ltp":3.45,"id":5321877}]}]}
+{"op":"mcm","clk":"7656847136","pt":1538945779073,"mc":[{"id":"1.149225212","rc":[{"ltp":1.38,"id":8736064}]}]}
+{"op":"mcm","clk":"7657171657","pt":1538950330542,"mc":[{"id":"1.149225212","rc":[{"ltp":1.41,"id":8736064}]}]}
+{"op":"mcm","clk":"7657575805","pt":1538958416937,"mc":[{"id":"1.149225212","rc":[{"ltp":1.38,"id":8736064},{"ltp":3.65,"id":5321877}]}]}
+{"op":"mcm","clk":"7657752512","pt":1538962257060,"mc":[{"id":"1.149225212","rc":[{"ltp":1.37,"id":8736064}]}]}
+{"op":"mcm","clk":"7657770964","pt":1538962756658,"mc":[{"id":"1.149225212","rc":[{"ltp":3.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7658411886","pt":1538975121776,"mc":[{"id":"1.149225212","rc":[{"ltp":1.36,"id":8736064},{"ltp":3.8,"id":5321877}]}]}
+{"op":"mcm","clk":"7658414693","pt":1538975184950,"mc":[{"id":"1.149225212","rc":[{"ltp":1.35,"id":8736064}]}]}
+{"op":"mcm","clk":"7658784008","pt":1538980819506,"mc":[{"id":"1.149225212","rc":[{"ltp":1.37,"id":8736064}]}]}
+{"op":"mcm","clk":"7658788026","pt":1538980885374,"mc":[{"id":"1.149225212","rc":[{"ltp":1.35,"id":8736064},{"ltp":3.9,"id":5321877}]}]}
+{"op":"mcm","clk":"7658798030","pt":1538980937397,"mc":[{"id":"1.149225212","rc":[{"ltp":1.34,"id":8736064},{"ltp":3.95,"id":5321877}]}]}
+{"op":"mcm","clk":"7658820728","pt":1538981371890,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T08:45:00.000Z","suspendTime":"2018-10-08T08:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T08:45:00.000Z","version":2446004724,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7658991326","pt":1538984010019,"mc":[{"id":"1.149225212","rc":[{"ltp":1.33,"id":8736064}]}]}
+{"op":"mcm","clk":"7659033036","pt":1538984608842,"mc":[{"id":"1.149225212","rc":[{"ltp":4.1,"id":5321877}]}]}
+{"op":"mcm","clk":"7659046936","pt":1538984850555,"mc":[{"id":"1.149225212","rc":[{"ltp":1.32,"id":8736064}]}]}
+{"op":"mcm","clk":"7659093252","pt":1538985571663,"mc":[{"id":"1.149225212","rc":[{"ltp":1.31,"id":8736064},{"ltp":4.2,"id":5321877}]}]}
+{"op":"mcm","clk":"7659096192","pt":1538985631809,"mc":[{"id":"1.149225212","rc":[{"ltp":4.3,"id":5321877}]}]}
+{"op":"mcm","clk":"7659108695","pt":1538985872679,"mc":[{"id":"1.149225212","rc":[{"ltp":1.32,"id":8736064}]}]}
+{"op":"mcm","clk":"7659111049","pt":1538985914625,"mc":[{"id":"1.149225212","rc":[{"ltp":1.3,"id":8736064},{"ltp":4.4,"id":5321877}]}]}
+{"op":"mcm","clk":"7659114642","pt":1538985991432,"mc":[{"id":"1.149225212","rc":[{"ltp":4.2,"id":5321877}]}]}
+{"op":"mcm","clk":"7659117797","pt":1538986052609,"mc":[{"id":"1.149225212","rc":[{"ltp":4.4,"id":5321877}]}]}
+{"op":"mcm","clk":"7659120877","pt":1538986110259,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659124020","pt":1538986172873,"mc":[{"id":"1.149225212","rc":[{"ltp":1.3,"id":8736064}]}]}
+{"op":"mcm","clk":"7659128593","pt":1538986276199,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064},{"ltp":4.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659144958","pt":1538986458719,"mc":[{"id":"1.149225212","rc":[{"ltp":4.4,"id":5321877}]}]}
+{"op":"mcm","clk":"7659161199","pt":1538986769615,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659163364","pt":1538986821622,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659174443","pt":1538987063921,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064},{"ltp":4.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659179436","pt":1538987156928,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659195542","pt":1538987311986,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659206862","pt":1538987492407,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659210197","pt":1538987552482,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659224601","pt":1538987789577,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659233780","pt":1538987936854,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659238353","pt":1538988016869,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064},{"ltp":4.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659241526","pt":1538988071733,"mc":[{"id":"1.149225212","rc":[{"ltp":1.26,"id":8736064},{"ltp":4.9,"id":5321877}]}]}
+{"op":"mcm","clk":"7659243371","pt":1538988109211,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659256309","pt":1538988212222,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659260113","pt":1538988270283,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2446053857,"name":"Match Odds","eventName":"Glushko v Cornet"},"rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659263157","pt":1538988332895,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659265685","pt":1538988386685,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659267125","pt":1538988416418,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659280758","pt":1538988689779,"mc":[{"id":"1.149225212","rc":[{"ltp":1.26,"id":8736064}]}]}
+{"op":"mcm","clk":"7659281484","pt":1538988708834,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659288368","pt":1538988858908,"mc":[{"id":"1.149225212","rc":[{"ltp":4.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659307787","pt":1538989096069,"mc":[{"id":"1.149225212","rc":[{"ltp":4.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659312327","pt":1538989169388,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:15:00.000Z","suspendTime":"2018-10-08T09:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:15:00.000Z","version":2446060314,"name":"Match Odds","eventName":"Glushko v Cornet"},"rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659315234","pt":1538989220015,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659337917","pt":1538989590061,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659341529","pt":1538989652730,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659354320","pt":1538989881891,"mc":[{"id":"1.149225212","rc":[{"ltp":4.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659368705","pt":1538990008635,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064}]}]}
+{"op":"mcm","clk":"7659372076","pt":1538990058387,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:30:00.000Z","suspendTime":"2018-10-08T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:30:00.000Z","version":2446065750,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7659383309","pt":1538990237958,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659404767","pt":1538990545136,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659409139","pt":1538990611140,"mc":[{"id":"1.149225212","rc":[{"ltp":1.25,"id":8736064}]}]}
+{"op":"mcm","clk":"7659417487","pt":1538990775373,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064},{"ltp":4.7,"id":5321877}]}]}
+{"op":"mcm","clk":"7659434229","pt":1538990966398,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:32:00.000Z","suspendTime":"2018-10-08T09:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:32:00.000Z","version":2446073544,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7659442719","pt":1538991148269,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659446074","pt":1538991210946,"mc":[{"id":"1.149225212","rc":[{"ltp":1.26,"id":8736064}]}]}
+{"op":"mcm","clk":"7659450126","pt":1538991272071,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:31:00.000Z","suspendTime":"2018-10-08T09:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:31:00.000Z","version":2446075538,"name":"Match Odds","eventName":"Glushko v Cornet"},"rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659454050","pt":1538991330287,"mc":[{"id":"1.149225212","rc":[{"ltp":1.26,"id":8736064},{"ltp":4.8,"id":5321877}]}]}
+{"op":"mcm","clk":"7659456352","pt":1538991368415,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659460787","pt":1538991442091,"mc":[{"id":"1.149225212","rc":[{"ltp":1.29,"id":8736064},{"ltp":4.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659463738","pt":1538991492900,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659474051","pt":1538991692508,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659483655","pt":1538991739764,"mc":[{"id":"1.149225212","rc":[{"ltp":1.28,"id":8736064}]}]}
+{"op":"mcm","clk":"7659487096","pt":1538991810553,"mc":[{"id":"1.149225212","rc":[{"ltp":1.27,"id":8736064}]}]}
+{"op":"mcm","clk":"7659490453","pt":1538991870345,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:31:00.000Z","suspendTime":"2018-10-08T09:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:31:00.000Z","version":2446078666,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7659493486","pt":1538991932391,"mc":[{"id":"1.149225212","rc":[{"ltp":1.24,"id":8736064},{"ltp":5.2,"id":5321877}]}]}
+{"op":"mcm","clk":"7659496515","pt":1538991990783,"mc":[{"id":"1.149225212","rc":[{"ltp":1.19,"id":8736064}]}]}
+{"op":"mcm","clk":"7659499434","pt":1538992052261,"mc":[{"id":"1.149225212","rc":[{"ltp":1.24,"id":8736064},{"ltp":5.1,"id":5321877}]}]}
+{"op":"mcm","clk":"7659502821","pt":1538992112900,"mc":[{"id":"1.149225212","rc":[{"ltp":1.19,"id":8736064},{"ltp":6.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659506057","pt":1538992172833,"mc":[{"id":"1.149225212","rc":[{"ltp":1.13,"id":8736064},{"ltp":6.2,"id":5321877}]}]}
+{"op":"mcm","clk":"7659509155","pt":1538992232191,"mc":[{"id":"1.149225212","rc":[{"ltp":8.6,"id":5321877}]}]}
+{"op":"mcm","clk":"7659515946","pt":1538992352527,"mc":[{"id":"1.149225212","rc":[{"ltp":1.14,"id":8736064}]}]}
+{"op":"mcm","clk":"7659519761","pt":1538992412290,"mc":[{"id":"1.149225212","rc":[{"ltp":1.19,"id":8736064},{"ltp":6.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659523744","pt":1538992472707,"mc":[{"id":"1.149225212","rc":[{"ltp":1.2,"id":8736064},{"ltp":5.8,"id":5321877}]}]}
+{"op":"mcm","clk":"7659527613","pt":1538992532043,"mc":[{"id":"1.149225212","rc":[{"ltp":6.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659531630","pt":1538992592396,"mc":[{"id":"1.149225212","rc":[{"ltp":1.15,"id":8736064}]}]}
+{"op":"mcm","clk":"7659542626","pt":1538992651377,"mc":[{"id":"1.149225212","rc":[{"ltp":1.14,"id":8736064},{"ltp":8.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659546262","pt":1538992712332,"mc":[{"id":"1.149225212","rc":[{"ltp":1.12,"id":8736064},{"ltp":9.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659549665","pt":1538992772136,"mc":[{"id":"1.149225212","rc":[{"ltp":1.1,"id":8736064},{"ltp":10.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659553479","pt":1538992832704,"mc":[{"id":"1.149225212","rc":[{"ltp":1.09,"id":8736064}]}]}
+{"op":"mcm","clk":"7659557539","pt":1538992889580,"mc":[{"id":"1.149225212","rc":[{"ltp":1.08,"id":8736064},{"ltp":12.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659562456","pt":1538992951155,"mc":[{"id":"1.149225212","rc":[{"ltp":1.09,"id":8736064},{"ltp":12.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659567191","pt":1538993012810,"mc":[{"id":"1.149225212","rc":[{"ltp":1.1,"id":8736064}]}]}
+{"op":"mcm","clk":"7659576797","pt":1538993131374,"mc":[{"id":"1.149225212","rc":[{"ltp":1.09,"id":8736064},{"ltp":12.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659581123","pt":1538993190205,"mc":[{"id":"1.149225212","rc":[{"ltp":13.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659585472","pt":1538993252252,"mc":[{"id":"1.149225212","rc":[{"ltp":1.06,"id":8736064}]}]}
+{"op":"mcm","clk":"7659590102","pt":1538993312421,"mc":[{"id":"1.149225212","rc":[{"ltp":17.5,"id":5321877}]}]}
+{"op":"mcm","clk":"7659599960","pt":1538993431137,"mc":[{"id":"1.149225212","rc":[{"ltp":18.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659620668","pt":1538993611439,"mc":[{"id":"1.149225212","rc":[{"ltp":1.03,"id":8736064}]}]}
+{"op":"mcm","clk":"7659625578","pt":1538993672075,"mc":[{"id":"1.149225212","rc":[{"ltp":55.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659630251","pt":1538993732545,"mc":[{"id":"1.149225212","rc":[{"ltp":1.02,"id":8736064}]}]}
+{"op":"mcm","clk":"7659640774","pt":1538993851053,"mc":[{"id":"1.149225212","rc":[{"ltp":50.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659646071","pt":1538993911955,"mc":[{"id":"1.149225212","rc":[{"ltp":1.01,"id":8736064},{"ltp":100.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659659524","pt":1538994085341,"mc":[{"id":"1.149225212","rc":[{"ltp":190.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659663899","pt":1538994145894,"mc":[{"id":"1.149225212","rc":[{"ltp":100.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659668576","pt":1538994208280,"mc":[{"id":"1.149225212","rc":[{"ltp":120.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659673283","pt":1538994269444,"mc":[{"id":"1.149225212","rc":[{"ltp":190.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659699710","pt":1538994567541,"mc":[{"id":"1.149225212","rc":[{"ltp":120.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659723049","pt":1538994925122,"mc":[{"id":"1.149225212","rc":[{"ltp":190.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659727062","pt":1538994988873,"mc":[{"id":"1.149225212","rc":[{"ltp":100.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659731330","pt":1538995051083,"mc":[{"id":"1.149225212","rc":[{"ltp":110.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659735714","pt":1538995112438,"mc":[{"id":"1.149225212","rc":[{"ltp":50.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659739863","pt":1538995170325,"mc":[{"id":"1.149225212","rc":[{"ltp":100.0,"id":5321877}]}]}
+{"op":"mcm","clk":"7659744373","pt":1538995232543,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:31:00.000Z","suspendTime":"2018-10-08T09:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:31:00.000Z","version":2446108788,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7659745869","pt":1538995252055,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:31:00.000Z","suspendTime":"2018-10-08T09:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"ACTIVE","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:31:00.000Z","version":2446109334,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}
+{"op":"mcm","clk":"7659766370","pt":1538995461743,"mc":[{"id":"1.149225212","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943918","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:31:00.000Z","suspendTime":"2018-10-08T09:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-08T10:44:11.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":5321877,"name":"Julia Glushko"},{"status":"WINNER","sortPriority":2,"id":8736064,"name":"Alizé Cornet"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:31:00.000Z","version":2446113404,"name":"Match Odds","eventName":"Glushko v Cornet"}}]}

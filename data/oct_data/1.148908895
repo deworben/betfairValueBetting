@@ -1,0 +1,53 @@
+{"op":"mcm","clk":"7536822760","pt":1538369207301,"mc":[{"id":"1.148908895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T10:00:00.000Z","suspendTime":"2018-10-01T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14266921,"name":"A Boureau"},{"status":"ACTIVE","sortPriority":2,"id":9635457,"name":"L Klein"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-01T10:00:00.000Z","version":2432570102,"name":"Match Odds","eventName":"A Boureau v L Klein"}}]}
+{"op":"mcm","clk":"7536833621","pt":1538369432391,"mc":[{"id":"1.148908895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T10:00:00.000Z","suspendTime":"2018-10-01T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14266921,"name":"A Boureau"},{"status":"ACTIVE","sortPriority":2,"id":9635457,"name":"L Klein"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-01T10:00:00.000Z","version":2432570102,"name":"Match Odds","eventName":"A Boureau v L Klein"}}]}
+{"op":"mcm","clk":"7537632786","pt":1538382796282,"mc":[{"id":"1.148908895","rc":[{"ltp":5.1,"id":14266921},{"ltp":1.25,"id":9635457}]}]}
+{"op":"mcm","clk":"7537909895","pt":1538386316529,"mc":[{"id":"1.148908895","rc":[{"ltp":1.17,"id":9635457}]}]}
+{"op":"mcm","clk":"7538040324","pt":1538387726312,"mc":[{"id":"1.148908895","rc":[{"ltp":1.16,"id":9635457}]}]}
+{"op":"mcm","clk":"7538088547","pt":1538388292502,"mc":[{"id":"1.148908895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T10:00:00.000Z","suspendTime":"2018-10-01T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14266921,"name":"A Boureau"},{"status":"ACTIVE","sortPriority":2,"id":9635457,"name":"L Klein"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-01T10:00:00.000Z","version":2432706170,"name":"Match Odds","eventName":"A Boureau v L Klein"}}]}
+{"op":"mcm","clk":"7538134237","pt":1538388715771,"mc":[{"id":"1.148908895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T10:00:00.000Z","suspendTime":"2018-10-01T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14266921,"name":"A Boureau"},{"status":"ACTIVE","sortPriority":2,"id":9635457,"name":"L Klein"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-01T10:11:36.000Z","version":2432713279,"name":"Match Odds","eventName":"A Boureau v L Klein"}}]}
+{"op":"mcm","clk":"7538373150","pt":1538390992468,"mc":[{"id":"1.148908895","rc":[{"ltp":1.84,"id":14266921}]}]}
+{"op":"mcm","clk":"7538408748","pt":1538391299625,"mc":[{"id":"1.148908895","rc":[{"ltp":1.73,"id":14266921}]}]}
+{"op":"mcm","clk":"7538415828","pt":1538391391328,"mc":[{"id":"1.148908895","rc":[{"ltp":2.0,"id":14266921},{"ltp":2.0,"id":9635457}]}]}
+{"op":"mcm","clk":"7538427562","pt":1538391539836,"mc":[{"id":"1.148908895","rc":[{"ltp":2.24,"id":14266921},{"ltp":1.81,"id":9635457}]}]}
+{"op":"mcm","clk":"7538433324","pt":1538391599942,"mc":[{"id":"1.148908895","rc":[{"ltp":2.38,"id":14266921},{"ltp":1.73,"id":9635457}]}]}
+{"op":"mcm","clk":"7538464258","pt":1538391959524,"mc":[{"id":"1.148908895","rc":[{"ltp":3.0,"id":14266921},{"ltp":1.5,"id":9635457}]}]}
+{"op":"mcm","clk":"7538493577","pt":1538392195518,"mc":[{"id":"1.148908895","rc":[{"ltp":3.75,"id":14266921}]}]}
+{"op":"mcm","clk":"7538502571","pt":1538392302531,"mc":[{"id":"1.148908895","rc":[{"ltp":1.25,"id":9635457}]}]}
+{"op":"mcm","clk":"7538538532","pt":1538392674193,"mc":[{"id":"1.148908895","rc":[{"ltp":1.3,"id":9635457}]}]}
+{"op":"mcm","clk":"7538556110","pt":1538392860418,"mc":[{"id":"1.148908895","rc":[{"ltp":4.2,"id":14266921},{"ltp":1.27,"id":9635457}]}]}
+{"op":"mcm","clk":"7538561350","pt":1538392916613,"mc":[{"id":"1.148908895","rc":[{"ltp":1.33,"id":9635457}]}]}
+{"op":"mcm","clk":"7538585418","pt":1538393094443,"mc":[{"id":"1.148908895","rc":[{"ltp":1.31,"id":9635457}]}]}
+{"op":"mcm","clk":"7538590559","pt":1538393159260,"mc":[{"id":"1.148908895","rc":[{"ltp":1.3,"id":9635457}]}]}
+{"op":"mcm","clk":"7538594326","pt":1538393206763,"mc":[{"id":"1.148908895","rc":[{"ltp":4.5,"id":14266921},{"ltp":1.29,"id":9635457}]}]}
+{"op":"mcm","clk":"7538600220","pt":1538393278537,"mc":[{"id":"1.148908895","rc":[{"ltp":1.19,"id":9635457}]}]}
+{"op":"mcm","clk":"7538604951","pt":1538393339195,"mc":[{"id":"1.148908895","rc":[{"ltp":1.25,"id":9635457}]}]}
+{"op":"mcm","clk":"7538610312","pt":1538393400321,"mc":[{"id":"1.148908895","rc":[{"ltp":1.15,"id":9635457}]}]}
+{"op":"mcm","clk":"7538615985","pt":1538393460317,"mc":[{"id":"1.148908895","rc":[{"ltp":1.22,"id":9635457}]}]}
+{"op":"mcm","clk":"7538620920","pt":1538393513359,"mc":[{"id":"1.148908895","rc":[{"ltp":1.31,"id":9635457}]}]}
+{"op":"mcm","clk":"7538638932","pt":1538393750522,"mc":[{"id":"1.148908895","rc":[{"ltp":1.28,"id":9635457}]}]}
+{"op":"mcm","clk":"7538644323","pt":1538393814739,"mc":[{"id":"1.148908895","rc":[{"ltp":5.0,"id":14266921},{"ltp":1.19,"id":9635457}]}]}
+{"op":"mcm","clk":"7538658542","pt":1538393880198,"mc":[{"id":"1.148908895","rc":[{"ltp":1.21,"id":9635457}]}]}
+{"op":"mcm","clk":"7538663480","pt":1538393936669,"mc":[{"id":"1.148908895","rc":[{"ltp":1.33,"id":9635457}]}]}
+{"op":"mcm","clk":"7538669111","pt":1538393999060,"mc":[{"id":"1.148908895","rc":[{"ltp":1.4,"id":9635457}]}]}
+{"op":"mcm","clk":"7538674640","pt":1538394058755,"mc":[{"id":"1.148908895","rc":[{"ltp":1.91,"id":14266921},{"ltp":2.0,"id":9635457}]}]}
+{"op":"mcm","clk":"7538679951","pt":1538394119490,"mc":[{"id":"1.148908895","rc":[{"ltp":1.73,"id":14266921},{"ltp":2.38,"id":9635457}]}]}
+{"op":"mcm","clk":"7538685000","pt":1538394178585,"mc":[{"id":"1.148908895","rc":[{"ltp":1.47,"id":14266921},{"ltp":3.75,"id":9635457}]}]}
+{"op":"mcm","clk":"7538690142","pt":1538394238929,"mc":[{"id":"1.148908895","rc":[{"ltp":1.54,"id":14266921},{"ltp":2.64,"id":9635457}]}]}
+{"op":"mcm","clk":"7538695908","pt":1538394300209,"mc":[{"id":"1.148908895","rc":[{"ltp":1.45,"id":14266921},{"ltp":3.2,"id":9635457}]}]}
+{"op":"mcm","clk":"7538701620","pt":1538394355873,"mc":[{"id":"1.148908895","rc":[{"ltp":1.4,"id":14266921},{"ltp":3.5,"id":9635457}]}]}
+{"op":"mcm","clk":"7538707553","pt":1538394420261,"mc":[{"id":"1.148908895","rc":[{"ltp":1.43,"id":14266921}]}]}
+{"op":"mcm","clk":"7538716839","pt":1538394540341,"mc":[{"id":"1.148908895","rc":[{"ltp":1.52,"id":14266921},{"ltp":3.15,"id":9635457}]}]}
+{"op":"mcm","clk":"7538721498","pt":1538394599329,"mc":[{"id":"1.148908895","rc":[{"ltp":1.71,"id":14266921},{"ltp":2.42,"id":9635457}]}]}
+{"op":"mcm","clk":"7538726206","pt":1538394660345,"mc":[{"id":"1.148908895","rc":[{"ltp":1.72,"id":14266921},{"ltp":2.4,"id":9635457}]}]}
+{"op":"mcm","clk":"7538730996","pt":1538394720190,"mc":[{"id":"1.148908895","rc":[{"ltp":1.33,"id":14266921},{"ltp":2.88,"id":9635457}]}]}
+{"op":"mcm","clk":"7538744847","pt":1538394780234,"mc":[{"id":"1.148908895","rc":[{"ltp":1.78,"id":14266921}]}]}
+{"op":"mcm","clk":"7538750010","pt":1538394840125,"mc":[{"id":"1.148908895","rc":[{"ltp":2.5,"id":14266921},{"ltp":1.72,"id":9635457}]}]}
+{"op":"mcm","clk":"7538755060","pt":1538394899936,"mc":[{"id":"1.148908895","rc":[{"ltp":2.46,"id":14266921},{"ltp":1.68,"id":9635457}]}]}
+{"op":"mcm","clk":"7538759409","pt":1538394955900,"mc":[{"id":"1.148908895","rc":[{"ltp":2.4,"id":14266921},{"ltp":1.41,"id":9635457}]}]}
+{"op":"mcm","clk":"7538764559","pt":1538395020164,"mc":[{"id":"1.148908895","rc":[{"ltp":1.39,"id":9635457}]}]}
+{"op":"mcm","clk":"7538769727","pt":1538395079819,"mc":[{"id":"1.148908895","rc":[{"ltp":3.0,"id":14266921},{"ltp":1.5,"id":9635457}]}]}
+{"op":"mcm","clk":"7538782188","pt":1538395198763,"mc":[{"id":"1.148908895","rc":[{"ltp":2.54,"id":14266921},{"ltp":1.67,"id":9635457}]}]}
+{"op":"mcm","clk":"7538789588","pt":1538395258464,"mc":[{"id":"1.148908895","rc":[{"ltp":1.76,"id":9635457}]}]}
+{"op":"mcm","clk":"7538797003","pt":1538395319857,"mc":[{"id":"1.148908895","rc":[{"ltp":1.57,"id":14266921}]}]}
+{"op":"mcm","clk":"7538803755","pt":1538395380240,"mc":[{"id":"1.148908895","rc":[{"ltp":1.23,"id":14266921},{"ltp":5.0,"id":9635457}]}]}
+{"op":"mcm","clk":"7538809196","pt":1538395427133,"mc":[{"id":"1.148908895","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T10:00:00.000Z","suspendTime":"2018-10-01T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-01T12:03:43.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":14266921,"name":"A Boureau"},{"status":"LOSER","sortPriority":2,"id":9635457,"name":"L Klein"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-01T10:11:36.000Z","version":2432774643,"name":"Match Odds","eventName":"A Boureau v L Klein"}}]}

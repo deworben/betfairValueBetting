@@ -1,0 +1,117 @@
+{"op":"mcm","clk":"7611713694","pt":1539096619125,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447391074,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7611756969","pt":1539097156268,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447391074,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7614427352","pt":1539130767637,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:00:00.000Z","suspendTime":"2018-10-11T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:00:00.000Z","version":2448043971,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7619102716","pt":1539186596651,"mc":[{"id":"1.149317345","rc":[{"ltp":1.67,"id":13181195}]}]}
+{"op":"mcm","clk":"7621650718","pt":1539209794576,"mc":[{"id":"1.149317345","rc":[{"ltp":1.71,"id":13181195}]}]}
+{"op":"mcm","clk":"7622037883","pt":1539216917920,"mc":[{"id":"1.149317345","rc":[{"ltp":2.24,"id":8443097},{"ltp":1.8,"id":13181195}]}]}
+{"op":"mcm","clk":"7623237600","pt":1539237667424,"mc":[{"id":"1.149317345","rc":[{"ltp":1.73,"id":13181195}]}]}
+{"op":"mcm","clk":"7623318866","pt":1539238862959,"mc":[{"id":"1.149317345","rc":[{"ltp":1.75,"id":13181195}]}]}
+{"op":"mcm","clk":"7623487488","pt":1539241207020,"mc":[{"id":"1.149317345","rc":[{"ltp":1.73,"id":13181195}]}]}
+{"op":"mcm","clk":"7623492644","pt":1539241276321,"mc":[{"id":"1.149317345","rc":[{"ltp":1.71,"id":13181195}]}]}
+{"op":"mcm","clk":"7623500121","pt":1539241387324,"mc":[{"id":"1.149317345","rc":[{"ltp":1.7,"id":13181195}]}]}
+{"op":"mcm","clk":"7623594956","pt":1539242541207,"mc":[{"id":"1.149317345","rc":[{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7623664210","pt":1539243564936,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:30:00.000Z","suspendTime":"2018-10-11T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:00:00.000Z","version":2449466485,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7623664442","pt":1539243567946,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:30:00.000Z","suspendTime":"2018-10-11T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:30:00.000Z","version":2449466485,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7623929115","pt":1539247069801,"mc":[{"id":"1.149317345","rc":[{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7623948070","pt":1539247398634,"mc":[{"id":"1.149317345","rc":[{"ltp":2.48,"id":8443097}]}]}
+{"op":"mcm","clk":"7623955169","pt":1539247518638,"mc":[{"id":"1.149317345","rc":[{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7623958660","pt":1539247583496,"mc":[{"id":"1.149317345","rc":[{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7623961865","pt":1539247639964,"mc":[{"id":"1.149317345","rc":[{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7623965714","pt":1539247701989,"mc":[{"id":"1.149317345","rc":[{"ltp":1.67,"id":13181195}]}]}
+{"op":"mcm","clk":"7623989571","pt":1539247943115,"mc":[{"id":"1.149317345","rc":[{"ltp":2.38,"id":8443097},{"ltp":1.73,"id":13181195}]}]}
+{"op":"mcm","clk":"7623993703","pt":1539248004772,"mc":[{"id":"1.149317345","rc":[{"ltp":2.48,"id":8443097},{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7623997349","pt":1539248064354,"mc":[{"id":"1.149317345","rc":[{"ltp":2.46,"id":8443097},{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7624001015","pt":1539248125016,"mc":[{"id":"1.149317345","rc":[{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7624010709","pt":1539248274426,"mc":[{"id":"1.149317345","rc":[{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7624016694","pt":1539248363802,"mc":[{"id":"1.149317345","rc":[{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7624119071","pt":1539249623883,"mc":[{"id":"1.149317345","rc":[{"ltp":1.71,"id":13181195}]}]}
+{"op":"mcm","clk":"7624155779","pt":1539249973661,"mc":[{"id":"1.149317345","rc":[{"ltp":2.48,"id":8443097},{"ltp":1.68,"id":13181195}]}]}
+{"op":"mcm","clk":"7624160097","pt":1539250034173,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:30:00.000Z","suspendTime":"2018-10-11T09:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:30:00.000Z","version":2449509250,"name":"Match Odds","eventName":"Martinez v Kuzmanov"},"rc":[{"ltp":1.69,"id":13181195}]}]}
+{"op":"mcm","clk":"7624169407","pt":1539250165035,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:25:00.000Z","suspendTime":"2018-10-11T09:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:30:00.000Z","version":2449510164,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7624169582","pt":1539250167054,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:25:00.000Z","suspendTime":"2018-10-11T09:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:25:00.000Z","version":2449510164,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}
+{"op":"mcm","clk":"7624234858","pt":1539250898906,"mc":[{"id":"1.149317345","rc":[{"ltp":1.56,"id":13181195}]}]}
+{"op":"mcm","clk":"7624260003","pt":1539251244849,"mc":[{"id":"1.149317345","rc":[{"ltp":2.26,"id":8443097},{"ltp":1.8,"id":13181195}]}]}
+{"op":"mcm","clk":"7624263927","pt":1539251300721,"mc":[{"id":"1.149317345","rc":[{"ltp":2.06,"id":8443097},{"ltp":1.94,"id":13181195}]}]}
+{"op":"mcm","clk":"7624268823","pt":1539251360636,"mc":[{"id":"1.149317345","rc":[{"ltp":1.98,"id":8443097},{"ltp":2.02,"id":13181195}]}]}
+{"op":"mcm","clk":"7624273829","pt":1539251423488,"mc":[{"id":"1.149317345","rc":[{"ltp":1.96,"id":8443097}]}]}
+{"op":"mcm","clk":"7624278544","pt":1539251482043,"mc":[{"id":"1.149317345","rc":[{"ltp":1.93,"id":8443097}]}]}
+{"op":"mcm","clk":"7624296580","pt":1539251602297,"mc":[{"id":"1.149317345","rc":[{"ltp":2.08,"id":8443097}]}]}
+{"op":"mcm","clk":"7624301436","pt":1539251662780,"mc":[{"id":"1.149317345","rc":[{"ltp":1.9,"id":8443097}]}]}
+{"op":"mcm","clk":"7624306903","pt":1539251724611,"mc":[{"id":"1.149317345","rc":[{"ltp":1.92,"id":8443097},{"ltp":2.08,"id":13181195}]}]}
+{"op":"mcm","clk":"7624311978","pt":1539251782416,"mc":[{"id":"1.149317345","rc":[{"ltp":2.12,"id":8443097},{"ltp":1.89,"id":13181195}]}]}
+{"op":"mcm","clk":"7624317382","pt":1539251840308,"mc":[{"id":"1.149317345","rc":[{"ltp":2.34,"id":8443097},{"ltp":1.74,"id":13181195}]}]}
+{"op":"mcm","clk":"7624323300","pt":1539251904837,"mc":[{"id":"1.149317345","rc":[{"ltp":2.42,"id":8443097}]}]}
+{"op":"mcm","clk":"7624328396","pt":1539251958566,"mc":[{"id":"1.149317345","rc":[{"ltp":1.48,"id":13181195}]}]}
+{"op":"mcm","clk":"7624340247","pt":1539252084699,"mc":[{"id":"1.149317345","rc":[{"ltp":1.55,"id":13181195}]}]}
+{"op":"mcm","clk":"7624351161","pt":1539252202397,"mc":[{"id":"1.149317345","rc":[{"ltp":2.72,"id":8443097},{"ltp":1.5,"id":13181195}]}]}
+{"op":"mcm","clk":"7624356385","pt":1539252264135,"mc":[{"id":"1.149317345","rc":[{"ltp":3.4,"id":8443097},{"ltp":1.38,"id":13181195}]}]}
+{"op":"mcm","clk":"7624361581","pt":1539252324431,"mc":[{"id":"1.149317345","rc":[{"ltp":3.3,"id":8443097},{"ltp":1.42,"id":13181195}]}]}
+{"op":"mcm","clk":"7624381469","pt":1539252445057,"mc":[{"id":"1.149317345","rc":[{"ltp":3.2,"id":8443097},{"ltp":1.45,"id":13181195}]}]}
+{"op":"mcm","clk":"7624386949","pt":1539252504711,"mc":[{"id":"1.149317345","rc":[{"ltp":1.47,"id":13181195}]}]}
+{"op":"mcm","clk":"7624397897","pt":1539252624862,"mc":[{"id":"1.149317345","rc":[{"ltp":2.88,"id":8443097},{"ltp":1.53,"id":13181195}]}]}
+{"op":"mcm","clk":"7624404347","pt":1539252684219,"mc":[{"id":"1.149317345","rc":[{"ltp":2.92,"id":8443097},{"ltp":1.49,"id":13181195}]}]}
+{"op":"mcm","clk":"7624410198","pt":1539252745095,"mc":[{"id":"1.149317345","rc":[{"ltp":3.15,"id":8443097},{"ltp":1.46,"id":13181195}]}]}
+{"op":"mcm","clk":"7624415733","pt":1539252803636,"mc":[{"id":"1.149317345","rc":[{"ltp":3.25,"id":8443097},{"ltp":1.44,"id":13181195}]}]}
+{"op":"mcm","clk":"7624420909","pt":1539252861942,"mc":[{"id":"1.149317345","rc":[{"ltp":2.88,"id":8443097},{"ltp":1.5,"id":13181195}]}]}
+{"op":"mcm","clk":"7624426774","pt":1539252924110,"mc":[{"id":"1.149317345","rc":[{"ltp":2.5,"id":8443097},{"ltp":1.67,"id":13181195}]}]}
+{"op":"mcm","clk":"7624432053","pt":1539252984158,"mc":[{"id":"1.149317345","rc":[{"ltp":1.94,"id":13181195}]}]}
+{"op":"mcm","clk":"7624436732","pt":1539253042883,"mc":[{"id":"1.149317345","rc":[{"ltp":1.48,"id":13181195}]}]}
+{"op":"mcm","clk":"7624441851","pt":1539253105071,"mc":[{"id":"1.149317345","rc":[{"ltp":1.58,"id":13181195}]}]}
+{"op":"mcm","clk":"7624446975","pt":1539253164684,"mc":[{"id":"1.149317345","rc":[{"ltp":1.48,"id":13181195}]}]}
+{"op":"mcm","clk":"7624451968","pt":1539253215960,"mc":[{"id":"1.149317345","rc":[{"ltp":3.5,"id":8443097},{"ltp":1.41,"id":13181195}]}]}
+{"op":"mcm","clk":"7624472519","pt":1539253341305,"mc":[{"id":"1.149317345","rc":[{"ltp":1.38,"id":13181195}]}]}
+{"op":"mcm","clk":"7624477697","pt":1539253402129,"mc":[{"id":"1.149317345","rc":[{"ltp":3.55,"id":8443097},{"ltp":1.39,"id":13181195}]}]}
+{"op":"mcm","clk":"7624489113","pt":1539253522911,"mc":[{"id":"1.149317345","rc":[{"ltp":3.4,"id":8443097}]}]}
+{"op":"mcm","clk":"7624500902","pt":1539253645025,"mc":[{"id":"1.149317345","rc":[{"ltp":1.27,"id":13181195}]}]}
+{"op":"mcm","clk":"7624507781","pt":1539253704356,"mc":[{"id":"1.149317345","rc":[{"ltp":4.8,"id":8443097},{"ltp":1.26,"id":13181195}]}]}
+{"op":"mcm","clk":"7624513473","pt":1539253760422,"mc":[{"id":"1.149317345","rc":[{"ltp":1.23,"id":13181195}]}]}
+{"op":"mcm","clk":"7624519450","pt":1539253822194,"mc":[{"id":"1.149317345","rc":[{"ltp":1.24,"id":13181195}]}]}
+{"op":"mcm","clk":"7624525253","pt":1539253881905,"mc":[{"id":"1.149317345","rc":[{"ltp":5.2,"id":8443097},{"ltp":1.23,"id":13181195}]}]}
+{"op":"mcm","clk":"7624530027","pt":1539253938063,"mc":[{"id":"1.149317345","rc":[{"ltp":5.1,"id":8443097}]}]}
+{"op":"mcm","clk":"7624535804","pt":1539254001430,"mc":[{"id":"1.149317345","rc":[{"ltp":1.25,"id":13181195}]}]}
+{"op":"mcm","clk":"7624546150","pt":1539254124523,"mc":[{"id":"1.149317345","rc":[{"ltp":4.7,"id":8443097},{"ltp":1.23,"id":13181195}]}]}
+{"op":"mcm","clk":"7624551878","pt":1539254184019,"mc":[{"id":"1.149317345","rc":[{"ltp":1.24,"id":13181195}]}]}
+{"op":"mcm","clk":"7624565726","pt":1539254244887,"mc":[{"id":"1.149317345","rc":[{"ltp":1.19,"id":13181195}]}]}
+{"op":"mcm","clk":"7624570296","pt":1539254301436,"mc":[{"id":"1.149317345","rc":[{"ltp":6.4,"id":8443097}]}]}
+{"op":"mcm","clk":"7624574795","pt":1539254364426,"mc":[{"id":"1.149317345","rc":[{"ltp":1.13,"id":13181195}]}]}
+{"op":"mcm","clk":"7624579888","pt":1539254423260,"mc":[{"id":"1.149317345","rc":[{"ltp":7.6,"id":8443097},{"ltp":1.12,"id":13181195}]}]}
+{"op":"mcm","clk":"7624585288","pt":1539254482185,"mc":[{"id":"1.149317345","rc":[{"ltp":5.3,"id":8443097},{"ltp":1.25,"id":13181195}]}]}
+{"op":"mcm","clk":"7624591080","pt":1539254544168,"mc":[{"id":"1.149317345","rc":[{"ltp":4.6,"id":8443097},{"ltp":1.24,"id":13181195}]}]}
+{"op":"mcm","clk":"7624602536","pt":1539254663649,"mc":[{"id":"1.149317345","rc":[{"ltp":4.4,"id":8443097},{"ltp":1.26,"id":13181195}]}]}
+{"op":"mcm","clk":"7624607757","pt":1539254725036,"mc":[{"id":"1.149317345","rc":[{"ltp":4.2,"id":8443097},{"ltp":1.32,"id":13181195}]}]}
+{"op":"mcm","clk":"7624612565","pt":1539254783934,"mc":[{"id":"1.149317345","rc":[{"ltp":3.75,"id":8443097},{"ltp":1.36,"id":13181195}]}]}
+{"op":"mcm","clk":"7624616990","pt":1539254843204,"mc":[{"id":"1.149317345","rc":[{"ltp":3.7,"id":8443097},{"ltp":1.37,"id":13181195}]}]}
+{"op":"mcm","clk":"7624622102","pt":1539254903185,"mc":[{"id":"1.149317345","rc":[{"ltp":3.55,"id":8443097},{"ltp":1.42,"id":13181195}]}]}
+{"op":"mcm","clk":"7624627744","pt":1539254964612,"mc":[{"id":"1.149317345","rc":[{"ltp":3.0,"id":8443097},{"ltp":1.5,"id":13181195}]}]}
+{"op":"mcm","clk":"7624633196","pt":1539255021944,"mc":[{"id":"1.149317345","rc":[{"ltp":1.43,"id":13181195}]}]}
+{"op":"mcm","clk":"7624638428","pt":1539255084789,"mc":[{"id":"1.149317345","rc":[{"ltp":3.75,"id":8443097},{"ltp":1.38,"id":13181195}]}]}
+{"op":"mcm","clk":"7624651764","pt":1539255145071,"mc":[{"id":"1.149317345","rc":[{"ltp":3.65,"id":8443097},{"ltp":1.36,"id":13181195}]}]}
+{"op":"mcm","clk":"7624656192","pt":1539255204199,"mc":[{"id":"1.149317345","rc":[{"ltp":4.2,"id":8443097},{"ltp":1.31,"id":13181195}]}]}
+{"op":"mcm","clk":"7624660712","pt":1539255263081,"mc":[{"id":"1.149317345","rc":[{"ltp":1.25,"id":13181195}]}]}
+{"op":"mcm","clk":"7624665952","pt":1539255324856,"mc":[{"id":"1.149317345","rc":[{"ltp":8.0,"id":8443097},{"ltp":1.14,"id":13181195}]}]}
+{"op":"mcm","clk":"7624671161","pt":1539255382368,"mc":[{"id":"1.149317345","rc":[{"ltp":10.0,"id":8443097},{"ltp":1.1,"id":13181195}]}]}
+{"op":"mcm","clk":"7624676495","pt":1539255442666,"mc":[{"id":"1.149317345","rc":[{"ltp":9.2,"id":8443097},{"ltp":1.11,"id":13181195}]}]}
+{"op":"mcm","clk":"7624681749","pt":1539255505127,"mc":[{"id":"1.149317345","rc":[{"ltp":1.09,"id":13181195}]}]}
+{"op":"mcm","clk":"7624687173","pt":1539255564122,"mc":[{"id":"1.149317345","rc":[{"ltp":1.16,"id":13181195}]}]}
+{"op":"mcm","clk":"7624693084","pt":1539255622979,"mc":[{"id":"1.149317345","rc":[{"ltp":7.8,"id":8443097},{"ltp":1.1,"id":13181195}]}]}
+{"op":"mcm","clk":"7624698181","pt":1539255684236,"mc":[{"id":"1.149317345","rc":[{"ltp":11.0,"id":8443097}]}]}
+{"op":"mcm","clk":"7624702736","pt":1539255745097,"mc":[{"id":"1.149317345","rc":[{"ltp":4.7,"id":8443097},{"ltp":1.27,"id":13181195}]}]}
+{"op":"mcm","clk":"7624707269","pt":1539255805125,"mc":[{"id":"1.149317345","rc":[{"ltp":4.0,"id":8443097},{"ltp":1.33,"id":13181195}]}]}
+{"op":"mcm","clk":"7624711870","pt":1539255864874,"mc":[{"id":"1.149317345","rc":[{"ltp":1.34,"id":13181195}]}]}
+{"op":"mcm","clk":"7624716813","pt":1539255924809,"mc":[{"id":"1.149317345","rc":[{"ltp":3.85,"id":8443097},{"ltp":1.33,"id":13181195}]}]}
+{"op":"mcm","clk":"7624721510","pt":1539255984048,"mc":[{"id":"1.149317345","rc":[{"ltp":4.0,"id":8443097},{"ltp":1.32,"id":13181195}]}]}
+{"op":"mcm","clk":"7624735212","pt":1539256045029,"mc":[{"id":"1.149317345","rc":[{"ltp":1.27,"id":13181195}]}]}
+{"op":"mcm","clk":"7624740664","pt":1539256104618,"mc":[{"id":"1.149317345","rc":[{"ltp":4.8,"id":8443097},{"ltp":1.29,"id":13181195}]}]}
+{"op":"mcm","clk":"7624745670","pt":1539256164189,"mc":[{"id":"1.149317345","rc":[{"ltp":1.1,"id":13181195}]}]}
+{"op":"mcm","clk":"7624751101","pt":1539256223187,"mc":[{"id":"1.149317345","rc":[{"ltp":11.0,"id":8443097}]}]}
+{"op":"mcm","clk":"7624756913","pt":1539256285125,"mc":[{"id":"1.149317345","rc":[{"ltp":1.09,"id":13181195}]}]}
+{"op":"mcm","clk":"7624762194","pt":1539256344639,"mc":[{"id":"1.149317345","rc":[{"ltp":13.5,"id":8443097},{"ltp":1.05,"id":13181195}]}]}
+{"op":"mcm","clk":"7624767807","pt":1539256404182,"mc":[{"id":"1.149317345","rc":[{"ltp":21.0,"id":8443097},{"ltp":1.04,"id":13181195}]}]}
+{"op":"mcm","clk":"7624773842","pt":1539256464919,"mc":[{"id":"1.149317345","rc":[{"ltp":1.05,"id":13181195}]}]}
+{"op":"mcm","clk":"7624785476","pt":1539256584865,"mc":[{"id":"1.149317345","rc":[{"ltp":1.06,"id":13181195}]}]}
+{"op":"mcm","clk":"7624790511","pt":1539256644851,"mc":[{"id":"1.149317345","rc":[{"ltp":15.0,"id":8443097}]}]}
+{"op":"mcm","clk":"7624795587","pt":1539256703070,"mc":[{"id":"1.149317345","rc":[{"ltp":1.04,"id":13181195}]}]}
+{"op":"mcm","clk":"7624800343","pt":1539256764394,"mc":[{"id":"1.149317345","rc":[{"ltp":23.0,"id":8443097},{"ltp":1.02,"id":13181195}]}]}
+{"op":"mcm","clk":"7624804363","pt":1539256816901,"mc":[{"id":"1.149317345","rc":[{"ltp":26.0,"id":8443097},{"ltp":1.03,"id":13181195}]}]}
+{"op":"mcm","clk":"7624808048","pt":1539256861389,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:25:00.000Z","suspendTime":"2018-10-11T09:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"ACTIVE","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:25:00.000Z","version":2449571711,"name":"Match Odds","eventName":"Martinez v Kuzmanov"},"rc":[{"ltp":1.04,"id":13181195}]}]}
+{"op":"mcm","clk":"7624811586","pt":1539256902089,"mc":[{"id":"1.149317345","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28947976","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T09:25:00.000Z","suspendTime":"2018-10-11T09:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-11T11:21:35.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":13181195,"name":"Pedro Martinez"},{"status":"LOSER","sortPriority":2,"id":8443097,"name":"Dimitar Kuzmanov"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T09:25:00.000Z","version":2449572323,"name":"Match Odds","eventName":"Martinez v Kuzmanov"}}]}

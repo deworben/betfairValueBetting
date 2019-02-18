@@ -1,0 +1,102 @@
+{"op":"mcm","clk":"7651812074","pt":1538790881136,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:00:00.000Z","suspendTime":"2018-10-06T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:00:00.000Z","version":2439197990,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7651867336","pt":1538791568055,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:00:00.000Z","suspendTime":"2018-10-06T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:00:00.000Z","version":2439197990,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7655883720","pt":1538821286261,"mc":[{"id":"1.149165349","rc":[{"ltp":1.82,"id":8908205}]}]}
+{"op":"mcm","clk":"7656969253","pt":1538826858268,"mc":[{"id":"1.149165349","rc":[{"ltp":1.83,"id":8908205},{"ltp":2.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7657042937","pt":1538827281007,"mc":[{"id":"1.149165349","rc":[{"ltp":1.82,"id":8908205}]}]}
+{"op":"mcm","clk":"7657741334","pt":1538830270118,"mc":[{"id":"1.149165349","rc":[{"ltp":1.74,"id":8908205}]}]}
+{"op":"mcm","clk":"7658623583","pt":1538834363112,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:15:00.000Z","suspendTime":"2018-10-06T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:15:00.000Z","version":2440398211,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7658720254","pt":1538834662238,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:02:00.000Z","suspendTime":"2018-10-06T16:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:02:00.000Z","version":2440524456,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7659826999","pt":1538838193034,"mc":[{"id":"1.149165349","rc":[{"ltp":1.72,"id":8908205}]}]}
+{"op":"mcm","clk":"7659949262","pt":1538838559952,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T15:14:00.000Z","suspendTime":"2018-10-06T15:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T15:14:00.000Z","version":2440891308,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7660055353","pt":1538838858842,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T15:12:00.000Z","suspendTime":"2018-10-06T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T15:12:00.000Z","version":2440921635,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}
+{"op":"mcm","clk":"7660066443","pt":1538838891767,"mc":[{"id":"1.149165349","rc":[{"ltp":1.79,"id":8908205}]}]}
+{"op":"mcm","clk":"7660131125","pt":1538839027841,"mc":[{"id":"1.149165349","rc":[{"ltp":1.83,"id":8908205}]}]}
+{"op":"mcm","clk":"7660156486","pt":1538839103296,"mc":[{"id":"1.149165349","rc":[{"ltp":1.71,"id":8908205}]}]}
+{"op":"mcm","clk":"7660172714","pt":1538839151152,"mc":[{"id":"1.149165349","rc":[{"ltp":1.69,"id":8908205}]}]}
+{"op":"mcm","clk":"7660234994","pt":1538839345462,"mc":[{"id":"1.149165349","rc":[{"ltp":1.68,"id":8908205}]}]}
+{"op":"mcm","clk":"7660275163","pt":1538839467942,"mc":[{"id":"1.149165349","rc":[{"ltp":1.7,"id":8908205}]}]}
+{"op":"mcm","clk":"7660294346","pt":1538839526120,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T15:12:00.000Z","suspendTime":"2018-10-06T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T15:12:00.000Z","version":2440985628,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"},"rc":[{"ltp":1.98,"id":8908205},{"ltp":2.02,"id":8174492}]}]}
+{"op":"mcm","clk":"7660313042","pt":1538839582577,"mc":[{"id":"1.149165349","rc":[{"ltp":2.1,"id":8174492}]}]}
+{"op":"mcm","clk":"7660333733","pt":1538839644513,"mc":[{"id":"1.149165349","rc":[{"ltp":1.7,"id":8908205},{"ltp":2.42,"id":8174492}]}]}
+{"op":"mcm","clk":"7660355431","pt":1538839708341,"mc":[{"id":"1.149165349","rc":[{"ltp":2.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7660374624","pt":1538839766240,"mc":[{"id":"1.149165349","rc":[{"ltp":1.56,"id":8908205},{"ltp":2.8,"id":8174492}]}]}
+{"op":"mcm","clk":"7660395485","pt":1538839827436,"mc":[{"id":"1.149165349","rc":[{"ltp":1.43,"id":8908205},{"ltp":3.35,"id":8174492}]}]}
+{"op":"mcm","clk":"7660413498","pt":1538839883413,"mc":[{"id":"1.149165349","rc":[{"ltp":1.45,"id":8908205},{"ltp":3.55,"id":8174492}]}]}
+{"op":"mcm","clk":"7660447477","pt":1538839939558,"mc":[{"id":"1.149165349","rc":[{"ltp":1.41,"id":8908205},{"ltp":2.84,"id":8174492}]}]}
+{"op":"mcm","clk":"7660464839","pt":1538839986282,"mc":[{"id":"1.149165349","rc":[{"ltp":1.43,"id":8908205}]}]}
+{"op":"mcm","clk":"7660483312","pt":1538840042850,"mc":[{"id":"1.149165349","rc":[{"ltp":1.48,"id":8908205},{"ltp":3.1,"id":8174492}]}]}
+{"op":"mcm","clk":"7660573946","pt":1538840307580,"mc":[{"id":"1.149165349","rc":[{"ltp":1.32,"id":8908205}]}]}
+{"op":"mcm","clk":"7660590659","pt":1538840358475,"mc":[{"id":"1.149165349","rc":[{"ltp":1.5,"id":8908205},{"ltp":3.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7660633046","pt":1538840486981,"mc":[{"id":"1.149165349","rc":[{"ltp":1.27,"id":8908205},{"ltp":4.7,"id":8174492}]}]}
+{"op":"mcm","clk":"7660651050","pt":1538840545327,"mc":[{"id":"1.149165349","rc":[{"ltp":1.45,"id":8908205},{"ltp":3.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7660668500","pt":1538840603379,"mc":[{"id":"1.149165349","rc":[{"ltp":1.56,"id":8908205},{"ltp":2.78,"id":8174492}]}]}
+{"op":"mcm","clk":"7660687633","pt":1538840667586,"mc":[{"id":"1.149165349","rc":[{"ltp":1.67,"id":8908205},{"ltp":2.5,"id":8174492}]}]}
+{"op":"mcm","clk":"7660705517","pt":1538840728278,"mc":[{"id":"1.149165349","rc":[{"ltp":1.94,"id":8908205},{"ltp":2.36,"id":8174492}]}]}
+{"op":"mcm","clk":"7660723299","pt":1538840787901,"mc":[{"id":"1.149165349","rc":[{"ltp":1.47,"id":8908205},{"ltp":3.15,"id":8174492}]}]}
+{"op":"mcm","clk":"7660754562","pt":1538840847930,"mc":[{"id":"1.149165349","rc":[{"ltp":1.48,"id":8908205},{"ltp":3.1,"id":8174492}]}]}
+{"op":"mcm","clk":"7660765933","pt":1538840890583,"mc":[{"id":"1.149165349","rc":[{"ltp":2.0,"id":8908205},{"ltp":1.98,"id":8174492}]}]}
+{"op":"mcm","clk":"7660782225","pt":1538840953617,"mc":[{"id":"1.149165349","rc":[{"ltp":2.02,"id":8908205}]}]}
+{"op":"mcm","clk":"7660795525","pt":1538841006799,"mc":[{"id":"1.149165349","rc":[{"ltp":2.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7660810974","pt":1538841077922,"mc":[{"id":"1.149165349","rc":[{"ltp":2.0,"id":8908205},{"ltp":1.98,"id":8174492}]}]}
+{"op":"mcm","clk":"7660828107","pt":1538841163980,"mc":[{"id":"1.149165349","rc":[{"ltp":2.02,"id":8908205}]}]}
+{"op":"mcm","clk":"7660883957","pt":1538841508230,"mc":[{"id":"1.149165349","rc":[{"ltp":1.87,"id":8908205},{"ltp":2.16,"id":8174492}]}]}
+{"op":"mcm","clk":"7660938955","pt":1538841746188,"mc":[{"id":"1.149165349","rc":[{"ltp":1.42,"id":8908205},{"ltp":3.4,"id":8174492}]}]}
+{"op":"mcm","clk":"7660947760","pt":1538841802220,"mc":[{"id":"1.149165349","rc":[{"ltp":1.38,"id":8908205},{"ltp":3.6,"id":8174492}]}]}
+{"op":"mcm","clk":"7660958080","pt":1538841865998,"mc":[{"id":"1.149165349","rc":[{"ltp":1.31,"id":8908205}]}]}
+{"op":"mcm","clk":"7660969971","pt":1538841927711,"mc":[{"id":"1.149165349","rc":[{"ltp":1.34,"id":8908205},{"ltp":4.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7660980398","pt":1538841986224,"mc":[{"id":"1.149165349","rc":[{"ltp":1.42,"id":8908205},{"ltp":3.6,"id":8174492}]}]}
+{"op":"mcm","clk":"7660991218","pt":1538842047364,"mc":[{"id":"1.149165349","rc":[{"ltp":1.43,"id":8908205},{"ltp":2.78,"id":8174492}]}]}
+{"op":"mcm","clk":"7661002554","pt":1538842102855,"mc":[{"id":"1.149165349","rc":[{"ltp":1.97,"id":8908205},{"ltp":2.02,"id":8174492}]}]}
+{"op":"mcm","clk":"7661015083","pt":1538842160247,"mc":[{"id":"1.149165349","rc":[{"ltp":2.42,"id":8908205},{"ltp":1.7,"id":8174492}]}]}
+{"op":"mcm","clk":"7661027463","pt":1538842222385,"mc":[{"id":"1.149165349","rc":[{"ltp":2.02,"id":8908205},{"ltp":2.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7661053298","pt":1538842348016,"mc":[{"id":"1.149165349","rc":[{"ltp":2.08,"id":8908205},{"ltp":1.92,"id":8174492}]}]}
+{"op":"mcm","clk":"7661065119","pt":1538842406833,"mc":[{"id":"1.149165349","rc":[{"ltp":2.4,"id":8908205},{"ltp":1.72,"id":8174492}]}]}
+{"op":"mcm","clk":"7661077529","pt":1538842466605,"mc":[{"id":"1.149165349","rc":[{"ltp":2.32,"id":8908205},{"ltp":1.81,"id":8174492}]}]}
+{"op":"mcm","clk":"7661090317","pt":1538842526564,"mc":[{"id":"1.149165349","rc":[{"ltp":1.76,"id":8174492}]}]}
+{"op":"mcm","clk":"7661103412","pt":1538842588462,"mc":[{"id":"1.149165349","rc":[{"ltp":1.25,"id":8174492}]}]}
+{"op":"mcm","clk":"7661140602","pt":1538842706076,"mc":[{"id":"1.149165349","rc":[{"ltp":1.56,"id":8174492}]}]}
+{"op":"mcm","clk":"7661153200","pt":1538842768282,"mc":[{"id":"1.149165349","rc":[{"ltp":2.2,"id":8908205},{"ltp":1.88,"id":8174492}]}]}
+{"op":"mcm","clk":"7661164041","pt":1538842823581,"mc":[{"id":"1.149165349","rc":[{"ltp":1.8,"id":8174492}]}]}
+{"op":"mcm","clk":"7661176880","pt":1538842888042,"mc":[{"id":"1.149165349","rc":[{"ltp":1.66,"id":8174492}]}]}
+{"op":"mcm","clk":"7661187931","pt":1538842943964,"mc":[{"id":"1.149165349","rc":[{"ltp":1.78,"id":8174492}]}]}
+{"op":"mcm","clk":"7661200299","pt":1538843007195,"mc":[{"id":"1.149165349","rc":[{"ltp":2.56,"id":8908205},{"ltp":1.64,"id":8174492}]}]}
+{"op":"mcm","clk":"7661212315","pt":1538843068206,"mc":[{"id":"1.149165349","rc":[{"ltp":2.06,"id":8908205},{"ltp":1.96,"id":8174492}]}]}
+{"op":"mcm","clk":"7661224663","pt":1538843128463,"mc":[{"id":"1.149165349","rc":[{"ltp":2.12,"id":8908205},{"ltp":1.9,"id":8174492}]}]}
+{"op":"mcm","clk":"7661235383","pt":1538843183041,"mc":[{"id":"1.149165349","rc":[{"ltp":2.96,"id":8908205},{"ltp":1.64,"id":8174492}]}]}
+{"op":"mcm","clk":"7661248212","pt":1538843248212,"mc":[{"id":"1.149165349","rc":[{"ltp":3.05,"id":8908205},{"ltp":1.5,"id":8174492}]}]}
+{"op":"mcm","clk":"7661260636","pt":1538843307924,"mc":[{"id":"1.149165349","rc":[{"ltp":2.96,"id":8908205},{"ltp":1.38,"id":8174492}]}]}
+{"op":"mcm","clk":"7661275313","pt":1538843367046,"mc":[{"id":"1.149165349","rc":[{"ltp":3.15,"id":8908205},{"ltp":1.46,"id":8174492}]}]}
+{"op":"mcm","clk":"7661288509","pt":1538843427054,"mc":[{"id":"1.149165349","rc":[{"ltp":2.12,"id":8908205},{"ltp":1.65,"id":8174492}]}]}
+{"op":"mcm","clk":"7661300959","pt":1538843488487,"mc":[{"id":"1.149165349","rc":[{"ltp":1.75,"id":8908205}]}]}
+{"op":"mcm","clk":"7661326501","pt":1538843547064,"mc":[{"id":"1.149165349","rc":[{"ltp":2.1,"id":8908205},{"ltp":1.9,"id":8174492}]}]}
+{"op":"mcm","clk":"7661338244","pt":1538843602323,"mc":[{"id":"1.149165349","rc":[{"ltp":1.4,"id":8908205}]}]}
+{"op":"mcm","clk":"7661354011","pt":1538843665805,"mc":[{"id":"1.149165349","rc":[{"ltp":1.45,"id":8908205}]}]}
+{"op":"mcm","clk":"7661366757","pt":1538843726854,"mc":[{"id":"1.149165349","rc":[{"ltp":1.48,"id":8908205}]}]}
+{"op":"mcm","clk":"7661379473","pt":1538843788331,"mc":[{"id":"1.149165349","rc":[{"ltp":1.46,"id":8908205},{"ltp":3.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7661404151","pt":1538843903451,"mc":[{"id":"1.149165349","rc":[{"ltp":1.47,"id":8908205}]}]}
+{"op":"mcm","clk":"7661437994","pt":1538844077637,"mc":[{"id":"1.149165349","rc":[{"ltp":1.45,"id":8908205}]}]}
+{"op":"mcm","clk":"7661451048","pt":1538844147148,"mc":[{"id":"1.149165349","rc":[{"ltp":1.46,"id":8908205},{"ltp":3.15,"id":8174492}]}]}
+{"op":"mcm","clk":"7661462678","pt":1538844207567,"mc":[{"id":"1.149165349","rc":[{"ltp":1.35,"id":8908205},{"ltp":3.9,"id":8174492}]}]}
+{"op":"mcm","clk":"7661473861","pt":1538844267423,"mc":[{"id":"1.149165349","rc":[{"ltp":1.3,"id":8908205},{"ltp":4.4,"id":8174492}]}]}
+{"op":"mcm","clk":"7661485693","pt":1538844326361,"mc":[{"id":"1.149165349","rc":[{"ltp":1.33,"id":8908205},{"ltp":3.95,"id":8174492}]}]}
+{"op":"mcm","clk":"7661496482","pt":1538844382647,"mc":[{"id":"1.149165349","rc":[{"ltp":1.34,"id":8908205},{"ltp":4.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7661521927","pt":1538844444694,"mc":[{"id":"1.149165349","rc":[{"ltp":3.55,"id":8174492}]}]}
+{"op":"mcm","clk":"7661533287","pt":1538844505855,"mc":[{"id":"1.149165349","rc":[{"ltp":1.3,"id":8908205},{"ltp":4.3,"id":8174492}]}]}
+{"op":"mcm","clk":"7661543390","pt":1538844565728,"mc":[{"id":"1.149165349","rc":[{"ltp":1.27,"id":8908205},{"ltp":4.7,"id":8174492}]}]}
+{"op":"mcm","clk":"7661563255","pt":1538844685065,"mc":[{"id":"1.149165349","rc":[{"ltp":1.26,"id":8908205}]}]}
+{"op":"mcm","clk":"7661573860","pt":1538844747653,"mc":[{"id":"1.149165349","rc":[{"ltp":1.36,"id":8908205},{"ltp":4.2,"id":8174492}]}]}
+{"op":"mcm","clk":"7661584006","pt":1538844807414,"mc":[{"id":"1.149165349","rc":[{"ltp":1.37,"id":8908205}]}]}
+{"op":"mcm","clk":"7661592775","pt":1538844856171,"mc":[{"id":"1.149165349","rc":[{"ltp":1.28,"id":8908205},{"ltp":3.9,"id":8174492}]}]}
+{"op":"mcm","clk":"7661604183","pt":1538844925054,"mc":[{"id":"1.149165349","rc":[{"ltp":1.27,"id":8908205},{"ltp":4.7,"id":8174492}]}]}
+{"op":"mcm","clk":"7661614561","pt":1538844988355,"mc":[{"id":"1.149165349","rc":[{"ltp":1.21,"id":8908205},{"ltp":5.7,"id":8174492}]}]}
+{"op":"mcm","clk":"7661623971","pt":1538845047508,"mc":[{"id":"1.149165349","rc":[{"ltp":1.1,"id":8908205}]}]}
+{"op":"mcm","clk":"7661633220","pt":1538845105765,"mc":[{"id":"1.149165349","rc":[{"ltp":1.08,"id":8908205}]}]}
+{"op":"mcm","clk":"7661642713","pt":1538845167815,"mc":[{"id":"1.149165349","rc":[{"ltp":1.09,"id":8908205},{"ltp":12.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7661651588","pt":1538845220830,"mc":[{"id":"1.149165349","rc":[{"ltp":1.06,"id":8908205},{"ltp":13.5,"id":8174492}]}]}
+{"op":"mcm","clk":"7661663819","pt":1538845287000,"mc":[{"id":"1.149165349","rc":[{"ltp":1.07,"id":8908205},{"ltp":11.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7661687791","pt":1538845344612,"mc":[{"id":"1.149165349","rc":[{"ltp":1.04,"id":8908205},{"ltp":15.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7661710333","pt":1538845467683,"mc":[{"id":"1.149165349","rc":[{"ltp":1.03,"id":8908205}]}]}
+{"op":"mcm","clk":"7661721741","pt":1538845528227,"mc":[{"id":"1.149165349","rc":[{"ltp":1.02,"id":8908205}]}]}
+{"op":"mcm","clk":"7661732171","pt":1538845587798,"mc":[{"id":"1.149165349","rc":[{"ltp":1.03,"id":8908205},{"ltp":34.0,"id":8174492}]}]}
+{"op":"mcm","clk":"7661742295","pt":1538845645874,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T15:12:00.000Z","suspendTime":"2018-10-06T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"ACTIVE","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T15:12:00.000Z","version":2441593785,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"},"rc":[{"ltp":1.02,"id":8908205}]}]}
+{"op":"mcm","clk":"7661743739","pt":1538845654522,"mc":[{"id":"1.149165349","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941288","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T15:12:00.000Z","suspendTime":"2018-10-06T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T17:07:30.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8908205,"name":"Juan Pablo Ficovich"},{"status":"LOSER","sortPriority":2,"id":8174492,"name":"Tomas Lipovsek Puches"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T15:12:00.000Z","version":2441595207,"name":"Match Odds","eventName":"Ficovich v Lipovsek Puches"}}]}

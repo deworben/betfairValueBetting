@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7673050624","pt":1539189923190,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T15:00:00.000Z","suspendTime":"2018-10-11T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T15:00:00.000Z","version":2448825910,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7673103001","pt":1539190929628,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T15:00:00.000Z","suspendTime":"2018-10-11T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T15:00:00.000Z","version":2448825910,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7676946295","pt":1539252250558,"mc":[{"id":"1.149379062","rc":[{"ltp":1.36,"id":11806314}]}]}
+{"op":"mcm","clk":"7677362462","pt":1539258021313,"mc":[{"id":"1.149379062","rc":[{"ltp":3.5,"id":15383507}]}]}
+{"op":"mcm","clk":"7677661659","pt":1539261608924,"mc":[{"id":"1.149379062","rc":[{"ltp":3.45,"id":15383507}]}]}
+{"op":"mcm","clk":"7678452056","pt":1539269718953,"mc":[{"id":"1.149379062","rc":[{"ltp":1.41,"id":11806314}]}]}
+{"op":"mcm","clk":"7678484486","pt":1539269963509,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T14:56:00.000Z","suspendTime":"2018-10-11T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T14:56:00.000Z","version":2449774122,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7678489081","pt":1539270013123,"mc":[{"id":"1.149379062","rc":[{"ltp":1.37,"id":11806314}]}]}
+{"op":"mcm","clk":"7678554947","pt":1539270686292,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T14:56:00.000Z","suspendTime":"2018-10-11T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T14:56:00.000Z","version":2449788730,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"},"rc":[{"ltp":3.7,"id":15383507}]}]}
+{"op":"mcm","clk":"7678570695","pt":1539270744080,"mc":[{"id":"1.149379062","rc":[{"ltp":3.15,"id":15383507}]}]}
+{"op":"mcm","clk":"7678590249","pt":1539270923508,"mc":[{"id":"1.149379062","rc":[{"ltp":2.74,"id":15383507}]}]}
+{"op":"mcm","clk":"7678609309","pt":1539271092446,"mc":[{"id":"1.149379062","rc":[{"ltp":1.88,"id":11806314}]}]}
+{"op":"mcm","clk":"7678617744","pt":1539271166260,"mc":[{"id":"1.149379062","rc":[{"ltp":1.76,"id":11806314}]}]}
+{"op":"mcm","clk":"7678623905","pt":1539271225923,"mc":[{"id":"1.149379062","rc":[{"ltp":2.98,"id":15383507},{"ltp":1.59,"id":11806314}]}]}
+{"op":"mcm","clk":"7678629870","pt":1539271284990,"mc":[{"id":"1.149379062","rc":[{"ltp":2.88,"id":15383507},{"ltp":1.54,"id":11806314}]}]}
+{"op":"mcm","clk":"7678635681","pt":1539271342159,"mc":[{"id":"1.149379062","rc":[{"ltp":2.84,"id":15383507},{"ltp":1.55,"id":11806314}]}]}
+{"op":"mcm","clk":"7678640984","pt":1539271395695,"mc":[{"id":"1.149379062","rc":[{"ltp":3.0,"id":15383507}]}]}
+{"op":"mcm","clk":"7678648185","pt":1539271466596,"mc":[{"id":"1.149379062","rc":[{"ltp":3.25,"id":15383507},{"ltp":1.45,"id":11806314}]}]}
+{"op":"mcm","clk":"7678653891","pt":1539271523691,"mc":[{"id":"1.149379062","rc":[{"ltp":3.55,"id":15383507},{"ltp":1.46,"id":11806314}]}]}
+{"op":"mcm","clk":"7678659323","pt":1539271581259,"mc":[{"id":"1.149379062","rc":[{"ltp":3.6,"id":15383507},{"ltp":1.41,"id":11806314}]}]}
+{"op":"mcm","clk":"7678675078","pt":1539271642546,"mc":[{"id":"1.149379062","rc":[{"ltp":3.35,"id":15383507},{"ltp":1.43,"id":11806314}]}]}
+{"op":"mcm","clk":"7678686873","pt":1539271764213,"mc":[{"id":"1.149379062","rc":[{"ltp":4.3,"id":15383507},{"ltp":1.3,"id":11806314}]}]}
+{"op":"mcm","clk":"7678696695","pt":1539271863211,"mc":[{"id":"1.149379062","rc":[{"ltp":1.28,"id":11806314}]}]}
+{"op":"mcm","clk":"7678716786","pt":1539272057878,"mc":[{"id":"1.149379062","rc":[{"ltp":3.85,"id":15383507},{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7678730549","pt":1539272186532,"mc":[{"id":"1.149379062","rc":[{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7678736680","pt":1539272244586,"mc":[{"id":"1.149379062","rc":[{"ltp":4.4,"id":15383507},{"ltp":1.3,"id":11806314}]}]}
+{"op":"mcm","clk":"7678741341","pt":1539272285263,"mc":[{"id":"1.149379062","rc":[{"ltp":4.1,"id":15383507},{"ltp":1.31,"id":11806314}]}]}
+{"op":"mcm","clk":"7678749280","pt":1539272352566,"mc":[{"id":"1.149379062","rc":[{"ltp":4.3,"id":15383507},{"ltp":1.29,"id":11806314}]}]}
+{"op":"mcm","clk":"7678757955","pt":1539272425561,"mc":[{"id":"1.149379062","rc":[{"ltp":2.96,"id":15383507},{"ltp":1.52,"id":11806314}]}]}
+{"op":"mcm","clk":"7678780965","pt":1539272543372,"mc":[{"id":"1.149379062","rc":[{"ltp":1.58,"id":11806314}]}]}
+{"op":"mcm","clk":"7678786583","pt":1539272602842,"mc":[{"id":"1.149379062","rc":[{"ltp":3.1,"id":15383507},{"ltp":1.39,"id":11806314}]}]}
+{"op":"mcm","clk":"7678793116","pt":1539272664923,"mc":[{"id":"1.149379062","rc":[{"ltp":3.4,"id":15383507},{"ltp":1.43,"id":11806314}]}]}
+{"op":"mcm","clk":"7678799050","pt":1539272724924,"mc":[{"id":"1.149379062","rc":[{"ltp":1.26,"id":11806314}]}]}
+{"op":"mcm","clk":"7678805422","pt":1539272783744,"mc":[{"id":"1.149379062","rc":[{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7678811730","pt":1539272842784,"mc":[{"id":"1.149379062","rc":[{"ltp":6.8,"id":15383507},{"ltp":1.15,"id":11806314}]}]}
+{"op":"mcm","clk":"7678817363","pt":1539272902466,"mc":[{"id":"1.149379062","rc":[{"ltp":7.6,"id":15383507}]}]}
+{"op":"mcm","clk":"7678829515","pt":1539273024296,"mc":[{"id":"1.149379062","rc":[{"ltp":6.6,"id":15383507}]}]}
+{"op":"mcm","clk":"7678835316","pt":1539273077662,"mc":[{"id":"1.149379062","rc":[{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7678841629","pt":1539273143423,"mc":[{"id":"1.149379062","rc":[{"ltp":6.2,"id":15383507},{"ltp":1.17,"id":11806314}]}]}
+{"op":"mcm","clk":"7678854032","pt":1539273264494,"mc":[{"id":"1.149379062","rc":[{"ltp":6.0,"id":15383507},{"ltp":1.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7678866006","pt":1539273386507,"mc":[{"id":"1.149379062","rc":[{"ltp":3.85,"id":15383507},{"ltp":1.36,"id":11806314}]}]}
+{"op":"mcm","clk":"7678881372","pt":1539273439416,"mc":[{"id":"1.149379062","rc":[{"ltp":1.27,"id":11806314}]}]}
+{"op":"mcm","clk":"7678886787","pt":1539273491687,"mc":[{"id":"1.149379062","rc":[{"ltp":5.6,"id":15383507},{"ltp":1.26,"id":11806314}]}]}
+{"op":"mcm","clk":"7678892413","pt":1539273550763,"mc":[{"id":"1.149379062","rc":[{"ltp":5.4,"id":15383507},{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7678900621","pt":1539273625944,"mc":[{"id":"1.149379062","rc":[{"ltp":4.6,"id":15383507},{"ltp":1.28,"id":11806314}]}]}
+{"op":"mcm","clk":"7678919926","pt":1539273805013,"mc":[{"id":"1.149379062","rc":[{"ltp":7.2,"id":15383507},{"ltp":1.16,"id":11806314}]}]}
+{"op":"mcm","clk":"7678926795","pt":1539273866633,"mc":[{"id":"1.149379062","rc":[{"ltp":6.0,"id":15383507},{"ltp":1.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7678932015","pt":1539273916789,"mc":[{"id":"1.149379062","rc":[{"ltp":5.1,"id":15383507},{"ltp":1.24,"id":11806314}]}]}
+{"op":"mcm","clk":"7678939499","pt":1539273984809,"mc":[{"id":"1.149379062","rc":[{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7678946703","pt":1539274046669,"mc":[{"id":"1.149379062","rc":[{"ltp":6.0,"id":15383507},{"ltp":1.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7678953014","pt":1539274106003,"mc":[{"id":"1.149379062","rc":[{"ltp":5.5,"id":15383507},{"ltp":1.22,"id":11806314}]}]}
+{"op":"mcm","clk":"7678960117","pt":1539274166168,"mc":[{"id":"1.149379062","rc":[{"ltp":1.16,"id":11806314}]}]}
+{"op":"mcm","clk":"7678967157","pt":1539274226546,"mc":[{"id":"1.149379062","rc":[{"ltp":1.12,"id":11806314}]}]}
+{"op":"mcm","clk":"7678974305","pt":1539274285838,"mc":[{"id":"1.149379062","rc":[{"ltp":18.0,"id":15383507},{"ltp":1.06,"id":11806314}]}]}
+{"op":"mcm","clk":"7678989994","pt":1539274338103,"mc":[{"id":"1.149379062","rc":[{"ltp":17.5,"id":15383507}]}]}
+{"op":"mcm","clk":"7678997614","pt":1539274402855,"mc":[{"id":"1.149379062","rc":[{"ltp":12.0,"id":15383507},{"ltp":1.08,"id":11806314}]}]}
+{"op":"mcm","clk":"7679004349","pt":1539274463298,"mc":[{"id":"1.149379062","rc":[{"ltp":1.11,"id":11806314}]}]}
+{"op":"mcm","clk":"7679012146","pt":1539274526295,"mc":[{"id":"1.149379062","rc":[{"ltp":8.8,"id":15383507},{"ltp":1.13,"id":11806314}]}]}
+{"op":"mcm","clk":"7679019167","pt":1539274585172,"mc":[{"id":"1.149379062","rc":[{"ltp":7.0,"id":15383507},{"ltp":1.17,"id":11806314}]}]}
+{"op":"mcm","clk":"7679025849","pt":1539274641831,"mc":[{"id":"1.149379062","rc":[{"ltp":8.6,"id":15383507},{"ltp":1.13,"id":11806314}]}]}
+{"op":"mcm","clk":"7679032997","pt":1539274702577,"mc":[{"id":"1.149379062","rc":[{"ltp":5.6,"id":15383507},{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7679039814","pt":1539274765360,"mc":[{"id":"1.149379062","rc":[{"ltp":6.4,"id":15383507},{"ltp":1.1,"id":11806314}]}]}
+{"op":"mcm","clk":"7679045927","pt":1539274822100,"mc":[{"id":"1.149379062","rc":[{"ltp":21.0,"id":15383507},{"ltp":1.06,"id":11806314}]}]}
+{"op":"mcm","clk":"7679052194","pt":1539274884892,"mc":[{"id":"1.149379062","rc":[{"ltp":12.0,"id":15383507},{"ltp":1.09,"id":11806314}]}]}
+{"op":"mcm","clk":"7679058311","pt":1539274944547,"mc":[{"id":"1.149379062","rc":[{"ltp":1.06,"id":11806314}]}]}
+{"op":"mcm","clk":"7679064280","pt":1539275004426,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T14:56:00.000Z","suspendTime":"2018-10-11T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T14:56:00.000Z","version":2449864580,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"},"rc":[{"ltp":36.0,"id":15383507},{"ltp":1.02,"id":11806314}]}]}
+{"op":"mcm","clk":"7679068071","pt":1539275042316,"mc":[{"id":"1.149379062","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949735","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T14:56:00.000Z","suspendTime":"2018-10-11T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-11T16:23:59.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":15383507,"name":"Bencic/Haas"},{"status":"WINNER","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T14:56:00.000Z","version":2449864840,"name":"Match Odds","eventName":"Bencic/Haas v Flipkens/Larsson"}}]}

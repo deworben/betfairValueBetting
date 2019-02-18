@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7835762727","pt":1540798201275,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:00:00.000Z","suspendTime":"2018-10-30T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:00:00.000Z","version":2484354294,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}
+{"op":"mcm","clk":"7835771832","pt":1540798478470,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:00:00.000Z","suspendTime":"2018-10-30T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:00:00.000Z","version":2484356179,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}
+{"op":"mcm","clk":"7840330861","pt":1540851598488,"mc":[{"id":"1.150396998","rc":[{"ltp":3.95,"id":8173027},{"ltp":1.31,"id":9633377}]}]}
+{"op":"mcm","clk":"7840406341","pt":1540853229323,"mc":[{"id":"1.150396998","rc":[{"ltp":1.27,"id":9633377}]}]}
+{"op":"mcm","clk":"7840935512","pt":1540864731317,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T03:56:00.000Z","suspendTime":"2018-10-30T03:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T03:56:00.000Z","version":2485389929,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}
+{"op":"mcm","clk":"7840980978","pt":1540866285592,"mc":[{"id":"1.150396998","rc":[{"ltp":4.8,"id":8173027}]}]}
+{"op":"mcm","clk":"7841055525","pt":1540868241821,"mc":[{"id":"1.150396998","rc":[{"ltp":1.3,"id":9633377}]}]}
+{"op":"mcm","clk":"7841102267","pt":1540869548383,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T03:15:00.000Z","suspendTime":"2018-10-30T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T03:15:00.000Z","version":2485429113,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}
+{"op":"mcm","clk":"7841127314","pt":1540870161332,"mc":[{"id":"1.150396998","rc":[{"ltp":1.28,"id":9633377}]}]}
+{"op":"mcm","clk":"7841133132","pt":1540870342293,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T03:15:00.000Z","suspendTime":"2018-10-30T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T03:15:00.000Z","version":2485437058,"name":"Match Odds","eventName":"Mukund v Y Wu"},"rc":[{"ltp":4.3,"id":8173027},{"ltp":1.33,"id":9633377}]}]}
+{"op":"mcm","clk":"7841135470","pt":1540870401355,"mc":[{"id":"1.150396998","rc":[{"ltp":1.3,"id":9633377}]}]}
+{"op":"mcm","clk":"7841137376","pt":1540870458809,"mc":[{"id":"1.150396998","rc":[{"ltp":1.35,"id":9633377}]}]}
+{"op":"mcm","clk":"7841139889","pt":1540870522231,"mc":[{"id":"1.150396998","rc":[{"ltp":3.55,"id":8173027},{"ltp":1.39,"id":9633377}]}]}
+{"op":"mcm","clk":"7841141870","pt":1540870580670,"mc":[{"id":"1.150396998","rc":[{"ltp":3.5,"id":8173027},{"ltp":1.41,"id":9633377}]}]}
+{"op":"mcm","clk":"7841145236","pt":1540870701817,"mc":[{"id":"1.150396998","rc":[{"ltp":1.38,"id":9633377}]}]}
+{"op":"mcm","clk":"7841147479","pt":1540870761870,"mc":[{"id":"1.150396998","rc":[{"ltp":3.8,"id":8173027},{"ltp":1.42,"id":9633377}]}]}
+{"op":"mcm","clk":"7841149254","pt":1540870821493,"mc":[{"id":"1.150396998","rc":[{"ltp":2.92,"id":8173027},{"ltp":1.52,"id":9633377}]}]}
+{"op":"mcm","clk":"7841151617","pt":1540870881539,"mc":[{"id":"1.150396998","rc":[{"ltp":2.36,"id":8173027},{"ltp":1.73,"id":9633377}]}]}
+{"op":"mcm","clk":"7841164384","pt":1540870940939,"mc":[{"id":"1.150396998","rc":[{"ltp":2.84,"id":8173027},{"ltp":1.56,"id":9633377}]}]}
+{"op":"mcm","clk":"7841166250","pt":1540871002392,"mc":[{"id":"1.150396998","rc":[{"ltp":3.55,"id":8173027},{"ltp":1.39,"id":9633377}]}]}
+{"op":"mcm","clk":"7841168195","pt":1540871059364,"mc":[{"id":"1.150396998","rc":[{"ltp":1.4,"id":9633377}]}]}
+{"op":"mcm","clk":"7841170780","pt":1540871121379,"mc":[{"id":"1.150396998","rc":[{"ltp":3.75,"id":8173027},{"ltp":1.34,"id":9633377}]}]}
+{"op":"mcm","clk":"7841172915","pt":1540871181602,"mc":[{"id":"1.150396998","rc":[{"ltp":1.43,"id":9633377}]}]}
+{"op":"mcm","clk":"7841174856","pt":1540871242518,"mc":[{"id":"1.150396998","rc":[{"ltp":3.9,"id":8173027},{"ltp":1.35,"id":9633377}]}]}
+{"op":"mcm","clk":"7841176514","pt":1540871301805,"mc":[{"id":"1.150396998","rc":[{"ltp":3.3,"id":8173027},{"ltp":1.39,"id":9633377}]}]}
+{"op":"mcm","clk":"7841178480","pt":1540871362465,"mc":[{"id":"1.150396998","rc":[{"ltp":3.5,"id":8173027},{"ltp":1.46,"id":9633377}]}]}
+{"op":"mcm","clk":"7841180067","pt":1540871421009,"mc":[{"id":"1.150396998","rc":[{"ltp":3.35,"id":8173027},{"ltp":1.43,"id":9633377}]}]}
+{"op":"mcm","clk":"7841182058","pt":1540871482329,"mc":[{"id":"1.150396998","rc":[{"ltp":3.4,"id":8173027},{"ltp":1.55,"id":9633377}]}]}
+{"op":"mcm","clk":"7841183922","pt":1540871541446,"mc":[{"id":"1.150396998","rc":[{"ltp":3.65,"id":8173027},{"ltp":1.38,"id":9633377}]}]}
+{"op":"mcm","clk":"7841185528","pt":1540871601928,"mc":[{"id":"1.150396998","rc":[{"ltp":4.2,"id":8173027},{"ltp":1.31,"id":9633377}]}]}
+{"op":"mcm","clk":"7841187067","pt":1540871661988,"mc":[{"id":"1.150396998","rc":[{"ltp":1.29,"id":9633377}]}]}
+{"op":"mcm","clk":"7841188732","pt":1540871722470,"mc":[{"id":"1.150396998","rc":[{"ltp":1.17,"id":9633377}]}]}
+{"op":"mcm","clk":"7841203358","pt":1540871839839,"mc":[{"id":"1.150396998","rc":[{"ltp":1.13,"id":9633377}]}]}
+{"op":"mcm","clk":"7841205126","pt":1540871900979,"mc":[{"id":"1.150396998","rc":[{"ltp":1.18,"id":9633377}]}]}
+{"op":"mcm","clk":"7841206668","pt":1540871960620,"mc":[{"id":"1.150396998","rc":[{"ltp":5.1,"id":8173027},{"ltp":1.26,"id":9633377}]}]}
+{"op":"mcm","clk":"7841208275","pt":1540872021886,"mc":[{"id":"1.150396998","rc":[{"ltp":1.36,"id":9633377}]}]}
+{"op":"mcm","clk":"7841210150","pt":1540872082024,"mc":[{"id":"1.150396998","rc":[{"ltp":5.3,"id":8173027},{"ltp":1.25,"id":9633377}]}]}
+{"op":"mcm","clk":"7841212003","pt":1540872141872,"mc":[{"id":"1.150396998","rc":[{"ltp":6.4,"id":8173027},{"ltp":1.18,"id":9633377}]}]}
+{"op":"mcm","clk":"7841214155","pt":1540872202399,"mc":[{"id":"1.150396998","rc":[{"ltp":1.35,"id":9633377}]}]}
+{"op":"mcm","clk":"7841216660","pt":1540872261495,"mc":[{"id":"1.150396998","rc":[{"ltp":3.3,"id":8173027},{"ltp":1.34,"id":9633377}]}]}
+{"op":"mcm","clk":"7841218868","pt":1540872319931,"mc":[{"id":"1.150396998","rc":[{"ltp":1.25,"id":9633377}]}]}
+{"op":"mcm","clk":"7841220999","pt":1540872382391,"mc":[{"id":"1.150396998","rc":[{"ltp":1.45,"id":9633377}]}]}
+{"op":"mcm","clk":"7841222386","pt":1540872433796,"mc":[{"id":"1.150396998","rc":[{"ltp":2.92,"id":8173027},{"ltp":1.49,"id":9633377}]}]}
+{"op":"mcm","clk":"7841224987","pt":1540872502425,"mc":[{"id":"1.150396998","rc":[{"ltp":2.58,"id":8173027}]}]}
+{"op":"mcm","clk":"7841226694","pt":1540872561891,"mc":[{"id":"1.150396998","rc":[{"ltp":3.5,"id":8173027},{"ltp":1.45,"id":9633377}]}]}
+{"op":"mcm","clk":"7841228462","pt":1540872621911,"mc":[{"id":"1.150396998","rc":[{"ltp":1.58,"id":9633377}]}]}
+{"op":"mcm","clk":"7841230374","pt":1540872682528,"mc":[{"id":"1.150396998","rc":[{"ltp":3.65,"id":8173027},{"ltp":1.4,"id":9633377}]}]}
+{"op":"mcm","clk":"7841243083","pt":1540872742351,"mc":[{"id":"1.150396998","rc":[{"ltp":3.7,"id":8173027},{"ltp":1.36,"id":9633377}]}]}
+{"op":"mcm","clk":"7841244827","pt":1540872801398,"mc":[{"id":"1.150396998","rc":[{"ltp":3.25,"id":8173027},{"ltp":1.46,"id":9633377}]}]}
+{"op":"mcm","clk":"7841247236","pt":1540872860775,"mc":[{"id":"1.150396998","rc":[{"ltp":2.78,"id":8173027},{"ltp":1.56,"id":9633377}]}]}
+{"op":"mcm","clk":"7841249897","pt":1540872921646,"mc":[{"id":"1.150396998","rc":[{"ltp":2.44,"id":8173027},{"ltp":1.66,"id":9633377}]}]}
+{"op":"mcm","clk":"7841251811","pt":1540872980982,"mc":[{"id":"1.150396998","rc":[{"ltp":2.46,"id":8173027},{"ltp":1.58,"id":9633377}]}]}
+{"op":"mcm","clk":"7841253250","pt":1540873041730,"mc":[{"id":"1.150396998","rc":[{"ltp":2.66,"id":8173027},{"ltp":1.59,"id":9633377}]}]}
+{"op":"mcm","clk":"7841255033","pt":1540873101587,"mc":[{"id":"1.150396998","rc":[{"ltp":3.4,"id":8173027},{"ltp":1.41,"id":9633377}]}]}
+{"op":"mcm","clk":"7841256857","pt":1540873162338,"mc":[{"id":"1.150396998","rc":[{"ltp":2.42,"id":8173027},{"ltp":1.7,"id":9633377}]}]}
+{"op":"mcm","clk":"7841258457","pt":1540873222498,"mc":[{"id":"1.150396998","rc":[{"ltp":3.3,"id":8173027},{"ltp":1.43,"id":9633377}]}]}
+{"op":"mcm","clk":"7841259933","pt":1540873282075,"mc":[{"id":"1.150396998","rc":[{"ltp":2.78,"id":8173027},{"ltp":1.54,"id":9633377}]}]}
+{"op":"mcm","clk":"7841261295","pt":1540873342148,"mc":[{"id":"1.150396998","rc":[{"ltp":2.24,"id":8173027},{"ltp":1.8,"id":9633377}]}]}
+{"op":"mcm","clk":"7841262722","pt":1540873402388,"mc":[{"id":"1.150396998","rc":[{"ltp":2.14,"id":8173027},{"ltp":1.87,"id":9633377}]}]}
+{"op":"mcm","clk":"7841264241","pt":1540873462088,"mc":[{"id":"1.150396998","rc":[{"ltp":2.66,"id":8173027},{"ltp":1.65,"id":9633377}]}]}
+{"op":"mcm","clk":"7841265916","pt":1540873522295,"mc":[{"id":"1.150396998","rc":[{"ltp":1.77,"id":8173027},{"ltp":2.28,"id":9633377}]}]}
+{"op":"mcm","clk":"7841267639","pt":1540873582264,"mc":[{"id":"1.150396998","rc":[{"ltp":1.8,"id":8173027},{"ltp":2.22,"id":9633377}]}]}
+{"op":"mcm","clk":"7841280226","pt":1540873641756,"mc":[{"id":"1.150396998","rc":[{"ltp":1.69,"id":8173027},{"ltp":2.44,"id":9633377}]}]}
+{"op":"mcm","clk":"7841281844","pt":1540873701093,"mc":[{"id":"1.150396998","rc":[{"ltp":1.85,"id":8173027},{"ltp":2.12,"id":9633377}]}]}
+{"op":"mcm","clk":"7841283466","pt":1540873762501,"mc":[{"id":"1.150396998","rc":[{"ltp":1.6,"id":8173027},{"ltp":2.66,"id":9633377}]}]}
+{"op":"mcm","clk":"7841284942","pt":1540873822436,"mc":[{"id":"1.150396998","rc":[{"ltp":1.4,"id":8173027},{"ltp":3.5,"id":9633377}]}]}
+{"op":"mcm","clk":"7841286556","pt":1540873882373,"mc":[{"id":"1.150396998","rc":[{"ltp":1.32,"id":8173027},{"ltp":4.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841288233","pt":1540873942203,"mc":[{"id":"1.150396998","rc":[{"ltp":1.27,"id":8173027},{"ltp":4.3,"id":9633377}]}]}
+{"op":"mcm","clk":"7841290509","pt":1540874002482,"mc":[{"id":"1.150396998","rc":[{"ltp":1.29,"id":8173027},{"ltp":4.4,"id":9633377}]}]}
+{"op":"mcm","clk":"7841292946","pt":1540874062089,"mc":[{"id":"1.150396998","rc":[{"ltp":1.18,"id":8173027},{"ltp":6.4,"id":9633377}]}]}
+{"op":"mcm","clk":"7841295261","pt":1540874122242,"mc":[{"id":"1.150396998","rc":[{"ltp":1.29,"id":8173027},{"ltp":4.4,"id":9633377}]}]}
+{"op":"mcm","clk":"7841296946","pt":1540874182429,"mc":[{"id":"1.150396998","rc":[{"ltp":1.34,"id":8173027},{"ltp":3.85,"id":9633377}]}]}
+{"op":"mcm","clk":"7841298494","pt":1540874242307,"mc":[{"id":"1.150396998","rc":[{"ltp":1.26,"id":8173027},{"ltp":3.95,"id":9633377}]}]}
+{"op":"mcm","clk":"7841300786","pt":1540874302300,"mc":[{"id":"1.150396998","rc":[{"ltp":1.21,"id":8173027},{"ltp":6.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841303114","pt":1540874362270,"mc":[{"id":"1.150396998","rc":[{"ltp":1.2,"id":8173027},{"ltp":6.2,"id":9633377}]}]}
+{"op":"mcm","clk":"7841305211","pt":1540874422292,"mc":[{"id":"1.150396998","rc":[{"ltp":1.14,"id":8173027}]}]}
+{"op":"mcm","clk":"7841307852","pt":1540874482381,"mc":[{"id":"1.150396998","rc":[{"ltp":1.05,"id":8173027},{"ltp":21.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841322819","pt":1540874601286,"mc":[{"id":"1.150396998","rc":[{"ltp":1.03,"id":8173027},{"ltp":50.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841324690","pt":1540874661536,"mc":[{"id":"1.150396998","rc":[{"ltp":1.08,"id":8173027},{"ltp":34.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841326530","pt":1540874722511,"mc":[{"id":"1.150396998","rc":[{"ltp":1.04,"id":8173027},{"ltp":18.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841328775","pt":1540874782002,"mc":[{"id":"1.150396998","rc":[{"ltp":1.02,"id":8173027},{"ltp":50.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841332775","pt":1540874901655,"mc":[{"id":"1.150396998","rc":[{"ltp":1.03,"id":8173027}]}]}
+{"op":"mcm","clk":"7841334902","pt":1540874961712,"mc":[{"id":"1.150396998","rc":[{"ltp":1.01,"id":8173027}]}]}
+{"op":"mcm","clk":"7841336743","pt":1540875020815,"mc":[{"id":"1.150396998","rc":[{"ltp":100.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841338211","pt":1540875081117,"mc":[{"id":"1.150396998","rc":[{"ltp":1.02,"id":8173027},{"ltp":50.0,"id":9633377}]}]}
+{"op":"mcm","clk":"7841339944","pt":1540875140674,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T03:15:00.000Z","suspendTime":"2018-10-30T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"ACTIVE","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T03:15:00.000Z","version":2485451844,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}
+{"op":"mcm","clk":"7841340282","pt":1540875151706,"mc":[{"id":"1.150396998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982552","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T03:15:00.000Z","suspendTime":"2018-10-30T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T04:52:23.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8173027,"name":"Sasi Kumar Mukund"},{"status":"LOSER","sortPriority":2,"id":9633377,"name":"Yibing Wu"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T03:15:00.000Z","version":2485452000,"name":"Match Odds","eventName":"Mukund v Y Wu"}}]}

@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7607906678","pt":1538554828663,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T04:00:00.000Z","suspendTime":"2018-10-04T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T04:00:00.000Z","version":2435035841,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7607916757","pt":1538554939712,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T04:00:00.000Z","suspendTime":"2018-10-04T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T04:00:00.000Z","version":2435035841,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7609755706","pt":1538570960089,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T06:00:00.000Z","suspendTime":"2018-10-04T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T06:00:00.000Z","version":2435323742,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7613327864","pt":1538600290294,"mc":[{"id":"1.149026343","rc":[{"ltp":1.74,"id":2258415}]}]}
+{"op":"mcm","clk":"7613418212","pt":1538601513758,"mc":[{"id":"1.149026343","rc":[{"ltp":2.36,"id":2581407}]}]}
+{"op":"mcm","clk":"7615073561","pt":1538620353896,"mc":[{"id":"1.149026343","rc":[{"ltp":1.8,"id":2258415}]}]}
+{"op":"mcm","clk":"7615383892","pt":1538624873419,"mc":[{"id":"1.149026343","rc":[{"ltp":1.74,"id":2258415}]}]}
+{"op":"mcm","clk":"7615434703","pt":1538625692885,"mc":[{"id":"1.149026343","rc":[{"ltp":1.73,"id":2258415}]}]}
+{"op":"mcm","clk":"7615437347","pt":1538625753781,"mc":[{"id":"1.149026343","rc":[{"ltp":1.74,"id":2258415}]}]}
+{"op":"mcm","clk":"7615440406","pt":1538625813802,"mc":[{"id":"1.149026343","rc":[{"ltp":2.28,"id":2581407},{"ltp":1.72,"id":2258415}]}]}
+{"op":"mcm","clk":"7615550644","pt":1538627781285,"mc":[{"id":"1.149026343","rc":[{"ltp":2.3,"id":2581407}]}]}
+{"op":"mcm","clk":"7615711156","pt":1538630696669,"mc":[{"id":"1.149026343","rc":[{"ltp":1.74,"id":2258415}]}]}
+{"op":"mcm","clk":"7615742955","pt":1538631093614,"mc":[{"id":"1.149026343","rc":[{"ltp":2.28,"id":2581407}]}]}
+{"op":"mcm","clk":"7615805366","pt":1538632183543,"mc":[{"id":"1.149026343","rc":[{"ltp":1.72,"id":2258415}]}]}
+{"op":"mcm","clk":"7615818691","pt":1538632503297,"mc":[{"id":"1.149026343","rc":[{"ltp":2.3,"id":2581407}]}]}
+{"op":"mcm","clk":"7615842906","pt":1538632756337,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T06:15:00.000Z","suspendTime":"2018-10-04T06:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T06:15:00.000Z","version":2436477003,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7615860232","pt":1538633057474,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T06:00:00.000Z","suspendTime":"2018-10-04T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T06:00:00.000Z","version":2436479591,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7615870661","pt":1538633253496,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T06:00:00.000Z","suspendTime":"2018-10-04T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"ACTIVE","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T06:00:00.000Z","version":2436480159,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}
+{"op":"mcm","clk":"7615873902","pt":1538633313597,"mc":[{"id":"1.149026343","rc":[{"ltp":2.46,"id":2581407},{"ltp":1.64,"id":2258415}]}]}
+{"op":"mcm","clk":"7615876403","pt":1538633372970,"mc":[{"id":"1.149026343","rc":[{"ltp":2.4,"id":2581407},{"ltp":1.71,"id":2258415}]}]}
+{"op":"mcm","clk":"7615879152","pt":1538633433878,"mc":[{"id":"1.149026343","rc":[{"ltp":2.5,"id":2581407},{"ltp":1.66,"id":2258415}]}]}
+{"op":"mcm","clk":"7615881691","pt":1538633490926,"mc":[{"id":"1.149026343","rc":[{"ltp":1.54,"id":2258415}]}]}
+{"op":"mcm","clk":"7615897309","pt":1538633553729,"mc":[{"id":"1.149026343","rc":[{"ltp":2.84,"id":2581407},{"ltp":1.43,"id":2258415}]}]}
+{"op":"mcm","clk":"7615899528","pt":1538633613824,"mc":[{"id":"1.149026343","rc":[{"ltp":3.85,"id":2581407},{"ltp":1.37,"id":2258415}]}]}
+{"op":"mcm","clk":"7615901393","pt":1538633673920,"mc":[{"id":"1.149026343","rc":[{"ltp":1.32,"id":2258415}]}]}
+{"op":"mcm","clk":"7615903274","pt":1538633731193,"mc":[{"id":"1.149026343","rc":[{"ltp":3.7,"id":2581407},{"ltp":1.36,"id":2258415}]}]}
+{"op":"mcm","clk":"7615905295","pt":1538633793767,"mc":[{"id":"1.149026343","rc":[{"ltp":1.4,"id":2258415}]}]}
+{"op":"mcm","clk":"7615907188","pt":1538633842779,"mc":[{"id":"1.149026343","rc":[{"ltp":1.32,"id":2258415}]}]}
+{"op":"mcm","clk":"7615909881","pt":1538633911700,"mc":[{"id":"1.149026343","rc":[{"ltp":4.3,"id":2581407},{"ltp":1.3,"id":2258415}]}]}
+{"op":"mcm","clk":"7615912159","pt":1538633973006,"mc":[{"id":"1.149026343","rc":[{"ltp":5.2,"id":2581407},{"ltp":1.24,"id":2258415}]}]}
+{"op":"mcm","clk":"7615914786","pt":1538634031784,"mc":[{"id":"1.149026343","rc":[{"ltp":5.0,"id":2581407},{"ltp":1.25,"id":2258415}]}]}
+{"op":"mcm","clk":"7615916927","pt":1538634093897,"mc":[{"id":"1.149026343","rc":[{"ltp":5.8,"id":2581407},{"ltp":1.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7615918921","pt":1538634153845,"mc":[{"id":"1.149026343","rc":[{"ltp":6.2,"id":2581407},{"ltp":1.19,"id":2258415}]}]}
+{"op":"mcm","clk":"7615923334","pt":1538634273912,"mc":[{"id":"1.149026343","rc":[{"ltp":1.18,"id":2258415}]}]}
+{"op":"mcm","clk":"7615925668","pt":1538634334072,"mc":[{"id":"1.149026343","rc":[{"ltp":1.19,"id":2258415}]}]}
+{"op":"mcm","clk":"7615928070","pt":1538634394055,"mc":[{"id":"1.149026343","rc":[{"ltp":6.4,"id":2581407},{"ltp":1.18,"id":2258415}]}]}
+{"op":"mcm","clk":"7615945890","pt":1538634513772,"mc":[{"id":"1.149026343","rc":[{"ltp":5.3,"id":2581407},{"ltp":1.23,"id":2258415}]}]}
+{"op":"mcm","clk":"7615948432","pt":1538634572083,"mc":[{"id":"1.149026343","rc":[{"ltp":1.22,"id":2258415}]}]}
+{"op":"mcm","clk":"7615950335","pt":1538634619461,"mc":[{"id":"1.149026343","rc":[{"ltp":5.5,"id":2581407},{"ltp":1.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7615953087","pt":1538634691016,"mc":[{"id":"1.149026343","rc":[{"ltp":6.0,"id":2581407}]}]}
+{"op":"mcm","clk":"7615955440","pt":1538634750347,"mc":[{"id":"1.149026343","rc":[{"ltp":5.5,"id":2581407},{"ltp":1.19,"id":2258415}]}]}
+{"op":"mcm","clk":"7615957813","pt":1538634806375,"mc":[{"id":"1.149026343","rc":[{"ltp":6.2,"id":2581407}]}]}
+{"op":"mcm","clk":"7615960752","pt":1538634873182,"mc":[{"id":"1.149026343","rc":[{"ltp":6.6,"id":2581407},{"ltp":1.16,"id":2258415}]}]}
+{"op":"mcm","clk":"7615963187","pt":1538634930374,"mc":[{"id":"1.149026343","rc":[{"ltp":5.5,"id":2581407},{"ltp":1.22,"id":2258415}]}]}
+{"op":"mcm","clk":"7615965689","pt":1538634992514,"mc":[{"id":"1.149026343","rc":[{"ltp":5.1,"id":2581407},{"ltp":1.23,"id":2258415}]}]}
+{"op":"mcm","clk":"7615970328","pt":1538635112992,"mc":[{"id":"1.149026343","rc":[{"ltp":5.7,"id":2581407}]}]}
+{"op":"mcm","clk":"7615972763","pt":1538635173585,"mc":[{"id":"1.149026343","rc":[{"ltp":4.6,"id":2581407},{"ltp":1.28,"id":2258415}]}]}
+{"op":"mcm","clk":"7615975132","pt":1538635232702,"mc":[{"id":"1.149026343","rc":[{"ltp":3.15,"id":2581407},{"ltp":1.47,"id":2258415}]}]}
+{"op":"mcm","clk":"7615977520","pt":1538635294064,"mc":[{"id":"1.149026343","rc":[{"ltp":3.2,"id":2581407},{"ltp":1.45,"id":2258415}]}]}
+{"op":"mcm","clk":"7615992397","pt":1538635350716,"mc":[{"id":"1.149026343","rc":[{"ltp":4.1,"id":2581407},{"ltp":1.33,"id":2258415}]}]}
+{"op":"mcm","clk":"7615995149","pt":1538635414024,"mc":[{"id":"1.149026343","rc":[{"ltp":1.24,"id":2258415}]}]}
+{"op":"mcm","clk":"7615997376","pt":1538635471474,"mc":[{"id":"1.149026343","rc":[{"ltp":4.8,"id":2581407}]}]}
+{"op":"mcm","clk":"7615999956","pt":1538635533359,"mc":[{"id":"1.149026343","rc":[{"ltp":4.0,"id":2581407},{"ltp":1.27,"id":2258415}]}]}
+{"op":"mcm","clk":"7616002843","pt":1538635593460,"mc":[{"id":"1.149026343","rc":[{"ltp":1.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7616005655","pt":1538635653633,"mc":[{"id":"1.149026343","rc":[{"ltp":6.0,"id":2581407}]}]}
+{"op":"mcm","clk":"7616008192","pt":1538635713818,"mc":[{"id":"1.149026343","rc":[{"ltp":1.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7616011199","pt":1538635773987,"mc":[{"id":"1.149026343","rc":[{"ltp":10.0,"id":2581407},{"ltp":1.11,"id":2258415}]}]}
+{"op":"mcm","clk":"7616013615","pt":1538635832691,"mc":[{"id":"1.149026343","rc":[{"ltp":15.0,"id":2581407},{"ltp":1.07,"id":2258415}]}]}
+{"op":"mcm","clk":"7616016295","pt":1538635893194,"mc":[{"id":"1.149026343","rc":[{"ltp":1.09,"id":2258415}]}]}
+{"op":"mcm","clk":"7616020883","pt":1538636013116,"mc":[{"id":"1.149026343","rc":[{"ltp":22.0,"id":2581407},{"ltp":1.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7616023383","pt":1538636069868,"mc":[{"id":"1.149026343","rc":[{"ltp":1.07,"id":2258415}]}]}
+{"op":"mcm","clk":"7616026137","pt":1538636131350,"mc":[{"id":"1.149026343","rc":[{"ltp":15.0,"id":2581407}]}]}
+{"op":"mcm","clk":"7616043642","pt":1538636253512,"mc":[{"id":"1.149026343","rc":[{"ltp":1.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7616045792","pt":1538636312874,"mc":[{"id":"1.149026343","rc":[{"ltp":1.12,"id":2258415}]}]}
+{"op":"mcm","clk":"7616048125","pt":1538636372971,"mc":[{"id":"1.149026343","rc":[{"ltp":8.0,"id":2581407},{"ltp":1.13,"id":2258415}]}]}
+{"op":"mcm","clk":"7616050628","pt":1538636433751,"mc":[{"id":"1.149026343","rc":[{"ltp":5.2,"id":2581407},{"ltp":1.23,"id":2258415}]}]}
+{"op":"mcm","clk":"7616053045","pt":1538636492625,"mc":[{"id":"1.149026343","rc":[{"ltp":9.4,"id":2581407},{"ltp":1.13,"id":2258415}]}]}
+{"op":"mcm","clk":"7616055741","pt":1538636551309,"mc":[{"id":"1.149026343","rc":[{"ltp":1.07,"id":2258415}]}]}
+{"op":"mcm","clk":"7616058608","pt":1538636613486,"mc":[{"id":"1.149026343","rc":[{"ltp":1.13,"id":2258415}]}]}
+{"op":"mcm","clk":"7616061016","pt":1538636673450,"mc":[{"id":"1.149026343","rc":[{"ltp":1.21,"id":2258415}]}]}
+{"op":"mcm","clk":"7616063630","pt":1538636726601,"mc":[{"id":"1.149026343","rc":[{"ltp":1.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7616066911","pt":1538636792616,"mc":[{"id":"1.149026343","rc":[{"ltp":1.14,"id":2258415}]}]}
+{"op":"mcm","clk":"7616072806","pt":1538636912850,"mc":[{"id":"1.149026343","rc":[{"ltp":7.6,"id":2581407},{"ltp":1.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7616075360","pt":1538636973434,"mc":[{"id":"1.149026343","rc":[{"ltp":21.0,"id":2581407},{"ltp":1.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7616077986","pt":1538637033802,"mc":[{"id":"1.149026343","rc":[{"ltp":50.0,"id":2581407},{"ltp":1.06,"id":2258415}]}]}
+{"op":"mcm","clk":"7616080464","pt":1538637088777,"mc":[{"id":"1.149026343","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936394","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T06:00:00.000Z","suspendTime":"2018-10-04T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-04T07:11:23.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":2581407,"name":"Tobias Kamke"},{"status":"WINNER","sortPriority":2,"id":2258415,"name":"Lukas Rosol"}],"regulators":["MR_INT"],"countryCode":"KZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T06:00:00.000Z","version":2436502664,"name":"Match Odds","eventName":"Kamke v Rosol"}}]}

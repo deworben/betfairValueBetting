@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7747469682","pt":1539872971166,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:00:00.000Z","suspendTime":"2018-10-19T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:00:00.000Z","version":2460605637,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7747508473","pt":1539873314201,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:00:00.000Z","suspendTime":"2018-10-19T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:00:00.000Z","version":2460605637,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7747600076","pt":1539874420952,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T11:00:00.000Z","suspendTime":"2018-10-19T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T11:00:00.000Z","version":2460626640,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7750489520","pt":1539900926513,"mc":[{"id":"1.149775100","rc":[{"ltp":1.26,"id":11806314}]}]}
+{"op":"mcm","clk":"7751600444","pt":1539916494808,"mc":[{"id":"1.149775100","rc":[{"ltp":1.32,"id":11806314}]}]}
+{"op":"mcm","clk":"7751838367","pt":1539919963085,"mc":[{"id":"1.149775100","rc":[{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7753567517","pt":1539939822600,"mc":[{"id":"1.149775100","rc":[{"ltp":4.9,"id":21143600}]}]}
+{"op":"mcm","clk":"7753601805","pt":1539940115956,"mc":[{"id":"1.149775100","rc":[{"ltp":1.24,"id":11806314}]}]}
+{"op":"mcm","clk":"7753613851","pt":1539940237175,"mc":[{"id":"1.149775100","rc":[{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7753740425","pt":1539941183836,"mc":[{"id":"1.149775100","rc":[{"ltp":1.22,"id":11806314}]}]}
+{"op":"mcm","clk":"7754266127","pt":1539945032758,"mc":[{"id":"1.149775100","rc":[{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7754439495","pt":1539946120901,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:44:00.000Z","suspendTime":"2018-10-19T10:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:44:00.000Z","version":2461363457,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7754482513","pt":1539946539005,"mc":[{"id":"1.149775100","rc":[{"ltp":1.22,"id":11806314}]}]}
+{"op":"mcm","clk":"7754510454","pt":1539946781325,"mc":[{"id":"1.149775100","rc":[{"ltp":4.5,"id":21143600},{"ltp":1.29,"id":11806314}]}]}
+{"op":"mcm","clk":"7754514455","pt":1539946811665,"mc":[{"id":"1.149775100","rc":[{"ltp":1.3,"id":11806314}]}]}
+{"op":"mcm","clk":"7754606142","pt":1539947316189,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:44:00.000Z","suspendTime":"2018-10-19T10:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:44:00.000Z","version":2461396423,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}
+{"op":"mcm","clk":"7754637026","pt":1539947502982,"mc":[{"id":"1.149775100","rc":[{"ltp":3.3,"id":21143600},{"ltp":1.46,"id":11806314}]}]}
+{"op":"mcm","clk":"7754645492","pt":1539947555716,"mc":[{"id":"1.149775100","rc":[{"ltp":3.5,"id":21143600},{"ltp":1.39,"id":11806314}]}]}
+{"op":"mcm","clk":"7754655858","pt":1539947623580,"mc":[{"id":"1.149775100","rc":[{"ltp":3.6,"id":21143600}]}]}
+{"op":"mcm","clk":"7754664295","pt":1539947679278,"mc":[{"id":"1.149775100","rc":[{"ltp":4.5,"id":21143600},{"ltp":1.28,"id":11806314}]}]}
+{"op":"mcm","clk":"7754674990","pt":1539947742657,"mc":[{"id":"1.149775100","rc":[{"ltp":1.41,"id":11806314}]}]}
+{"op":"mcm","clk":"7754684190","pt":1539947803624,"mc":[{"id":"1.149775100","rc":[{"ltp":3.55,"id":21143600},{"ltp":1.39,"id":11806314}]}]}
+{"op":"mcm","clk":"7754710714","pt":1539947863414,"mc":[{"id":"1.149775100","rc":[{"ltp":3.7,"id":21143600},{"ltp":1.35,"id":11806314}]}]}
+{"op":"mcm","clk":"7754719967","pt":1539947923097,"mc":[{"id":"1.149775100","rc":[{"ltp":1.27,"id":11806314}]}]}
+{"op":"mcm","clk":"7754728234","pt":1539947976911,"mc":[{"id":"1.149775100","rc":[{"ltp":1.34,"id":11806314}]}]}
+{"op":"mcm","clk":"7754737627","pt":1539948043784,"mc":[{"id":"1.149775100","rc":[{"ltp":4.2,"id":21143600},{"ltp":1.31,"id":11806314}]}]}
+{"op":"mcm","clk":"7754744391","pt":1539948095380,"mc":[{"id":"1.149775100","rc":[{"ltp":5.6,"id":21143600},{"ltp":1.21,"id":11806314}]}]}
+{"op":"mcm","clk":"7754752977","pt":1539948162131,"mc":[{"id":"1.149775100","rc":[{"ltp":5.9,"id":21143600},{"ltp":1.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7754761810","pt":1539948222384,"mc":[{"id":"1.149775100","rc":[{"ltp":6.2,"id":21143600}]}]}
+{"op":"mcm","clk":"7754767346","pt":1539948259577,"mc":[{"id":"1.149775100","rc":[{"ltp":6.4,"id":21143600},{"ltp":1.17,"id":11806314}]}]}
+{"op":"mcm","clk":"7754778290","pt":1539948339084,"mc":[{"id":"1.149775100","rc":[{"ltp":6.6,"id":21143600}]}]}
+{"op":"mcm","clk":"7754787469","pt":1539948402687,"mc":[{"id":"1.149775100","rc":[{"ltp":6.2,"id":21143600},{"ltp":1.19,"id":11806314}]}]}
+{"op":"mcm","clk":"7754794798","pt":1539948456133,"mc":[{"id":"1.149775100","rc":[{"ltp":5.3,"id":21143600},{"ltp":1.23,"id":11806314}]}]}
+{"op":"mcm","clk":"7754813459","pt":1539948582640,"mc":[{"id":"1.149775100","rc":[{"ltp":5.7,"id":21143600},{"ltp":1.21,"id":11806314}]}]}
+{"op":"mcm","clk":"7754822304","pt":1539948640197,"mc":[{"id":"1.149775100","rc":[{"ltp":6.8,"id":21143600},{"ltp":1.19,"id":11806314}]}]}
+{"op":"mcm","clk":"7754831776","pt":1539948700726,"mc":[{"id":"1.149775100","rc":[{"ltp":1.16,"id":11806314}]}]}
+{"op":"mcm","clk":"7754877679","pt":1539948881411,"mc":[{"id":"1.149775100","rc":[{"ltp":5.5,"id":21143600},{"ltp":1.22,"id":11806314}]}]}
+{"op":"mcm","clk":"7754885936","pt":1539948941636,"mc":[{"id":"1.149775100","rc":[{"ltp":1.32,"id":11806314}]}]}
+{"op":"mcm","clk":"7754894101","pt":1539949002785,"mc":[{"id":"1.149775100","rc":[{"ltp":4.1,"id":21143600}]}]}
+{"op":"mcm","clk":"7754902397","pt":1539949061343,"mc":[{"id":"1.149775100","rc":[{"ltp":3.5,"id":21143600},{"ltp":1.4,"id":11806314}]}]}
+{"op":"mcm","clk":"7754910984","pt":1539949118789,"mc":[{"id":"1.149775100","rc":[{"ltp":3.0,"id":21143600},{"ltp":1.41,"id":11806314}]}]}
+{"op":"mcm","clk":"7754919396","pt":1539949174321,"mc":[{"id":"1.149775100","rc":[{"ltp":2.84,"id":21143600},{"ltp":1.52,"id":11806314}]}]}
+{"op":"mcm","clk":"7754958214","pt":1539949423695,"mc":[{"id":"1.149775100","rc":[{"ltp":3.9,"id":21143600},{"ltp":1.33,"id":11806314}]}]}
+{"op":"mcm","clk":"7754964572","pt":1539949463025,"mc":[{"id":"1.149775100","rc":[{"ltp":4.5,"id":21143600},{"ltp":1.29,"id":11806314}]}]}
+{"op":"mcm","clk":"7754974290","pt":1539949526404,"mc":[{"id":"1.149775100","rc":[{"ltp":4.0,"id":21143600},{"ltp":1.33,"id":11806314}]}]}
+{"op":"mcm","clk":"7754986695","pt":1539949602709,"mc":[{"id":"1.149775100","rc":[{"ltp":5.0,"id":21143600},{"ltp":1.27,"id":11806314}]}]}
+{"op":"mcm","clk":"7755012543","pt":1539949654316,"mc":[{"id":"1.149775100","rc":[{"ltp":4.0,"id":21143600},{"ltp":1.54,"id":11806314}]}]}
+{"op":"mcm","clk":"7755022211","pt":1539949721413,"mc":[{"id":"1.149775100","rc":[{"ltp":2.9,"id":21143600},{"ltp":1.52,"id":11806314}]}]}
+{"op":"mcm","clk":"7755030778","pt":1539949783861,"mc":[{"id":"1.149775100","rc":[{"ltp":2.52,"id":21143600},{"ltp":1.65,"id":11806314}]}]}
+{"op":"mcm","clk":"7755039150","pt":1539949843438,"mc":[{"id":"1.149775100","rc":[{"ltp":2.36,"id":21143600},{"ltp":1.74,"id":11806314}]}]}
+{"op":"mcm","clk":"7755048808","pt":1539949901741,"mc":[{"id":"1.149775100","rc":[{"ltp":3.1,"id":21143600},{"ltp":1.48,"id":11806314}]}]}
+{"op":"mcm","clk":"7755058931","pt":1539949960189,"mc":[{"id":"1.149775100","rc":[{"ltp":3.85,"id":21143600},{"ltp":1.35,"id":11806314}]}]}
+{"op":"mcm","clk":"7755069715","pt":1539950023489,"mc":[{"id":"1.149775100","rc":[{"ltp":5.0,"id":21143600},{"ltp":1.25,"id":11806314}]}]}
+{"op":"mcm","clk":"7755080122","pt":1539950082403,"mc":[{"id":"1.149775100","rc":[{"ltp":3.75,"id":21143600},{"ltp":1.36,"id":11806314}]}]}
+{"op":"mcm","clk":"7755089492","pt":1539950140325,"mc":[{"id":"1.149775100","rc":[{"ltp":3.05,"id":21143600},{"ltp":1.48,"id":11806314}]}]}
+{"op":"mcm","clk":"7755098492","pt":1539950203901,"mc":[{"id":"1.149775100","rc":[{"ltp":2.88,"id":21143600},{"ltp":1.47,"id":11806314}]}]}
+{"op":"mcm","clk":"7755106144","pt":1539950263902,"mc":[{"id":"1.149775100","rc":[{"ltp":2.56,"id":21143600},{"ltp":1.64,"id":11806314}]}]}
+{"op":"mcm","clk":"7755114991","pt":1539950323453,"mc":[{"id":"1.149775100","rc":[{"ltp":3.55,"id":21143600},{"ltp":1.39,"id":11806314}]}]}
+{"op":"mcm","clk":"7755123240","pt":1539950383356,"mc":[{"id":"1.149775100","rc":[{"ltp":2.6,"id":21143600},{"ltp":1.6,"id":11806314}]}]}
+{"op":"mcm","clk":"7755130559","pt":1539950439836,"mc":[{"id":"1.149775100","rc":[{"ltp":4.8,"id":21143600},{"ltp":1.26,"id":11806314}]}]}
+{"op":"mcm","clk":"7755137024","pt":1539950482032,"mc":[{"id":"1.149775100","rc":[{"ltp":3.4,"id":21143600},{"ltp":1.39,"id":11806314}]}]}
+{"op":"mcm","clk":"7755165720","pt":1539950561894,"mc":[{"id":"1.149775100","rc":[{"ltp":2.38,"id":21143600},{"ltp":1.72,"id":11806314}]}]}
+{"op":"mcm","clk":"7755173796","pt":1539950623518,"mc":[{"id":"1.149775100","rc":[{"ltp":1.83,"id":21143600},{"ltp":2.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7755180794","pt":1539950679583,"mc":[{"id":"1.149775100","rc":[{"ltp":1.85,"id":21143600}]}]}
+{"op":"mcm","clk":"7755197340","pt":1539950802388,"mc":[{"id":"1.149775100","rc":[{"ltp":1.92,"id":21143600},{"ltp":1.96,"id":11806314}]}]}
+{"op":"mcm","clk":"7755213150","pt":1539950921055,"mc":[{"id":"1.149775100","rc":[{"ltp":2.4,"id":21143600},{"ltp":1.72,"id":11806314}]}]}
+{"op":"mcm","clk":"7755220081","pt":1539950974504,"mc":[{"id":"1.149775100","rc":[{"ltp":2.08,"id":21143600}]}]}
+{"op":"mcm","clk":"7755228816","pt":1539951042857,"mc":[{"id":"1.149775100","rc":[{"ltp":1.86,"id":21143600},{"ltp":2.16,"id":11806314}]}]}
+{"op":"mcm","clk":"7755237025","pt":1539951102904,"mc":[{"id":"1.149775100","rc":[{"ltp":1.82,"id":21143600},{"ltp":2.18,"id":11806314}]}]}
+{"op":"mcm","clk":"7755244784","pt":1539951158029,"mc":[{"id":"1.149775100","rc":[{"ltp":1.83,"id":21143600},{"ltp":2.08,"id":11806314}]}]}
+{"op":"mcm","clk":"7755254637","pt":1539951223814,"mc":[{"id":"1.149775100","rc":[{"ltp":1.8,"id":21143600},{"ltp":2.5,"id":11806314}]}]}
+{"op":"mcm","clk":"7755262786","pt":1539951281107,"mc":[{"id":"1.149775100","rc":[{"ltp":1.49,"id":21143600},{"ltp":3.05,"id":11806314}]}]}
+{"op":"mcm","clk":"7755271475","pt":1539951341913,"mc":[{"id":"1.149775100","rc":[{"ltp":1.46,"id":21143600}]}]}
+{"op":"mcm","clk":"7755280594","pt":1539951403952,"mc":[{"id":"1.149775100","rc":[{"ltp":1.58,"id":21143600},{"ltp":2.84,"id":11806314}]}]}
+{"op":"mcm","clk":"7755306568","pt":1539951461530,"mc":[{"id":"1.149775100","rc":[{"ltp":1.74,"id":21143600},{"ltp":2.36,"id":11806314}]}]}
+{"op":"mcm","clk":"7755315124","pt":1539951523872,"mc":[{"id":"1.149775100","rc":[{"ltp":1.68,"id":21143600},{"ltp":2.46,"id":11806314}]}]}
+{"op":"mcm","clk":"7755322437","pt":1539951582651,"mc":[{"id":"1.149775100","rc":[{"ltp":1.31,"id":21143600},{"ltp":2.24,"id":11806314}]}]}
+{"op":"mcm","clk":"7755330217","pt":1539951642585,"mc":[{"id":"1.149775100","rc":[{"ltp":4.2,"id":11806314}]}]}
+{"op":"mcm","clk":"7755338456","pt":1539951703860,"mc":[{"id":"1.149775100","rc":[{"ltp":1.29,"id":21143600},{"ltp":3.6,"id":11806314}]}]}
+{"op":"mcm","clk":"7755345915","pt":1539951762346,"mc":[{"id":"1.149775100","rc":[{"ltp":1.24,"id":21143600},{"ltp":3.5,"id":11806314}]}]}
+{"op":"mcm","clk":"7755353852","pt":1539951821347,"mc":[{"id":"1.149775100","rc":[{"ltp":1.23,"id":21143600}]}]}
+{"op":"mcm","clk":"7755362292","pt":1539951883871,"mc":[{"id":"1.149775100","rc":[{"ltp":1.24,"id":21143600}]}]}
+{"op":"mcm","clk":"7755369272","pt":1539951939458,"mc":[{"id":"1.149775100","rc":[{"ltp":1.26,"id":21143600},{"ltp":5.1,"id":11806314}]}]}
+{"op":"mcm","clk":"7755377444","pt":1539952000509,"mc":[{"id":"1.149775100","rc":[{"ltp":1.24,"id":21143600}]}]}
+{"op":"mcm","clk":"7755385746","pt":1539952063473,"mc":[{"id":"1.149775100","rc":[{"ltp":1.22,"id":21143600},{"ltp":5.5,"id":11806314}]}]}
+{"op":"mcm","clk":"7755393977","pt":1539952123932,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:44:00.000Z","suspendTime":"2018-10-19T10:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"ACTIVE","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:44:00.000Z","version":2461495430,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"},"rc":[{"ltp":1.21,"id":21143600},{"ltp":5.7,"id":11806314}]}]}
+{"op":"mcm","clk":"7755395302","pt":1539952134299,"mc":[{"id":"1.149775100","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963008","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:44:00.000Z","suspendTime":"2018-10-19T10:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T12:28:49.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":21143600,"name":"Minnen/Van Uytvanck"},{"status":"LOSER","sortPriority":2,"id":11806314,"name":"Flipkens/Larsson"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:44:00.000Z","version":2461495598,"name":"Match Odds","eventName":"Minnen/Van Uytvanck v Flipkens/Larsson"}}]}

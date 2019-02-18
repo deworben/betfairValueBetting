@@ -1,0 +1,73 @@
+{"op":"mcm","clk":"7732759644","pt":1539835197371,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:00:00.000Z","suspendTime":"2018-10-19T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T16:00:00.000Z","version":2460297904,"name":"Match Odds","eventName":"Peliwo v B Gojo"}}]}
+{"op":"mcm","clk":"7732773250","pt":1539835507169,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:00:00.000Z","suspendTime":"2018-10-19T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T16:00:00.000Z","version":2460297904,"name":"Match Odds","eventName":"Peliwo v B Gojo"}}]}
+{"op":"mcm","clk":"7733736524","pt":1539852318604,"mc":[{"id":"1.149747655","rc":[{"ltp":2.1,"id":10760646}]}]}
+{"op":"mcm","clk":"7733796108","pt":1539853196534,"mc":[{"id":"1.149747655","rc":[{"ltp":2.08,"id":10760646}]}]}
+{"op":"mcm","clk":"7738787213","pt":1539908324594,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:00:00.000Z","suspendTime":"2018-10-19T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:00:00.000Z","version":2461052019,"name":"Match Odds","eventName":"Peliwo v B Gojo"}}]}
+{"op":"mcm","clk":"7740087003","pt":1539926449832,"mc":[{"id":"1.149747655","rc":[{"ltp":1.89,"id":7366916}]}]}
+{"op":"mcm","clk":"7740371146","pt":1539931308473,"mc":[{"id":"1.149747655","rc":[{"ltp":1.88,"id":7366916}]}]}
+{"op":"mcm","clk":"7740389821","pt":1539931392929,"mc":[{"id":"1.149747655","rc":[{"ltp":1.89,"id":7366916}]}]}
+{"op":"mcm","clk":"7740975475","pt":1539938747788,"mc":[{"id":"1.149747655","rc":[{"ltp":1.9,"id":10760646}]}]}
+{"op":"mcm","clk":"7741073839","pt":1539939704942,"mc":[{"id":"1.149747655","rc":[{"ltp":1.88,"id":10760646}]}]}
+{"op":"mcm","clk":"7742569469","pt":1539950454546,"mc":[{"id":"1.149747655","rc":[{"ltp":1.9,"id":10760646}]}]}
+{"op":"mcm","clk":"7743401919","pt":1539954823136,"mc":[{"id":"1.149747655","rc":[{"ltp":1.88,"id":10760646}]}]}
+{"op":"mcm","clk":"7744325483","pt":1539961131309,"mc":[{"id":"1.149747655","rc":[{"ltp":2.1,"id":7366916},{"ltp":1.9,"id":10760646}]}]}
+{"op":"mcm","clk":"7745418812","pt":1539967552047,"mc":[{"id":"1.149747655","rc":[{"ltp":1.88,"id":10760646}]}]}
+{"op":"mcm","clk":"7745635409","pt":1539968732857,"mc":[{"id":"1.149747655","rc":[{"ltp":2.06,"id":7366916}]}]}
+{"op":"mcm","clk":"7746085750","pt":1539970737028,"mc":[{"id":"1.149747655","rc":[{"ltp":1.87,"id":10760646}]}]}
+{"op":"mcm","clk":"7746205144","pt":1539971213245,"mc":[{"id":"1.149747655","rc":[{"ltp":2.0,"id":7366916},{"ltp":1.95,"id":10760646}]}]}
+{"op":"mcm","clk":"7746278454","pt":1539971565346,"mc":[{"id":"1.149747655","rc":[{"ltp":2.06,"id":7366916}]}]}
+{"op":"mcm","clk":"7746290348","pt":1539971623209,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T17:50:00.000Z","suspendTime":"2018-10-19T17:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T17:50:00.000Z","version":2462085209,"name":"Match Odds","eventName":"Peliwo v B Gojo"}}]}
+{"op":"mcm","clk":"7746326412","pt":1539971801231,"mc":[{"id":"1.149747655","rc":[{"ltp":1.89,"id":10760646}]}]}
+{"op":"mcm","clk":"7746498757","pt":1539972535735,"mc":[{"id":"1.149747655","rc":[{"ltp":2.12,"id":7366916}]}]}
+{"op":"mcm","clk":"7746513093","pt":1539972596842,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T17:50:00.000Z","suspendTime":"2018-10-19T17:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T17:50:00.000Z","version":2462177394,"name":"Match Odds","eventName":"Peliwo v B Gojo"},"rc":[{"ltp":2.2,"id":7366916},{"ltp":1.82,"id":10760646}]}]}
+{"op":"mcm","clk":"7746526535","pt":1539972658163,"mc":[{"id":"1.149747655","rc":[{"ltp":1.84,"id":10760646}]}]}
+{"op":"mcm","clk":"7746538138","pt":1539972714142,"mc":[{"id":"1.149747655","rc":[{"ltp":2.24,"id":7366916},{"ltp":1.8,"id":10760646}]}]}
+{"op":"mcm","clk":"7746570758","pt":1539972777264,"mc":[{"id":"1.149747655","rc":[{"ltp":2.32,"id":7366916},{"ltp":1.75,"id":10760646}]}]}
+{"op":"mcm","clk":"7746583985","pt":1539972838144,"mc":[{"id":"1.149747655","rc":[{"ltp":2.28,"id":7366916},{"ltp":1.78,"id":10760646}]}]}
+{"op":"mcm","clk":"7746597120","pt":1539972897797,"mc":[{"id":"1.149747655","rc":[{"ltp":3.4,"id":7366916},{"ltp":1.42,"id":10760646}]}]}
+{"op":"mcm","clk":"7746610359","pt":1539972958028,"mc":[{"id":"1.149747655","rc":[{"ltp":1.36,"id":10760646}]}]}
+{"op":"mcm","clk":"7746623280","pt":1539973016152,"mc":[{"id":"1.149747655","rc":[{"ltp":1.41,"id":10760646}]}]}
+{"op":"mcm","clk":"7746635973","pt":1539973076928,"mc":[{"id":"1.149747655","rc":[{"ltp":3.15,"id":7366916},{"ltp":1.42,"id":10760646}]}]}
+{"op":"mcm","clk":"7746647274","pt":1539973127294,"mc":[{"id":"1.149747655","rc":[{"ltp":1.38,"id":10760646}]}]}
+{"op":"mcm","clk":"7746662914","pt":1539973196746,"mc":[{"id":"1.149747655","rc":[{"ltp":3.9,"id":7366916},{"ltp":1.37,"id":10760646}]}]}
+{"op":"mcm","clk":"7746675184","pt":1539973254411,"mc":[{"id":"1.149747655","rc":[{"ltp":4.4,"id":7366916},{"ltp":1.31,"id":10760646}]}]}
+{"op":"mcm","clk":"7746688424","pt":1539973317024,"mc":[{"id":"1.149747655","rc":[{"ltp":1.25,"id":10760646}]}]}
+{"op":"mcm","clk":"7746701703","pt":1539973377306,"mc":[{"id":"1.149747655","rc":[{"ltp":5.4,"id":7366916},{"ltp":1.22,"id":10760646}]}]}
+{"op":"mcm","clk":"7746715295","pt":1539973433842,"mc":[{"id":"1.149747655","rc":[{"ltp":6.2,"id":7366916},{"ltp":1.21,"id":10760646}]}]}
+{"op":"mcm","clk":"7746730026","pt":1539973496822,"mc":[{"id":"1.149747655","rc":[{"ltp":5.3,"id":7366916},{"ltp":1.22,"id":10760646}]}]}
+{"op":"mcm","clk":"7746758844","pt":1539973618121,"mc":[{"id":"1.149747655","rc":[{"ltp":6.0,"id":7366916},{"ltp":1.2,"id":10760646}]}]}
+{"op":"mcm","clk":"7746790802","pt":1539973676066,"mc":[{"id":"1.149747655","rc":[{"ltp":1.19,"id":10760646}]}]}
+{"op":"mcm","clk":"7746804203","pt":1539973736847,"mc":[{"id":"1.149747655","rc":[{"ltp":6.2,"id":7366916}]}]}
+{"op":"mcm","clk":"7746816952","pt":1539973797284,"mc":[{"id":"1.149747655","rc":[{"ltp":6.0,"id":7366916}]}]}
+{"op":"mcm","clk":"7746829538","pt":1539973858150,"mc":[{"id":"1.149747655","rc":[{"ltp":1.17,"id":10760646}]}]}
+{"op":"mcm","clk":"7746842504","pt":1539973916891,"mc":[{"id":"1.149747655","rc":[{"ltp":6.4,"id":7366916},{"ltp":1.2,"id":10760646}]}]}
+{"op":"mcm","clk":"7746856231","pt":1539973976278,"mc":[{"id":"1.149747655","rc":[{"ltp":1.15,"id":10760646}]}]}
+{"op":"mcm","clk":"7746870137","pt":1539974038095,"mc":[{"id":"1.149747655","rc":[{"ltp":7.2,"id":7366916},{"ltp":1.13,"id":10760646}]}]}
+{"op":"mcm","clk":"7746883426","pt":1539974097547,"mc":[{"id":"1.149747655","rc":[{"ltp":7.6,"id":7366916},{"ltp":1.14,"id":10760646}]}]}
+{"op":"mcm","clk":"7746897593","pt":1539974157990,"mc":[{"id":"1.149747655","rc":[{"ltp":15.0,"id":7366916},{"ltp":1.06,"id":10760646}]}]}
+{"op":"mcm","clk":"7746911655","pt":1539974217932,"mc":[{"id":"1.149747655","rc":[{"ltp":18.0,"id":7366916},{"ltp":1.1,"id":10760646}]}]}
+{"op":"mcm","clk":"7746926282","pt":1539974278068,"mc":[{"id":"1.149747655","rc":[{"ltp":8.0,"id":7366916},{"ltp":1.14,"id":10760646}]}]}
+{"op":"mcm","clk":"7746941295","pt":1539974338174,"mc":[{"id":"1.149747655","rc":[{"ltp":7.8,"id":7366916},{"ltp":1.15,"id":10760646}]}]}
+{"op":"mcm","clk":"7746956062","pt":1539974398153,"mc":[{"id":"1.149747655","rc":[{"ltp":7.2,"id":7366916},{"ltp":1.16,"id":10760646}]}]}
+{"op":"mcm","clk":"7746971604","pt":1539974458154,"mc":[{"id":"1.149747655","rc":[{"ltp":6.8,"id":7366916},{"ltp":1.09,"id":10760646}]}]}
+{"op":"mcm","clk":"7746987036","pt":1539974517356,"mc":[{"id":"1.149747655","rc":[{"ltp":1.06,"id":10760646}]}]}
+{"op":"mcm","clk":"7747020848","pt":1539974577894,"mc":[{"id":"1.149747655","rc":[{"ltp":13.0,"id":7366916},{"ltp":1.07,"id":10760646}]}]}
+{"op":"mcm","clk":"7747034843","pt":1539974637704,"mc":[{"id":"1.149747655","rc":[{"ltp":1.08,"id":10760646}]}]}
+{"op":"mcm","clk":"7747049199","pt":1539974697795,"mc":[{"id":"1.149747655","rc":[{"ltp":8.4,"id":7366916},{"ltp":1.11,"id":10760646}]}]}
+{"op":"mcm","clk":"7747063432","pt":1539974756487,"mc":[{"id":"1.149747655","rc":[{"ltp":15.5,"id":7366916},{"ltp":1.08,"id":10760646}]}]}
+{"op":"mcm","clk":"7747078122","pt":1539974817045,"mc":[{"id":"1.149747655","rc":[{"ltp":1.05,"id":10760646}]}]}
+{"op":"mcm","clk":"7747091890","pt":1539974876957,"mc":[{"id":"1.149747655","rc":[{"ltp":21.0,"id":7366916},{"ltp":1.04,"id":10760646}]}]}
+{"op":"mcm","clk":"7747117362","pt":1539974996982,"mc":[{"id":"1.149747655","rc":[{"ltp":34.0,"id":7366916},{"ltp":1.06,"id":10760646}]}]}
+{"op":"mcm","clk":"7747128630","pt":1539975057425,"mc":[{"id":"1.149747655","rc":[{"ltp":21.0,"id":7366916},{"ltp":1.05,"id":10760646}]}]}
+{"op":"mcm","clk":"7747139341","pt":1539975116677,"mc":[{"id":"1.149747655","rc":[{"ltp":1.03,"id":10760646}]}]}
+{"op":"mcm","clk":"7747151010","pt":1539975178133,"mc":[{"id":"1.149747655","rc":[{"ltp":50.0,"id":7366916}]}]}
+{"op":"mcm","clk":"7747162141","pt":1539975236408,"mc":[{"id":"1.149747655","rc":[{"ltp":1.06,"id":10760646}]}]}
+{"op":"mcm","clk":"7747173036","pt":1539975296136,"mc":[{"id":"1.149747655","rc":[{"ltp":1.03,"id":10760646}]}]}
+{"op":"mcm","clk":"7747197824","pt":1539975416924,"mc":[{"id":"1.149747655","rc":[{"ltp":1.02,"id":10760646}]}]}
+{"op":"mcm","clk":"7747229104","pt":1539975476927,"mc":[{"id":"1.149747655","rc":[{"ltp":22.0,"id":7366916},{"ltp":1.04,"id":10760646}]}]}
+{"op":"mcm","clk":"7747240435","pt":1539975535090,"mc":[{"id":"1.149747655","rc":[{"ltp":1.03,"id":10760646}]}]}
+{"op":"mcm","clk":"7747252815","pt":1539975597743,"mc":[{"id":"1.149747655","rc":[{"ltp":14.0,"id":7366916}]}]}
+{"op":"mcm","clk":"7747265324","pt":1539975656979,"mc":[{"id":"1.149747655","rc":[{"ltp":15.5,"id":7366916},{"ltp":1.04,"id":10760646}]}]}
+{"op":"mcm","clk":"7747278006","pt":1539975716973,"mc":[{"id":"1.149747655","rc":[{"ltp":1.1,"id":10760646}]}]}
+{"op":"mcm","clk":"7747289386","pt":1539975769701,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T17:50:00.000Z","suspendTime":"2018-10-19T17:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T17:50:00.000Z","version":2462379057,"name":"Match Odds","eventName":"Peliwo v B Gojo"},"rc":[{"ltp":50.0,"id":7366916},{"ltp":1.02,"id":10760646}]}]}
+{"op":"mcm","clk":"7747296974","pt":1539975808388,"mc":[{"id":"1.149747655","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T17:50:00.000Z","suspendTime":"2018-10-19T17:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T19:03:22.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"WINNER","sortPriority":2,"id":10760646,"name":"Borna Gojo"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T17:50:00.000Z","version":2462382041,"name":"Match Odds","eventName":"Peliwo v B Gojo"}}]}

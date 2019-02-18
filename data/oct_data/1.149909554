@@ -1,0 +1,240 @@
+{"op":"mcm","clk":"7699691600","pt":1540035036694,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T09:00:00.000Z","suspendTime":"2018-10-21T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T09:00:00.000Z","version":2463735596,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7708525258","pt":1540081771221,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T09:00:00.000Z","suspendTime":"2018-10-22T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T09:00:00.000Z","version":2466731197,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7709770776","pt":1540100353891,"mc":[{"id":"1.149909554","rc":[{"ltp":1.18,"id":4105819}]}]}
+{"op":"mcm","clk":"7709906788","pt":1540102208234,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7711264129","pt":1540115106916,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T08:00:00.000Z","suspendTime":"2018-10-22T08:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"Europe/London","openDate":"2018-10-22T08:00:00.000Z","version":2467381863,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7712014734","pt":1540118968062,"mc":[{"id":"1.149909554","rc":[{"ltp":1.19,"id":4105819}]}]}
+{"op":"mcm","clk":"7712340110","pt":1540120660597,"mc":[{"id":"1.149909554","rc":[{"ltp":1.18,"id":4105819}]}]}
+{"op":"mcm","clk":"7714724905","pt":1540132421462,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:00:00.000Z","suspendTime":"2018-10-22T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"Europe/London","openDate":"2018-10-22T08:00:00.000Z","version":2468428551,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7714734820","pt":1540132466580,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:00:00.000Z","suspendTime":"2018-10-22T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:00:00.000Z","version":2468428551,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7716679435","pt":1540143189726,"mc":[{"id":"1.149909554","rc":[{"ltp":1.17,"id":4105819}]}]}
+{"op":"mcm","clk":"7717714515","pt":1540151724321,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7718173413","pt":1540155815519,"mc":[{"id":"1.149909554","rc":[{"ltp":5.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7718252286","pt":1540156659475,"mc":[{"id":"1.149909554","rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7718633453","pt":1540160329694,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7719013706","pt":1540165160011,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7719570572","pt":1540176685580,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7719724658","pt":1540180323214,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7719853257","pt":1540183109566,"mc":[{"id":"1.149909554","rc":[{"ltp":5.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7719856801","pt":1540183225505,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7719984422","pt":1540186525755,"mc":[{"id":"1.149909554","rc":[{"ltp":6.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7720004622","pt":1540187016079,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720040120","pt":1540187921305,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7720046305","pt":1540188116583,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720141573","pt":1540190655740,"mc":[{"id":"1.149909554","rc":[{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7720207025","pt":1540192451313,"mc":[{"id":"1.149909554","rc":[{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7720245715","pt":1540193452626,"mc":[{"id":"1.149909554","rc":[{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7720251545","pt":1540193672349,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7720275967","pt":1540194213963,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720281484","pt":1540194385577,"mc":[{"id":"1.149909554","rc":[{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7720306511","pt":1540194829695,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7720364459","pt":1540196476548,"mc":[{"id":"1.149909554","rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7720393661","pt":1540197134579,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720399483","pt":1540197339768,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7720475532","pt":1540199019726,"mc":[{"id":"1.149909554","rc":[{"ltp":5.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7720527582","pt":1540200087808,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819},{"ltp":5.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7720539131","pt":1540200146105,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7720549514","pt":1540200397756,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720558518","pt":1540200612148,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7720564438","pt":1540200747883,"mc":[{"id":"1.149909554","rc":[{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7720575780","pt":1540201001936,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720636447","pt":1540201970786,"mc":[{"id":"1.149909554","rc":[{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7720840820","pt":1540205475201,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819},{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7720869870","pt":1540205914719,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7720909538","pt":1540206489266,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7720913686","pt":1540206578640,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7720920237","pt":1540206722876,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7721148583","pt":1540210046185,"mc":[{"id":"1.149909554","rc":[{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7721157848","pt":1540210155700,"mc":[{"id":"1.149909554","rc":[{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7721165145","pt":1540210234808,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7721267759","pt":1540211498083,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7721314082","pt":1540212007350,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7721378044","pt":1540212760959,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7721479437","pt":1540213822814,"mc":[{"id":"1.149909554","rc":[{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7721494728","pt":1540213957446,"mc":[{"id":"1.149909554","rc":[{"ltp":5.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7721510279","pt":1540214110079,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7721548524","pt":1540214488494,"mc":[{"id":"1.149909554","rc":[{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7721577651","pt":1540214680960,"mc":[{"id":"1.149909554","rc":[{"ltp":1.25,"id":4105819}]}]}
+{"op":"mcm","clk":"7721627551","pt":1540215152378,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7721683694","pt":1540215636360,"mc":[{"id":"1.149909554","rc":[{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7721760973","pt":1540216396140,"mc":[{"id":"1.149909554","rc":[{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7721770689","pt":1540216517596,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819},{"ltp":5.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7721793504","pt":1540216822131,"mc":[{"id":"1.149909554","rc":[{"ltp":1.25,"id":4105819}]}]}
+{"op":"mcm","clk":"7721942947","pt":1540218215475,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819},{"ltp":5.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7721995257","pt":1540218764740,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7722049446","pt":1540219258529,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7722084659","pt":1540219653287,"mc":[{"id":"1.149909554","rc":[{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7722237478","pt":1540221276812,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819}]}]}
+{"op":"mcm","clk":"7722252694","pt":1540221461331,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7722257197","pt":1540221520265,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7722262493","pt":1540221576828,"mc":[{"id":"1.149909554","rc":[{"ltp":5.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7722268628","pt":1540221640497,"mc":[{"id":"1.149909554","rc":[{"ltp":1.24,"id":4105819}]}]}
+{"op":"mcm","clk":"7722483942","pt":1540223963670,"mc":[{"id":"1.149909554","rc":[{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7722501251","pt":1540224161743,"mc":[{"id":"1.149909554","rc":[{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7722507147","pt":1540224216855,"mc":[{"id":"1.149909554","rc":[{"ltp":5.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7722564826","pt":1540224631075,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7722593566","pt":1540224876503,"mc":[{"id":"1.149909554","rc":[{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7722613125","pt":1540225060540,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7722618557","pt":1540225111568,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7722667373","pt":1540225473016,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7722686781","pt":1540225647887,"mc":[{"id":"1.149909554","rc":[{"ltp":5.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7722699485","pt":1540225776975,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7722710416","pt":1540225896436,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7722715381","pt":1540225957091,"mc":[{"id":"1.149909554","rc":[{"ltp":5.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7722780797","pt":1540226541100,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7722795890","pt":1540226675990,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819}]}]}
+{"op":"mcm","clk":"7722808239","pt":1540226800671,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819},{"ltp":5.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7722811163","pt":1540226831106,"mc":[{"id":"1.149909554","rc":[{"ltp":5.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7722835303","pt":1540227099282,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7722849610","pt":1540227159700,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819},{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7722881333","pt":1540227520465,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:15:00.000Z","suspendTime":"2018-10-22T17:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:00:00.000Z","version":2470846210,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7722887325","pt":1540227580948,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:15:00.000Z","suspendTime":"2018-10-22T17:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:15:00.000Z","version":2470846210,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":5.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7722893686","pt":1540227641087,"mc":[{"id":"1.149909554","rc":[{"ltp":5.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7722913613","pt":1540227820888,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7722919405","pt":1540227873327,"mc":[{"id":"1.149909554","rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7722927151","pt":1540227941601,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7722933281","pt":1540227996830,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7722948720","pt":1540228051970,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7722993395","pt":1540228421784,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:30:00.000Z","suspendTime":"2018-10-22T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:15:00.000Z","version":2470876113,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723001413","pt":1540228477504,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:30:00.000Z","suspendTime":"2018-10-22T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:30:00.000Z","version":2470876113,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723026792","pt":1540228650795,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723046503","pt":1540228778484,"mc":[{"id":"1.149909554","rc":[{"ltp":5.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7723054689","pt":1540228841901,"mc":[{"id":"1.149909554","rc":[{"ltp":6.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723062359","pt":1540228901646,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819},{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723121544","pt":1540229321506,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:45:00.000Z","suspendTime":"2018-10-22T17:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:30:00.000Z","version":2470906085,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723128142","pt":1540229374605,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T17:45:00.000Z","suspendTime":"2018-10-22T17:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:45:00.000Z","version":2470906085,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723244901","pt":1540230219647,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:00:00.000Z","suspendTime":"2018-10-22T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T17:45:00.000Z","version":2470935116,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723251142","pt":1540230270197,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:00:00.000Z","suspendTime":"2018-10-22T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:00:00.000Z","version":2470935116,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723330379","pt":1540230891261,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723353817","pt":1540231177542,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:15:00.000Z","suspendTime":"2018-10-22T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:15:00.000Z","version":2470970183,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723357677","pt":1540231219596,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723363528","pt":1540231284341,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723368966","pt":1540231340111,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723375617","pt":1540231416249,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723381780","pt":1540231478597,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723388721","pt":1540231539520,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723393375","pt":1540231581099,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723430359","pt":1540231831076,"mc":[{"id":"1.149909554","rc":[{"ltp":6.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723443988","pt":1540231958727,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723450477","pt":1540232020157,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:30:00.000Z","suspendTime":"2018-10-22T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:15:00.000Z","version":2470999887,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723455820","pt":1540232071686,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:30:00.000Z","suspendTime":"2018-10-22T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:30:00.000Z","version":2470999887,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723502057","pt":1540232493968,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819}]}]}
+{"op":"mcm","clk":"7723543724","pt":1540232791522,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723557017","pt":1540232920569,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:45:00.000Z","suspendTime":"2018-10-22T18:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:30:00.000Z","version":2471023063,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723561193","pt":1540232966801,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:45:00.000Z","suspendTime":"2018-10-22T18:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:45:00.000Z","version":2471023063,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723566667","pt":1540233032412,"mc":[{"id":"1.149909554","rc":[{"ltp":5.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7723572173","pt":1540233096717,"mc":[{"id":"1.149909554","rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723631465","pt":1540233571378,"mc":[{"id":"1.149909554","rc":[{"ltp":1.22,"id":4105819},{"ltp":5.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723638229","pt":1540233632486,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819}]}]}
+{"op":"mcm","clk":"7723645575","pt":1540233701025,"mc":[{"id":"1.149909554","rc":[{"ltp":5.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7723658267","pt":1540233820727,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:40:00.000Z","suspendTime":"2018-10-22T18:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:45:00.000Z","version":2471062759,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}
+{"op":"mcm","clk":"7723664018","pt":1540233875245,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:40:00.000Z","suspendTime":"2018-10-22T18:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:40:00.000Z","version":2471062759,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723670697","pt":1540233941009,"mc":[{"id":"1.149909554","rc":[{"ltp":5.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7723676247","pt":1540233998050,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819},{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723688255","pt":1540234121706,"mc":[{"id":"1.149909554","rc":[{"ltp":6.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723693940","pt":1540234178357,"mc":[{"id":"1.149909554","rc":[{"ltp":5.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723700224","pt":1540234240752,"mc":[{"id":"1.149909554","rc":[{"ltp":1.19,"id":4105819}]}]}
+{"op":"mcm","clk":"7723706316","pt":1540234301164,"mc":[{"id":"1.149909554","rc":[{"ltp":1.2,"id":4105819},{"ltp":6.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723721404","pt":1540234358918,"mc":[{"id":"1.149909554","rc":[{"ltp":1.19,"id":4105819},{"ltp":6.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723726707","pt":1540234421412,"mc":[{"id":"1.149909554","rc":[{"ltp":1.18,"id":4105819},{"ltp":7.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723732907","pt":1540234481048,"mc":[{"id":"1.149909554","rc":[{"ltp":1.17,"id":4105819},{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723739891","pt":1540234541221,"mc":[{"id":"1.149909554","rc":[{"ltp":7.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723747155","pt":1540234601360,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:40:00.000Z","suspendTime":"2018-10-22T18:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:40:00.000Z","version":2471098037,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":1.16,"id":4105819},{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723753467","pt":1540234660518,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819}]}]}
+{"op":"mcm","clk":"7723759589","pt":1540234721880,"mc":[{"id":"1.149909554","rc":[{"ltp":1.16,"id":4105819},{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723764851","pt":1540234781817,"mc":[{"id":"1.149909554","rc":[{"ltp":1.15,"id":4105819},{"ltp":7.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723769999","pt":1540234841671,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819},{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723775480","pt":1540234901774,"mc":[{"id":"1.149909554","rc":[{"ltp":7.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723780647","pt":1540234961856,"mc":[{"id":"1.149909554","rc":[{"ltp":1.15,"id":4105819},{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723785739","pt":1540235021919,"mc":[{"id":"1.149909554","rc":[{"ltp":8.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7723790558","pt":1540235081714,"mc":[{"id":"1.149909554","rc":[{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723795790","pt":1540235140688,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819},{"ltp":8.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723801100","pt":1540235201851,"mc":[{"id":"1.149909554","rc":[{"ltp":1.13,"id":4105819},{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723815882","pt":1540235261949,"mc":[{"id":"1.149909554","rc":[{"ltp":8.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723821157","pt":1540235321292,"mc":[{"id":"1.149909554","rc":[{"ltp":1.15,"id":4105819},{"ltp":8.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723826122","pt":1540235381893,"mc":[{"id":"1.149909554","rc":[{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723830865","pt":1540235438885,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819}]}]}
+{"op":"mcm","clk":"7723836118","pt":1540235501754,"mc":[{"id":"1.149909554","rc":[{"ltp":1.13,"id":4105819},{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723841560","pt":1540235561337,"mc":[{"id":"1.149909554","rc":[{"ltp":1.12,"id":4105819},{"ltp":9.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723847221","pt":1540235621945,"mc":[{"id":"1.149909554","rc":[{"ltp":1.13,"id":4105819}]}]}
+{"op":"mcm","clk":"7723852189","pt":1540235681538,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819},{"ltp":9.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723857875","pt":1540235741874,"mc":[{"id":"1.149909554","rc":[{"ltp":1.15,"id":4105819},{"ltp":7.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723863217","pt":1540235800782,"mc":[{"id":"1.149909554","rc":[{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723868171","pt":1540235860154,"mc":[{"id":"1.149909554","rc":[{"ltp":1.14,"id":4105819},{"ltp":8.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723880460","pt":1540235981980,"mc":[{"id":"1.149909554","rc":[{"ltp":1.16,"id":4105819}]}]}
+{"op":"mcm","clk":"7723886088","pt":1540236041857,"mc":[{"id":"1.149909554","rc":[{"ltp":1.17,"id":4105819},{"ltp":6.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723892265","pt":1540236101387,"mc":[{"id":"1.149909554","rc":[{"ltp":1.15,"id":4105819},{"ltp":7.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723908247","pt":1540236161032,"mc":[{"id":"1.149909554","rc":[{"ltp":7.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7723914926","pt":1540236221900,"mc":[{"id":"1.149909554","rc":[{"ltp":1.16,"id":4105819}]}]}
+{"op":"mcm","clk":"7723921229","pt":1540236281404,"mc":[{"id":"1.149909554","rc":[{"ltp":1.19,"id":4105819},{"ltp":6.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7723927554","pt":1540236341779,"mc":[{"id":"1.149909554","rc":[{"ltp":1.23,"id":4105819},{"ltp":5.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723933755","pt":1540236401820,"mc":[{"id":"1.149909554","rc":[{"ltp":1.21,"id":4105819},{"ltp":5.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7723939913","pt":1540236461875,"mc":[{"id":"1.149909554","rc":[{"ltp":1.3,"id":4105819},{"ltp":4.4,"id":2256472}]}]}
+{"op":"mcm","clk":"7723946074","pt":1540236521916,"mc":[{"id":"1.149909554","rc":[{"ltp":1.27,"id":4105819},{"ltp":4.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7723951593","pt":1540236581951,"mc":[{"id":"1.149909554","rc":[{"ltp":1.28,"id":4105819},{"ltp":4.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7723956694","pt":1540236641953,"mc":[{"id":"1.149909554","rc":[{"ltp":1.29,"id":4105819},{"ltp":4.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7723961687","pt":1540236701720,"mc":[{"id":"1.149909554","rc":[{"ltp":1.31,"id":4105819},{"ltp":4.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7723966848","pt":1540236761722,"mc":[{"id":"1.149909554","rc":[{"ltp":1.27,"id":4105819},{"ltp":4.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7723971954","pt":1540236821962,"mc":[{"id":"1.149909554","rc":[{"ltp":1.26,"id":4105819},{"ltp":5.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7723977095","pt":1540236881936,"mc":[{"id":"1.149909554","rc":[{"ltp":1.28,"id":4105819},{"ltp":4.7,"id":2256472}]}]}
+{"op":"mcm","clk":"7723981971","pt":1540236941971,"mc":[{"id":"1.149909554","rc":[{"ltp":4.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7723987035","pt":1540237001936,"mc":[{"id":"1.149909554","rc":[{"ltp":1.25,"id":4105819},{"ltp":5.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7724001639","pt":1540237061795,"mc":[{"id":"1.149909554","rc":[{"ltp":1.29,"id":4105819},{"ltp":4.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7724006112","pt":1540237121668,"mc":[{"id":"1.149909554","rc":[{"ltp":1.36,"id":4105819},{"ltp":3.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7724010240","pt":1540237181856,"mc":[{"id":"1.149909554","rc":[{"ltp":3.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7724014507","pt":1540237241068,"mc":[{"id":"1.149909554","rc":[{"ltp":1.31,"id":4105819},{"ltp":4.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7724018752","pt":1540237301708,"mc":[{"id":"1.149909554","rc":[{"ltp":1.3,"id":4105819},{"ltp":3.75,"id":2256472}]}]}
+{"op":"mcm","clk":"7724023227","pt":1540237361385,"mc":[{"id":"1.149909554","rc":[{"ltp":1.4,"id":4105819},{"ltp":3.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7724027719","pt":1540237421944,"mc":[{"id":"1.149909554","rc":[{"ltp":1.56,"id":4105819},{"ltp":2.8,"id":2256472}]}]}
+{"op":"mcm","clk":"7724032211","pt":1540237481826,"mc":[{"id":"1.149909554","rc":[{"ltp":1.48,"id":4105819},{"ltp":3.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7724035917","pt":1540237541638,"mc":[{"id":"1.149909554","rc":[{"ltp":1.66,"id":4105819},{"ltp":2.5,"id":2256472}]}]}
+{"op":"mcm","clk":"7724040298","pt":1540237601792,"mc":[{"id":"1.149909554","rc":[{"ltp":1.85,"id":4105819},{"ltp":2.18,"id":2256472}]}]}
+{"op":"mcm","clk":"7724045018","pt":1540237661708,"mc":[{"id":"1.149909554","rc":[{"ltp":1.83,"id":4105819},{"ltp":2.22,"id":2256472}]}]}
+{"op":"mcm","clk":"7724050161","pt":1540237721886,"mc":[{"id":"1.149909554","rc":[{"ltp":1.89,"id":4105819},{"ltp":2.12,"id":2256472}]}]}
+{"op":"mcm","clk":"7724055766","pt":1540237781840,"mc":[{"id":"1.149909554","rc":[{"ltp":2.0,"id":4105819},{"ltp":2.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7724061060","pt":1540237841817,"mc":[{"id":"1.149909554","rc":[{"ltp":1.91,"id":4105819},{"ltp":2.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7724066341","pt":1540237901975,"mc":[{"id":"1.149909554","rc":[{"ltp":1.92,"id":4105819},{"ltp":2.08,"id":2256472}]}]}
+{"op":"mcm","clk":"7724080623","pt":1540237961978,"mc":[{"id":"1.149909554","rc":[{"ltp":1.87,"id":4105819},{"ltp":2.18,"id":2256472}]}]}
+{"op":"mcm","clk":"7724085674","pt":1540238021683,"mc":[{"id":"1.149909554","rc":[{"ltp":1.96,"id":4105819},{"ltp":2.04,"id":2256472}]}]}
+{"op":"mcm","clk":"7724089878","pt":1540238081906,"mc":[{"id":"1.149909554","rc":[{"ltp":2.02,"id":4105819},{"ltp":1.98,"id":2256472}]}]}
+{"op":"mcm","clk":"7724094526","pt":1540238141883,"mc":[{"id":"1.149909554","rc":[{"ltp":2.06,"id":4105819},{"ltp":1.94,"id":2256472}]}]}
+{"op":"mcm","clk":"7724099017","pt":1540238200980,"mc":[{"id":"1.149909554","rc":[{"ltp":2.12,"id":4105819},{"ltp":1.87,"id":2256472}]}]}
+{"op":"mcm","clk":"7724103007","pt":1540238261968,"mc":[{"id":"1.149909554","rc":[{"ltp":2.36,"id":4105819},{"ltp":1.73,"id":2256472}]}]}
+{"op":"mcm","clk":"7724107423","pt":1540238321818,"mc":[{"id":"1.149909554","rc":[{"ltp":2.4,"id":4105819},{"ltp":1.71,"id":2256472}]}]}
+{"op":"mcm","clk":"7724111089","pt":1540238381494,"mc":[{"id":"1.149909554","rc":[{"ltp":2.5,"id":4105819},{"ltp":1.67,"id":2256472}]}]}
+{"op":"mcm","clk":"7724118024","pt":1540238501820,"mc":[{"id":"1.149909554","rc":[{"ltp":2.36,"id":4105819},{"ltp":1.75,"id":2256472}]}]}
+{"op":"mcm","clk":"7724121431","pt":1540238561974,"mc":[{"id":"1.149909554","rc":[{"ltp":2.0,"id":4105819},{"ltp":2.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7724124723","pt":1540238621946,"mc":[{"id":"1.149909554","rc":[{"ltp":1.93,"id":4105819},{"ltp":2.06,"id":2256472}]}]}
+{"op":"mcm","clk":"7724128253","pt":1540238681932,"mc":[{"id":"1.149909554","rc":[{"ltp":1.62,"id":4105819},{"ltp":2.52,"id":2256472}]}]}
+{"op":"mcm","clk":"7724131938","pt":1540238741938,"mc":[{"id":"1.149909554","rc":[{"ltp":1.84,"id":4105819},{"ltp":2.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7724135432","pt":1540238801957,"mc":[{"id":"1.149909554","rc":[{"ltp":1.87,"id":4105819},{"ltp":2.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7724148796","pt":1540238861980,"mc":[{"id":"1.149909554","rc":[{"ltp":2.12,"id":4105819},{"ltp":1.89,"id":2256472}]}]}
+{"op":"mcm","clk":"7724152599","pt":1540238921850,"mc":[{"id":"1.149909554","rc":[{"ltp":2.1,"id":4105819},{"ltp":1.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7724156356","pt":1540238981855,"mc":[{"id":"1.149909554","rc":[{"ltp":2.4,"id":4105819},{"ltp":1.72,"id":2256472}]}]}
+{"op":"mcm","clk":"7724159589","pt":1540239041886,"mc":[{"id":"1.149909554","rc":[{"ltp":1.98,"id":4105819},{"ltp":2.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7724163410","pt":1540239101951,"mc":[{"id":"1.149909554","rc":[{"ltp":2.04,"id":4105819}]}]}
+{"op":"mcm","clk":"7724166664","pt":1540239161928,"mc":[{"id":"1.149909554","rc":[{"ltp":2.02,"id":4105819},{"ltp":1.97,"id":2256472}]}]}
+{"op":"mcm","clk":"7724170031","pt":1540239221884,"mc":[{"id":"1.149909554","rc":[{"ltp":2.62,"id":4105819},{"ltp":1.6,"id":2256472}]}]}
+{"op":"mcm","clk":"7724173826","pt":1540239281977,"mc":[{"id":"1.149909554","rc":[{"ltp":2.14,"id":4105819},{"ltp":1.89,"id":2256472}]}]}
+{"op":"mcm","clk":"7724177402","pt":1540239341555,"mc":[{"id":"1.149909554","rc":[{"ltp":1.83,"id":4105819},{"ltp":2.2,"id":2256472}]}]}
+{"op":"mcm","clk":"7724181198","pt":1540239401902,"mc":[{"id":"1.149909554","rc":[{"ltp":1.75,"id":4105819},{"ltp":2.3,"id":2256472}]}]}
+{"op":"mcm","clk":"7724185257","pt":1540239461812,"mc":[{"id":"1.149909554","rc":[{"ltp":1.95,"id":4105819},{"ltp":2.08,"id":2256472}]}]}
+{"op":"mcm","clk":"7724189046","pt":1540239521951,"mc":[{"id":"1.149909554","rc":[{"ltp":1.67,"id":4105819},{"ltp":2.48,"id":2256472}]}]}
+{"op":"mcm","clk":"7724193080","pt":1540239581989,"mc":[{"id":"1.149909554","rc":[{"ltp":1.98,"id":4105819},{"ltp":2.0,"id":2256472}]}]}
+{"op":"mcm","clk":"7724197297","pt":1540239641924,"mc":[{"id":"1.149909554","rc":[{"ltp":2.1,"id":4105819},{"ltp":1.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7724200897","pt":1540239701881,"mc":[{"id":"1.149909554","rc":[{"ltp":2.0,"id":4105819},{"ltp":1.96,"id":2256472}]}]}
+{"op":"mcm","clk":"7724214615","pt":1540239761979,"mc":[{"id":"1.149909554","rc":[{"ltp":1.9,"id":4105819},{"ltp":2.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7724218201","pt":1540239821867,"mc":[{"id":"1.149909554","rc":[{"ltp":2.1,"id":4105819},{"ltp":1.9,"id":2256472}]}]}
+{"op":"mcm","clk":"7724221700","pt":1540239881886,"mc":[{"id":"1.149909554","rc":[{"ltp":2.14,"id":4105819},{"ltp":1.86,"id":2256472}]}]}
+{"op":"mcm","clk":"7724226504","pt":1540239941735,"mc":[{"id":"1.149909554","rc":[{"ltp":2.12,"id":4105819},{"ltp":1.88,"id":2256472}]}]}
+{"op":"mcm","clk":"7724231321","pt":1540240001859,"mc":[{"id":"1.149909554","rc":[{"ltp":2.16,"id":4105819},{"ltp":1.89,"id":2256472}]}]}
+{"op":"mcm","clk":"7724236151","pt":1540240061943,"mc":[{"id":"1.149909554","rc":[{"ltp":1.91,"id":4105819},{"ltp":2.1,"id":2256472}]}]}
+{"op":"mcm","clk":"7724241236","pt":1540240121888,"mc":[{"id":"1.149909554","rc":[{"ltp":1.9,"id":4105819}]}]}
+{"op":"mcm","clk":"7724245535","pt":1540240181979,"mc":[{"id":"1.149909554","rc":[{"ltp":2.06,"id":4105819},{"ltp":1.95,"id":2256472}]}]}
+{"op":"mcm","clk":"7724249092","pt":1540240241913,"mc":[{"id":"1.149909554","rc":[{"ltp":2.12,"id":4105819},{"ltp":1.87,"id":2256472}]}]}
+{"op":"mcm","clk":"7724252801","pt":1540240301439,"mc":[{"id":"1.149909554","rc":[{"ltp":2.18,"id":4105819},{"ltp":1.83,"id":2256472}]}]}
+{"op":"mcm","clk":"7724256210","pt":1540240361531,"mc":[{"id":"1.149909554","rc":[{"ltp":2.58,"id":4105819},{"ltp":1.63,"id":2256472}]}]}
+{"op":"mcm","clk":"7724259247","pt":1540240421896,"mc":[{"id":"1.149909554","rc":[{"ltp":2.7,"id":4105819},{"ltp":1.59,"id":2256472}]}]}
+{"op":"mcm","clk":"7724261923","pt":1540240481979,"mc":[{"id":"1.149909554","rc":[{"ltp":4.7,"id":4105819},{"ltp":1.28,"id":2256472}]}]}
+{"op":"mcm","clk":"7724264010","pt":1540240541836,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:40:00.000Z","suspendTime":"2018-10-22T18:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"ACTIVE","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:40:00.000Z","version":2471230976,"name":"Match Odds","eventName":"Raonic v J Melzer"},"rc":[{"ltp":5.8,"id":4105819},{"ltp":1.21,"id":2256472}]}]}
+{"op":"mcm","clk":"7724265392","pt":1540240578942,"mc":[{"id":"1.149909554","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966702","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:40:00.000Z","suspendTime":"2018-10-22T18:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-22T20:35:39.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4105819,"name":"Milos Raonic"},{"status":"WINNER","sortPriority":2,"id":2256472,"name":"Jurgen Melzer"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:40:00.000Z","version":2471231028,"name":"Match Odds","eventName":"Raonic v J Melzer"}}]}

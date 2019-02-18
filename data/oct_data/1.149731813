@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7740122708","pt":1539789595547,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"ACTIVE","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T10:00:00.000Z","version":2459403364,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}
+{"op":"mcm","clk":"7740171249","pt":1539790206759,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"ACTIVE","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T10:00:00.000Z","version":2459403364,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}
+{"op":"mcm","clk":"7742408727","pt":1539807175794,"mc":[{"id":"1.149731813","rc":[{"ltp":1.53,"id":7078784},{"ltp":2.9,"id":21144217}]}]}
+{"op":"mcm","clk":"7743456061","pt":1539820647895,"mc":[{"id":"1.149731813","rc":[{"ltp":1.48,"id":7078784}]}]}
+{"op":"mcm","clk":"7745794766","pt":1539854381869,"mc":[{"id":"1.149731813","rc":[{"ltp":1.39,"id":7078784}]}]}
+{"op":"mcm","clk":"7745932103","pt":1539856434339,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:50:00.000Z","suspendTime":"2018-10-18T09:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"ACTIVE","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:50:00.000Z","version":2460417303,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}
+{"op":"mcm","clk":"7745937764","pt":1539856520721,"mc":[{"id":"1.149731813","rc":[{"ltp":1.46,"id":7078784},{"ltp":3.15,"id":21144217}]}]}
+{"op":"mcm","clk":"7745955398","pt":1539856791813,"mc":[{"id":"1.149731813","rc":[{"ltp":1.43,"id":7078784}]}]}
+{"op":"mcm","clk":"7745962945","pt":1539856906159,"mc":[{"id":"1.149731813","rc":[{"ltp":3.25,"id":21144217}]}]}
+{"op":"mcm","clk":"7746002283","pt":1539857322924,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:50:00.000Z","suspendTime":"2018-10-18T09:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"ACTIVE","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:50:00.000Z","version":2460426145,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}
+{"op":"mcm","clk":"7746013080","pt":1539857447547,"mc":[{"id":"1.149731813","rc":[{"ltp":1.46,"id":7078784},{"ltp":3.15,"id":21144217}]}]}
+{"op":"mcm","clk":"7746021061","pt":1539857569872,"mc":[{"id":"1.149731813","rc":[{"ltp":1.33,"id":7078784},{"ltp":4.0,"id":21144217}]}]}
+{"op":"mcm","clk":"7746029193","pt":1539857685480,"mc":[{"id":"1.149731813","rc":[{"ltp":1.2,"id":7078784}]}]}
+{"op":"mcm","clk":"7746034159","pt":1539857746710,"mc":[{"id":"1.149731813","rc":[{"ltp":6.0,"id":21144217}]}]}
+{"op":"mcm","clk":"7746057498","pt":1539857867434,"mc":[{"id":"1.149731813","rc":[{"ltp":1.3,"id":7078784}]}]}
+{"op":"mcm","clk":"7746076702","pt":1539858114171,"mc":[{"id":"1.149731813","rc":[{"ltp":1.31,"id":7078784},{"ltp":4.2,"id":21144217}]}]}
+{"op":"mcm","clk":"7746080443","pt":1539858165060,"mc":[{"id":"1.149731813","rc":[{"ltp":1.34,"id":7078784}]}]}
+{"op":"mcm","clk":"7746089662","pt":1539858292608,"mc":[{"id":"1.149731813","rc":[{"ltp":1.37,"id":7078784},{"ltp":3.75,"id":21144217}]}]}
+{"op":"mcm","clk":"7746101273","pt":1539858473495,"mc":[{"id":"1.149731813","rc":[{"ltp":3.45,"id":21144217}]}]}
+{"op":"mcm","clk":"7746113443","pt":1539858650965,"mc":[{"id":"1.149731813","rc":[{"ltp":1.21,"id":7078784},{"ltp":5.8,"id":21144217}]}]}
+{"op":"mcm","clk":"7746136139","pt":1539858776639,"mc":[{"id":"1.149731813","rc":[{"ltp":1.15,"id":7078784},{"ltp":7.6,"id":21144217}]}]}
+{"op":"mcm","clk":"7746138581","pt":1539858813433,"mc":[{"id":"1.149731813","rc":[{"ltp":1.13,"id":7078784}]}]}
+{"op":"mcm","clk":"7746147936","pt":1539858956437,"mc":[{"id":"1.149731813","rc":[{"ltp":1.12,"id":7078784}]}]}
+{"op":"mcm","clk":"7746155680","pt":1539859068546,"mc":[{"id":"1.149731813","rc":[{"ltp":1.1,"id":7078784}]}]}
+{"op":"mcm","clk":"7746158816","pt":1539859108984,"mc":[{"id":"1.149731813","rc":[{"ltp":11.0,"id":21144217}]}]}
+{"op":"mcm","clk":"7746170833","pt":1539859253503,"mc":[{"id":"1.149731813","rc":[{"ltp":8.6,"id":21144217}]}]}
+{"op":"mcm","clk":"7746175156","pt":1539859316651,"mc":[{"id":"1.149731813","rc":[{"ltp":1.09,"id":7078784},{"ltp":12.0,"id":21144217}]}]}
+{"op":"mcm","clk":"7746187898","pt":1539859496354,"mc":[{"id":"1.149731813","rc":[{"ltp":1.11,"id":7078784}]}]}
+{"op":"mcm","clk":"7746192067","pt":1539859556610,"mc":[{"id":"1.149731813","rc":[{"ltp":10.0,"id":21144217}]}]}
+{"op":"mcm","clk":"7746196115","pt":1539859613606,"mc":[{"id":"1.149731813","rc":[{"ltp":1.13,"id":7078784}]}]}
+{"op":"mcm","clk":"7746217582","pt":1539859732118,"mc":[{"id":"1.149731813","rc":[{"ltp":1.24,"id":7078784}]}]}
+{"op":"mcm","clk":"7746221852","pt":1539859795132,"mc":[{"id":"1.149731813","rc":[{"ltp":1.25,"id":7078784}]}]}
+{"op":"mcm","clk":"7746225692","pt":1539859856379,"mc":[{"id":"1.149731813","rc":[{"ltp":1.32,"id":7078784},{"ltp":4.1,"id":21144217}]}]}
+{"op":"mcm","clk":"7746229500","pt":1539859914929,"mc":[{"id":"1.149731813","rc":[{"ltp":4.9,"id":21144217}]}]}
+{"op":"mcm","clk":"7746238425","pt":1539860035859,"mc":[{"id":"1.149731813","rc":[{"ltp":1.42,"id":7078784},{"ltp":3.8,"id":21144217}]}]}
+{"op":"mcm","clk":"7746242629","pt":1539860096296,"mc":[{"id":"1.149731813","rc":[{"ltp":1.35,"id":7078784}]}]}
+{"op":"mcm","clk":"7746250977","pt":1539860214888,"mc":[{"id":"1.149731813","rc":[{"ltp":1.31,"id":7078784},{"ltp":4.2,"id":21144217}]}]}
+{"op":"mcm","clk":"7746259735","pt":1539860335011,"mc":[{"id":"1.149731813","rc":[{"ltp":1.33,"id":7078784}]}]}
+{"op":"mcm","clk":"7746264831","pt":1539860396708,"mc":[{"id":"1.149731813","rc":[{"ltp":5.3,"id":21144217}]}]}
+{"op":"mcm","clk":"7746270901","pt":1539860456665,"mc":[{"id":"1.149731813","rc":[{"ltp":4.6,"id":21144217}]}]}
+{"op":"mcm","clk":"7746276539","pt":1539860515527,"mc":[{"id":"1.149731813","rc":[{"ltp":1.36,"id":7078784},{"ltp":3.5,"id":21144217}]}]}
+{"op":"mcm","clk":"7746296033","pt":1539860575122,"mc":[{"id":"1.149731813","rc":[{"ltp":1.46,"id":7078784}]}]}
+{"op":"mcm","clk":"7746301576","pt":1539860636581,"mc":[{"id":"1.149731813","rc":[{"ltp":1.41,"id":7078784},{"ltp":3.45,"id":21144217}]}]}
+{"op":"mcm","clk":"7746306967","pt":1539860696575,"mc":[{"id":"1.149731813","rc":[{"ltp":1.4,"id":7078784},{"ltp":2.98,"id":21144217}]}]}
+{"op":"mcm","clk":"7746311829","pt":1539860753214,"mc":[{"id":"1.149731813","rc":[{"ltp":1.68,"id":7078784},{"ltp":2.28,"id":21144217}]}]}
+{"op":"mcm","clk":"7746317286","pt":1539860815395,"mc":[{"id":"1.149731813","rc":[{"ltp":2.4,"id":21144217}]}]}
+{"op":"mcm","clk":"7746322475","pt":1539860873882,"mc":[{"id":"1.149731813","rc":[{"ltp":2.52,"id":21144217}]}]}
+{"op":"mcm","clk":"7746327259","pt":1539860933776,"mc":[{"id":"1.149731813","rc":[{"ltp":1.52,"id":7078784},{"ltp":2.94,"id":21144217}]}]}
+{"op":"mcm","clk":"7746336264","pt":1539861054155,"mc":[{"id":"1.149731813","rc":[{"ltp":1.62,"id":7078784},{"ltp":2.84,"id":21144217}]}]}
+{"op":"mcm","clk":"7746340576","pt":1539861113754,"mc":[{"id":"1.149731813","rc":[{"ltp":1.59,"id":7078784},{"ltp":2.86,"id":21144217}]}]}
+{"op":"mcm","clk":"7746349108","pt":1539861228042,"mc":[{"id":"1.149731813","rc":[{"ltp":1.7,"id":7078784},{"ltp":2.42,"id":21144217}]}]}
+{"op":"mcm","clk":"7746354225","pt":1539861292653,"mc":[{"id":"1.149731813","rc":[{"ltp":1.68,"id":7078784},{"ltp":2.5,"id":21144217}]}]}
+{"op":"mcm","clk":"7746359041","pt":1539861356393,"mc":[{"id":"1.149731813","rc":[{"ltp":1.67,"id":7078784},{"ltp":2.56,"id":21144217}]}]}
+{"op":"mcm","clk":"7746361858","pt":1539861395104,"mc":[{"id":"1.149731813","rc":[{"ltp":2.5,"id":21144217}]}]}
+{"op":"mcm","clk":"7746385041","pt":1539861527804,"mc":[{"id":"1.149731813","rc":[{"ltp":1.96,"id":7078784},{"ltp":2.04,"id":21144217}]}]}
+{"op":"mcm","clk":"7746389362","pt":1539861590377,"mc":[{"id":"1.149731813","rc":[{"ltp":2.56,"id":7078784},{"ltp":1.64,"id":21144217}]}]}
+{"op":"mcm","clk":"7746394105","pt":1539861656706,"mc":[{"id":"1.149731813","rc":[{"ltp":2.16,"id":7078784},{"ltp":1.86,"id":21144217}]}]}
+{"op":"mcm","clk":"7746397830","pt":1539861705282,"mc":[{"id":"1.149731813","rc":[{"ltp":2.08,"id":7078784},{"ltp":1.92,"id":21144217}]}]}
+{"op":"mcm","clk":"7746403026","pt":1539861773004,"mc":[{"id":"1.149731813","rc":[{"ltp":2.32,"id":21144217}]}]}
+{"op":"mcm","clk":"7746408375","pt":1539861834705,"mc":[{"id":"1.149731813","rc":[{"ltp":2.22,"id":7078784},{"ltp":1.82,"id":21144217}]}]}
+{"op":"mcm","clk":"7746413505","pt":1539861892845,"mc":[{"id":"1.149731813","rc":[{"ltp":2.94,"id":7078784},{"ltp":1.47,"id":21144217}]}]}
+{"op":"mcm","clk":"7746418226","pt":1539861946799,"mc":[{"id":"1.149731813","rc":[{"ltp":2.12,"id":7078784},{"ltp":1.42,"id":21144217}]}]}
+{"op":"mcm","clk":"7746424132","pt":1539862015643,"mc":[{"id":"1.149731813","rc":[{"ltp":6.0,"id":7078784},{"ltp":1.36,"id":21144217}]}]}
+{"op":"mcm","clk":"7746429456","pt":1539862076526,"mc":[{"id":"1.149731813","rc":[{"ltp":3.75,"id":7078784},{"ltp":1.35,"id":21144217}]}]}
+{"op":"mcm","clk":"7746434793","pt":1539862135187,"mc":[{"id":"1.149731813","rc":[{"ltp":34.0,"id":7078784},{"ltp":1.03,"id":21144217}]}]}
+{"op":"mcm","clk":"7746438790","pt":1539862180976,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:50:00.000Z","suspendTime":"2018-10-18T09:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"ACTIVE","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:50:00.000Z","version":2460472647,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}
+{"op":"mcm","clk":"7746440645","pt":1539862203037,"mc":[{"id":"1.149731813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961553","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:50:00.000Z","suspendTime":"2018-10-18T09:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T11:29:59.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":21144217,"name":"Panova/Siegemund"},{"status":"LOSER","sortPriority":2,"id":7078784,"name":"Mladenovic/Voskoboeva"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:50:00.000Z","version":2460472753,"name":"Match Odds","eventName":"Panova/Siegemund v Mladenovic/Voskoboeva"}}]}

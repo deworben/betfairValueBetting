@@ -1,0 +1,51 @@
+{"op":"mcm","clk":"7774289003","pt":1540192328070,"mc":[{"id":"1.149994166","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969772","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12605337,"name":"F Forti"},{"status":"ACTIVE","sortPriority":2,"id":9624166,"name":"G Diarra"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470433318,"name":"Match Odds","eventName":"F Forti v G Diarra"}}]}
+{"op":"mcm","clk":"7774290358","pt":1540192405866,"mc":[{"id":"1.149994166","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969772","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12605337,"name":"F Forti"},{"status":"ACTIVE","sortPriority":2,"id":9624166,"name":"G Diarra"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470433318,"name":"Match Odds","eventName":"F Forti v G Diarra"}}]}
+{"op":"mcm","clk":"7774555102","pt":1540198584691,"mc":[{"id":"1.149994166","rc":[{"ltp":1.45,"id":12605337}]}]}
+{"op":"mcm","clk":"7774878234","pt":1540203411524,"mc":[{"id":"1.149994166","rc":[{"ltp":1.5,"id":12605337}]}]}
+{"op":"mcm","clk":"7775018427","pt":1540205029040,"mc":[{"id":"1.149994166","rc":[{"ltp":1.51,"id":12605337}]}]}
+{"op":"mcm","clk":"7775088987","pt":1540206003282,"mc":[{"id":"1.149994166","rc":[{"ltp":2.98,"id":9624166}]}]}
+{"op":"mcm","clk":"7775093751","pt":1540206061347,"mc":[{"id":"1.149994166","rc":[{"ltp":2.54,"id":9624166}]}]}
+{"op":"mcm","clk":"7775348131","pt":1540209319906,"mc":[{"id":"1.149994166","rc":[{"ltp":1.55,"id":12605337},{"ltp":2.8,"id":9624166}]}]}
+{"op":"mcm","clk":"7775373302","pt":1540209540986,"mc":[{"id":"1.149994166","rc":[{"ltp":1.51,"id":12605337},{"ltp":2.92,"id":9624166}]}]}
+{"op":"mcm","clk":"7775395913","pt":1540209814631,"mc":[{"id":"1.149994166","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969772","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12605337,"name":"F Forti"},{"status":"ACTIVE","sortPriority":2,"id":9624166,"name":"G Diarra"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:00:00.000Z","version":2470600631,"name":"Match Odds","eventName":"F Forti v G Diarra"}}]}
+{"op":"mcm","clk":"7775428588","pt":1540210253137,"mc":[{"id":"1.149994166","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969772","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12605337,"name":"F Forti"},{"status":"ACTIVE","sortPriority":2,"id":9624166,"name":"G Diarra"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:10:23.000Z","version":2470604610,"name":"Match Odds","eventName":"F Forti v G Diarra"}}]}
+{"op":"mcm","clk":"7775450519","pt":1540210390818,"mc":[{"id":"1.149994166","rc":[{"ltp":1.34,"id":12605337}]}]}
+{"op":"mcm","clk":"7775475567","pt":1540210689958,"mc":[{"id":"1.149994166","rc":[{"ltp":1.55,"id":12605337}]}]}
+{"op":"mcm","clk":"7775480341","pt":1540210747624,"mc":[{"id":"1.149994166","rc":[{"ltp":1.45,"id":12605337},{"ltp":3.2,"id":9624166}]}]}
+{"op":"mcm","clk":"7775504081","pt":1540211049831,"mc":[{"id":"1.149994166","rc":[{"ltp":1.53,"id":12605337},{"ltp":2.9,"id":9624166}]}]}
+{"op":"mcm","clk":"7775507448","pt":1540211093272,"mc":[{"id":"1.149994166","rc":[{"ltp":1.37,"id":12605337}]}]}
+{"op":"mcm","clk":"7775582732","pt":1540211828390,"mc":[{"id":"1.149994166","rc":[{"ltp":3.3,"id":9624166}]}]}
+{"op":"mcm","clk":"7775601852","pt":1540212077066,"mc":[{"id":"1.149994166","rc":[{"ltp":1.34,"id":12605337}]}]}
+{"op":"mcm","clk":"7775619472","pt":1540212177312,"mc":[{"id":"1.149994166","rc":[{"ltp":1.37,"id":12605337}]}]}
+{"op":"mcm","clk":"7775647758","pt":1540212543640,"mc":[{"id":"1.149994166","rc":[{"ltp":1.41,"id":12605337}]}]}
+{"op":"mcm","clk":"7775652254","pt":1540212599308,"mc":[{"id":"1.149994166","rc":[{"ltp":2.82,"id":9624166}]}]}
+{"op":"mcm","clk":"7775661947","pt":1540212719982,"mc":[{"id":"1.149994166","rc":[{"ltp":1.57,"id":12605337}]}]}
+{"op":"mcm","clk":"7775722066","pt":1540213331429,"mc":[{"id":"1.149994166","rc":[{"ltp":1.71,"id":12605337},{"ltp":2.42,"id":9624166}]}]}
+{"op":"mcm","clk":"7775752258","pt":1540213627472,"mc":[{"id":"1.149994166","rc":[{"ltp":2.12,"id":9624166}]}]}
+{"op":"mcm","clk":"7775757266","pt":1540213679773,"mc":[{"id":"1.149994166","rc":[{"ltp":1.81,"id":12605337},{"ltp":2.24,"id":9624166}]}]}
+{"op":"mcm","clk":"7775769154","pt":1540213809693,"mc":[{"id":"1.149994166","rc":[{"ltp":1.92,"id":12605337}]}]}
+{"op":"mcm","clk":"7775773868","pt":1540213858550,"mc":[{"id":"1.149994166","rc":[{"ltp":2.52,"id":12605337},{"ltp":1.65,"id":9624166}]}]}
+{"op":"mcm","clk":"7775779660","pt":1540213919422,"mc":[{"id":"1.149994166","rc":[{"ltp":1.66,"id":9624166}]}]}
+{"op":"mcm","clk":"7775802428","pt":1540214049502,"mc":[{"id":"1.149994166","rc":[{"ltp":2.12,"id":12605337},{"ltp":1.9,"id":9624166}]}]}
+{"op":"mcm","clk":"7775807083","pt":1540214099412,"mc":[{"id":"1.149994166","rc":[{"ltp":2.52,"id":12605337},{"ltp":1.66,"id":9624166}]}]}
+{"op":"mcm","clk":"7775820201","pt":1540214230272,"mc":[{"id":"1.149994166","rc":[{"ltp":2.42,"id":12605337},{"ltp":1.71,"id":9624166}]}]}
+{"op":"mcm","clk":"7775825908","pt":1540214289721,"mc":[{"id":"1.149994166","rc":[{"ltp":1.87,"id":12605337},{"ltp":2.14,"id":9624166}]}]}
+{"op":"mcm","clk":"7775831213","pt":1540214345856,"mc":[{"id":"1.149994166","rc":[{"ltp":1.66,"id":12605337},{"ltp":2.52,"id":9624166}]}]}
+{"op":"mcm","clk":"7775836308","pt":1540214398284,"mc":[{"id":"1.149994166","rc":[{"ltp":1.96,"id":9624166}]}]}
+{"op":"mcm","clk":"7775844496","pt":1540214468675,"mc":[{"id":"1.149994166","rc":[{"ltp":1.9,"id":12605337},{"ltp":1.74,"id":9624166}]}]}
+{"op":"mcm","clk":"7775850747","pt":1540214524292,"mc":[{"id":"1.149994166","rc":[{"ltp":1.71,"id":12605337}]}]}
+{"op":"mcm","clk":"7775869788","pt":1540214711428,"mc":[{"id":"1.149994166","rc":[{"ltp":2.52,"id":12605337}]}]}
+{"op":"mcm","clk":"7775875340","pt":1540214779806,"mc":[{"id":"1.149994166","rc":[{"ltp":1.66,"id":9624166}]}]}
+{"op":"mcm","clk":"7775915754","pt":1540215124330,"mc":[{"id":"1.149994166","rc":[{"ltp":1.44,"id":9624166}]}]}
+{"op":"mcm","clk":"7775920900","pt":1540215189281,"mc":[{"id":"1.149994166","rc":[{"ltp":3.65,"id":12605337}]}]}
+{"op":"mcm","clk":"7775926086","pt":1540215248633,"mc":[{"id":"1.149994166","rc":[{"ltp":4.6,"id":12605337},{"ltp":1.28,"id":9624166}]}]}
+{"op":"mcm","clk":"7775931432","pt":1540215310946,"mc":[{"id":"1.149994166","rc":[{"ltp":7.2,"id":12605337},{"ltp":1.16,"id":9624166}]}]}
+{"op":"mcm","clk":"7775936322","pt":1540215364532,"mc":[{"id":"1.149994166","rc":[{"ltp":7.6,"id":12605337}]}]}
+{"op":"mcm","clk":"7775942633","pt":1540215431233,"mc":[{"id":"1.149994166","rc":[{"ltp":9.2,"id":12605337},{"ltp":1.1,"id":9624166}]}]}
+{"op":"mcm","clk":"7775947752","pt":1540215483799,"mc":[{"id":"1.149994166","rc":[{"ltp":11.0,"id":12605337}]}]}
+{"op":"mcm","clk":"7775954386","pt":1540215548246,"mc":[{"id":"1.149994166","rc":[{"ltp":13.5,"id":12605337},{"ltp":1.08,"id":9624166}]}]}
+{"op":"mcm","clk":"7775960495","pt":1540215611148,"mc":[{"id":"1.149994166","rc":[{"ltp":26.0,"id":12605337},{"ltp":1.05,"id":9624166}]}]}
+{"op":"mcm","clk":"7775965229","pt":1540215657751,"mc":[{"id":"1.149994166","rc":[{"ltp":1.03,"id":9624166}]}]}
+{"op":"mcm","clk":"7775983874","pt":1540215729267,"mc":[{"id":"1.149994166","rc":[{"ltp":30.0,"id":12605337},{"ltp":1.01,"id":9624166}]}]}
+{"op":"mcm","clk":"7776012961","pt":1540216020510,"mc":[{"id":"1.149994166","rc":[{"ltp":490.0,"id":12605337}]}]}
+{"op":"mcm","clk":"7776025147","pt":1540216175168,"mc":[{"id":"1.149994166","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969772","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T12:00:00.000Z","suspendTime":"2018-10-22T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-22T13:49:32.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":12605337,"name":"F Forti"},{"status":"WINNER","sortPriority":2,"id":9624166,"name":"G Diarra"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-22T12:10:23.000Z","version":2470680481,"name":"Match Odds","eventName":"F Forti v G Diarra"}}]}

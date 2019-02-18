@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"7828417238","pt":1540621947510,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:00:00.000Z","suspendTime":"2018-10-28T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:00:00.000Z","version":2477644533,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7828525592","pt":1540623226956,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:30:00.000Z","suspendTime":"2018-10-28T00:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:30:00.000Z","version":2477651039,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7828553654","pt":1540623718473,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:30:00.000Z","suspendTime":"2018-10-28T00:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:30:00.000Z","version":2477651039,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7840481584","pt":1540686325946,"mc":[{"id":"1.150303880","rc":[{"ltp":1.25,"id":7412831}]}]}
+{"op":"mcm","clk":"7840500328","pt":1540686571450,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:45:00.000Z","suspendTime":"2018-10-28T00:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:45:00.000Z","version":2480952550,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7840586593","pt":1540687424080,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T01:00:00.000Z","suspendTime":"2018-10-28T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T01:00:00.000Z","version":2480972487,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7840626051","pt":1540687725105,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:47:00.000Z","suspendTime":"2018-10-28T00:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:47:00.000Z","version":2480975018,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7840673432","pt":1540688329453,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:47:00.000Z","suspendTime":"2018-10-28T00:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"ACTIVE","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:47:00.000Z","version":2480983818,"name":"Match Odds","eventName":"18737544"}}]}
+{"op":"mcm","clk":"7840681688","pt":1540688448499,"mc":[{"id":"1.150303880","rc":[{"ltp":5.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7840708471","pt":1540688621750,"mc":[{"id":"1.150303880","rc":[{"ltp":1.12,"id":7412831},{"ltp":9.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7840727880","pt":1540688862995,"mc":[{"id":"1.150303880","rc":[{"ltp":1.14,"id":7412831}]}]}
+{"op":"mcm","clk":"7840733403","pt":1540688926411,"mc":[{"id":"1.150303880","rc":[{"ltp":1.11,"id":7412831},{"ltp":12.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7840764383","pt":1540689279193,"mc":[{"id":"1.150303880","rc":[{"ltp":1.07,"id":7412831}]}]}
+{"op":"mcm","clk":"7840805198","pt":1540689585867,"mc":[{"id":"1.150303880","rc":[{"ltp":1.08,"id":7412831}]}]}
+{"op":"mcm","clk":"7840822035","pt":1540689806936,"mc":[{"id":"1.150303880","rc":[{"ltp":1.07,"id":7412831},{"ltp":15.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7840838658","pt":1540690008903,"mc":[{"id":"1.150303880","rc":[{"ltp":1.06,"id":7412831}]}]}
+{"op":"mcm","clk":"7840882637","pt":1540690422916,"mc":[{"id":"1.150303880","rc":[{"ltp":1.09,"id":7412831},{"ltp":12.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7840887723","pt":1540690485469,"mc":[{"id":"1.150303880","rc":[{"ltp":1.13,"id":7412831}]}]}
+{"op":"mcm","clk":"7840927473","pt":1540691027730,"mc":[{"id":"1.150303880","rc":[{"ltp":9.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7840932034","pt":1540691085417,"mc":[{"id":"1.150303880","rc":[{"ltp":1.14,"id":7412831}]}]}
+{"op":"mcm","clk":"7840936955","pt":1540691149784,"mc":[{"id":"1.150303880","rc":[{"ltp":1.13,"id":7412831},{"ltp":8.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7840941455","pt":1540691209315,"mc":[{"id":"1.150303880","rc":[{"ltp":1.11,"id":7412831},{"ltp":10.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7840973103","pt":1540691443977,"mc":[{"id":"1.150303880","rc":[{"ltp":1.15,"id":7412831},{"ltp":7.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7840977027","pt":1540691504750,"mc":[{"id":"1.150303880","rc":[{"ltp":1.13,"id":7412831},{"ltp":8.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7840983175","pt":1540691617588,"mc":[{"id":"1.150303880","rc":[{"ltp":1.14,"id":7412831}]}]}
+{"op":"mcm","clk":"7840989560","pt":1540691745221,"mc":[{"id":"1.150303880","rc":[{"ltp":1.09,"id":7412831}]}]}
+{"op":"mcm","clk":"7840992470","pt":1540691796621,"mc":[{"id":"1.150303880","rc":[{"ltp":1.05,"id":7412831}]}]}
+{"op":"mcm","clk":"7840996888","pt":1540691867473,"mc":[{"id":"1.150303880","rc":[{"ltp":1.02,"id":7412831}]}]}
+{"op":"mcm","clk":"7841001319","pt":1540691930037,"mc":[{"id":"1.150303880","rc":[{"ltp":1.06,"id":7412831},{"ltp":21.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841005520","pt":1540691987023,"mc":[{"id":"1.150303880","rc":[{"ltp":1.14,"id":7412831},{"ltp":10.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841010876","pt":1540692049572,"mc":[{"id":"1.150303880","rc":[{"ltp":8.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841015860","pt":1540692105390,"mc":[{"id":"1.150303880","rc":[{"ltp":1.15,"id":7412831},{"ltp":7.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841034876","pt":1540692168155,"mc":[{"id":"1.150303880","rc":[{"ltp":1.17,"id":7412831}]}]}
+{"op":"mcm","clk":"7841041169","pt":1540692228533,"mc":[{"id":"1.150303880","rc":[{"ltp":1.11,"id":7412831},{"ltp":10.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841051157","pt":1540692344963,"mc":[{"id":"1.150303880","rc":[{"ltp":1.12,"id":7412831}]}]}
+{"op":"mcm","clk":"7841056477","pt":1540692407169,"mc":[{"id":"1.150303880","rc":[{"ltp":7.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7841061597","pt":1540692465617,"mc":[{"id":"1.150303880","rc":[{"ltp":1.16,"id":7412831},{"ltp":6.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7841084267","pt":1540692709795,"mc":[{"id":"1.150303880","rc":[{"ltp":1.15,"id":7412831},{"ltp":8.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841089825","pt":1540692768604,"mc":[{"id":"1.150303880","rc":[{"ltp":1.16,"id":7412831},{"ltp":6.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7841094112","pt":1540692824008,"mc":[{"id":"1.150303880","rc":[{"ltp":1.15,"id":7412831},{"ltp":7.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7841104405","pt":1540692946175,"mc":[{"id":"1.150303880","rc":[{"ltp":1.11,"id":7412831}]}]}
+{"op":"mcm","clk":"7841111312","pt":1540693007599,"mc":[{"id":"1.150303880","rc":[{"ltp":1.09,"id":7412831}]}]}
+{"op":"mcm","clk":"7841130062","pt":1540693066012,"mc":[{"id":"1.150303880","rc":[{"ltp":1.12,"id":7412831},{"ltp":8.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841135871","pt":1540693128734,"mc":[{"id":"1.150303880","rc":[{"ltp":1.11,"id":7412831},{"ltp":10.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841140847","pt":1540693181265,"mc":[{"id":"1.150303880","rc":[{"ltp":1.1,"id":7412831},{"ltp":10.5,"id":8939657}]}]}
+{"op":"mcm","clk":"7841150555","pt":1540693307177,"mc":[{"id":"1.150303880","rc":[{"ltp":1.35,"id":7412831},{"ltp":5.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841156122","pt":1540693369298,"mc":[{"id":"1.150303880","rc":[{"ltp":1.44,"id":7412831},{"ltp":3.3,"id":8939657}]}]}
+{"op":"mcm","clk":"7841161267","pt":1540693426388,"mc":[{"id":"1.150303880","rc":[{"ltp":1.45,"id":7412831},{"ltp":3.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841166629","pt":1540693483649,"mc":[{"id":"1.150303880","rc":[{"ltp":1.34,"id":7412831},{"ltp":3.9,"id":8939657}]}]}
+{"op":"mcm","clk":"7841172063","pt":1540693549289,"mc":[{"id":"1.150303880","rc":[{"ltp":1.31,"id":7412831},{"ltp":4.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841176285","pt":1540693608323,"mc":[{"id":"1.150303880","rc":[{"ltp":1.32,"id":7412831},{"ltp":4.1,"id":8939657}]}]}
+{"op":"mcm","clk":"7841179889","pt":1540693658959,"mc":[{"id":"1.150303880","rc":[{"ltp":1.35,"id":7412831},{"ltp":3.5,"id":8939657}]}]}
+{"op":"mcm","clk":"7841184679","pt":1540693723616,"mc":[{"id":"1.150303880","rc":[{"ltp":4.5,"id":8939657}]}]}
+{"op":"mcm","clk":"7841190143","pt":1540693789663,"mc":[{"id":"1.150303880","rc":[{"ltp":3.85,"id":8939657}]}]}
+{"op":"mcm","clk":"7841193645","pt":1540693830022,"mc":[{"id":"1.150303880","rc":[{"ltp":1.33,"id":7412831},{"ltp":3.9,"id":8939657}]}]}
+{"op":"mcm","clk":"7841198993","pt":1540693899360,"mc":[{"id":"1.150303880","rc":[{"ltp":1.35,"id":7412831},{"ltp":3.8,"id":8939657}]}]}
+{"op":"mcm","clk":"7841217367","pt":1540693959624,"mc":[{"id":"1.150303880","rc":[{"ltp":1.32,"id":7412831},{"ltp":3.5,"id":8939657}]}]}
+{"op":"mcm","clk":"7841230331","pt":1540694089328,"mc":[{"id":"1.150303880","rc":[{"ltp":1.31,"id":7412831},{"ltp":4.3,"id":8939657}]}]}
+{"op":"mcm","clk":"7841232611","pt":1540694114311,"mc":[{"id":"1.150303880","rc":[{"ltp":4.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841240453","pt":1540694207086,"mc":[{"id":"1.150303880","rc":[{"ltp":1.33,"id":7412831}]}]}
+{"op":"mcm","clk":"7841244984","pt":1540694266633,"mc":[{"id":"1.150303880","rc":[{"ltp":1.34,"id":7412831},{"ltp":3.9,"id":8939657}]}]}
+{"op":"mcm","clk":"7841254364","pt":1540694380556,"mc":[{"id":"1.150303880","rc":[{"ltp":1.41,"id":7412831},{"ltp":3.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7841259888","pt":1540694443400,"mc":[{"id":"1.150303880","rc":[{"ltp":3.6,"id":8939657}]}]}
+{"op":"mcm","clk":"7841264383","pt":1540694491654,"mc":[{"id":"1.150303880","rc":[{"ltp":1.36,"id":7412831}]}]}
+{"op":"mcm","clk":"7841277222","pt":1540694626725,"mc":[{"id":"1.150303880","rc":[{"ltp":1.34,"id":7412831}]}]}
+{"op":"mcm","clk":"7841282688","pt":1540694681838,"mc":[{"id":"1.150303880","rc":[{"ltp":1.35,"id":7412831}]}]}
+{"op":"mcm","clk":"7841317171","pt":1540694928141,"mc":[{"id":"1.150303880","rc":[{"ltp":3.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7841322837","pt":1540694989548,"mc":[{"id":"1.150303880","rc":[{"ltp":1.36,"id":7412831}]}]}
+{"op":"mcm","clk":"7841328233","pt":1540695047342,"mc":[{"id":"1.150303880","rc":[{"ltp":1.33,"id":7412831},{"ltp":4.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841333415","pt":1540695105429,"mc":[{"id":"1.150303880","rc":[{"ltp":1.28,"id":7412831},{"ltp":4.5,"id":8939657}]}]}
+{"op":"mcm","clk":"7841338568","pt":1540695166701,"mc":[{"id":"1.150303880","rc":[{"ltp":1.18,"id":7412831},{"ltp":5.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841343727","pt":1540695228672,"mc":[{"id":"1.150303880","rc":[{"ltp":1.33,"id":7412831},{"ltp":4.0,"id":8939657}]}]}
+{"op":"mcm","clk":"7841348799","pt":1540695289920,"mc":[{"id":"1.150303880","rc":[{"ltp":1.54,"id":7412831},{"ltp":2.88,"id":8939657}]}]}
+{"op":"mcm","clk":"7841352258","pt":1540695341011,"mc":[{"id":"1.150303880","rc":[{"ltp":1.35,"id":7412831},{"ltp":3.85,"id":8939657}]}]}
+{"op":"mcm","clk":"7841357456","pt":1540695405826,"mc":[{"id":"1.150303880","rc":[{"ltp":1.37,"id":7412831},{"ltp":3.9,"id":8939657}]}]}
+{"op":"mcm","clk":"7841367939","pt":1540695569544,"mc":[{"id":"1.150303880","rc":[{"ltp":1.48,"id":7412831},{"ltp":3.05,"id":8939657}]}]}
+{"op":"mcm","clk":"7841372622","pt":1540695647296,"mc":[{"id":"1.150303880","rc":[{"ltp":1.54,"id":7412831},{"ltp":2.84,"id":8939657}]}]}
+{"op":"mcm","clk":"7841376935","pt":1540695702685,"mc":[{"id":"1.150303880","rc":[{"ltp":1.58,"id":7412831},{"ltp":2.72,"id":8939657}]}]}
+{"op":"mcm","clk":"7841394575","pt":1540695769815,"mc":[{"id":"1.150303880","rc":[{"ltp":1.83,"id":7412831},{"ltp":2.2,"id":8939657}]}]}
+{"op":"mcm","clk":"7841397973","pt":1540695811318,"mc":[{"id":"1.150303880","rc":[{"ltp":1.45,"id":7412831},{"ltp":2.12,"id":8939657}]}]}
+{"op":"mcm","clk":"7841403453","pt":1540695885904,"mc":[{"id":"1.150303880","rc":[{"ltp":1.41,"id":7412831},{"ltp":3.4,"id":8939657}]}]}
+{"op":"mcm","clk":"7841407483","pt":1540695945594,"mc":[{"id":"1.150303880","rc":[{"ltp":1.44,"id":7412831},{"ltp":3.25,"id":8939657}]}]}
+{"op":"mcm","clk":"7841413120","pt":1540696009305,"mc":[{"id":"1.150303880","rc":[{"ltp":1.43,"id":7412831}]}]}
+{"op":"mcm","clk":"7841417423","pt":1540696063920,"mc":[{"id":"1.150303880","rc":[{"ltp":1.27,"id":7412831},{"ltp":4.7,"id":8939657}]}]}
+{"op":"mcm","clk":"7841421654","pt":1540696125301,"mc":[{"id":"1.150303880","rc":[{"ltp":1.21,"id":7412831}]}]}
+{"op":"mcm","clk":"7841426047","pt":1540696185560,"mc":[{"id":"1.150303880","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978890","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:47:00.000Z","suspendTime":"2018-10-28T00:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-28T03:09:42.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7412831,"name":"Francesco Vilardo"},{"status":"LOSER","sortPriority":2,"id":8939657,"name":"Scott Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:47:00.000Z","version":2481133269,"name":"Match Odds","eventName":"18737544"}}]}

@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7670241546","pt":1539718195706,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T16:00:00.000Z","suspendTime":"2018-10-17T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T16:00:00.000Z","version":2458678980,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}
+{"op":"mcm","clk":"7670271215","pt":1539718508986,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T16:00:00.000Z","suspendTime":"2018-10-17T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T16:00:00.000Z","version":2458678980,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}
+{"op":"mcm","clk":"7670883335","pt":1539729523604,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T00:00:00.000Z","suspendTime":"2018-10-18T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T00:00:00.000Z","version":2458809548,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}
+{"op":"mcm","clk":"7672578033","pt":1539768686448,"mc":[{"id":"1.149690481","rc":[{"ltp":1.15,"id":19924841}]}]}
+{"op":"mcm","clk":"7672924422","pt":1539773074128,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841},{"ltp":6.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7673454236","pt":1539779282011,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7674054417","pt":1539785620468,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841}]}]}
+{"op":"mcm","clk":"7674219752","pt":1539787420151,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841},{"ltp":7.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7674236454","pt":1539787601842,"mc":[{"id":"1.149690481","rc":[{"ltp":1.16,"id":19924841},{"ltp":7.4,"id":9323645}]}]}
+{"op":"mcm","clk":"7674241635","pt":1539787664626,"mc":[{"id":"1.149690481","rc":[{"ltp":1.15,"id":19924841},{"ltp":7.8,"id":9323645}]}]}
+{"op":"mcm","clk":"7674259210","pt":1539787900813,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841},{"ltp":6.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7674394207","pt":1539789428395,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7675742047","pt":1539801717300,"mc":[{"id":"1.149690481","rc":[{"ltp":5.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7675892375","pt":1539802888400,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841}]}]}
+{"op":"mcm","clk":"7675957195","pt":1539803314198,"mc":[{"id":"1.149690481","rc":[{"ltp":5.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7676693871","pt":1539809997093,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841}]}]}
+{"op":"mcm","clk":"7676705651","pt":1539810177235,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841}]}]}
+{"op":"mcm","clk":"7676748178","pt":1539810592451,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7676753542","pt":1539810657308,"mc":[{"id":"1.149690481","rc":[{"ltp":6.4,"id":9323645}]}]}
+{"op":"mcm","clk":"7676848437","pt":1539811731584,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7676895506","pt":1539812249648,"mc":[{"id":"1.149690481","rc":[{"ltp":1.16,"id":19924841}]}]}
+{"op":"mcm","clk":"7676914148","pt":1539812505868,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841}]}]}
+{"op":"mcm","clk":"7676919261","pt":1539812577335,"mc":[{"id":"1.149690481","rc":[{"ltp":6.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7676933916","pt":1539812793357,"mc":[{"id":"1.149690481","rc":[{"ltp":6.4,"id":9323645}]}]}
+{"op":"mcm","clk":"7676954021","pt":1539813115686,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7676981781","pt":1539813406337,"mc":[{"id":"1.149690481","rc":[{"ltp":1.21,"id":19924841},{"ltp":5.7,"id":9323645}]}]}
+{"op":"mcm","clk":"7677034392","pt":1539814077170,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841},{"ltp":6.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677115471","pt":1539815149614,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7677285869","pt":1539817316890,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841}]}]}
+{"op":"mcm","clk":"7677302075","pt":1539817556846,"mc":[{"id":"1.149690481","rc":[{"ltp":5.9,"id":9323645}]}]}
+{"op":"mcm","clk":"7677366962","pt":1539818337371,"mc":[{"id":"1.149690481","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7677371017","pt":1539818389627,"mc":[{"id":"1.149690481","rc":[{"ltp":1.22,"id":19924841},{"ltp":5.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7677436730","pt":1539819117043,"mc":[{"id":"1.149690481","rc":[{"ltp":5.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7677445437","pt":1539819237327,"mc":[{"id":"1.149690481","rc":[{"ltp":5.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7677480953","pt":1539819588881,"mc":[{"id":"1.149690481","rc":[{"ltp":1.2,"id":19924841},{"ltp":5.8,"id":9323645}]}]}
+{"op":"mcm","clk":"7677524174","pt":1539820132635,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T23:46:00.000Z","suspendTime":"2018-10-17T23:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T23:46:00.000Z","version":2460101837,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}
+{"op":"mcm","clk":"7677528220","pt":1539820181790,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841},{"ltp":6.4,"id":9323645}]}]}
+{"op":"mcm","clk":"7677572419","pt":1539820598597,"mc":[{"id":"1.149690481","rc":[{"ltp":6.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677637314","pt":1539821336565,"mc":[{"id":"1.149690481","rc":[{"ltp":6.2,"id":9323645}]}]}
+{"op":"mcm","clk":"7677654699","pt":1539821575319,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841}]}]}
+{"op":"mcm","clk":"7677659751","pt":1539821637272,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T23:46:00.000Z","suspendTime":"2018-10-17T23:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T23:46:00.000Z","version":2460113563,"name":"Match Odds","eventName":"Thompson v Galarneau"},"rc":[{"ltp":1.26,"id":19924841},{"ltp":5.1,"id":9323645}]}]}
+{"op":"mcm","clk":"7677664699","pt":1539821696560,"mc":[{"id":"1.149690481","rc":[{"ltp":1.23,"id":19924841},{"ltp":4.9,"id":9323645}]}]}
+{"op":"mcm","clk":"7677669897","pt":1539821756826,"mc":[{"id":"1.149690481","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7677675025","pt":1539821815577,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841},{"ltp":6.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7677680571","pt":1539821877358,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841},{"ltp":7.4,"id":9323645}]}]}
+{"op":"mcm","clk":"7677691185","pt":1539821996844,"mc":[{"id":"1.149690481","rc":[{"ltp":1.18,"id":19924841},{"ltp":6.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7677696532","pt":1539822054839,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841},{"ltp":6.8,"id":9323645}]}]}
+{"op":"mcm","clk":"7677702154","pt":1539822117261,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841}]}]}
+{"op":"mcm","clk":"7677718152","pt":1539822177066,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7677723394","pt":1539822234767,"mc":[{"id":"1.149690481","rc":[{"ltp":1.15,"id":19924841},{"ltp":7.6,"id":9323645}]}]}
+{"op":"mcm","clk":"7677728667","pt":1539822294690,"mc":[{"id":"1.149690481","rc":[{"ltp":1.19,"id":19924841},{"ltp":6.2,"id":9323645}]}]}
+{"op":"mcm","clk":"7677733493","pt":1539822356428,"mc":[{"id":"1.149690481","rc":[{"ltp":1.17,"id":19924841}]}]}
+{"op":"mcm","clk":"7677738242","pt":1539822415500,"mc":[{"id":"1.149690481","rc":[{"ltp":1.15,"id":19924841},{"ltp":7.2,"id":9323645}]}]}
+{"op":"mcm","clk":"7677742754","pt":1539822477221,"mc":[{"id":"1.149690481","rc":[{"ltp":1.13,"id":19924841}]}]}
+{"op":"mcm","clk":"7677747197","pt":1539822537317,"mc":[{"id":"1.149690481","rc":[{"ltp":1.11,"id":19924841},{"ltp":10.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677751470","pt":1539822595990,"mc":[{"id":"1.149690481","rc":[{"ltp":1.08,"id":19924841},{"ltp":12.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7677755837","pt":1539822656289,"mc":[{"id":"1.149690481","rc":[{"ltp":1.07,"id":19924841},{"ltp":15.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7677760020","pt":1539822716717,"mc":[{"id":"1.149690481","rc":[{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7677772372","pt":1539822895698,"mc":[{"id":"1.149690481","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7677776547","pt":1539822955171,"mc":[{"id":"1.149690481","rc":[{"ltp":1.06,"id":19924841},{"ltp":17.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7677780639","pt":1539823014055,"mc":[{"id":"1.149690481","rc":[{"ltp":1.07,"id":19924841},{"ltp":18.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677796439","pt":1539823077318,"mc":[{"id":"1.149690481","rc":[{"ltp":1.06,"id":19924841},{"ltp":17.5,"id":9323645}]}]}
+{"op":"mcm","clk":"7677800573","pt":1539823137374,"mc":[{"id":"1.149690481","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7677804525","pt":1539823191565,"mc":[{"id":"1.149690481","rc":[{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7677822480","pt":1539823432674,"mc":[{"id":"1.149690481","rc":[{"ltp":1.04,"id":19924841},{"ltp":20.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677831932","pt":1539823556136,"mc":[{"id":"1.149690481","rc":[{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7677840191","pt":1539823665746,"mc":[{"id":"1.149690481","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7677849527","pt":1539823795671,"mc":[{"id":"1.149690481","rc":[{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7677853718","pt":1539823855909,"mc":[{"id":"1.149690481","rc":[{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7677877365","pt":1539824031926,"mc":[{"id":"1.149690481","rc":[{"ltp":1.01,"id":19924841}]}]}
+{"op":"mcm","clk":"7677881568","pt":1539824092251,"mc":[{"id":"1.149690481","rc":[{"ltp":34.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677886282","pt":1539824155885,"mc":[{"id":"1.149690481","rc":[{"ltp":100.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677897300","pt":1539824310150,"mc":[{"id":"1.149690481","rc":[{"ltp":110.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677961345","pt":1539824993997,"mc":[{"id":"1.149690481","rc":[{"ltp":990.0,"id":9323645}]}]}
+{"op":"mcm","clk":"7677970459","pt":1539825103431,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T23:46:00.000Z","suspendTime":"2018-10-17T23:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T23:46:00.000Z","version":2460156703,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}
+{"op":"mcm","clk":"7677973643","pt":1539825141439,"mc":[{"id":"1.149690481","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T23:46:00.000Z","suspendTime":"2018-10-17T23:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T01:12:15.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"LOSER","sortPriority":2,"id":9323645,"name":"Alexis Galarneau"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T23:46:00.000Z","version":2460156875,"name":"Match Odds","eventName":"Thompson v Galarneau"}}]}

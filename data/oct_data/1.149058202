@@ -1,0 +1,164 @@
+{"op":"mcm","clk":"7558807563","pt":1538621423210,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T16:00:00.000Z","suspendTime":"2018-10-05T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T16:00:00.000Z","version":2436421008,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7558841795","pt":1538622145556,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T16:00:00.000Z","suspendTime":"2018-10-05T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T16:00:00.000Z","version":2436421008,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7563555667","pt":1538674820786,"mc":[{"id":"1.149058202","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7564465810","pt":1538681415301,"mc":[{"id":"1.149058202","rc":[{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7565200492","pt":1538688629096,"mc":[{"id":"1.149058202","rc":[{"ltp":2.18,"id":2263570}]}]}
+{"op":"mcm","clk":"7565948425","pt":1538698765324,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:00:00.000Z","suspendTime":"2018-10-06T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:00:00.000Z","version":2437478199,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7566443095","pt":1538706266978,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:00:00.000Z","suspendTime":"2018-10-05T22:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:00:00.000Z","version":2437523717,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7566522222","pt":1538707765419,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T16:00:00.000Z","suspendTime":"2018-10-05T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T16:00:00.000Z","version":2437534116,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7566551465","pt":1538708066378,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:00:00.000Z","suspendTime":"2018-10-05T22:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:00:00.000Z","version":2437536705,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7569118873","pt":1538738963657,"mc":[{"id":"1.149058202","rc":[{"ltp":2.08,"id":2263570}]}]}
+{"op":"mcm","clk":"7570386625","pt":1538748251065,"mc":[{"id":"1.149058202","rc":[{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7572213427","pt":1538759715739,"mc":[{"id":"1.149058202","rc":[{"ltp":1.77,"id":7593723}]}]}
+{"op":"mcm","clk":"7572540429","pt":1538761693736,"mc":[{"id":"1.149058202","rc":[{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7573705031","pt":1538767160998,"mc":[{"id":"1.149058202","rc":[{"ltp":1.71,"id":7593723}]}]}
+{"op":"mcm","clk":"7574105014","pt":1538769082058,"mc":[{"id":"1.149058202","rc":[{"ltp":2.32,"id":2263570}]}]}
+{"op":"mcm","clk":"7574150515","pt":1538769265944,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T21:50:00.000Z","suspendTime":"2018-10-05T21:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T21:50:00.000Z","version":2438882717,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7574173707","pt":1538769437891,"mc":[{"id":"1.149058202","rc":[{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7574181217","pt":1538769495058,"mc":[{"id":"1.149058202","rc":[{"ltp":1.73,"id":7593723}]}]}
+{"op":"mcm","clk":"7574200381","pt":1538769629712,"mc":[{"id":"1.149058202","rc":[{"ltp":1.72,"id":7593723}]}]}
+{"op":"mcm","clk":"7574210158","pt":1538769687445,"mc":[{"id":"1.149058202","rc":[{"ltp":2.34,"id":2263570},{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7574218603","pt":1538769747835,"mc":[{"id":"1.149058202","rc":[{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7574233393","pt":1538769851041,"mc":[{"id":"1.149058202","rc":[{"ltp":2.3,"id":2263570}]}]}
+{"op":"mcm","clk":"7574243440","pt":1538769925451,"mc":[{"id":"1.149058202","rc":[{"ltp":2.24,"id":2263570},{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7574251542","pt":1538769987745,"mc":[{"id":"1.149058202","rc":[{"ltp":2.08,"id":2263570},{"ltp":1.92,"id":7593723}]}]}
+{"op":"mcm","clk":"7574291881","pt":1538770169697,"mc":[{"id":"1.149058202","rc":[{"ltp":2.18,"id":2263570},{"ltp":1.86,"id":7593723}]}]}
+{"op":"mcm","clk":"7574323172","pt":1538770400243,"mc":[{"id":"1.149058202","rc":[{"ltp":2.1,"id":2263570},{"ltp":1.91,"id":7593723}]}]}
+{"op":"mcm","clk":"7574347767","pt":1538770587388,"mc":[{"id":"1.149058202","rc":[{"ltp":2.28,"id":2263570},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7574413921","pt":1538771006197,"mc":[{"id":"1.149058202","rc":[{"ltp":2.26,"id":2263570},{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7574420871","pt":1538771064628,"mc":[{"id":"1.149058202","rc":[{"ltp":2.2,"id":2263570},{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7574484114","pt":1538771669583,"mc":[{"id":"1.149058202","rc":[{"ltp":2.16,"id":2263570}]}]}
+{"op":"mcm","clk":"7574490377","pt":1538771728019,"mc":[{"id":"1.149058202","rc":[{"ltp":2.08,"id":2263570},{"ltp":1.92,"id":7593723}]}]}
+{"op":"mcm","clk":"7574524855","pt":1538771904492,"mc":[{"id":"1.149058202","rc":[{"ltp":2.12,"id":2263570}]}]}
+{"op":"mcm","clk":"7574529876","pt":1538771969251,"mc":[{"id":"1.149058202","rc":[{"ltp":2.04,"id":2263570},{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7574535390","pt":1538772029639,"mc":[{"id":"1.149058202","rc":[{"ltp":1.98,"id":2263570}]}]}
+{"op":"mcm","clk":"7574540338","pt":1538772089617,"mc":[{"id":"1.149058202","rc":[{"ltp":1.88,"id":2263570},{"ltp":2.16,"id":7593723}]}]}
+{"op":"mcm","clk":"7574545549","pt":1538772142657,"mc":[{"id":"1.149058202","rc":[{"ltp":1.85,"id":2263570},{"ltp":2.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7574551041","pt":1538772202307,"mc":[{"id":"1.149058202","rc":[{"ltp":1.91,"id":2263570},{"ltp":2.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7574557597","pt":1538772267381,"mc":[{"id":"1.149058202","rc":[{"ltp":1.92,"id":2263570}]}]}
+{"op":"mcm","clk":"7574562481","pt":1538772325542,"mc":[{"id":"1.149058202","rc":[{"ltp":1.94,"id":2263570},{"ltp":2.04,"id":7593723}]}]}
+{"op":"mcm","clk":"7574567004","pt":1538772382691,"mc":[{"id":"1.149058202","rc":[{"ltp":1.93,"id":2263570},{"ltp":2.08,"id":7593723}]}]}
+{"op":"mcm","clk":"7574572531","pt":1538772448907,"mc":[{"id":"1.149058202","rc":[{"ltp":1.92,"id":2263570}]}]}
+{"op":"mcm","clk":"7574582305","pt":1538772567799,"mc":[{"id":"1.149058202","rc":[{"ltp":1.9,"id":2263570},{"ltp":2.16,"id":7593723}]}]}
+{"op":"mcm","clk":"7574587478","pt":1538772629705,"mc":[{"id":"1.149058202","rc":[{"ltp":1.85,"id":2263570}]}]}
+{"op":"mcm","clk":"7574592274","pt":1538772686348,"mc":[{"id":"1.149058202","rc":[{"ltp":1.86,"id":2263570},{"ltp":2.14,"id":7593723}]}]}
+{"op":"mcm","clk":"7574614124","pt":1538772748005,"mc":[{"id":"1.149058202","rc":[{"ltp":1.85,"id":2263570}]}]}
+{"op":"mcm","clk":"7574627321","pt":1538772928954,"mc":[{"id":"1.149058202","rc":[{"ltp":1.81,"id":2263570},{"ltp":2.24,"id":7593723}]}]}
+{"op":"mcm","clk":"7574631186","pt":1538772981317,"mc":[{"id":"1.149058202","rc":[{"ltp":1.82,"id":2263570},{"ltp":2.18,"id":7593723}]}]}
+{"op":"mcm","clk":"7574636527","pt":1538773049161,"mc":[{"id":"1.149058202","rc":[{"ltp":1.81,"id":2263570}]}]}
+{"op":"mcm","clk":"7574641593","pt":1538773107946,"mc":[{"id":"1.149058202","rc":[{"ltp":1.83,"id":2263570},{"ltp":2.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7574645866","pt":1538773162124,"mc":[{"id":"1.149058202","rc":[{"ltp":1.84,"id":2263570}]}]}
+{"op":"mcm","clk":"7574655724","pt":1538773289032,"mc":[{"id":"1.149058202","rc":[{"ltp":2.16,"id":7593723}]}]}
+{"op":"mcm","clk":"7574668959","pt":1538773455265,"mc":[{"id":"1.149058202","rc":[{"ltp":1.85,"id":2263570}]}]}
+{"op":"mcm","clk":"7574699826","pt":1538773649036,"mc":[{"id":"1.149058202","rc":[{"ltp":1.86,"id":2263570}]}]}
+{"op":"mcm","clk":"7574703730","pt":1538773703683,"mc":[{"id":"1.149058202","rc":[{"ltp":1.87,"id":2263570},{"ltp":2.14,"id":7593723}]}]}
+{"op":"mcm","clk":"7574730732","pt":1538774069692,"mc":[{"id":"1.149058202","rc":[{"ltp":1.89,"id":2263570}]}]}
+{"op":"mcm","clk":"7574758780","pt":1538774429243,"mc":[{"id":"1.149058202","rc":[{"ltp":1.94,"id":2263570},{"ltp":2.06,"id":7593723}]}]}
+{"op":"mcm","clk":"7574763461","pt":1538774489693,"mc":[{"id":"1.149058202","rc":[{"ltp":1.95,"id":2263570},{"ltp":2.04,"id":7593723}]}]}
+{"op":"mcm","clk":"7574784205","pt":1538774542585,"mc":[{"id":"1.149058202","rc":[{"ltp":1.99,"id":2263570}]}]}
+{"op":"mcm","clk":"7574789156","pt":1538774604706,"mc":[{"id":"1.149058202","rc":[{"ltp":1.95,"id":2263570}]}]}
+{"op":"mcm","clk":"7574794667","pt":1538774664337,"mc":[{"id":"1.149058202","rc":[{"ltp":1.92,"id":2263570}]}]}
+{"op":"mcm","clk":"7574798770","pt":1538774721246,"mc":[{"id":"1.149058202","rc":[{"ltp":1.9,"id":2263570}]}]}
+{"op":"mcm","clk":"7574802711","pt":1538774773602,"mc":[{"id":"1.149058202","rc":[{"ltp":1.91,"id":2263570}]}]}
+{"op":"mcm","clk":"7574807717","pt":1538774847879,"mc":[{"id":"1.149058202","rc":[{"ltp":1.94,"id":2263570},{"ltp":2.06,"id":7593723}]}]}
+{"op":"mcm","clk":"7574825331","pt":1538775084341,"mc":[{"id":"1.149058202","rc":[{"ltp":2.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7574834496","pt":1538775204867,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7574844816","pt":1538775329023,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":2263570}]}]}
+{"op":"mcm","clk":"7574879101","pt":1538775554098,"mc":[{"id":"1.149058202","rc":[{"ltp":1.99,"id":2263570}]}]}
+{"op":"mcm","clk":"7574884129","pt":1538775617692,"mc":[{"id":"1.149058202","rc":[{"ltp":1.97,"id":2263570}]}]}
+{"op":"mcm","clk":"7574897692","pt":1538775796693,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":2263570}]}]}
+{"op":"mcm","clk":"7574905986","pt":1538775921850,"mc":[{"id":"1.149058202","rc":[{"ltp":1.97,"id":7593723}]}]}
+{"op":"mcm","clk":"7574908462","pt":1538775966810,"mc":[{"id":"1.149058202","rc":[{"ltp":2.04,"id":2263570}]}]}
+{"op":"mcm","clk":"7574921387","pt":1538776166961,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:05:00.000Z","suspendTime":"2018-10-05T22:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:05:00.000Z","version":2439024965,"name":"Match Odds","eventName":"Karlovic v Fratangelo"},"rc":[{"ltp":1.96,"id":7593723}]}]}
+{"op":"mcm","clk":"7574924830","pt":1538776221446,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7574926685","pt":1538776245926,"mc":[{"id":"1.149058202","rc":[{"ltp":1.95,"id":7593723}]}]}
+{"op":"mcm","clk":"7574963079","pt":1538776526164,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":2263570}]}]}
+{"op":"mcm","clk":"7574980412","pt":1538776768434,"mc":[{"id":"1.149058202","rc":[{"ltp":1.92,"id":2263570},{"ltp":2.08,"id":7593723}]}]}
+{"op":"mcm","clk":"7574988963","pt":1538776889611,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":2263570},{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7574993244","pt":1538776944660,"mc":[{"id":"1.149058202","rc":[{"ltp":1.97,"id":2263570},{"ltp":2.08,"id":7593723}]}]}
+{"op":"mcm","clk":"7575002053","pt":1538777065095,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:20:00.000Z","suspendTime":"2018-10-05T22:20:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:20:00.000Z","version":2439029735,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7575009373","pt":1538777162485,"mc":[{"id":"1.149058202","rc":[{"ltp":1.93,"id":2263570}]}]}
+{"op":"mcm","clk":"7575034876","pt":1538777284536,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575039804","pt":1538777350820,"mc":[{"id":"1.149058202","rc":[{"ltp":1.98,"id":2263570}]}]}
+{"op":"mcm","clk":"7575055997","pt":1538777591278,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":2263570}]}]}
+{"op":"mcm","clk":"7575066185","pt":1538777721661,"mc":[{"id":"1.149058202","rc":[{"ltp":1.95,"id":7593723}]}]}
+{"op":"mcm","clk":"7575085140","pt":1538777968027,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:35:00.000Z","suspendTime":"2018-10-05T22:35:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:35:00.000Z","version":2439034341,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7575114011","pt":1538778132857,"mc":[{"id":"1.149058202","rc":[{"ltp":1.94,"id":7593723}]}]}
+{"op":"mcm","clk":"7575149039","pt":1538778605324,"mc":[{"id":"1.149058202","rc":[{"ltp":1.96,"id":2263570}]}]}
+{"op":"mcm","clk":"7575155179","pt":1538778679894,"mc":[{"id":"1.149058202","rc":[{"ltp":1.97,"id":7593723}]}]}
+{"op":"mcm","clk":"7575169810","pt":1538778865766,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:50:00.000Z","suspendTime":"2018-10-05T22:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:50:00.000Z","version":2439039656,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7575209420","pt":1538779165651,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:38:00.000Z","suspendTime":"2018-10-05T22:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:38:00.000Z","version":2439040623,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}
+{"op":"mcm","clk":"7575236219","pt":1538779528994,"mc":[{"id":"1.149058202","rc":[{"ltp":1.97,"id":2263570},{"ltp":2.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7575248253","pt":1538779706810,"mc":[{"id":"1.149058202","rc":[{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575252167","pt":1538779763430,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:38:00.000Z","suspendTime":"2018-10-05T22:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:38:00.000Z","version":2439046684,"name":"Match Odds","eventName":"Karlovic v Fratangelo"},"rc":[{"ltp":1.96,"id":2263570},{"ltp":2.06,"id":7593723}]}]}
+{"op":"mcm","clk":"7575256858","pt":1538779829481,"mc":[{"id":"1.149058202","rc":[{"ltp":1.86,"id":2263570},{"ltp":2.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7575260692","pt":1538779889074,"mc":[{"id":"1.149058202","rc":[{"ltp":1.89,"id":2263570},{"ltp":2.12,"id":7593723}]}]}
+{"op":"mcm","clk":"7575281259","pt":1538779949159,"mc":[{"id":"1.149058202","rc":[{"ltp":1.98,"id":2263570},{"ltp":2.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7575285684","pt":1538780009668,"mc":[{"id":"1.149058202","rc":[{"ltp":2.1,"id":2263570},{"ltp":1.91,"id":7593723}]}]}
+{"op":"mcm","clk":"7575290129","pt":1538780069341,"mc":[{"id":"1.149058202","rc":[{"ltp":2.28,"id":2263570},{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7575294582","pt":1538780129610,"mc":[{"id":"1.149058202","rc":[{"ltp":2.48,"id":2263570},{"ltp":1.67,"id":7593723}]}]}
+{"op":"mcm","clk":"7575299122","pt":1538780189395,"mc":[{"id":"1.149058202","rc":[{"ltp":2.06,"id":2263570},{"ltp":2.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575303658","pt":1538780249531,"mc":[{"id":"1.149058202","rc":[{"ltp":2.12,"id":2263570},{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7575308049","pt":1538780309329,"mc":[{"id":"1.149058202","rc":[{"ltp":1.86,"id":7593723}]}]}
+{"op":"mcm","clk":"7575312411","pt":1538780369541,"mc":[{"id":"1.149058202","rc":[{"ltp":1.96,"id":2263570},{"ltp":2.04,"id":7593723}]}]}
+{"op":"mcm","clk":"7575317246","pt":1538780428286,"mc":[{"id":"1.149058202","rc":[{"ltp":2.02,"id":2263570},{"ltp":1.98,"id":7593723}]}]}
+{"op":"mcm","clk":"7575322515","pt":1538780489414,"mc":[{"id":"1.149058202","rc":[{"ltp":2.06,"id":2263570},{"ltp":1.91,"id":7593723}]}]}
+{"op":"mcm","clk":"7575327583","pt":1538780548500,"mc":[{"id":"1.149058202","rc":[{"ltp":2.12,"id":2263570},{"ltp":1.9,"id":7593723}]}]}
+{"op":"mcm","clk":"7575332356","pt":1538780608850,"mc":[{"id":"1.149058202","rc":[{"ltp":2.16,"id":2263570},{"ltp":1.85,"id":7593723}]}]}
+{"op":"mcm","clk":"7575336692","pt":1538780669714,"mc":[{"id":"1.149058202","rc":[{"ltp":2.9,"id":2263570},{"ltp":1.51,"id":7593723}]}]}
+{"op":"mcm","clk":"7575340627","pt":1538780726328,"mc":[{"id":"1.149058202","rc":[{"ltp":2.56,"id":2263570},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7575345107","pt":1538780789534,"mc":[{"id":"1.149058202","rc":[{"ltp":2.24,"id":2263570},{"ltp":1.77,"id":7593723}]}]}
+{"op":"mcm","clk":"7575365838","pt":1538780848716,"mc":[{"id":"1.149058202","rc":[{"ltp":2.32,"id":2263570},{"ltp":1.74,"id":7593723}]}]}
+{"op":"mcm","clk":"7575370335","pt":1538780909199,"mc":[{"id":"1.149058202","rc":[{"ltp":2.18,"id":2263570},{"ltp":1.85,"id":7593723}]}]}
+{"op":"mcm","clk":"7575374602","pt":1538780968376,"mc":[{"id":"1.149058202","rc":[{"ltp":2.2,"id":2263570},{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7575378864","pt":1538781029570,"mc":[{"id":"1.149058202","rc":[{"ltp":2.08,"id":2263570},{"ltp":1.86,"id":7593723}]}]}
+{"op":"mcm","clk":"7575383960","pt":1538781089440,"mc":[{"id":"1.149058202","rc":[{"ltp":2.32,"id":2263570},{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7575389034","pt":1538781149647,"mc":[{"id":"1.149058202","rc":[{"ltp":2.48,"id":2263570},{"ltp":1.71,"id":7593723}]}]}
+{"op":"mcm","clk":"7575393925","pt":1538781208930,"mc":[{"id":"1.149058202","rc":[{"ltp":2.2,"id":2263570},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7575399195","pt":1538781269518,"mc":[{"id":"1.149058202","rc":[{"ltp":2.18,"id":2263570},{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7575404378","pt":1538781329486,"mc":[{"id":"1.149058202","rc":[{"ltp":2.06,"id":2263570},{"ltp":1.94,"id":7593723}]}]}
+{"op":"mcm","clk":"7575409247","pt":1538781388465,"mc":[{"id":"1.149058202","rc":[{"ltp":2.32,"id":2263570},{"ltp":1.77,"id":7593723}]}]}
+{"op":"mcm","clk":"7575414408","pt":1538781448879,"mc":[{"id":"1.149058202","rc":[{"ltp":2.2,"id":2263570},{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7575419493","pt":1538781508553,"mc":[{"id":"1.149058202","rc":[{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7575424525","pt":1538781569533,"mc":[{"id":"1.149058202","rc":[{"ltp":1.85,"id":7593723}]}]}
+{"op":"mcm","clk":"7575430355","pt":1538781628701,"mc":[{"id":"1.149058202","rc":[{"ltp":2.22,"id":2263570},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7575435322","pt":1538781688509,"mc":[{"id":"1.149058202","rc":[{"ltp":2.14,"id":2263570},{"ltp":1.9,"id":7593723}]}]}
+{"op":"mcm","clk":"7575456417","pt":1538781749574,"mc":[{"id":"1.149058202","rc":[{"ltp":1.65,"id":2263570},{"ltp":2.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7575461110","pt":1538781809357,"mc":[{"id":"1.149058202","rc":[{"ltp":1.38,"id":2263570},{"ltp":3.7,"id":7593723}]}]}
+{"op":"mcm","clk":"7575465557","pt":1538781869116,"mc":[{"id":"1.149058202","rc":[{"ltp":1.37,"id":2263570}]}]}
+{"op":"mcm","clk":"7575470178","pt":1538781929064,"mc":[{"id":"1.149058202","rc":[{"ltp":1.39,"id":2263570}]}]}
+{"op":"mcm","clk":"7575475306","pt":1538781989633,"mc":[{"id":"1.149058202","rc":[{"ltp":1.55,"id":2263570},{"ltp":3.3,"id":7593723}]}]}
+{"op":"mcm","clk":"7575480073","pt":1538782049288,"mc":[{"id":"1.149058202","rc":[{"ltp":1.49,"id":2263570},{"ltp":2.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7575484897","pt":1538782109485,"mc":[{"id":"1.149058202","rc":[{"ltp":1.38,"id":2263570},{"ltp":3.35,"id":7593723}]}]}
+{"op":"mcm","clk":"7575489233","pt":1538782169493,"mc":[{"id":"1.149058202","rc":[{"ltp":1.39,"id":2263570},{"ltp":3.6,"id":7593723}]}]}
+{"op":"mcm","clk":"7575493792","pt":1538782228153,"mc":[{"id":"1.149058202","rc":[{"ltp":1.37,"id":2263570},{"ltp":3.7,"id":7593723}]}]}
+{"op":"mcm","clk":"7575499469","pt":1538782289255,"mc":[{"id":"1.149058202","rc":[{"ltp":1.36,"id":2263570},{"ltp":3.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7575504847","pt":1538782349535,"mc":[{"id":"1.149058202","rc":[{"ltp":1.34,"id":2263570},{"ltp":4.3,"id":7593723}]}]}
+{"op":"mcm","clk":"7575510775","pt":1538782409472,"mc":[{"id":"1.149058202","rc":[{"ltp":1.24,"id":2263570},{"ltp":5.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7575515779","pt":1538782469552,"mc":[{"id":"1.149058202","rc":[{"ltp":1.14,"id":2263570},{"ltp":8.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7575520756","pt":1538782528814,"mc":[{"id":"1.149058202","rc":[{"ltp":1.1,"id":2263570},{"ltp":12.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7575525240","pt":1538782589632,"mc":[{"id":"1.149058202","rc":[{"ltp":1.07,"id":2263570},{"ltp":17.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7575546274","pt":1538782647888,"mc":[{"id":"1.149058202","rc":[{"ltp":1.06,"id":2263570}]}]}
+{"op":"mcm","clk":"7575550110","pt":1538782709644,"mc":[{"id":"1.149058202","rc":[{"ltp":1.04,"id":2263570}]}]}
+{"op":"mcm","clk":"7575554074","pt":1538782769521,"mc":[{"id":"1.149058202","rc":[{"ltp":1.05,"id":2263570},{"ltp":21.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575557870","pt":1538782828110,"mc":[{"id":"1.149058202","rc":[{"ltp":1.06,"id":2263570},{"ltp":17.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575562655","pt":1538782889365,"mc":[{"id":"1.149058202","rc":[{"ltp":1.04,"id":2263570},{"ltp":26.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575567222","pt":1538782949516,"mc":[{"id":"1.149058202","rc":[{"ltp":1.05,"id":2263570},{"ltp":15.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7575571819","pt":1538783007992,"mc":[{"id":"1.149058202","rc":[{"ltp":1.08,"id":2263570},{"ltp":15.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575576398","pt":1538783069568,"mc":[{"id":"1.149058202","rc":[{"ltp":1.06,"id":2263570}]}]}
+{"op":"mcm","clk":"7575581530","pt":1538783129535,"mc":[{"id":"1.149058202","rc":[{"ltp":1.04,"id":2263570}]}]}
+{"op":"mcm","clk":"7575585646","pt":1538783182042,"mc":[{"id":"1.149058202","rc":[{"ltp":1.05,"id":2263570},{"ltp":25.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575590743","pt":1538783249104,"mc":[{"id":"1.149058202","rc":[{"ltp":1.04,"id":2263570},{"ltp":29.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575594562","pt":1538783309567,"mc":[{"id":"1.149058202","rc":[{"ltp":1.03,"id":2263570},{"ltp":26.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575598995","pt":1538783369339,"mc":[{"id":"1.149058202","rc":[{"ltp":34.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575603990","pt":1538783429528,"mc":[{"id":"1.149058202","rc":[{"ltp":1.04,"id":2263570},{"ltp":26.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575608743","pt":1538783489087,"mc":[{"id":"1.149058202","rc":[{"ltp":1.03,"id":2263570},{"ltp":22.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575631230","pt":1538783549681,"mc":[{"id":"1.149058202","rc":[{"ltp":1.02,"id":2263570},{"ltp":50.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575635586","pt":1538783603443,"mc":[{"id":"1.149058202","rc":[{"ltp":1.01,"id":2263570}]}]}
+{"op":"mcm","clk":"7575641132","pt":1538783669517,"mc":[{"id":"1.149058202","rc":[{"ltp":1.02,"id":2263570}]}]}
+{"op":"mcm","clk":"7575644993","pt":1538783729595,"mc":[{"id":"1.149058202","rc":[{"ltp":55.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575649135","pt":1538783789649,"mc":[{"id":"1.149058202","rc":[{"ltp":1.03,"id":2263570},{"ltp":36.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575652581","pt":1538783842932,"mc":[{"id":"1.149058202","rc":[{"ltp":34.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575657186","pt":1538783906809,"mc":[{"id":"1.149058202","rc":[{"ltp":1.01,"id":2263570}]}]}
+{"op":"mcm","clk":"7575660119","pt":1538783951894,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:38:00.000Z","suspendTime":"2018-10-05T22:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"ACTIVE","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:38:00.000Z","version":2439090744,"name":"Match Odds","eventName":"Karlovic v Fratangelo"},"rc":[{"ltp":190.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7575662587","pt":1538783992970,"mc":[{"id":"1.149058202","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937491","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T22:38:00.000Z","suspendTime":"2018-10-05T22:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-05T23:59:42.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2263570,"name":"Ivo Karlovic"},{"status":"LOSER","sortPriority":2,"id":7593723,"name":"Bjorn Fratangelo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T22:38:00.000Z","version":2439091458,"name":"Match Odds","eventName":"Karlovic v Fratangelo"}}]}

@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7652874478","pt":1538922041978,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2444236689,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7653028426","pt":1538922731469,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2444236689,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7653054260","pt":1538922865146,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T10:00:00.000Z","suspendTime":"2018-10-08T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T10:00:00.000Z","version":2444306317,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7657731768","pt":1538961869423,"mc":[{"id":"1.149238052","rc":[{"ltp":1.4,"id":3674500}]}]}
+{"op":"mcm","clk":"7658761183","pt":1538980411890,"mc":[{"id":"1.149238052","rc":[{"ltp":3.1,"id":9630231},{"ltp":1.48,"id":3674500}]}]}
+{"op":"mcm","clk":"7658933886","pt":1538983127530,"mc":[{"id":"1.149238052","rc":[{"ltp":1.42,"id":3674500}]}]}
+{"op":"mcm","clk":"7659069491","pt":1538985276048,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:51:00.000Z","suspendTime":"2018-10-08T09:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:51:00.000Z","version":2446036153,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7659161740","pt":1538986783143,"mc":[{"id":"1.149238052","rc":[{"ltp":1.44,"id":3674500}]}]}
+{"op":"mcm","clk":"7659312197","pt":1538989167807,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T08:56:00.000Z","suspendTime":"2018-10-08T08:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T08:56:00.000Z","version":2446061534,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7659335318","pt":1538989539988,"mc":[{"id":"1.149238052","rc":[{"ltp":1.48,"id":3674500}]}]}
+{"op":"mcm","clk":"7659336008","pt":1538989554539,"mc":[{"id":"1.149238052","rc":[{"ltp":1.45,"id":3674500}]}]}
+{"op":"mcm","clk":"7659345157","pt":1538989723118,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T08:56:00.000Z","suspendTime":"2018-10-08T08:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T08:56:00.000Z","version":2446063935,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}
+{"op":"mcm","clk":"7659348500","pt":1538989781898,"mc":[{"id":"1.149238052","rc":[{"ltp":1.62,"id":3674500}]}]}
+{"op":"mcm","clk":"7659355866","pt":1538989908623,"mc":[{"id":"1.149238052","rc":[{"ltp":2.52,"id":9630231},{"ltp":1.75,"id":3674500}]}]}
+{"op":"mcm","clk":"7659365932","pt":1538989963701,"mc":[{"id":"1.149238052","rc":[{"ltp":2.32,"id":9630231}]}]}
+{"op":"mcm","clk":"7659369885","pt":1538990027854,"mc":[{"id":"1.149238052","rc":[{"ltp":2.38,"id":9630231},{"ltp":1.72,"id":3674500}]}]}
+{"op":"mcm","clk":"7659378018","pt":1538990148258,"mc":[{"id":"1.149238052","rc":[{"ltp":2.16,"id":9630231},{"ltp":1.96,"id":3674500}]}]}
+{"op":"mcm","clk":"7659381201","pt":1538990199688,"mc":[{"id":"1.149238052","rc":[{"ltp":1.82,"id":9630231}]}]}
+{"op":"mcm","clk":"7659385232","pt":1538990268168,"mc":[{"id":"1.149238052","rc":[{"ltp":1.63,"id":9630231}]}]}
+{"op":"mcm","clk":"7659388443","pt":1538990324865,"mc":[{"id":"1.149238052","rc":[{"ltp":2.46,"id":3674500}]}]}
+{"op":"mcm","clk":"7659397970","pt":1538990447933,"mc":[{"id":"1.149238052","rc":[{"ltp":1.57,"id":9630231},{"ltp":3.2,"id":3674500}]}]}
+{"op":"mcm","clk":"7659402115","pt":1538990506040,"mc":[{"id":"1.149238052","rc":[{"ltp":2.78,"id":3674500}]}]}
+{"op":"mcm","clk":"7659406070","pt":1538990565324,"mc":[{"id":"1.149238052","rc":[{"ltp":1.78,"id":9630231},{"ltp":2.28,"id":3674500}]}]}
+{"op":"mcm","clk":"7659410019","pt":1538990625800,"mc":[{"id":"1.149238052","rc":[{"ltp":1.94,"id":9630231}]}]}
+{"op":"mcm","clk":"7659413328","pt":1538990688654,"mc":[{"id":"1.149238052","rc":[{"ltp":2.16,"id":9630231},{"ltp":1.85,"id":3674500}]}]}
+{"op":"mcm","clk":"7659416108","pt":1538990747707,"mc":[{"id":"1.149238052","rc":[{"ltp":1.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659418994","pt":1538990806851,"mc":[{"id":"1.149238052","rc":[{"ltp":2.28,"id":9630231},{"ltp":1.78,"id":3674500}]}]}
+{"op":"mcm","clk":"7659431974","pt":1538990928412,"mc":[{"id":"1.149238052","rc":[{"ltp":2.24,"id":9630231}]}]}
+{"op":"mcm","clk":"7659435187","pt":1538990986721,"mc":[{"id":"1.149238052","rc":[{"ltp":1.98,"id":3674500}]}]}
+{"op":"mcm","clk":"7659437589","pt":1538991041511,"mc":[{"id":"1.149238052","rc":[{"ltp":1.99,"id":9630231},{"ltp":2.14,"id":3674500}]}]}
+{"op":"mcm","clk":"7659440788","pt":1538991107961,"mc":[{"id":"1.149238052","rc":[{"ltp":1.84,"id":9630231}]}]}
+{"op":"mcm","clk":"7659443725","pt":1538991167292,"mc":[{"id":"1.149238052","rc":[{"ltp":1.95,"id":9630231},{"ltp":2.06,"id":3674500}]}]}
+{"op":"mcm","clk":"7659447130","pt":1538991226310,"mc":[{"id":"1.149238052","rc":[{"ltp":1.85,"id":9630231},{"ltp":1.96,"id":3674500}]}]}
+{"op":"mcm","clk":"7659450982","pt":1538991285632,"mc":[{"id":"1.149238052","rc":[{"ltp":1.83,"id":9630231}]}]}
+{"op":"mcm","clk":"7659457933","pt":1538991396724,"mc":[{"id":"1.149238052","rc":[{"ltp":1.57,"id":9630231},{"ltp":2.74,"id":3674500}]}]}
+{"op":"mcm","clk":"7659462357","pt":1538991467884,"mc":[{"id":"1.149238052","rc":[{"ltp":1.48,"id":9630231},{"ltp":3.0,"id":3674500}]}]}
+{"op":"mcm","clk":"7659465744","pt":1538991528083,"mc":[{"id":"1.149238052","rc":[{"ltp":1.45,"id":9630231},{"ltp":3.15,"id":3674500}]}]}
+{"op":"mcm","clk":"7659468912","pt":1538991587079,"mc":[{"id":"1.149238052","rc":[{"ltp":3.25,"id":3674500}]}]}
+{"op":"mcm","clk":"7659474496","pt":1538991702327,"mc":[{"id":"1.149238052","rc":[{"ltp":1.44,"id":9630231}]}]}
+{"op":"mcm","clk":"7659484711","pt":1538991760059,"mc":[{"id":"1.149238052","rc":[{"ltp":1.45,"id":9630231}]}]}
+{"op":"mcm","clk":"7659487917","pt":1538991825731,"mc":[{"id":"1.149238052","rc":[{"ltp":1.46,"id":9630231},{"ltp":3.15,"id":3674500}]}]}
+{"op":"mcm","clk":"7659491358","pt":1538991887738,"mc":[{"id":"1.149238052","rc":[{"ltp":1.37,"id":9630231},{"ltp":3.5,"id":3674500}]}]}
+{"op":"mcm","clk":"7659494230","pt":1538991947701,"mc":[{"id":"1.149238052","rc":[{"ltp":1.48,"id":9630231}]}]}
+{"op":"mcm","clk":"7659497308","pt":1538992008243,"mc":[{"id":"1.149238052","rc":[{"ltp":1.55,"id":9630231}]}]}
+{"op":"mcm","clk":"7659500095","pt":1538992066100,"mc":[{"id":"1.149238052","rc":[{"ltp":1.33,"id":9630231}]}]}
+{"op":"mcm","clk":"7659503395","pt":1538992124406,"mc":[{"id":"1.149238052","rc":[{"ltp":1.25,"id":9630231},{"ltp":4.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659506890","pt":1538992187602,"mc":[{"id":"1.149238052","rc":[{"ltp":1.28,"id":9630231}]}]}
+{"op":"mcm","clk":"7659509901","pt":1538992248581,"mc":[{"id":"1.149238052","rc":[{"ltp":1.37,"id":9630231}]}]}
+{"op":"mcm","clk":"7659513146","pt":1538992305583,"mc":[{"id":"1.149238052","rc":[{"ltp":1.29,"id":9630231},{"ltp":4.4,"id":3674500}]}]}
+{"op":"mcm","clk":"7659516903","pt":1538992368365,"mc":[{"id":"1.149238052","rc":[{"ltp":1.47,"id":9630231},{"ltp":3.15,"id":3674500}]}]}
+{"op":"mcm","clk":"7659520706","pt":1538992426845,"mc":[{"id":"1.149238052","rc":[{"ltp":1.38,"id":9630231},{"ltp":3.65,"id":3674500}]}]}
+{"op":"mcm","clk":"7659524654","pt":1538992487135,"mc":[{"id":"1.149238052","rc":[{"ltp":1.29,"id":9630231},{"ltp":4.6,"id":3674500}]}]}
+{"op":"mcm","clk":"7659528549","pt":1538992546510,"mc":[{"id":"1.149238052","rc":[{"ltp":1.26,"id":9630231},{"ltp":4.9,"id":3674500}]}]}
+{"op":"mcm","clk":"7659532624","pt":1538992607156,"mc":[{"id":"1.149238052","rc":[{"ltp":1.22,"id":9630231},{"ltp":4.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659543392","pt":1538992663378,"mc":[{"id":"1.149238052","rc":[{"ltp":1.16,"id":9630231}]}]}
+{"op":"mcm","clk":"7659547128","pt":1538992728508,"mc":[{"id":"1.149238052","rc":[{"ltp":1.12,"id":9630231}]}]}
+{"op":"mcm","clk":"7659550342","pt":1538992785058,"mc":[{"id":"1.149238052","rc":[{"ltp":1.17,"id":9630231},{"ltp":6.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659554551","pt":1538992848336,"mc":[{"id":"1.149238052","rc":[{"ltp":1.22,"id":9630231},{"ltp":5.6,"id":3674500}]}]}
+{"op":"mcm","clk":"7659558839","pt":1538992907086,"mc":[{"id":"1.149238052","rc":[{"ltp":1.24,"id":9630231},{"ltp":5.2,"id":3674500}]}]}
+{"op":"mcm","clk":"7659563641","pt":1538992965613,"mc":[{"id":"1.149238052","rc":[{"ltp":1.17,"id":9630231},{"ltp":6.6,"id":3674500}]}]}
+{"op":"mcm","clk":"7659568097","pt":1538993026159,"mc":[{"id":"1.149238052","rc":[{"ltp":1.18,"id":9630231}]}]}
+{"op":"mcm","clk":"7659573479","pt":1538993088218,"mc":[{"id":"1.149238052","rc":[{"ltp":1.12,"id":9630231}]}]}
+{"op":"mcm","clk":"7659577999","pt":1538993147833,"mc":[{"id":"1.149238052","rc":[{"ltp":1.14,"id":9630231}]}]}
+{"op":"mcm","clk":"7659582387","pt":1538993208224,"mc":[{"id":"1.149238052","rc":[{"ltp":1.19,"id":9630231},{"ltp":6.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659586161","pt":1538993262747,"mc":[{"id":"1.149238052","rc":[{"ltp":1.23,"id":9630231},{"ltp":6.2,"id":3674500}]}]}
+{"op":"mcm","clk":"7659591098","pt":1538993325202,"mc":[{"id":"1.149238052","rc":[{"ltp":1.4,"id":9630231},{"ltp":4.2,"id":3674500}]}]}
+{"op":"mcm","clk":"7659596062","pt":1538993388600,"mc":[{"id":"1.149238052","rc":[{"ltp":1.42,"id":9630231},{"ltp":3.05,"id":3674500}]}]}
+{"op":"mcm","clk":"7659601360","pt":1538993447987,"mc":[{"id":"1.149238052","rc":[{"ltp":1.56,"id":9630231},{"ltp":2.78,"id":3674500}]}]}
+{"op":"mcm","clk":"7659606062","pt":1538993507822,"mc":[{"id":"1.149238052","rc":[{"ltp":1.67,"id":9630231},{"ltp":2.48,"id":3674500}]}]}
+{"op":"mcm","clk":"7659617652","pt":1538993567965,"mc":[{"id":"1.149238052","rc":[{"ltp":1.64,"id":9630231},{"ltp":2.26,"id":3674500}]}]}
+{"op":"mcm","clk":"7659621967","pt":1538993628435,"mc":[{"id":"1.149238052","rc":[{"ltp":1.49,"id":9630231},{"ltp":2.96,"id":3674500}]}]}
+{"op":"mcm","clk":"7659626726","pt":1538993687282,"mc":[{"id":"1.149238052","rc":[{"ltp":1.19,"id":9630231},{"ltp":6.6,"id":3674500}]}]}
+{"op":"mcm","clk":"7659631509","pt":1538993747453,"mc":[{"id":"1.149238052","rc":[{"ltp":1.18,"id":9630231},{"ltp":6.4,"id":3674500}]}]}
+{"op":"mcm","clk":"7659636820","pt":1538993806269,"mc":[{"id":"1.149238052","rc":[{"ltp":1.17,"id":9630231}]}]}
+{"op":"mcm","clk":"7659642341","pt":1538993868242,"mc":[{"id":"1.149238052","rc":[{"ltp":1.04,"id":9630231},{"ltp":26.0,"id":3674500}]}]}
+{"op":"mcm","clk":"7659647320","pt":1538993927459,"mc":[{"id":"1.149238052","rc":[{"ltp":1.17,"id":9630231},{"ltp":6.8,"id":3674500}]}]}
+{"op":"mcm","clk":"7659652347","pt":1538993987726,"mc":[{"id":"1.149238052","rc":[{"ltp":1.34,"id":9630231},{"ltp":3.95,"id":3674500}]}]}
+{"op":"mcm","clk":"7659656805","pt":1538994047344,"mc":[{"id":"1.149238052","rc":[{"ltp":1.09,"id":9630231},{"ltp":3.75,"id":3674500}]}]}
+{"op":"mcm","clk":"7659661148","pt":1538994108465,"mc":[{"id":"1.149238052","rc":[{"ltp":1.54,"id":9630231},{"ltp":2.84,"id":3674500}]}]}
+{"op":"mcm","clk":"7659665453","pt":1538994166799,"mc":[{"id":"1.149238052","rc":[{"ltp":1.42,"id":9630231}]}]}
+{"op":"mcm","clk":"7659670109","pt":1538994227697,"mc":[{"id":"1.149238052","rc":[{"ltp":1.29,"id":9630231},{"ltp":4.4,"id":3674500}]}]}
+{"op":"mcm","clk":"7659674505","pt":1538994286784,"mc":[{"id":"1.149238052","rc":[{"ltp":1.33,"id":9630231}]}]}
+{"op":"mcm","clk":"7659678609","pt":1538994348463,"mc":[{"id":"1.149238052","rc":[{"ltp":1.19,"id":9630231},{"ltp":6.4,"id":3674500}]}]}
+{"op":"mcm","clk":"7659682538","pt":1538994405958,"mc":[{"id":"1.149238052","rc":[{"ltp":6.2,"id":3674500}]}]}
+{"op":"mcm","clk":"7659693542","pt":1538994466420,"mc":[{"id":"1.149238052","rc":[{"ltp":1.06,"id":9630231}]}]}
+{"op":"mcm","clk":"7659697198","pt":1538994528485,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T08:56:00.000Z","suspendTime":"2018-10-08T08:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"ACTIVE","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T08:56:00.000Z","version":2446102508,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"},"rc":[{"ltp":1.03,"id":9630231}]}]}
+{"op":"mcm","clk":"7659699620","pt":1538994565983,"mc":[{"id":"1.149238052","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944821","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T08:56:00.000Z","suspendTime":"2018-10-08T08:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-08T10:29:18.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9630231,"name":"Valentini Grammatikopou"},{"status":"LOSER","sortPriority":2,"id":3674500,"name":"Vitalia Diatchenko"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T08:56:00.000Z","version":2446103918,"name":"Match Odds","eventName":"Grammatikopoulou v Diatchenko"}}]}

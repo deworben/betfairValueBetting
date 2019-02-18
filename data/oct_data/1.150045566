@@ -1,0 +1,70 @@
+{"op":"mcm","clk":"7781703379","pt":1540291175601,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T11:00:00.000Z","suspendTime":"2018-10-23T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"ACTIVE","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T11:00:00.000Z","version":2471623781,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"}}]}
+{"op":"mcm","clk":"7781771231","pt":1540292024351,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T10:51:00.000Z","suspendTime":"2018-10-23T10:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"ACTIVE","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T10:51:00.000Z","version":2471627721,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"}}]}
+{"op":"mcm","clk":"7781776246","pt":1540292086491,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T10:51:00.000Z","suspendTime":"2018-10-23T10:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"ACTIVE","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T10:51:00.000Z","version":2471627721,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"}}]}
+{"op":"mcm","clk":"7781871165","pt":1540293221649,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T10:51:00.000Z","suspendTime":"2018-10-23T10:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"ACTIVE","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T10:51:00.000Z","version":2471638434,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"},"rc":[{"ltp":1.96,"id":21243606},{"ltp":2.04,"id":21016134}]}]}
+{"op":"mcm","clk":"7781876507","pt":1540293288268,"mc":[{"id":"1.150045566","rc":[{"ltp":2.34,"id":21243606},{"ltp":2.24,"id":21016134}]}]}
+{"op":"mcm","clk":"7781881683","pt":1540293343956,"mc":[{"id":"1.150045566","rc":[{"ltp":1.92,"id":21243606},{"ltp":2.08,"id":21016134}]}]}
+{"op":"mcm","clk":"7781887264","pt":1540293407115,"mc":[{"id":"1.150045566","rc":[{"ltp":1.86,"id":21243606},{"ltp":2.16,"id":21016134}]}]}
+{"op":"mcm","clk":"7781891225","pt":1540293452465,"mc":[{"id":"1.150045566","rc":[{"ltp":2.28,"id":21016134}]}]}
+{"op":"mcm","clk":"7781897944","pt":1540293530343,"mc":[{"id":"1.150045566","rc":[{"ltp":2.44,"id":21016134}]}]}
+{"op":"mcm","clk":"7781902008","pt":1540293585158,"mc":[{"id":"1.150045566","rc":[{"ltp":1.8,"id":21243606},{"ltp":2.24,"id":21016134}]}]}
+{"op":"mcm","clk":"7781919070","pt":1540293830580,"mc":[{"id":"1.150045566","rc":[{"ltp":1.98,"id":21243606},{"ltp":1.98,"id":21016134}]}]}
+{"op":"mcm","clk":"7781923555","pt":1540293890498,"mc":[{"id":"1.150045566","rc":[{"ltp":1.92,"id":21243606}]}]}
+{"op":"mcm","clk":"7781953369","pt":1540294128527,"mc":[{"id":"1.150045566","rc":[{"ltp":2.08,"id":21016134}]}]}
+{"op":"mcm","clk":"7781955473","pt":1540294156802,"mc":[{"id":"1.150045566","rc":[{"ltp":2.12,"id":21016134}]}]}
+{"op":"mcm","clk":"7781977438","pt":1540294489639,"mc":[{"id":"1.150045566","rc":[{"ltp":1.66,"id":21243606},{"ltp":2.5,"id":21016134}]}]}
+{"op":"mcm","clk":"7781981645","pt":1540294549233,"mc":[{"id":"1.150045566","rc":[{"ltp":1.6,"id":21243606},{"ltp":2.66,"id":21016134}]}]}
+{"op":"mcm","clk":"7781984647","pt":1540294594346,"mc":[{"id":"1.150045566","rc":[{"ltp":1.41,"id":21243606}]}]}
+{"op":"mcm","clk":"7781990230","pt":1540294667991,"mc":[{"id":"1.150045566","rc":[{"ltp":1.32,"id":21243606}]}]}
+{"op":"mcm","clk":"7781994975","pt":1540294728047,"mc":[{"id":"1.150045566","rc":[{"ltp":1.29,"id":21243606},{"ltp":4.5,"id":21016134}]}]}
+{"op":"mcm","clk":"7782024536","pt":1540294962249,"mc":[{"id":"1.150045566","rc":[{"ltp":1.72,"id":21243606},{"ltp":2.4,"id":21016134}]}]}
+{"op":"mcm","clk":"7782030370","pt":1540295027964,"mc":[{"id":"1.150045566","rc":[{"ltp":1.64,"id":21243606},{"ltp":2.56,"id":21016134}]}]}
+{"op":"mcm","clk":"7782035621","pt":1540295084724,"mc":[{"id":"1.150045566","rc":[{"ltp":1.52,"id":21243606}]}]}
+{"op":"mcm","clk":"7782040582","pt":1540295137988,"mc":[{"id":"1.150045566","rc":[{"ltp":1.5,"id":21243606}]}]}
+{"op":"mcm","clk":"7782050484","pt":1540295261210,"mc":[{"id":"1.150045566","rc":[{"ltp":1.84,"id":21243606}]}]}
+{"op":"mcm","clk":"7782060949","pt":1540295388519,"mc":[{"id":"1.150045566","rc":[{"ltp":2.04,"id":21243606},{"ltp":2.0,"id":21016134}]}]}
+{"op":"mcm","clk":"7782065887","pt":1540295447813,"mc":[{"id":"1.150045566","rc":[{"ltp":1.72,"id":21243606},{"ltp":2.4,"id":21016134}]}]}
+{"op":"mcm","clk":"7782071395","pt":1540295510428,"mc":[{"id":"1.150045566","rc":[{"ltp":1.66,"id":21243606},{"ltp":2.52,"id":21016134}]}]}
+{"op":"mcm","clk":"7782075930","pt":1540295563838,"mc":[{"id":"1.150045566","rc":[{"ltp":1.62,"id":21243606},{"ltp":2.6,"id":21016134}]}]}
+{"op":"mcm","clk":"7782086584","pt":1540295689346,"mc":[{"id":"1.150045566","rc":[{"ltp":1.89,"id":21243606},{"ltp":2.12,"id":21016134}]}]}
+{"op":"mcm","clk":"7782091533","pt":1540295747580,"mc":[{"id":"1.150045566","rc":[{"ltp":2.08,"id":21243606},{"ltp":1.92,"id":21016134}]}]}
+{"op":"mcm","clk":"7782097620","pt":1540295809240,"mc":[{"id":"1.150045566","rc":[{"ltp":2.36,"id":21243606},{"ltp":1.74,"id":21016134}]}]}
+{"op":"mcm","clk":"7782114516","pt":1540295867862,"mc":[{"id":"1.150045566","rc":[{"ltp":2.0,"id":21243606},{"ltp":2.0,"id":21016134}]}]}
+{"op":"mcm","clk":"7782125382","pt":1540295975698,"mc":[{"id":"1.150045566","rc":[{"ltp":1.48,"id":21243606}]}]}
+{"op":"mcm","clk":"7782138653","pt":1540296106857,"mc":[{"id":"1.150045566","rc":[{"ltp":1.88,"id":21243606}]}]}
+{"op":"mcm","clk":"7782143859","pt":1540296168638,"mc":[{"id":"1.150045566","rc":[{"ltp":1.86,"id":21243606},{"ltp":2.18,"id":21016134}]}]}
+{"op":"mcm","clk":"7782160167","pt":1540296348089,"mc":[{"id":"1.150045566","rc":[{"ltp":1.94,"id":21243606},{"ltp":2.06,"id":21016134}]}]}
+{"op":"mcm","clk":"7782175959","pt":1540296525441,"mc":[{"id":"1.150045566","rc":[{"ltp":3.15,"id":21243606},{"ltp":1.47,"id":21016134}]}]}
+{"op":"mcm","clk":"7782184433","pt":1540296633103,"mc":[{"id":"1.150045566","rc":[{"ltp":3.1,"id":21243606}]}]}
+{"op":"mcm","clk":"7782190430","pt":1540296704926,"mc":[{"id":"1.150045566","rc":[{"ltp":4.3,"id":21243606},{"ltp":1.3,"id":21016134}]}]}
+{"op":"mcm","clk":"7782206785","pt":1540296768010,"mc":[{"id":"1.150045566","rc":[{"ltp":3.9,"id":21243606},{"ltp":1.35,"id":21016134}]}]}
+{"op":"mcm","clk":"7782212573","pt":1540296828436,"mc":[{"id":"1.150045566","rc":[{"ltp":3.0,"id":21243606},{"ltp":1.49,"id":21016134}]}]}
+{"op":"mcm","clk":"7782237239","pt":1540297128697,"mc":[{"id":"1.150045566","rc":[{"ltp":1.72,"id":21016134}]}]}
+{"op":"mcm","clk":"7782246366","pt":1540297248912,"mc":[{"id":"1.150045566","rc":[{"ltp":1.86,"id":21016134}]}]}
+{"op":"mcm","clk":"7782254037","pt":1540297347307,"mc":[{"id":"1.150045566","rc":[{"ltp":1.96,"id":21016134}]}]}
+{"op":"mcm","clk":"7782259820","pt":1540297413249,"mc":[{"id":"1.150045566","rc":[{"ltp":1.97,"id":21243606},{"ltp":2.04,"id":21016134}]}]}
+{"op":"mcm","clk":"7782272218","pt":1540297549727,"mc":[{"id":"1.150045566","rc":[{"ltp":2.0,"id":21243606},{"ltp":2.0,"id":21016134}]}]}
+{"op":"mcm","clk":"7782299706","pt":1540297730020,"mc":[{"id":"1.150045566","rc":[{"ltp":2.24,"id":21243606},{"ltp":1.81,"id":21016134}]}]}
+{"op":"mcm","clk":"7782304785","pt":1540297786035,"mc":[{"id":"1.150045566","rc":[{"ltp":2.88,"id":21243606},{"ltp":1.66,"id":21016134}]}]}
+{"op":"mcm","clk":"7782310804","pt":1540297848807,"mc":[{"id":"1.150045566","rc":[{"ltp":2.92,"id":21243606},{"ltp":1.49,"id":21016134}]}]}
+{"op":"mcm","clk":"7782316237","pt":1540297906263,"mc":[{"id":"1.150045566","rc":[{"ltp":1.52,"id":21016134}]}]}
+{"op":"mcm","clk":"7782342111","pt":1540298202882,"mc":[{"id":"1.150045566","rc":[{"ltp":1.84,"id":21243606},{"ltp":2.2,"id":21016134}]}]}
+{"op":"mcm","clk":"7782347522","pt":1540298269420,"mc":[{"id":"1.150045566","rc":[{"ltp":1.81,"id":21243606},{"ltp":2.24,"id":21016134}]}]}
+{"op":"mcm","clk":"7782368508","pt":1540298505332,"mc":[{"id":"1.150045566","rc":[{"ltp":1.8,"id":21243606},{"ltp":2.26,"id":21016134}]}]}
+{"op":"mcm","clk":"7782384562","pt":1540298561399,"mc":[{"id":"1.150045566","rc":[{"ltp":1.86,"id":21243606},{"ltp":2.06,"id":21016134}]}]}
+{"op":"mcm","clk":"7782397018","pt":1540298688760,"mc":[{"id":"1.150045566","rc":[{"ltp":1.76,"id":21243606},{"ltp":2.32,"id":21016134}]}]}
+{"op":"mcm","clk":"7782402327","pt":1540298745564,"mc":[{"id":"1.150045566","rc":[{"ltp":1.71,"id":21243606},{"ltp":2.48,"id":21016134}]}]}
+{"op":"mcm","clk":"7782407157","pt":1540298804269,"mc":[{"id":"1.150045566","rc":[{"ltp":1.64,"id":21243606},{"ltp":2.56,"id":21016134}]}]}
+{"op":"mcm","clk":"7782410475","pt":1540298842504,"mc":[{"id":"1.150045566","rc":[{"ltp":1.63,"id":21243606},{"ltp":2.58,"id":21016134}]}]}
+{"op":"mcm","clk":"7782418828","pt":1540298929412,"mc":[{"id":"1.150045566","rc":[{"ltp":1.57,"id":21243606},{"ltp":2.6,"id":21016134}]}]}
+{"op":"mcm","clk":"7782423558","pt":1540298978264,"mc":[{"id":"1.150045566","rc":[{"ltp":1.36,"id":21243606},{"ltp":2.9,"id":21016134}]}]}
+{"op":"mcm","clk":"7782429470","pt":1540299044521,"mc":[{"id":"1.150045566","rc":[{"ltp":1.27,"id":21243606},{"ltp":4.7,"id":21016134}]}]}
+{"op":"mcm","clk":"7782444997","pt":1540299216626,"mc":[{"id":"1.150045566","rc":[{"ltp":1.68,"id":21243606},{"ltp":2.46,"id":21016134}]}]}
+{"op":"mcm","clk":"7782456057","pt":1540299328587,"mc":[{"id":"1.150045566","rc":[{"ltp":2.96,"id":21243606},{"ltp":1.52,"id":21016134}]}]}
+{"op":"mcm","clk":"7782463148","pt":1540299408878,"mc":[{"id":"1.150045566","rc":[{"ltp":1.31,"id":21016134}]}]}
+{"op":"mcm","clk":"7782479067","pt":1540299468038,"mc":[{"id":"1.150045566","rc":[{"ltp":10.0,"id":21243606},{"ltp":1.12,"id":21016134}]}]}
+{"op":"mcm","clk":"7782484938","pt":1540299530607,"mc":[{"id":"1.150045566","rc":[{"ltp":7.2,"id":21243606},{"ltp":1.08,"id":21016134}]}]}
+{"op":"mcm","clk":"7782490843","pt":1540299589142,"mc":[{"id":"1.150045566","rc":[{"ltp":1.15,"id":21016134}]}]}
+{"op":"mcm","clk":"7782496627","pt":1540299649173,"mc":[{"id":"1.150045566","rc":[{"ltp":1.12,"id":21016134}]}]}
+{"op":"mcm","clk":"7782500113","pt":1540299685155,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T10:51:00.000Z","suspendTime":"2018-10-23T10:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"ACTIVE","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T10:51:00.000Z","version":2471741228,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"}}]}
+{"op":"mcm","clk":"7782505774","pt":1540299747132,"mc":[{"id":"1.150045566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971494","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T10:51:00.000Z","suspendTime":"2018-10-23T10:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T13:02:24.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":21016134,"name":"Qureshi/Tsitsipas"},{"status":"LOSER","sortPriority":2,"id":21243606,"name":"Lindstedt/Martin"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T10:51:00.000Z","version":2471742946,"name":"Match Odds","eventName":"Qureshi/Tsitsipas v Lindstedt/Martin"}}]}

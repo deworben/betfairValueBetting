@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"7732761905","pt":1540371444600,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:00:00.000Z","suspendTime":"2018-10-25T03:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:00:00.000Z","version":2472845260,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}
+{"op":"mcm","clk":"7732810843","pt":1540372074042,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:00:00.000Z","suspendTime":"2018-10-25T03:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:00:00.000Z","version":2472845260,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}
+{"op":"mcm","clk":"7738609220","pt":1540436323483,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:15:00.000Z","suspendTime":"2018-10-25T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:15:00.000Z","version":2474651051,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}
+{"op":"mcm","clk":"7738637744","pt":1540436924203,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:05:00.000Z","suspendTime":"2018-10-25T03:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:05:00.000Z","version":2474656327,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}
+{"op":"mcm","clk":"7738646463","pt":1540437339279,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:05:00.000Z","suspendTime":"2018-10-25T03:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:05:00.000Z","version":2474657786,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}
+{"op":"mcm","clk":"7738648502","pt":1540437397059,"mc":[{"id":"1.150096704","rc":[{"ltp":2.06,"id":15256065},{"ltp":1.94,"id":21256700}]}]}
+{"op":"mcm","clk":"7738650211","pt":1540437448985,"mc":[{"id":"1.150096704","rc":[{"ltp":2.4,"id":15256065},{"ltp":1.71,"id":21256700}]}]}
+{"op":"mcm","clk":"7738652500","pt":1540437516543,"mc":[{"id":"1.150096704","rc":[{"ltp":1.76,"id":15256065},{"ltp":2.32,"id":21256700}]}]}
+{"op":"mcm","clk":"7738657921","pt":1540437703586,"mc":[{"id":"1.150096704","rc":[{"ltp":2.04,"id":15256065},{"ltp":1.95,"id":21256700}]}]}
+{"op":"mcm","clk":"7738673614","pt":1540437876025,"mc":[{"id":"1.150096704","rc":[{"ltp":1.89,"id":15256065},{"ltp":2.12,"id":21256700}]}]}
+{"op":"mcm","clk":"7738675183","pt":1540437944262,"mc":[{"id":"1.150096704","rc":[{"ltp":1.86,"id":15256065},{"ltp":2.16,"id":21256700}]}]}
+{"op":"mcm","clk":"7738692212","pt":1540438604410,"mc":[{"id":"1.150096704","rc":[{"ltp":1.66,"id":15256065}]}]}
+{"op":"mcm","clk":"7738704833","pt":1540438657468,"mc":[{"id":"1.150096704","rc":[{"ltp":1.38,"id":15256065},{"ltp":3.6,"id":21256700}]}]}
+{"op":"mcm","clk":"7738707298","pt":1540438775754,"mc":[{"id":"1.150096704","rc":[{"ltp":1.37,"id":15256065},{"ltp":3.75,"id":21256700}]}]}
+{"op":"mcm","clk":"7738709126","pt":1540438841975,"mc":[{"id":"1.150096704","rc":[{"ltp":1.51,"id":15256065},{"ltp":2.96,"id":21256700}]}]}
+{"op":"mcm","clk":"7738710761","pt":1540438904631,"mc":[{"id":"1.150096704","rc":[{"ltp":1.78,"id":15256065}]}]}
+{"op":"mcm","clk":"7738712487","pt":1540438963909,"mc":[{"id":"1.150096704","rc":[{"ltp":2.12,"id":21256700}]}]}
+{"op":"mcm","clk":"7738722350","pt":1540439375533,"mc":[{"id":"1.150096704","rc":[{"ltp":2.04,"id":15256065},{"ltp":1.96,"id":21256700}]}]}
+{"op":"mcm","clk":"7738740949","pt":1540439611294,"mc":[{"id":"1.150096704","rc":[{"ltp":1.78,"id":15256065},{"ltp":2.28,"id":21256700}]}]}
+{"op":"mcm","clk":"7738747326","pt":1540439795200,"mc":[{"id":"1.150096704","rc":[{"ltp":2.02,"id":15256065}]}]}
+{"op":"mcm","clk":"7738749300","pt":1540439862455,"mc":[{"id":"1.150096704","rc":[{"ltp":1.05,"id":15256065},{"ltp":1.66,"id":21256700}]}]}
+{"op":"mcm","clk":"7738751235","pt":1540439922661,"mc":[{"id":"1.150096704","rc":[{"ltp":2.24,"id":15256065},{"ltp":1.73,"id":21256700}]}]}
+{"op":"mcm","clk":"7738753561","pt":1540439982280,"mc":[{"id":"1.150096704","rc":[{"ltp":2.38,"id":15256065},{"ltp":1.72,"id":21256700}]}]}
+{"op":"mcm","clk":"7738755785","pt":1540440034261,"mc":[{"id":"1.150096704","rc":[{"ltp":2.22,"id":15256065},{"ltp":1.8,"id":21256700}]}]}
+{"op":"mcm","clk":"7738758982","pt":1540440099889,"mc":[{"id":"1.150096704","rc":[{"ltp":1.64,"id":15256065},{"ltp":2.6,"id":21256700}]}]}
+{"op":"mcm","clk":"7738766050","pt":1540440221837,"mc":[{"id":"1.150096704","rc":[{"ltp":1.68,"id":15256065}]}]}
+{"op":"mcm","clk":"7738768860","pt":1540440281683,"mc":[{"id":"1.150096704","rc":[{"ltp":2.28,"id":15256065},{"ltp":1.78,"id":21256700}]}]}
+{"op":"mcm","clk":"7738772157","pt":1540440344273,"mc":[{"id":"1.150096704","rc":[{"ltp":2.86,"id":15256065},{"ltp":1.54,"id":21256700}]}]}
+{"op":"mcm","clk":"7738774619","pt":1540440394053,"mc":[{"id":"1.150096704","rc":[{"ltp":2.84,"id":15256065},{"ltp":1.55,"id":21256700}]}]}
+{"op":"mcm","clk":"7738788501","pt":1540440462313,"mc":[{"id":"1.150096704","rc":[{"ltp":2.92,"id":15256065},{"ltp":1.52,"id":21256700}]}]}
+{"op":"mcm","clk":"7738790927","pt":1540440522463,"mc":[{"id":"1.150096704","rc":[{"ltp":3.3,"id":15256065}]}]}
+{"op":"mcm","clk":"7738793262","pt":1540440581365,"mc":[{"id":"1.150096704","rc":[{"ltp":2.58,"id":15256065},{"ltp":1.63,"id":21256700}]}]}
+{"op":"mcm","clk":"7738794994","pt":1540440617262,"mc":[{"id":"1.150096704","rc":[{"ltp":2.66,"id":15256065},{"ltp":1.6,"id":21256700}]}]}
+{"op":"mcm","clk":"7738798882","pt":1540440704537,"mc":[{"id":"1.150096704","rc":[{"ltp":2.22,"id":15256065}]}]}
+{"op":"mcm","clk":"7738801132","pt":1540440760965,"mc":[{"id":"1.150096704","rc":[{"ltp":2.86,"id":15256065},{"ltp":1.52,"id":21256700}]}]}
+{"op":"mcm","clk":"7738803095","pt":1540440822918,"mc":[{"id":"1.150096704","rc":[{"ltp":2.8,"id":15256065},{"ltp":1.55,"id":21256700}]}]}
+{"op":"mcm","clk":"7738804778","pt":1540440883866,"mc":[{"id":"1.150096704","rc":[{"ltp":3.35,"id":15256065},{"ltp":1.42,"id":21256700}]}]}
+{"op":"mcm","clk":"7738806601","pt":1540440943820,"mc":[{"id":"1.150096704","rc":[{"ltp":2.96,"id":15256065}]}]}
+{"op":"mcm","clk":"7738808573","pt":1540440998441,"mc":[{"id":"1.150096704","rc":[{"ltp":1.51,"id":21256700}]}]}
+{"op":"mcm","clk":"7738810773","pt":1540441062536,"mc":[{"id":"1.150096704","rc":[{"ltp":5.5,"id":15256065},{"ltp":1.27,"id":21256700}]}]}
+{"op":"mcm","clk":"7738812984","pt":1540441124561,"mc":[{"id":"1.150096704","rc":[{"ltp":5.3,"id":15256065},{"ltp":1.23,"id":21256700}]}]}
+{"op":"mcm","clk":"7738814651","pt":1540441181604,"mc":[{"id":"1.150096704","rc":[{"ltp":1.36,"id":21256700}]}]}
+{"op":"mcm","clk":"7738816059","pt":1540441241166,"mc":[{"id":"1.150096704","rc":[{"ltp":4.7,"id":15256065},{"ltp":1.27,"id":21256700}]}]}
+{"op":"mcm","clk":"7738817528","pt":1540441300120,"mc":[{"id":"1.150096704","rc":[{"ltp":2.72,"id":15256065},{"ltp":1.58,"id":21256700}]}]}
+{"op":"mcm","clk":"7738830671","pt":1540441363494,"mc":[{"id":"1.150096704","rc":[{"ltp":2.6,"id":15256065},{"ltp":1.62,"id":21256700}]}]}
+{"op":"mcm","clk":"7738832228","pt":1540441424575,"mc":[{"id":"1.150096704","rc":[{"ltp":2.62,"id":15256065},{"ltp":1.61,"id":21256700}]}]}
+{"op":"mcm","clk":"7738833789","pt":1540441484129,"mc":[{"id":"1.150096704","rc":[{"ltp":2.6,"id":15256065},{"ltp":1.62,"id":21256700}]}]}
+{"op":"mcm","clk":"7738835539","pt":1540441543867,"mc":[{"id":"1.150096704","rc":[{"ltp":2.56,"id":15256065},{"ltp":1.64,"id":21256700}]}]}
+{"op":"mcm","clk":"7738837599","pt":1540441603998,"mc":[{"id":"1.150096704","rc":[{"ltp":2.5,"id":15256065},{"ltp":1.66,"id":21256700}]}]}
+{"op":"mcm","clk":"7738841263","pt":1540441723829,"mc":[{"id":"1.150096704","rc":[{"ltp":2.66,"id":15256065},{"ltp":1.6,"id":21256700}]}]}
+{"op":"mcm","clk":"7738842887","pt":1540441777093,"mc":[{"id":"1.150096704","rc":[{"ltp":2.58,"id":15256065},{"ltp":1.48,"id":21256700}]}]}
+{"op":"mcm","clk":"7738845406","pt":1540441842918,"mc":[{"id":"1.150096704","rc":[{"ltp":2.56,"id":15256065},{"ltp":1.64,"id":21256700}]}]}
+{"op":"mcm","clk":"7738847850","pt":1540441902759,"mc":[{"id":"1.150096704","rc":[{"ltp":2.46,"id":15256065},{"ltp":1.68,"id":21256700}]}]}
+{"op":"mcm","clk":"7738850697","pt":1540441964455,"mc":[{"id":"1.150096704","rc":[{"ltp":2.42,"id":15256065},{"ltp":1.7,"id":21256700}]}]}
+{"op":"mcm","clk":"7738854458","pt":1540442024040,"mc":[{"id":"1.150096704","rc":[{"ltp":1.54,"id":21256700}]}]}
+{"op":"mcm","clk":"7738857764","pt":1540442081282,"mc":[{"id":"1.150096704","rc":[{"ltp":2.86,"id":15256065}]}]}
+{"op":"mcm","clk":"7738861122","pt":1540442142905,"mc":[{"id":"1.150096704","rc":[{"ltp":3.4,"id":15256065},{"ltp":1.42,"id":21256700}]}]}
+{"op":"mcm","clk":"7738864131","pt":1540442201871,"mc":[{"id":"1.150096704","rc":[{"ltp":2.96,"id":15256065}]}]}
+{"op":"mcm","clk":"7738877801","pt":1540442263962,"mc":[{"id":"1.150096704","rc":[{"ltp":2.52,"id":15256065},{"ltp":1.65,"id":21256700}]}]}
+{"op":"mcm","clk":"7738880025","pt":1540442322440,"mc":[{"id":"1.150096704","rc":[{"ltp":2.32,"id":15256065},{"ltp":1.72,"id":21256700}]}]}
+{"op":"mcm","clk":"7738882272","pt":1540442381237,"mc":[{"id":"1.150096704","rc":[{"ltp":2.42,"id":15256065},{"ltp":1.7,"id":21256700}]}]}
+{"op":"mcm","clk":"7738884281","pt":1540442443984,"mc":[{"id":"1.150096704","rc":[{"ltp":2.32,"id":15256065},{"ltp":1.76,"id":21256700}]}]}
+{"op":"mcm","clk":"7738886489","pt":1540442499292,"mc":[{"id":"1.150096704","rc":[{"ltp":2.68,"id":15256065},{"ltp":1.66,"id":21256700}]}]}
+{"op":"mcm","clk":"7738888784","pt":1540442563134,"mc":[{"id":"1.150096704","rc":[{"ltp":2.74,"id":15256065},{"ltp":1.58,"id":21256700}]}]}
+{"op":"mcm","clk":"7738891062","pt":1540442624426,"mc":[{"id":"1.150096704","rc":[{"ltp":1.76,"id":21256700}]}]}
+{"op":"mcm","clk":"7738893211","pt":1540442674323,"mc":[{"id":"1.150096704","rc":[{"ltp":2.24,"id":15256065},{"ltp":1.82,"id":21256700}]}]}
+{"op":"mcm","clk":"7738895808","pt":1540442744292,"mc":[{"id":"1.150096704","rc":[{"ltp":2.28,"id":15256065},{"ltp":1.78,"id":21256700}]}]}
+{"op":"mcm","clk":"7738898121","pt":1540442802912,"mc":[{"id":"1.150096704","rc":[{"ltp":2.32,"id":15256065},{"ltp":1.72,"id":21256700}]}]}
+{"op":"mcm","clk":"7738899945","pt":1540442860730,"mc":[{"id":"1.150096704","rc":[{"ltp":2.24,"id":15256065}]}]}
+{"op":"mcm","clk":"7738901978","pt":1540442924522,"mc":[{"id":"1.150096704","rc":[{"ltp":2.0,"id":15256065},{"ltp":2.0,"id":21256700}]}]}
+{"op":"mcm","clk":"7738903917","pt":1540442981172,"mc":[{"id":"1.150096704","rc":[{"ltp":2.24,"id":15256065},{"ltp":1.8,"id":21256700}]}]}
+{"op":"mcm","clk":"7738905547","pt":1540443039778,"mc":[{"id":"1.150096704","rc":[{"ltp":1.7,"id":15256065},{"ltp":2.36,"id":21256700}]}]}
+{"op":"mcm","clk":"7738907291","pt":1540443101205,"mc":[{"id":"1.150096704","rc":[{"ltp":1.54,"id":15256065},{"ltp":2.42,"id":21256700}]}]}
+{"op":"mcm","clk":"7738920157","pt":1540443163380,"mc":[{"id":"1.150096704","rc":[{"ltp":1.72,"id":15256065}]}]}
+{"op":"mcm","clk":"7738921631","pt":1540443219926,"mc":[{"id":"1.150096704","rc":[{"ltp":1.8,"id":15256065},{"ltp":1.94,"id":21256700}]}]}
+{"op":"mcm","clk":"7738923373","pt":1540443283581,"mc":[{"id":"1.150096704","rc":[{"ltp":2.5,"id":15256065},{"ltp":1.44,"id":21256700}]}]}
+{"op":"mcm","clk":"7738924727","pt":1540443337366,"mc":[{"id":"1.150096704","rc":[{"ltp":2.24,"id":15256065},{"ltp":1.8,"id":21256700}]}]}
+{"op":"mcm","clk":"7738926472","pt":1540443404133,"mc":[{"id":"1.150096704","rc":[{"ltp":3.25,"id":15256065},{"ltp":1.5,"id":21256700}]}]}
+{"op":"mcm","clk":"7738928118","pt":1540443464692,"mc":[{"id":"1.150096704","rc":[{"ltp":1.75,"id":15256065},{"ltp":1.67,"id":21256700}]}]}
+{"op":"mcm","clk":"7738929681","pt":1540443524048,"mc":[{"id":"1.150096704","rc":[{"ltp":2.0,"id":15256065},{"ltp":1.86,"id":21256700}]}]}
+{"op":"mcm","clk":"7738931281","pt":1540443583719,"mc":[{"id":"1.150096704","rc":[{"ltp":4.0,"id":15256065},{"ltp":1.33,"id":21256700}]}]}
+{"op":"mcm","clk":"7738932963","pt":1540443636370,"mc":[{"id":"1.150096704","rc":[{"ltp":2.96,"id":15256065},{"ltp":1.51,"id":21256700}]}]}
+{"op":"mcm","clk":"7738935271","pt":1540443704663,"mc":[{"id":"1.150096704","rc":[{"ltp":2.46,"id":15256065},{"ltp":1.22,"id":21256700}]}]}
+{"op":"mcm","clk":"7738937488","pt":1540443764655,"mc":[{"id":"1.150096704","rc":[{"ltp":1.2,"id":15256065},{"ltp":6.0,"id":21256700}]}]}
+{"op":"mcm","clk":"7738940154","pt":1540443819161,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:05:00.000Z","suspendTime":"2018-10-25T03:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"ACTIVE","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:05:00.000Z","version":2474697003,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"},"rc":[{"ltp":1.42,"id":15256065},{"ltp":3.4,"id":21256700}]}]}
+{"op":"mcm","clk":"7738940531","pt":1540443832200,"mc":[{"id":"1.150096704","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972831","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T03:05:00.000Z","suspendTime":"2018-10-25T03:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T05:03:46.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15256065,"name":"Purcell/Saville"},{"status":"LOSER","sortPriority":2,"id":21256700,"name":"Klein/Puodziunas"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T03:05:00.000Z","version":2474697721,"name":"Match Odds","eventName":"Purcell/Saville v Klein/Puodziunas"}}]}

@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7666174174","pt":1539685284650,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:50:00.000Z","suspendTime":"2018-10-16T11:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:50:00.000Z","version":2457862599,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"}}]}
+{"op":"mcm","clk":"7666496874","pt":1539688425079,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:30:00.000Z","suspendTime":"2018-10-16T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:50:00.000Z","version":2457906605,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"}}]}
+{"op":"mcm","clk":"7666502862","pt":1539688485624,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:30:00.000Z","suspendTime":"2018-10-16T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:30:00.000Z","version":2457906605,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"}}]}
+{"op":"mcm","clk":"7666508943","pt":1539688546765,"mc":[{"id":"1.149670669","rc":[{"ltp":1.59,"id":8621877}]}]}
+{"op":"mcm","clk":"7666526097","pt":1539688725310,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:15:00.000Z","suspendTime":"2018-10-16T11:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:15:00.000Z","version":2457909221,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"},"rc":[{"ltp":1.57,"id":8621877}]}]}
+{"op":"mcm","clk":"7666558414","pt":1539688945962,"mc":[{"id":"1.149670669","rc":[{"ltp":1.56,"id":8621877}]}]}
+{"op":"mcm","clk":"7666565015","pt":1539689013949,"mc":[{"id":"1.149670669","rc":[{"ltp":1.66,"id":8621877}]}]}
+{"op":"mcm","clk":"7666571977","pt":1539689084024,"mc":[{"id":"1.149670669","rc":[{"ltp":1.56,"id":8621877}]}]}
+{"op":"mcm","clk":"7666578063","pt":1539689146429,"mc":[{"id":"1.149670669","rc":[{"ltp":2.8,"id":4422812}]}]}
+{"op":"mcm","clk":"7666582532","pt":1539689192355,"mc":[{"id":"1.149670669","rc":[{"ltp":1.55,"id":8621877}]}]}
+{"op":"mcm","clk":"7666589561","pt":1539689266196,"mc":[{"id":"1.149670669","rc":[{"ltp":1.54,"id":8621877},{"ltp":2.86,"id":4422812}]}]}
+{"op":"mcm","clk":"7666595431","pt":1539689326752,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:15:00.000Z","suspendTime":"2018-10-16T11:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:15:00.000Z","version":2457916238,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"},"rc":[{"ltp":1.7,"id":8621877},{"ltp":2.5,"id":4422812}]}]}
+{"op":"mcm","clk":"7666601373","pt":1539689386727,"mc":[{"id":"1.149670669","rc":[{"ltp":1.65,"id":8621877},{"ltp":2.54,"id":4422812}]}]}
+{"op":"mcm","clk":"7666606266","pt":1539689436155,"mc":[{"id":"1.149670669","rc":[{"ltp":1.73,"id":8621877},{"ltp":2.38,"id":4422812}]}]}
+{"op":"mcm","clk":"7666612789","pt":1539689505942,"mc":[{"id":"1.149670669","rc":[{"ltp":1.8,"id":8621877},{"ltp":2.2,"id":4422812}]}]}
+{"op":"mcm","clk":"7666618214","pt":1539689563973,"mc":[{"id":"1.149670669","rc":[{"ltp":1.74,"id":8621877}]}]}
+{"op":"mcm","clk":"7666623466","pt":1539689624705,"mc":[{"id":"1.149670669","rc":[{"ltp":1.73,"id":8621877}]}]}
+{"op":"mcm","clk":"7666628660","pt":1539689686182,"mc":[{"id":"1.149670669","rc":[{"ltp":1.6,"id":8621877},{"ltp":2.58,"id":4422812}]}]}
+{"op":"mcm","clk":"7666633417","pt":1539689739729,"mc":[{"id":"1.149670669","rc":[{"ltp":1.5,"id":8621877},{"ltp":3.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666639294","pt":1539689806539,"mc":[{"id":"1.149670669","rc":[{"ltp":1.36,"id":8621877}]}]}
+{"op":"mcm","clk":"7666655098","pt":1539689864759,"mc":[{"id":"1.149670669","rc":[{"ltp":1.38,"id":8621877},{"ltp":3.85,"id":4422812}]}]}
+{"op":"mcm","clk":"7666660724","pt":1539689926701,"mc":[{"id":"1.149670669","rc":[{"ltp":1.3,"id":8621877}]}]}
+{"op":"mcm","clk":"7666666261","pt":1539689986940,"mc":[{"id":"1.149670669","rc":[{"ltp":1.31,"id":8621877},{"ltp":4.4,"id":4422812}]}]}
+{"op":"mcm","clk":"7666672057","pt":1539690046657,"mc":[{"id":"1.149670669","rc":[{"ltp":1.37,"id":8621877},{"ltp":3.55,"id":4422812}]}]}
+{"op":"mcm","clk":"7666677748","pt":1539690104920,"mc":[{"id":"1.149670669","rc":[{"ltp":1.41,"id":8621877}]}]}
+{"op":"mcm","clk":"7666683194","pt":1539690165734,"mc":[{"id":"1.149670669","rc":[{"ltp":1.5,"id":8621877},{"ltp":3.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666688802","pt":1539690226869,"mc":[{"id":"1.149670669","rc":[{"ltp":1.41,"id":8621877}]}]}
+{"op":"mcm","clk":"7666692962","pt":1539690270375,"mc":[{"id":"1.149670669","rc":[{"ltp":1.56,"id":8621877}]}]}
+{"op":"mcm","clk":"7666701023","pt":1539690346604,"mc":[{"id":"1.149670669","rc":[{"ltp":1.33,"id":8621877},{"ltp":3.3,"id":4422812}]}]}
+{"op":"mcm","clk":"7666706345","pt":1539690391678,"mc":[{"id":"1.149670669","rc":[{"ltp":1.3,"id":8621877}]}]}
+{"op":"mcm","clk":"7666720907","pt":1539690526362,"mc":[{"id":"1.149670669","rc":[{"ltp":1.25,"id":8621877}]}]}
+{"op":"mcm","clk":"7666726917","pt":1539690585615,"mc":[{"id":"1.149670669","rc":[{"ltp":1.27,"id":8621877}]}]}
+{"op":"mcm","clk":"7666732717","pt":1539690645164,"mc":[{"id":"1.149670669","rc":[{"ltp":1.41,"id":8621877},{"ltp":4.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666739167","pt":1539690706910,"mc":[{"id":"1.149670669","rc":[{"ltp":1.29,"id":8621877}]}]}
+{"op":"mcm","clk":"7666755356","pt":1539690766723,"mc":[{"id":"1.149670669","rc":[{"ltp":1.24,"id":8621877},{"ltp":4.8,"id":4422812}]}]}
+{"op":"mcm","clk":"7666761405","pt":1539690826856,"mc":[{"id":"1.149670669","rc":[{"ltp":1.28,"id":8621877}]}]}
+{"op":"mcm","clk":"7666772919","pt":1539690946498,"mc":[{"id":"1.149670669","rc":[{"ltp":1.29,"id":8621877}]}]}
+{"op":"mcm","clk":"7666778541","pt":1539691006593,"mc":[{"id":"1.149670669","rc":[{"ltp":1.31,"id":8621877}]}]}
+{"op":"mcm","clk":"7666784427","pt":1539691065755,"mc":[{"id":"1.149670669","rc":[{"ltp":1.27,"id":8621877}]}]}
+{"op":"mcm","clk":"7666797268","pt":1539691186844,"mc":[{"id":"1.149670669","rc":[{"ltp":1.2,"id":8621877},{"ltp":6.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666804016","pt":1539691245342,"mc":[{"id":"1.149670669","rc":[{"ltp":1.25,"id":8621877},{"ltp":5.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666811177","pt":1539691303873,"mc":[{"id":"1.149670669","rc":[{"ltp":1.23,"id":8621877}]}]}
+{"op":"mcm","clk":"7666818918","pt":1539691365972,"mc":[{"id":"1.149670669","rc":[{"ltp":1.2,"id":8621877},{"ltp":6.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666826737","pt":1539691425694,"mc":[{"id":"1.149670669","rc":[{"ltp":1.24,"id":8621877},{"ltp":4.1,"id":4422812}]}]}
+{"op":"mcm","clk":"7666834240","pt":1539691485549,"mc":[{"id":"1.149670669","rc":[{"ltp":1.2,"id":8621877}]}]}
+{"op":"mcm","clk":"7666841908","pt":1539691546558,"mc":[{"id":"1.149670669","rc":[{"ltp":1.17,"id":8621877}]}]}
+{"op":"mcm","clk":"7666849289","pt":1539691606351,"mc":[{"id":"1.149670669","rc":[{"ltp":1.19,"id":8621877},{"ltp":6.2,"id":4422812}]}]}
+{"op":"mcm","clk":"7666866661","pt":1539691664899,"mc":[{"id":"1.149670669","rc":[{"ltp":1.16,"id":8621877},{"ltp":6.6,"id":4422812}]}]}
+{"op":"mcm","clk":"7666873665","pt":1539691725155,"mc":[{"id":"1.149670669","rc":[{"ltp":1.13,"id":8621877},{"ltp":8.6,"id":4422812}]}]}
+{"op":"mcm","clk":"7666880541","pt":1539691784853,"mc":[{"id":"1.149670669","rc":[{"ltp":1.16,"id":8621877}]}]}
+{"op":"mcm","clk":"7666886947","pt":1539691844927,"mc":[{"id":"1.149670669","rc":[{"ltp":1.24,"id":8621877},{"ltp":5.7,"id":4422812}]}]}
+{"op":"mcm","clk":"7666893935","pt":1539691906750,"mc":[{"id":"1.149670669","rc":[{"ltp":1.21,"id":8621877}]}]}
+{"op":"mcm","clk":"7666900642","pt":1539691966361,"mc":[{"id":"1.149670669","rc":[{"ltp":1.2,"id":8621877},{"ltp":6.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666907244","pt":1539692024568,"mc":[{"id":"1.149670669","rc":[{"ltp":1.18,"id":8621877},{"ltp":6.6,"id":4422812}]}]}
+{"op":"mcm","clk":"7666913913","pt":1539692083833,"mc":[{"id":"1.149670669","rc":[{"ltp":1.15,"id":8621877}]}]}
+{"op":"mcm","clk":"7666920656","pt":1539692144073,"mc":[{"id":"1.149670669","rc":[{"ltp":1.11,"id":8621877},{"ltp":8.6,"id":4422812}]}]}
+{"op":"mcm","clk":"7666926990","pt":1539692199608,"mc":[{"id":"1.149670669","rc":[{"ltp":1.06,"id":8621877},{"ltp":15.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666935006","pt":1539692266876,"mc":[{"id":"1.149670669","rc":[{"ltp":1.07,"id":8621877},{"ltp":18.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666942320","pt":1539692326751,"mc":[{"id":"1.149670669","rc":[{"ltp":1.04,"id":8621877},{"ltp":21.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666949663","pt":1539692386745,"mc":[{"id":"1.149670669","rc":[{"ltp":1.05,"id":8621877}]}]}
+{"op":"mcm","clk":"7666956553","pt":1539692446813,"mc":[{"id":"1.149670669","rc":[{"ltp":26.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666980567","pt":1539692566765,"mc":[{"id":"1.149670669","rc":[{"ltp":1.06,"id":8621877}]}]}
+{"op":"mcm","clk":"7666987068","pt":1539692625976,"mc":[{"id":"1.149670669","rc":[{"ltp":1.05,"id":8621877},{"ltp":21.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7666994180","pt":1539692686866,"mc":[{"id":"1.149670669","rc":[{"ltp":1.06,"id":8621877},{"ltp":18.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7667000872","pt":1539692745486,"mc":[{"id":"1.149670669","rc":[{"ltp":1.05,"id":8621877}]}]}
+{"op":"mcm","clk":"7667007128","pt":1539692805081,"mc":[{"id":"1.149670669","rc":[{"ltp":1.04,"id":8621877}]}]}
+{"op":"mcm","clk":"7667013952","pt":1539692866440,"mc":[{"id":"1.149670669","rc":[{"ltp":1.02,"id":8621877}]}]}
+{"op":"mcm","clk":"7667020469","pt":1539692925753,"mc":[{"id":"1.149670669","rc":[{"ltp":1.04,"id":8621877},{"ltp":26.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7667027177","pt":1539692985682,"mc":[{"id":"1.149670669","rc":[{"ltp":21.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7667042052","pt":1539693105427,"mc":[{"id":"1.149670669","rc":[{"ltp":1.01,"id":8621877}]}]}
+{"op":"mcm","clk":"7667065665","pt":1539693285259,"mc":[{"id":"1.149670669","rc":[{"ltp":1.02,"id":8621877},{"ltp":100.0,"id":4422812}]}]}
+{"op":"mcm","clk":"7667073288","pt":1539693343714,"mc":[{"id":"1.149670669","rc":[{"ltp":1.01,"id":8621877}]}]}
+{"op":"mcm","clk":"7667079501","pt":1539693394454,"mc":[{"id":"1.149670669","rc":[{"ltp":1.02,"id":8621877}]}]}
+{"op":"mcm","clk":"7667098057","pt":1539693462025,"mc":[{"id":"1.149670669","rc":[{"ltp":1.03,"id":8621877}]}]}
+{"op":"mcm","clk":"7667113327","pt":1539693585426,"mc":[{"id":"1.149670669","rc":[{"ltp":1.01,"id":8621877}]}]}
+{"op":"mcm","clk":"7667127025","pt":1539693705209,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:15:00.000Z","suspendTime":"2018-10-16T11:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"ACTIVE","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:15:00.000Z","version":2457996699,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"}}]}
+{"op":"mcm","clk":"7667127640","pt":1539693710302,"mc":[{"id":"1.149670669","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T11:15:00.000Z","suspendTime":"2018-10-16T11:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-16T12:41:44.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8621877,"name":"Albert Ramos-Vinolas"},{"status":"LOSER","sortPriority":2,"id":4422812,"name":"Stephane Robert"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T11:15:00.000Z","version":2457996823,"name":"Match Odds","eventName":"Ramos-Vinolas v Robert"}}]}

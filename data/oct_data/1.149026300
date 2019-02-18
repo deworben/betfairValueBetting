@@ -1,0 +1,106 @@
+{"op":"mcm","clk":"7607906175","pt":1538554822578,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T02:00:00.000Z","suspendTime":"2018-10-04T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T02:00:00.000Z","version":2435035480,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7607913836","pt":1538554909581,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T02:00:00.000Z","suspendTime":"2018-10-04T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T02:00:00.000Z","version":2435035480,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7611339956","pt":1538584459863,"mc":[{"id":"1.149026300","rc":[{"ltp":1.37,"id":12740328}]}]}
+{"op":"mcm","clk":"7614322740","pt":1538612361061,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T02:00:00.000Z","suspendTime":"2018-10-05T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T02:00:00.000Z","version":2436337426,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7616845214","pt":1538648673221,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T06:30:00.000Z","suspendTime":"2018-10-05T06:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T06:30:00.000Z","version":2436631826,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7621207511","pt":1538685916893,"mc":[{"id":"1.149026300","rc":[{"ltp":1.38,"id":12740328}]}]}
+{"op":"mcm","clk":"7621328902","pt":1538687407350,"mc":[{"id":"1.149026300","rc":[{"ltp":1.37,"id":12740328}]}]}
+{"op":"mcm","clk":"7622608642","pt":1538703215646,"mc":[{"id":"1.149026300","rc":[{"ltp":1.38,"id":12740328}]}]}
+{"op":"mcm","clk":"7623249242","pt":1538713474185,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T06:23:00.000Z","suspendTime":"2018-10-05T06:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T06:23:00.000Z","version":2437565405,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7623541364","pt":1538717893805,"mc":[{"id":"1.149026300","rc":[{"ltp":1.39,"id":12740328}]}]}
+{"op":"mcm","clk":"7623545959","pt":1538717972991,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T05:44:00.000Z","suspendTime":"2018-10-05T05:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T05:44:00.000Z","version":2437583851,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7623570229","pt":1538718132879,"mc":[{"id":"1.149026300","rc":[{"ltp":1.38,"id":12740328}]}]}
+{"op":"mcm","clk":"7623640081","pt":1538719164934,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T05:44:00.000Z","suspendTime":"2018-10-05T05:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T05:44:00.000Z","version":2437589939,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}
+{"op":"mcm","clk":"7623642161","pt":1538719220593,"mc":[{"id":"1.149026300","rc":[{"ltp":1.43,"id":12740328},{"ltp":3.15,"id":19315294}]}]}
+{"op":"mcm","clk":"7623665750","pt":1538719637792,"mc":[{"id":"1.149026300","rc":[{"ltp":1.49,"id":12740328}]}]}
+{"op":"mcm","clk":"7623702868","pt":1538719997512,"mc":[{"id":"1.149026300","rc":[{"ltp":1.39,"id":12740328}]}]}
+{"op":"mcm","clk":"7623706709","pt":1538720055505,"mc":[{"id":"1.149026300","rc":[{"ltp":1.38,"id":12740328}]}]}
+{"op":"mcm","clk":"7623714200","pt":1538720182419,"mc":[{"id":"1.149026300","rc":[{"ltp":1.4,"id":12740328},{"ltp":3.6,"id":19315294}]}]}
+{"op":"mcm","clk":"7623724234","pt":1538720361879,"mc":[{"id":"1.149026300","rc":[{"ltp":1.51,"id":12740328}]}]}
+{"op":"mcm","clk":"7623727305","pt":1538720420416,"mc":[{"id":"1.149026300","rc":[{"ltp":1.75,"id":12740328}]}]}
+{"op":"mcm","clk":"7623730374","pt":1538720484312,"mc":[{"id":"1.149026300","rc":[{"ltp":1.65,"id":12740328},{"ltp":2.52,"id":19315294}]}]}
+{"op":"mcm","clk":"7623733315","pt":1538720544116,"mc":[{"id":"1.149026300","rc":[{"ltp":1.37,"id":12740328},{"ltp":3.0,"id":19315294}]}]}
+{"op":"mcm","clk":"7623735816","pt":1538720598930,"mc":[{"id":"1.149026300","rc":[{"ltp":1.49,"id":12740328},{"ltp":3.05,"id":19315294}]}]}
+{"op":"mcm","clk":"7623741354","pt":1538720714621,"mc":[{"id":"1.149026300","rc":[{"ltp":1.57,"id":12740328},{"ltp":2.76,"id":19315294}]}]}
+{"op":"mcm","clk":"7623744316","pt":1538720774613,"mc":[{"id":"1.149026300","rc":[{"ltp":1.55,"id":12740328}]}]}
+{"op":"mcm","clk":"7623766846","pt":1538720900291,"mc":[{"id":"1.149026300","rc":[{"ltp":3.05,"id":19315294}]}]}
+{"op":"mcm","clk":"7623769984","pt":1538720961333,"mc":[{"id":"1.149026300","rc":[{"ltp":1.5,"id":12740328},{"ltp":3.0,"id":19315294}]}]}
+{"op":"mcm","clk":"7623772998","pt":1538721022653,"mc":[{"id":"1.149026300","rc":[{"ltp":1.51,"id":12740328},{"ltp":2.74,"id":19315294}]}]}
+{"op":"mcm","clk":"7623775803","pt":1538721081292,"mc":[{"id":"1.149026300","rc":[{"ltp":1.6,"id":12740328},{"ltp":2.54,"id":19315294}]}]}
+{"op":"mcm","clk":"7623782827","pt":1538721196389,"mc":[{"id":"1.149026300","rc":[{"ltp":1.73,"id":12740328},{"ltp":2.4,"id":19315294}]}]}
+{"op":"mcm","clk":"7623793911","pt":1538721383999,"mc":[{"id":"1.149026300","rc":[{"ltp":1.52,"id":12740328},{"ltp":3.0,"id":19315294}]}]}
+{"op":"mcm","clk":"7623797761","pt":1538721441444,"mc":[{"id":"1.149026300","rc":[{"ltp":1.48,"id":12740328},{"ltp":3.1,"id":19315294}]}]}
+{"op":"mcm","clk":"7623801614","pt":1538721497175,"mc":[{"id":"1.149026300","rc":[{"ltp":1.61,"id":12740328},{"ltp":2.62,"id":19315294}]}]}
+{"op":"mcm","clk":"7623812981","pt":1538721674856,"mc":[{"id":"1.149026300","rc":[{"ltp":1.65,"id":12740328}]}]}
+{"op":"mcm","clk":"7623832582","pt":1538721738749,"mc":[{"id":"1.149026300","rc":[{"ltp":1.7,"id":12740328},{"ltp":2.44,"id":19315294}]}]}
+{"op":"mcm","clk":"7623835991","pt":1538721796067,"mc":[{"id":"1.149026300","rc":[{"ltp":2.0,"id":12740328}]}]}
+{"op":"mcm","clk":"7623839971","pt":1538721862335,"mc":[{"id":"1.149026300","rc":[{"ltp":2.66,"id":12740328},{"ltp":1.56,"id":19315294}]}]}
+{"op":"mcm","clk":"7623843203","pt":1538721917678,"mc":[{"id":"1.149026300","rc":[{"ltp":2.64,"id":12740328},{"ltp":1.57,"id":19315294}]}]}
+{"op":"mcm","clk":"7623846723","pt":1538721973539,"mc":[{"id":"1.149026300","rc":[{"ltp":2.42,"id":12740328}]}]}
+{"op":"mcm","clk":"7623851044","pt":1538722043877,"mc":[{"id":"1.149026300","rc":[{"ltp":2.4,"id":12740328},{"ltp":1.63,"id":19315294}]}]}
+{"op":"mcm","clk":"7623854984","pt":1538722103057,"mc":[{"id":"1.149026300","rc":[{"ltp":3.0,"id":12740328},{"ltp":1.5,"id":19315294}]}]}
+{"op":"mcm","clk":"7623858824","pt":1538722162258,"mc":[{"id":"1.149026300","rc":[{"ltp":2.96,"id":12740328},{"ltp":1.51,"id":19315294}]}]}
+{"op":"mcm","clk":"7623862405","pt":1538722224855,"mc":[{"id":"1.149026300","rc":[{"ltp":2.78,"id":12740328}]}]}
+{"op":"mcm","clk":"7623865802","pt":1538722283534,"mc":[{"id":"1.149026300","rc":[{"ltp":2.68,"id":12740328},{"ltp":1.59,"id":19315294}]}]}
+{"op":"mcm","clk":"7623869043","pt":1538722334646,"mc":[{"id":"1.149026300","rc":[{"ltp":2.8,"id":12740328},{"ltp":1.5,"id":19315294}]}]}
+{"op":"mcm","clk":"7623873066","pt":1538722404580,"mc":[{"id":"1.149026300","rc":[{"ltp":2.9,"id":12740328},{"ltp":1.53,"id":19315294}]}]}
+{"op":"mcm","clk":"7623875822","pt":1538722456809,"mc":[{"id":"1.149026300","rc":[{"ltp":1.51,"id":19315294}]}]}
+{"op":"mcm","clk":"7623879726","pt":1538722523918,"mc":[{"id":"1.149026300","rc":[{"ltp":3.3,"id":12740328}]}]}
+{"op":"mcm","clk":"7623882353","pt":1538722564251,"mc":[{"id":"1.149026300","rc":[{"ltp":3.1,"id":12740328},{"ltp":1.48,"id":19315294}]}]}
+{"op":"mcm","clk":"7623906698","pt":1538722704877,"mc":[{"id":"1.149026300","rc":[{"ltp":1.46,"id":19315294}]}]}
+{"op":"mcm","clk":"7623910255","pt":1538722762657,"mc":[{"id":"1.149026300","rc":[{"ltp":1.55,"id":19315294}]}]}
+{"op":"mcm","clk":"7623913438","pt":1538722824931,"mc":[{"id":"1.149026300","rc":[{"ltp":2.6,"id":12740328},{"ltp":1.62,"id":19315294}]}]}
+{"op":"mcm","clk":"7623916856","pt":1538722881368,"mc":[{"id":"1.149026300","rc":[{"ltp":1.51,"id":19315294}]}]}
+{"op":"mcm","clk":"7623920052","pt":1538722938347,"mc":[{"id":"1.149026300","rc":[{"ltp":3.3,"id":12740328},{"ltp":1.44,"id":19315294}]}]}
+{"op":"mcm","clk":"7623925577","pt":1538723004676,"mc":[{"id":"1.149026300","rc":[{"ltp":3.2,"id":12740328},{"ltp":1.46,"id":19315294}]}]}
+{"op":"mcm","clk":"7623932329","pt":1538723121927,"mc":[{"id":"1.149026300","rc":[{"ltp":3.8,"id":12740328},{"ltp":1.36,"id":19315294}]}]}
+{"op":"mcm","clk":"7623939678","pt":1538723238547,"mc":[{"id":"1.149026300","rc":[{"ltp":2.88,"id":12740328},{"ltp":1.53,"id":19315294}]}]}
+{"op":"mcm","clk":"7623943936","pt":1538723295511,"mc":[{"id":"1.149026300","rc":[{"ltp":2.86,"id":12740328},{"ltp":1.49,"id":19315294}]}]}
+{"op":"mcm","clk":"7623953073","pt":1538723359076,"mc":[{"id":"1.149026300","rc":[{"ltp":3.3,"id":12740328},{"ltp":1.43,"id":19315294}]}]}
+{"op":"mcm","clk":"7623958109","pt":1538723424178,"mc":[{"id":"1.149026300","rc":[{"ltp":3.0,"id":12740328},{"ltp":1.5,"id":19315294}]}]}
+{"op":"mcm","clk":"7623961979","pt":1538723472102,"mc":[{"id":"1.149026300","rc":[{"ltp":3.1,"id":12740328},{"ltp":1.48,"id":19315294}]}]}
+{"op":"mcm","clk":"7623983223","pt":1538723536342,"mc":[{"id":"1.149026300","rc":[{"ltp":1.53,"id":19315294}]}]}
+{"op":"mcm","clk":"7623988256","pt":1538723599750,"mc":[{"id":"1.149026300","rc":[{"ltp":2.96,"id":12740328},{"ltp":1.51,"id":19315294}]}]}
+{"op":"mcm","clk":"7623997680","pt":1538723715283,"mc":[{"id":"1.149026300","rc":[{"ltp":2.88,"id":12740328},{"ltp":1.48,"id":19315294}]}]}
+{"op":"mcm","clk":"7624003066","pt":1538723780803,"mc":[{"id":"1.149026300","rc":[{"ltp":2.38,"id":12740328}]}]}
+{"op":"mcm","clk":"7624008618","pt":1538723843988,"mc":[{"id":"1.149026300","rc":[{"ltp":3.05,"id":12740328}]}]}
+{"op":"mcm","clk":"7624013971","pt":1538723904388,"mc":[{"id":"1.149026300","rc":[{"ltp":3.3,"id":12740328},{"ltp":1.43,"id":19315294}]}]}
+{"op":"mcm","clk":"7624018490","pt":1538723960991,"mc":[{"id":"1.149026300","rc":[{"ltp":1.44,"id":19315294}]}]}
+{"op":"mcm","clk":"7624028268","pt":1538724082366,"mc":[{"id":"1.149026300","rc":[{"ltp":2.88,"id":12740328},{"ltp":1.53,"id":19315294}]}]}
+{"op":"mcm","clk":"7624032711","pt":1538724144246,"mc":[{"id":"1.149026300","rc":[{"ltp":2.68,"id":12740328},{"ltp":1.59,"id":19315294}]}]}
+{"op":"mcm","clk":"7624036493","pt":1538724204214,"mc":[{"id":"1.149026300","rc":[{"ltp":2.34,"id":12740328},{"ltp":1.74,"id":19315294}]}]}
+{"op":"mcm","clk":"7624040545","pt":1538724262544,"mc":[{"id":"1.149026300","rc":[{"ltp":2.56,"id":12740328},{"ltp":1.61,"id":19315294}]}]}
+{"op":"mcm","clk":"7624044859","pt":1538724324695,"mc":[{"id":"1.149026300","rc":[{"ltp":3.1,"id":12740328},{"ltp":1.46,"id":19315294}]}]}
+{"op":"mcm","clk":"7624049031","pt":1538724381768,"mc":[{"id":"1.149026300","rc":[{"ltp":3.25,"id":12740328},{"ltp":1.45,"id":19315294}]}]}
+{"op":"mcm","clk":"7624069403","pt":1538724444908,"mc":[{"id":"1.149026300","rc":[{"ltp":3.1,"id":12740328},{"ltp":1.48,"id":19315294}]}]}
+{"op":"mcm","clk":"7624073641","pt":1538724502464,"mc":[{"id":"1.149026300","rc":[{"ltp":2.8,"id":12740328},{"ltp":1.56,"id":19315294}]}]}
+{"op":"mcm","clk":"7624077925","pt":1538724560924,"mc":[{"id":"1.149026300","rc":[{"ltp":2.76,"id":12740328},{"ltp":1.57,"id":19315294}]}]}
+{"op":"mcm","clk":"7624082928","pt":1538724624032,"mc":[{"id":"1.149026300","rc":[{"ltp":2.74,"id":12740328},{"ltp":1.49,"id":19315294}]}]}
+{"op":"mcm","clk":"7624087808","pt":1538724683668,"mc":[{"id":"1.149026300","rc":[{"ltp":2.44,"id":12740328},{"ltp":1.68,"id":19315294}]}]}
+{"op":"mcm","clk":"7624093105","pt":1538724744895,"mc":[{"id":"1.149026300","rc":[{"ltp":1.9,"id":12740328},{"ltp":2.54,"id":19315294}]}]}
+{"op":"mcm","clk":"7624098713","pt":1538724804091,"mc":[{"id":"1.149026300","rc":[{"ltp":1.61,"id":12740328},{"ltp":2.66,"id":19315294}]}]}
+{"op":"mcm","clk":"7624103756","pt":1538724864418,"mc":[{"id":"1.149026300","rc":[{"ltp":1.78,"id":12740328},{"ltp":2.46,"id":19315294}]}]}
+{"op":"mcm","clk":"7624108682","pt":1538724923846,"mc":[{"id":"1.149026300","rc":[{"ltp":1.94,"id":12740328},{"ltp":1.98,"id":19315294}]}]}
+{"op":"mcm","clk":"7624113757","pt":1538724984892,"mc":[{"id":"1.149026300","rc":[{"ltp":1.67,"id":12740328},{"ltp":2.58,"id":19315294}]}]}
+{"op":"mcm","clk":"7624118864","pt":1538725040336,"mc":[{"id":"1.149026300","rc":[{"ltp":1.64,"id":12740328},{"ltp":2.56,"id":19315294}]}]}
+{"op":"mcm","clk":"7624124231","pt":1538725098599,"mc":[{"id":"1.149026300","rc":[{"ltp":1.67,"id":12740328}]}]}
+{"op":"mcm","clk":"7624129876","pt":1538725164160,"mc":[{"id":"1.149026300","rc":[{"ltp":2.48,"id":12740328},{"ltp":1.67,"id":19315294}]}]}
+{"op":"mcm","clk":"7624134563","pt":1538725224458,"mc":[{"id":"1.149026300","rc":[{"ltp":3.15,"id":12740328},{"ltp":1.56,"id":19315294}]}]}
+{"op":"mcm","clk":"7624139128","pt":1538725284942,"mc":[{"id":"1.149026300","rc":[{"ltp":2.18,"id":12740328},{"ltp":1.84,"id":19315294}]}]}
+{"op":"mcm","clk":"7624159031","pt":1538725343985,"mc":[{"id":"1.149026300","rc":[{"ltp":1.92,"id":12740328},{"ltp":2.08,"id":19315294}]}]}
+{"op":"mcm","clk":"7624163203","pt":1538725404812,"mc":[{"id":"1.149026300","rc":[{"ltp":2.12,"id":12740328},{"ltp":1.64,"id":19315294}]}]}
+{"op":"mcm","clk":"7624167142","pt":1538725464984,"mc":[{"id":"1.149026300","rc":[{"ltp":1.68,"id":12740328},{"ltp":2.46,"id":19315294}]}]}
+{"op":"mcm","clk":"7624171392","pt":1538725524721,"mc":[{"id":"1.149026300","rc":[{"ltp":1.29,"id":12740328},{"ltp":4.3,"id":19315294}]}]}
+{"op":"mcm","clk":"7624174973","pt":1538725584730,"mc":[{"id":"1.149026300","rc":[{"ltp":1.16,"id":12740328},{"ltp":4.8,"id":19315294}]}]}
+{"op":"mcm","clk":"7624179151","pt":1538725643882,"mc":[{"id":"1.149026300","rc":[{"ltp":1.78,"id":12740328},{"ltp":2.28,"id":19315294}]}]}
+{"op":"mcm","clk":"7624183628","pt":1538725703326,"mc":[{"id":"1.149026300","rc":[{"ltp":2.2,"id":12740328},{"ltp":1.84,"id":19315294}]}]}
+{"op":"mcm","clk":"7624188349","pt":1538725764698,"mc":[{"id":"1.149026300","rc":[{"ltp":1.78,"id":12740328},{"ltp":2.28,"id":19315294}]}]}
+{"op":"mcm","clk":"7624193298","pt":1538725824922,"mc":[{"id":"1.149026300","rc":[{"ltp":1.42,"id":12740328},{"ltp":3.4,"id":19315294}]}]}
+{"op":"mcm","clk":"7624198291","pt":1538725884315,"mc":[{"id":"1.149026300","rc":[{"ltp":1.72,"id":12740328},{"ltp":2.26,"id":19315294}]}]}
+{"op":"mcm","clk":"7624203275","pt":1538725944522,"mc":[{"id":"1.149026300","rc":[{"ltp":1.75,"id":12740328},{"ltp":2.32,"id":19315294}]}]}
+{"op":"mcm","clk":"7624207307","pt":1538726002325,"mc":[{"id":"1.149026300","rc":[{"ltp":1.8,"id":12740328},{"ltp":2.24,"id":19315294}]}]}
+{"op":"mcm","clk":"7624212638","pt":1538726064650,"mc":[{"id":"1.149026300","rc":[{"ltp":2.38,"id":12740328},{"ltp":1.72,"id":19315294}]}]}
+{"op":"mcm","clk":"7624217635","pt":1538726123838,"mc":[{"id":"1.149026300","rc":[{"ltp":1.78,"id":12740328},{"ltp":2.2,"id":19315294}]}]}
+{"op":"mcm","clk":"7624222333","pt":1538726184707,"mc":[{"id":"1.149026300","rc":[{"ltp":1.4,"id":12740328},{"ltp":5.7,"id":19315294}]}]}
+{"op":"mcm","clk":"7624241135","pt":1538726226735,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T05:44:00.000Z","suspendTime":"2018-10-05T05:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"ACTIVE","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T05:44:00.000Z","version":2437633040,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"},"rc":[{"ltp":1.47,"id":12740328},{"ltp":3.15,"id":19315294}]}]}
+{"op":"mcm","clk":"7624244733","pt":1538726265385,"mc":[{"id":"1.149026300","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28936388","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T05:44:00.000Z","suspendTime":"2018-10-05T05:44:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-05T07:57:37.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":12740328,"name":"Marach/Pavic"},{"status":"LOSER","sortPriority":2,"id":19315294,"name":"Daniell/Koolhof"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T05:44:00.000Z","version":2437633524,"name":"Match Odds","eventName":"Marach/Pavic v Daniell/Koolhof"}}]}

@@ -1,0 +1,85 @@
+{"op":"mcm","clk":"7772685383","pt":1540159213338,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T01:00:00.000Z","suspendTime":"2018-10-22T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T01:00:00.000Z","version":2470077924,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7772701154","pt":1540159384574,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T01:00:00.000Z","suspendTime":"2018-10-22T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T01:00:00.000Z","version":2470077924,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7773047316","pt":1540162724578,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:57:00.000Z","suspendTime":"2018-10-22T00:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:57:00.000Z","version":2470156991,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7773551356","pt":1540169324488,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:52:00.000Z","suspendTime":"2018-10-22T00:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:52:00.000Z","version":2470308283,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7773554313","pt":1540169405380,"mc":[{"id":"1.149954500","rc":[{"ltp":2.66,"id":9624502},{"ltp":1.47,"id":9350386}]}]}
+{"op":"mcm","clk":"7773560559","pt":1540169624362,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:50:00.000Z","suspendTime":"2018-10-22T00:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:50:00.000Z","version":2470312687,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7773562325","pt":1540169790382,"mc":[{"id":"1.149954500","rc":[{"ltp":1.46,"id":9350386}]}]}
+{"op":"mcm","clk":"7773579747","pt":1540170274344,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:50:00.000Z","suspendTime":"2018-10-22T00:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:50:00.000Z","version":2470316306,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}
+{"op":"mcm","clk":"7773582949","pt":1540170445401,"mc":[{"id":"1.149954500","rc":[{"ltp":3.3,"id":9624502},{"ltp":1.44,"id":9350386}]}]}
+{"op":"mcm","clk":"7773584183","pt":1540170514041,"mc":[{"id":"1.149954500","rc":[{"ltp":2.84,"id":9624502},{"ltp":1.54,"id":9350386}]}]}
+{"op":"mcm","clk":"7773586962","pt":1540170692417,"mc":[{"id":"1.149954500","rc":[{"ltp":2.24,"id":9624502},{"ltp":1.8,"id":9350386}]}]}
+{"op":"mcm","clk":"7773597919","pt":1540170754163,"mc":[{"id":"1.149954500","rc":[{"ltp":1.92,"id":9624502},{"ltp":2.08,"id":9350386}]}]}
+{"op":"mcm","clk":"7773598439","pt":1540170801060,"mc":[{"id":"1.149954500","rc":[{"ltp":2.04,"id":9624502}]}]}
+{"op":"mcm","clk":"7773599182","pt":1540170874248,"mc":[{"id":"1.149954500","rc":[{"ltp":1.92,"id":9624502}]}]}
+{"op":"mcm","clk":"7773599915","pt":1540170934285,"mc":[{"id":"1.149954500","rc":[{"ltp":1.86,"id":9624502},{"ltp":2.16,"id":9350386}]}]}
+{"op":"mcm","clk":"7773600413","pt":1540170987991,"mc":[{"id":"1.149954500","rc":[{"ltp":1.8,"id":9624502}]}]}
+{"op":"mcm","clk":"7773601179","pt":1540171053768,"mc":[{"id":"1.149954500","rc":[{"ltp":2.12,"id":9350386}]}]}
+{"op":"mcm","clk":"7773602661","pt":1540171172549,"mc":[{"id":"1.149954500","rc":[{"ltp":1.55,"id":9624502},{"ltp":2.78,"id":9350386}]}]}
+{"op":"mcm","clk":"7773603369","pt":1540171232600,"mc":[{"id":"1.149954500","rc":[{"ltp":1.74,"id":9624502},{"ltp":2.58,"id":9350386}]}]}
+{"op":"mcm","clk":"7773603905","pt":1540171291066,"mc":[{"id":"1.149954500","rc":[{"ltp":1.94,"id":9624502},{"ltp":2.12,"id":9350386}]}]}
+{"op":"mcm","clk":"7773604564","pt":1540171348335,"mc":[{"id":"1.149954500","rc":[{"ltp":1.89,"id":9624502}]}]}
+{"op":"mcm","clk":"7773605113","pt":1540171390359,"mc":[{"id":"1.149954500","rc":[{"ltp":2.02,"id":9624502},{"ltp":1.98,"id":9350386}]}]}
+{"op":"mcm","clk":"7773606122","pt":1540171468295,"mc":[{"id":"1.149954500","rc":[{"ltp":1.89,"id":9624502},{"ltp":2.24,"id":9350386}]}]}
+{"op":"mcm","clk":"7773607069","pt":1540171534489,"mc":[{"id":"1.149954500","rc":[{"ltp":1.83,"id":9624502},{"ltp":2.2,"id":9350386}]}]}
+{"op":"mcm","clk":"7773607933","pt":1540171594560,"mc":[{"id":"1.149954500","rc":[{"ltp":1.78,"id":9624502},{"ltp":2.1,"id":9350386}]}]}
+{"op":"mcm","clk":"7773619312","pt":1540171654281,"mc":[{"id":"1.149954500","rc":[{"ltp":1.68,"id":9624502},{"ltp":2.46,"id":9350386}]}]}
+{"op":"mcm","clk":"7773619870","pt":1540171710517,"mc":[{"id":"1.149954500","rc":[{"ltp":1.55,"id":9624502},{"ltp":2.82,"id":9350386}]}]}
+{"op":"mcm","clk":"7773620520","pt":1540171772709,"mc":[{"id":"1.149954500","rc":[{"ltp":1.5,"id":9624502},{"ltp":3.0,"id":9350386}]}]}
+{"op":"mcm","clk":"7773621100","pt":1540171833375,"mc":[{"id":"1.149954500","rc":[{"ltp":1.78,"id":9624502},{"ltp":2.28,"id":9350386}]}]}
+{"op":"mcm","clk":"7773621756","pt":1540171892031,"mc":[{"id":"1.149954500","rc":[{"ltp":1.8,"id":9624502},{"ltp":2.24,"id":9350386}]}]}
+{"op":"mcm","clk":"7773622555","pt":1540171954335,"mc":[{"id":"1.149954500","rc":[{"ltp":1.78,"id":9624502},{"ltp":2.28,"id":9350386}]}]}
+{"op":"mcm","clk":"7773624236","pt":1540172014679,"mc":[{"id":"1.149954500","rc":[{"ltp":1.85,"id":9624502},{"ltp":2.16,"id":9350386}]}]}
+{"op":"mcm","clk":"7773625563","pt":1540172134532,"mc":[{"id":"1.149954500","rc":[{"ltp":2.0,"id":9624502},{"ltp":1.8,"id":9350386}]}]}
+{"op":"mcm","clk":"7773626153","pt":1540172191496,"mc":[{"id":"1.149954500","rc":[{"ltp":2.38,"id":9624502},{"ltp":1.4,"id":9350386}]}]}
+{"op":"mcm","clk":"7773626705","pt":1540172248845,"mc":[{"id":"1.149954500","rc":[{"ltp":2.82,"id":9624502},{"ltp":1.52,"id":9350386}]}]}
+{"op":"mcm","clk":"7773627693","pt":1540172313994,"mc":[{"id":"1.149954500","rc":[{"ltp":2.72,"id":9624502},{"ltp":1.59,"id":9350386}]}]}
+{"op":"mcm","clk":"7773628802","pt":1540172371386,"mc":[{"id":"1.149954500","rc":[{"ltp":3.15,"id":9624502},{"ltp":1.47,"id":9350386}]}]}
+{"op":"mcm","clk":"7773630413","pt":1540172434099,"mc":[{"id":"1.149954500","rc":[{"ltp":1.43,"id":9350386}]}]}
+{"op":"mcm","clk":"7773631913","pt":1540172493920,"mc":[{"id":"1.149954500","rc":[{"ltp":2.92,"id":9624502},{"ltp":1.52,"id":9350386}]}]}
+{"op":"mcm","clk":"7773643578","pt":1540172548098,"mc":[{"id":"1.149954500","rc":[{"ltp":2.4,"id":9624502},{"ltp":1.72,"id":9350386}]}]}
+{"op":"mcm","clk":"7773645119","pt":1540172609772,"mc":[{"id":"1.149954500","rc":[{"ltp":2.36,"id":9624502},{"ltp":1.74,"id":9350386}]}]}
+{"op":"mcm","clk":"7773647017","pt":1540172673590,"mc":[{"id":"1.149954500","rc":[{"ltp":1.72,"id":9350386}]}]}
+{"op":"mcm","clk":"7773648553","pt":1540172716322,"mc":[{"id":"1.149954500","rc":[{"ltp":1.62,"id":9350386}]}]}
+{"op":"mcm","clk":"7773652071","pt":1540172853964,"mc":[{"id":"1.149954500","rc":[{"ltp":2.92,"id":9624502},{"ltp":1.52,"id":9350386}]}]}
+{"op":"mcm","clk":"7773653554","pt":1540172914251,"mc":[{"id":"1.149954500","rc":[{"ltp":2.36,"id":9624502},{"ltp":1.73,"id":9350386}]}]}
+{"op":"mcm","clk":"7773655314","pt":1540172973954,"mc":[{"id":"1.149954500","rc":[{"ltp":3.0,"id":9624502},{"ltp":1.5,"id":9350386}]}]}
+{"op":"mcm","clk":"7773656802","pt":1540173030774,"mc":[{"id":"1.149954500","rc":[{"ltp":1.4,"id":9350386}]}]}
+{"op":"mcm","clk":"7773657517","pt":1540173064707,"mc":[{"id":"1.149954500","rc":[{"ltp":1.33,"id":9350386}]}]}
+{"op":"mcm","clk":"7773659284","pt":1540173151963,"mc":[{"id":"1.149954500","rc":[{"ltp":1.22,"id":9350386}]}]}
+{"op":"mcm","clk":"7773659846","pt":1540173177842,"mc":[{"id":"1.149954500","rc":[{"ltp":1.21,"id":9350386}]}]}
+{"op":"mcm","clk":"7773676286","pt":1540173514240,"mc":[{"id":"1.149954500","rc":[{"ltp":1.17,"id":9350386}]}]}
+{"op":"mcm","clk":"7773678617","pt":1540173692657,"mc":[{"id":"1.149954500","rc":[{"ltp":5.7,"id":9624502},{"ltp":1.21,"id":9350386}]}]}
+{"op":"mcm","clk":"7773682781","pt":1540173871404,"mc":[{"id":"1.149954500","rc":[{"ltp":4.0,"id":9624502},{"ltp":1.25,"id":9350386}]}]}
+{"op":"mcm","clk":"7773684010","pt":1540173932559,"mc":[{"id":"1.149954500","rc":[{"ltp":5.1,"id":9624502},{"ltp":1.31,"id":9350386}]}]}
+{"op":"mcm","clk":"7773685194","pt":1540173989906,"mc":[{"id":"1.149954500","rc":[{"ltp":1.2,"id":9350386}]}]}
+{"op":"mcm","clk":"7773686454","pt":1540174053614,"mc":[{"id":"1.149954500","rc":[{"ltp":1.18,"id":9350386}]}]}
+{"op":"mcm","clk":"7773687874","pt":1540174112016,"mc":[{"id":"1.149954500","rc":[{"ltp":6.4,"id":9624502},{"ltp":1.19,"id":9350386}]}]}
+{"op":"mcm","clk":"7773689117","pt":1540174174656,"mc":[{"id":"1.149954500","rc":[{"ltp":1.16,"id":9350386}]}]}
+{"op":"mcm","clk":"7773689881","pt":1540174229175,"mc":[{"id":"1.149954500","rc":[{"ltp":1.17,"id":9350386}]}]}
+{"op":"mcm","clk":"7773690566","pt":1540174292972,"mc":[{"id":"1.149954500","rc":[{"ltp":1.18,"id":9350386}]}]}
+{"op":"mcm","clk":"7773702792","pt":1540174413282,"mc":[{"id":"1.149954500","rc":[{"ltp":4.4,"id":9624502},{"ltp":1.3,"id":9350386}]}]}
+{"op":"mcm","clk":"7773703839","pt":1540174468084,"mc":[{"id":"1.149954500","rc":[{"ltp":4.7,"id":9624502},{"ltp":1.27,"id":9350386}]}]}
+{"op":"mcm","clk":"7773704855","pt":1540174524287,"mc":[{"id":"1.149954500","rc":[{"ltp":1.23,"id":9350386}]}]}
+{"op":"mcm","clk":"7773706224","pt":1540174591785,"mc":[{"id":"1.149954500","rc":[{"ltp":1.2,"id":9350386}]}]}
+{"op":"mcm","clk":"7773707497","pt":1540174654213,"mc":[{"id":"1.149954500","rc":[{"ltp":5.3,"id":9624502}]}]}
+{"op":"mcm","clk":"7773708548","pt":1540174713372,"mc":[{"id":"1.149954500","rc":[{"ltp":6.0,"id":9624502},{"ltp":1.25,"id":9350386}]}]}
+{"op":"mcm","clk":"7773709671","pt":1540174774407,"mc":[{"id":"1.149954500","rc":[{"ltp":4.8,"id":9624502},{"ltp":1.26,"id":9350386}]}]}
+{"op":"mcm","clk":"7773710790","pt":1540174833896,"mc":[{"id":"1.149954500","rc":[{"ltp":4.2,"id":9624502},{"ltp":1.31,"id":9350386}]}]}
+{"op":"mcm","clk":"7773712089","pt":1540174891434,"mc":[{"id":"1.149954500","rc":[{"ltp":1.4,"id":9350386}]}]}
+{"op":"mcm","clk":"7773713588","pt":1540174951538,"mc":[{"id":"1.149954500","rc":[{"ltp":3.0,"id":9624502},{"ltp":1.5,"id":9350386}]}]}
+{"op":"mcm","clk":"7773715125","pt":1540175013779,"mc":[{"id":"1.149954500","rc":[{"ltp":4.4,"id":9624502},{"ltp":1.32,"id":9350386}]}]}
+{"op":"mcm","clk":"7773716570","pt":1540175073923,"mc":[{"id":"1.149954500","rc":[{"ltp":1.2,"id":9350386}]}]}
+{"op":"mcm","clk":"7773717739","pt":1540175132833,"mc":[{"id":"1.149954500","rc":[{"ltp":5.7,"id":9624502}]}]}
+{"op":"mcm","clk":"7773718666","pt":1540175191727,"mc":[{"id":"1.149954500","rc":[{"ltp":1.27,"id":9350386}]}]}
+{"op":"mcm","clk":"7773729808","pt":1540175238654,"mc":[{"id":"1.149954500","rc":[{"ltp":5.1,"id":9624502}]}]}
+{"op":"mcm","clk":"7773730897","pt":1540175307205,"mc":[{"id":"1.149954500","rc":[{"ltp":4.7,"id":9624502},{"ltp":1.28,"id":9350386}]}]}
+{"op":"mcm","clk":"7773732169","pt":1540175374621,"mc":[{"id":"1.149954500","rc":[{"ltp":3.4,"id":9624502},{"ltp":1.48,"id":9350386}]}]}
+{"op":"mcm","clk":"7773733246","pt":1540175431446,"mc":[{"id":"1.149954500","rc":[{"ltp":2.78,"id":9624502},{"ltp":1.34,"id":9350386}]}]}
+{"op":"mcm","clk":"7773734478","pt":1540175494478,"mc":[{"id":"1.149954500","rc":[{"ltp":1.24,"id":9350386}]}]}
+{"op":"mcm","clk":"7773735702","pt":1540175552868,"mc":[{"id":"1.149954500","rc":[{"ltp":4.1,"id":9624502},{"ltp":1.21,"id":9350386}]}]}
+{"op":"mcm","clk":"7773737758","pt":1540175613639,"mc":[{"id":"1.149954500","rc":[{"ltp":6.0,"id":9624502},{"ltp":1.18,"id":9350386}]}]}
+{"op":"mcm","clk":"7773739198","pt":1540175673566,"mc":[{"id":"1.149954500","rc":[{"ltp":6.8,"id":9624502},{"ltp":1.09,"id":9350386}]}]}
+{"op":"mcm","clk":"7773740310","pt":1540175728965,"mc":[{"id":"1.149954500","rc":[{"ltp":1.03,"id":9350386}]}]}
+{"op":"mcm","clk":"7773741710","pt":1540175788701,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:50:00.000Z","suspendTime":"2018-10-22T00:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"ACTIVE","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:50:00.000Z","version":2470378602,"name":"Match Odds","eventName":"Reboul v Mi Look"},"rc":[{"ltp":1.04,"id":9350386}]}]}
+{"op":"mcm","clk":"7773742595","pt":1540175822783,"mc":[{"id":"1.149954500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28968164","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T00:50:00.000Z","suspendTime":"2018-10-22T00:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-22T02:36:59.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9350386,"name":"Fabien Reboul"},{"status":"LOSER","sortPriority":2,"id":9624502,"name":"Michael Look"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T00:50:00.000Z","version":2470379112,"name":"Match Odds","eventName":"Reboul v Mi Look"}}]}

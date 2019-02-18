@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7832025680","pt":1540747798874,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"ACTIVE","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2483175799,"name":"Match Odds","eventName":"18758405"}}]}
+{"op":"mcm","clk":"7832097652","pt":1540748262973,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"ACTIVE","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2483175799,"name":"Match Odds","eventName":"18758405"}}]}
+{"op":"mcm","clk":"7832929286","pt":1540754926918,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T14:00:00.000Z","suspendTime":"2018-10-29T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"ACTIVE","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T14:00:00.000Z","version":2483551546,"name":"Match Odds","eventName":"18758405"}}]}
+{"op":"mcm","clk":"7835895701","pt":1540801328955,"mc":[{"id":"1.150362752","rc":[{"ltp":1.56,"id":8679651}]}]}
+{"op":"mcm","clk":"7837397369","pt":1540820158903,"mc":[{"id":"1.150362752","rc":[{"ltp":1.49,"id":8679651}]}]}
+{"op":"mcm","clk":"7837411723","pt":1540820276350,"mc":[{"id":"1.150362752","rc":[{"ltp":2.5,"id":8230256},{"ltp":1.67,"id":8679651}]}]}
+{"op":"mcm","clk":"7837436771","pt":1540820499925,"mc":[{"id":"1.150362752","rc":[{"ltp":1.58,"id":8679651}]}]}
+{"op":"mcm","clk":"7837516435","pt":1540821130427,"mc":[{"id":"1.150362752","rc":[{"ltp":2.74,"id":8230256}]}]}
+{"op":"mcm","clk":"7837526774","pt":1540821229747,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T13:51:00.000Z","suspendTime":"2018-10-29T13:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"ACTIVE","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T13:51:00.000Z","version":2484646229,"name":"Match Odds","eventName":"18758405"}}]}
+{"op":"mcm","clk":"7837569788","pt":1540821572696,"mc":[{"id":"1.150362752","rc":[{"ltp":2.76,"id":8230256},{"ltp":1.57,"id":8679651}]}]}
+{"op":"mcm","clk":"7837598047","pt":1540821854562,"mc":[{"id":"1.150362752","rc":[{"ltp":2.64,"id":8230256},{"ltp":1.6,"id":8679651}]}]}
+{"op":"mcm","clk":"7837641364","pt":1540822255225,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T13:51:00.000Z","suspendTime":"2018-10-29T13:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"ACTIVE","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T13:51:00.000Z","version":2484661370,"name":"Match Odds","eventName":"18758405"},"rc":[{"ltp":2.52,"id":8230256},{"ltp":1.59,"id":8679651}]}]}
+{"op":"mcm","clk":"7837647947","pt":1540822316278,"mc":[{"id":"1.150362752","rc":[{"ltp":2.98,"id":8230256},{"ltp":1.51,"id":8679651}]}]}
+{"op":"mcm","clk":"7837664563","pt":1540822377869,"mc":[{"id":"1.150362752","rc":[{"ltp":2.8,"id":8230256},{"ltp":1.56,"id":8679651}]}]}
+{"op":"mcm","clk":"7837671142","pt":1540822438707,"mc":[{"id":"1.150362752","rc":[{"ltp":2.4,"id":8230256},{"ltp":1.71,"id":8679651}]}]}
+{"op":"mcm","clk":"7837677840","pt":1540822499257,"mc":[{"id":"1.150362752","rc":[{"ltp":1.6,"id":8679651}]}]}
+{"op":"mcm","clk":"7837684481","pt":1540822558944,"mc":[{"id":"1.150362752","rc":[{"ltp":2.86,"id":8230256},{"ltp":1.54,"id":8679651}]}]}
+{"op":"mcm","clk":"7837696829","pt":1540822676710,"mc":[{"id":"1.150362752","rc":[{"ltp":1.64,"id":8679651}]}]}
+{"op":"mcm","clk":"7837702839","pt":1540822737090,"mc":[{"id":"1.150362752","rc":[{"ltp":1.58,"id":8679651}]}]}
+{"op":"mcm","clk":"7837707081","pt":1540822779838,"mc":[{"id":"1.150362752","rc":[{"ltp":2.56,"id":8230256},{"ltp":1.63,"id":8679651}]}]}
+{"op":"mcm","clk":"7837714761","pt":1540822855560,"mc":[{"id":"1.150362752","rc":[{"ltp":2.66,"id":8230256},{"ltp":1.58,"id":8679651}]}]}
+{"op":"mcm","clk":"7837721427","pt":1540822918589,"mc":[{"id":"1.150362752","rc":[{"ltp":1.52,"id":8679651}]}]}
+{"op":"mcm","clk":"7837727441","pt":1540822974997,"mc":[{"id":"1.150362752","rc":[{"ltp":3.0,"id":8230256},{"ltp":1.54,"id":8679651}]}]}
+{"op":"mcm","clk":"7837734159","pt":1540823039416,"mc":[{"id":"1.150362752","rc":[{"ltp":1.62,"id":8679651}]}]}
+{"op":"mcm","clk":"7837740022","pt":1540823098049,"mc":[{"id":"1.150362752","rc":[{"ltp":2.64,"id":8230256},{"ltp":1.61,"id":8679651}]}]}
+{"op":"mcm","clk":"7837746233","pt":1540823159305,"mc":[{"id":"1.150362752","rc":[{"ltp":2.66,"id":8230256},{"ltp":1.62,"id":8679651}]}]}
+{"op":"mcm","clk":"7837752385","pt":1540823216917,"mc":[{"id":"1.150362752","rc":[{"ltp":2.86,"id":8230256},{"ltp":1.54,"id":8679651}]}]}
+{"op":"mcm","clk":"7837768365","pt":1540823278803,"mc":[{"id":"1.150362752","rc":[{"ltp":1.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7837774572","pt":1540823338403,"mc":[{"id":"1.150362752","rc":[{"ltp":1.47,"id":8679651}]}]}
+{"op":"mcm","clk":"7837780324","pt":1540823398357,"mc":[{"id":"1.150362752","rc":[{"ltp":1.45,"id":8679651}]}]}
+{"op":"mcm","clk":"7837792551","pt":1540823519204,"mc":[{"id":"1.150362752","rc":[{"ltp":2.74,"id":8230256},{"ltp":1.57,"id":8679651}]}]}
+{"op":"mcm","clk":"7837798474","pt":1540823575928,"mc":[{"id":"1.150362752","rc":[{"ltp":1.56,"id":8679651}]}]}
+{"op":"mcm","clk":"7837804626","pt":1540823639311,"mc":[{"id":"1.150362752","rc":[{"ltp":3.0,"id":8230256},{"ltp":1.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7837810429","pt":1540823697081,"mc":[{"id":"1.150362752","rc":[{"ltp":3.2,"id":8230256},{"ltp":1.47,"id":8679651}]}]}
+{"op":"mcm","clk":"7837816320","pt":1540823759087,"mc":[{"id":"1.150362752","rc":[{"ltp":3.05,"id":8230256},{"ltp":1.49,"id":8679651}]}]}
+{"op":"mcm","clk":"7837821878","pt":1540823818293,"mc":[{"id":"1.150362752","rc":[{"ltp":1.48,"id":8679651}]}]}
+{"op":"mcm","clk":"7837827734","pt":1540823879175,"mc":[{"id":"1.150362752","rc":[{"ltp":3.95,"id":8230256},{"ltp":1.36,"id":8679651}]}]}
+{"op":"mcm","clk":"7837833496","pt":1540823938717,"mc":[{"id":"1.150362752","rc":[{"ltp":3.45,"id":8230256},{"ltp":1.41,"id":8679651}]}]}
+{"op":"mcm","clk":"7837845310","pt":1540824059385,"mc":[{"id":"1.150362752","rc":[{"ltp":3.1,"id":8230256},{"ltp":1.48,"id":8679651}]}]}
+{"op":"mcm","clk":"7837851361","pt":1540824119349,"mc":[{"id":"1.150362752","rc":[{"ltp":2.92,"id":8230256},{"ltp":1.52,"id":8679651}]}]}
+{"op":"mcm","clk":"7837867302","pt":1540824179139,"mc":[{"id":"1.150362752","rc":[{"ltp":2.58,"id":8230256},{"ltp":1.63,"id":8679651}]}]}
+{"op":"mcm","clk":"7837873531","pt":1540824239305,"mc":[{"id":"1.150362752","rc":[{"ltp":2.16,"id":8230256},{"ltp":1.85,"id":8679651}]}]}
+{"op":"mcm","clk":"7837879995","pt":1540824298991,"mc":[{"id":"1.150362752","rc":[{"ltp":2.6,"id":8230256},{"ltp":1.62,"id":8679651}]}]}
+{"op":"mcm","clk":"7837886529","pt":1540824359398,"mc":[{"id":"1.150362752","rc":[{"ltp":2.5,"id":8230256},{"ltp":1.67,"id":8679651}]}]}
+{"op":"mcm","clk":"7837892862","pt":1540824418234,"mc":[{"id":"1.150362752","rc":[{"ltp":1.66,"id":8230256},{"ltp":2.68,"id":8679651}]}]}
+{"op":"mcm","clk":"7837898889","pt":1540824479419,"mc":[{"id":"1.150362752","rc":[{"ltp":1.63,"id":8230256},{"ltp":2.66,"id":8679651}]}]}
+{"op":"mcm","clk":"7837904144","pt":1540824538649,"mc":[{"id":"1.150362752","rc":[{"ltp":1.55,"id":8230256},{"ltp":2.84,"id":8679651}]}]}
+{"op":"mcm","clk":"7837909512","pt":1540824599004,"mc":[{"id":"1.150362752","rc":[{"ltp":1.57,"id":8230256},{"ltp":2.64,"id":8679651}]}]}
+{"op":"mcm","clk":"7837915046","pt":1540824658539,"mc":[{"id":"1.150362752","rc":[{"ltp":1.58,"id":8230256},{"ltp":2.72,"id":8679651}]}]}
+{"op":"mcm","clk":"7837920574","pt":1540824717552,"mc":[{"id":"1.150362752","rc":[{"ltp":1.6,"id":8230256},{"ltp":2.66,"id":8679651}]}]}
+{"op":"mcm","clk":"7837926468","pt":1540824779411,"mc":[{"id":"1.150362752","rc":[{"ltp":1.57,"id":8230256},{"ltp":2.88,"id":8679651}]}]}
+{"op":"mcm","clk":"7837931652","pt":1540824839359,"mc":[{"id":"1.150362752","rc":[{"ltp":1.52,"id":8230256},{"ltp":2.94,"id":8679651}]}]}
+{"op":"mcm","clk":"7837936708","pt":1540824897605,"mc":[{"id":"1.150362752","rc":[{"ltp":1.59,"id":8230256},{"ltp":2.72,"id":8679651}]}]}
+{"op":"mcm","clk":"7837942044","pt":1540824958669,"mc":[{"id":"1.150362752","rc":[{"ltp":1.45,"id":8230256},{"ltp":3.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7837946651","pt":1540825016904,"mc":[{"id":"1.150362752","rc":[{"ltp":1.34,"id":8230256},{"ltp":3.9,"id":8679651}]}]}
+{"op":"mcm","clk":"7837961811","pt":1540825077816,"mc":[{"id":"1.150362752","rc":[{"ltp":1.16,"id":8230256},{"ltp":7.2,"id":8679651}]}]}
+{"op":"mcm","clk":"7837966771","pt":1540825137759,"mc":[{"id":"1.150362752","rc":[{"ltp":1.19,"id":8230256},{"ltp":6.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7837971499","pt":1540825198729,"mc":[{"id":"1.150362752","rc":[{"ltp":1.18,"id":8230256},{"ltp":6.6,"id":8679651}]}]}
+{"op":"mcm","clk":"7837976460","pt":1540825258967,"mc":[{"id":"1.150362752","rc":[{"ltp":1.12,"id":8230256},{"ltp":8.6,"id":8679651}]}]}
+{"op":"mcm","clk":"7837981942","pt":1540825318795,"mc":[{"id":"1.150362752","rc":[{"ltp":1.13,"id":8230256}]}]}
+{"op":"mcm","clk":"7837987209","pt":1540825376113,"mc":[{"id":"1.150362752","rc":[{"ltp":1.15,"id":8230256},{"ltp":8.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7837993146","pt":1540825439411,"mc":[{"id":"1.150362752","rc":[{"ltp":1.16,"id":8230256},{"ltp":7.4,"id":8679651}]}]}
+{"op":"mcm","clk":"7837998526","pt":1540825496445,"mc":[{"id":"1.150362752","rc":[{"ltp":1.15,"id":8230256},{"ltp":7.8,"id":8679651}]}]}
+{"op":"mcm","clk":"7838004399","pt":1540825556362,"mc":[{"id":"1.150362752","rc":[{"ltp":1.14,"id":8230256},{"ltp":7.2,"id":8679651}]}]}
+{"op":"mcm","clk":"7838010294","pt":1540825618638,"mc":[{"id":"1.150362752","rc":[{"ltp":1.08,"id":8230256},{"ltp":13.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7838015393","pt":1540825678204,"mc":[{"id":"1.150362752","rc":[{"ltp":12.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7838019664","pt":1540825731532,"mc":[{"id":"1.150362752","rc":[{"ltp":1.07,"id":8230256},{"ltp":15.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7838025280","pt":1540825799329,"mc":[{"id":"1.150362752","rc":[{"ltp":1.05,"id":8230256},{"ltp":21.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7838030141","pt":1540825853400,"mc":[{"id":"1.150362752","rc":[{"ltp":1.03,"id":8230256}]}]}
+{"op":"mcm","clk":"7838035792","pt":1540825919390,"mc":[{"id":"1.150362752","rc":[{"ltp":1.06,"id":8230256},{"ltp":50.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7838050834","pt":1540825978187,"mc":[{"id":"1.150362752","rc":[{"ltp":17.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7838055440","pt":1540826034748,"mc":[{"id":"1.150362752","rc":[{"ltp":1.04,"id":8230256}]}]}
+{"op":"mcm","clk":"7838060905","pt":1540826099386,"mc":[{"id":"1.150362752","rc":[{"ltp":1.05,"id":8230256},{"ltp":13.5,"id":8679651}]}]}
+{"op":"mcm","clk":"7838065799","pt":1540826158990,"mc":[{"id":"1.150362752","rc":[{"ltp":1.01,"id":8230256}]}]}
+{"op":"mcm","clk":"7838070795","pt":1540826218819,"mc":[{"id":"1.150362752","rc":[{"ltp":100.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7838075927","pt":1540826279093,"mc":[{"id":"1.150362752","rc":[{"ltp":34.0,"id":8679651}]}]}
+{"op":"mcm","clk":"7838081292","pt":1540826338565,"mc":[{"id":"1.150362752","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981859","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T13:51:00.000Z","suspendTime":"2018-10-29T13:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T15:18:53.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8679651,"name":"Mikael Ymer"},{"status":"WINNER","sortPriority":2,"id":8230256,"name":"Marcos Giron"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T13:51:00.000Z","version":2484725747,"name":"Match Odds","eventName":"18758405"}}]}

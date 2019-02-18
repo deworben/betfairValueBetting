@@ -1,0 +1,49 @@
+{"op":"mcm","clk":"7682689731","pt":1539880977979,"mc":[{"id":"1.149785892","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963228","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T11:00:00.000Z","suspendTime":"2018-10-19T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2395048,"name":"Pedro Sousa"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T11:00:00.000Z","version":2460715762,"name":"Match Odds","eventName":"1. Pedro Sousa v Lloyd Harris"}}]}
+{"op":"mcm","clk":"7682781026","pt":1539882107941,"mc":[{"id":"1.149785892","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963228","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T11:00:00.000Z","suspendTime":"2018-10-19T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2395048,"name":"Pedro Sousa"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T11:00:00.000Z","version":2460715762,"name":"Match Odds","eventName":"1. Pedro Sousa v Lloyd Harris"}}]}
+{"op":"mcm","clk":"7683676313","pt":1539891651092,"mc":[{"id":"1.149785892","rc":[{"ltp":1.45,"id":2395048}]}]}
+{"op":"mcm","clk":"7684378862","pt":1539899765475,"mc":[{"id":"1.149785892","rc":[{"ltp":2.7,"id":11313212}]}]}
+{"op":"mcm","clk":"7686928354","pt":1539934877644,"mc":[{"id":"1.149785892","rc":[{"ltp":2.22,"id":11313212}]}]}
+{"op":"mcm","clk":"7687027008","pt":1539936203598,"mc":[{"id":"1.149785892","rc":[{"ltp":2.9,"id":11313212}]}]}
+{"op":"mcm","clk":"7687787211","pt":1539943967230,"mc":[{"id":"1.149785892","rc":[{"ltp":1.5,"id":2395048}]}]}
+{"op":"mcm","clk":"7687975793","pt":1539945459641,"mc":[{"id":"1.149785892","rc":[{"ltp":2.28,"id":11313212},{"ltp":1.78,"id":2395048}]}]}
+{"op":"mcm","clk":"7688033588","pt":1539946027551,"mc":[{"id":"1.149785892","rc":[{"ltp":1.54,"id":2395048}]}]}
+{"op":"mcm","clk":"7688039467","pt":1539946085435,"mc":[{"id":"1.149785892","rc":[{"ltp":1.55,"id":2395048}]}]}
+{"op":"mcm","clk":"7688089343","pt":1539946438467,"mc":[{"id":"1.149785892","rc":[{"ltp":1.53,"id":2395048}]}]}
+{"op":"mcm","clk":"7688096336","pt":1539946503427,"mc":[{"id":"1.149785892","rc":[{"ltp":2.5,"id":11313212},{"ltp":1.66,"id":2395048}]}]}
+{"op":"mcm","clk":"7688118439","pt":1539946751056,"mc":[{"id":"1.149785892","rc":[{"ltp":1.51,"id":2395048}]}]}
+{"op":"mcm","clk":"7688123781","pt":1539946807822,"mc":[{"id":"1.149785892","rc":[{"ltp":1.45,"id":2395048}]}]}
+{"op":"mcm","clk":"7688167572","pt":1539947200546,"mc":[{"id":"1.149785892","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963228","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T11:00:00.000Z","suspendTime":"2018-10-19T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2395048,"name":"Pedro Sousa"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T11:00:00.000Z","version":2461394212,"name":"Match Odds","eventName":"1. Pedro Sousa v Lloyd Harris"}}]}
+{"op":"mcm","clk":"7688217690","pt":1539947469542,"mc":[{"id":"1.149785892","rc":[{"ltp":2.74,"id":11313212},{"ltp":1.57,"id":2395048}]}]}
+{"op":"mcm","clk":"7688224027","pt":1539947532565,"mc":[{"id":"1.149785892","rc":[{"ltp":1.25,"id":2395048}]}]}
+{"op":"mcm","clk":"7688230382","pt":1539947592095,"mc":[{"id":"1.149785892","rc":[{"ltp":1.26,"id":2395048}]}]}
+{"op":"mcm","clk":"7688236214","pt":1539947648331,"mc":[{"id":"1.149785892","rc":[{"ltp":1.4,"id":2395048}]}]}
+{"op":"mcm","clk":"7688243142","pt":1539947711066,"mc":[{"id":"1.149785892","rc":[{"ltp":4.4,"id":11313212},{"ltp":1.31,"id":2395048}]}]}
+{"op":"mcm","clk":"7688249786","pt":1539947769921,"mc":[{"id":"1.149785892","rc":[{"ltp":4.6,"id":11313212},{"ltp":1.28,"id":2395048}]}]}
+{"op":"mcm","clk":"7688256491","pt":1539947832294,"mc":[{"id":"1.149785892","rc":[{"ltp":1.24,"id":2395048}]}]}
+{"op":"mcm","clk":"7688263525","pt":1539947892675,"mc":[{"id":"1.149785892","rc":[{"ltp":1.19,"id":2395048}]}]}
+{"op":"mcm","clk":"7688269931","pt":1539947952536,"mc":[{"id":"1.149785892","rc":[{"ltp":1.14,"id":2395048}]}]}
+{"op":"mcm","clk":"7688276786","pt":1539948012016,"mc":[{"id":"1.149785892","rc":[{"ltp":1.13,"id":2395048}]}]}
+{"op":"mcm","clk":"7688305446","pt":1539948127463,"mc":[{"id":"1.149785892","rc":[{"ltp":8.6,"id":11313212}]}]}
+{"op":"mcm","clk":"7688319832","pt":1539948251364,"mc":[{"id":"1.149785892","rc":[{"ltp":1.08,"id":2395048}]}]}
+{"op":"mcm","clk":"7688340873","pt":1539948432789,"mc":[{"id":"1.149785892","rc":[{"ltp":1.07,"id":2395048}]}]}
+{"op":"mcm","clk":"7688346270","pt":1539948483621,"mc":[{"id":"1.149785892","rc":[{"ltp":1.06,"id":2395048}]}]}
+{"op":"mcm","clk":"7688353310","pt":1539948545888,"mc":[{"id":"1.149785892","rc":[{"ltp":13.5,"id":11313212}]}]}
+{"op":"mcm","clk":"7688365531","pt":1539948654848,"mc":[{"id":"1.149785892","rc":[{"ltp":18.0,"id":11313212}]}]}
+{"op":"mcm","clk":"7688372630","pt":1539948715319,"mc":[{"id":"1.149785892","rc":[{"ltp":17.5,"id":11313212}]}]}
+{"op":"mcm","clk":"7688395186","pt":1539948911654,"mc":[{"id":"1.149785892","rc":[{"ltp":1.05,"id":2395048}]}]}
+{"op":"mcm","clk":"7688400630","pt":1539948963334,"mc":[{"id":"1.149785892","rc":[{"ltp":21.0,"id":11313212}]}]}
+{"op":"mcm","clk":"7688424536","pt":1539949032554,"mc":[{"id":"1.149785892","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7688430481","pt":1539949085922,"mc":[{"id":"1.149785892","rc":[{"ltp":1.05,"id":2395048}]}]}
+{"op":"mcm","clk":"7688437718","pt":1539949152450,"mc":[{"id":"1.149785892","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7688444199","pt":1539949211447,"mc":[{"id":"1.149785892","rc":[{"ltp":17.5,"id":11313212},{"ltp":1.06,"id":2395048}]}]}
+{"op":"mcm","clk":"7688451828","pt":1539949271293,"mc":[{"id":"1.149785892","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7688457877","pt":1539949323733,"mc":[{"id":"1.149785892","rc":[{"ltp":1.06,"id":2395048}]}]}
+{"op":"mcm","clk":"7688465436","pt":1539949390105,"mc":[{"id":"1.149785892","rc":[{"ltp":1.05,"id":2395048}]}]}
+{"op":"mcm","clk":"7688472605","pt":1539949452348,"mc":[{"id":"1.149785892","rc":[{"ltp":1.04,"id":2395048}]}]}
+{"op":"mcm","clk":"7688479224","pt":1539949512341,"mc":[{"id":"1.149785892","rc":[{"ltp":1.02,"id":2395048}]}]}
+{"op":"mcm","clk":"7688494003","pt":1539949631520,"mc":[{"id":"1.149785892","rc":[{"ltp":50.0,"id":11313212},{"ltp":1.01,"id":2395048}]}]}
+{"op":"mcm","clk":"7688500675","pt":1539949682539,"mc":[{"id":"1.149785892","rc":[{"ltp":1.02,"id":2395048}]}]}
+{"op":"mcm","clk":"7688514326","pt":1539949812731,"mc":[{"id":"1.149785892","rc":[{"ltp":1.01,"id":2395048}]}]}
+{"op":"mcm","clk":"7688520797","pt":1539949872792,"mc":[{"id":"1.149785892","rc":[{"ltp":1.02,"id":2395048}]}]}
+{"op":"mcm","clk":"7688543907","pt":1539949927198,"mc":[{"id":"1.149785892","rc":[{"ltp":1.01,"id":2395048}]}]}
+{"op":"mcm","clk":"7688573936","pt":1539950205932,"mc":[{"id":"1.149785892","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963228","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T11:00:00.000Z","suspendTime":"2018-10-19T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T11:56:42.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2395048,"name":"Pedro Sousa"},{"status":"LOSER","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-19T11:00:00.000Z","version":2461442862,"name":"Match Odds","eventName":"1. Pedro Sousa v Lloyd Harris"}}]}

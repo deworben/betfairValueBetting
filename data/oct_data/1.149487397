@@ -1,0 +1,110 @@
+{"op":"mcm","clk":"7686323144","pt":1539355814465,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T09:00:00.000Z","suspendTime":"2018-10-13T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T09:00:00.000Z","version":2450921182,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7686417615","pt":1539356555469,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T09:00:00.000Z","suspendTime":"2018-10-13T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T09:00:00.000Z","version":2450921182,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7686550222","pt":1539357578204,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T11:30:00.000Z","suspendTime":"2018-10-13T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T11:30:00.000Z","version":2450965633,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7689790917","pt":1539386064566,"mc":[{"id":"1.149487397","rc":[{"ltp":1.21,"id":5704759},{"ltp":5.6,"id":9631133}]}]}
+{"op":"mcm","clk":"7691706816","pt":1539409583812,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759}]}]}
+{"op":"mcm","clk":"7692170822","pt":1539415181331,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T11:13:00.000Z","suspendTime":"2018-10-13T11:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T11:13:00.000Z","version":2452172848,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7692723769","pt":1539419359448,"mc":[{"id":"1.149487397","rc":[{"ltp":1.15,"id":5704759},{"ltp":7.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7692804009","pt":1539419866539,"mc":[{"id":"1.149487397","rc":[{"ltp":1.16,"id":5704759}]}]}
+{"op":"mcm","clk":"7692843375","pt":1539420118226,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759}]}]}
+{"op":"mcm","clk":"7692921787","pt":1539420562561,"mc":[{"id":"1.149487397","rc":[{"ltp":1.23,"id":5704759},{"ltp":5.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7693171586","pt":1539422061825,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T11:28:00.000Z","suspendTime":"2018-10-13T11:28:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T11:28:00.000Z","version":2452309453,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7693281759","pt":1539422661255,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T11:23:00.000Z","suspendTime":"2018-10-13T11:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T11:23:00.000Z","version":2452323182,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7693724294","pt":1539425124410,"mc":[{"id":"1.149487397","rc":[{"ltp":6.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7693813821","pt":1539425645999,"mc":[{"id":"1.149487397","rc":[{"ltp":1.19,"id":5704759}]}]}
+{"op":"mcm","clk":"7693887017","pt":1539426131168,"mc":[{"id":"1.149487397","rc":[{"ltp":5.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7694064358","pt":1539427206206,"mc":[{"id":"1.149487397","rc":[{"ltp":1.21,"id":5704759}]}]}
+{"op":"mcm","clk":"7694077069","pt":1539427291166,"mc":[{"id":"1.149487397","rc":[{"ltp":1.16,"id":5704759},{"ltp":6.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694246930","pt":1539428362079,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T10:55:00.000Z","suspendTime":"2018-10-13T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T10:55:00.000Z","version":2452460774,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7694280666","pt":1539428626588,"mc":[{"id":"1.149487397","rc":[{"ltp":1.18,"id":5704759}]}]}
+{"op":"mcm","clk":"7694316009","pt":1539428894723,"mc":[{"id":"1.149487397","rc":[{"ltp":1.15,"id":5704759}]}]}
+{"op":"mcm","clk":"7694325481","pt":1539428962660,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T10:55:00.000Z","suspendTime":"2018-10-13T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T10:55:00.000Z","version":2452482344,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7694341885","pt":1539429083814,"mc":[{"id":"1.149487397","rc":[{"ltp":8.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694370362","pt":1539429204276,"mc":[{"id":"1.149487397","rc":[{"ltp":1.18,"id":5704759},{"ltp":6.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7694379001","pt":1539429262454,"mc":[{"id":"1.149487397","rc":[{"ltp":1.2,"id":5704759},{"ltp":6.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694387476","pt":1539429323451,"mc":[{"id":"1.149487397","rc":[{"ltp":1.18,"id":5704759}]}]}
+{"op":"mcm","clk":"7694395893","pt":1539429384476,"mc":[{"id":"1.149487397","rc":[{"ltp":1.2,"id":5704759}]}]}
+{"op":"mcm","clk":"7694404070","pt":1539429444595,"mc":[{"id":"1.149487397","rc":[{"ltp":1.26,"id":5704759},{"ltp":4.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694412204","pt":1539429503960,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759},{"ltp":5.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694429818","pt":1539429622369,"mc":[{"id":"1.149487397","rc":[{"ltp":1.15,"id":5704759}]}]}
+{"op":"mcm","clk":"7694438669","pt":1539429681826,"mc":[{"id":"1.149487397","rc":[{"ltp":1.14,"id":5704759}]}]}
+{"op":"mcm","clk":"7694447380","pt":1539429742339,"mc":[{"id":"1.149487397","rc":[{"ltp":1.11,"id":5704759}]}]}
+{"op":"mcm","clk":"7694456662","pt":1539429802563,"mc":[{"id":"1.149487397","rc":[{"ltp":1.1,"id":5704759}]}]}
+{"op":"mcm","clk":"7694465223","pt":1539429864693,"mc":[{"id":"1.149487397","rc":[{"ltp":9.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694473604","pt":1539429923197,"mc":[{"id":"1.149487397","rc":[{"ltp":1.09,"id":5704759},{"ltp":12.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694482375","pt":1539429984422,"mc":[{"id":"1.149487397","rc":[{"ltp":1.07,"id":5704759}]}]}
+{"op":"mcm","clk":"7694501975","pt":1539430042944,"mc":[{"id":"1.149487397","rc":[{"ltp":1.06,"id":5704759}]}]}
+{"op":"mcm","clk":"7694511420","pt":1539430104624,"mc":[{"id":"1.149487397","rc":[{"ltp":17.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694519290","pt":1539430161661,"mc":[{"id":"1.149487397","rc":[{"ltp":1.05,"id":5704759}]}]}
+{"op":"mcm","clk":"7694528644","pt":1539430223694,"mc":[{"id":"1.149487397","rc":[{"ltp":1.07,"id":5704759}]}]}
+{"op":"mcm","clk":"7694536997","pt":1539430282802,"mc":[{"id":"1.149487397","rc":[{"ltp":1.06,"id":5704759}]}]}
+{"op":"mcm","clk":"7694545211","pt":1539430344174,"mc":[{"id":"1.149487397","rc":[{"ltp":1.05,"id":5704759}]}]}
+{"op":"mcm","clk":"7694562021","pt":1539430464561,"mc":[{"id":"1.149487397","rc":[{"ltp":21.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694603259","pt":1539430763702,"mc":[{"id":"1.149487397","rc":[{"ltp":1.06,"id":5704759}]}]}
+{"op":"mcm","clk":"7694640082","pt":1539430944421,"mc":[{"id":"1.149487397","rc":[{"ltp":1.1,"id":5704759},{"ltp":12.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694648377","pt":1539431001962,"mc":[{"id":"1.149487397","rc":[{"ltp":1.12,"id":5704759},{"ltp":9.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694657778","pt":1539431064351,"mc":[{"id":"1.149487397","rc":[{"ltp":1.11,"id":5704759},{"ltp":8.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694666759","pt":1539431123101,"mc":[{"id":"1.149487397","rc":[{"ltp":1.1,"id":5704759},{"ltp":11.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694675256","pt":1539431183287,"mc":[{"id":"1.149487397","rc":[{"ltp":1.14,"id":5704759},{"ltp":8.6,"id":9631133}]}]}
+{"op":"mcm","clk":"7694683829","pt":1539431244082,"mc":[{"id":"1.149487397","rc":[{"ltp":1.12,"id":5704759},{"ltp":8.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694691965","pt":1539431303125,"mc":[{"id":"1.149487397","rc":[{"ltp":1.16,"id":5704759}]}]}
+{"op":"mcm","clk":"7694699752","pt":1539431361536,"mc":[{"id":"1.149487397","rc":[{"ltp":1.14,"id":5704759},{"ltp":7.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694708485","pt":1539431421526,"mc":[{"id":"1.149487397","rc":[{"ltp":6.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7694716700","pt":1539431484598,"mc":[{"id":"1.149487397","rc":[{"ltp":8.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694724206","pt":1539431543560,"mc":[{"id":"1.149487397","rc":[{"ltp":1.16,"id":5704759},{"ltp":8.6,"id":9631133}]}]}
+{"op":"mcm","clk":"7694732247","pt":1539431603819,"mc":[{"id":"1.149487397","rc":[{"ltp":1.12,"id":5704759}]}]}
+{"op":"mcm","clk":"7694739979","pt":1539431663974,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759},{"ltp":7.6,"id":9631133}]}]}
+{"op":"mcm","clk":"7694748390","pt":1539431724478,"mc":[{"id":"1.149487397","rc":[{"ltp":1.16,"id":5704759},{"ltp":7.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7694756008","pt":1539431781776,"mc":[{"id":"1.149487397","rc":[{"ltp":1.15,"id":5704759},{"ltp":7.6,"id":9631133}]}]}
+{"op":"mcm","clk":"7694775481","pt":1539431840524,"mc":[{"id":"1.149487397","rc":[{"ltp":1.2,"id":5704759},{"ltp":6.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694784365","pt":1539431904149,"mc":[{"id":"1.149487397","rc":[{"ltp":1.18,"id":5704759},{"ltp":6.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7694793236","pt":1539431964629,"mc":[{"id":"1.149487397","rc":[{"ltp":1.26,"id":5704759},{"ltp":4.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7694801605","pt":1539432023824,"mc":[{"id":"1.149487397","rc":[{"ltp":1.27,"id":5704759},{"ltp":4.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694810405","pt":1539432084489,"mc":[{"id":"1.149487397","rc":[{"ltp":1.32,"id":5704759},{"ltp":4.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7694818489","pt":1539432144661,"mc":[{"id":"1.149487397","rc":[{"ltp":4.1,"id":9631133}]}]}
+{"op":"mcm","clk":"7694827022","pt":1539432204651,"mc":[{"id":"1.149487397","rc":[{"ltp":1.33,"id":5704759},{"ltp":4.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7694836115","pt":1539432262302,"mc":[{"id":"1.149487397","rc":[{"ltp":1.27,"id":5704759},{"ltp":4.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694845143","pt":1539432318780,"mc":[{"id":"1.149487397","rc":[{"ltp":1.25,"id":5704759},{"ltp":4.9,"id":9631133}]}]}
+{"op":"mcm","clk":"7694855229","pt":1539432384103,"mc":[{"id":"1.149487397","rc":[{"ltp":1.26,"id":5704759}]}]}
+{"op":"mcm","clk":"7694864883","pt":1539432444615,"mc":[{"id":"1.149487397","rc":[{"ltp":1.2,"id":5704759},{"ltp":6.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7694883189","pt":1539432563829,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759},{"ltp":6.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7694893254","pt":1539432624356,"mc":[{"id":"1.149487397","rc":[{"ltp":1.23,"id":5704759},{"ltp":5.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694903580","pt":1539432684558,"mc":[{"id":"1.149487397","rc":[{"ltp":1.29,"id":5704759},{"ltp":4.3,"id":9631133}]}]}
+{"op":"mcm","clk":"7694923906","pt":1539432737139,"mc":[{"id":"1.149487397","rc":[{"ltp":1.3,"id":5704759},{"ltp":4.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694934941","pt":1539432803403,"mc":[{"id":"1.149487397","rc":[{"ltp":1.33,"id":5704759},{"ltp":4.1,"id":9631133}]}]}
+{"op":"mcm","clk":"7694945487","pt":1539432864702,"mc":[{"id":"1.149487397","rc":[{"ltp":1.3,"id":5704759},{"ltp":4.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694954807","pt":1539432923345,"mc":[{"id":"1.149487397","rc":[{"ltp":1.31,"id":5704759}]}]}
+{"op":"mcm","clk":"7694964146","pt":1539432982671,"mc":[{"id":"1.149487397","rc":[{"ltp":1.35,"id":5704759},{"ltp":3.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7694973370","pt":1539433042463,"mc":[{"id":"1.149487397","rc":[{"ltp":1.41,"id":5704759}]}]}
+{"op":"mcm","clk":"7694982852","pt":1539433100677,"mc":[{"id":"1.149487397","rc":[{"ltp":1.39,"id":5704759},{"ltp":3.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7694992641","pt":1539433163443,"mc":[{"id":"1.149487397","rc":[{"ltp":1.4,"id":5704759},{"ltp":3.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7695001760","pt":1539433223810,"mc":[{"id":"1.149487397","rc":[{"ltp":1.5,"id":5704759},{"ltp":3.05,"id":9631133}]}]}
+{"op":"mcm","clk":"7695011810","pt":1539433284616,"mc":[{"id":"1.149487397","rc":[{"ltp":1.49,"id":5704759},{"ltp":3.4,"id":9631133}]}]}
+{"op":"mcm","clk":"7695021214","pt":1539433342560,"mc":[{"id":"1.149487397","rc":[{"ltp":1.3,"id":5704759},{"ltp":4.3,"id":9631133}]}]}
+{"op":"mcm","clk":"7695031079","pt":1539433401283,"mc":[{"id":"1.149487397","rc":[{"ltp":1.21,"id":5704759},{"ltp":5.7,"id":9631133}]}]}
+{"op":"mcm","clk":"7695041710","pt":1539433463618,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759},{"ltp":6.8,"id":9631133}]}]}
+{"op":"mcm","clk":"7695052065","pt":1539433524450,"mc":[{"id":"1.149487397","rc":[{"ltp":1.21,"id":5704759},{"ltp":7.2,"id":9631133}]}]}
+{"op":"mcm","clk":"7695061880","pt":1539433580322,"mc":[{"id":"1.149487397","rc":[{"ltp":1.17,"id":5704759}]}]}
+{"op":"mcm","clk":"7695084609","pt":1539433643453,"mc":[{"id":"1.149487397","rc":[{"ltp":1.1,"id":5704759},{"ltp":10.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695094514","pt":1539433704098,"mc":[{"id":"1.149487397","rc":[{"ltp":1.09,"id":5704759},{"ltp":11.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695104351","pt":1539433764210,"mc":[{"id":"1.149487397","rc":[{"ltp":1.05,"id":5704759},{"ltp":21.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695114677","pt":1539433824664,"mc":[{"id":"1.149487397","rc":[{"ltp":1.07,"id":5704759},{"ltp":15.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695124474","pt":1539433884549,"mc":[{"id":"1.149487397","rc":[{"ltp":1.11,"id":5704759},{"ltp":11.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695134767","pt":1539433944676,"mc":[{"id":"1.149487397","rc":[{"ltp":1.04,"id":5704759},{"ltp":26.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695144745","pt":1539434002980,"mc":[{"id":"1.149487397","rc":[{"ltp":1.03,"id":5704759}]}]}
+{"op":"mcm","clk":"7695165723","pt":1539434124471,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759}]}]}
+{"op":"mcm","clk":"7695175339","pt":1539434182708,"mc":[{"id":"1.149487397","rc":[{"ltp":1.05,"id":5704759},{"ltp":21.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695185172","pt":1539434241601,"mc":[{"id":"1.149487397","rc":[{"ltp":1.04,"id":5704759},{"ltp":17.5,"id":9631133}]}]}
+{"op":"mcm","clk":"7695195935","pt":1539434304708,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759}]}]}
+{"op":"mcm","clk":"7695225793","pt":1539434484523,"mc":[{"id":"1.149487397","rc":[{"ltp":1.03,"id":5704759},{"ltp":40.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695257519","pt":1539434603495,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759}]}]}
+{"op":"mcm","clk":"7695268968","pt":1539434664420,"mc":[{"id":"1.149487397","rc":[{"ltp":1.03,"id":5704759}]}]}
+{"op":"mcm","clk":"7695280111","pt":1539434724483,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759}]}]}
+{"op":"mcm","clk":"7695290695","pt":1539434783257,"mc":[{"id":"1.149487397","rc":[{"ltp":1.01,"id":5704759},{"ltp":100.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695310316","pt":1539434898629,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759},{"ltp":50.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695329820","pt":1539435021194,"mc":[{"id":"1.149487397","rc":[{"ltp":1.03,"id":5704759},{"ltp":26.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695349404","pt":1539435142169,"mc":[{"id":"1.149487397","rc":[{"ltp":1.02,"id":5704759}]}]}
+{"op":"mcm","clk":"7695358256","pt":1539435200066,"mc":[{"id":"1.149487397","rc":[{"ltp":1.01,"id":5704759}]}]}
+{"op":"mcm","clk":"7695369208","pt":1539435264719,"mc":[{"id":"1.149487397","rc":[{"ltp":140.0,"id":9631133}]}]}
+{"op":"mcm","clk":"7695386461","pt":1539435370810,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T10:55:00.000Z","suspendTime":"2018-10-13T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"ACTIVE","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T10:55:00.000Z","version":2452666269,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}
+{"op":"mcm","clk":"7695392889","pt":1539435410593,"mc":[{"id":"1.149487397","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28953044","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T10:55:00.000Z","suspendTime":"2018-10-13T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-13T12:56:42.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9631133,"name":"Raluca Serban"},{"status":"WINNER","sortPriority":2,"id":5704759,"name":"Eugenie Bouchard"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T10:55:00.000Z","version":2452668408,"name":"Match Odds","eventName":"Serban v Bouchard"}}]}

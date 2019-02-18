@@ -1,0 +1,55 @@
+{"op":"mcm","clk":"7723970157","pt":1539734654881,"mc":[{"id":"1.149697886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960475","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T06:30:34.000Z","suspendTime":"2018-10-17T06:30:34.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8986093,"name":"V Tomova"},{"status":"ACTIVE","sortPriority":2,"id":9629887,"name":"V Kudermetova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-17T06:30:34.000Z","version":2458839902,"name":"Match Odds","eventName":"V Tomova v V Kudermetova"}}]}
+{"op":"mcm","clk":"7723974591","pt":1539734772527,"mc":[{"id":"1.149697886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960475","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T06:30:34.000Z","suspendTime":"2018-10-17T06:30:34.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8986093,"name":"V Tomova"},{"status":"ACTIVE","sortPriority":2,"id":9629887,"name":"V Kudermetova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-17T06:30:34.000Z","version":2458839902,"name":"Match Odds","eventName":"V Tomova v V Kudermetova"}}]}
+{"op":"mcm","clk":"7724024781","pt":1539735882449,"mc":[{"id":"1.149697886","rc":[{"ltp":2.46,"id":8986093}]}]}
+{"op":"mcm","clk":"7725243568","pt":1539753187832,"mc":[{"id":"1.149697886","rc":[{"ltp":1.46,"id":9629887}]}]}
+{"op":"mcm","clk":"7725563525","pt":1539757637186,"mc":[{"id":"1.149697886","rc":[{"ltp":1.37,"id":9629887}]}]}
+{"op":"mcm","clk":"7725567863","pt":1539757712163,"mc":[{"id":"1.149697886","rc":[{"ltp":1.78,"id":9629887}]}]}
+{"op":"mcm","clk":"7725589552","pt":1539758052142,"mc":[{"id":"1.149697886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960475","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T06:30:34.000Z","suspendTime":"2018-10-17T06:30:34.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8986093,"name":"V Tomova"},{"status":"ACTIVE","sortPriority":2,"id":9629887,"name":"V Kudermetova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-17T06:30:34.000Z","version":2458983199,"name":"Match Odds","eventName":"V Tomova v V Kudermetova"}}]}
+{"op":"mcm","clk":"7725644410","pt":1539758792154,"mc":[{"id":"1.149697886","rc":[{"ltp":1.35,"id":9629887},{"ltp":3.9,"id":8986093}]}]}
+{"op":"mcm","clk":"7725648147","pt":1539758850974,"mc":[{"id":"1.149697886","rc":[{"ltp":1.57,"id":9629887}]}]}
+{"op":"mcm","clk":"7725651482","pt":1539758908372,"mc":[{"id":"1.149697886","rc":[{"ltp":1.73,"id":9629887},{"ltp":2.48,"id":8986093}]}]}
+{"op":"mcm","clk":"7725654993","pt":1539758971601,"mc":[{"id":"1.149697886","rc":[{"ltp":2.2,"id":9629887},{"ltp":2.12,"id":8986093}]}]}
+{"op":"mcm","clk":"7725658348","pt":1539759030298,"mc":[{"id":"1.149697886","rc":[{"ltp":1.71,"id":9629887}]}]}
+{"op":"mcm","clk":"7725661994","pt":1539759091592,"mc":[{"id":"1.149697886","rc":[{"ltp":1.95,"id":9629887},{"ltp":2.02,"id":8986093}]}]}
+{"op":"mcm","clk":"7725665241","pt":1539759146763,"mc":[{"id":"1.149697886","rc":[{"ltp":1.68,"id":9629887},{"ltp":2.36,"id":8986093}]}]}
+{"op":"mcm","clk":"7725676392","pt":1539759332078,"mc":[{"id":"1.149697886","rc":[{"ltp":1.72,"id":9629887}]}]}
+{"op":"mcm","clk":"7725679950","pt":1539759390557,"mc":[{"id":"1.149697886","rc":[{"ltp":1.82,"id":9629887}]}]}
+{"op":"mcm","clk":"7725692108","pt":1539759451388,"mc":[{"id":"1.149697886","rc":[{"ltp":1.93,"id":9629887}]}]}
+{"op":"mcm","clk":"7725695821","pt":1539759511426,"mc":[{"id":"1.149697886","rc":[{"ltp":1.75,"id":9629887}]}]}
+{"op":"mcm","clk":"7725699682","pt":1539759571604,"mc":[{"id":"1.149697886","rc":[{"ltp":1.49,"id":9629887}]}]}
+{"op":"mcm","clk":"7725707736","pt":1539759692261,"mc":[{"id":"1.149697886","rc":[{"ltp":1.64,"id":9629887}]}]}
+{"op":"mcm","clk":"7725715188","pt":1539759811643,"mc":[{"id":"1.149697886","rc":[{"ltp":1.89,"id":9629887},{"ltp":2.12,"id":8986093}]}]}
+{"op":"mcm","clk":"7725718926","pt":1539759872070,"mc":[{"id":"1.149697886","rc":[{"ltp":1.68,"id":9629887}]}]}
+{"op":"mcm","clk":"7725722373","pt":1539759931878,"mc":[{"id":"1.149697886","rc":[{"ltp":1.55,"id":9629887}]}]}
+{"op":"mcm","clk":"7725725925","pt":1539759991604,"mc":[{"id":"1.149697886","rc":[{"ltp":2.78,"id":8986093}]}]}
+{"op":"mcm","clk":"7725729287","pt":1539760051337,"mc":[{"id":"1.149697886","rc":[{"ltp":1.47,"id":9629887},{"ltp":3.1,"id":8986093}]}]}
+{"op":"mcm","clk":"7725732675","pt":1539760112014,"mc":[{"id":"1.149697886","rc":[{"ltp":1.42,"id":9629887}]}]}
+{"op":"mcm","clk":"7725735737","pt":1539760167467,"mc":[{"id":"1.149697886","rc":[{"ltp":1.89,"id":9629887},{"ltp":2.5,"id":8986093}]}]}
+{"op":"mcm","clk":"7725739562","pt":1539760228551,"mc":[{"id":"1.149697886","rc":[{"ltp":1.91,"id":9629887}]}]}
+{"op":"mcm","clk":"7725755765","pt":1539760351010,"mc":[{"id":"1.149697886","rc":[{"ltp":2.12,"id":9629887},{"ltp":1.9,"id":8986093}]}]}
+{"op":"mcm","clk":"7725759112","pt":1539760409792,"mc":[{"id":"1.149697886","rc":[{"ltp":1.85,"id":9629887},{"ltp":2.16,"id":8986093}]}]}
+{"op":"mcm","clk":"7725762483","pt":1539760471545,"mc":[{"id":"1.149697886","rc":[{"ltp":1.92,"id":9629887},{"ltp":2.08,"id":8986093}]}]}
+{"op":"mcm","clk":"7725765594","pt":1539760531569,"mc":[{"id":"1.149697886","rc":[{"ltp":2.3,"id":9629887},{"ltp":1.77,"id":8986093}]}]}
+{"op":"mcm","clk":"7725768806","pt":1539760589403,"mc":[{"id":"1.149697886","rc":[{"ltp":1.66,"id":8986093}]}]}
+{"op":"mcm","clk":"7725772340","pt":1539760651882,"mc":[{"id":"1.149697886","rc":[{"ltp":1.74,"id":8986093}]}]}
+{"op":"mcm","clk":"7725775488","pt":1539760707109,"mc":[{"id":"1.149697886","rc":[{"ltp":2.16,"id":9629887},{"ltp":1.94,"id":8986093}]}]}
+{"op":"mcm","clk":"7725779163","pt":1539760771119,"mc":[{"id":"1.149697886","rc":[{"ltp":1.96,"id":9629887},{"ltp":2.04,"id":8986093}]}]}
+{"op":"mcm","clk":"7725782500","pt":1539760826139,"mc":[{"id":"1.149697886","rc":[{"ltp":2.02,"id":9629887},{"ltp":1.84,"id":8986093}]}]}
+{"op":"mcm","clk":"7725786796","pt":1539760892323,"mc":[{"id":"1.149697886","rc":[{"ltp":2.5,"id":9629887},{"ltp":1.66,"id":8986093}]}]}
+{"op":"mcm","clk":"7725790255","pt":1539760950677,"mc":[{"id":"1.149697886","rc":[{"ltp":2.74,"id":9629887},{"ltp":1.57,"id":8986093}]}]}
+{"op":"mcm","clk":"7725793939","pt":1539761011698,"mc":[{"id":"1.149697886","rc":[{"ltp":2.56,"id":9629887},{"ltp":1.64,"id":8986093}]}]}
+{"op":"mcm","clk":"7725797649","pt":1539761070260,"mc":[{"id":"1.149697886","rc":[{"ltp":3.0,"id":9629887},{"ltp":1.47,"id":8986093}]}]}
+{"op":"mcm","clk":"7725801270","pt":1539761130189,"mc":[{"id":"1.149697886","rc":[{"ltp":2.8,"id":9629887},{"ltp":1.55,"id":8986093}]}]}
+{"op":"mcm","clk":"7725804822","pt":1539761190968,"mc":[{"id":"1.149697886","rc":[{"ltp":2.76,"id":9629887},{"ltp":1.37,"id":8986093}]}]}
+{"op":"mcm","clk":"7725817022","pt":1539761252156,"mc":[{"id":"1.149697886","rc":[{"ltp":3.7,"id":9629887},{"ltp":1.38,"id":8986093}]}]}
+{"op":"mcm","clk":"7725820127","pt":1539761311105,"mc":[{"id":"1.149697886","rc":[{"ltp":1.35,"id":8986093}]}]}
+{"op":"mcm","clk":"7725823530","pt":1539761371329,"mc":[{"id":"1.149697886","rc":[{"ltp":3.75,"id":9629887},{"ltp":1.28,"id":8986093}]}]}
+{"op":"mcm","clk":"7725826636","pt":1539761431448,"mc":[{"id":"1.149697886","rc":[{"ltp":1.36,"id":8986093}]}]}
+{"op":"mcm","clk":"7725833535","pt":1539761551344,"mc":[{"id":"1.149697886","rc":[{"ltp":5.3,"id":9629887},{"ltp":1.24,"id":8986093}]}]}
+{"op":"mcm","clk":"7725837324","pt":1539761609083,"mc":[{"id":"1.149697886","rc":[{"ltp":5.1,"id":9629887}]}]}
+{"op":"mcm","clk":"7725841392","pt":1539761670739,"mc":[{"id":"1.149697886","rc":[{"ltp":8.0,"id":9629887},{"ltp":1.14,"id":8986093}]}]}
+{"op":"mcm","clk":"7725845472","pt":1539761731164,"mc":[{"id":"1.149697886","rc":[{"ltp":1.2,"id":8986093}]}]}
+{"op":"mcm","clk":"7725849447","pt":1539761791009,"mc":[{"id":"1.149697886","rc":[{"ltp":8.6,"id":9629887},{"ltp":1.13,"id":8986093}]}]}
+{"op":"mcm","clk":"7725853322","pt":1539761851114,"mc":[{"id":"1.149697886","rc":[{"ltp":1.01,"id":8986093}]}]}
+{"op":"mcm","clk":"7725853924","pt":1539761860734,"mc":[{"id":"1.149697886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960475","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T06:30:34.000Z","suspendTime":"2018-10-17T06:30:34.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8986093,"name":"V Tomova"},{"status":"ACTIVE","sortPriority":2,"id":9629887,"name":"V Kudermetova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-17T06:30:34.000Z","version":2459004834,"name":"Match Odds","eventName":"V Tomova v V Kudermetova"}}]}
+{"op":"mcm","clk":"7725857903","pt":1539761924351,"mc":[{"id":"1.149697886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960475","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T06:30:34.000Z","suspendTime":"2018-10-17T06:30:34.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-17T07:38:40.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8986093,"name":"V Tomova"},{"status":"LOSER","sortPriority":2,"id":9629887,"name":"V Kudermetova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"EET","openDate":"2018-10-17T06:30:34.000Z","version":2459005464,"name":"Match Odds","eventName":"V Tomova v V Kudermetova"}}]}

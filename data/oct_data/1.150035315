@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7724343556","pt":1540241979955,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:00:00.000Z","suspendTime":"2018-10-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2471241787,"name":"Match Odds","eventName":"Paul v K King"}}]}
+{"op":"mcm","clk":"7724350955","pt":1540242126709,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:00:00.000Z","suspendTime":"2018-10-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2471241787,"name":"Match Odds","eventName":"Paul v K King"}}]}
+{"op":"mcm","clk":"7726425744","pt":1540279028792,"mc":[{"id":"1.150035315","rc":[{"ltp":1.38,"id":8859306}]}]}
+{"op":"mcm","clk":"7727006443","pt":1540287214280,"mc":[{"id":"1.150035315","rc":[{"ltp":1.39,"id":8859306}]}]}
+{"op":"mcm","clk":"7729303812","pt":1540317317267,"mc":[{"id":"1.150035315","rc":[{"ltp":1.41,"id":8859306},{"ltp":3.45,"id":7445670}]}]}
+{"op":"mcm","clk":"7729319680","pt":1540317520581,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:15:00.000Z","suspendTime":"2018-10-23T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2472064624,"name":"Match Odds","eventName":"Paul v K King"}}]}
+{"op":"mcm","clk":"7729322115","pt":1540317543599,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:15:00.000Z","suspendTime":"2018-10-23T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:15:00.000Z","version":2472064624,"name":"Match Odds","eventName":"Paul v K King"},"rc":[{"ltp":1.38,"id":8859306}]}]}
+{"op":"mcm","clk":"7729349141","pt":1540317818927,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:01:00.000Z","suspendTime":"2018-10-23T18:01:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:01:00.000Z","version":2472081291,"name":"Match Odds","eventName":"Paul v K King"}}]}
+{"op":"mcm","clk":"7729383461","pt":1540318041657,"mc":[{"id":"1.150035315","rc":[{"ltp":3.6,"id":7445670}]}]}
+{"op":"mcm","clk":"7729418332","pt":1540318420794,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:01:00.000Z","suspendTime":"2018-10-23T18:01:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"ACTIVE","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:01:00.000Z","version":2472096271,"name":"Match Odds","eventName":"Paul v K King"}}]}
+{"op":"mcm","clk":"7729423726","pt":1540318481325,"mc":[{"id":"1.150035315","rc":[{"ltp":1.3,"id":8859306},{"ltp":3.75,"id":7445670}]}]}
+{"op":"mcm","clk":"7729437316","pt":1540318601975,"mc":[{"id":"1.150035315","rc":[{"ltp":1.23,"id":8859306}]}]}
+{"op":"mcm","clk":"7729458168","pt":1540318785065,"mc":[{"id":"1.150035315","rc":[{"ltp":1.2,"id":8859306}]}]}
+{"op":"mcm","clk":"7729464421","pt":1540318844513,"mc":[{"id":"1.150035315","rc":[{"ltp":1.15,"id":8859306}]}]}
+{"op":"mcm","clk":"7729495013","pt":1540319024768,"mc":[{"id":"1.150035315","rc":[{"ltp":1.17,"id":8859306}]}]}
+{"op":"mcm","clk":"7729500515","pt":1540319081065,"mc":[{"id":"1.150035315","rc":[{"ltp":1.16,"id":8859306}]}]}
+{"op":"mcm","clk":"7729506709","pt":1540319142369,"mc":[{"id":"1.150035315","rc":[{"ltp":1.13,"id":8859306}]}]}
+{"op":"mcm","clk":"7729513013","pt":1540319204834,"mc":[{"id":"1.150035315","rc":[{"ltp":1.12,"id":8859306}]}]}
+{"op":"mcm","clk":"7729518910","pt":1540319263667,"mc":[{"id":"1.150035315","rc":[{"ltp":1.15,"id":8859306}]}]}
+{"op":"mcm","clk":"7729524121","pt":1540319320839,"mc":[{"id":"1.150035315","rc":[{"ltp":1.13,"id":8859306}]}]}
+{"op":"mcm","clk":"7729529923","pt":1540319384557,"mc":[{"id":"1.150035315","rc":[{"ltp":1.14,"id":8859306}]}]}
+{"op":"mcm","clk":"7729540481","pt":1540319491536,"mc":[{"id":"1.150035315","rc":[{"ltp":1.12,"id":8859306}]}]}
+{"op":"mcm","clk":"7729559545","pt":1540319683812,"mc":[{"id":"1.150035315","rc":[{"ltp":1.14,"id":8859306}]}]}
+{"op":"mcm","clk":"7729573499","pt":1540319805046,"mc":[{"id":"1.150035315","rc":[{"ltp":1.11,"id":8859306}]}]}
+{"op":"mcm","clk":"7729589725","pt":1540319859683,"mc":[{"id":"1.150035315","rc":[{"ltp":1.13,"id":8859306}]}]}
+{"op":"mcm","clk":"7729595941","pt":1540319921306,"mc":[{"id":"1.150035315","rc":[{"ltp":1.11,"id":8859306},{"ltp":10.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729608398","pt":1540320034716,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729616112","pt":1540320104607,"mc":[{"id":"1.150035315","rc":[{"ltp":1.11,"id":8859306}]}]}
+{"op":"mcm","clk":"7729622504","pt":1540320164785,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729627963","pt":1540320213594,"mc":[{"id":"1.150035315","rc":[{"ltp":1.08,"id":8859306},{"ltp":13.5,"id":7445670}]}]}
+{"op":"mcm","clk":"7729644446","pt":1540320344753,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729652508","pt":1540320404580,"mc":[{"id":"1.150035315","rc":[{"ltp":11.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729657528","pt":1540320442788,"mc":[{"id":"1.150035315","rc":[{"ltp":1.08,"id":8859306}]}]}
+{"op":"mcm","clk":"7729668654","pt":1540320524916,"mc":[{"id":"1.150035315","rc":[{"ltp":1.09,"id":8859306}]}]}
+{"op":"mcm","clk":"7729694759","pt":1540320702276,"mc":[{"id":"1.150035315","rc":[{"ltp":1.08,"id":8859306},{"ltp":13.5,"id":7445670}]}]}
+{"op":"mcm","clk":"7729713992","pt":1540320764427,"mc":[{"id":"1.150035315","rc":[{"ltp":21.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729722350","pt":1540320821607,"mc":[{"id":"1.150035315","rc":[{"ltp":1.05,"id":8859306}]}]}
+{"op":"mcm","clk":"7729731584","pt":1540320885094,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306},{"ltp":11.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729739171","pt":1540320943643,"mc":[{"id":"1.150035315","rc":[{"ltp":1.11,"id":8859306}]}]}
+{"op":"mcm","clk":"7729746776","pt":1540321002750,"mc":[{"id":"1.150035315","rc":[{"ltp":1.12,"id":8859306}]}]}
+{"op":"mcm","clk":"7729754894","pt":1540321061586,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729762709","pt":1540321120735,"mc":[{"id":"1.150035315","rc":[{"ltp":1.09,"id":8859306}]}]}
+{"op":"mcm","clk":"7729770936","pt":1540321185070,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729795525","pt":1540321357897,"mc":[{"id":"1.150035315","rc":[{"ltp":1.15,"id":8859306},{"ltp":8.6,"id":7445670}]}]}
+{"op":"mcm","clk":"7729804956","pt":1540321424498,"mc":[{"id":"1.150035315","rc":[{"ltp":1.12,"id":8859306}]}]}
+{"op":"mcm","clk":"7729814033","pt":1540321484037,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306}]}]}
+{"op":"mcm","clk":"7729852176","pt":1540321664310,"mc":[{"id":"1.150035315","rc":[{"ltp":1.08,"id":8859306}]}]}
+{"op":"mcm","clk":"7729861513","pt":1540321724544,"mc":[{"id":"1.150035315","rc":[{"ltp":1.06,"id":8859306}]}]}
+{"op":"mcm","clk":"7729870623","pt":1540321784577,"mc":[{"id":"1.150035315","rc":[{"ltp":1.09,"id":8859306}]}]}
+{"op":"mcm","clk":"7729879978","pt":1540321843535,"mc":[{"id":"1.150035315","rc":[{"ltp":1.06,"id":8859306}]}]}
+{"op":"mcm","clk":"7729888807","pt":1540321904869,"mc":[{"id":"1.150035315","rc":[{"ltp":1.13,"id":8859306},{"ltp":13.5,"id":7445670}]}]}
+{"op":"mcm","clk":"7729897359","pt":1540321964862,"mc":[{"id":"1.150035315","rc":[{"ltp":1.14,"id":8859306}]}]}
+{"op":"mcm","clk":"7729905544","pt":1540322023393,"mc":[{"id":"1.150035315","rc":[{"ltp":1.09,"id":8859306}]}]}
+{"op":"mcm","clk":"7729913815","pt":1540322081577,"mc":[{"id":"1.150035315","rc":[{"ltp":1.1,"id":8859306},{"ltp":12.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729923516","pt":1540322144076,"mc":[{"id":"1.150035315","rc":[{"ltp":1.11,"id":8859306},{"ltp":11.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729932205","pt":1540322202100,"mc":[{"id":"1.150035315","rc":[{"ltp":1.13,"id":8859306},{"ltp":8.6,"id":7445670}]}]}
+{"op":"mcm","clk":"7729941735","pt":1540322264885,"mc":[{"id":"1.150035315","rc":[{"ltp":1.2,"id":8859306},{"ltp":8.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7729959915","pt":1540322384716,"mc":[{"id":"1.150035315","rc":[{"ltp":1.14,"id":8859306},{"ltp":8.8,"id":7445670}]}]}
+{"op":"mcm","clk":"7729969135","pt":1540322444549,"mc":[{"id":"1.150035315","rc":[{"ltp":1.12,"id":8859306},{"ltp":9.2,"id":7445670}]}]}
+{"op":"mcm","clk":"7729997249","pt":1540322565014,"mc":[{"id":"1.150035315","rc":[{"ltp":1.18,"id":8859306},{"ltp":7.6,"id":7445670}]}]}
+{"op":"mcm","clk":"7730006362","pt":1540322624611,"mc":[{"id":"1.150035315","rc":[{"ltp":1.29,"id":8859306},{"ltp":4.4,"id":7445670}]}]}
+{"op":"mcm","clk":"7730015186","pt":1540322684959,"mc":[{"id":"1.150035315","rc":[{"ltp":1.19,"id":8859306},{"ltp":6.2,"id":7445670}]}]}
+{"op":"mcm","clk":"7730024217","pt":1540322744321,"mc":[{"id":"1.150035315","rc":[{"ltp":1.07,"id":8859306},{"ltp":12.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7730033478","pt":1540322804585,"mc":[{"id":"1.150035315","rc":[{"ltp":1.04,"id":8859306},{"ltp":26.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7730041591","pt":1540322863956,"mc":[{"id":"1.150035315","rc":[{"ltp":1.07,"id":8859306}]}]}
+{"op":"mcm","clk":"7730049538","pt":1540322924715,"mc":[{"id":"1.150035315","rc":[{"ltp":1.01,"id":8859306},{"ltp":30.0,"id":7445670}]}]}
+{"op":"mcm","clk":"7730055351","pt":1540322970489,"mc":[{"id":"1.150035315","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970935","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:01:00.000Z","suspendTime":"2018-10-23T18:01:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T19:29:26.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8859306,"name":"Tommy Paul"},{"status":"LOSER","sortPriority":2,"id":7445670,"name":"Kevin King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:01:00.000Z","version":2472296306,"name":"Match Odds","eventName":"Paul v K King"}}]}

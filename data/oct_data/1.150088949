@@ -1,0 +1,116 @@
+{"op":"mcm","clk":"7802923045","pt":1540340952727,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2472640880,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7802959980","pt":1540341668194,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2472640880,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7804554817","pt":1540373170579,"mc":[{"id":"1.150088949","rc":[{"ltp":1.35,"id":8698678}]}]}
+{"op":"mcm","clk":"7810146136","pt":1540415922393,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:00:00.000Z","suspendTime":"2018-10-25T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:00:00.000Z","version":2474376675,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7813391376","pt":1540465879458,"mc":[{"id":"1.150088949","rc":[{"ltp":3.4,"id":7430966}]}]}
+{"op":"mcm","clk":"7813430505","pt":1540466228758,"mc":[{"id":"1.150088949","rc":[{"ltp":1.41,"id":8698678}]}]}
+{"op":"mcm","clk":"7814715644","pt":1540481913741,"mc":[{"id":"1.150088949","rc":[{"ltp":1.39,"id":8698678}]}]}
+{"op":"mcm","clk":"7815179774","pt":1540486714521,"mc":[{"id":"1.150088949","rc":[{"ltp":3.6,"id":7430966}]}]}
+{"op":"mcm","clk":"7815697794","pt":1540490319061,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:56:00.000Z","suspendTime":"2018-10-25T19:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:56:00.000Z","version":2475296723,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7815713136","pt":1540490439319,"mc":[{"id":"1.150088949","rc":[{"ltp":3.35,"id":7430966}]}]}
+{"op":"mcm","clk":"7815908472","pt":1540491705032,"mc":[{"id":"1.150088949","rc":[{"ltp":1.43,"id":8698678}]}]}
+{"op":"mcm","clk":"7816258090","pt":1540494328601,"mc":[{"id":"1.150088949","rc":[{"ltp":1.39,"id":8698678}]}]}
+{"op":"mcm","clk":"7816310800","pt":1540494819955,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:18:00.000Z","suspendTime":"2018-10-25T19:18:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:56:00.000Z","version":2475446022,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7816316230","pt":1540494868446,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:18:00.000Z","suspendTime":"2018-10-25T19:18:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:18:00.000Z","version":2475446022,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7816328272","pt":1540495001187,"mc":[{"id":"1.150088949","rc":[{"ltp":1.43,"id":8698678}]}]}
+{"op":"mcm","clk":"7816354866","pt":1540495122087,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:14:00.000Z","suspendTime":"2018-10-25T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:14:00.000Z","version":2475452430,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}
+{"op":"mcm","clk":"7816375350","pt":1540495351568,"mc":[{"id":"1.150088949","rc":[{"ltp":1.39,"id":8698678}]}]}
+{"op":"mcm","clk":"7816381474","pt":1540495422527,"mc":[{"id":"1.150088949","rc":[{"ltp":3.55,"id":7430966},{"ltp":1.38,"id":8698678}]}]}
+{"op":"mcm","clk":"7816386693","pt":1540495472763,"mc":[{"id":"1.150088949","rc":[{"ltp":1.42,"id":8698678}]}]}
+{"op":"mcm","clk":"7816408626","pt":1540495713787,"mc":[{"id":"1.150088949","rc":[{"ltp":1.39,"id":8698678}]}]}
+{"op":"mcm","clk":"7816414017","pt":1540495774022,"mc":[{"id":"1.150088949","rc":[{"ltp":1.42,"id":8698678}]}]}
+{"op":"mcm","clk":"7816423725","pt":1540495899493,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:14:00.000Z","suspendTime":"2018-10-25T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:14:00.000Z","version":2475462442,"name":"Match Odds","eventName":"Majchrzak v Arevalo"},"rc":[{"ltp":3.3,"id":7430966},{"ltp":1.45,"id":8698678}]}]}
+{"op":"mcm","clk":"7816444666","pt":1540495962593,"mc":[{"id":"1.150088949","rc":[{"ltp":3.6,"id":7430966},{"ltp":1.38,"id":8698678}]}]}
+{"op":"mcm","clk":"7816449438","pt":1540496020635,"mc":[{"id":"1.150088949","rc":[{"ltp":3.0,"id":7430966}]}]}
+{"op":"mcm","clk":"7816454029","pt":1540496081434,"mc":[{"id":"1.150088949","rc":[{"ltp":2.44,"id":7430966},{"ltp":1.74,"id":8698678}]}]}
+{"op":"mcm","clk":"7816458780","pt":1540496141433,"mc":[{"id":"1.150088949","rc":[{"ltp":2.24,"id":7430966},{"ltp":1.78,"id":8698678}]}]}
+{"op":"mcm","clk":"7816463395","pt":1540496202153,"mc":[{"id":"1.150088949","rc":[{"ltp":2.3,"id":7430966},{"ltp":1.77,"id":8698678}]}]}
+{"op":"mcm","clk":"7816468171","pt":1540496261983,"mc":[{"id":"1.150088949","rc":[{"ltp":1.75,"id":8698678}]}]}
+{"op":"mcm","clk":"7816472358","pt":1540496320902,"mc":[{"id":"1.150088949","rc":[{"ltp":1.9,"id":8698678}]}]}
+{"op":"mcm","clk":"7816476648","pt":1540496381707,"mc":[{"id":"1.150088949","rc":[{"ltp":1.87,"id":7430966}]}]}
+{"op":"mcm","clk":"7816480942","pt":1540496441487,"mc":[{"id":"1.150088949","rc":[{"ltp":1.8,"id":7430966},{"ltp":2.26,"id":8698678}]}]}
+{"op":"mcm","clk":"7816485145","pt":1540496502090,"mc":[{"id":"1.150088949","rc":[{"ltp":1.81,"id":7430966},{"ltp":2.2,"id":8698678}]}]}
+{"op":"mcm","clk":"7816489189","pt":1540496562477,"mc":[{"id":"1.150088949","rc":[{"ltp":1.47,"id":7430966},{"ltp":2.84,"id":8698678}]}]}
+{"op":"mcm","clk":"7816497539","pt":1540496681544,"mc":[{"id":"1.150088949","rc":[{"ltp":1.58,"id":7430966},{"ltp":3.0,"id":8698678}]}]}
+{"op":"mcm","clk":"7816501482","pt":1540496740703,"mc":[{"id":"1.150088949","rc":[{"ltp":1.76,"id":7430966},{"ltp":2.42,"id":8698678}]}]}
+{"op":"mcm","clk":"7816504878","pt":1540496799113,"mc":[{"id":"1.150088949","rc":[{"ltp":1.8,"id":7430966},{"ltp":2.92,"id":8698678}]}]}
+{"op":"mcm","clk":"7816526862","pt":1540496921645,"mc":[{"id":"1.150088949","rc":[{"ltp":1.77,"id":7430966},{"ltp":2.28,"id":8698678}]}]}
+{"op":"mcm","clk":"7816530301","pt":1540496981149,"mc":[{"id":"1.150088949","rc":[{"ltp":1.5,"id":7430966},{"ltp":3.0,"id":8698678}]}]}
+{"op":"mcm","clk":"7816533833","pt":1540497042660,"mc":[{"id":"1.150088949","rc":[{"ltp":3.05,"id":8698678}]}]}
+{"op":"mcm","clk":"7816537067","pt":1540497099404,"mc":[{"id":"1.150088949","rc":[{"ltp":2.8,"id":8698678}]}]}
+{"op":"mcm","clk":"7816541069","pt":1540497159691,"mc":[{"id":"1.150088949","rc":[{"ltp":1.52,"id":7430966},{"ltp":2.92,"id":8698678}]}]}
+{"op":"mcm","clk":"7816545334","pt":1540497222282,"mc":[{"id":"1.150088949","rc":[{"ltp":1.63,"id":7430966}]}]}
+{"op":"mcm","clk":"7816548552","pt":1540497279121,"mc":[{"id":"1.150088949","rc":[{"ltp":1.62,"id":7430966},{"ltp":2.6,"id":8698678}]}]}
+{"op":"mcm","clk":"7816552323","pt":1540497342189,"mc":[{"id":"1.150088949","rc":[{"ltp":1.52,"id":7430966},{"ltp":2.82,"id":8698678}]}]}
+{"op":"mcm","clk":"7816555429","pt":1540497400130,"mc":[{"id":"1.150088949","rc":[{"ltp":1.53,"id":7430966},{"ltp":2.8,"id":8698678}]}]}
+{"op":"mcm","clk":"7816559271","pt":1540497459815,"mc":[{"id":"1.150088949","rc":[{"ltp":1.55,"id":7430966},{"ltp":2.78,"id":8698678}]}]}
+{"op":"mcm","clk":"7816563064","pt":1540497519362,"mc":[{"id":"1.150088949","rc":[{"ltp":1.57,"id":7430966}]}]}
+{"op":"mcm","clk":"7816567167","pt":1540497582417,"mc":[{"id":"1.150088949","rc":[{"ltp":1.56,"id":7430966},{"ltp":2.76,"id":8698678}]}]}
+{"op":"mcm","clk":"7816570760","pt":1540497641046,"mc":[{"id":"1.150088949","rc":[{"ltp":1.52,"id":7430966},{"ltp":2.9,"id":8698678}]}]}
+{"op":"mcm","clk":"7816574677","pt":1540497700545,"mc":[{"id":"1.150088949","rc":[{"ltp":1.47,"id":7430966},{"ltp":3.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7816594792","pt":1540497762167,"mc":[{"id":"1.150088949","rc":[{"ltp":1.5,"id":7430966},{"ltp":3.0,"id":8698678}]}]}
+{"op":"mcm","clk":"7816599209","pt":1540497821821,"mc":[{"id":"1.150088949","rc":[{"ltp":1.49,"id":7430966}]}]}
+{"op":"mcm","clk":"7816603551","pt":1540497881552,"mc":[{"id":"1.150088949","rc":[{"ltp":1.48,"id":7430966}]}]}
+{"op":"mcm","clk":"7816608283","pt":1540497942120,"mc":[{"id":"1.150088949","rc":[{"ltp":1.57,"id":7430966},{"ltp":2.98,"id":8698678}]}]}
+{"op":"mcm","clk":"7816612888","pt":1540498002491,"mc":[{"id":"1.150088949","rc":[{"ltp":1.65,"id":7430966},{"ltp":2.54,"id":8698678}]}]}
+{"op":"mcm","clk":"7816617386","pt":1540498062044,"mc":[{"id":"1.150088949","rc":[{"ltp":1.55,"id":7430966},{"ltp":2.8,"id":8698678}]}]}
+{"op":"mcm","clk":"7816621955","pt":1540498121978,"mc":[{"id":"1.150088949","rc":[{"ltp":1.51,"id":7430966},{"ltp":2.98,"id":8698678}]}]}
+{"op":"mcm","clk":"7816626143","pt":1540498182374,"mc":[{"id":"1.150088949","rc":[{"ltp":2.96,"id":8698678}]}]}
+{"op":"mcm","clk":"7816630684","pt":1540498241357,"mc":[{"id":"1.150088949","rc":[{"ltp":1.6,"id":7430966},{"ltp":2.68,"id":8698678}]}]}
+{"op":"mcm","clk":"7816634154","pt":1540498298862,"mc":[{"id":"1.150088949","rc":[{"ltp":1.64,"id":7430966},{"ltp":2.6,"id":8698678}]}]}
+{"op":"mcm","clk":"7816637950","pt":1540498361017,"mc":[{"id":"1.150088949","rc":[{"ltp":1.62,"id":7430966}]}]}
+{"op":"mcm","clk":"7816641607","pt":1540498420102,"mc":[{"id":"1.150088949","rc":[{"ltp":1.66,"id":7430966},{"ltp":2.36,"id":8698678}]}]}
+{"op":"mcm","clk":"7816645508","pt":1540498482617,"mc":[{"id":"1.150088949","rc":[{"ltp":1.7,"id":7430966},{"ltp":2.5,"id":8698678}]}]}
+{"op":"mcm","clk":"7816650602","pt":1540498542505,"mc":[{"id":"1.150088949","rc":[{"ltp":1.85,"id":7430966},{"ltp":2.2,"id":8698678}]}]}
+{"op":"mcm","clk":"7816658703","pt":1540498602372,"mc":[{"id":"1.150088949","rc":[{"ltp":2.16,"id":7430966},{"ltp":1.85,"id":8698678}]}]}
+{"op":"mcm","clk":"7816678639","pt":1540498662265,"mc":[{"id":"1.150088949","rc":[{"ltp":2.3,"id":7430966},{"ltp":1.76,"id":8698678}]}]}
+{"op":"mcm","clk":"7816682064","pt":1540498722390,"mc":[{"id":"1.150088949","rc":[{"ltp":2.46,"id":7430966},{"ltp":1.67,"id":8698678}]}]}
+{"op":"mcm","clk":"7816685851","pt":1540498782426,"mc":[{"id":"1.150088949","rc":[{"ltp":2.4,"id":7430966},{"ltp":1.69,"id":8698678}]}]}
+{"op":"mcm","clk":"7816689602","pt":1540498842389,"mc":[{"id":"1.150088949","rc":[{"ltp":2.42,"id":7430966},{"ltp":1.7,"id":8698678}]}]}
+{"op":"mcm","clk":"7816695021","pt":1540498901891,"mc":[{"id":"1.150088949","rc":[{"ltp":2.46,"id":7430966},{"ltp":1.68,"id":8698678}]}]}
+{"op":"mcm","clk":"7816701124","pt":1540498962312,"mc":[{"id":"1.150088949","rc":[{"ltp":1.66,"id":8698678}]}]}
+{"op":"mcm","clk":"7816706387","pt":1540499022638,"mc":[{"id":"1.150088949","rc":[{"ltp":2.84,"id":7430966},{"ltp":1.54,"id":8698678}]}]}
+{"op":"mcm","clk":"7816711465","pt":1540499082555,"mc":[{"id":"1.150088949","rc":[{"ltp":1.56,"id":8698678}]}]}
+{"op":"mcm","clk":"7816716901","pt":1540499142636,"mc":[{"id":"1.150088949","rc":[{"ltp":2.8,"id":7430966},{"ltp":1.52,"id":8698678}]}]}
+{"op":"mcm","clk":"7816721625","pt":1540499200952,"mc":[{"id":"1.150088949","rc":[{"ltp":3.05,"id":7430966},{"ltp":1.49,"id":8698678}]}]}
+{"op":"mcm","clk":"7816725514","pt":1540499262527,"mc":[{"id":"1.150088949","rc":[{"ltp":3.15,"id":7430966},{"ltp":1.48,"id":8698678}]}]}
+{"op":"mcm","clk":"7816729389","pt":1540499322453,"mc":[{"id":"1.150088949","rc":[{"ltp":3.1,"id":7430966},{"ltp":1.47,"id":8698678}]}]}
+{"op":"mcm","clk":"7816733065","pt":1540499379392,"mc":[{"id":"1.150088949","rc":[{"ltp":3.15,"id":7430966}]}]}
+{"op":"mcm","clk":"7816736711","pt":1540499441716,"mc":[{"id":"1.150088949","rc":[{"ltp":3.1,"id":7430966},{"ltp":1.45,"id":8698678}]}]}
+{"op":"mcm","clk":"7816740136","pt":1540499502442,"mc":[{"id":"1.150088949","rc":[{"ltp":3.45,"id":7430966},{"ltp":1.35,"id":8698678}]}]}
+{"op":"mcm","clk":"7816759150","pt":1540499562413,"mc":[{"id":"1.150088949","rc":[{"ltp":3.85,"id":7430966}]}]}
+{"op":"mcm","clk":"7816763142","pt":1540499621234,"mc":[{"id":"1.150088949","rc":[{"ltp":6.2,"id":7430966},{"ltp":1.17,"id":8698678}]}]}
+{"op":"mcm","clk":"7816767079","pt":1540499681878,"mc":[{"id":"1.150088949","rc":[{"ltp":7.2,"id":7430966},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7816771306","pt":1540499741955,"mc":[{"id":"1.150088949","rc":[{"ltp":6.0,"id":7430966},{"ltp":1.2,"id":8698678}]}]}
+{"op":"mcm","clk":"7816774678","pt":1540499802562,"mc":[{"id":"1.150088949","rc":[{"ltp":8.0,"id":7430966},{"ltp":1.11,"id":8698678}]}]}
+{"op":"mcm","clk":"7816778261","pt":1540499862667,"mc":[{"id":"1.150088949","rc":[{"ltp":9.2,"id":7430966},{"ltp":1.14,"id":8698678}]}]}
+{"op":"mcm","clk":"7816781842","pt":1540499922501,"mc":[{"id":"1.150088949","rc":[{"ltp":6.2,"id":7430966},{"ltp":1.19,"id":8698678}]}]}
+{"op":"mcm","clk":"7816786147","pt":1540499981498,"mc":[{"id":"1.150088949","rc":[{"ltp":6.4,"id":7430966},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7816790295","pt":1540500041682,"mc":[{"id":"1.150088949","rc":[{"ltp":1.18,"id":8698678}]}]}
+{"op":"mcm","clk":"7816797292","pt":1540500159851,"mc":[{"id":"1.150088949","rc":[{"ltp":7.2,"id":7430966},{"ltp":1.14,"id":8698678}]}]}
+{"op":"mcm","clk":"7816801134","pt":1540500222275,"mc":[{"id":"1.150088949","rc":[{"ltp":9.4,"id":7430966},{"ltp":1.12,"id":8698678}]}]}
+{"op":"mcm","clk":"7816804849","pt":1540500281219,"mc":[{"id":"1.150088949","rc":[{"ltp":7.4,"id":7430966},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7816808241","pt":1540500342465,"mc":[{"id":"1.150088949","rc":[{"ltp":5.3,"id":7430966},{"ltp":1.23,"id":8698678}]}]}
+{"op":"mcm","clk":"7816811802","pt":1540500402525,"mc":[{"id":"1.150088949","rc":[{"ltp":8.2,"id":7430966},{"ltp":1.15,"id":8698678}]}]}
+{"op":"mcm","clk":"7816833474","pt":1540500522641,"mc":[{"id":"1.150088949","rc":[{"ltp":7.2,"id":7430966},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7816836370","pt":1540500579777,"mc":[{"id":"1.150088949","rc":[{"ltp":9.2,"id":7430966},{"ltp":1.12,"id":8698678}]}]}
+{"op":"mcm","clk":"7816839394","pt":1540500641630,"mc":[{"id":"1.150088949","rc":[{"ltp":6.4,"id":7430966},{"ltp":1.17,"id":8698678}]}]}
+{"op":"mcm","clk":"7816841923","pt":1540500702359,"mc":[{"id":"1.150088949","rc":[{"ltp":7.0,"id":7430966},{"ltp":1.15,"id":8698678}]}]}
+{"op":"mcm","clk":"7816844572","pt":1540500760494,"mc":[{"id":"1.150088949","rc":[{"ltp":1.19,"id":8698678}]}]}
+{"op":"mcm","clk":"7816846916","pt":1540500822105,"mc":[{"id":"1.150088949","rc":[{"ltp":5.7,"id":7430966},{"ltp":1.14,"id":8698678}]}]}
+{"op":"mcm","clk":"7816849173","pt":1540500882388,"mc":[{"id":"1.150088949","rc":[{"ltp":11.0,"id":7430966},{"ltp":1.12,"id":8698678}]}]}
+{"op":"mcm","clk":"7816851300","pt":1540500942433,"mc":[{"id":"1.150088949","rc":[{"ltp":10.0,"id":7430966},{"ltp":1.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7816853226","pt":1540501002603,"mc":[{"id":"1.150088949","rc":[{"ltp":13.5,"id":7430966},{"ltp":1.04,"id":8698678}]}]}
+{"op":"mcm","clk":"7816855496","pt":1540501062608,"mc":[{"id":"1.150088949","rc":[{"ltp":10.0,"id":7430966},{"ltp":1.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7816857876","pt":1540501122482,"mc":[{"id":"1.150088949","rc":[{"ltp":7.2,"id":7430966},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7816860626","pt":1540501182536,"mc":[{"id":"1.150088949","rc":[{"ltp":6.8,"id":7430966},{"ltp":1.17,"id":8698678}]}]}
+{"op":"mcm","clk":"7816863352","pt":1540501242591,"mc":[{"id":"1.150088949","rc":[{"ltp":12.0,"id":7430966},{"ltp":1.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7816866050","pt":1540501301429,"mc":[{"id":"1.150088949","rc":[{"ltp":14.5,"id":7430966},{"ltp":1.08,"id":8698678}]}]}
+{"op":"mcm","clk":"7816885481","pt":1540501362624,"mc":[{"id":"1.150088949","rc":[{"ltp":14.0,"id":7430966}]}]}
+{"op":"mcm","clk":"7816888794","pt":1540501421800,"mc":[{"id":"1.150088949","rc":[{"ltp":26.0,"id":7430966},{"ltp":1.05,"id":8698678}]}]}
+{"op":"mcm","clk":"7816892236","pt":1540501482547,"mc":[{"id":"1.150088949","rc":[{"ltp":21.0,"id":7430966}]}]}
+{"op":"mcm","clk":"7816895914","pt":1540501542537,"mc":[{"id":"1.150088949","rc":[{"ltp":11.0,"id":7430966},{"ltp":1.11,"id":8698678}]}]}
+{"op":"mcm","clk":"7816899735","pt":1540501602534,"mc":[{"id":"1.150088949","rc":[{"ltp":21.0,"id":7430966},{"ltp":1.05,"id":8698678}]}]}
+{"op":"mcm","clk":"7816902641","pt":1540501662419,"mc":[{"id":"1.150088949","rc":[{"ltp":34.0,"id":7430966},{"ltp":1.03,"id":8698678}]}]}
+{"op":"mcm","clk":"7816904928","pt":1540501721527,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:14:00.000Z","suspendTime":"2018-10-25T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:14:00.000Z","version":2475562579,"name":"Match Odds","eventName":"Majchrzak v Arevalo"},"rc":[{"ltp":50.0,"id":7430966},{"ltp":1.02,"id":8698678}]}]}
+{"op":"mcm","clk":"7816906721","pt":1540501762988,"mc":[{"id":"1.150088949","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972467","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:14:00.000Z","suspendTime":"2018-10-25T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T21:09:12.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"LOSER","sortPriority":2,"id":7430966,"name":"Marcelo Arevalo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:14:00.000Z","version":2475562643,"name":"Match Odds","eventName":"Majchrzak v Arevalo"}}]}

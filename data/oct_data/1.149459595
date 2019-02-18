@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7700721183","pt":1539325842993,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:30:00.000Z","version":2450435821,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7700743321","pt":1539326018871,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:30:00.000Z","version":2450435821,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7701200051","pt":1539332705402,"mc":[{"id":"1.149459595","rc":[{"ltp":2.02,"id":9183341},{"ltp":1.76,"id":11187840}]}]}
+{"op":"mcm","clk":"7701220968","pt":1539333023235,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:30:00.000Z","version":2450500837,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7701262160","pt":1539333471235,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:30:00.000Z","version":2450504999,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7701265277","pt":1539333515429,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:38:31.000Z","version":2450505202,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7701291785","pt":1539333951740,"mc":[{"id":"1.149459595","rc":[{"ltp":1.92,"id":11187840}]}]}
+{"op":"mcm","clk":"7701295634","pt":1539334010685,"mc":[{"id":"1.149459595","rc":[{"ltp":1.63,"id":9183341}]}]}
+{"op":"mcm","clk":"7701358511","pt":1539334728012,"mc":[{"id":"1.149459595","rc":[{"ltp":2.74,"id":9183341},{"ltp":1.58,"id":11187840}]}]}
+{"op":"mcm","clk":"7701415394","pt":1539335331764,"mc":[{"id":"1.149459595","rc":[{"ltp":1.74,"id":11187840}]}]}
+{"op":"mcm","clk":"7701431307","pt":1539335561632,"mc":[{"id":"1.149459595","rc":[{"ltp":1.92,"id":9183341}]}]}
+{"op":"mcm","clk":"7701474080","pt":1539335993819,"mc":[{"id":"1.149459595","rc":[{"ltp":1.45,"id":9183341},{"ltp":2.9,"id":11187840}]}]}
+{"op":"mcm","clk":"7701478043","pt":1539336039857,"mc":[{"id":"1.149459595","rc":[{"ltp":1.34,"id":9183341},{"ltp":3.05,"id":11187840}]}]}
+{"op":"mcm","clk":"7701489786","pt":1539336172166,"mc":[{"id":"1.149459595","rc":[{"ltp":3.3,"id":11187840}]}]}
+{"op":"mcm","clk":"7701492646","pt":1539336202660,"mc":[{"id":"1.149459595","rc":[{"ltp":1.23,"id":9183341}]}]}
+{"op":"mcm","clk":"7701505146","pt":1539336353790,"mc":[{"id":"1.149459595","rc":[{"ltp":1.31,"id":9183341},{"ltp":4.2,"id":11187840}]}]}
+{"op":"mcm","clk":"7701510585","pt":1539336413876,"mc":[{"id":"1.149459595","rc":[{"ltp":1.62,"id":9183341}]}]}
+{"op":"mcm","clk":"7701515669","pt":1539336468396,"mc":[{"id":"1.149459595","rc":[{"ltp":1.45,"id":9183341},{"ltp":2.9,"id":11187840}]}]}
+{"op":"mcm","clk":"7701521523","pt":1539336533449,"mc":[{"id":"1.149459595","rc":[{"ltp":1.49,"id":9183341},{"ltp":3.05,"id":11187840}]}]}
+{"op":"mcm","clk":"7701550123","pt":1539336767960,"mc":[{"id":"1.149459595","rc":[{"ltp":1.5,"id":9183341}]}]}
+{"op":"mcm","clk":"7701577630","pt":1539337070978,"mc":[{"id":"1.149459595","rc":[{"ltp":1.25,"id":9183341},{"ltp":5.0,"id":11187840}]}]}
+{"op":"mcm","clk":"7701584149","pt":1539337133494,"mc":[{"id":"1.149459595","rc":[{"ltp":1.11,"id":9183341},{"ltp":6.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701590060","pt":1539337192568,"mc":[{"id":"1.149459595","rc":[{"ltp":1.16,"id":9183341},{"ltp":7.0,"id":11187840}]}]}
+{"op":"mcm","clk":"7701601258","pt":1539337314090,"mc":[{"id":"1.149459595","rc":[{"ltp":1.17,"id":9183341}]}]}
+{"op":"mcm","clk":"7701616089","pt":1539337493049,"mc":[{"id":"1.149459595","rc":[{"ltp":1.18,"id":9183341},{"ltp":6.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701620921","pt":1539337545937,"mc":[{"id":"1.149459595","rc":[{"ltp":1.22,"id":9183341},{"ltp":5.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701641815","pt":1539337673533,"mc":[{"id":"1.149459595","rc":[{"ltp":1.21,"id":9183341},{"ltp":5.1,"id":11187840}]}]}
+{"op":"mcm","clk":"7701658327","pt":1539337849477,"mc":[{"id":"1.149459595","rc":[{"ltp":1.06,"id":9183341}]}]}
+{"op":"mcm","clk":"7701668702","pt":1539337971301,"mc":[{"id":"1.149459595","rc":[{"ltp":1.1,"id":9183341}]}]}
+{"op":"mcm","clk":"7701674322","pt":1539338033247,"mc":[{"id":"1.149459595","rc":[{"ltp":1.08,"id":9183341}]}]}
+{"op":"mcm","clk":"7701685312","pt":1539338148147,"mc":[{"id":"1.149459595","rc":[{"ltp":1.12,"id":9183341},{"ltp":9.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701691352","pt":1539338212179,"mc":[{"id":"1.149459595","rc":[{"ltp":1.11,"id":9183341},{"ltp":7.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701696212","pt":1539338268217,"mc":[{"id":"1.149459595","rc":[{"ltp":1.15,"id":9183341},{"ltp":7.4,"id":11187840}]}]}
+{"op":"mcm","clk":"7701708082","pt":1539338390032,"mc":[{"id":"1.149459595","rc":[{"ltp":1.2,"id":9183341},{"ltp":6.2,"id":11187840}]}]}
+{"op":"mcm","clk":"7701715594","pt":1539338452324,"mc":[{"id":"1.149459595","rc":[{"ltp":1.28,"id":9183341},{"ltp":4.5,"id":11187840}]}]}
+{"op":"mcm","clk":"7701723401","pt":1539338514131,"mc":[{"id":"1.149459595","rc":[{"ltp":1.38,"id":9183341},{"ltp":4.0,"id":11187840}]}]}
+{"op":"mcm","clk":"7701738749","pt":1539338558183,"mc":[{"id":"1.149459595","rc":[{"ltp":1.4,"id":9183341},{"ltp":3.55,"id":11187840}]}]}
+{"op":"mcm","clk":"7701754882","pt":1539338686582,"mc":[{"id":"1.149459595","rc":[{"ltp":6.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701763102","pt":1539338753415,"mc":[{"id":"1.149459595","rc":[{"ltp":5.8,"id":11187840}]}]}
+{"op":"mcm","clk":"7701770322","pt":1539338810855,"mc":[{"id":"1.149459595","rc":[{"ltp":1.3,"id":9183341},{"ltp":6.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701778699","pt":1539338871876,"mc":[{"id":"1.149459595","rc":[{"ltp":1.06,"id":9183341}]}]}
+{"op":"mcm","clk":"7701787019","pt":1539338929517,"mc":[{"id":"1.149459595","rc":[{"ltp":1.18,"id":9183341}]}]}
+{"op":"mcm","clk":"7701795803","pt":1539338992054,"mc":[{"id":"1.149459595","rc":[{"ltp":1.25,"id":9183341},{"ltp":5.1,"id":11187840}]}]}
+{"op":"mcm","clk":"7701806190","pt":1539339049273,"mc":[{"id":"1.149459595","rc":[{"ltp":1.26,"id":9183341},{"ltp":4.9,"id":11187840}]}]}
+{"op":"mcm","clk":"7701815056","pt":1539339110298,"mc":[{"id":"1.149459595","rc":[{"ltp":1.28,"id":9183341},{"ltp":4.6,"id":11187840}]}]}
+{"op":"mcm","clk":"7701855482","pt":1539339413467,"mc":[{"id":"1.149459595","rc":[{"ltp":1.12,"id":9183341}]}]}
+{"op":"mcm","clk":"7701873499","pt":1539339471512,"mc":[{"id":"1.149459595","rc":[{"ltp":5.1,"id":11187840}]}]}
+{"op":"mcm","clk":"7701941377","pt":1539339960637,"mc":[{"id":"1.149459595","rc":[{"ltp":1.11,"id":9183341}]}]}
+{"op":"mcm","clk":"7702022742","pt":1539340492542,"mc":[{"id":"1.149459595","rc":[{"ltp":3.0,"id":9183341},{"ltp":1.49,"id":11187840}]}]}
+{"op":"mcm","clk":"7702029995","pt":1539340552654,"mc":[{"id":"1.149459595","rc":[{"ltp":1.48,"id":11187840}]}]}
+{"op":"mcm","clk":"7702037234","pt":1539340611481,"mc":[{"id":"1.149459595","rc":[{"ltp":1.54,"id":11187840}]}]}
+{"op":"mcm","clk":"7702044132","pt":1539340670379,"mc":[{"id":"1.149459595","rc":[{"ltp":1.59,"id":11187840}]}]}
+{"op":"mcm","clk":"7702059162","pt":1539340792609,"mc":[{"id":"1.149459595","rc":[{"ltp":1.5,"id":11187840}]}]}
+{"op":"mcm","clk":"7702067376","pt":1539340853103,"mc":[{"id":"1.149459595","rc":[{"ltp":1.44,"id":11187840}]}]}
+{"op":"mcm","clk":"7702075477","pt":1539340914091,"mc":[{"id":"1.149459595","rc":[{"ltp":1.25,"id":11187840}]}]}
+{"op":"mcm","clk":"7702083177","pt":1539340971186,"mc":[{"id":"1.149459595","rc":[{"ltp":4.8,"id":9183341},{"ltp":1.27,"id":11187840}]}]}
+{"op":"mcm","clk":"7702091262","pt":1539341033813,"mc":[{"id":"1.149459595","rc":[{"ltp":1.17,"id":11187840}]}]}
+{"op":"mcm","clk":"7702098331","pt":1539341090100,"mc":[{"id":"1.149459595","rc":[{"ltp":7.4,"id":9183341},{"ltp":1.16,"id":11187840}]}]}
+{"op":"mcm","clk":"7702106250","pt":1539341152989,"mc":[{"id":"1.149459595","rc":[{"ltp":9.4,"id":9183341},{"ltp":1.12,"id":11187840}]}]}
+{"op":"mcm","clk":"7702113457","pt":1539341212770,"mc":[{"id":"1.149459595","rc":[{"ltp":1.16,"id":11187840}]}]}
+{"op":"mcm","clk":"7702130131","pt":1539341274104,"mc":[{"id":"1.149459595","rc":[{"ltp":1.17,"id":11187840}]}]}
+{"op":"mcm","clk":"7702136415","pt":1539341333320,"mc":[{"id":"1.149459595","rc":[{"ltp":10.5,"id":9183341},{"ltp":1.08,"id":11187840}]}]}
+{"op":"mcm","clk":"7702142946","pt":1539341393613,"mc":[{"id":"1.149459595","rc":[{"ltp":16.5,"id":9183341},{"ltp":1.06,"id":11187840}]}]}
+{"op":"mcm","clk":"7702148678","pt":1539341450107,"mc":[{"id":"1.149459595","rc":[{"ltp":1.1,"id":11187840}]}]}
+{"op":"mcm","clk":"7702154918","pt":1539341512941,"mc":[{"id":"1.149459595","rc":[{"ltp":14.0,"id":9183341},{"ltp":1.07,"id":11187840}]}]}
+{"op":"mcm","clk":"7702160631","pt":1539341570967,"mc":[{"id":"1.149459595","rc":[{"ltp":50.0,"id":9183341},{"ltp":1.02,"id":11187840}]}]}
+{"op":"mcm","clk":"7702165297","pt":1539341625514,"mc":[{"id":"1.149459595","rc":[{"ltp":1.01,"id":11187840}]}]}
+{"op":"mcm","clk":"7702172013","pt":1539341690681,"mc":[{"id":"1.149459595","rc":[{"ltp":36.0,"id":9183341},{"ltp":1.04,"id":11187840}]}]}
+{"op":"mcm","clk":"7702179198","pt":1539341751559,"mc":[{"id":"1.149459595","rc":[{"ltp":1.03,"id":11187840}]}]}
+{"op":"mcm","clk":"7702185302","pt":1539341810707,"mc":[{"id":"1.149459595","rc":[{"ltp":1.04,"id":11187840}]}]}
+{"op":"mcm","clk":"7702192131","pt":1539341874098,"mc":[{"id":"1.149459595","rc":[{"ltp":34.0,"id":9183341},{"ltp":1.03,"id":11187840}]}]}
+{"op":"mcm","clk":"7702198846","pt":1539341933359,"mc":[{"id":"1.149459595","rc":[{"ltp":1.07,"id":11187840}]}]}
+{"op":"mcm","clk":"7702205335","pt":1539341994120,"mc":[{"id":"1.149459595","rc":[{"ltp":1.06,"id":11187840}]}]}
+{"op":"mcm","clk":"7702211793","pt":1539342051230,"mc":[{"id":"1.149459595","rc":[{"ltp":12.0,"id":9183341}]}]}
+{"op":"mcm","clk":"7702219196","pt":1539342112174,"mc":[{"id":"1.149459595","rc":[{"ltp":15.0,"id":9183341},{"ltp":1.13,"id":11187840}]}]}
+{"op":"mcm","clk":"7702236332","pt":1539342174151,"mc":[{"id":"1.149459595","rc":[{"ltp":8.6,"id":9183341},{"ltp":1.09,"id":11187840}]}]}
+{"op":"mcm","clk":"7702243457","pt":1539342233171,"mc":[{"id":"1.149459595","rc":[{"ltp":12.5,"id":9183341}]}]}
+{"op":"mcm","clk":"7702249816","pt":1539342291774,"mc":[{"id":"1.149459595","rc":[{"ltp":1.15,"id":11187840}]}]}
+{"op":"mcm","clk":"7702256428","pt":1539342353904,"mc":[{"id":"1.149459595","rc":[{"ltp":6.6,"id":9183341},{"ltp":1.14,"id":11187840}]}]}
+{"op":"mcm","clk":"7702263057","pt":1539342414021,"mc":[{"id":"1.149459595","rc":[{"ltp":5.1,"id":9183341}]}]}
+{"op":"mcm","clk":"7702269788","pt":1539342473903,"mc":[{"id":"1.149459595","rc":[{"ltp":8.0,"id":9183341},{"ltp":1.12,"id":11187840}]}]}
+{"op":"mcm","clk":"7702277178","pt":1539342534040,"mc":[{"id":"1.149459595","rc":[{"ltp":8.6,"id":9183341},{"ltp":1.2,"id":11187840}]}]}
+{"op":"mcm","clk":"7702284100","pt":1539342592048,"mc":[{"id":"1.149459595","rc":[{"ltp":5.1,"id":9183341},{"ltp":1.13,"id":11187840}]}]}
+{"op":"mcm","clk":"7702291541","pt":1539342653125,"mc":[{"id":"1.149459595","rc":[{"ltp":4.3,"id":9183341},{"ltp":1.19,"id":11187840}]}]}
+{"op":"mcm","clk":"7702298952","pt":1539342714099,"mc":[{"id":"1.149459595","rc":[{"ltp":13.5,"id":9183341},{"ltp":1.08,"id":11187840}]}]}
+{"op":"mcm","clk":"7702305945","pt":1539342772969,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"ACTIVE","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:38:31.000Z","version":2450656189,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}
+{"op":"mcm","clk":"7702306098","pt":1539342774405,"mc":[{"id":"1.149459595","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952064","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T08:30:00.000Z","suspendTime":"2018-10-12T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T11:12:50.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9183341,"name":"E Silva"},{"status":"WINNER","sortPriority":2,"id":11187840,"name":"M Lumsden"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T08:38:31.000Z","version":2450656205,"name":"Match Odds","eventName":"E Silva v M Lumsden"}}]}

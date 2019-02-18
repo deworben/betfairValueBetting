@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7676733483","pt":1539248423204,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:30:00.000Z","suspendTime":"2018-10-12T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"ACTIVE","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:30:00.000Z","version":2449498312,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"}}]}
+{"op":"mcm","clk":"7676748658","pt":1539248713461,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:30:00.000Z","suspendTime":"2018-10-12T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"ACTIVE","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:30:00.000Z","version":2449498312,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"}}]}
+{"op":"mcm","clk":"7680894651","pt":1539289356231,"mc":[{"id":"1.149393102","rc":[{"ltp":1.4,"id":16809709}]}]}
+{"op":"mcm","clk":"7682270299","pt":1539310810830,"mc":[{"id":"1.149393102","rc":[{"ltp":1.37,"id":16809709}]}]}
+{"op":"mcm","clk":"7682715648","pt":1539318257762,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:22:00.000Z","suspendTime":"2018-10-12T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"ACTIVE","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:22:00.000Z","version":2450401138,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"}}]}
+{"op":"mcm","clk":"7682718653","pt":1539318317842,"mc":[{"id":"1.149393102","rc":[{"ltp":3.3,"id":11054100},{"ltp":1.44,"id":16809709}]}]}
+{"op":"mcm","clk":"7682797401","pt":1539319337742,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:22:00.000Z","suspendTime":"2018-10-12T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"ACTIVE","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:22:00.000Z","version":2450406128,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"}}]}
+{"op":"mcm","clk":"7682800616","pt":1539319400518,"mc":[{"id":"1.149393102","rc":[{"ltp":2.84,"id":11054100},{"ltp":1.54,"id":16809709}]}]}
+{"op":"mcm","clk":"7682803588","pt":1539319456865,"mc":[{"id":"1.149393102","rc":[{"ltp":1.62,"id":16809709}]}]}
+{"op":"mcm","clk":"7682806632","pt":1539319518791,"mc":[{"id":"1.149393102","rc":[{"ltp":2.5,"id":11054100}]}]}
+{"op":"mcm","clk":"7682809282","pt":1539319582489,"mc":[{"id":"1.149393102","rc":[{"ltp":2.08,"id":11054100},{"ltp":1.75,"id":16809709}]}]}
+{"op":"mcm","clk":"7682811626","pt":1539319641930,"mc":[{"id":"1.149393102","rc":[{"ltp":2.28,"id":11054100},{"ltp":1.77,"id":16809709}]}]}
+{"op":"mcm","clk":"7682814110","pt":1539319695096,"mc":[{"id":"1.149393102","rc":[{"ltp":2.1,"id":11054100},{"ltp":1.9,"id":16809709}]}]}
+{"op":"mcm","clk":"7682817184","pt":1539319762996,"mc":[{"id":"1.149393102","rc":[{"ltp":2.08,"id":11054100}]}]}
+{"op":"mcm","clk":"7682819799","pt":1539319816290,"mc":[{"id":"1.149393102","rc":[{"ltp":1.92,"id":16809709}]}]}
+{"op":"mcm","clk":"7682825888","pt":1539319935055,"mc":[{"id":"1.149393102","rc":[{"ltp":1.78,"id":11054100}]}]}
+{"op":"mcm","clk":"7682829096","pt":1539319999127,"mc":[{"id":"1.149393102","rc":[{"ltp":1.7,"id":11054100}]}]}
+{"op":"mcm","clk":"7682831334","pt":1539320057489,"mc":[{"id":"1.149393102","rc":[{"ltp":1.8,"id":11054100}]}]}
+{"op":"mcm","clk":"7682834322","pt":1539320121034,"mc":[{"id":"1.149393102","rc":[{"ltp":2.1,"id":11054100}]}]}
+{"op":"mcm","clk":"7682837524","pt":1539320181533,"mc":[{"id":"1.149393102","rc":[{"ltp":2.04,"id":11054100}]}]}
+{"op":"mcm","clk":"7682852601","pt":1539320300425,"mc":[{"id":"1.149393102","rc":[{"ltp":1.81,"id":16809709}]}]}
+{"op":"mcm","clk":"7682857756","pt":1539320402356,"mc":[{"id":"1.149393102","rc":[{"ltp":2.36,"id":11054100}]}]}
+{"op":"mcm","clk":"7682860943","pt":1539320476561,"mc":[{"id":"1.149393102","rc":[{"ltp":2.02,"id":11054100},{"ltp":1.74,"id":16809709}]}]}
+{"op":"mcm","clk":"7682867586","pt":1539320601482,"mc":[{"id":"1.149393102","rc":[{"ltp":2.14,"id":11054100}]}]}
+{"op":"mcm","clk":"7682870739","pt":1539320662851,"mc":[{"id":"1.149393102","rc":[{"ltp":2.42,"id":11054100}]}]}
+{"op":"mcm","clk":"7682873030","pt":1539320717547,"mc":[{"id":"1.149393102","rc":[{"ltp":3.2,"id":11054100}]}]}
+{"op":"mcm","clk":"7682875349","pt":1539320769662,"mc":[{"id":"1.149393102","rc":[{"ltp":2.88,"id":11054100},{"ltp":1.53,"id":16809709}]}]}
+{"op":"mcm","clk":"7682878629","pt":1539320842362,"mc":[{"id":"1.149393102","rc":[{"ltp":1.39,"id":16809709}]}]}
+{"op":"mcm","clk":"7682881664","pt":1539320903103,"mc":[{"id":"1.149393102","rc":[{"ltp":1.5,"id":16809709}]}]}
+{"op":"mcm","clk":"7682882734","pt":1539320923864,"mc":[{"id":"1.149393102","rc":[{"ltp":1.8,"id":16809709}]}]}
+{"op":"mcm","clk":"7682890027","pt":1539321078925,"mc":[{"id":"1.149393102","rc":[{"ltp":1.78,"id":11054100}]}]}
+{"op":"mcm","clk":"7682902379","pt":1539321140961,"mc":[{"id":"1.149393102","rc":[{"ltp":1.89,"id":11054100},{"ltp":2.1,"id":16809709}]}]}
+{"op":"mcm","clk":"7682905360","pt":1539321200711,"mc":[{"id":"1.149393102","rc":[{"ltp":2.06,"id":11054100},{"ltp":2.02,"id":16809709}]}]}
+{"op":"mcm","clk":"7682907887","pt":1539321256674,"mc":[{"id":"1.149393102","rc":[{"ltp":2.12,"id":11054100},{"ltp":1.89,"id":16809709}]}]}
+{"op":"mcm","clk":"7682910720","pt":1539321315697,"mc":[{"id":"1.149393102","rc":[{"ltp":2.38,"id":11054100},{"ltp":1.72,"id":16809709}]}]}
+{"op":"mcm","clk":"7682914170","pt":1539321383073,"mc":[{"id":"1.149393102","rc":[{"ltp":2.0,"id":11054100},{"ltp":1.99,"id":16809709}]}]}
+{"op":"mcm","clk":"7682924096","pt":1539321558585,"mc":[{"id":"1.149393102","rc":[{"ltp":1.91,"id":11054100}]}]}
+{"op":"mcm","clk":"7682927978","pt":1539321621579,"mc":[{"id":"1.149393102","rc":[{"ltp":2.02,"id":11054100},{"ltp":1.94,"id":16809709}]}]}
+{"op":"mcm","clk":"7682931818","pt":1539321682238,"mc":[{"id":"1.149393102","rc":[{"ltp":2.14,"id":11054100},{"ltp":1.88,"id":16809709}]}]}
+{"op":"mcm","clk":"7682935288","pt":1539321742360,"mc":[{"id":"1.149393102","rc":[{"ltp":1.98,"id":11054100},{"ltp":2.02,"id":16809709}]}]}
+{"op":"mcm","clk":"7682938598","pt":1539321802458,"mc":[{"id":"1.149393102","rc":[{"ltp":1.96,"id":11054100},{"ltp":2.04,"id":16809709}]}]}
+{"op":"mcm","clk":"7682941924","pt":1539321862015,"mc":[{"id":"1.149393102","rc":[{"ltp":1.89,"id":11054100},{"ltp":2.0,"id":16809709}]}]}
+{"op":"mcm","clk":"7682945062","pt":1539321923173,"mc":[{"id":"1.149393102","rc":[{"ltp":2.0,"id":11054100}]}]}
+{"op":"mcm","clk":"7682961366","pt":1539322041314,"mc":[{"id":"1.149393102","rc":[{"ltp":1.67,"id":11054100},{"ltp":2.4,"id":16809709}]}]}
+{"op":"mcm","clk":"7682964495","pt":1539322098217,"mc":[{"id":"1.149393102","rc":[{"ltp":1.66,"id":11054100},{"ltp":3.3,"id":16809709}]}]}
+{"op":"mcm","clk":"7682967261","pt":1539322162862,"mc":[{"id":"1.149393102","rc":[{"ltp":1.43,"id":11054100}]}]}
+{"op":"mcm","clk":"7682969903","pt":1539322222785,"mc":[{"id":"1.149393102","rc":[{"ltp":1.63,"id":11054100}]}]}
+{"op":"mcm","clk":"7682973322","pt":1539322283092,"mc":[{"id":"1.149393102","rc":[{"ltp":1.7,"id":11054100},{"ltp":2.44,"id":16809709}]}]}
+{"op":"mcm","clk":"7682976734","pt":1539322341960,"mc":[{"id":"1.149393102","rc":[{"ltp":1.95,"id":11054100},{"ltp":2.14,"id":16809709}]}]}
+{"op":"mcm","clk":"7682980886","pt":1539322402524,"mc":[{"id":"1.149393102","rc":[{"ltp":2.1,"id":11054100},{"ltp":1.91,"id":16809709}]}]}
+{"op":"mcm","clk":"7682984441","pt":1539322463073,"mc":[{"id":"1.149393102","rc":[{"ltp":2.16,"id":11054100},{"ltp":1.87,"id":16809709}]}]}
+{"op":"mcm","clk":"7682987356","pt":1539322522873,"mc":[{"id":"1.149393102","rc":[{"ltp":2.08,"id":11054100},{"ltp":1.91,"id":16809709}]}]}
+{"op":"mcm","clk":"7682990159","pt":1539322581264,"mc":[{"id":"1.149393102","rc":[{"ltp":1.92,"id":11054100},{"ltp":2.1,"id":16809709}]}]}
+{"op":"mcm","clk":"7682992785","pt":1539322641175,"mc":[{"id":"1.149393102","rc":[{"ltp":2.22,"id":11054100},{"ltp":1.83,"id":16809709}]}]}
+{"op":"mcm","clk":"7682996071","pt":1539322702415,"mc":[{"id":"1.149393102","rc":[{"ltp":1.86,"id":11054100},{"ltp":2.16,"id":16809709}]}]}
+{"op":"mcm","clk":"7682999306","pt":1539322761997,"mc":[{"id":"1.149393102","rc":[{"ltp":2.02,"id":11054100},{"ltp":1.92,"id":16809709}]}]}
+{"op":"mcm","clk":"7683002682","pt":1539322820225,"mc":[{"id":"1.149393102","rc":[{"ltp":2.28,"id":11054100},{"ltp":1.78,"id":16809709}]}]}
+{"op":"mcm","clk":"7683006060","pt":1539322882283,"mc":[{"id":"1.149393102","rc":[{"ltp":2.18,"id":11054100},{"ltp":1.85,"id":16809709}]}]}
+{"op":"mcm","clk":"7683019194","pt":1539322941758,"mc":[{"id":"1.149393102","rc":[{"ltp":2.42,"id":11054100},{"ltp":1.71,"id":16809709}]}]}
+{"op":"mcm","clk":"7683022573","pt":1539323001041,"mc":[{"id":"1.149393102","rc":[{"ltp":2.56,"id":11054100},{"ltp":1.68,"id":16809709}]}]}
+{"op":"mcm","clk":"7683026040","pt":1539323061932,"mc":[{"id":"1.149393102","rc":[{"ltp":2.92,"id":11054100},{"ltp":1.6,"id":16809709}]}]}
+{"op":"mcm","clk":"7683029668","pt":1539323122968,"mc":[{"id":"1.149393102","rc":[{"ltp":3.15,"id":11054100},{"ltp":1.46,"id":16809709}]}]}
+{"op":"mcm","clk":"7683032751","pt":1539323182727,"mc":[{"id":"1.149393102","rc":[{"ltp":3.5,"id":11054100},{"ltp":1.4,"id":16809709}]}]}
+{"op":"mcm","clk":"7683035887","pt":1539323241383,"mc":[{"id":"1.149393102","rc":[{"ltp":3.65,"id":11054100}]}]}
+{"op":"mcm","clk":"7683039439","pt":1539323303106,"mc":[{"id":"1.149393102","rc":[{"ltp":3.45,"id":11054100},{"ltp":1.41,"id":16809709}]}]}
+{"op":"mcm","clk":"7683042932","pt":1539323362651,"mc":[{"id":"1.149393102","rc":[{"ltp":2.6,"id":11054100},{"ltp":1.6,"id":16809709}]}]}
+{"op":"mcm","clk":"7683046799","pt":1539323421293,"mc":[{"id":"1.149393102","rc":[{"ltp":1.98,"id":11054100},{"ltp":1.83,"id":16809709}]}]}
+{"op":"mcm","clk":"7683051116","pt":1539323482067,"mc":[{"id":"1.149393102","rc":[{"ltp":1.61,"id":11054100},{"ltp":2.64,"id":16809709}]}]}
+{"op":"mcm","clk":"7683055009","pt":1539323543227,"mc":[{"id":"1.149393102","rc":[{"ltp":2.56,"id":11054100},{"ltp":1.74,"id":16809709}]}]}
+{"op":"mcm","clk":"7683058686","pt":1539323602671,"mc":[{"id":"1.149393102","rc":[{"ltp":2.34,"id":11054100},{"ltp":1.89,"id":16809709}]}]}
+{"op":"mcm","clk":"7683062858","pt":1539323662156,"mc":[{"id":"1.149393102","rc":[{"ltp":4.5,"id":11054100},{"ltp":1.29,"id":16809709}]}]}
+{"op":"mcm","clk":"7683066915","pt":1539323723093,"mc":[{"id":"1.149393102","rc":[{"ltp":7.6,"id":11054100},{"ltp":1.15,"id":16809709}]}]}
+{"op":"mcm","clk":"7683071096","pt":1539323782978,"mc":[{"id":"1.149393102","rc":[{"ltp":8.6,"id":11054100},{"ltp":1.14,"id":16809709}]}]}
+{"op":"mcm","clk":"7683084372","pt":1539323843152,"mc":[{"id":"1.149393102","rc":[{"ltp":1.13,"id":16809709}]}]}
+{"op":"mcm","clk":"7683088255","pt":1539323902535,"mc":[{"id":"1.149393102","rc":[{"ltp":25.0,"id":11054100},{"ltp":1.02,"id":16809709}]}]}
+{"op":"mcm","clk":"7683090666","pt":1539323946938,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:22:00.000Z","suspendTime":"2018-10-12T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"ACTIVE","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:22:00.000Z","version":2450425117,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"},"rc":[{"ltp":34.0,"id":11054100},{"ltp":1.03,"id":16809709}]}]}
+{"op":"mcm","clk":"7683093834","pt":1539324013120,"mc":[{"id":"1.149393102","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950377","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T04:22:00.000Z","suspendTime":"2018-10-12T04:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T06:00:07.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":16809709,"name":"Melichar/Peschke"},{"status":"LOSER","sortPriority":2,"id":11054100,"name":"Dzalamidze/Kudermetova"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T04:22:00.000Z","version":2450425655,"name":"Match Odds","eventName":"Melichar/Peschke v Dzalamidze/Kudermetova"}}]}

@@ -1,0 +1,133 @@
+{"op":"mcm","clk":"7677725398","pt":1538994022043,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T05:00:00.000Z","suspendTime":"2018-10-09T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T05:00:00.000Z","version":2446098515,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7677735497","pt":1538994226844,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T05:00:00.000Z","suspendTime":"2018-10-09T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T05:00:00.000Z","version":2446098515,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7679718568","pt":1539018333678,"mc":[{"id":"1.149257314","rc":[{"ltp":1.6,"id":7797772}]}]}
+{"op":"mcm","clk":"7680492616","pt":1539025474715,"mc":[{"id":"1.149257314","rc":[{"ltp":1.5,"id":7797772}]}]}
+{"op":"mcm","clk":"7680792261","pt":1539028705354,"mc":[{"id":"1.149257314","rc":[{"ltp":2.8,"id":9125686},{"ltp":1.56,"id":7797772}]}]}
+{"op":"mcm","clk":"7680896313","pt":1539030253137,"mc":[{"id":"1.149257314","rc":[{"ltp":1.5,"id":7797772}]}]}
+{"op":"mcm","clk":"7680972954","pt":1539032614585,"mc":[{"id":"1.149257314","rc":[{"ltp":1.49,"id":7797772}]}]}
+{"op":"mcm","clk":"7680974144","pt":1539032664859,"mc":[{"id":"1.149257314","rc":[{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7680977400","pt":1539032816157,"mc":[{"id":"1.149257314","rc":[{"ltp":3.1,"id":9125686},{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7681473614","pt":1539045693448,"mc":[{"id":"1.149257314","rc":[{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7681623410","pt":1539049439829,"mc":[{"id":"1.149257314","rc":[{"ltp":3.15,"id":9125686}]}]}
+{"op":"mcm","clk":"7681790042","pt":1539054021239,"mc":[{"id":"1.149257314","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7681791227","pt":1539054070413,"mc":[{"id":"1.149257314","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7681814323","pt":1539054676232,"mc":[{"id":"1.149257314","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7681818889","pt":1539054862676,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7681820531","pt":1539054918712,"mc":[{"id":"1.149257314","rc":[{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7681822216","pt":1539054981569,"mc":[{"id":"1.149257314","rc":[{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7681830601","pt":1539055039360,"mc":[{"id":"1.149257314","rc":[{"ltp":3.3,"id":9125686},{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7681832437","pt":1539055108324,"mc":[{"id":"1.149257314","rc":[{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7681869419","pt":1539056129932,"mc":[{"id":"1.149257314","rc":[{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7681872972","pt":1539056252490,"mc":[{"id":"1.149257314","rc":[{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7681882869","pt":1539056645210,"mc":[{"id":"1.149257314","rc":[{"ltp":3.45,"id":9125686}]}]}
+{"op":"mcm","clk":"7681904071","pt":1539057205233,"mc":[{"id":"1.149257314","rc":[{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7682004577","pt":1539059901375,"mc":[{"id":"1.149257314","rc":[{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7682034328","pt":1539060511807,"mc":[{"id":"1.149257314","rc":[{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7682038531","pt":1539060633381,"mc":[{"id":"1.149257314","rc":[{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7682048249","pt":1539060988388,"mc":[{"id":"1.149257314","rc":[{"ltp":3.5,"id":9125686},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7682053882","pt":1539061174934,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T05:15:00.000Z","suspendTime":"2018-10-09T05:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T05:15:00.000Z","version":2447058145,"name":"Match Odds","eventName":"Gerasimov v Safiullin"},"rc":[{"ltp":3.6,"id":9125686},{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7682055233","pt":1539061219433,"mc":[{"id":"1.149257314","rc":[{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7682072201","pt":1539061466861,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:30:00.000Z","suspendTime":"2018-10-09T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:30:00.000Z","version":2447060046,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7682076186","pt":1539061584374,"mc":[{"id":"1.149257314","rc":[{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7682131864","pt":1539062962341,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:24:00.000Z","suspendTime":"2018-10-09T11:24:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:24:00.000Z","version":2447071908,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7682347133","pt":1539067594575,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7682457669","pt":1539069803723,"mc":[{"id":"1.149257314","rc":[{"ltp":3.3,"id":9125686},{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7682460261","pt":1539069866539,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:39:00.000Z","suspendTime":"2018-10-09T11:39:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:39:00.000Z","version":2447121747,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7682490798","pt":1539070459046,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:31:00.000Z","suspendTime":"2018-10-09T11:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:31:00.000Z","version":2447124105,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7682503746","pt":1539070714988,"mc":[{"id":"1.149257314","rc":[{"ltp":3.2,"id":9125686},{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7682679180","pt":1539074518935,"mc":[{"id":"1.149257314","rc":[{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7682769378","pt":1539076458922,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:06:00.000Z","suspendTime":"2018-10-09T11:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:06:00.000Z","version":2447170097,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7682823047","pt":1539077494586,"mc":[{"id":"1.149257314","rc":[{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7682858887","pt":1539078152187,"mc":[{"id":"1.149257314","rc":[{"ltp":3.35,"id":9125686}]}]}
+{"op":"mcm","clk":"7682861566","pt":1539078214736,"mc":[{"id":"1.149257314","rc":[{"ltp":3.45,"id":9125686}]}]}
+{"op":"mcm","clk":"7682914719","pt":1539079228266,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7682918516","pt":1539079289112,"mc":[{"id":"1.149257314","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7682929531","pt":1539079350799,"mc":[{"id":"1.149257314","rc":[{"ltp":3.4,"id":9125686},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7682937314","pt":1539079470000,"mc":[{"id":"1.149257314","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7682970838","pt":1539080014957,"mc":[{"id":"1.149257314","rc":[{"ltp":3.3,"id":9125686},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7682974297","pt":1539080073745,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7683005966","pt":1539080485134,"mc":[{"id":"1.149257314","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7683008600","pt":1539080530361,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7683030570","pt":1539080914355,"mc":[{"id":"1.149257314","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7683033763","pt":1539080973542,"mc":[{"id":"1.149257314","rc":[{"ltp":3.4,"id":9125686}]}]}
+{"op":"mcm","clk":"7683041086","pt":1539081087283,"mc":[{"id":"1.149257314","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7683059922","pt":1539081274921,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:33:00.000Z","suspendTime":"2018-10-09T10:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:33:00.000Z","version":2447229037,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}
+{"op":"mcm","clk":"7683070406","pt":1539081451398,"mc":[{"id":"1.149257314","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7683073242","pt":1539081502879,"mc":[{"id":"1.149257314","rc":[{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7683121003","pt":1539082174239,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:33:00.000Z","suspendTime":"2018-10-09T10:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:33:00.000Z","version":2447238417,"name":"Match Odds","eventName":"Gerasimov v Safiullin"},"rc":[{"ltp":3.2,"id":9125686},{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7683124508","pt":1539082234991,"mc":[{"id":"1.149257314","rc":[{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7683128114","pt":1539082294163,"mc":[{"id":"1.149257314","rc":[{"ltp":3.5,"id":9125686},{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7683131869","pt":1539082353531,"mc":[{"id":"1.149257314","rc":[{"ltp":3.55,"id":9125686},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7683135788","pt":1539082413997,"mc":[{"id":"1.149257314","rc":[{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7683139440","pt":1539082469346,"mc":[{"id":"1.149257314","rc":[{"ltp":3.75,"id":9125686},{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7683143424","pt":1539082533118,"mc":[{"id":"1.149257314","rc":[{"ltp":3.5,"id":9125686},{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7683147139","pt":1539082594429,"mc":[{"id":"1.149257314","rc":[{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7683150439","pt":1539082654794,"mc":[{"id":"1.149257314","rc":[{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7683157223","pt":1539082770450,"mc":[{"id":"1.149257314","rc":[{"ltp":1.49,"id":7797772}]}]}
+{"op":"mcm","clk":"7683164532","pt":1539082886543,"mc":[{"id":"1.149257314","rc":[{"ltp":3.4,"id":9125686},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7683176427","pt":1539082954338,"mc":[{"id":"1.149257314","rc":[{"ltp":3.5,"id":9125686},{"ltp":1.48,"id":7797772}]}]}
+{"op":"mcm","clk":"7683179937","pt":1539083014686,"mc":[{"id":"1.149257314","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7683183228","pt":1539083072839,"mc":[{"id":"1.149257314","rc":[{"ltp":3.05,"id":9125686},{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7683188937","pt":1539083181224,"mc":[{"id":"1.149257314","rc":[{"ltp":3.35,"id":9125686},{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7683196564","pt":1539083314492,"mc":[{"id":"1.149257314","rc":[{"ltp":3.0,"id":9125686}]}]}
+{"op":"mcm","clk":"7683199957","pt":1539083372347,"mc":[{"id":"1.149257314","rc":[{"ltp":3.95,"id":9125686},{"ltp":1.34,"id":7797772}]}]}
+{"op":"mcm","clk":"7683203332","pt":1539083429569,"mc":[{"id":"1.149257314","rc":[{"ltp":1.29,"id":7797772}]}]}
+{"op":"mcm","clk":"7683206691","pt":1539083494467,"mc":[{"id":"1.149257314","rc":[{"ltp":3.7,"id":9125686},{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7683209219","pt":1539083554188,"mc":[{"id":"1.149257314","rc":[{"ltp":5.7,"id":9125686},{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683212016","pt":1539083614993,"mc":[{"id":"1.149257314","rc":[{"ltp":6.0,"id":9125686}]}]}
+{"op":"mcm","clk":"7683214918","pt":1539083673631,"mc":[{"id":"1.149257314","rc":[{"ltp":6.4,"id":9125686},{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683217807","pt":1539083733994,"mc":[{"id":"1.149257314","rc":[{"ltp":5.5,"id":9125686},{"ltp":1.23,"id":7797772}]}]}
+{"op":"mcm","clk":"7683220846","pt":1539083795043,"mc":[{"id":"1.149257314","rc":[{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683230978","pt":1539083853902,"mc":[{"id":"1.149257314","rc":[{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683233535","pt":1539083913601,"mc":[{"id":"1.149257314","rc":[{"ltp":6.4,"id":9125686}]}]}
+{"op":"mcm","clk":"7683235980","pt":1539083974667,"mc":[{"id":"1.149257314","rc":[{"ltp":1.17,"id":7797772}]}]}
+{"op":"mcm","clk":"7683242153","pt":1539084094092,"mc":[{"id":"1.149257314","rc":[{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7683245134","pt":1539084152320,"mc":[{"id":"1.149257314","rc":[{"ltp":8.0,"id":9125686},{"ltp":1.13,"id":7797772}]}]}
+{"op":"mcm","clk":"7683248290","pt":1539084213800,"mc":[{"id":"1.149257314","rc":[{"ltp":8.6,"id":9125686}]}]}
+{"op":"mcm","clk":"7683252256","pt":1539084274349,"mc":[{"id":"1.149257314","rc":[{"ltp":8.0,"id":9125686},{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7683255855","pt":1539084334014,"mc":[{"id":"1.149257314","rc":[{"ltp":1.17,"id":7797772}]}]}
+{"op":"mcm","clk":"7683261759","pt":1539084454947,"mc":[{"id":"1.149257314","rc":[{"ltp":1.19,"id":7797772}]}]}
+{"op":"mcm","clk":"7683264721","pt":1539084514906,"mc":[{"id":"1.149257314","rc":[{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7683267856","pt":1539084574010,"mc":[{"id":"1.149257314","rc":[{"ltp":1.16,"id":7797772}]}]}
+{"op":"mcm","clk":"7683271783","pt":1539084632374,"mc":[{"id":"1.149257314","rc":[{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683286146","pt":1539084753982,"mc":[{"id":"1.149257314","rc":[{"ltp":6.4,"id":9125686},{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683289131","pt":1539084814047,"mc":[{"id":"1.149257314","rc":[{"ltp":1.11,"id":7797772}]}]}
+{"op":"mcm","clk":"7683291993","pt":1539084873415,"mc":[{"id":"1.149257314","rc":[{"ltp":1.05,"id":7797772}]}]}
+{"op":"mcm","clk":"7683298219","pt":1539084994615,"mc":[{"id":"1.149257314","rc":[{"ltp":1.06,"id":7797772}]}]}
+{"op":"mcm","clk":"7683301299","pt":1539085054684,"mc":[{"id":"1.149257314","rc":[{"ltp":1.05,"id":7797772}]}]}
+{"op":"mcm","clk":"7683304356","pt":1539085114449,"mc":[{"id":"1.149257314","rc":[{"ltp":1.04,"id":7797772}]}]}
+{"op":"mcm","clk":"7683307521","pt":1539085174891,"mc":[{"id":"1.149257314","rc":[{"ltp":26.0,"id":9125686}]}]}
+{"op":"mcm","clk":"7683313483","pt":1539085294965,"mc":[{"id":"1.149257314","rc":[{"ltp":1.05,"id":7797772}]}]}
+{"op":"mcm","clk":"7683316558","pt":1539085353107,"mc":[{"id":"1.149257314","rc":[{"ltp":21.0,"id":9125686}]}]}
+{"op":"mcm","clk":"7683322544","pt":1539085474508,"mc":[{"id":"1.149257314","rc":[{"ltp":6.4,"id":9125686},{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683324976","pt":1539085518606,"mc":[{"id":"1.149257314","rc":[{"ltp":7.2,"id":9125686},{"ltp":1.16,"id":7797772}]}]}
+{"op":"mcm","clk":"7683329239","pt":1539085592571,"mc":[{"id":"1.149257314","rc":[{"ltp":6.0,"id":9125686},{"ltp":1.15,"id":7797772}]}]}
+{"op":"mcm","clk":"7683340371","pt":1539085653207,"mc":[{"id":"1.149257314","rc":[{"ltp":7.6,"id":9125686},{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683343350","pt":1539085714967,"mc":[{"id":"1.149257314","rc":[{"ltp":5.1,"id":9125686},{"ltp":1.23,"id":7797772}]}]}
+{"op":"mcm","clk":"7683345694","pt":1539085773544,"mc":[{"id":"1.149257314","rc":[{"ltp":1.25,"id":7797772}]}]}
+{"op":"mcm","clk":"7683347938","pt":1539085835005,"mc":[{"id":"1.149257314","rc":[{"ltp":5.0,"id":9125686},{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683350059","pt":1539085891284,"mc":[{"id":"1.149257314","rc":[{"ltp":5.9,"id":9125686}]}]}
+{"op":"mcm","clk":"7683352458","pt":1539085952235,"mc":[{"id":"1.149257314","rc":[{"ltp":9.2,"id":9125686},{"ltp":1.12,"id":7797772}]}]}
+{"op":"mcm","clk":"7683355257","pt":1539086014979,"mc":[{"id":"1.149257314","rc":[{"ltp":7.2,"id":9125686},{"ltp":1.16,"id":7797772}]}]}
+{"op":"mcm","clk":"7683358366","pt":1539086074269,"mc":[{"id":"1.149257314","rc":[{"ltp":7.6,"id":9125686},{"ltp":1.15,"id":7797772}]}]}
+{"op":"mcm","clk":"7683361687","pt":1539086135011,"mc":[{"id":"1.149257314","rc":[{"ltp":5.9,"id":9125686},{"ltp":1.21,"id":7797772}]}]}
+{"op":"mcm","clk":"7683363964","pt":1539086190991,"mc":[{"id":"1.149257314","rc":[{"ltp":5.3,"id":9125686},{"ltp":1.22,"id":7797772}]}]}
+{"op":"mcm","clk":"7683366855","pt":1539086253753,"mc":[{"id":"1.149257314","rc":[{"ltp":5.5,"id":9125686}]}]}
+{"op":"mcm","clk":"7683369413","pt":1539086315026,"mc":[{"id":"1.149257314","rc":[{"ltp":5.7,"id":9125686},{"ltp":1.21,"id":7797772}]}]}
+{"op":"mcm","clk":"7683372027","pt":1539086374840,"mc":[{"id":"1.149257314","rc":[{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683375201","pt":1539086434244,"mc":[{"id":"1.149257314","rc":[{"ltp":6.6,"id":9125686},{"ltp":1.19,"id":7797772}]}]}
+{"op":"mcm","clk":"7683378434","pt":1539086493177,"mc":[{"id":"1.149257314","rc":[{"ltp":1.17,"id":7797772}]}]}
+{"op":"mcm","clk":"7683389037","pt":1539086554345,"mc":[{"id":"1.149257314","rc":[{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683392084","pt":1539086614433,"mc":[{"id":"1.149257314","rc":[{"ltp":1.23,"id":7797772}]}]}
+{"op":"mcm","clk":"7683395144","pt":1539086672494,"mc":[{"id":"1.149257314","rc":[{"ltp":5.4,"id":9125686},{"ltp":1.22,"id":7797772}]}]}
+{"op":"mcm","clk":"7683398216","pt":1539086732556,"mc":[{"id":"1.149257314","rc":[{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7683400560","pt":1539086782590,"mc":[{"id":"1.149257314","rc":[{"ltp":1.18,"id":7797772}]}]}
+{"op":"mcm","clk":"7683406921","pt":1539086912810,"mc":[{"id":"1.149257314","rc":[{"ltp":1.23,"id":7797772}]}]}
+{"op":"mcm","clk":"7683410113","pt":1539086973397,"mc":[{"id":"1.149257314","rc":[{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7683413534","pt":1539087034473,"mc":[{"id":"1.149257314","rc":[{"ltp":17.5,"id":9125686},{"ltp":1.06,"id":7797772}]}]}
+{"op":"mcm","clk":"7683417528","pt":1539087094835,"mc":[{"id":"1.149257314","rc":[{"ltp":1.1,"id":7797772}]}]}
+{"op":"mcm","clk":"7683420865","pt":1539087154780,"mc":[{"id":"1.149257314","rc":[{"ltp":6.8,"id":9125686},{"ltp":1.17,"id":7797772}]}]}
+{"op":"mcm","clk":"7683423809","pt":1539087214558,"mc":[{"id":"1.149257314","rc":[{"ltp":6.0,"id":9125686},{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7683427779","pt":1539087274405,"mc":[{"id":"1.149257314","rc":[{"ltp":12.5,"id":9125686},{"ltp":1.09,"id":7797772}]}]}
+{"op":"mcm","clk":"7683431809","pt":1539087334411,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:33:00.000Z","suspendTime":"2018-10-09T10:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:33:00.000Z","version":2447290358,"name":"Match Odds","eventName":"Gerasimov v Safiullin"},"rc":[{"ltp":1.02,"id":7797772}]}]}
+{"op":"mcm","clk":"7683434246","pt":1539087371545,"mc":[{"id":"1.149257314","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:33:00.000Z","suspendTime":"2018-10-09T10:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T12:16:05.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"LOSER","sortPriority":2,"id":9125686,"name":"Roman Safiullin"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:33:00.000Z","version":2447291780,"name":"Match Odds","eventName":"Gerasimov v Safiullin"}}]}

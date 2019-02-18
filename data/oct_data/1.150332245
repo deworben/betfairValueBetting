@@ -1,0 +1,102 @@
+{"op":"mcm","clk":"7765263595","pt":1540666812855,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480240281,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7765384160","pt":1540667435822,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480240281,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7767589727","pt":1540686593562,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2480955773,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7778243260","pt":1540759430609,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:30:00.000Z","suspendTime":"2018-10-29T19:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:30:00.000Z","version":2483822550,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7780573930","pt":1540800508904,"mc":[{"id":"1.150332245","rc":[{"ltp":2.18,"id":2415499},{"ltp":1.85,"id":7234519}]}]}
+{"op":"mcm","clk":"7781530376","pt":1540812624538,"mc":[{"id":"1.150332245","rc":[{"ltp":2.0,"id":2415499}]}]}
+{"op":"mcm","clk":"7782346743","pt":1540823244974,"mc":[{"id":"1.150332245","rc":[{"ltp":1.91,"id":2415499}]}]}
+{"op":"mcm","clk":"7783093644","pt":1540834127971,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:25:00.000Z","suspendTime":"2018-10-29T19:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:25:00.000Z","version":2484858144,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7783129197","pt":1540834591519,"mc":[{"id":"1.150332245","rc":[{"ltp":1.92,"id":2415499},{"ltp":2.08,"id":7234519}]}]}
+{"op":"mcm","clk":"7783365035","pt":1540836633974,"mc":[{"id":"1.150332245","rc":[{"ltp":2.06,"id":7234519}]}]}
+{"op":"mcm","clk":"7783727896","pt":1540839392541,"mc":[{"id":"1.150332245","rc":[{"ltp":2.04,"id":7234519}]}]}
+{"op":"mcm","clk":"7783840478","pt":1540840127871,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:08:00.000Z","suspendTime":"2018-10-29T19:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:08:00.000Z","version":2485001308,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7783918295","pt":1540840651389,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:08:00.000Z","suspendTime":"2018-10-29T19:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:08:00.000Z","version":2485013573,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}
+{"op":"mcm","clk":"7783926438","pt":1540840707537,"mc":[{"id":"1.150332245","rc":[{"ltp":1.95,"id":2415499},{"ltp":1.95,"id":7234519}]}]}
+{"op":"mcm","clk":"7783940792","pt":1540840810503,"mc":[{"id":"1.150332245","rc":[{"ltp":2.04,"id":2415499}]}]}
+{"op":"mcm","clk":"7783977480","pt":1540841004241,"mc":[{"id":"1.150332245","rc":[{"ltp":1.95,"id":2415499}]}]}
+{"op":"mcm","clk":"7784006065","pt":1540841253547,"mc":[{"id":"1.150332245","rc":[{"ltp":2.02,"id":2415499},{"ltp":1.98,"id":7234519}]}]}
+{"op":"mcm","clk":"7784012394","pt":1540841307675,"mc":[{"id":"1.150332245","rc":[{"ltp":1.88,"id":2415499},{"ltp":2.12,"id":7234519}]}]}
+{"op":"mcm","clk":"7784020352","pt":1540841371083,"mc":[{"id":"1.150332245","rc":[{"ltp":1.8,"id":2415499}]}]}
+{"op":"mcm","clk":"7784027993","pt":1540841432572,"mc":[{"id":"1.150332245","rc":[{"ltp":1.85,"id":2415499},{"ltp":2.16,"id":7234519}]}]}
+{"op":"mcm","clk":"7784036110","pt":1540841493755,"mc":[{"id":"1.150332245","rc":[{"ltp":1.68,"id":2415499}]}]}
+{"op":"mcm","clk":"7784044546","pt":1540841554305,"mc":[{"id":"1.150332245","rc":[{"ltp":1.5,"id":2415499},{"ltp":2.84,"id":7234519}]}]}
+{"op":"mcm","clk":"7784052600","pt":1540841612257,"mc":[{"id":"1.150332245","rc":[{"ltp":1.37,"id":2415499}]}]}
+{"op":"mcm","clk":"7784068874","pt":1540841734316,"mc":[{"id":"1.150332245","rc":[{"ltp":1.38,"id":2415499}]}]}
+{"op":"mcm","clk":"7784076806","pt":1540841793125,"mc":[{"id":"1.150332245","rc":[{"ltp":1.34,"id":2415499},{"ltp":3.9,"id":7234519}]}]}
+{"op":"mcm","clk":"7784104754","pt":1540841913447,"mc":[{"id":"1.150332245","rc":[{"ltp":4.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784113284","pt":1540841974202,"mc":[{"id":"1.150332245","rc":[{"ltp":1.33,"id":2415499},{"ltp":3.7,"id":7234519}]}]}
+{"op":"mcm","clk":"7784121013","pt":1540842032353,"mc":[{"id":"1.150332245","rc":[{"ltp":1.38,"id":2415499}]}]}
+{"op":"mcm","clk":"7784129320","pt":1540842094324,"mc":[{"id":"1.150332245","rc":[{"ltp":1.39,"id":2415499}]}]}
+{"op":"mcm","clk":"7784137075","pt":1540842154157,"mc":[{"id":"1.150332245","rc":[{"ltp":1.35,"id":2415499}]}]}
+{"op":"mcm","clk":"7784144432","pt":1540842212627,"mc":[{"id":"1.150332245","rc":[{"ltp":1.48,"id":2415499},{"ltp":3.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784152543","pt":1540842273860,"mc":[{"id":"1.150332245","rc":[{"ltp":1.42,"id":2415499}]}]}
+{"op":"mcm","clk":"7784160559","pt":1540842334216,"mc":[{"id":"1.150332245","rc":[{"ltp":1.34,"id":2415499},{"ltp":4.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784177631","pt":1540842453719,"mc":[{"id":"1.150332245","rc":[{"ltp":3.85,"id":7234519}]}]}
+{"op":"mcm","clk":"7784186499","pt":1540842513613,"mc":[{"id":"1.150332245","rc":[{"ltp":1.33,"id":2415499},{"ltp":4.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784195203","pt":1540842572857,"mc":[{"id":"1.150332245","rc":[{"ltp":1.34,"id":2415499},{"ltp":4.3,"id":7234519}]}]}
+{"op":"mcm","clk":"7784204127","pt":1540842633469,"mc":[{"id":"1.150332245","rc":[{"ltp":1.35,"id":2415499},{"ltp":3.85,"id":7234519}]}]}
+{"op":"mcm","clk":"7784213228","pt":1540842694339,"mc":[{"id":"1.150332245","rc":[{"ltp":1.55,"id":2415499},{"ltp":2.8,"id":7234519}]}]}
+{"op":"mcm","clk":"7784233659","pt":1540842754101,"mc":[{"id":"1.150332245","rc":[{"ltp":1.67,"id":2415499},{"ltp":2.62,"id":7234519}]}]}
+{"op":"mcm","clk":"7784241851","pt":1540842814079,"mc":[{"id":"1.150332245","rc":[{"ltp":1.53,"id":2415499},{"ltp":2.92,"id":7234519}]}]}
+{"op":"mcm","clk":"7784249560","pt":1540842873249,"mc":[{"id":"1.150332245","rc":[{"ltp":1.45,"id":2415499}]}]}
+{"op":"mcm","clk":"7784257188","pt":1540842934210,"mc":[{"id":"1.150332245","rc":[{"ltp":1.72,"id":2415499},{"ltp":2.36,"id":7234519}]}]}
+{"op":"mcm","clk":"7784264585","pt":1540842992919,"mc":[{"id":"1.150332245","rc":[{"ltp":1.75,"id":2415499},{"ltp":2.34,"id":7234519}]}]}
+{"op":"mcm","clk":"7784272251","pt":1540843053342,"mc":[{"id":"1.150332245","rc":[{"ltp":1.9,"id":2415499},{"ltp":2.24,"id":7234519}]}]}
+{"op":"mcm","clk":"7784279831","pt":1540843113769,"mc":[{"id":"1.150332245","rc":[{"ltp":1.95,"id":2415499},{"ltp":2.04,"id":7234519}]}]}
+{"op":"mcm","clk":"7784286930","pt":1540843173611,"mc":[{"id":"1.150332245","rc":[{"ltp":2.22,"id":7234519}]}]}
+{"op":"mcm","clk":"7784294095","pt":1540843234003,"mc":[{"id":"1.150332245","rc":[{"ltp":1.84,"id":2415499},{"ltp":2.2,"id":7234519}]}]}
+{"op":"mcm","clk":"7784300797","pt":1540843293757,"mc":[{"id":"1.150332245","rc":[{"ltp":1.86,"id":2415499},{"ltp":2.16,"id":7234519}]}]}
+{"op":"mcm","clk":"7784307816","pt":1540843354254,"mc":[{"id":"1.150332245","rc":[{"ltp":1.94,"id":2415499},{"ltp":2.06,"id":7234519}]}]}
+{"op":"mcm","clk":"7784315087","pt":1540843414367,"mc":[{"id":"1.150332245","rc":[{"ltp":1.79,"id":2415499},{"ltp":2.04,"id":7234519}]}]}
+{"op":"mcm","clk":"7784322202","pt":1540843472298,"mc":[{"id":"1.150332245","rc":[{"ltp":1.72,"id":2415499},{"ltp":2.4,"id":7234519}]}]}
+{"op":"mcm","clk":"7784329700","pt":1540843533938,"mc":[{"id":"1.150332245","rc":[{"ltp":1.71,"id":2415499},{"ltp":2.38,"id":7234519}]}]}
+{"op":"mcm","clk":"7784337560","pt":1540843593775,"mc":[{"id":"1.150332245","rc":[{"ltp":1.8,"id":2415499}]}]}
+{"op":"mcm","clk":"7784357348","pt":1540843654247,"mc":[{"id":"1.150332245","rc":[{"ltp":1.68,"id":2415499}]}]}
+{"op":"mcm","clk":"7784365181","pt":1540843712540,"mc":[{"id":"1.150332245","rc":[{"ltp":1.95,"id":2415499},{"ltp":2.14,"id":7234519}]}]}
+{"op":"mcm","clk":"7784373658","pt":1540843774139,"mc":[{"id":"1.150332245","rc":[{"ltp":2.2,"id":2415499},{"ltp":1.83,"id":7234519}]}]}
+{"op":"mcm","clk":"7784382073","pt":1540843834154,"mc":[{"id":"1.150332245","rc":[{"ltp":1.84,"id":2415499},{"ltp":2.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784389736","pt":1540843890610,"mc":[{"id":"1.150332245","rc":[{"ltp":2.1,"id":2415499},{"ltp":1.92,"id":7234519}]}]}
+{"op":"mcm","clk":"7784397618","pt":1540843951334,"mc":[{"id":"1.150332245","rc":[{"ltp":1.77,"id":2415499}]}]}
+{"op":"mcm","clk":"7784405522","pt":1540844014173,"mc":[{"id":"1.150332245","rc":[{"ltp":1.73,"id":2415499},{"ltp":2.38,"id":7234519}]}]}
+{"op":"mcm","clk":"7784413256","pt":1540844073528,"mc":[{"id":"1.150332245","rc":[{"ltp":1.63,"id":2415499}]}]}
+{"op":"mcm","clk":"7784420759","pt":1540844133759,"mc":[{"id":"1.150332245","rc":[{"ltp":1.71,"id":2415499},{"ltp":2.42,"id":7234519}]}]}
+{"op":"mcm","clk":"7784428462","pt":1540844194149,"mc":[{"id":"1.150332245","rc":[{"ltp":1.51,"id":2415499},{"ltp":2.96,"id":7234519}]}]}
+{"op":"mcm","clk":"7784436065","pt":1540844253158,"mc":[{"id":"1.150332245","rc":[{"ltp":1.28,"id":2415499},{"ltp":4.5,"id":7234519}]}]}
+{"op":"mcm","clk":"7784443079","pt":1540844312200,"mc":[{"id":"1.150332245","rc":[{"ltp":1.29,"id":2415499},{"ltp":4.4,"id":7234519}]}]}
+{"op":"mcm","clk":"7784449921","pt":1540844373361,"mc":[{"id":"1.150332245","rc":[{"ltp":1.27,"id":2415499}]}]}
+{"op":"mcm","clk":"7784456826","pt":1540844433263,"mc":[{"id":"1.150332245","rc":[{"ltp":4.7,"id":7234519}]}]}
+{"op":"mcm","clk":"7784482765","pt":1540844553952,"mc":[{"id":"1.150332245","rc":[{"ltp":1.26,"id":2415499}]}]}
+{"op":"mcm","clk":"7784495028","pt":1540844666416,"mc":[{"id":"1.150332245","rc":[{"ltp":1.32,"id":2415499},{"ltp":4.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784502045","pt":1540844733165,"mc":[{"id":"1.150332245","rc":[{"ltp":1.25,"id":2415499}]}]}
+{"op":"mcm","clk":"7784508624","pt":1540844794065,"mc":[{"id":"1.150332245","rc":[{"ltp":1.24,"id":2415499},{"ltp":5.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784514843","pt":1540844853106,"mc":[{"id":"1.150332245","rc":[{"ltp":1.15,"id":2415499},{"ltp":7.6,"id":7234519}]}]}
+{"op":"mcm","clk":"7784520598","pt":1540844912298,"mc":[{"id":"1.150332245","rc":[{"ltp":1.14,"id":2415499},{"ltp":6.2,"id":7234519}]}]}
+{"op":"mcm","clk":"7784526378","pt":1540844972808,"mc":[{"id":"1.150332245","rc":[{"ltp":1.09,"id":2415499}]}]}
+{"op":"mcm","clk":"7784531722","pt":1540845033794,"mc":[{"id":"1.150332245","rc":[{"ltp":1.17,"id":2415499},{"ltp":9.2,"id":7234519}]}]}
+{"op":"mcm","clk":"7784537302","pt":1540845094256,"mc":[{"id":"1.150332245","rc":[{"ltp":1.25,"id":2415499},{"ltp":5.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784542780","pt":1540845154296,"mc":[{"id":"1.150332245","rc":[{"ltp":1.18,"id":2415499}]}]}
+{"op":"mcm","clk":"7784548191","pt":1540845214333,"mc":[{"id":"1.150332245","rc":[{"ltp":1.19,"id":2415499},{"ltp":6.2,"id":7234519}]}]}
+{"op":"mcm","clk":"7784553994","pt":1540845273985,"mc":[{"id":"1.150332245","rc":[{"ltp":1.27,"id":2415499},{"ltp":4.6,"id":7234519}]}]}
+{"op":"mcm","clk":"7784560035","pt":1540845334118,"mc":[{"id":"1.150332245","rc":[{"ltp":1.32,"id":2415499},{"ltp":4.2,"id":7234519}]}]}
+{"op":"mcm","clk":"7784566204","pt":1540845394312,"mc":[{"id":"1.150332245","rc":[{"ltp":1.39,"id":2415499},{"ltp":3.6,"id":7234519}]}]}
+{"op":"mcm","clk":"7784583669","pt":1540845450934,"mc":[{"id":"1.150332245","rc":[{"ltp":1.47,"id":2415499},{"ltp":3.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784589688","pt":1540845514244,"mc":[{"id":"1.150332245","rc":[{"ltp":1.39,"id":2415499},{"ltp":3.5,"id":7234519}]}]}
+{"op":"mcm","clk":"7784594969","pt":1540845574090,"mc":[{"id":"1.150332245","rc":[{"ltp":1.31,"id":2415499},{"ltp":4.4,"id":7234519}]}]}
+{"op":"mcm","clk":"7784600438","pt":1540845632242,"mc":[{"id":"1.150332245","rc":[{"ltp":1.25,"id":2415499},{"ltp":5.4,"id":7234519}]}]}
+{"op":"mcm","clk":"7784606416","pt":1540845694279,"mc":[{"id":"1.150332245","rc":[{"ltp":5.1,"id":7234519}]}]}
+{"op":"mcm","clk":"7784612407","pt":1540845753290,"mc":[{"id":"1.150332245","rc":[{"ltp":1.27,"id":2415499},{"ltp":4.5,"id":7234519}]}]}
+{"op":"mcm","clk":"7784618061","pt":1540845814094,"mc":[{"id":"1.150332245","rc":[{"ltp":1.29,"id":2415499},{"ltp":4.6,"id":7234519}]}]}
+{"op":"mcm","clk":"7784623470","pt":1540845874244,"mc":[{"id":"1.150332245","rc":[{"ltp":1.15,"id":2415499},{"ltp":5.3,"id":7234519}]}]}
+{"op":"mcm","clk":"7784628543","pt":1540845934285,"mc":[{"id":"1.150332245","rc":[{"ltp":1.07,"id":2415499},{"ltp":15.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784633766","pt":1540845993966,"mc":[{"id":"1.150332245","rc":[{"ltp":1.04,"id":2415499},{"ltp":36.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784639194","pt":1540846052925,"mc":[{"id":"1.150332245","rc":[{"ltp":1.03,"id":2415499}]}]}
+{"op":"mcm","clk":"7784644977","pt":1540846113319,"mc":[{"id":"1.150332245","rc":[{"ltp":1.04,"id":2415499},{"ltp":34.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784650856","pt":1540846173374,"mc":[{"id":"1.150332245","rc":[{"ltp":1.02,"id":2415499},{"ltp":30.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784657015","pt":1540846233818,"mc":[{"id":"1.150332245","rc":[{"ltp":1.05,"id":2415499},{"ltp":34.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784663138","pt":1540846293687,"mc":[{"id":"1.150332245","rc":[{"ltp":1.06,"id":2415499},{"ltp":18.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784681089","pt":1540846353627,"mc":[{"id":"1.150332245","rc":[{"ltp":1.17,"id":2415499},{"ltp":6.8,"id":7234519}]}]}
+{"op":"mcm","clk":"7784686901","pt":1540846412458,"mc":[{"id":"1.150332245","rc":[{"ltp":1.11,"id":2415499},{"ltp":10.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784692376","pt":1540846473776,"mc":[{"id":"1.150332245","rc":[{"ltp":1.03,"id":2415499},{"ltp":18.0,"id":7234519}]}]}
+{"op":"mcm","clk":"7784698166","pt":1540846533425,"mc":[{"id":"1.150332245","rc":[{"ltp":1.07,"id":2415499}]}]}
+{"op":"mcm","clk":"7784704186","pt":1540846594174,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:08:00.000Z","suspendTime":"2018-10-29T19:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"ACTIVE","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:08:00.000Z","version":2485184885,"name":"Match Odds","eventName":"Giraldo v Domingues"},"rc":[{"ltp":1.03,"id":2415499}]}]}
+{"op":"mcm","clk":"7784704682","pt":1540846598951,"mc":[{"id":"1.150332245","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980184","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:08:00.000Z","suspendTime":"2018-10-29T19:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T20:56:32.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2415499,"name":"Santiago Giraldo"},{"status":"LOSER","sortPriority":2,"id":7234519,"name":"Joao Domingues"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:08:00.000Z","version":2485185220,"name":"Match Odds","eventName":"Giraldo v Domingues"}}]}

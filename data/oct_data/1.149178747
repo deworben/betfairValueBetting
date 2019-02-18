@@ -1,0 +1,75 @@
+{"op":"mcm","clk":"7656294576","pt":1538823624247,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:00:00.000Z","suspendTime":"2018-10-07T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"ACTIVE","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:00:00.000Z","version":2439854201,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"}}]}
+{"op":"mcm","clk":"7656390859","pt":1538824106187,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:00:00.000Z","suspendTime":"2018-10-07T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"ACTIVE","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:00:00.000Z","version":2439854201,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"}}]}
+{"op":"mcm","clk":"7660467052","pt":1538839992931,"mc":[{"id":"1.149178747","rc":[{"ltp":1.49,"id":16673696}]}]}
+{"op":"mcm","clk":"7662623228","pt":1538849882590,"mc":[{"id":"1.149178747","rc":[{"ltp":2.34,"id":16874486},{"ltp":1.74,"id":16673696}]}]}
+{"op":"mcm","clk":"7664110759","pt":1538856800615,"mc":[{"id":"1.149178747","rc":[{"ltp":2.08,"id":16874486}]}]}
+{"op":"mcm","clk":"7664204058","pt":1538857282439,"mc":[{"id":"1.149178747","rc":[{"ltp":2.1,"id":16874486}]}]}
+{"op":"mcm","clk":"7664400052","pt":1538858654319,"mc":[{"id":"1.149178747","rc":[{"ltp":2.08,"id":16874486}]}]}
+{"op":"mcm","clk":"7665175197","pt":1538866167716,"mc":[{"id":"1.149178747","rc":[{"ltp":2.0,"id":16874486},{"ltp":1.94,"id":16673696}]}]}
+{"op":"mcm","clk":"7665928888","pt":1538874168908,"mc":[{"id":"1.149178747","rc":[{"ltp":2.12,"id":16874486}]}]}
+{"op":"mcm","clk":"7666821550","pt":1538884466660,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T03:50:00.000Z","suspendTime":"2018-10-07T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"ACTIVE","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T03:50:00.000Z","version":2442953042,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"}}]}
+{"op":"mcm","clk":"7666825979","pt":1538884536229,"mc":[{"id":"1.149178747","rc":[{"ltp":1.9,"id":16673696}]}]}
+{"op":"mcm","clk":"7666834016","pt":1538884665301,"mc":[{"id":"1.149178747","rc":[{"ltp":2.18,"id":16874486},{"ltp":1.85,"id":16673696}]}]}
+{"op":"mcm","clk":"7666840556","pt":1538884766092,"mc":[{"id":"1.149178747","rc":[{"ltp":2.1,"id":16874486}]}]}
+{"op":"mcm","clk":"7666845528","pt":1538884825545,"mc":[{"id":"1.149178747","rc":[{"ltp":1.89,"id":16673696}]}]}
+{"op":"mcm","clk":"7666910094","pt":1538885543733,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T03:50:00.000Z","suspendTime":"2018-10-07T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"ACTIVE","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T03:50:00.000Z","version":2442973097,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"},"rc":[{"ltp":1.74,"id":16673696}]}]}
+{"op":"mcm","clk":"7666913620","pt":1538885598857,"mc":[{"id":"1.149178747","rc":[{"ltp":2.42,"id":16874486},{"ltp":1.72,"id":16673696}]}]}
+{"op":"mcm","clk":"7666918328","pt":1538885665618,"mc":[{"id":"1.149178747","rc":[{"ltp":2.46,"id":16874486},{"ltp":1.68,"id":16673696}]}]}
+{"op":"mcm","clk":"7666921532","pt":1538885716706,"mc":[{"id":"1.149178747","rc":[{"ltp":2.36,"id":16874486},{"ltp":1.73,"id":16673696}]}]}
+{"op":"mcm","clk":"7666940825","pt":1538885842684,"mc":[{"id":"1.149178747","rc":[{"ltp":1.86,"id":16874486},{"ltp":2.16,"id":16673696}]}]}
+{"op":"mcm","clk":"7666949465","pt":1538885967348,"mc":[{"id":"1.149178747","rc":[{"ltp":2.32,"id":16874486},{"ltp":1.8,"id":16673696}]}]}
+{"op":"mcm","clk":"7666956926","pt":1538886087520,"mc":[{"id":"1.149178747","rc":[{"ltp":1.68,"id":16673696}]}]}
+{"op":"mcm","clk":"7666960143","pt":1538886142148,"mc":[{"id":"1.149178747","rc":[{"ltp":2.24,"id":16874486},{"ltp":1.8,"id":16673696}]}]}
+{"op":"mcm","clk":"7666963316","pt":1538886192045,"mc":[{"id":"1.149178747","rc":[{"ltp":2.44,"id":16874486},{"ltp":1.73,"id":16673696}]}]}
+{"op":"mcm","clk":"7666975968","pt":1538886386045,"mc":[{"id":"1.149178747","rc":[{"ltp":2.08,"id":16874486},{"ltp":1.94,"id":16673696}]}]}
+{"op":"mcm","clk":"7666979269","pt":1538886446490,"mc":[{"id":"1.149178747","rc":[{"ltp":2.3,"id":16874486},{"ltp":1.76,"id":16673696}]}]}
+{"op":"mcm","clk":"7666981268","pt":1538886481372,"mc":[{"id":"1.149178747","rc":[{"ltp":1.99,"id":16874486},{"ltp":2.02,"id":16673696}]}]}
+{"op":"mcm","clk":"7667006620","pt":1538886743988,"mc":[{"id":"1.149178747","rc":[{"ltp":2.04,"id":16874486},{"ltp":1.96,"id":16673696}]}]}
+{"op":"mcm","clk":"7667011338","pt":1538886805133,"mc":[{"id":"1.149178747","rc":[{"ltp":1.96,"id":16874486},{"ltp":2.06,"id":16673696}]}]}
+{"op":"mcm","clk":"7667014197","pt":1538886859571,"mc":[{"id":"1.149178747","rc":[{"ltp":2.2,"id":16874486}]}]}
+{"op":"mcm","clk":"7667020591","pt":1538886987627,"mc":[{"id":"1.149178747","rc":[{"ltp":1.72,"id":16673696}]}]}
+{"op":"mcm","clk":"7667027860","pt":1538887105306,"mc":[{"id":"1.149178747","rc":[{"ltp":1.81,"id":16673696}]}]}
+{"op":"mcm","clk":"7667031339","pt":1538887163812,"mc":[{"id":"1.149178747","rc":[{"ltp":2.32,"id":16874486},{"ltp":1.65,"id":16673696}]}]}
+{"op":"mcm","clk":"7667034448","pt":1538887219481,"mc":[{"id":"1.149178747","rc":[{"ltp":2.2,"id":16874486},{"ltp":1.83,"id":16673696}]}]}
+{"op":"mcm","clk":"7667041341","pt":1538887339755,"mc":[{"id":"1.149178747","rc":[{"ltp":2.5,"id":16874486}]}]}
+{"op":"mcm","clk":"7667045386","pt":1538887405000,"mc":[{"id":"1.149178747","rc":[{"ltp":1.95,"id":16874486},{"ltp":2.06,"id":16673696}]}]}
+{"op":"mcm","clk":"7667049068","pt":1538887466375,"mc":[{"id":"1.149178747","rc":[{"ltp":1.47,"id":16874486}]}]}
+{"op":"mcm","clk":"7667050217","pt":1538887489867,"mc":[{"id":"1.149178747","rc":[{"ltp":3.15,"id":16673696}]}]}
+{"op":"mcm","clk":"7667076216","pt":1538887766987,"mc":[{"id":"1.149178747","rc":[{"ltp":1.37,"id":16874486},{"ltp":3.7,"id":16673696}]}]}
+{"op":"mcm","clk":"7667079095","pt":1538887813867,"mc":[{"id":"1.149178747","rc":[{"ltp":3.6,"id":16673696}]}]}
+{"op":"mcm","clk":"7667085772","pt":1538887932615,"mc":[{"id":"1.149178747","rc":[{"ltp":1.44,"id":16874486},{"ltp":3.5,"id":16673696}]}]}
+{"op":"mcm","clk":"7667089484","pt":1538888004350,"mc":[{"id":"1.149178747","rc":[{"ltp":1.47,"id":16874486},{"ltp":3.2,"id":16673696}]}]}
+{"op":"mcm","clk":"7667092737","pt":1538888067440,"mc":[{"id":"1.149178747","rc":[{"ltp":1.45,"id":16874486},{"ltp":3.15,"id":16673696}]}]}
+{"op":"mcm","clk":"7667099439","pt":1538888186722,"mc":[{"id":"1.149178747","rc":[{"ltp":1.64,"id":16874486},{"ltp":2.56,"id":16673696}]}]}
+{"op":"mcm","clk":"7667102210","pt":1538888246312,"mc":[{"id":"1.149178747","rc":[{"ltp":1.54,"id":16874486}]}]}
+{"op":"mcm","clk":"7667105245","pt":1538888305645,"mc":[{"id":"1.149178747","rc":[{"ltp":1.4,"id":16874486}]}]}
+{"op":"mcm","clk":"7667108169","pt":1538888366212,"mc":[{"id":"1.149178747","rc":[{"ltp":1.43,"id":16874486}]}]}
+{"op":"mcm","clk":"7667109502","pt":1538888390473,"mc":[{"id":"1.149178747","rc":[{"ltp":1.48,"id":16874486}]}]}
+{"op":"mcm","clk":"7667135110","pt":1538888604684,"mc":[{"id":"1.149178747","rc":[{"ltp":1.56,"id":16874486}]}]}
+{"op":"mcm","clk":"7667138857","pt":1538888663774,"mc":[{"id":"1.149178747","rc":[{"ltp":1.6,"id":16874486},{"ltp":2.72,"id":16673696}]}]}
+{"op":"mcm","clk":"7667142650","pt":1538888727124,"mc":[{"id":"1.149178747","rc":[{"ltp":1.48,"id":16874486},{"ltp":3.1,"id":16673696}]}]}
+{"op":"mcm","clk":"7667146550","pt":1538888787685,"mc":[{"id":"1.149178747","rc":[{"ltp":1.54,"id":16874486},{"ltp":3.3,"id":16673696}]}]}
+{"op":"mcm","clk":"7667149739","pt":1538888842342,"mc":[{"id":"1.149178747","rc":[{"ltp":1.59,"id":16874486}]}]}
+{"op":"mcm","clk":"7667153784","pt":1538888904232,"mc":[{"id":"1.149178747","rc":[{"ltp":1.58,"id":16874486}]}]}
+{"op":"mcm","clk":"7667158066","pt":1538888965456,"mc":[{"id":"1.149178747","rc":[{"ltp":1.6,"id":16874486},{"ltp":2.66,"id":16673696}]}]}
+{"op":"mcm","clk":"7667162371","pt":1538889026767,"mc":[{"id":"1.149178747","rc":[{"ltp":1.68,"id":16874486},{"ltp":2.46,"id":16673696}]}]}
+{"op":"mcm","clk":"7667172013","pt":1538889147592,"mc":[{"id":"1.149178747","rc":[{"ltp":1.57,"id":16874486}]}]}
+{"op":"mcm","clk":"7667176590","pt":1538889207239,"mc":[{"id":"1.149178747","rc":[{"ltp":2.74,"id":16673696}]}]}
+{"op":"mcm","clk":"7667181775","pt":1538889267531,"mc":[{"id":"1.149178747","rc":[{"ltp":1.5,"id":16874486},{"ltp":3.0,"id":16673696}]}]}
+{"op":"mcm","clk":"7667186584","pt":1538889326960,"mc":[{"id":"1.149178747","rc":[{"ltp":1.61,"id":16874486}]}]}
+{"op":"mcm","clk":"7667207968","pt":1538889447418,"mc":[{"id":"1.149178747","rc":[{"ltp":2.88,"id":16673696}]}]}
+{"op":"mcm","clk":"7667212499","pt":1538889503568,"mc":[{"id":"1.149178747","rc":[{"ltp":1.5,"id":16874486},{"ltp":3.0,"id":16673696}]}]}
+{"op":"mcm","clk":"7667221941","pt":1538889625343,"mc":[{"id":"1.149178747","rc":[{"ltp":1.57,"id":16874486}]}]}
+{"op":"mcm","clk":"7667226237","pt":1538889683098,"mc":[{"id":"1.149178747","rc":[{"ltp":1.6,"id":16874486},{"ltp":2.66,"id":16673696}]}]}
+{"op":"mcm","clk":"7667235552","pt":1538889806447,"mc":[{"id":"1.149178747","rc":[{"ltp":1.74,"id":16874486}]}]}
+{"op":"mcm","clk":"7667240208","pt":1538889867144,"mc":[{"id":"1.149178747","rc":[{"ltp":1.89,"id":16874486},{"ltp":2.14,"id":16673696}]}]}
+{"op":"mcm","clk":"7667244375","pt":1538889927230,"mc":[{"id":"1.149178747","rc":[{"ltp":1.81,"id":16874486},{"ltp":2.24,"id":16673696}]}]}
+{"op":"mcm","clk":"7667252449","pt":1538890047646,"mc":[{"id":"1.149178747","rc":[{"ltp":1.53,"id":16874486},{"ltp":2.92,"id":16673696}]}]}
+{"op":"mcm","clk":"7667256412","pt":1538890107652,"mc":[{"id":"1.149178747","rc":[{"ltp":1.4,"id":16874486},{"ltp":3.5,"id":16673696}]}]}
+{"op":"mcm","clk":"7667260037","pt":1538890165684,"mc":[{"id":"1.149178747","rc":[{"ltp":1.34,"id":16874486},{"ltp":3.95,"id":16673696}]}]}
+{"op":"mcm","clk":"7667264049","pt":1538890227651,"mc":[{"id":"1.149178747","rc":[{"ltp":1.28,"id":16874486},{"ltp":4.8,"id":16673696}]}]}
+{"op":"mcm","clk":"7667268259","pt":1538890284807,"mc":[{"id":"1.149178747","rc":[{"ltp":1.38,"id":16874486},{"ltp":3.6,"id":16673696}]}]}
+{"op":"mcm","clk":"7667283194","pt":1538890340474,"mc":[{"id":"1.149178747","rc":[{"ltp":1.08,"id":16874486},{"ltp":15.0,"id":16673696}]}]}
+{"op":"mcm","clk":"7667292709","pt":1538890460587,"mc":[{"id":"1.149178747","rc":[{"ltp":1.01,"id":16874486}]}]}
+{"op":"mcm","clk":"7667296867","pt":1538890515895,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T03:50:00.000Z","suspendTime":"2018-10-07T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"ACTIVE","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T03:50:00.000Z","version":2443027823,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"},"rc":[{"ltp":1.02,"id":16874486}]}]}
+{"op":"mcm","clk":"7667298639","pt":1538890541975,"mc":[{"id":"1.149178747","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942125","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T03:50:00.000Z","suspendTime":"2018-10-07T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T05:35:38.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":16874486,"name":"McLachlan/Struff"},{"status":"LOSER","sortPriority":2,"id":16673696,"name":"Klaasen/Venus"}],"regulators":["MR_INT"],"countryCode":"JP","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T03:50:00.000Z","version":2443027976,"name":"Match Odds","eventName":"Mclachlan/Struff v Klaasen/Venus"}}]}

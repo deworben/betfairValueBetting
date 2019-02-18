@@ -1,0 +1,88 @@
+{"op":"mcm","clk":"7692435625","pt":1539206405990,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T18:00:00.000Z","suspendTime":"2018-10-11T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T18:00:00.000Z","version":2449239590,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}
+{"op":"mcm","clk":"7692445094","pt":1539206625001,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-11T18:00:00.000Z","suspendTime":"2018-10-11T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-11T18:00:00.000Z","version":2449239590,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}
+{"op":"mcm","clk":"7693043166","pt":1539217169139,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T18:00:00.000Z","suspendTime":"2018-10-12T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T18:00:00.000Z","version":2449317828,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}
+{"op":"mcm","clk":"7694786140","pt":1539247482356,"mc":[{"id":"1.149385074","rc":[{"ltp":4.0,"id":9623671},{"ltp":1.33,"id":9629711}]}]}
+{"op":"mcm","clk":"7698772539","pt":1539291796026,"mc":[{"id":"1.149385074","rc":[{"ltp":3.6,"id":9623671}]}]}
+{"op":"mcm","clk":"7698832692","pt":1539292808810,"mc":[{"id":"1.149385074","rc":[{"ltp":3.5,"id":9623671},{"ltp":1.4,"id":9629711}]}]}
+{"op":"mcm","clk":"7699383400","pt":1539302428375,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T19:00:00.000Z","suspendTime":"2018-10-12T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T19:00:00.000Z","version":2450286266,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}
+{"op":"mcm","clk":"7699627911","pt":1539305905542,"mc":[{"id":"1.149385074","rc":[{"ltp":1.33,"id":9629711}]}]}
+{"op":"mcm","clk":"7700196940","pt":1539315529231,"mc":[{"id":"1.149385074","rc":[{"ltp":1.32,"id":9629711}]}]}
+{"op":"mcm","clk":"7700566189","pt":1539322820700,"mc":[{"id":"1.149385074","rc":[{"ltp":3.7,"id":9623671}]}]}
+{"op":"mcm","clk":"7700712271","pt":1539325648329,"mc":[{"id":"1.149385074","rc":[{"ltp":4.2,"id":9623671}]}]}
+{"op":"mcm","clk":"7700942060","pt":1539329219434,"mc":[{"id":"1.149385074","rc":[{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7702517076","pt":1539344548295,"mc":[{"id":"1.149385074","rc":[{"ltp":3.9,"id":9623671}]}]}
+{"op":"mcm","clk":"7703767814","pt":1539355321905,"mc":[{"id":"1.149385074","rc":[{"ltp":3.6,"id":9623671}]}]}
+{"op":"mcm","clk":"7703800691","pt":1539355619457,"mc":[{"id":"1.149385074","rc":[{"ltp":1.32,"id":9629711}]}]}
+{"op":"mcm","clk":"7704137813","pt":1539358439838,"mc":[{"id":"1.149385074","rc":[{"ltp":1.38,"id":9629711}]}]}
+{"op":"mcm","clk":"7704320657","pt":1539360085087,"mc":[{"id":"1.149385074","rc":[{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7704789247","pt":1539363629091,"mc":[{"id":"1.149385074","rc":[{"ltp":3.85,"id":9623671}]}]}
+{"op":"mcm","clk":"7704795334","pt":1539363688699,"mc":[{"id":"1.149385074","rc":[{"ltp":3.75,"id":9623671}]}]}
+{"op":"mcm","clk":"7704824873","pt":1539363867645,"mc":[{"id":"1.149385074","rc":[{"ltp":3.7,"id":9623671},{"ltp":1.36,"id":9629711}]}]}
+{"op":"mcm","clk":"7704898467","pt":1539364464213,"mc":[{"id":"1.149385074","rc":[{"ltp":3.65,"id":9623671},{"ltp":1.35,"id":9629711}]}]}
+{"op":"mcm","clk":"7704906927","pt":1539364527361,"mc":[{"id":"1.149385074","rc":[{"ltp":3.6,"id":9623671}]}]}
+{"op":"mcm","clk":"7704914668","pt":1539364590029,"mc":[{"id":"1.149385074","rc":[{"ltp":3.55,"id":9623671}]}]}
+{"op":"mcm","clk":"7704934156","pt":1539364663120,"mc":[{"id":"1.149385074","rc":[{"ltp":3.6,"id":9623671},{"ltp":1.38,"id":9629711}]}]}
+{"op":"mcm","clk":"7704984735","pt":1539365068069,"mc":[{"id":"1.149385074","rc":[{"ltp":3.65,"id":9623671}]}]}
+{"op":"mcm","clk":"7704991055","pt":1539365117127,"mc":[{"id":"1.149385074","rc":[{"ltp":3.6,"id":9623671}]}]}
+{"op":"mcm","clk":"7705005225","pt":1539365231803,"mc":[{"id":"1.149385074","rc":[{"ltp":1.39,"id":9629711}]}]}
+{"op":"mcm","clk":"7705083217","pt":1539365850272,"mc":[{"id":"1.149385074","rc":[{"ltp":3.95,"id":9623671},{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705089279","pt":1539365902136,"mc":[{"id":"1.149385074","rc":[{"ltp":3.9,"id":9623671},{"ltp":1.34,"id":9629711}]}]}
+{"op":"mcm","clk":"7705097178","pt":1539365967521,"mc":[{"id":"1.149385074","rc":[{"ltp":1.35,"id":9629711}]}]}
+{"op":"mcm","clk":"7705110987","pt":1539366083263,"mc":[{"id":"1.149385074","rc":[{"ltp":3.85,"id":9623671},{"ltp":1.36,"id":9629711}]}]}
+{"op":"mcm","clk":"7705118356","pt":1539366140624,"mc":[{"id":"1.149385074","rc":[{"ltp":3.8,"id":9623671}]}]}
+{"op":"mcm","clk":"7705126634","pt":1539366203504,"mc":[{"id":"1.149385074","rc":[{"ltp":3.55,"id":9623671},{"ltp":1.37,"id":9629711}]}]}
+{"op":"mcm","clk":"7705142746","pt":1539366329365,"mc":[{"id":"1.149385074","rc":[{"ltp":1.39,"id":9629711}]}]}
+{"op":"mcm","clk":"7705431266","pt":1539368489762,"mc":[{"id":"1.149385074","rc":[{"ltp":1.35,"id":9629711}]}]}
+{"op":"mcm","clk":"7705480157","pt":1539368907842,"mc":[{"id":"1.149385074","rc":[{"ltp":1.34,"id":9629711}]}]}
+{"op":"mcm","clk":"7705487055","pt":1539368958532,"mc":[{"id":"1.149385074","rc":[{"ltp":4.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7705503457","pt":1539369080475,"mc":[{"id":"1.149385074","rc":[{"ltp":4.3,"id":9623671},{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705548451","pt":1539369325090,"mc":[{"id":"1.149385074","rc":[{"ltp":3.95,"id":9623671}]}]}
+{"op":"mcm","clk":"7705556315","pt":1539369383356,"mc":[{"id":"1.149385074","rc":[{"ltp":1.33,"id":9629711}]}]}
+{"op":"mcm","clk":"7705661966","pt":1539370093972,"mc":[{"id":"1.149385074","rc":[{"ltp":4.1,"id":9623671},{"ltp":1.32,"id":9629711}]}]}
+{"op":"mcm","clk":"7705702057","pt":1539370406786,"mc":[{"id":"1.149385074","rc":[{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705708832","pt":1539370462544,"mc":[{"id":"1.149385074","rc":[{"ltp":3.7,"id":9623671},{"ltp":1.36,"id":9629711}]}]}
+{"op":"mcm","clk":"7705716879","pt":1539370529016,"mc":[{"id":"1.149385074","rc":[{"ltp":3.65,"id":9623671},{"ltp":1.38,"id":9629711}]}]}
+{"op":"mcm","clk":"7705722567","pt":1539370575367,"mc":[{"id":"1.149385074","rc":[{"ltp":3.55,"id":9623671},{"ltp":1.4,"id":9629711}]}]}
+{"op":"mcm","clk":"7705730050","pt":1539370636327,"mc":[{"id":"1.149385074","rc":[{"ltp":1.35,"id":9629711}]}]}
+{"op":"mcm","clk":"7705739333","pt":1539370706294,"mc":[{"id":"1.149385074","rc":[{"ltp":1.4,"id":9629711}]}]}
+{"op":"mcm","clk":"7705753371","pt":1539370813761,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T18:54:00.000Z","suspendTime":"2018-10-12T18:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T18:54:00.000Z","version":2451539674,"name":"Match Odds","eventName":"Fanselow v Ruud"},"rc":[{"ltp":1.35,"id":9629711}]}]}
+{"op":"mcm","clk":"7705786965","pt":1539370988342,"mc":[{"id":"1.149385074","rc":[{"ltp":3.7,"id":9623671}]}]}
+{"op":"mcm","clk":"7705875035","pt":1539371540768,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T18:54:00.000Z","suspendTime":"2018-10-12T18:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T18:54:00.000Z","version":2451564964,"name":"Match Odds","eventName":"Fanselow v Ruud"},"rc":[{"ltp":1.37,"id":9629711}]}]}
+{"op":"mcm","clk":"7705885687","pt":1539371608652,"mc":[{"id":"1.149385074","rc":[{"ltp":1.29,"id":9629711}]}]}
+{"op":"mcm","clk":"7705895276","pt":1539371669093,"mc":[{"id":"1.149385074","rc":[{"ltp":4.4,"id":9623671},{"ltp":1.28,"id":9629711}]}]}
+{"op":"mcm","clk":"7705904779","pt":1539371729845,"mc":[{"id":"1.149385074","rc":[{"ltp":4.2,"id":9623671},{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705913948","pt":1539371787743,"mc":[{"id":"1.149385074","rc":[{"ltp":3.7,"id":9623671},{"ltp":1.36,"id":9629711}]}]}
+{"op":"mcm","clk":"7705933926","pt":1539371847296,"mc":[{"id":"1.149385074","rc":[{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705942978","pt":1539371907380,"mc":[{"id":"1.149385074","rc":[{"ltp":4.1,"id":9623671},{"ltp":1.33,"id":9629711}]}]}
+{"op":"mcm","clk":"7705952247","pt":1539371966428,"mc":[{"id":"1.149385074","rc":[{"ltp":1.31,"id":9629711}]}]}
+{"op":"mcm","clk":"7705962460","pt":1539372026444,"mc":[{"id":"1.149385074","rc":[{"ltp":4.6,"id":9623671},{"ltp":1.3,"id":9629711}]}]}
+{"op":"mcm","clk":"7705972553","pt":1539372090107,"mc":[{"id":"1.149385074","rc":[{"ltp":4.7,"id":9623671},{"ltp":1.27,"id":9629711}]}]}
+{"op":"mcm","clk":"7705981416","pt":1539372149859,"mc":[{"id":"1.149385074","rc":[{"ltp":5.0,"id":9623671},{"ltp":1.25,"id":9629711}]}]}
+{"op":"mcm","clk":"7705990728","pt":1539372210238,"mc":[{"id":"1.149385074","rc":[{"ltp":7.6,"id":9623671},{"ltp":1.15,"id":9629711}]}]}
+{"op":"mcm","clk":"7705999938","pt":1539372269933,"mc":[{"id":"1.149385074","rc":[{"ltp":1.13,"id":9629711}]}]}
+{"op":"mcm","clk":"7706017510","pt":1539372388544,"mc":[{"id":"1.149385074","rc":[{"ltp":9.2,"id":9623671}]}]}
+{"op":"mcm","clk":"7706026279","pt":1539372447793,"mc":[{"id":"1.149385074","rc":[{"ltp":8.6,"id":9623671},{"ltp":1.12,"id":9629711}]}]}
+{"op":"mcm","clk":"7706035475","pt":1539372509895,"mc":[{"id":"1.149385074","rc":[{"ltp":1.14,"id":9629711}]}]}
+{"op":"mcm","clk":"7706043807","pt":1539372568457,"mc":[{"id":"1.149385074","rc":[{"ltp":9.4,"id":9623671}]}]}
+{"op":"mcm","clk":"7706052420","pt":1539372630015,"mc":[{"id":"1.149385074","rc":[{"ltp":7.6,"id":9623671}]}]}
+{"op":"mcm","clk":"7706059924","pt":1539372688381,"mc":[{"id":"1.149385074","rc":[{"ltp":8.6,"id":9623671},{"ltp":1.12,"id":9629711}]}]}
+{"op":"mcm","clk":"7706079725","pt":1539372750012,"mc":[{"id":"1.149385074","rc":[{"ltp":9.6,"id":9623671},{"ltp":1.09,"id":9629711}]}]}
+{"op":"mcm","clk":"7706095784","pt":1539372867447,"mc":[{"id":"1.149385074","rc":[{"ltp":13.5,"id":9623671},{"ltp":1.1,"id":9629711}]}]}
+{"op":"mcm","clk":"7706104431","pt":1539372929911,"mc":[{"id":"1.149385074","rc":[{"ltp":12.5,"id":9623671},{"ltp":1.08,"id":9629711}]}]}
+{"op":"mcm","clk":"7706111632","pt":1539372989948,"mc":[{"id":"1.149385074","rc":[{"ltp":12.0,"id":9623671},{"ltp":1.09,"id":9629711}]}]}
+{"op":"mcm","clk":"7706119549","pt":1539373050061,"mc":[{"id":"1.149385074","rc":[{"ltp":10.5,"id":9623671}]}]}
+{"op":"mcm","clk":"7706127085","pt":1539373109503,"mc":[{"id":"1.149385074","rc":[{"ltp":9.6,"id":9623671},{"ltp":1.1,"id":9629711}]}]}
+{"op":"mcm","clk":"7706134589","pt":1539373169569,"mc":[{"id":"1.149385074","rc":[{"ltp":1.07,"id":9629711}]}]}
+{"op":"mcm","clk":"7706142119","pt":1539373230144,"mc":[{"id":"1.149385074","rc":[{"ltp":26.0,"id":9623671},{"ltp":1.03,"id":9629711}]}]}
+{"op":"mcm","clk":"7706148837","pt":1539373290107,"mc":[{"id":"1.149385074","rc":[{"ltp":34.0,"id":9623671},{"ltp":1.04,"id":9629711}]}]}
+{"op":"mcm","clk":"7706155645","pt":1539373349552,"mc":[{"id":"1.149385074","rc":[{"ltp":1.02,"id":9629711}]}]}
+{"op":"mcm","clk":"7706161287","pt":1539373402757,"mc":[{"id":"1.149385074","rc":[{"ltp":50.0,"id":9623671},{"ltp":1.03,"id":9629711}]}]}
+{"op":"mcm","clk":"7706168482","pt":1539373468836,"mc":[{"id":"1.149385074","rc":[{"ltp":36.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7706180805","pt":1539373589385,"mc":[{"id":"1.149385074","rc":[{"ltp":30.0,"id":9623671},{"ltp":1.02,"id":9629711}]}]}
+{"op":"mcm","clk":"7706197015","pt":1539373649356,"mc":[{"id":"1.149385074","rc":[{"ltp":50.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7706201938","pt":1539373707716,"mc":[{"id":"1.149385074","rc":[{"ltp":60.0,"id":9623671},{"ltp":1.01,"id":9629711}]}]}
+{"op":"mcm","clk":"7706226863","pt":1539373947394,"mc":[{"id":"1.149385074","rc":[{"ltp":490.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7706267239","pt":1539374306679,"mc":[{"id":"1.149385074","rc":[{"ltp":690.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7706273141","pt":1539374361965,"mc":[{"id":"1.149385074","rc":[{"ltp":990.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7706279407","pt":1539374423395,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T18:54:00.000Z","suspendTime":"2018-10-12T18:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T18:54:00.000Z","version":2451704141,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}
+{"op":"mcm","clk":"7706287316","pt":1539374502736,"mc":[{"id":"1.149385074","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28949991","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T18:54:00.000Z","suspendTime":"2018-10-12T18:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T20:01:20.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"WINNER","sortPriority":2,"id":9629711,"name":"Casper Ruud"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T18:54:00.000Z","version":2451708965,"name":"Match Odds","eventName":"Fanselow v Ruud"}}]}

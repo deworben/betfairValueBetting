@@ -1,0 +1,80 @@
+{"op":"mcm","clk":"7748078053","pt":1540553386088,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:30:00.000Z","suspendTime":"2018-10-27T05:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:30:00.000Z","version":2476011542,"name":"Match Odds","eventName":"18724463"}}]}
+{"op":"mcm","clk":"7748146639","pt":1540553930403,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:30:00.000Z","suspendTime":"2018-10-27T05:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:30:00.000Z","version":2476011542,"name":"Match Odds","eventName":"18724463"}}]}
+{"op":"mcm","clk":"7753555729","pt":1540588008207,"mc":[{"id":"1.150237921","rc":[{"ltp":1.95,"id":4729797}]}]}
+{"op":"mcm","clk":"7753581825","pt":1540588124394,"mc":[{"id":"1.150237921","rc":[{"ltp":1.93,"id":4729797}]}]}
+{"op":"mcm","clk":"7754592500","pt":1540599517538,"mc":[{"id":"1.150237921","rc":[{"ltp":1.91,"id":4729797}]}]}
+{"op":"mcm","clk":"7754717572","pt":1540600579122,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797},{"ltp":2.12,"id":2567279}]}]}
+{"op":"mcm","clk":"7755239467","pt":1540604879458,"mc":[{"id":"1.150237921","rc":[{"ltp":1.91,"id":4729797}]}]}
+{"op":"mcm","clk":"7755250299","pt":1540605010689,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797}]}]}
+{"op":"mcm","clk":"7755255884","pt":1540605074618,"mc":[{"id":"1.150237921","rc":[{"ltp":1.91,"id":4729797}]}]}
+{"op":"mcm","clk":"7755683432","pt":1540609784155,"mc":[{"id":"1.150237921","rc":[{"ltp":1.92,"id":4729797}]}]}
+{"op":"mcm","clk":"7755685715","pt":1540609842677,"mc":[{"id":"1.150237921","rc":[{"ltp":1.93,"id":4729797},{"ltp":2.08,"id":2567279}]}]}
+{"op":"mcm","clk":"7755687891","pt":1540609900219,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797}]}]}
+{"op":"mcm","clk":"7755731258","pt":1540610555805,"mc":[{"id":"1.150237921","rc":[{"ltp":1.91,"id":4729797}]}]}
+{"op":"mcm","clk":"7755743428","pt":1540610773224,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797}]}]}
+{"op":"mcm","clk":"7755756357","pt":1540611044812,"mc":[{"id":"1.150237921","rc":[{"ltp":1.91,"id":4729797}]}]}
+{"op":"mcm","clk":"7755958879","pt":1540613857640,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797}]}]}
+{"op":"mcm","clk":"7756022517","pt":1540614466606,"mc":[{"id":"1.150237921","rc":[{"ltp":1.97,"id":4729797},{"ltp":2.06,"id":2567279}]}]}
+{"op":"mcm","clk":"7756026895","pt":1540614528515,"mc":[{"id":"1.150237921","rc":[{"ltp":1.97,"id":2567279}]}]}
+{"op":"mcm","clk":"7756035214","pt":1540614647523,"mc":[{"id":"1.150237921","rc":[{"ltp":1.94,"id":2567279}]}]}
+{"op":"mcm","clk":"7756045630","pt":1540614800269,"mc":[{"id":"1.150237921","rc":[{"ltp":1.93,"id":2567279}]}]}
+{"op":"mcm","clk":"7756053498","pt":1540614913711,"mc":[{"id":"1.150237921","rc":[{"ltp":1.94,"id":2567279}]}]}
+{"op":"mcm","clk":"7756083033","pt":1540615116793,"mc":[{"id":"1.150237921","rc":[{"ltp":1.95,"id":2567279}]}]}
+{"op":"mcm","clk":"7756226279","pt":1540616865367,"mc":[{"id":"1.150237921","rc":[{"ltp":2.06,"id":4729797}]}]}
+{"op":"mcm","clk":"7756243402","pt":1540617169173,"mc":[{"id":"1.150237921","rc":[{"ltp":2.04,"id":4729797},{"ltp":1.96,"id":2567279}]}]}
+{"op":"mcm","clk":"7756258286","pt":1540617401243,"mc":[{"id":"1.150237921","rc":[{"ltp":1.95,"id":2567279}]}]}
+{"op":"mcm","clk":"7756278493","pt":1540617648339,"mc":[{"id":"1.150237921","rc":[{"ltp":1.97,"id":2567279}]}]}
+{"op":"mcm","clk":"7756302861","pt":1540617744002,"mc":[{"id":"1.150237921","rc":[{"ltp":1.95,"id":2567279}]}]}
+{"op":"mcm","clk":"7756309352","pt":1540617828065,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:21:00.000Z","suspendTime":"2018-10-27T05:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:30:00.000Z","version":2477589208,"name":"Match Odds","eventName":"18724463"}}]}
+{"op":"mcm","clk":"7756313254","pt":1540617877007,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:21:00.000Z","suspendTime":"2018-10-27T05:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:21:00.000Z","version":2477589208,"name":"Match Odds","eventName":"18724463"}}]}
+{"op":"mcm","clk":"7756317087","pt":1540617927950,"mc":[{"id":"1.150237921","rc":[{"ltp":1.93,"id":2567279}]}]}
+{"op":"mcm","clk":"7756321772","pt":1540617985261,"mc":[{"id":"1.150237921","rc":[{"ltp":1.95,"id":2567279}]}]}
+{"op":"mcm","clk":"7756327281","pt":1540618049590,"mc":[{"id":"1.150237921","rc":[{"ltp":1.97,"id":2567279}]}]}
+{"op":"mcm","clk":"7756335078","pt":1540618125540,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:21:00.000Z","suspendTime":"2018-10-27T05:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:21:00.000Z","version":2477591079,"name":"Match Odds","eventName":"18724463"},"rc":[{"ltp":2.06,"id":4729797},{"ltp":1.95,"id":2567279}]}]}
+{"op":"mcm","clk":"7756340497","pt":1540618182022,"mc":[{"id":"1.150237921","rc":[{"ltp":1.96,"id":4729797}]}]}
+{"op":"mcm","clk":"7756364051","pt":1540618419524,"mc":[{"id":"1.150237921","rc":[{"ltp":1.92,"id":2567279}]}]}
+{"op":"mcm","clk":"7756367066","pt":1540618455130,"mc":[{"id":"1.150237921","rc":[{"ltp":1.97,"id":4729797}]}]}
+{"op":"mcm","clk":"7756410943","pt":1540618789787,"mc":[{"id":"1.150237921","rc":[{"ltp":2.1,"id":4729797},{"ltp":1.91,"id":2567279}]}]}
+{"op":"mcm","clk":"7756415082","pt":1540618849088,"mc":[{"id":"1.150237921","rc":[{"ltp":1.59,"id":2567279}]}]}
+{"op":"mcm","clk":"7756419740","pt":1540618908235,"mc":[{"id":"1.150237921","rc":[{"ltp":2.4,"id":4729797},{"ltp":1.72,"id":2567279}]}]}
+{"op":"mcm","clk":"7756424821","pt":1540618968750,"mc":[{"id":"1.150237921","rc":[{"ltp":1.9,"id":4729797},{"ltp":1.99,"id":2567279}]}]}
+{"op":"mcm","clk":"7756428838","pt":1540619028238,"mc":[{"id":"1.150237921","rc":[{"ltp":1.82,"id":4729797},{"ltp":2.2,"id":2567279}]}]}
+{"op":"mcm","clk":"7756432618","pt":1540619088411,"mc":[{"id":"1.150237921","rc":[{"ltp":1.92,"id":4729797},{"ltp":2.08,"id":2567279}]}]}
+{"op":"mcm","clk":"7756436897","pt":1540619149918,"mc":[{"id":"1.150237921","rc":[{"ltp":1.94,"id":4729797},{"ltp":1.94,"id":2567279}]}]}
+{"op":"mcm","clk":"7756440236","pt":1540619206494,"mc":[{"id":"1.150237921","rc":[{"ltp":2.18,"id":4729797},{"ltp":1.97,"id":2567279}]}]}
+{"op":"mcm","clk":"7756444361","pt":1540619270040,"mc":[{"id":"1.150237921","rc":[{"ltp":1.89,"id":4729797},{"ltp":2.14,"id":2567279}]}]}
+{"op":"mcm","clk":"7756447999","pt":1540619328489,"mc":[{"id":"1.150237921","rc":[{"ltp":1.78,"id":4729797},{"ltp":2.24,"id":2567279}]}]}
+{"op":"mcm","clk":"7756451937","pt":1540619387764,"mc":[{"id":"1.150237921","rc":[{"ltp":1.77,"id":4729797}]}]}
+{"op":"mcm","clk":"7756455529","pt":1540619449032,"mc":[{"id":"1.150237921","rc":[{"ltp":1.49,"id":4729797},{"ltp":2.76,"id":2567279}]}]}
+{"op":"mcm","clk":"7756459195","pt":1540619509659,"mc":[{"id":"1.150237921","rc":[{"ltp":1.65,"id":4729797},{"ltp":3.05,"id":2567279}]}]}
+{"op":"mcm","clk":"7756479755","pt":1540619570083,"mc":[{"id":"1.150237921","rc":[{"ltp":1.43,"id":4729797},{"ltp":3.2,"id":2567279}]}]}
+{"op":"mcm","clk":"7756482904","pt":1540619626835,"mc":[{"id":"1.150237921","rc":[{"ltp":1.38,"id":4729797},{"ltp":3.6,"id":2567279}]}]}
+{"op":"mcm","clk":"7756486380","pt":1540619689692,"mc":[{"id":"1.150237921","rc":[{"ltp":1.48,"id":4729797},{"ltp":3.5,"id":2567279}]}]}
+{"op":"mcm","clk":"7756489426","pt":1540619750223,"mc":[{"id":"1.150237921","rc":[{"ltp":1.57,"id":4729797},{"ltp":3.05,"id":2567279}]}]}
+{"op":"mcm","clk":"7756491984","pt":1540619810149,"mc":[{"id":"1.150237921","rc":[{"ltp":1.68,"id":4729797},{"ltp":2.42,"id":2567279}]}]}
+{"op":"mcm","clk":"7756494858","pt":1540619868674,"mc":[{"id":"1.150237921","rc":[{"ltp":1.62,"id":4729797}]}]}
+{"op":"mcm","clk":"7756499504","pt":1540619930015,"mc":[{"id":"1.150237921","rc":[{"ltp":1.55,"id":4729797}]}]}
+{"op":"mcm","clk":"7756503198","pt":1540619989680,"mc":[{"id":"1.150237921","rc":[{"ltp":1.41,"id":4729797},{"ltp":3.45,"id":2567279}]}]}
+{"op":"mcm","clk":"7756507683","pt":1540620050193,"mc":[{"id":"1.150237921","rc":[{"ltp":1.33,"id":4729797}]}]}
+{"op":"mcm","clk":"7756511892","pt":1540620108934,"mc":[{"id":"1.150237921","rc":[{"ltp":3.8,"id":2567279}]}]}
+{"op":"mcm","clk":"7756516491","pt":1540620168872,"mc":[{"id":"1.150237921","rc":[{"ltp":4.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756519742","pt":1540620218237,"mc":[{"id":"1.150237921","rc":[{"ltp":1.26,"id":4729797},{"ltp":4.8,"id":2567279}]}]}
+{"op":"mcm","clk":"7756525229","pt":1540620288470,"mc":[{"id":"1.150237921","rc":[{"ltp":5.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756529728","pt":1540620350231,"mc":[{"id":"1.150237921","rc":[{"ltp":1.24,"id":4729797},{"ltp":5.2,"id":2567279}]}]}
+{"op":"mcm","clk":"7756534156","pt":1540620410239,"mc":[{"id":"1.150237921","rc":[{"ltp":1.2,"id":4729797}]}]}
+{"op":"mcm","clk":"7756555724","pt":1540620469432,"mc":[{"id":"1.150237921","rc":[{"ltp":6.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756573732","pt":1540620705221,"mc":[{"id":"1.150237921","rc":[{"ltp":1.18,"id":4729797}]}]}
+{"op":"mcm","clk":"7756578928","pt":1540620769724,"mc":[{"id":"1.150237921","rc":[{"ltp":1.21,"id":4729797},{"ltp":5.7,"id":2567279}]}]}
+{"op":"mcm","clk":"7756583436","pt":1540620829017,"mc":[{"id":"1.150237921","rc":[{"ltp":1.14,"id":4729797},{"ltp":7.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756593578","pt":1540620950302,"mc":[{"id":"1.150237921","rc":[{"ltp":1.15,"id":4729797},{"ltp":7.6,"id":2567279}]}]}
+{"op":"mcm","clk":"7756602928","pt":1540621070215,"mc":[{"id":"1.150237921","rc":[{"ltp":1.14,"id":4729797}]}]}
+{"op":"mcm","clk":"7756607210","pt":1540621128624,"mc":[{"id":"1.150237921","rc":[{"ltp":1.07,"id":4729797}]}]}
+{"op":"mcm","clk":"7756612294","pt":1540621188283,"mc":[{"id":"1.150237921","rc":[{"ltp":1.06,"id":4729797},{"ltp":18.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756617537","pt":1540621248923,"mc":[{"id":"1.150237921","rc":[{"ltp":1.03,"id":4729797}]}]}
+{"op":"mcm","clk":"7756644643","pt":1540621370268,"mc":[{"id":"1.150237921","rc":[{"ltp":1.07,"id":4729797},{"ltp":13.5,"id":2567279}]}]}
+{"op":"mcm","clk":"7756648898","pt":1540621427978,"mc":[{"id":"1.150237921","rc":[{"ltp":1.04,"id":4729797},{"ltp":21.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756671408","pt":1540621726742,"mc":[{"id":"1.150237921","rc":[{"ltp":1.02,"id":4729797}]}]}
+{"op":"mcm","clk":"7756675168","pt":1540621787693,"mc":[{"id":"1.150237921","rc":[{"ltp":1.01,"id":4729797}]}]}
+{"op":"mcm","clk":"7756684082","pt":1540621910118,"mc":[{"id":"1.150237921","rc":[{"ltp":50.0,"id":2567279}]}]}
+{"op":"mcm","clk":"7756734874","pt":1540622436589,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:21:00.000Z","suspendTime":"2018-10-27T05:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"ACTIVE","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:21:00.000Z","version":2477647006,"name":"Match Odds","eventName":"18724463"}}]}
+{"op":"mcm","clk":"7756740217","pt":1540622508096,"mc":[{"id":"1.150237921","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28977103","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-27T05:21:00.000Z","suspendTime":"2018-10-27T05:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-27T06:41:44.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":4729797,"name":"Oksana Kalashnikova"},{"status":"LOSER","sortPriority":2,"id":2567279,"name":"Ksenia Palkina"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-27T05:21:00.000Z","version":2477647634,"name":"Match Odds","eventName":"18724463"}}]}

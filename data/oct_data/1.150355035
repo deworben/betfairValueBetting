@@ -1,0 +1,78 @@
+{"op":"mcm","clk":"7772018092","pt":1540728466360,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:30:00.000Z","version":2481840604,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7772058267","pt":1540728684924,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:30:00.000Z","version":2481840604,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7772547832","pt":1540731091935,"mc":[{"id":"1.150355035","rc":[{"ltp":1.46,"id":9626262},{"ltp":3.2,"id":9626976}]}]}
+{"op":"mcm","clk":"7773704377","pt":1540736539291,"mc":[{"id":"1.150355035","rc":[{"ltp":1.5,"id":9626262}]}]}
+{"op":"mcm","clk":"7774947524","pt":1540742200317,"mc":[{"id":"1.150355035","rc":[{"ltp":1.38,"id":9626262}]}]}
+{"op":"mcm","clk":"7775355122","pt":1540744022612,"mc":[{"id":"1.150355035","rc":[{"ltp":1.4,"id":9626262},{"ltp":2.9,"id":9626976}]}]}
+{"op":"mcm","clk":"7775398723","pt":1540744225845,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:30:00.000Z","version":2482932667,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7775415944","pt":1540744305375,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:30:00.000Z","version":2482936216,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7775502068","pt":1540744669030,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:37:27.000Z","version":2482949539,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7775514464","pt":1540744729448,"mc":[{"id":"1.150355035","rc":[{"ltp":1.3,"id":9626262}]}]}
+{"op":"mcm","clk":"7775526943","pt":1540744790000,"mc":[{"id":"1.150355035","rc":[{"ltp":1.53,"id":9626262},{"ltp":2.88,"id":9626976}]}]}
+{"op":"mcm","clk":"7775553969","pt":1540744909862,"mc":[{"id":"1.150355035","rc":[{"ltp":1.4,"id":9626262}]}]}
+{"op":"mcm","clk":"7775566976","pt":1540744968013,"mc":[{"id":"1.150355035","rc":[{"ltp":1.38,"id":9626262},{"ltp":4.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7775593207","pt":1540745089708,"mc":[{"id":"1.150355035","rc":[{"ltp":1.45,"id":9626262}]}]}
+{"op":"mcm","clk":"7775605784","pt":1540745147166,"mc":[{"id":"1.150355035","rc":[{"ltp":1.36,"id":9626262},{"ltp":3.2,"id":9626976}]}]}
+{"op":"mcm","clk":"7775617764","pt":1540745204304,"mc":[{"id":"1.150355035","rc":[{"ltp":1.47,"id":9626262}]}]}
+{"op":"mcm","clk":"7775631303","pt":1540745268525,"mc":[{"id":"1.150355035","rc":[{"ltp":1.48,"id":9626262}]}]}
+{"op":"mcm","clk":"7775643139","pt":1540745328869,"mc":[{"id":"1.150355035","rc":[{"ltp":1.58,"id":9626262}]}]}
+{"op":"mcm","clk":"7775655089","pt":1540745389353,"mc":[{"id":"1.150355035","rc":[{"ltp":1.57,"id":9626262},{"ltp":2.78,"id":9626976}]}]}
+{"op":"mcm","clk":"7775676524","pt":1540745505883,"mc":[{"id":"1.150355035","rc":[{"ltp":1.58,"id":9626262}]}]}
+{"op":"mcm","clk":"7775697822","pt":1540745567763,"mc":[{"id":"1.150355035","rc":[{"ltp":1.68,"id":9626262},{"ltp":2.46,"id":9626976}]}]}
+{"op":"mcm","clk":"7775709214","pt":1540745630462,"mc":[{"id":"1.150355035","rc":[{"ltp":1.5,"id":9626262}]}]}
+{"op":"mcm","clk":"7775718403","pt":1540745682101,"mc":[{"id":"1.150355035","rc":[{"ltp":1.55,"id":9626262},{"ltp":2.8,"id":9626976}]}]}
+{"op":"mcm","clk":"7775763772","pt":1540745930764,"mc":[{"id":"1.150355035","rc":[{"ltp":1.43,"id":9626262},{"ltp":3.3,"id":9626976}]}]}
+{"op":"mcm","clk":"7775785498","pt":1540746049464,"mc":[{"id":"1.150355035","rc":[{"ltp":1.48,"id":9626262},{"ltp":3.1,"id":9626976}]}]}
+{"op":"mcm","clk":"7775797166","pt":1540746108700,"mc":[{"id":"1.150355035","rc":[{"ltp":1.43,"id":9626262}]}]}
+{"op":"mcm","clk":"7775809780","pt":1540746170509,"mc":[{"id":"1.150355035","rc":[{"ltp":1.49,"id":9626262}]}]}
+{"op":"mcm","clk":"7775821954","pt":1540746227859,"mc":[{"id":"1.150355035","rc":[{"ltp":1.37,"id":9626262}]}]}
+{"op":"mcm","clk":"7775835005","pt":1540746290234,"mc":[{"id":"1.150355035","rc":[{"ltp":1.53,"id":9626262},{"ltp":3.05,"id":9626976}]}]}
+{"op":"mcm","clk":"7775846192","pt":1540746340008,"mc":[{"id":"1.150355035","rc":[{"ltp":1.44,"id":9626262},{"ltp":2.9,"id":9626976}]}]}
+{"op":"mcm","clk":"7775884817","pt":1540746470567,"mc":[{"id":"1.150355035","rc":[{"ltp":1.27,"id":9626262}]}]}
+{"op":"mcm","clk":"7775908535","pt":1540746590749,"mc":[{"id":"1.150355035","rc":[{"ltp":1.3,"id":9626262}]}]}
+{"op":"mcm","clk":"7775930945","pt":1540746704023,"mc":[{"id":"1.150355035","rc":[{"ltp":1.23,"id":9626262},{"ltp":5.3,"id":9626976}]}]}
+{"op":"mcm","clk":"7775968737","pt":1540746890097,"mc":[{"id":"1.150355035","rc":[{"ltp":1.28,"id":9626262}]}]}
+{"op":"mcm","clk":"7775980157","pt":1540746943470,"mc":[{"id":"1.150355035","rc":[{"ltp":1.26,"id":9626262}]}]}
+{"op":"mcm","clk":"7776020298","pt":1540747128280,"mc":[{"id":"1.150355035","rc":[{"ltp":1.38,"id":9626262}]}]}
+{"op":"mcm","clk":"7776045569","pt":1540747246840,"mc":[{"id":"1.150355035","rc":[{"ltp":1.23,"id":9626262}]}]}
+{"op":"mcm","clk":"7776058163","pt":1540747306873,"mc":[{"id":"1.150355035","rc":[{"ltp":1.15,"id":9626262}]}]}
+{"op":"mcm","clk":"7776080663","pt":1540747369988,"mc":[{"id":"1.150355035","rc":[{"ltp":1.18,"id":9626262},{"ltp":6.8,"id":9626976}]}]}
+{"op":"mcm","clk":"7776105845","pt":1540747490530,"mc":[{"id":"1.150355035","rc":[{"ltp":1.22,"id":9626262},{"ltp":5.5,"id":9626976}]}]}
+{"op":"mcm","clk":"7776117588","pt":1540747548327,"mc":[{"id":"1.150355035","rc":[{"ltp":1.16,"id":9626262},{"ltp":6.2,"id":9626976}]}]}
+{"op":"mcm","clk":"7776131371","pt":1540747610706,"mc":[{"id":"1.150355035","rc":[{"ltp":1.09,"id":9626262}]}]}
+{"op":"mcm","clk":"7776143822","pt":1540747670033,"mc":[{"id":"1.150355035","rc":[{"ltp":1.1,"id":9626262}]}]}
+{"op":"mcm","clk":"7776155937","pt":1540747730513,"mc":[{"id":"1.150355035","rc":[{"ltp":1.08,"id":9626262}]}]}
+{"op":"mcm","clk":"7776167670","pt":1540747788868,"mc":[{"id":"1.150355035","rc":[{"ltp":1.06,"id":9626262}]}]}
+{"op":"mcm","clk":"7776179849","pt":1540747850581,"mc":[{"id":"1.150355035","rc":[{"ltp":17.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776192084","pt":1540747910457,"mc":[{"id":"1.150355035","rc":[{"ltp":1.04,"id":9626262}]}]}
+{"op":"mcm","clk":"7776204948","pt":1540747970448,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776215963","pt":1540748020535,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262},{"ltp":55.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776230940","pt":1540748089352,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776243791","pt":1540748148060,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776278750","pt":1540748264170,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776292935","pt":1540748330327,"mc":[{"id":"1.150355035","rc":[{"ltp":1.05,"id":9626262}]}]}
+{"op":"mcm","clk":"7776305629","pt":1540748387437,"mc":[{"id":"1.150355035","rc":[{"ltp":21.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776318947","pt":1540748450282,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776332535","pt":1540748510279,"mc":[{"id":"1.150355035","rc":[{"ltp":1.04,"id":9626262}]}]}
+{"op":"mcm","clk":"7776345221","pt":1540748569529,"mc":[{"id":"1.150355035","rc":[{"ltp":1.07,"id":9626262},{"ltp":18.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776370096","pt":1540748687562,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262},{"ltp":17.5,"id":9626976}]}]}
+{"op":"mcm","clk":"7776384336","pt":1540748750127,"mc":[{"id":"1.150355035","rc":[{"ltp":1.07,"id":9626262}]}]}
+{"op":"mcm","clk":"7776397014","pt":1540748807888,"mc":[{"id":"1.150355035","rc":[{"ltp":1.05,"id":9626262}]}]}
+{"op":"mcm","clk":"7776409798","pt":1540748869171,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262},{"ltp":50.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776430725","pt":1540748988909,"mc":[{"id":"1.150355035","rc":[{"ltp":1.01,"id":9626262}]}]}
+{"op":"mcm","clk":"7776441738","pt":1540749049933,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776471966","pt":1540749165102,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776483377","pt":1540749228961,"mc":[{"id":"1.150355035","rc":[{"ltp":1.04,"id":9626262}]}]}
+{"op":"mcm","clk":"7776504283","pt":1540749350288,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776523968","pt":1540749470414,"mc":[{"id":"1.150355035","rc":[{"ltp":1.01,"id":9626262}]}]}
+{"op":"mcm","clk":"7776544417","pt":1540749589535,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776567527","pt":1540749710660,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776578435","pt":1540749763951,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776592443","pt":1540749829913,"mc":[{"id":"1.150355035","rc":[{"ltp":1.03,"id":9626262}]}]}
+{"op":"mcm","clk":"7776605280","pt":1540749889702,"mc":[{"id":"1.150355035","rc":[{"ltp":1.05,"id":9626262},{"ltp":21.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776617904","pt":1540749950022,"mc":[{"id":"1.150355035","rc":[{"ltp":1.07,"id":9626262},{"ltp":15.5,"id":9626976}]}]}
+{"op":"mcm","clk":"7776630876","pt":1540750010697,"mc":[{"id":"1.150355035","rc":[{"ltp":1.06,"id":9626262},{"ltp":18.0,"id":9626976}]}]}
+{"op":"mcm","clk":"7776653167","pt":1540750069234,"mc":[{"id":"1.150355035","rc":[{"ltp":1.02,"id":9626262}]}]}
+{"op":"mcm","clk":"7776663982","pt":1540750122609,"mc":[{"id":"1.150355035","rc":[{"ltp":1.01,"id":9626262}]}]}
+{"op":"mcm","clk":"7776673982","pt":1540750171424,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"ACTIVE","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:37:27.000Z","version":2483338686,"name":"Match Odds","eventName":"18755077"}}]}
+{"op":"mcm","clk":"7776679181","pt":1540750200394,"mc":[{"id":"1.150355035","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28981324","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T16:30:00.000Z","suspendTime":"2018-10-28T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-28T18:09:55.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9626262,"name":"V Lepchenko"},{"status":"LOSER","sortPriority":2,"id":9626976,"name":"V Cepede Royg"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-28T16:37:27.000Z","version":2483339538,"name":"Match Odds","eventName":"18755077"}}]}

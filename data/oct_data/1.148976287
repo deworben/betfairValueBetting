@@ -1,0 +1,89 @@
+{"op":"mcm","clk":"7621293433","pt":1538465428083,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:00:00.000Z","version":2433764007,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7621310777","pt":1538465657696,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:00:00.000Z","version":2433764007,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7622566496","pt":1538483316157,"mc":[{"id":"1.148976287","rc":[{"ltp":1.26,"id":9626372}]}]}
+{"op":"mcm","clk":"7622926748","pt":1538486891957,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:10:00.000Z","version":2433999929,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7623007487","pt":1538487611900,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:20:00.000Z","version":2434011701,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7623399341","pt":1538492125056,"mc":[{"id":"1.148976287","rc":[{"ltp":1.36,"id":9626372},{"ltp":3.8,"id":9637929}]}]}
+{"op":"mcm","clk":"7623419205","pt":1538492432730,"mc":[{"id":"1.148976287","rc":[{"ltp":1.26,"id":9626372}]}]}
+{"op":"mcm","clk":"7623500891","pt":1538493491148,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:30:00.000Z","version":2434109362,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7623519931","pt":1538493814821,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:30:00.000Z","version":2434113811,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7623588807","pt":1538494834639,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"ACTIVE","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:40:12.000Z","version":2434137291,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}
+{"op":"mcm","clk":"7623628322","pt":1538495357693,"mc":[{"id":"1.148976287","rc":[{"ltp":1.31,"id":9626372}]}]}
+{"op":"mcm","clk":"7623638942","pt":1538495551436,"mc":[{"id":"1.148976287","rc":[{"ltp":1.44,"id":9626372},{"ltp":3.3,"id":9637929}]}]}
+{"op":"mcm","clk":"7623650505","pt":1538495737167,"mc":[{"id":"1.148976287","rc":[{"ltp":1.28,"id":9626372},{"ltp":4.6,"id":9637929}]}]}
+{"op":"mcm","clk":"7623686836","pt":1538496144320,"mc":[{"id":"1.148976287","rc":[{"ltp":1.25,"id":9626372}]}]}
+{"op":"mcm","clk":"7623694909","pt":1538496278480,"mc":[{"id":"1.148976287","rc":[{"ltp":1.23,"id":9626372}]}]}
+{"op":"mcm","clk":"7623709134","pt":1538496517841,"mc":[{"id":"1.148976287","rc":[{"ltp":1.21,"id":9626372},{"ltp":5.8,"id":9637929}]}]}
+{"op":"mcm","clk":"7623739386","pt":1538496993436,"mc":[{"id":"1.148976287","rc":[{"ltp":1.23,"id":9626372},{"ltp":5.6,"id":9637929}]}]}
+{"op":"mcm","clk":"7623754628","pt":1538497058553,"mc":[{"id":"1.148976287","rc":[{"ltp":1.19,"id":9626372}]}]}
+{"op":"mcm","clk":"7623758574","pt":1538497113791,"mc":[{"id":"1.148976287","rc":[{"ltp":1.12,"id":9626372}]}]}
+{"op":"mcm","clk":"7623766231","pt":1538497235986,"mc":[{"id":"1.148976287","rc":[{"ltp":1.11,"id":9626372},{"ltp":10.0,"id":9637929}]}]}
+{"op":"mcm","clk":"7623779799","pt":1538497450996,"mc":[{"id":"1.148976287","rc":[{"ltp":1.14,"id":9626372},{"ltp":8.0,"id":9637929}]}]}
+{"op":"mcm","clk":"7623801641","pt":1538497773516,"mc":[{"id":"1.148976287","rc":[{"ltp":1.21,"id":9626372}]}]}
+{"op":"mcm","clk":"7623804921","pt":1538497820776,"mc":[{"id":"1.148976287","rc":[{"ltp":1.28,"id":9626372}]}]}
+{"op":"mcm","clk":"7623834412","pt":1538498075643,"mc":[{"id":"1.148976287","rc":[{"ltp":1.32,"id":9626372},{"ltp":4.4,"id":9637929}]}]}
+{"op":"mcm","clk":"7623844373","pt":1538498198605,"mc":[{"id":"1.148976287","rc":[{"ltp":1.46,"id":9626372}]}]}
+{"op":"mcm","clk":"7623848972","pt":1538498254743,"mc":[{"id":"1.148976287","rc":[{"ltp":1.41,"id":9626372}]}]}
+{"op":"mcm","clk":"7623862728","pt":1538498436712,"mc":[{"id":"1.148976287","rc":[{"ltp":1.82,"id":9626372}]}]}
+{"op":"mcm","clk":"7623865677","pt":1538498487584,"mc":[{"id":"1.148976287","rc":[{"ltp":1.9,"id":9626372},{"ltp":2.12,"id":9637929}]}]}
+{"op":"mcm","clk":"7623879903","pt":1538498726740,"mc":[{"id":"1.148976287","rc":[{"ltp":1.68,"id":9637929}]}]}
+{"op":"mcm","clk":"7623897640","pt":1538498835244,"mc":[{"id":"1.148976287","rc":[{"ltp":2.34,"id":9626372},{"ltp":1.74,"id":9637929}]}]}
+{"op":"mcm","clk":"7623925799","pt":1538499278270,"mc":[{"id":"1.148976287","rc":[{"ltp":2.26,"id":9626372}]}]}
+{"op":"mcm","clk":"7623930140","pt":1538499338327,"mc":[{"id":"1.148976287","rc":[{"ltp":2.88,"id":9626372},{"ltp":1.53,"id":9637929}]}]}
+{"op":"mcm","clk":"7623940814","pt":1538499500935,"mc":[{"id":"1.148976287","rc":[{"ltp":1.81,"id":9637929}]}]}
+{"op":"mcm","clk":"7623954315","pt":1538499696628,"mc":[{"id":"1.148976287","rc":[{"ltp":2.4,"id":9626372},{"ltp":1.72,"id":9637929}]}]}
+{"op":"mcm","clk":"7623969600","pt":1538499754533,"mc":[{"id":"1.148976287","rc":[{"ltp":2.22,"id":9626372},{"ltp":1.82,"id":9637929}]}]}
+{"op":"mcm","clk":"7623974088","pt":1538499813901,"mc":[{"id":"1.148976287","rc":[{"ltp":1.72,"id":9637929}]}]}
+{"op":"mcm","clk":"7623978782","pt":1538499877623,"mc":[{"id":"1.148976287","rc":[{"ltp":1.82,"id":9637929}]}]}
+{"op":"mcm","clk":"7624001006","pt":1538500170944,"mc":[{"id":"1.148976287","rc":[{"ltp":2.52,"id":9626372},{"ltp":1.66,"id":9637929}]}]}
+{"op":"mcm","clk":"7624021787","pt":1538500475443,"mc":[{"id":"1.148976287","rc":[{"ltp":1.37,"id":9637929}]}]}
+{"op":"mcm","clk":"7624029250","pt":1538500596555,"mc":[{"id":"1.148976287","rc":[{"ltp":2.64,"id":9626372},{"ltp":1.61,"id":9637929}]}]}
+{"op":"mcm","clk":"7624047806","pt":1538500717873,"mc":[{"id":"1.148976287","rc":[{"ltp":1.72,"id":9637929}]}]}
+{"op":"mcm","clk":"7624051301","pt":1538500776787,"mc":[{"id":"1.148976287","rc":[{"ltp":1.61,"id":9637929}]}]}
+{"op":"mcm","clk":"7624053810","pt":1538500817934,"mc":[{"id":"1.148976287","rc":[{"ltp":1.31,"id":9637929}]}]}
+{"op":"mcm","clk":"7624070307","pt":1538501077450,"mc":[{"id":"1.148976287","rc":[{"ltp":6.2,"id":9626372},{"ltp":1.22,"id":9637929}]}]}
+{"op":"mcm","clk":"7624090675","pt":1538501374577,"mc":[{"id":"1.148976287","rc":[{"ltp":1.2,"id":9637929}]}]}
+{"op":"mcm","clk":"7624092993","pt":1538501411290,"mc":[{"id":"1.148976287","rc":[{"ltp":1.17,"id":9637929}]}]}
+{"op":"mcm","clk":"7624097337","pt":1538501484821,"mc":[{"id":"1.148976287","rc":[{"ltp":1.14,"id":9637929}]}]}
+{"op":"mcm","clk":"7624112221","pt":1538501558562,"mc":[{"id":"1.148976287","rc":[{"ltp":1.13,"id":9637929}]}]}
+{"op":"mcm","clk":"7624115362","pt":1538501617949,"mc":[{"id":"1.148976287","rc":[{"ltp":5.6,"id":9626372},{"ltp":1.22,"id":9637929}]}]}
+{"op":"mcm","clk":"7624118341","pt":1538501666712,"mc":[{"id":"1.148976287","rc":[{"ltp":5.1,"id":9626372},{"ltp":1.24,"id":9637929}]}]}
+{"op":"mcm","clk":"7624123360","pt":1538501738690,"mc":[{"id":"1.148976287","rc":[{"ltp":1.18,"id":9637929}]}]}
+{"op":"mcm","clk":"7624131106","pt":1538501834028,"mc":[{"id":"1.148976287","rc":[{"ltp":5.0,"id":9626372},{"ltp":1.25,"id":9637929}]}]}
+{"op":"mcm","clk":"7624145346","pt":1538502038660,"mc":[{"id":"1.148976287","rc":[{"ltp":1.3,"id":9637929}]}]}
+{"op":"mcm","clk":"7624153480","pt":1538502157880,"mc":[{"id":"1.148976287","rc":[{"ltp":1.4,"id":9637929}]}]}
+{"op":"mcm","clk":"7624167813","pt":1538502337533,"mc":[{"id":"1.148976287","rc":[{"ltp":4.6,"id":9626372},{"ltp":1.28,"id":9637929}]}]}
+{"op":"mcm","clk":"7624172837","pt":1538502398640,"mc":[{"id":"1.148976287","rc":[{"ltp":1.31,"id":9637929}]}]}
+{"op":"mcm","clk":"7624174098","pt":1538502414819,"mc":[{"id":"1.148976287","rc":[{"ltp":2.64,"id":9626372},{"ltp":1.61,"id":9637929}]}]}
+{"op":"mcm","clk":"7624191790","pt":1538502515210,"mc":[{"id":"1.148976287","rc":[{"ltp":2.26,"id":9626372},{"ltp":1.89,"id":9637929}]}]}
+{"op":"mcm","clk":"7624195993","pt":1538502577429,"mc":[{"id":"1.148976287","rc":[{"ltp":1.95,"id":9626372},{"ltp":2.14,"id":9637929}]}]}
+{"op":"mcm","clk":"7624204244","pt":1538502694966,"mc":[{"id":"1.148976287","rc":[{"ltp":1.76,"id":9626372},{"ltp":1.87,"id":9637929}]}]}
+{"op":"mcm","clk":"7624207923","pt":1538502744029,"mc":[{"id":"1.148976287","rc":[{"ltp":1.68,"id":9626372},{"ltp":2.48,"id":9637929}]}]}
+{"op":"mcm","clk":"7624213489","pt":1538502817218,"mc":[{"id":"1.148976287","rc":[{"ltp":1.56,"id":9626372},{"ltp":2.4,"id":9637929}]}]}
+{"op":"mcm","clk":"7624218030","pt":1538502878149,"mc":[{"id":"1.148976287","rc":[{"ltp":1.46,"id":9626372},{"ltp":3.2,"id":9637929}]}]}
+{"op":"mcm","clk":"7624221741","pt":1538502929363,"mc":[{"id":"1.148976287","rc":[{"ltp":1.47,"id":9626372}]}]}
+{"op":"mcm","clk":"7624223688","pt":1538502958163,"mc":[{"id":"1.148976287","rc":[{"ltp":1.43,"id":9626372}]}]}
+{"op":"mcm","clk":"7624233878","pt":1538503124700,"mc":[{"id":"1.148976287","rc":[{"ltp":2.76,"id":9637929}]}]}
+{"op":"mcm","clk":"7624261557","pt":1538503355591,"mc":[{"id":"1.148976287","rc":[{"ltp":1.48,"id":9626372},{"ltp":3.05,"id":9637929}]}]}
+{"op":"mcm","clk":"7624271001","pt":1538503477899,"mc":[{"id":"1.148976287","rc":[{"ltp":1.36,"id":9626372}]}]}
+{"op":"mcm","clk":"7624275065","pt":1538503533711,"mc":[{"id":"1.148976287","rc":[{"ltp":1.45,"id":9626372}]}]}
+{"op":"mcm","clk":"7624278946","pt":1538503592828,"mc":[{"id":"1.148976287","rc":[{"ltp":1.39,"id":9626372}]}]}
+{"op":"mcm","clk":"7624283771","pt":1538503655678,"mc":[{"id":"1.148976287","rc":[{"ltp":1.29,"id":9626372},{"ltp":4.8,"id":9637929}]}]}
+{"op":"mcm","clk":"7624288111","pt":1538503718500,"mc":[{"id":"1.148976287","rc":[{"ltp":1.39,"id":9626372}]}]}
+{"op":"mcm","clk":"7624292620","pt":1538503773465,"mc":[{"id":"1.148976287","rc":[{"ltp":1.36,"id":9626372},{"ltp":4.4,"id":9637929}]}]}
+{"op":"mcm","clk":"7624297377","pt":1538503838706,"mc":[{"id":"1.148976287","rc":[{"ltp":1.27,"id":9626372}]}]}
+{"op":"mcm","clk":"7624311104","pt":1538504014959,"mc":[{"id":"1.148976287","rc":[{"ltp":1.4,"id":9626372},{"ltp":4.9,"id":9637929}]}]}
+{"op":"mcm","clk":"7624316554","pt":1538504077333,"mc":[{"id":"1.148976287","rc":[{"ltp":1.45,"id":9626372},{"ltp":3.05,"id":9637929}]}]}
+{"op":"mcm","clk":"7624321687","pt":1538504133709,"mc":[{"id":"1.148976287","rc":[{"ltp":1.46,"id":9626372}]}]}
+{"op":"mcm","clk":"7624326627","pt":1538504198296,"mc":[{"id":"1.148976287","rc":[{"ltp":1.33,"id":9626372}]}]}
+{"op":"mcm","clk":"7624345123","pt":1538504285434,"mc":[{"id":"1.148976287","rc":[{"ltp":1.27,"id":9626372}]}]}
+{"op":"mcm","clk":"7624373086","pt":1538504614273,"mc":[{"id":"1.148976287","rc":[{"ltp":1.51,"id":9626372}]}]}
+{"op":"mcm","clk":"7624394849","pt":1538504909095,"mc":[{"id":"1.148976287","rc":[{"ltp":1.34,"id":9626372}]}]}
+{"op":"mcm","clk":"7624405738","pt":1538505037218,"mc":[{"id":"1.148976287","rc":[{"ltp":1.42,"id":9626372}]}]}
+{"op":"mcm","clk":"7624427757","pt":1538505157820,"mc":[{"id":"1.148976287","rc":[{"ltp":1.4,"id":9626372}]}]}
+{"op":"mcm","clk":"7624444862","pt":1538505338328,"mc":[{"id":"1.148976287","rc":[{"ltp":1.11,"id":9626372}]}]}
+{"op":"mcm","clk":"7624450479","pt":1538505395022,"mc":[{"id":"1.148976287","rc":[{"ltp":1.06,"id":9626372},{"ltp":18.0,"id":9637929}]}]}
+{"op":"mcm","clk":"7624455730","pt":1538505457945,"mc":[{"id":"1.148976287","rc":[{"ltp":1.04,"id":9626372}]}]}
+{"op":"mcm","clk":"7624479838","pt":1538505698246,"mc":[{"id":"1.148976287","rc":[{"ltp":1.03,"id":9626372}]}]}
+{"op":"mcm","clk":"7624490512","pt":1538505817598,"mc":[{"id":"1.148976287","rc":[{"ltp":1.01,"id":9626372}]}]}
+{"op":"mcm","clk":"7624498774","pt":1538505902771,"mc":[{"id":"1.148976287","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934619","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T18:44:59.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9637929,"name":"F Bilardo"},{"status":"WINNER","sortPriority":2,"id":9626372,"name":"A Grymalska"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T15:40:12.000Z","version":2434375134,"name":"Match Odds","eventName":"F Bilardo v A Grymalska"}}]}

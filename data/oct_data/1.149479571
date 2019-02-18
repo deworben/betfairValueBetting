@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7685596562","pt":1539350411923,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:00:00.000Z","suspendTime":"2018-10-13T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:00:00.000Z","version":2450814661,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}
+{"op":"mcm","clk":"7685673644","pt":1539350945500,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:00:00.000Z","suspendTime":"2018-10-13T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:00:00.000Z","version":2450814661,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}
+{"op":"mcm","clk":"7690939619","pt":1539399573266,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:55:00.000Z","suspendTime":"2018-10-13T04:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:55:00.000Z","version":2452011732,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}
+{"op":"mcm","clk":"7691261956","pt":1539404174983,"mc":[{"id":"1.149479571","rc":[{"ltp":3.45,"id":8813787},{"ltp":1.39,"id":9630765}]}]}
+{"op":"mcm","clk":"7691309260","pt":1539404817890,"mc":[{"id":"1.149479571","rc":[{"ltp":3.9,"id":8813787},{"ltp":1.35,"id":9630765}]}]}
+{"op":"mcm","clk":"7691326130","pt":1539404892513,"mc":[{"id":"1.149479571","rc":[{"ltp":4.2,"id":8813787},{"ltp":1.32,"id":9630765}]}]}
+{"op":"mcm","clk":"7691436303","pt":1539406215246,"mc":[{"id":"1.149479571","rc":[{"ltp":3.35,"id":8813787},{"ltp":1.43,"id":9630765}]}]}
+{"op":"mcm","clk":"7691454301","pt":1539406490013,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:10:00.000Z","suspendTime":"2018-10-13T05:10:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:10:00.000Z","version":2452063584,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}
+{"op":"mcm","clk":"7691507320","pt":1539407111169,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:02:00.000Z","suspendTime":"2018-10-13T05:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:02:00.000Z","version":2452065568,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}
+{"op":"mcm","clk":"7691552913","pt":1539407595726,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:02:00.000Z","suspendTime":"2018-10-13T05:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:02:00.000Z","version":2452079191,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"},"rc":[{"ltp":3.2,"id":8813787},{"ltp":1.46,"id":9630765}]}]}
+{"op":"mcm","clk":"7691565150","pt":1539407779728,"mc":[{"id":"1.149479571","rc":[{"ltp":1.33,"id":9630765}]}]}
+{"op":"mcm","clk":"7691606346","pt":1539408380656,"mc":[{"id":"1.149479571","rc":[{"ltp":4.5,"id":8813787},{"ltp":1.29,"id":9630765}]}]}
+{"op":"mcm","clk":"7691625714","pt":1539408500610,"mc":[{"id":"1.149479571","rc":[{"ltp":1.26,"id":9630765}]}]}
+{"op":"mcm","clk":"7691634892","pt":1539408622377,"mc":[{"id":"1.149479571","rc":[{"ltp":5.1,"id":8813787},{"ltp":1.24,"id":9630765}]}]}
+{"op":"mcm","clk":"7691639373","pt":1539408683467,"mc":[{"id":"1.149479571","rc":[{"ltp":4.3,"id":8813787},{"ltp":1.3,"id":9630765}]}]}
+{"op":"mcm","clk":"7691690421","pt":1539409329009,"mc":[{"id":"1.149479571","rc":[{"ltp":4.7,"id":8813787}]}]}
+{"op":"mcm","clk":"7691694359","pt":1539409392577,"mc":[{"id":"1.149479571","rc":[{"ltp":1.32,"id":9630765}]}]}
+{"op":"mcm","clk":"7691702842","pt":1539409521360,"mc":[{"id":"1.149479571","rc":[{"ltp":1.44,"id":9630765}]}]}
+{"op":"mcm","clk":"7691705971","pt":1539409570970,"mc":[{"id":"1.149479571","rc":[{"ltp":2.84,"id":8813787},{"ltp":1.54,"id":9630765}]}]}
+{"op":"mcm","clk":"7691710774","pt":1539409642357,"mc":[{"id":"1.149479571","rc":[{"ltp":2.46,"id":8813787},{"ltp":1.7,"id":9630765}]}]}
+{"op":"mcm","clk":"7691714530","pt":1539409702949,"mc":[{"id":"1.149479571","rc":[{"ltp":2.34,"id":8813787},{"ltp":1.75,"id":9630765}]}]}
+{"op":"mcm","clk":"7691718562","pt":1539409763640,"mc":[{"id":"1.149479571","rc":[{"ltp":2.42,"id":8813787},{"ltp":1.73,"id":9630765}]}]}
+{"op":"mcm","clk":"7691721785","pt":1539409817898,"mc":[{"id":"1.149479571","rc":[{"ltp":1.74,"id":9630765}]}]}
+{"op":"mcm","clk":"7691725536","pt":1539409882159,"mc":[{"id":"1.149479571","rc":[{"ltp":1.76,"id":9630765}]}]}
+{"op":"mcm","clk":"7691729026","pt":1539409938623,"mc":[{"id":"1.149479571","rc":[{"ltp":1.66,"id":9630765}]}]}
+{"op":"mcm","clk":"7691733390","pt":1539410003003,"mc":[{"id":"1.149479571","rc":[{"ltp":1.57,"id":9630765}]}]}
+{"op":"mcm","clk":"7691741749","pt":1539410122409,"mc":[{"id":"1.149479571","rc":[{"ltp":2.4,"id":8813787},{"ltp":1.64,"id":9630765}]}]}
+{"op":"mcm","clk":"7691745974","pt":1539410181861,"mc":[{"id":"1.149479571","rc":[{"ltp":1.73,"id":9630765}]}]}
+{"op":"mcm","clk":"7691769494","pt":1539410361512,"mc":[{"id":"1.149479571","rc":[{"ltp":1.76,"id":9630765}]}]}
+{"op":"mcm","clk":"7691777301","pt":1539410483681,"mc":[{"id":"1.149479571","rc":[{"ltp":1.94,"id":8813787},{"ltp":2.06,"id":9630765}]}]}
+{"op":"mcm","clk":"7691781002","pt":1539410541084,"mc":[{"id":"1.149479571","rc":[{"ltp":1.62,"id":8813787},{"ltp":2.62,"id":9630765}]}]}
+{"op":"mcm","clk":"7691785264","pt":1539410601671,"mc":[{"id":"1.149479571","rc":[{"ltp":1.64,"id":8813787}]}]}
+{"op":"mcm","clk":"7691788765","pt":1539410646991,"mc":[{"id":"1.149479571","rc":[{"ltp":2.56,"id":9630765}]}]}
+{"op":"mcm","clk":"7691794071","pt":1539410723132,"mc":[{"id":"1.149479571","rc":[{"ltp":1.68,"id":8813787}]}]}
+{"op":"mcm","clk":"7691802615","pt":1539410844395,"mc":[{"id":"1.149479571","rc":[{"ltp":1.62,"id":8813787},{"ltp":2.78,"id":9630765}]}]}
+{"op":"mcm","clk":"7691814500","pt":1539411023404,"mc":[{"id":"1.149479571","rc":[{"ltp":1.5,"id":8813787},{"ltp":2.94,"id":9630765}]}]}
+{"op":"mcm","clk":"7691817795","pt":1539411080989,"mc":[{"id":"1.149479571","rc":[{"ltp":1.32,"id":8813787}]}]}
+{"op":"mcm","clk":"7691832652","pt":1539411142943,"mc":[{"id":"1.149479571","rc":[{"ltp":1.65,"id":8813787},{"ltp":3.25,"id":9630765}]}]}
+{"op":"mcm","clk":"7691835777","pt":1539411200075,"mc":[{"id":"1.149479571","rc":[{"ltp":1.54,"id":8813787},{"ltp":3.3,"id":9630765}]}]}
+{"op":"mcm","clk":"7691839464","pt":1539411263831,"mc":[{"id":"1.149479571","rc":[{"ltp":1.43,"id":8813787},{"ltp":3.1,"id":9630765}]}]}
+{"op":"mcm","clk":"7691842956","pt":1539411324329,"mc":[{"id":"1.149479571","rc":[{"ltp":1.58,"id":8813787},{"ltp":2.72,"id":9630765}]}]}
+{"op":"mcm","clk":"7691846135","pt":1539411382687,"mc":[{"id":"1.149479571","rc":[{"ltp":2.0,"id":8813787}]}]}
+{"op":"mcm","clk":"7691849531","pt":1539411443549,"mc":[{"id":"1.149479571","rc":[{"ltp":2.0,"id":9630765}]}]}
+{"op":"mcm","clk":"7691852719","pt":1539411503927,"mc":[{"id":"1.149479571","rc":[{"ltp":1.83,"id":9630765}]}]}
+{"op":"mcm","clk":"7691856026","pt":1539411561830,"mc":[{"id":"1.149479571","rc":[{"ltp":2.4,"id":8813787},{"ltp":1.67,"id":9630765}]}]}
+{"op":"mcm","clk":"7691859802","pt":1539411623986,"mc":[{"id":"1.149479571","rc":[{"ltp":2.92,"id":8813787},{"ltp":1.52,"id":9630765}]}]}
+{"op":"mcm","clk":"7691863412","pt":1539411681674,"mc":[{"id":"1.149479571","rc":[{"ltp":1.58,"id":9630765}]}]}
+{"op":"mcm","clk":"7691866366","pt":1539411723818,"mc":[{"id":"1.149479571","rc":[{"ltp":2.46,"id":8813787},{"ltp":1.79,"id":9630765}]}]}
+{"op":"mcm","clk":"7691871115","pt":1539411802334,"mc":[{"id":"1.149479571","rc":[{"ltp":2.24,"id":8813787},{"ltp":1.81,"id":9630765}]}]}
+{"op":"mcm","clk":"7691874948","pt":1539411864425,"mc":[{"id":"1.149479571","rc":[{"ltp":1.85,"id":9630765}]}]}
+{"op":"mcm","clk":"7691878752","pt":1539411923483,"mc":[{"id":"1.149479571","rc":[{"ltp":2.56,"id":8813787},{"ltp":1.64,"id":9630765}]}]}
+{"op":"mcm","clk":"7691898611","pt":1539412044245,"mc":[{"id":"1.149479571","rc":[{"ltp":3.2,"id":8813787},{"ltp":1.45,"id":9630765}]}]}
+{"op":"mcm","clk":"7691906702","pt":1539412162313,"mc":[{"id":"1.149479571","rc":[{"ltp":3.4,"id":8813787}]}]}
+{"op":"mcm","clk":"7691910639","pt":1539412224200,"mc":[{"id":"1.149479571","rc":[{"ltp":3.6,"id":8813787},{"ltp":1.38,"id":9630765}]}]}
+{"op":"mcm","clk":"7691914317","pt":1539412281055,"mc":[{"id":"1.149479571","rc":[{"ltp":1.39,"id":9630765}]}]}
+{"op":"mcm","clk":"7691918175","pt":1539412339964,"mc":[{"id":"1.149479571","rc":[{"ltp":1.38,"id":9630765}]}]}
+{"op":"mcm","clk":"7691928940","pt":1539412524339,"mc":[{"id":"1.149479571","rc":[{"ltp":1.33,"id":9630765}]}]}
+{"op":"mcm","clk":"7691932107","pt":1539412583797,"mc":[{"id":"1.149479571","rc":[{"ltp":4.4,"id":8813787},{"ltp":1.3,"id":9630765}]}]}
+{"op":"mcm","clk":"7691935631","pt":1539412643507,"mc":[{"id":"1.149479571","rc":[{"ltp":3.7,"id":8813787},{"ltp":1.44,"id":9630765}]}]}
+{"op":"mcm","clk":"7691939394","pt":1539412704207,"mc":[{"id":"1.149479571","rc":[{"ltp":1.53,"id":9630765}]}]}
+{"op":"mcm","clk":"7691943123","pt":1539412760212,"mc":[{"id":"1.149479571","rc":[{"ltp":3.05,"id":8813787},{"ltp":1.49,"id":9630765}]}]}
+{"op":"mcm","clk":"7691946443","pt":1539412811973,"mc":[{"id":"1.149479571","rc":[{"ltp":2.68,"id":8813787},{"ltp":1.6,"id":9630765}]}]}
+{"op":"mcm","clk":"7691950966","pt":1539412883041,"mc":[{"id":"1.149479571","rc":[{"ltp":3.3,"id":8813787},{"ltp":1.32,"id":9630765}]}]}
+{"op":"mcm","clk":"7691965870","pt":1539412943820,"mc":[{"id":"1.149479571","rc":[{"ltp":1.33,"id":9630765}]}]}
+{"op":"mcm","clk":"7691969936","pt":1539413004377,"mc":[{"id":"1.149479571","rc":[{"ltp":1.41,"id":9630765}]}]}
+{"op":"mcm","clk":"7691973753","pt":1539413062229,"mc":[{"id":"1.149479571","rc":[{"ltp":1.52,"id":9630765}]}]}
+{"op":"mcm","clk":"7691978233","pt":1539413124357,"mc":[{"id":"1.149479571","rc":[{"ltp":2.96,"id":8813787},{"ltp":1.51,"id":9630765}]}]}
+{"op":"mcm","clk":"7691982194","pt":1539413183622,"mc":[{"id":"1.149479571","rc":[{"ltp":2.74,"id":8813787},{"ltp":1.56,"id":9630765}]}]}
+{"op":"mcm","clk":"7691984974","pt":1539413228478,"mc":[{"id":"1.149479571","rc":[{"ltp":2.72,"id":8813787},{"ltp":1.58,"id":9630765}]}]}
+{"op":"mcm","clk":"7691989257","pt":1539413302664,"mc":[{"id":"1.149479571","rc":[{"ltp":2.6,"id":8813787},{"ltp":1.54,"id":9630765}]}]}
+{"op":"mcm","clk":"7691992745","pt":1539413359966,"mc":[{"id":"1.149479571","rc":[{"ltp":2.86,"id":8813787}]}]}
+{"op":"mcm","clk":"7691997036","pt":1539413421750,"mc":[{"id":"1.149479571","rc":[{"ltp":1.46,"id":9630765}]}]}
+{"op":"mcm","clk":"7692000670","pt":1539413483707,"mc":[{"id":"1.149479571","rc":[{"ltp":2.92,"id":8813787},{"ltp":1.52,"id":9630765}]}]}
+{"op":"mcm","clk":"7692004062","pt":1539413541884,"mc":[{"id":"1.149479571","rc":[{"ltp":2.42,"id":8813787},{"ltp":1.7,"id":9630765}]}]}
+{"op":"mcm","clk":"7692011855","pt":1539413661672,"mc":[{"id":"1.149479571","rc":[{"ltp":2.56,"id":8813787},{"ltp":1.61,"id":9630765}]}]}
+{"op":"mcm","clk":"7692016280","pt":1539413723347,"mc":[{"id":"1.149479571","rc":[{"ltp":2.88,"id":8813787},{"ltp":1.5,"id":9630765}]}]}
+{"op":"mcm","clk":"7692020651","pt":1539413783723,"mc":[{"id":"1.149479571","rc":[{"ltp":3.0,"id":8813787}]}]}
+{"op":"mcm","clk":"7692036372","pt":1539413844306,"mc":[{"id":"1.149479571","rc":[{"ltp":3.6,"id":8813787},{"ltp":1.29,"id":9630765}]}]}
+{"op":"mcm","clk":"7692040864","pt":1539413902706,"mc":[{"id":"1.149479571","rc":[{"ltp":1.35,"id":9630765}]}]}
+{"op":"mcm","clk":"7692045190","pt":1539413963584,"mc":[{"id":"1.149479571","rc":[{"ltp":9.4,"id":8813787},{"ltp":1.12,"id":9630765}]}]}
+{"op":"mcm","clk":"7692049680","pt":1539414023648,"mc":[{"id":"1.149479571","rc":[{"ltp":1.11,"id":9630765}]}]}
+{"op":"mcm","clk":"7692064284","pt":1539414204401,"mc":[{"id":"1.149479571","rc":[{"ltp":1.05,"id":9630765}]}]}
+{"op":"mcm","clk":"7692068693","pt":1539414260682,"mc":[{"id":"1.149479571","rc":[{"ltp":13.5,"id":8813787},{"ltp":1.06,"id":9630765}]}]}
+{"op":"mcm","clk":"7692073169","pt":1539414318668,"mc":[{"id":"1.149479571","rc":[{"ltp":1.08,"id":9630765}]}]}
+{"op":"mcm","clk":"7692083528","pt":1539414444236,"mc":[{"id":"1.149479571","rc":[{"ltp":1.02,"id":9630765}]}]}
+{"op":"mcm","clk":"7692088707","pt":1539414497985,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:02:00.000Z","suspendTime":"2018-10-13T05:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"ACTIVE","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:02:00.000Z","version":2452160016,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"},"rc":[{"ltp":1.01,"id":9630765}]}]}
+{"op":"mcm","clk":"7692090324","pt":1539414514042,"mc":[{"id":"1.149479571","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:02:00.000Z","suspendTime":"2018-10-13T05:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-13T07:08:30.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8813787,"name":"Wei Qiang Zheng"},{"status":"WINNER","sortPriority":2,"id":9630765,"name":"Ryota Tanuma"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:02:00.000Z","version":2452161745,"name":"Match Odds","eventName":"Wei  Zheng v Tanuma"}}]}

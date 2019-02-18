@@ -1,0 +1,116 @@
+{"op":"mcm","clk":"7745258604","pt":1539845594007,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:30:00.000Z","version":2460324052,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7745263805","pt":1539845769630,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:30:00.000Z","version":2460324052,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7745758081","pt":1539853930835,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T12:00:00.000Z","version":2460396257,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7745798927","pt":1539854468017,"mc":[{"id":"1.149747864","rc":[{"ltp":2.8,"id":9626775}]}]}
+{"op":"mcm","clk":"7746090655","pt":1539858306671,"mc":[{"id":"1.149747864","rc":[{"ltp":2.84,"id":9626775},{"ltp":1.55,"id":2402810}]}]}
+{"op":"mcm","clk":"7746106409","pt":1539858548248,"mc":[{"id":"1.149747864","rc":[{"ltp":1.42,"id":2402810}]}]}
+{"op":"mcm","clk":"7746155237","pt":1539859062717,"mc":[{"id":"1.149747864","rc":[{"ltp":1.55,"id":2402810}]}]}
+{"op":"mcm","clk":"7746183152","pt":1539859428978,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7746342798","pt":1539861145986,"mc":[{"id":"1.149747864","rc":[{"ltp":2.82,"id":9626775},{"ltp":1.55,"id":2402810}]}]}
+{"op":"mcm","clk":"7746699568","pt":1539864734088,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T14:00:00.000Z","version":2460497544,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7747022545","pt":1539868094508,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7747218270","pt":1539870252379,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T15:00:00.000Z","version":2460571430,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7747606389","pt":1539874525211,"mc":[{"id":"1.149747864","rc":[{"ltp":1.4,"id":2402810}]}]}
+{"op":"mcm","clk":"7747630213","pt":1539874887308,"mc":[{"id":"1.149747864","rc":[{"ltp":2.84,"id":9626775},{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7747796002","pt":1539876610276,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T15:00:00.000Z","version":2460652582,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7748187317","pt":1539880228035,"mc":[{"id":"1.149747864","rc":[{"ltp":2.76,"id":9626775},{"ltp":1.57,"id":2402810}]}]}
+{"op":"mcm","clk":"7748841235","pt":1539884771187,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:00:00.000Z","version":2460772095,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7749053514","pt":1539886274484,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7750398920","pt":1539899499976,"mc":[{"id":"1.149747864","rc":[{"ltp":1.57,"id":2402810}]}]}
+{"op":"mcm","clk":"7750955359","pt":1539908102247,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7752696859","pt":1539931276696,"mc":[{"id":"1.149747864","rc":[{"ltp":1.57,"id":2402810}]}]}
+{"op":"mcm","clk":"7752972352","pt":1539934593148,"mc":[{"id":"1.149747864","rc":[{"ltp":1.42,"id":2402810}]}]}
+{"op":"mcm","clk":"7753209110","pt":1539936793070,"mc":[{"id":"1.149747864","rc":[{"ltp":1.55,"id":2402810}]}]}
+{"op":"mcm","clk":"7753324821","pt":1539937842041,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7753419346","pt":1539938642411,"mc":[{"id":"1.149747864","rc":[{"ltp":1.37,"id":2402810}]}]}
+{"op":"mcm","clk":"7753533566","pt":1539939667533,"mc":[{"id":"1.149747864","rc":[{"ltp":1.45,"id":2402810}]}]}
+{"op":"mcm","clk":"7753561971","pt":1539939775486,"mc":[{"id":"1.149747864","rc":[{"ltp":1.37,"id":2402810}]}]}
+{"op":"mcm","clk":"7753600925","pt":1539940107211,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:07:55.000Z","version":2461274501,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}
+{"op":"mcm","clk":"7753606549","pt":1539940167048,"mc":[{"id":"1.149747864","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7753612383","pt":1539940222868,"mc":[{"id":"1.149747864","rc":[{"ltp":3.15,"id":9626775},{"ltp":1.47,"id":2402810}]}]}
+{"op":"mcm","clk":"7753619009","pt":1539940287025,"mc":[{"id":"1.149747864","rc":[{"ltp":1.54,"id":2402810}]}]}
+{"op":"mcm","clk":"7753625398","pt":1539940343039,"mc":[{"id":"1.149747864","rc":[{"ltp":2.48,"id":9626775},{"ltp":1.68,"id":2402810}]}]}
+{"op":"mcm","clk":"7753632209","pt":1539940404425,"mc":[{"id":"1.149747864","rc":[{"ltp":2.6,"id":9626775},{"ltp":1.64,"id":2402810}]}]}
+{"op":"mcm","clk":"7753638263","pt":1539940456817,"mc":[{"id":"1.149747864","rc":[{"ltp":2.52,"id":9626775},{"ltp":1.68,"id":2402810}]}]}
+{"op":"mcm","clk":"7753645730","pt":1539940524210,"mc":[{"id":"1.149747864","rc":[{"ltp":2.62,"id":9626775},{"ltp":1.62,"id":2402810}]}]}
+{"op":"mcm","clk":"7753652224","pt":1539940582313,"mc":[{"id":"1.149747864","rc":[{"ltp":2.64,"id":9626775},{"ltp":1.6,"id":2402810}]}]}
+{"op":"mcm","clk":"7753685114","pt":1539940704510,"mc":[{"id":"1.149747864","rc":[{"ltp":1.63,"id":2402810}]}]}
+{"op":"mcm","clk":"7753692823","pt":1539940767006,"mc":[{"id":"1.149747864","rc":[{"ltp":1.6,"id":2402810}]}]}
+{"op":"mcm","clk":"7753699761","pt":1539940821809,"mc":[{"id":"1.149747864","rc":[{"ltp":1.75,"id":2402810}]}]}
+{"op":"mcm","clk":"7753706566","pt":1539940883322,"mc":[{"id":"1.149747864","rc":[{"ltp":1.77,"id":2402810}]}]}
+{"op":"mcm","clk":"7753714118","pt":1539940947756,"mc":[{"id":"1.149747864","rc":[{"ltp":2.7,"id":9626775},{"ltp":1.59,"id":2402810}]}]}
+{"op":"mcm","clk":"7753727791","pt":1539941068074,"mc":[{"id":"1.149747864","rc":[{"ltp":2.74,"id":9626775},{"ltp":1.79,"id":2402810}]}]}
+{"op":"mcm","clk":"7753733849","pt":1539941123946,"mc":[{"id":"1.149747864","rc":[{"ltp":1.58,"id":2402810}]}]}
+{"op":"mcm","clk":"7753740819","pt":1539941187337,"mc":[{"id":"1.149747864","rc":[{"ltp":2.52,"id":9626775},{"ltp":1.66,"id":2402810}]}]}
+{"op":"mcm","clk":"7753747538","pt":1539941230620,"mc":[{"id":"1.149747864","rc":[{"ltp":1.71,"id":2402810}]}]}
+{"op":"mcm","clk":"7753766672","pt":1539941366141,"mc":[{"id":"1.149747864","rc":[{"ltp":2.4,"id":9626775},{"ltp":1.76,"id":2402810}]}]}
+{"op":"mcm","clk":"7753771912","pt":1539941409779,"mc":[{"id":"1.149747864","rc":[{"ltp":1.63,"id":2402810}]}]}
+{"op":"mcm","clk":"7753780762","pt":1539941483321,"mc":[{"id":"1.149747864","rc":[{"ltp":1.78,"id":2402810}]}]}
+{"op":"mcm","clk":"7753805098","pt":1539941546169,"mc":[{"id":"1.149747864","rc":[{"ltp":2.26,"id":9626775},{"ltp":1.79,"id":2402810}]}]}
+{"op":"mcm","clk":"7753819594","pt":1539941667179,"mc":[{"id":"1.149747864","rc":[{"ltp":2.24,"id":9626775},{"ltp":1.7,"id":2402810}]}]}
+{"op":"mcm","clk":"7753826634","pt":1539941726991,"mc":[{"id":"1.149747864","rc":[{"ltp":2.16,"id":9626775},{"ltp":1.87,"id":2402810}]}]}
+{"op":"mcm","clk":"7753833177","pt":1539941787659,"mc":[{"id":"1.149747864","rc":[{"ltp":2.04,"id":9626775},{"ltp":1.95,"id":2402810}]}]}
+{"op":"mcm","clk":"7753838741","pt":1539941837895,"mc":[{"id":"1.149747864","rc":[{"ltp":1.97,"id":2402810}]}]}
+{"op":"mcm","clk":"7753846700","pt":1539941906216,"mc":[{"id":"1.149747864","rc":[{"ltp":2.06,"id":9626775},{"ltp":1.93,"id":2402810}]}]}
+{"op":"mcm","clk":"7753853663","pt":1539941965247,"mc":[{"id":"1.149747864","rc":[{"ltp":2.02,"id":9626775},{"ltp":1.97,"id":2402810}]}]}
+{"op":"mcm","clk":"7753861008","pt":1539942025032,"mc":[{"id":"1.149747864","rc":[{"ltp":1.92,"id":2402810}]}]}
+{"op":"mcm","clk":"7753867976","pt":1539942083833,"mc":[{"id":"1.149747864","rc":[{"ltp":1.97,"id":2402810}]}]}
+{"op":"mcm","clk":"7753882330","pt":1539942203138,"mc":[{"id":"1.149747864","rc":[{"ltp":1.98,"id":2402810}]}]}
+{"op":"mcm","clk":"7753897136","pt":1539942327146,"mc":[{"id":"1.149747864","rc":[{"ltp":1.83,"id":9626775},{"ltp":2.2,"id":2402810}]}]}
+{"op":"mcm","clk":"7753903734","pt":1539942384676,"mc":[{"id":"1.149747864","rc":[{"ltp":1.9,"id":9626775},{"ltp":2.12,"id":2402810}]}]}
+{"op":"mcm","clk":"7753936291","pt":1539942507464,"mc":[{"id":"1.149747864","rc":[{"ltp":1.8,"id":9626775},{"ltp":2.26,"id":2402810}]}]}
+{"op":"mcm","clk":"7753943487","pt":1539942566722,"mc":[{"id":"1.149747864","rc":[{"ltp":1.66,"id":9626775},{"ltp":2.52,"id":2402810}]}]}
+{"op":"mcm","clk":"7753950311","pt":1539942626097,"mc":[{"id":"1.149747864","rc":[{"ltp":1.71,"id":9626775},{"ltp":2.42,"id":2402810}]}]}
+{"op":"mcm","clk":"7753957043","pt":1539942688043,"mc":[{"id":"1.149747864","rc":[{"ltp":1.51,"id":9626775}]}]}
+{"op":"mcm","clk":"7753963206","pt":1539942747643,"mc":[{"id":"1.149747864","rc":[{"ltp":2.4,"id":2402810}]}]}
+{"op":"mcm","clk":"7753969669","pt":1539942805951,"mc":[{"id":"1.149747864","rc":[{"ltp":2.04,"id":9626775},{"ltp":1.98,"id":2402810}]}]}
+{"op":"mcm","clk":"7753976231","pt":1539942865306,"mc":[{"id":"1.149747864","rc":[{"ltp":1.66,"id":9626775},{"ltp":2.52,"id":2402810}]}]}
+{"op":"mcm","clk":"7753983202","pt":1539942928071,"mc":[{"id":"1.149747864","rc":[{"ltp":1.57,"id":9626775},{"ltp":2.64,"id":2402810}]}]}
+{"op":"mcm","clk":"7753989380","pt":1539942985884,"mc":[{"id":"1.149747864","rc":[{"ltp":1.48,"id":9626775},{"ltp":3.05,"id":2402810}]}]}
+{"op":"mcm","clk":"7753996078","pt":1539943046914,"mc":[{"id":"1.149747864","rc":[{"ltp":1.69,"id":9626775},{"ltp":2.4,"id":2402810}]}]}
+{"op":"mcm","clk":"7754001942","pt":1539943106606,"mc":[{"id":"1.149747864","rc":[{"ltp":1.53,"id":9626775},{"ltp":2.9,"id":2402810}]}]}
+{"op":"mcm","clk":"7754007609","pt":1539943161124,"mc":[{"id":"1.149747864","rc":[{"ltp":1.67,"id":9626775},{"ltp":2.52,"id":2402810}]}]}
+{"op":"mcm","clk":"7754014634","pt":1539943226367,"mc":[{"id":"1.149747864","rc":[{"ltp":1.73,"id":9626775},{"ltp":2.5,"id":2402810}]}]}
+{"op":"mcm","clk":"7754020092","pt":1539943269688,"mc":[{"id":"1.149747864","rc":[{"ltp":1.72,"id":9626775}]}]}
+{"op":"mcm","clk":"7754046935","pt":1539943345088,"mc":[{"id":"1.149747864","rc":[{"ltp":1.62,"id":9626775},{"ltp":2.52,"id":2402810}]}]}
+{"op":"mcm","clk":"7754054714","pt":1539943406373,"mc":[{"id":"1.149747864","rc":[{"ltp":2.46,"id":2402810}]}]}
+{"op":"mcm","clk":"7754062636","pt":1539943467582,"mc":[{"id":"1.149747864","rc":[{"ltp":1.75,"id":9626775}]}]}
+{"op":"mcm","clk":"7754069437","pt":1539943527821,"mc":[{"id":"1.149747864","rc":[{"ltp":2.02,"id":9626775},{"ltp":1.99,"id":2402810}]}]}
+{"op":"mcm","clk":"7754075168","pt":1539943587813,"mc":[{"id":"1.149747864","rc":[{"ltp":2.48,"id":9626775},{"ltp":1.67,"id":2402810}]}]}
+{"op":"mcm","clk":"7754082219","pt":1539943646684,"mc":[{"id":"1.149747864","rc":[{"ltp":2.5,"id":9626775},{"ltp":1.66,"id":2402810}]}]}
+{"op":"mcm","clk":"7754088981","pt":1539943708025,"mc":[{"id":"1.149747864","rc":[{"ltp":2.72,"id":9626775},{"ltp":1.57,"id":2402810}]}]}
+{"op":"mcm","clk":"7754095449","pt":1539943767524,"mc":[{"id":"1.149747864","rc":[{"ltp":2.8,"id":9626775},{"ltp":1.55,"id":2402810}]}]}
+{"op":"mcm","clk":"7754113235","pt":1539943888037,"mc":[{"id":"1.149747864","rc":[{"ltp":3.25,"id":9626775},{"ltp":1.44,"id":2402810}]}]}
+{"op":"mcm","clk":"7754120353","pt":1539943947930,"mc":[{"id":"1.149747864","rc":[{"ltp":1.43,"id":2402810}]}]}
+{"op":"mcm","clk":"7754127874","pt":1539944008010,"mc":[{"id":"1.149747864","rc":[{"ltp":3.05,"id":9626775},{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"7754134727","pt":1539944061507,"mc":[{"id":"1.149747864","rc":[{"ltp":3.2,"id":9626775},{"ltp":1.42,"id":2402810}]}]}
+{"op":"mcm","clk":"7754144076","pt":1539944127576,"mc":[{"id":"1.149747864","rc":[{"ltp":3.3,"id":9626775},{"ltp":1.43,"id":2402810}]}]}
+{"op":"mcm","clk":"7754151616","pt":1539944185336,"mc":[{"id":"1.149747864","rc":[{"ltp":3.2,"id":9626775},{"ltp":1.44,"id":2402810}]}]}
+{"op":"mcm","clk":"7754177012","pt":1539944246910,"mc":[{"id":"1.149747864","rc":[{"ltp":3.05,"id":9626775},{"ltp":1.48,"id":2402810}]}]}
+{"op":"mcm","clk":"7754184305","pt":1539944307432,"mc":[{"id":"1.149747864","rc":[{"ltp":3.0,"id":9626775}]}]}
+{"op":"mcm","clk":"7754197271","pt":1539944428058,"mc":[{"id":"1.149747864","rc":[{"ltp":2.88,"id":9626775},{"ltp":1.6,"id":2402810}]}]}
+{"op":"mcm","clk":"7754203234","pt":1539944485449,"mc":[{"id":"1.149747864","rc":[{"ltp":2.32,"id":9626775},{"ltp":1.75,"id":2402810}]}]}
+{"op":"mcm","clk":"7754209635","pt":1539944545400,"mc":[{"id":"1.149747864","rc":[{"ltp":1.73,"id":2402810}]}]}
+{"op":"mcm","clk":"7754215672","pt":1539944606841,"mc":[{"id":"1.149747864","rc":[{"ltp":2.4,"id":9626775},{"ltp":1.68,"id":2402810}]}]}
+{"op":"mcm","clk":"7754221100","pt":1539944659553,"mc":[{"id":"1.149747864","rc":[{"ltp":2.46,"id":9626775}]}]}
+{"op":"mcm","clk":"7754228955","pt":1539944726280,"mc":[{"id":"1.149747864","rc":[{"ltp":3.55,"id":9626775},{"ltp":1.4,"id":2402810}]}]}
+{"op":"mcm","clk":"7754236207","pt":1539944787742,"mc":[{"id":"1.149747864","rc":[{"ltp":5.1,"id":9626775},{"ltp":1.25,"id":2402810}]}]}
+{"op":"mcm","clk":"7754243367","pt":1539944846177,"mc":[{"id":"1.149747864","rc":[{"ltp":1.27,"id":2402810}]}]}
+{"op":"mcm","clk":"7754250418","pt":1539944908032,"mc":[{"id":"1.149747864","rc":[{"ltp":5.7,"id":9626775},{"ltp":1.2,"id":2402810}]}]}
+{"op":"mcm","clk":"7754256786","pt":1539944966548,"mc":[{"id":"1.149747864","rc":[{"ltp":6.2,"id":9626775},{"ltp":1.18,"id":2402810}]}]}
+{"op":"mcm","clk":"7754263863","pt":1539945026277,"mc":[{"id":"1.149747864","rc":[{"ltp":1.15,"id":2402810}]}]}
+{"op":"mcm","clk":"7754273675","pt":1539945088070,"mc":[{"id":"1.149747864","rc":[{"ltp":6.4,"id":9626775},{"ltp":1.18,"id":2402810}]}]}
+{"op":"mcm","clk":"7754297587","pt":1539945146186,"mc":[{"id":"1.149747864","rc":[{"ltp":7.6,"id":9626775},{"ltp":1.15,"id":2402810}]}]}
+{"op":"mcm","clk":"7754304342","pt":1539945204990,"mc":[{"id":"1.149747864","rc":[{"ltp":11.0,"id":9626775},{"ltp":1.09,"id":2402810}]}]}
+{"op":"mcm","clk":"7754313696","pt":1539945267410,"mc":[{"id":"1.149747864","rc":[{"ltp":1.04,"id":2402810}]}]}
+{"op":"mcm","clk":"7754321862","pt":1539945325737,"mc":[{"id":"1.149747864","rc":[{"ltp":26.0,"id":9626775},{"ltp":1.03,"id":2402810}]}]}
+{"op":"mcm","clk":"7754329456","pt":1539945387150,"mc":[{"id":"1.149747864","rc":[{"ltp":1.01,"id":2402810}]}]}
+{"op":"mcm","clk":"7754344649","pt":1539945507015,"mc":[{"id":"1.149747864","rc":[{"ltp":1.02,"id":2402810}]}]}
+{"op":"mcm","clk":"7754352579","pt":1539945567499,"mc":[{"id":"1.149747864","rc":[{"ltp":1.01,"id":2402810}]}]}
+{"op":"mcm","clk":"7754360517","pt":1539945627851,"mc":[{"id":"1.149747864","rc":[{"ltp":1.03,"id":2402810}]}]}
+{"op":"mcm","clk":"7754365430","pt":1539945670395,"mc":[{"id":"1.149747864","rc":[{"ltp":1.02,"id":2402810}]}]}
+{"op":"mcm","clk":"7754381351","pt":1539945806927,"mc":[{"id":"1.149747864","rc":[{"ltp":1.01,"id":2402810}]}]}
+{"op":"mcm","clk":"7754388763","pt":1539945867181,"mc":[{"id":"1.149747864","rc":[{"ltp":1.03,"id":2402810}]}]}
+{"op":"mcm","clk":"7754405221","pt":1539945985705,"mc":[{"id":"1.149747864","rc":[{"ltp":1.04,"id":2402810}]}]}
+{"op":"mcm","clk":"7754428747","pt":1539946034016,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"ACTIVE","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:07:55.000Z","version":2461360260,"name":"Match Odds","eventName":"A Gamiz v A Bondar"},"rc":[{"ltp":50.0,"id":9626775},{"ltp":1.01,"id":2402810}]}]}
+{"op":"mcm","clk":"7754431271","pt":1539946055653,"mc":[{"id":"1.149747864","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962150","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:30:00.000Z","suspendTime":"2018-10-18T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T10:47:30.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9626775,"name":"A Gamiz"},{"status":"WINNER","sortPriority":2,"id":2402810,"name":"A Bondar"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:07:55.000Z","version":2461360338,"name":"Match Odds","eventName":"A Gamiz v A Bondar"}}]}

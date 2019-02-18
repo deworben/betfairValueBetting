@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7624452654","pt":1539253222086,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T09:00:00.000Z","suspendTime":"2018-10-12T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T09:00:00.000Z","version":2449532065,"name":"Match Odds","eventName":"Moraing v Barrere"}}]}
+{"op":"mcm","clk":"7624491196","pt":1539253543950,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T09:00:00.000Z","suspendTime":"2018-10-12T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T09:00:00.000Z","version":2449532065,"name":"Match Odds","eventName":"Moraing v Barrere"}}]}
+{"op":"mcm","clk":"7626279015","pt":1539271472257,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:30:00.000Z","suspendTime":"2018-10-12T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T10:30:00.000Z","version":2449801076,"name":"Match Odds","eventName":"Moraing v Barrere"}}]}
+{"op":"mcm","clk":"7628315970","pt":1539290739749,"mc":[{"id":"1.149395500","rc":[{"ltp":1.7,"id":8596348}]}]}
+{"op":"mcm","clk":"7629726503","pt":1539318479212,"mc":[{"id":"1.149395500","rc":[{"ltp":2.24,"id":8842295}]}]}
+{"op":"mcm","clk":"7629742043","pt":1539318857570,"mc":[{"id":"1.149395500","rc":[{"ltp":1.8,"id":8596348}]}]}
+{"op":"mcm","clk":"7629956240","pt":1539323367677,"mc":[{"id":"1.149395500","rc":[{"ltp":1.75,"id":8596348}]}]}
+{"op":"mcm","clk":"7630072618","pt":1539325648121,"mc":[{"id":"1.149395500","rc":[{"ltp":1.8,"id":8596348}]}]}
+{"op":"mcm","clk":"7630138633","pt":1539326777859,"mc":[{"id":"1.149395500","rc":[{"ltp":1.78,"id":8596348}]}]}
+{"op":"mcm","clk":"7630287934","pt":1539328900860,"mc":[{"id":"1.149395500","rc":[{"ltp":1.75,"id":8596348}]}]}
+{"op":"mcm","clk":"7630555556","pt":1539333032356,"mc":[{"id":"1.149395500","rc":[{"ltp":1.77,"id":8596348}]}]}
+{"op":"mcm","clk":"7630691916","pt":1539334883683,"mc":[{"id":"1.149395500","rc":[{"ltp":1.82,"id":8596348},{"ltp":2.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7631022153","pt":1539338069796,"mc":[{"id":"1.149395500","rc":[{"ltp":1.77,"id":8596348},{"ltp":2.3,"id":8842295}]}]}
+{"op":"mcm","clk":"7631245422","pt":1539339929646,"mc":[{"id":"1.149395500","rc":[{"ltp":1.79,"id":8596348},{"ltp":2.28,"id":8842295}]}]}
+{"op":"mcm","clk":"7631263111","pt":1539340099746,"mc":[{"id":"1.149395500","rc":[{"ltp":1.72,"id":8596348},{"ltp":2.4,"id":8842295}]}]}
+{"op":"mcm","clk":"7631270239","pt":1539340174401,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:26:00.000Z","suspendTime":"2018-10-12T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T10:26:00.000Z","version":2450598158,"name":"Match Odds","eventName":"Moraing v Barrere"},"rc":[{"ltp":1.71,"id":8596348}]}]}
+{"op":"mcm","clk":"7631334343","pt":1539340711233,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:26:00.000Z","suspendTime":"2018-10-12T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T10:26:00.000Z","version":2450612921,"name":"Match Odds","eventName":"Moraing v Barrere"},"rc":[{"ltp":1.86,"id":8596348},{"ltp":2.18,"id":8842295}]}]}
+{"op":"mcm","clk":"7631340990","pt":1539340777397,"mc":[{"id":"1.149395500","rc":[{"ltp":1.73,"id":8596348},{"ltp":2.38,"id":8842295}]}]}
+{"op":"mcm","clk":"7631347607","pt":1539340837620,"mc":[{"id":"1.149395500","rc":[{"ltp":1.88,"id":8596348},{"ltp":2.16,"id":8842295}]}]}
+{"op":"mcm","clk":"7631353581","pt":1539340897691,"mc":[{"id":"1.149395500","rc":[{"ltp":1.81,"id":8596348}]}]}
+{"op":"mcm","clk":"7631363642","pt":1539341015601,"mc":[{"id":"1.149395500","rc":[{"ltp":1.79,"id":8596348},{"ltp":2.26,"id":8842295}]}]}
+{"op":"mcm","clk":"7631368952","pt":1539341075712,"mc":[{"id":"1.149395500","rc":[{"ltp":1.56,"id":8596348},{"ltp":2.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7631373907","pt":1539341137474,"mc":[{"id":"1.149395500","rc":[{"ltp":1.37,"id":8596348}]}]}
+{"op":"mcm","clk":"7631383755","pt":1539341257562,"mc":[{"id":"1.149395500","rc":[{"ltp":1.42,"id":8596348},{"ltp":3.3,"id":8842295}]}]}
+{"op":"mcm","clk":"7631388424","pt":1539341314922,"mc":[{"id":"1.149395500","rc":[{"ltp":1.32,"id":8596348}]}]}
+{"op":"mcm","clk":"7631393888","pt":1539341376710,"mc":[{"id":"1.149395500","rc":[{"ltp":1.31,"id":8596348},{"ltp":3.9,"id":8842295}]}]}
+{"op":"mcm","clk":"7631399067","pt":1539341434788,"mc":[{"id":"1.149395500","rc":[{"ltp":1.35,"id":8596348}]}]}
+{"op":"mcm","clk":"7631404771","pt":1539341493431,"mc":[{"id":"1.149395500","rc":[{"ltp":1.32,"id":8596348},{"ltp":4.1,"id":8842295}]}]}
+{"op":"mcm","clk":"7631420483","pt":1539341557474,"mc":[{"id":"1.149395500","rc":[{"ltp":1.29,"id":8596348}]}]}
+{"op":"mcm","clk":"7631425506","pt":1539341617612,"mc":[{"id":"1.149395500","rc":[{"ltp":1.27,"id":8596348}]}]}
+{"op":"mcm","clk":"7631430989","pt":1539341676866,"mc":[{"id":"1.149395500","rc":[{"ltp":1.31,"id":8596348}]}]}
+{"op":"mcm","clk":"7631436733","pt":1539341735344,"mc":[{"id":"1.149395500","rc":[{"ltp":1.3,"id":8596348},{"ltp":4.2,"id":8842295}]}]}
+{"op":"mcm","clk":"7631442553","pt":1539341797618,"mc":[{"id":"1.149395500","rc":[{"ltp":4.3,"id":8842295}]}]}
+{"op":"mcm","clk":"7631447916","pt":1539341857093,"mc":[{"id":"1.149395500","rc":[{"ltp":1.34,"id":8596348}]}]}
+{"op":"mcm","clk":"7631452688","pt":1539341917267,"mc":[{"id":"1.149395500","rc":[{"ltp":1.3,"id":8596348}]}]}
+{"op":"mcm","clk":"7631456895","pt":1539341977482,"mc":[{"id":"1.149395500","rc":[{"ltp":1.31,"id":8596348}]}]}
+{"op":"mcm","clk":"7631461302","pt":1539342036638,"mc":[{"id":"1.149395500","rc":[{"ltp":1.28,"id":8596348},{"ltp":4.2,"id":8842295}]}]}
+{"op":"mcm","clk":"7631466039","pt":1539342094717,"mc":[{"id":"1.149395500","rc":[{"ltp":1.29,"id":8596348}]}]}
+{"op":"mcm","clk":"7631476304","pt":1539342217429,"mc":[{"id":"1.149395500","rc":[{"ltp":1.26,"id":8596348}]}]}
+{"op":"mcm","clk":"7631480533","pt":1539342268244,"mc":[{"id":"1.149395500","rc":[{"ltp":1.25,"id":8596348},{"ltp":5.0,"id":8842295}]}]}
+{"op":"mcm","clk":"7631486544","pt":1539342337540,"mc":[{"id":"1.149395500","rc":[{"ltp":1.29,"id":8596348},{"ltp":4.7,"id":8842295}]}]}
+{"op":"mcm","clk":"7631491724","pt":1539342396583,"mc":[{"id":"1.149395500","rc":[{"ltp":1.3,"id":8596348},{"ltp":4.5,"id":8842295}]}]}
+{"op":"mcm","clk":"7631506553","pt":1539342455839,"mc":[{"id":"1.149395500","rc":[{"ltp":1.25,"id":8596348},{"ltp":5.0,"id":8842295}]}]}
+{"op":"mcm","clk":"7631512134","pt":1539342517587,"mc":[{"id":"1.149395500","rc":[{"ltp":1.43,"id":8596348},{"ltp":4.3,"id":8842295}]}]}
+{"op":"mcm","clk":"7631517338","pt":1539342577293,"mc":[{"id":"1.149395500","rc":[{"ltp":1.34,"id":8596348},{"ltp":3.9,"id":8842295}]}]}
+{"op":"mcm","clk":"7631523089","pt":1539342637512,"mc":[{"id":"1.149395500","rc":[{"ltp":1.33,"id":8596348},{"ltp":3.4,"id":8842295}]}]}
+{"op":"mcm","clk":"7631529067","pt":1539342697337,"mc":[{"id":"1.149395500","rc":[{"ltp":1.43,"id":8596348},{"ltp":3.3,"id":8842295}]}]}
+{"op":"mcm","clk":"7631535708","pt":1539342757623,"mc":[{"id":"1.149395500","rc":[{"ltp":1.76,"id":8596348},{"ltp":2.38,"id":8842295}]}]}
+{"op":"mcm","clk":"7631541634","pt":1539342816353,"mc":[{"id":"1.149395500","rc":[{"ltp":1.78,"id":8596348},{"ltp":2.28,"id":8842295}]}]}
+{"op":"mcm","clk":"7631547747","pt":1539342876450,"mc":[{"id":"1.149395500","rc":[{"ltp":1.83,"id":8596348},{"ltp":2.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7631554248","pt":1539342936761,"mc":[{"id":"1.149395500","rc":[{"ltp":1.76,"id":8596348},{"ltp":2.24,"id":8842295}]}]}
+{"op":"mcm","clk":"7631560544","pt":1539342995964,"mc":[{"id":"1.149395500","rc":[{"ltp":1.86,"id":8596348},{"ltp":2.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7631567116","pt":1539343057647,"mc":[{"id":"1.149395500","rc":[{"ltp":1.82,"id":8596348}]}]}
+{"op":"mcm","clk":"7631574015","pt":1539343116929,"mc":[{"id":"1.149395500","rc":[{"ltp":1.85,"id":8596348},{"ltp":2.18,"id":8842295}]}]}
+{"op":"mcm","clk":"7631580407","pt":1539343177136,"mc":[{"id":"1.149395500","rc":[{"ltp":1.87,"id":8596348},{"ltp":2.16,"id":8842295}]}]}
+{"op":"mcm","clk":"7631587207","pt":1539343237583,"mc":[{"id":"1.149395500","rc":[{"ltp":2.02,"id":8596348},{"ltp":1.98,"id":8842295}]}]}
+{"op":"mcm","clk":"7631594021","pt":1539343297690,"mc":[{"id":"1.149395500","rc":[{"ltp":2.24,"id":8596348},{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7631609952","pt":1539343357528,"mc":[{"id":"1.149395500","rc":[{"ltp":2.02,"id":8596348},{"ltp":1.98,"id":8842295}]}]}
+{"op":"mcm","clk":"7631615799","pt":1539343417669,"mc":[{"id":"1.149395500","rc":[{"ltp":2.16,"id":8596348},{"ltp":1.85,"id":8842295}]}]}
+{"op":"mcm","clk":"7631621392","pt":1539343477137,"mc":[{"id":"1.149395500","rc":[{"ltp":2.2,"id":8596348},{"ltp":1.83,"id":8842295}]}]}
+{"op":"mcm","clk":"7631627123","pt":1539343537274,"mc":[{"id":"1.149395500","rc":[{"ltp":2.26,"id":8596348},{"ltp":1.81,"id":8842295}]}]}
+{"op":"mcm","clk":"7631633264","pt":1539343597617,"mc":[{"id":"1.149395500","rc":[{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7631639435","pt":1539343657520,"mc":[{"id":"1.149395500","rc":[{"ltp":2.18,"id":8596348},{"ltp":1.84,"id":8842295}]}]}
+{"op":"mcm","clk":"7631645953","pt":1539343717175,"mc":[{"id":"1.149395500","rc":[{"ltp":2.3,"id":8596348},{"ltp":1.76,"id":8842295}]}]}
+{"op":"mcm","clk":"7631652503","pt":1539343777658,"mc":[{"id":"1.149395500","rc":[{"ltp":1.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7631658828","pt":1539343837691,"mc":[{"id":"1.149395500","rc":[{"ltp":2.36,"id":8596348},{"ltp":1.74,"id":8842295}]}]}
+{"op":"mcm","clk":"7631664942","pt":1539343897325,"mc":[{"id":"1.149395500","rc":[{"ltp":2.44,"id":8596348},{"ltp":1.35,"id":8842295}]}]}
+{"op":"mcm","clk":"7631671399","pt":1539343957484,"mc":[{"id":"1.149395500","rc":[{"ltp":2.16,"id":8596348},{"ltp":1.86,"id":8842295}]}]}
+{"op":"mcm","clk":"7631677461","pt":1539344016234,"mc":[{"id":"1.149395500","rc":[{"ltp":2.14,"id":8596348},{"ltp":1.88,"id":8842295}]}]}
+{"op":"mcm","clk":"7631683988","pt":1539344077696,"mc":[{"id":"1.149395500","rc":[{"ltp":1.98,"id":8596348},{"ltp":2.0,"id":8842295}]}]}
+{"op":"mcm","clk":"7631690151","pt":1539344137586,"mc":[{"id":"1.149395500","rc":[{"ltp":1.87,"id":8596348},{"ltp":2.14,"id":8842295}]}]}
+{"op":"mcm","clk":"7631695932","pt":1539344197496,"mc":[{"id":"1.149395500","rc":[{"ltp":2.16,"id":8596348},{"ltp":1.86,"id":8842295}]}]}
+{"op":"mcm","clk":"7631711396","pt":1539344257651,"mc":[{"id":"1.149395500","rc":[{"ltp":2.72,"id":8596348},{"ltp":1.6,"id":8842295}]}]}
+{"op":"mcm","clk":"7631716798","pt":1539344317585,"mc":[{"id":"1.149395500","rc":[{"ltp":6.0,"id":8596348},{"ltp":1.2,"id":8842295}]}]}
+{"op":"mcm","clk":"7631722233","pt":1539344377382,"mc":[{"id":"1.149395500","rc":[{"ltp":6.4,"id":8596348},{"ltp":1.18,"id":8842295}]}]}
+{"op":"mcm","clk":"7631727034","pt":1539344437743,"mc":[{"id":"1.149395500","rc":[{"ltp":6.0,"id":8596348},{"ltp":1.21,"id":8842295}]}]}
+{"op":"mcm","clk":"7631732486","pt":1539344497503,"mc":[{"id":"1.149395500","rc":[{"ltp":9.2,"id":8596348},{"ltp":1.12,"id":8842295}]}]}
+{"op":"mcm","clk":"7631738623","pt":1539344557663,"mc":[{"id":"1.149395500","rc":[{"ltp":12.0,"id":8596348},{"ltp":1.07,"id":8842295}]}]}
+{"op":"mcm","clk":"7631744677","pt":1539344617640,"mc":[{"id":"1.149395500","rc":[{"ltp":25.0,"id":8596348},{"ltp":1.05,"id":8842295}]}]}
+{"op":"mcm","clk":"7631750618","pt":1539344677219,"mc":[{"id":"1.149395500","rc":[{"ltp":15.0,"id":8596348}]}]}
+{"op":"mcm","clk":"7631756658","pt":1539344737315,"mc":[{"id":"1.149395500","rc":[{"ltp":50.0,"id":8596348},{"ltp":1.02,"id":8842295}]}]}
+{"op":"mcm","clk":"7631762404","pt":1539344797216,"mc":[{"id":"1.149395500","rc":[{"ltp":34.0,"id":8596348}]}]}
+{"op":"mcm","clk":"7631767990","pt":1539344857335,"mc":[{"id":"1.149395500","rc":[{"ltp":140.0,"id":8596348},{"ltp":1.01,"id":8842295}]}]}
+{"op":"mcm","clk":"7631773244","pt":1539344916102,"mc":[{"id":"1.149395500","rc":[{"ltp":100.0,"id":8596348}]}]}
+{"op":"mcm","clk":"7631790475","pt":1539345096889,"mc":[{"id":"1.149395500","rc":[{"ltp":85.0,"id":8596348},{"ltp":1.02,"id":8842295}]}]}
+{"op":"mcm","clk":"7631809979","pt":1539345196560,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:26:00.000Z","suspendTime":"2018-10-12T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"ACTIVE","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T10:26:00.000Z","version":2450707566,"name":"Match Odds","eventName":"Moraing v Barrere"},"rc":[{"ltp":1.01,"id":8842295}]}]}
+{"op":"mcm","clk":"7631814797","pt":1539345242326,"mc":[{"id":"1.149395500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950493","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:26:00.000Z","suspendTime":"2018-10-12T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T11:53:54.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8596348,"name":"Mats Moraing"},{"status":"WINNER","sortPriority":2,"id":8842295,"name":"Gregoire Barrere"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T10:26:00.000Z","version":2450708302,"name":"Match Odds","eventName":"Moraing v Barrere"}}]}

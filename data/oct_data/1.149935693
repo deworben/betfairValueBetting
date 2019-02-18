@@ -1,0 +1,68 @@
+{"op":"mcm","clk":"7760999987","pt":1540069218567,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T18:00:00.000Z","suspendTime":"2018-10-21T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T18:00:00.000Z","version":2466397334,"name":"Match Odds","eventName":"Majchrzak v Kozlov"}}]}
+{"op":"mcm","clk":"7761079586","pt":1540070047143,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T18:00:00.000Z","suspendTime":"2018-10-21T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T18:00:00.000Z","version":2466397334,"name":"Match Odds","eventName":"Majchrzak v Kozlov"}}]}
+{"op":"mcm","clk":"7761965461","pt":1540081727861,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T18:00:00.000Z","suspendTime":"2018-10-22T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T18:00:00.000Z","version":2466723043,"name":"Match Odds","eventName":"Majchrzak v Kozlov"}}]}
+{"op":"mcm","clk":"7768015685","pt":1540128132531,"mc":[{"id":"1.149935693","rc":[{"ltp":2.48,"id":7415002}]}]}
+{"op":"mcm","clk":"7773481783","pt":1540168123997,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:00:00.000Z","suspendTime":"2018-10-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2470281977,"name":"Match Odds","eventName":"Majchrzak v Kozlov"}}]}
+{"op":"mcm","clk":"7774656415","pt":1540200213890,"mc":[{"id":"1.149935693","rc":[{"ltp":1.56,"id":8698678}]}]}
+{"op":"mcm","clk":"7775466243","pt":1540210583494,"mc":[{"id":"1.149935693","rc":[{"ltp":1.49,"id":8698678}]}]}
+{"op":"mcm","clk":"7776234648","pt":1540218351238,"mc":[{"id":"1.149935693","rc":[{"ltp":3.2,"id":7415002},{"ltp":1.46,"id":8698678}]}]}
+{"op":"mcm","clk":"7778894054","pt":1540247602713,"mc":[{"id":"1.149935693","rc":[{"ltp":3.05,"id":7415002}]}]}
+{"op":"mcm","clk":"7780550721","pt":1540274497999,"mc":[{"id":"1.149935693","rc":[{"ltp":1.47,"id":8698678}]}]}
+{"op":"mcm","clk":"7780997691","pt":1540281970343,"mc":[{"id":"1.149935693","rc":[{"ltp":1.45,"id":8698678}]}]}
+{"op":"mcm","clk":"7781490817","pt":1540288818795,"mc":[{"id":"1.149935693","rc":[{"ltp":1.44,"id":8698678}]}]}
+{"op":"mcm","clk":"7782745347","pt":1540301797953,"mc":[{"id":"1.149935693","rc":[{"ltp":3.3,"id":7415002},{"ltp":1.43,"id":8698678}]}]}
+{"op":"mcm","clk":"7783248945","pt":1540306647803,"mc":[{"id":"1.149935693","rc":[{"ltp":3.35,"id":7415002}]}]}
+{"op":"mcm","clk":"7783607153","pt":1540310410659,"mc":[{"id":"1.149935693","rc":[{"ltp":3.1,"id":7415002}]}]}
+{"op":"mcm","clk":"7783612509","pt":1540310481338,"mc":[{"id":"1.149935693","rc":[{"ltp":2.92,"id":7415002},{"ltp":1.52,"id":8698678}]}]}
+{"op":"mcm","clk":"7784132579","pt":1540315030911,"mc":[{"id":"1.149935693","rc":[{"ltp":3.05,"id":7415002}]}]}
+{"op":"mcm","clk":"7784438474","pt":1540317317033,"mc":[{"id":"1.149935693","rc":[{"ltp":3.0,"id":7415002},{"ltp":1.5,"id":8698678}]}]}
+{"op":"mcm","clk":"7784463817","pt":1540317432353,"mc":[{"id":"1.149935693","rc":[{"ltp":1.44,"id":8698678}]}]}
+{"op":"mcm","clk":"7784479627","pt":1540317553068,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T17:54:00.000Z","suspendTime":"2018-10-23T17:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T17:54:00.000Z","version":2472064198,"name":"Match Odds","eventName":"Majchrzak v Kozlov"},"rc":[{"ltp":1.43,"id":8698678}]}]}
+{"op":"mcm","clk":"7784496939","pt":1540317673928,"mc":[{"id":"1.149935693","rc":[{"ltp":3.05,"id":7415002}]}]}
+{"op":"mcm","clk":"7784513393","pt":1540317794602,"mc":[{"id":"1.149935693","rc":[{"ltp":1.48,"id":8698678}]}]}
+{"op":"mcm","clk":"7784536910","pt":1540317975598,"mc":[{"id":"1.149935693","rc":[{"ltp":1.45,"id":8698678}]}]}
+{"op":"mcm","clk":"7784545632","pt":1540318040196,"mc":[{"id":"1.149935693","rc":[{"ltp":1.42,"id":8698678}]}]}
+{"op":"mcm","clk":"7784554378","pt":1540318104158,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T17:54:00.000Z","suspendTime":"2018-10-23T17:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"ACTIVE","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T17:54:00.000Z","version":2472087834,"name":"Match Odds","eventName":"Majchrzak v Kozlov"},"rc":[{"ltp":3.2,"id":7415002},{"ltp":1.45,"id":8698678}]}]}
+{"op":"mcm","clk":"7784570040","pt":1540318224155,"mc":[{"id":"1.149935693","rc":[{"ltp":2.92,"id":7415002},{"ltp":1.6,"id":8698678}]}]}
+{"op":"mcm","clk":"7784577714","pt":1540318284004,"mc":[{"id":"1.149935693","rc":[{"ltp":2.56,"id":7415002},{"ltp":1.67,"id":8698678}]}]}
+{"op":"mcm","clk":"7784596632","pt":1540318344689,"mc":[{"id":"1.149935693","rc":[{"ltp":1.48,"id":8698678}]}]}
+{"op":"mcm","clk":"7784604281","pt":1540318403703,"mc":[{"id":"1.149935693","rc":[{"ltp":1.43,"id":8698678}]}]}
+{"op":"mcm","clk":"7784621393","pt":1540318523608,"mc":[{"id":"1.149935693","rc":[{"ltp":1.37,"id":8698678}]}]}
+{"op":"mcm","clk":"7784630774","pt":1540318584340,"mc":[{"id":"1.149935693","rc":[{"ltp":3.5,"id":7415002}]}]}
+{"op":"mcm","clk":"7784639706","pt":1540318643289,"mc":[{"id":"1.149935693","rc":[{"ltp":4.0,"id":7415002},{"ltp":1.25,"id":8698678}]}]}
+{"op":"mcm","clk":"7784656261","pt":1540318757614,"mc":[{"id":"1.149935693","rc":[{"ltp":4.2,"id":7415002},{"ltp":1.33,"id":8698678}]}]}
+{"op":"mcm","clk":"7784663575","pt":1540318810267,"mc":[{"id":"1.149935693","rc":[{"ltp":4.3,"id":7415002},{"ltp":1.31,"id":8698678}]}]}
+{"op":"mcm","clk":"7784673562","pt":1540318882580,"mc":[{"id":"1.149935693","rc":[{"ltp":3.85,"id":7415002}]}]}
+{"op":"mcm","clk":"7784682410","pt":1540318944473,"mc":[{"id":"1.149935693","rc":[{"ltp":3.45,"id":7415002},{"ltp":1.28,"id":8698678}]}]}
+{"op":"mcm","clk":"7784688206","pt":1540318984581,"mc":[{"id":"1.149935693","rc":[{"ltp":4.1,"id":7415002},{"ltp":1.32,"id":8698678}]}]}
+{"op":"mcm","clk":"7784714742","pt":1540319184455,"mc":[{"id":"1.149935693","rc":[{"ltp":1.25,"id":8698678}]}]}
+{"op":"mcm","clk":"7784733332","pt":1540319240991,"mc":[{"id":"1.149935693","rc":[{"ltp":1.23,"id":8698678}]}]}
+{"op":"mcm","clk":"7784758975","pt":1540319423357,"mc":[{"id":"1.149935693","rc":[{"ltp":6.6,"id":7415002},{"ltp":1.18,"id":8698678}]}]}
+{"op":"mcm","clk":"7784767437","pt":1540319480017,"mc":[{"id":"1.149935693","rc":[{"ltp":1.14,"id":8698678}]}]}
+{"op":"mcm","clk":"7784777116","pt":1540319544382,"mc":[{"id":"1.149935693","rc":[{"ltp":1.13,"id":8698678}]}]}
+{"op":"mcm","clk":"7784784379","pt":1540319595197,"mc":[{"id":"1.149935693","rc":[{"ltp":1.12,"id":8698678}]}]}
+{"op":"mcm","clk":"7784792696","pt":1540319662663,"mc":[{"id":"1.149935693","rc":[{"ltp":1.08,"id":8698678}]}]}
+{"op":"mcm","clk":"7784800612","pt":1540319721603,"mc":[{"id":"1.149935693","rc":[{"ltp":1.13,"id":8698678}]}]}
+{"op":"mcm","clk":"7784816991","pt":1540319842314,"mc":[{"id":"1.149935693","rc":[{"ltp":1.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7784824252","pt":1540319892844,"mc":[{"id":"1.149935693","rc":[{"ltp":1.11,"id":8698678}]}]}
+{"op":"mcm","clk":"7784843846","pt":1540320022848,"mc":[{"id":"1.149935693","rc":[{"ltp":13.5,"id":7415002},{"ltp":1.08,"id":8698678}]}]}
+{"op":"mcm","clk":"7784853370","pt":1540320084240,"mc":[{"id":"1.149935693","rc":[{"ltp":1.07,"id":8698678}]}]}
+{"op":"mcm","clk":"7784872930","pt":1540320142437,"mc":[{"id":"1.149935693","rc":[{"ltp":1.09,"id":8698678}]}]}
+{"op":"mcm","clk":"7784889943","pt":1540320261753,"mc":[{"id":"1.149935693","rc":[{"ltp":1.1,"id":8698678}]}]}
+{"op":"mcm","clk":"7784918373","pt":1540320423225,"mc":[{"id":"1.149935693","rc":[{"ltp":1.13,"id":8698678}]}]}
+{"op":"mcm","clk":"7784945061","pt":1540320564525,"mc":[{"id":"1.149935693","rc":[{"ltp":1.15,"id":8698678}]}]}
+{"op":"mcm","clk":"7784954811","pt":1540320624411,"mc":[{"id":"1.149935693","rc":[{"ltp":7.4,"id":7415002},{"ltp":1.16,"id":8698678}]}]}
+{"op":"mcm","clk":"7784975374","pt":1540320741268,"mc":[{"id":"1.149935693","rc":[{"ltp":1.12,"id":8698678}]}]}
+{"op":"mcm","clk":"7784986999","pt":1540320804313,"mc":[{"id":"1.149935693","rc":[{"ltp":1.11,"id":8698678}]}]}
+{"op":"mcm","clk":"7784996379","pt":1540320853688,"mc":[{"id":"1.149935693","rc":[{"ltp":1.09,"id":8698678}]}]}
+{"op":"mcm","clk":"7785042691","pt":1540321044044,"mc":[{"id":"1.149935693","rc":[{"ltp":1.04,"id":8698678}]}]}
+{"op":"mcm","clk":"7785053211","pt":1540321101668,"mc":[{"id":"1.149935693","rc":[{"ltp":1.02,"id":8698678}]}]}
+{"op":"mcm","clk":"7785062142","pt":1540321151132,"mc":[{"id":"1.149935693","rc":[{"ltp":1.01,"id":8698678}]}]}
+{"op":"mcm","clk":"7785087701","pt":1540321283705,"mc":[{"id":"1.149935693","rc":[{"ltp":1.02,"id":8698678}]}]}
+{"op":"mcm","clk":"7785099480","pt":1540321344402,"mc":[{"id":"1.149935693","rc":[{"ltp":50.0,"id":7415002},{"ltp":1.03,"id":8698678}]}]}
+{"op":"mcm","clk":"7785111656","pt":1540321404585,"mc":[{"id":"1.149935693","rc":[{"ltp":1.02,"id":8698678}]}]}
+{"op":"mcm","clk":"7785123413","pt":1540321463353,"mc":[{"id":"1.149935693","rc":[{"ltp":26.0,"id":7415002},{"ltp":1.03,"id":8698678}]}]}
+{"op":"mcm","clk":"7785135585","pt":1540321524559,"mc":[{"id":"1.149935693","rc":[{"ltp":1.01,"id":8698678}]}]}
+{"op":"mcm","clk":"7785147446","pt":1540321584210,"mc":[{"id":"1.149935693","rc":[{"ltp":1.02,"id":8698678}]}]}
+{"op":"mcm","clk":"7785157955","pt":1540321643912,"mc":[{"id":"1.149935693","rc":[{"ltp":100.0,"id":7415002}]}]}
+{"op":"mcm","clk":"7785178506","pt":1540321754318,"mc":[{"id":"1.149935693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28967738","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T17:54:00.000Z","suspendTime":"2018-10-23T17:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T19:09:07.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8698678,"name":"Kamil Majchrzak"},{"status":"LOSER","sortPriority":2,"id":7415002,"name":"Stefan Kozlov"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T17:54:00.000Z","version":2472250550,"name":"Match Odds","eventName":"Majchrzak v Kozlov"}}]}

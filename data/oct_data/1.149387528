@@ -1,0 +1,69 @@
+{"op":"mcm","clk":"7622538888","pt":1539225614628,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T01:00:00.000Z","suspendTime":"2018-10-12T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T01:00:00.000Z","version":2449392064,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"}}]}
+{"op":"mcm","clk":"7622547147","pt":1539225864703,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T01:00:00.000Z","suspendTime":"2018-10-12T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T01:00:00.000Z","version":2449392064,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"}}]}
+{"op":"mcm","clk":"7628762923","pt":1539298291584,"mc":[{"id":"1.149387528","rc":[{"ltp":2.86,"id":9327893}]}]}
+{"op":"mcm","clk":"7629035126","pt":1539303815967,"mc":[{"id":"1.149387528","rc":[{"ltp":1.45,"id":13466537}]}]}
+{"op":"mcm","clk":"7629101060","pt":1539305391804,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T00:49:00.000Z","suspendTime":"2018-10-12T00:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T00:49:00.000Z","version":2450316016,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"}}]}
+{"op":"mcm","clk":"7629125827","pt":1539305721229,"mc":[{"id":"1.149387528","rc":[{"ltp":2.84,"id":9327893},{"ltp":1.55,"id":13466537}]}]}
+{"op":"mcm","clk":"7629188756","pt":1539306934028,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T00:49:00.000Z","suspendTime":"2018-10-12T00:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T00:49:00.000Z","version":2450331342,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"}}]}
+{"op":"mcm","clk":"7629196262","pt":1539307111965,"mc":[{"id":"1.149387528","rc":[{"ltp":2.66,"id":9327893},{"ltp":1.6,"id":13466537}]}]}
+{"op":"mcm","clk":"7629198914","pt":1539307167292,"mc":[{"id":"1.149387528","rc":[{"ltp":2.32,"id":9327893},{"ltp":1.74,"id":13466537}]}]}
+{"op":"mcm","clk":"7629203962","pt":1539307294835,"mc":[{"id":"1.149387528","rc":[{"ltp":2.42,"id":9327893},{"ltp":1.7,"id":13466537}]}]}
+{"op":"mcm","clk":"7629215562","pt":1539307348288,"mc":[{"id":"1.149387528","rc":[{"ltp":1.64,"id":13466537}]}]}
+{"op":"mcm","clk":"7629217560","pt":1539307413313,"mc":[{"id":"1.149387528","rc":[{"ltp":2.7,"id":9327893}]}]}
+{"op":"mcm","clk":"7629218836","pt":1539307457617,"mc":[{"id":"1.149387528","rc":[{"ltp":2.48,"id":9327893},{"ltp":1.66,"id":13466537}]}]}
+{"op":"mcm","clk":"7629221421","pt":1539307532406,"mc":[{"id":"1.149387528","rc":[{"ltp":2.34,"id":9327893},{"ltp":1.7,"id":13466537}]}]}
+{"op":"mcm","clk":"7629223244","pt":1539307588813,"mc":[{"id":"1.149387528","rc":[{"ltp":1.74,"id":13466537}]}]}
+{"op":"mcm","clk":"7629225497","pt":1539307653861,"mc":[{"id":"1.149387528","rc":[{"ltp":1.66,"id":13466537}]}]}
+{"op":"mcm","clk":"7629227894","pt":1539307713648,"mc":[{"id":"1.149387528","rc":[{"ltp":2.62,"id":9327893},{"ltp":1.61,"id":13466537}]}]}
+{"op":"mcm","clk":"7629230083","pt":1539307774186,"mc":[{"id":"1.149387528","rc":[{"ltp":2.42,"id":9327893},{"ltp":1.7,"id":13466537}]}]}
+{"op":"mcm","clk":"7629234515","pt":1539307886821,"mc":[{"id":"1.149387528","rc":[{"ltp":2.12,"id":9327893},{"ltp":1.89,"id":13466537}]}]}
+{"op":"mcm","clk":"7629237273","pt":1539307953485,"mc":[{"id":"1.149387528","rc":[{"ltp":2.16,"id":9327893},{"ltp":1.86,"id":13466537}]}]}
+{"op":"mcm","clk":"7629239683","pt":1539308014509,"mc":[{"id":"1.149387528","rc":[{"ltp":2.86,"id":9327893},{"ltp":1.54,"id":13466537}]}]}
+{"op":"mcm","clk":"7629241947","pt":1539308071849,"mc":[{"id":"1.149387528","rc":[{"ltp":3.05,"id":9327893},{"ltp":1.44,"id":13466537}]}]}
+{"op":"mcm","clk":"7629243974","pt":1539308133880,"mc":[{"id":"1.149387528","rc":[{"ltp":3.25,"id":9327893},{"ltp":1.41,"id":13466537}]}]}
+{"op":"mcm","clk":"7629246264","pt":1539308194655,"mc":[{"id":"1.149387528","rc":[{"ltp":3.35,"id":9327893},{"ltp":1.29,"id":13466537}]}]}
+{"op":"mcm","clk":"7629257728","pt":1539308253533,"mc":[{"id":"1.149387528","rc":[{"ltp":4.3,"id":9327893},{"ltp":1.3,"id":13466537}]}]}
+{"op":"mcm","clk":"7629259513","pt":1539308300445,"mc":[{"id":"1.149387528","rc":[{"ltp":4.7,"id":9327893},{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7629261711","pt":1539308363965,"mc":[{"id":"1.149387528","rc":[{"ltp":5.3,"id":9327893}]}]}
+{"op":"mcm","clk":"7629265414","pt":1539308494011,"mc":[{"id":"1.149387528","rc":[{"ltp":1.24,"id":13466537}]}]}
+{"op":"mcm","clk":"7629270577","pt":1539308673443,"mc":[{"id":"1.149387528","rc":[{"ltp":1.31,"id":13466537}]}]}
+{"op":"mcm","clk":"7629272466","pt":1539308734858,"mc":[{"id":"1.149387528","rc":[{"ltp":5.6,"id":9327893},{"ltp":1.21,"id":13466537}]}]}
+{"op":"mcm","clk":"7629274102","pt":1539308792040,"mc":[{"id":"1.149387528","rc":[{"ltp":6.0,"id":9327893},{"ltp":1.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7629275860","pt":1539308847064,"mc":[{"id":"1.149387528","rc":[{"ltp":5.5,"id":9327893},{"ltp":1.23,"id":13466537}]}]}
+{"op":"mcm","clk":"7629276884","pt":1539308876146,"mc":[{"id":"1.149387528","rc":[{"ltp":1.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7629282787","pt":1539309034053,"mc":[{"id":"1.149387528","rc":[{"ltp":5.3,"id":9327893}]}]}
+{"op":"mcm","clk":"7629299840","pt":1539309210426,"mc":[{"id":"1.149387528","rc":[{"ltp":5.0,"id":9327893},{"ltp":1.25,"id":13466537}]}]}
+{"op":"mcm","clk":"7629301317","pt":1539309260132,"mc":[{"id":"1.149387528","rc":[{"ltp":4.4,"id":9327893},{"ltp":1.29,"id":13466537}]}]}
+{"op":"mcm","clk":"7629303742","pt":1539309333774,"mc":[{"id":"1.149387528","rc":[{"ltp":5.4,"id":9327893},{"ltp":1.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7629306124","pt":1539309393024,"mc":[{"id":"1.149387528","rc":[{"ltp":5.1,"id":9327893},{"ltp":1.25,"id":13466537}]}]}
+{"op":"mcm","clk":"7629310274","pt":1539309513504,"mc":[{"id":"1.149387528","rc":[{"ltp":7.2,"id":9327893},{"ltp":1.24,"id":13466537}]}]}
+{"op":"mcm","clk":"7629314243","pt":1539309632469,"mc":[{"id":"1.149387528","rc":[{"ltp":4.8,"id":9327893},{"ltp":1.26,"id":13466537}]}]}
+{"op":"mcm","clk":"7629323878","pt":1539309874627,"mc":[{"id":"1.149387528","rc":[{"ltp":1.25,"id":13466537}]}]}
+{"op":"mcm","clk":"7629326683","pt":1539309924298,"mc":[{"id":"1.149387528","rc":[{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7629329626","pt":1539309993715,"mc":[{"id":"1.149387528","rc":[{"ltp":4.4,"id":9327893},{"ltp":1.29,"id":13466537}]}]}
+{"op":"mcm","clk":"7629342432","pt":1539310052844,"mc":[{"id":"1.149387528","rc":[{"ltp":2.88,"id":9327893},{"ltp":1.53,"id":13466537}]}]}
+{"op":"mcm","clk":"7629345235","pt":1539310114655,"mc":[{"id":"1.149387528","rc":[{"ltp":3.1,"id":9327893}]}]}
+{"op":"mcm","clk":"7629347655","pt":1539310174787,"mc":[{"id":"1.149387528","rc":[{"ltp":2.78,"id":9327893},{"ltp":1.56,"id":13466537}]}]}
+{"op":"mcm","clk":"7629349939","pt":1539310233028,"mc":[{"id":"1.149387528","rc":[{"ltp":3.35,"id":9327893},{"ltp":1.43,"id":13466537}]}]}
+{"op":"mcm","clk":"7629352594","pt":1539310293064,"mc":[{"id":"1.149387528","rc":[{"ltp":3.95,"id":9327893},{"ltp":1.34,"id":13466537}]}]}
+{"op":"mcm","clk":"7629354958","pt":1539310347512,"mc":[{"id":"1.149387528","rc":[{"ltp":4.4,"id":9327893},{"ltp":1.31,"id":13466537}]}]}
+{"op":"mcm","clk":"7629361896","pt":1539310530506,"mc":[{"id":"1.149387528","rc":[{"ltp":4.7,"id":9327893},{"ltp":1.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7629363770","pt":1539310593236,"mc":[{"id":"1.149387528","rc":[{"ltp":4.8,"id":9327893}]}]}
+{"op":"mcm","clk":"7629367638","pt":1539310712972,"mc":[{"id":"1.149387528","rc":[{"ltp":4.2,"id":9327893},{"ltp":1.3,"id":13466537}]}]}
+{"op":"mcm","clk":"7629369765","pt":1539310773542,"mc":[{"id":"1.149387528","rc":[{"ltp":4.1,"id":9327893},{"ltp":1.24,"id":13466537}]}]}
+{"op":"mcm","clk":"7629374408","pt":1539310894034,"mc":[{"id":"1.149387528","rc":[{"ltp":1.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7629388204","pt":1539311011447,"mc":[{"id":"1.149387528","rc":[{"ltp":4.3,"id":9327893},{"ltp":1.33,"id":13466537}]}]}
+{"op":"mcm","clk":"7629390331","pt":1539311065627,"mc":[{"id":"1.149387528","rc":[{"ltp":4.0,"id":9327893},{"ltp":1.34,"id":13466537}]}]}
+{"op":"mcm","clk":"7629395744","pt":1539311193059,"mc":[{"id":"1.149387528","rc":[{"ltp":3.5,"id":9327893},{"ltp":1.4,"id":13466537}]}]}
+{"op":"mcm","clk":"7629398896","pt":1539311251531,"mc":[{"id":"1.149387528","rc":[{"ltp":2.16,"id":9327893},{"ltp":1.86,"id":13466537}]}]}
+{"op":"mcm","clk":"7629403428","pt":1539311371354,"mc":[{"id":"1.149387528","rc":[{"ltp":2.6,"id":9327893},{"ltp":1.57,"id":13466537}]}]}
+{"op":"mcm","clk":"7629405382","pt":1539311434870,"mc":[{"id":"1.149387528","rc":[{"ltp":1.34,"id":13466537}]}]}
+{"op":"mcm","clk":"7629407429","pt":1539311493747,"mc":[{"id":"1.149387528","rc":[{"ltp":2.14,"id":9327893},{"ltp":1.88,"id":13466537}]}]}
+{"op":"mcm","clk":"7629409610","pt":1539311554297,"mc":[{"id":"1.149387528","rc":[{"ltp":2.66,"id":9327893},{"ltp":1.6,"id":13466537}]}]}
+{"op":"mcm","clk":"7629411714","pt":1539311610122,"mc":[{"id":"1.149387528","rc":[{"ltp":2.1,"id":9327893},{"ltp":1.9,"id":13466537}]}]}
+{"op":"mcm","clk":"7629414457","pt":1539311674776,"mc":[{"id":"1.149387528","rc":[{"ltp":1.52,"id":9327893},{"ltp":2.9,"id":13466537}]}]}
+{"op":"mcm","clk":"7629416826","pt":1539311734196,"mc":[{"id":"1.149387528","rc":[{"ltp":2.04,"id":9327893},{"ltp":1.97,"id":13466537}]}]}
+{"op":"mcm","clk":"7629418424","pt":1539311785748,"mc":[{"id":"1.149387528","rc":[{"ltp":2.14,"id":9327893},{"ltp":1.92,"id":13466537}]}]}
+{"op":"mcm","clk":"7629430514","pt":1539311854740,"mc":[{"id":"1.149387528","rc":[{"ltp":2.6,"id":9327893},{"ltp":1.21,"id":13466537}]}]}
+{"op":"mcm","clk":"7629432009","pt":1539311903768,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T00:49:00.000Z","suspendTime":"2018-10-12T00:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T00:49:00.000Z","version":2450364037,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"},"rc":[{"ltp":14.0,"id":9327893},{"ltp":1.08,"id":13466537}]}]}
+{"op":"mcm","clk":"7629433182","pt":1539311943082,"mc":[{"id":"1.149387528","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950160","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T00:49:00.000Z","suspendTime":"2018-10-12T00:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T02:38:57.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"LOSER","sortPriority":2,"id":9327893,"name":"Johnson/Johnson"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T00:49:00.000Z","version":2450364069,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Johnson/Johnson"}}]}

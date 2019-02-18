@@ -1,0 +1,61 @@
+{"op":"mcm","clk":"7827477221","pt":1540610976845,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:00:00.000Z","suspendTime":"2018-10-28T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"ACTIVE","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:00:00.000Z","version":2477527705,"name":"Match Odds","eventName":"18736056"}}]}
+{"op":"mcm","clk":"7827529552","pt":1540611711881,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:00:00.000Z","suspendTime":"2018-10-28T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"ACTIVE","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:00:00.000Z","version":2477527705,"name":"Match Odds","eventName":"18736056"}}]}
+{"op":"mcm","clk":"7828850097","pt":1540626831647,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:30:00.000Z","suspendTime":"2018-10-28T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"ACTIVE","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:30:00.000Z","version":2477692031,"name":"Match Odds","eventName":"18736056"}}]}
+{"op":"mcm","clk":"7837857463","pt":1540665559928,"mc":[{"id":"1.150301956","rc":[{"ltp":1.25,"id":10410254}]}]}
+{"op":"mcm","clk":"7839294844","pt":1540674109268,"mc":[{"id":"1.150301956","rc":[{"ltp":1.21,"id":10410254}]}]}
+{"op":"mcm","clk":"7841161044","pt":1540693424088,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:22:00.000Z","suspendTime":"2018-10-28T02:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"ACTIVE","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:22:00.000Z","version":2481083900,"name":"Match Odds","eventName":"18736056"}}]}
+{"op":"mcm","clk":"7841170073","pt":1540693526132,"mc":[{"id":"1.150301956","rc":[{"ltp":5.3,"id":8256942},{"ltp":1.24,"id":10410254}]}]}
+{"op":"mcm","clk":"7841230531","pt":1540694091677,"mc":[{"id":"1.150301956","rc":[{"ltp":1.19,"id":10410254}]}]}
+{"op":"mcm","clk":"7841235962","pt":1540694151214,"mc":[{"id":"1.150301956","rc":[{"ltp":5.6,"id":8256942}]}]}
+{"op":"mcm","clk":"7841238322","pt":1540694179041,"mc":[{"id":"1.150301956","rc":[{"ltp":5.1,"id":8256942}]}]}
+{"op":"mcm","clk":"7841245265","pt":1540694270253,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:22:00.000Z","suspendTime":"2018-10-28T02:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"ACTIVE","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:22:00.000Z","version":2481110550,"name":"Match Odds","eventName":"18736056"},"rc":[{"ltp":6.2,"id":8256942}]}]}
+{"op":"mcm","clk":"7841255646","pt":1540694395293,"mc":[{"id":"1.150301956","rc":[{"ltp":1.17,"id":10410254}]}]}
+{"op":"mcm","clk":"7841264940","pt":1540694497500,"mc":[{"id":"1.150301956","rc":[{"ltp":1.11,"id":10410254}]}]}
+{"op":"mcm","clk":"7841271941","pt":1540694574904,"mc":[{"id":"1.150301956","rc":[{"ltp":15.0,"id":8256942},{"ltp":1.07,"id":10410254}]}]}
+{"op":"mcm","clk":"7841338635","pt":1540695167495,"mc":[{"id":"1.150301956","rc":[{"ltp":1.08,"id":10410254}]}]}
+{"op":"mcm","clk":"7841344322","pt":1540695235154,"mc":[{"id":"1.150301956","rc":[{"ltp":1.1,"id":10410254}]}]}
+{"op":"mcm","clk":"7841357644","pt":1540695408648,"mc":[{"id":"1.150301956","rc":[{"ltp":1.07,"id":10410254}]}]}
+{"op":"mcm","clk":"7841365707","pt":1540695533403,"mc":[{"id":"1.150301956","rc":[{"ltp":1.09,"id":10410254}]}]}
+{"op":"mcm","clk":"7841372803","pt":1540695649620,"mc":[{"id":"1.150301956","rc":[{"ltp":1.15,"id":10410254}]}]}
+{"op":"mcm","clk":"7841376716","pt":1540695699478,"mc":[{"id":"1.150301956","rc":[{"ltp":5.7,"id":8256942},{"ltp":1.21,"id":10410254}]}]}
+{"op":"mcm","clk":"7841394992","pt":1540695775286,"mc":[{"id":"1.150301956","rc":[{"ltp":1.23,"id":10410254}]}]}
+{"op":"mcm","clk":"7841398757","pt":1540695822061,"mc":[{"id":"1.150301956","rc":[{"ltp":5.0,"id":8256942},{"ltp":1.25,"id":10410254}]}]}
+{"op":"mcm","clk":"7841404009","pt":1540695893999,"mc":[{"id":"1.150301956","rc":[{"ltp":1.29,"id":10410254}]}]}
+{"op":"mcm","clk":"7841408188","pt":1540695954372,"mc":[{"id":"1.150301956","rc":[{"ltp":1.25,"id":10410254}]}]}
+{"op":"mcm","clk":"7841417988","pt":1540696071779,"mc":[{"id":"1.150301956","rc":[{"ltp":5.5,"id":8256942},{"ltp":1.23,"id":10410254}]}]}
+{"op":"mcm","clk":"7841422335","pt":1540696135150,"mc":[{"id":"1.150301956","rc":[{"ltp":1.24,"id":10410254}]}]}
+{"op":"mcm","clk":"7841426462","pt":1540696192086,"mc":[{"id":"1.150301956","rc":[{"ltp":1.33,"id":10410254}]}]}
+{"op":"mcm","clk":"7841435955","pt":1540696313137,"mc":[{"id":"1.150301956","rc":[{"ltp":2.88,"id":8256942}]}]}
+{"op":"mcm","clk":"7841449379","pt":1540696460360,"mc":[{"id":"1.150301956","rc":[{"ltp":2.14,"id":8256942},{"ltp":1.87,"id":10410254}]}]}
+{"op":"mcm","clk":"7841462176","pt":1540696606150,"mc":[{"id":"1.150301956","rc":[{"ltp":2.04,"id":8256942}]}]}
+{"op":"mcm","clk":"7841480831","pt":1540696671565,"mc":[{"id":"1.150301956","rc":[{"ltp":1.98,"id":8256942},{"ltp":2.02,"id":10410254}]}]}
+{"op":"mcm","clk":"7841486448","pt":1540696731001,"mc":[{"id":"1.150301956","rc":[{"ltp":1.86,"id":8256942},{"ltp":2.16,"id":10410254}]}]}
+{"op":"mcm","clk":"7841496593","pt":1540696841823,"mc":[{"id":"1.150301956","rc":[{"ltp":1.74,"id":8256942},{"ltp":2.36,"id":10410254}]}]}
+{"op":"mcm","clk":"7841503864","pt":1540696912178,"mc":[{"id":"1.150301956","rc":[{"ltp":1.86,"id":8256942}]}]}
+{"op":"mcm","clk":"7841508307","pt":1540696957475,"mc":[{"id":"1.150301956","rc":[{"ltp":2.02,"id":8256942}]}]}
+{"op":"mcm","clk":"7841514764","pt":1540697026223,"mc":[{"id":"1.150301956","rc":[{"ltp":2.08,"id":8256942},{"ltp":1.96,"id":10410254}]}]}
+{"op":"mcm","clk":"7841527003","pt":1540697148729,"mc":[{"id":"1.150301956","rc":[{"ltp":1.98,"id":8256942}]}]}
+{"op":"mcm","clk":"7841532823","pt":1540697213739,"mc":[{"id":"1.150301956","rc":[{"ltp":1.74,"id":8256942},{"ltp":2.36,"id":10410254}]}]}
+{"op":"mcm","clk":"7841552947","pt":1540697447097,"mc":[{"id":"1.150301956","rc":[{"ltp":2.0,"id":8256942},{"ltp":2.0,"id":10410254}]}]}
+{"op":"mcm","clk":"7841584816","pt":1540697626837,"mc":[{"id":"1.150301956","rc":[{"ltp":2.1,"id":8256942},{"ltp":1.92,"id":10410254}]}]}
+{"op":"mcm","clk":"7841589972","pt":1540697693645,"mc":[{"id":"1.150301956","rc":[{"ltp":1.96,"id":8256942},{"ltp":2.06,"id":10410254}]}]}
+{"op":"mcm","clk":"7841593094","pt":1540697737031,"mc":[{"id":"1.150301956","rc":[{"ltp":2.14,"id":8256942}]}]}
+{"op":"mcm","clk":"7841597863","pt":1540697807225,"mc":[{"id":"1.150301956","rc":[{"ltp":2.46,"id":8256942}]}]}
+{"op":"mcm","clk":"7841601797","pt":1540697870445,"mc":[{"id":"1.150301956","rc":[{"ltp":2.98,"id":8256942},{"ltp":1.51,"id":10410254}]}]}
+{"op":"mcm","clk":"7841610796","pt":1540697986000,"mc":[{"id":"1.150301956","rc":[{"ltp":1.86,"id":10410254}]}]}
+{"op":"mcm","clk":"7841617898","pt":1540698078865,"mc":[{"id":"1.150301956","rc":[{"ltp":2.04,"id":8256942}]}]}
+{"op":"mcm","clk":"7841644429","pt":1540698409034,"mc":[{"id":"1.150301956","rc":[{"ltp":1.83,"id":8256942},{"ltp":2.2,"id":10410254}]}]}
+{"op":"mcm","clk":"7841661022","pt":1540698452641,"mc":[{"id":"1.150301956","rc":[{"ltp":2.02,"id":8256942},{"ltp":1.98,"id":10410254}]}]}
+{"op":"mcm","clk":"7841674440","pt":1540698643948,"mc":[{"id":"1.150301956","rc":[{"ltp":2.0,"id":8256942},{"ltp":2.0,"id":10410254}]}]}
+{"op":"mcm","clk":"7841684203","pt":1540698773339,"mc":[{"id":"1.150301956","rc":[{"ltp":2.36,"id":10410254}]}]}
+{"op":"mcm","clk":"7841698992","pt":1540698948470,"mc":[{"id":"1.150301956","rc":[{"ltp":2.04,"id":8256942},{"ltp":1.98,"id":10410254}]}]}
+{"op":"mcm","clk":"7841708530","pt":1540699074916,"mc":[{"id":"1.150301956","rc":[{"ltp":1.74,"id":8256942},{"ltp":2.36,"id":10410254}]}]}
+{"op":"mcm","clk":"7841713078","pt":1540699135073,"mc":[{"id":"1.150301956","rc":[{"ltp":2.34,"id":10410254}]}]}
+{"op":"mcm","clk":"7841726793","pt":1540699254862,"mc":[{"id":"1.150301956","rc":[{"ltp":1.54,"id":8256942},{"ltp":2.66,"id":10410254}]}]}
+{"op":"mcm","clk":"7841732183","pt":1540699314185,"mc":[{"id":"1.150301956","rc":[{"ltp":1.44,"id":8256942},{"ltp":4.0,"id":10410254}]}]}
+{"op":"mcm","clk":"7841750751","pt":1540699371885,"mc":[{"id":"1.150301956","rc":[{"ltp":1.14,"id":8256942}]}]}
+{"op":"mcm","clk":"7841755486","pt":1540699429197,"mc":[{"id":"1.150301956","rc":[{"ltp":8.6,"id":10410254}]}]}
+{"op":"mcm","clk":"7841760623","pt":1540699492590,"mc":[{"id":"1.150301956","rc":[{"ltp":1.22,"id":8256942},{"ltp":5.5,"id":10410254}]}]}
+{"op":"mcm","clk":"7841766256","pt":1540699553209,"mc":[{"id":"1.150301956","rc":[{"ltp":1.08,"id":8256942},{"ltp":9.2,"id":10410254}]}]}
+{"op":"mcm","clk":"7841773089","pt":1540699615304,"mc":[{"id":"1.150301956","rc":[{"ltp":1.01,"id":8256942}]}]}
+{"op":"mcm","clk":"7841776261","pt":1540699654075,"mc":[{"id":"1.150301956","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978638","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:22:00.000Z","suspendTime":"2018-10-28T02:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-28T04:07:31.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8256942,"name":"Sidharth Rawat"},{"status":"LOSER","sortPriority":2,"id":10410254,"name":"Zsombor Piros"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:22:00.000Z","version":2481174123,"name":"Match Odds","eventName":"18736056"}}]}

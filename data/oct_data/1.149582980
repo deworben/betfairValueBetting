@@ -1,0 +1,108 @@
+{"op":"mcm","clk":"7720916872","pt":1539512399021,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455111077,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7720939665","pt":1539512606599,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455111077,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7722801197","pt":1539527659376,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:00:00.000Z","suspendTime":"2018-10-15T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:00:00.000Z","version":2455686643,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7724654669","pt":1539545145988,"mc":[{"id":"1.149582980","rc":[{"ltp":1.64,"id":2403863}]}]}
+{"op":"mcm","clk":"7725529618","pt":1539557320752,"mc":[{"id":"1.149582980","rc":[{"ltp":2.3,"id":7186355}]}]}
+{"op":"mcm","clk":"7725918988","pt":1539567931511,"mc":[{"id":"1.149582980","rc":[{"ltp":1.65,"id":2403863}]}]}
+{"op":"mcm","clk":"7726033717","pt":1539571027763,"mc":[{"id":"1.149582980","rc":[{"ltp":1.66,"id":2403863}]}]}
+{"op":"mcm","clk":"7726151792","pt":1539574381094,"mc":[{"id":"1.149582980","rc":[{"ltp":1.64,"id":2403863}]}]}
+{"op":"mcm","clk":"7726290673","pt":1539578533933,"mc":[{"id":"1.149582980","rc":[{"ltp":1.67,"id":2403863}]}]}
+{"op":"mcm","clk":"7726448723","pt":1539583221551,"mc":[{"id":"1.149582980","rc":[{"ltp":1.74,"id":2403863}]}]}
+{"op":"mcm","clk":"7726459845","pt":1539583340864,"mc":[{"id":"1.149582980","rc":[{"ltp":2.36,"id":7186355}]}]}
+{"op":"mcm","clk":"7726471200","pt":1539583697966,"mc":[{"id":"1.149582980","rc":[{"ltp":2.4,"id":7186355},{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7726473424","pt":1539583758382,"mc":[{"id":"1.149582980","rc":[{"ltp":2.42,"id":7186355},{"ltp":1.66,"id":2403863}]}]}
+{"op":"mcm","clk":"7726476960","pt":1539583862566,"mc":[{"id":"1.149582980","rc":[{"ltp":1.72,"id":2403863}]}]}
+{"op":"mcm","clk":"7726481853","pt":1539584000075,"mc":[{"id":"1.149582980","rc":[{"ltp":2.32,"id":7186355},{"ltp":1.76,"id":2403863}]}]}
+{"op":"mcm","clk":"7726499748","pt":1539584280726,"mc":[{"id":"1.149582980","rc":[{"ltp":1.67,"id":2403863}]}]}
+{"op":"mcm","clk":"7726508971","pt":1539584541349,"mc":[{"id":"1.149582980","rc":[{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7726512284","pt":1539584656042,"mc":[{"id":"1.149582980","rc":[{"ltp":2.2,"id":7186355},{"ltp":1.8,"id":2403863}]}]}
+{"op":"mcm","clk":"7726514793","pt":1539584767443,"mc":[{"id":"1.149582980","rc":[{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7726578028","pt":1539586498892,"mc":[{"id":"1.149582980","rc":[{"ltp":2.28,"id":7186355},{"ltp":1.78,"id":2403863}]}]}
+{"op":"mcm","clk":"7726611582","pt":1539587358826,"mc":[{"id":"1.149582980","rc":[{"ltp":1.73,"id":2403863}]}]}
+{"op":"mcm","clk":"7726647629","pt":1539588256759,"mc":[{"id":"1.149582980","rc":[{"ltp":2.36,"id":7186355}]}]}
+{"op":"mcm","clk":"7726654872","pt":1539588493832,"mc":[{"id":"1.149582980","rc":[{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7726657011","pt":1539588557387,"mc":[{"id":"1.149582980","rc":[{"ltp":1.73,"id":2403863}]}]}
+{"op":"mcm","clk":"7726662233","pt":1539588717686,"mc":[{"id":"1.149582980","rc":[{"ltp":1.74,"id":2403863}]}]}
+{"op":"mcm","clk":"7726707322","pt":1539589634519,"mc":[{"id":"1.149582980","rc":[{"ltp":1.73,"id":2403863}]}]}
+{"op":"mcm","clk":"7726713252","pt":1539589821145,"mc":[{"id":"1.149582980","rc":[{"ltp":2.34,"id":7186355}]}]}
+{"op":"mcm","clk":"7726716925","pt":1539589936879,"mc":[{"id":"1.149582980","rc":[{"ltp":2.32,"id":7186355}]}]}
+{"op":"mcm","clk":"7726725436","pt":1539590178983,"mc":[{"id":"1.149582980","rc":[{"ltp":1.75,"id":2403863}]}]}
+{"op":"mcm","clk":"7726727309","pt":1539590239527,"mc":[{"id":"1.149582980","rc":[{"ltp":1.74,"id":2403863}]}]}
+{"op":"mcm","clk":"7726730768","pt":1539590357760,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:58:00.000Z","suspendTime":"2018-10-15T09:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:58:00.000Z","version":2456963719,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7726765797","pt":1539591164668,"mc":[{"id":"1.149582980","rc":[{"ltp":1.76,"id":2403863}]}]}
+{"op":"mcm","clk":"7726794868","pt":1539591679453,"mc":[{"id":"1.149582980","rc":[{"ltp":2.3,"id":7186355},{"ltp":1.74,"id":2403863}]}]}
+{"op":"mcm","clk":"7726807290","pt":1539591978721,"mc":[{"id":"1.149582980","rc":[{"ltp":2.6,"id":7186355},{"ltp":1.63,"id":2403863}]}]}
+{"op":"mcm","clk":"7726843601","pt":1539592577376,"mc":[{"id":"1.149582980","rc":[{"ltp":2.36,"id":7186355}]}]}
+{"op":"mcm","clk":"7726857013","pt":1539592817538,"mc":[{"id":"1.149582980","rc":[{"ltp":2.28,"id":7186355},{"ltp":1.78,"id":2403863}]}]}
+{"op":"mcm","clk":"7726860356","pt":1539592880847,"mc":[{"id":"1.149582980","rc":[{"ltp":2.18,"id":7186355},{"ltp":1.69,"id":2403863}]}]}
+{"op":"mcm","clk":"7726870915","pt":1539593106209,"mc":[{"id":"1.149582980","rc":[{"ltp":1.7,"id":2403863}]}]}
+{"op":"mcm","clk":"7726940880","pt":1539594304033,"mc":[{"id":"1.149582980","rc":[{"ltp":2.38,"id":7186355}]}]}
+{"op":"mcm","clk":"7726943365","pt":1539594355643,"mc":[{"id":"1.149582980","rc":[{"ltp":2.28,"id":7186355}]}]}
+{"op":"mcm","clk":"7726946714","pt":1539594426482,"mc":[{"id":"1.149582980","rc":[{"ltp":2.38,"id":7186355},{"ltp":1.72,"id":2403863}]}]}
+{"op":"mcm","clk":"7726958299","pt":1539594657885,"mc":[{"id":"1.149582980","rc":[{"ltp":1.84,"id":2403863}]}]}
+{"op":"mcm","clk":"7727006767","pt":1539595398512,"mc":[{"id":"1.149582980","rc":[{"ltp":1.72,"id":2403863}]}]}
+{"op":"mcm","clk":"7727022583","pt":1539595701526,"mc":[{"id":"1.149582980","rc":[{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7727082984","pt":1539596659072,"mc":[{"id":"1.149582980","rc":[{"ltp":2.26,"id":7186355},{"ltp":1.79,"id":2403863}]}]}
+{"op":"mcm","clk":"7727100018","pt":1539596838170,"mc":[{"id":"1.149582980","rc":[{"ltp":1.78,"id":2403863}]}]}
+{"op":"mcm","clk":"7727102387","pt":1539596888367,"mc":[{"id":"1.149582980","rc":[{"ltp":1.79,"id":2403863}]}]}
+{"op":"mcm","clk":"7727117783","pt":1539597201439,"mc":[{"id":"1.149582980","rc":[{"ltp":2.38,"id":7186355},{"ltp":1.73,"id":2403863}]}]}
+{"op":"mcm","clk":"7727130669","pt":1539597424076,"mc":[{"id":"1.149582980","rc":[{"ltp":2.4,"id":7186355},{"ltp":1.71,"id":2403863}]}]}
+{"op":"mcm","clk":"7727134983","pt":1539597491731,"mc":[{"id":"1.149582980","rc":[{"ltp":1.7,"id":2403863}]}]}
+{"op":"mcm","clk":"7727139254","pt":1539597557728,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:13:00.000Z","suspendTime":"2018-10-15T10:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:13:00.000Z","version":2456994831,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7727160238","pt":1539597740205,"mc":[{"id":"1.149582980","rc":[{"ltp":1.68,"id":2403863}]}]}
+{"op":"mcm","clk":"7727205313","pt":1539598390682,"mc":[{"id":"1.149582980","rc":[{"ltp":2.38,"id":7186355},{"ltp":1.75,"id":2403863}]}]}
+{"op":"mcm","clk":"7727209843","pt":1539598457394,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:28:00.000Z","suspendTime":"2018-10-15T10:28:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:28:00.000Z","version":2457000654,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7727213864","pt":1539598514146,"mc":[{"id":"1.149582980","rc":[{"ltp":1.69,"id":2403863}]}]}
+{"op":"mcm","clk":"7727238397","pt":1539598761527,"mc":[{"id":"1.149582980","rc":[{"ltp":1.72,"id":2403863}]}]}
+{"op":"mcm","clk":"7727242136","pt":1539598809631,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:16:00.000Z","suspendTime":"2018-10-15T10:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:16:00.000Z","version":2457003818,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"},"rc":[{"ltp":1.7,"id":2403863}]}]}
+{"op":"mcm","clk":"7727257485","pt":1539598990365,"mc":[{"id":"1.149582980","rc":[{"ltp":2.32,"id":7186355}]}]}
+{"op":"mcm","clk":"7727272558","pt":1539599181613,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:16:00.000Z","suspendTime":"2018-10-15T10:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:16:00.000Z","version":2457004894,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"},"rc":[{"ltp":2.56,"id":7186355},{"ltp":1.64,"id":2403863}]}]}
+{"op":"mcm","clk":"7727276217","pt":1539599239988,"mc":[{"id":"1.149582980","rc":[{"ltp":2.84,"id":7186355},{"ltp":1.53,"id":2403863}]}]}
+{"op":"mcm","clk":"7727280046","pt":1539599301495,"mc":[{"id":"1.149582980","rc":[{"ltp":3.2,"id":7186355},{"ltp":1.49,"id":2403863}]}]}
+{"op":"mcm","clk":"7727283939","pt":1539599361416,"mc":[{"id":"1.149582980","rc":[{"ltp":3.6,"id":7186355},{"ltp":1.39,"id":2403863}]}]}
+{"op":"mcm","clk":"7727287599","pt":1539599418302,"mc":[{"id":"1.149582980","rc":[{"ltp":3.25,"id":7186355},{"ltp":1.38,"id":2403863}]}]}
+{"op":"mcm","clk":"7727291826","pt":1539599481439,"mc":[{"id":"1.149582980","rc":[{"ltp":3.9,"id":7186355},{"ltp":1.33,"id":2403863}]}]}
+{"op":"mcm","clk":"7727306994","pt":1539599601160,"mc":[{"id":"1.149582980","rc":[{"ltp":4.0,"id":7186355},{"ltp":1.34,"id":2403863}]}]}
+{"op":"mcm","clk":"7727310744","pt":1539599661481,"mc":[{"id":"1.149582980","rc":[{"ltp":4.4,"id":7186355},{"ltp":1.3,"id":2403863}]}]}
+{"op":"mcm","clk":"7727314638","pt":1539599721550,"mc":[{"id":"1.149582980","rc":[{"ltp":4.5,"id":7186355}]}]}
+{"op":"mcm","clk":"7727318691","pt":1539599781515,"mc":[{"id":"1.149582980","rc":[{"ltp":4.3,"id":7186355}]}]}
+{"op":"mcm","clk":"7727322920","pt":1539599840713,"mc":[{"id":"1.149582980","rc":[{"ltp":1.31,"id":2403863}]}]}
+{"op":"mcm","clk":"7727327211","pt":1539599900783,"mc":[{"id":"1.149582980","rc":[{"ltp":1.22,"id":2403863}]}]}
+{"op":"mcm","clk":"7727331689","pt":1539599959198,"mc":[{"id":"1.149582980","rc":[{"ltp":1.18,"id":2403863}]}]}
+{"op":"mcm","clk":"7727336167","pt":1539600020621,"mc":[{"id":"1.149582980","rc":[{"ltp":6.0,"id":7186355},{"ltp":1.2,"id":2403863}]}]}
+{"op":"mcm","clk":"7727340361","pt":1539600080704,"mc":[{"id":"1.149582980","rc":[{"ltp":1.18,"id":2403863}]}]}
+{"op":"mcm","clk":"7727344203","pt":1539600139867,"mc":[{"id":"1.149582980","rc":[{"ltp":6.2,"id":7186355},{"ltp":1.19,"id":2403863}]}]}
+{"op":"mcm","clk":"7727348434","pt":1539600199880,"mc":[{"id":"1.149582980","rc":[{"ltp":5.7,"id":7186355},{"ltp":1.21,"id":2403863}]}]}
+{"op":"mcm","clk":"7727352848","pt":1539600261546,"mc":[{"id":"1.149582980","rc":[{"ltp":6.4,"id":7186355},{"ltp":1.19,"id":2403863}]}]}
+{"op":"mcm","clk":"7727357207","pt":1539600321682,"mc":[{"id":"1.149582980","rc":[{"ltp":1.17,"id":2403863}]}]}
+{"op":"mcm","clk":"7727361014","pt":1539600379922,"mc":[{"id":"1.149582980","rc":[{"ltp":6.2,"id":7186355},{"ltp":1.19,"id":2403863}]}]}
+{"op":"mcm","clk":"7727379700","pt":1539600561534,"mc":[{"id":"1.149582980","rc":[{"ltp":5.5,"id":7186355},{"ltp":1.21,"id":2403863}]}]}
+{"op":"mcm","clk":"7727383749","pt":1539600621686,"mc":[{"id":"1.149582980","rc":[{"ltp":6.2,"id":7186355},{"ltp":1.19,"id":2403863}]}]}
+{"op":"mcm","clk":"7727387889","pt":1539600680922,"mc":[{"id":"1.149582980","rc":[{"ltp":6.4,"id":7186355}]}]}
+{"op":"mcm","clk":"7727391971","pt":1539600741381,"mc":[{"id":"1.149582980","rc":[{"ltp":6.8,"id":7186355},{"ltp":1.16,"id":2403863}]}]}
+{"op":"mcm","clk":"7727395906","pt":1539600799249,"mc":[{"id":"1.149582980","rc":[{"ltp":6.4,"id":7186355}]}]}
+{"op":"mcm","clk":"7727399969","pt":1539600859615,"mc":[{"id":"1.149582980","rc":[{"ltp":7.6,"id":7186355},{"ltp":1.15,"id":2403863}]}]}
+{"op":"mcm","clk":"7727404095","pt":1539600921538,"mc":[{"id":"1.149582980","rc":[{"ltp":1.17,"id":2403863}]}]}
+{"op":"mcm","clk":"7727407802","pt":1539600981197,"mc":[{"id":"1.149582980","rc":[{"ltp":7.2,"id":7186355},{"ltp":1.16,"id":2403863}]}]}
+{"op":"mcm","clk":"7727411018","pt":1539601040997,"mc":[{"id":"1.149582980","rc":[{"ltp":5.6,"id":7186355},{"ltp":1.2,"id":2403863}]}]}
+{"op":"mcm","clk":"7727414661","pt":1539601101597,"mc":[{"id":"1.149582980","rc":[{"ltp":5.5,"id":7186355}]}]}
+{"op":"mcm","clk":"7727418319","pt":1539601161671,"mc":[{"id":"1.149582980","rc":[{"ltp":6.4,"id":7186355},{"ltp":1.18,"id":2403863}]}]}
+{"op":"mcm","clk":"7727421890","pt":1539601220954,"mc":[{"id":"1.149582980","rc":[{"ltp":6.8,"id":7186355},{"ltp":1.17,"id":2403863}]}]}
+{"op":"mcm","clk":"7727425786","pt":1539601280357,"mc":[{"id":"1.149582980","rc":[{"ltp":6.0,"id":7186355},{"ltp":1.16,"id":2403863}]}]}
+{"op":"mcm","clk":"7727437840","pt":1539601341677,"mc":[{"id":"1.149582980","rc":[{"ltp":12.0,"id":7186355},{"ltp":1.11,"id":2403863}]}]}
+{"op":"mcm","clk":"7727441524","pt":1539601400730,"mc":[{"id":"1.149582980","rc":[{"ltp":6.4,"id":7186355},{"ltp":1.2,"id":2403863}]}]}
+{"op":"mcm","clk":"7727445866","pt":1539601461664,"mc":[{"id":"1.149582980","rc":[{"ltp":7.0,"id":7186355},{"ltp":1.12,"id":2403863}]}]}
+{"op":"mcm","clk":"7727450330","pt":1539601518883,"mc":[{"id":"1.149582980","rc":[{"ltp":15.0,"id":7186355},{"ltp":1.07,"id":2403863}]}]}
+{"op":"mcm","clk":"7727458834","pt":1539601641700,"mc":[{"id":"1.149582980","rc":[{"ltp":18.0,"id":7186355},{"ltp":1.06,"id":2403863}]}]}
+{"op":"mcm","clk":"7727462825","pt":1539601697940,"mc":[{"id":"1.149582980","rc":[{"ltp":13.5,"id":7186355},{"ltp":1.05,"id":2403863}]}]}
+{"op":"mcm","clk":"7727467354","pt":1539601760147,"mc":[{"id":"1.149582980","rc":[{"ltp":34.0,"id":7186355},{"ltp":1.04,"id":2403863}]}]}
+{"op":"mcm","clk":"7727471508","pt":1539601821613,"mc":[{"id":"1.149582980","rc":[{"ltp":1.03,"id":2403863}]}]}
+{"op":"mcm","clk":"7727475308","pt":1539601880569,"mc":[{"id":"1.149582980","rc":[{"ltp":1.02,"id":2403863}]}]}
+{"op":"mcm","clk":"7727479030","pt":1539601941111,"mc":[{"id":"1.149582980","rc":[{"ltp":1.01,"id":2403863}]}]}
+{"op":"mcm","clk":"7727503246","pt":1539602240174,"mc":[{"id":"1.149582980","rc":[{"ltp":140.0,"id":7186355}]}]}
+{"op":"mcm","clk":"7727505543","pt":1539602284564,"mc":[{"id":"1.149582980","rc":[{"ltp":190.0,"id":7186355}]}]}
+{"op":"mcm","clk":"7727509344","pt":1539602357501,"mc":[{"id":"1.149582980","rc":[{"ltp":110.0,"id":7186355}]}]}
+{"op":"mcm","clk":"7727516356","pt":1539602479861,"mc":[{"id":"1.149582980","rc":[{"ltp":140.0,"id":7186355}]}]}
+{"op":"mcm","clk":"7727519850","pt":1539602536211,"mc":[{"id":"1.149582980","rc":[{"ltp":290.0,"id":7186355}]}]}
+{"op":"mcm","clk":"7727523536","pt":1539602594538,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:16:00.000Z","suspendTime":"2018-10-15T10:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"ACTIVE","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:16:00.000Z","version":2457028482,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}
+{"op":"mcm","clk":"7727527882","pt":1539602663694,"mc":[{"id":"1.149582980","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956717","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T10:16:00.000Z","suspendTime":"2018-10-15T10:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-15T11:24:15.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2403863,"name":"Kristyna Pliskova"},{"status":"LOSER","sortPriority":2,"id":7186355,"name":"Tereza Smitkova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T10:16:00.000Z","version":2457029650,"name":"Match Odds","eventName":"Kr Pliskova v Smitkova"}}]}

@@ -1,0 +1,117 @@
+{"op":"mcm","clk":"7756646468","pt":1540621396383,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:00:00.000Z","suspendTime":"2018-10-28T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:00:00.000Z","version":2477637042,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7756835841","pt":1540623718472,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T00:00:00.000Z","suspendTime":"2018-10-28T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T00:00:00.000Z","version":2477637042,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7767393373","pt":1540684526300,"mc":[{"id":"1.150302461","rc":[{"ltp":1.11,"id":8194193}]}]}
+{"op":"mcm","clk":"7767587946","pt":1540686579453,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T00:00:00.000Z","suspendTime":"2018-10-29T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T00:00:00.000Z","version":2480953141,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7768427989","pt":1540697403582,"mc":[{"id":"1.150302461","rc":[{"ltp":1.14,"id":8194193},{"ltp":8.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7769060133","pt":1540705536255,"mc":[{"id":"1.150302461","rc":[{"ltp":1.11,"id":8194193}]}]}
+{"op":"mcm","clk":"7777329296","pt":1540753614291,"mc":[{"id":"1.150302461","rc":[{"ltp":10.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7778597412","pt":1540761975269,"mc":[{"id":"1.150302461","rc":[{"ltp":9.8,"id":8490662}]}]}
+{"op":"mcm","clk":"7779310385","pt":1540770940501,"mc":[{"id":"1.150302461","rc":[{"ltp":10.5,"id":8490662}]}]}
+{"op":"mcm","clk":"7779412112","pt":1540772975780,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T00:00:00.000Z","suspendTime":"2018-10-30T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T00:00:00.000Z","version":2484205113,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7780058154","pt":1540790026316,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:00:00.000Z","suspendTime":"2018-10-30T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:00:00.000Z","version":2484324752,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7780327075","pt":1540796715500,"mc":[{"id":"1.150302461","rc":[{"ltp":1.08,"id":8194193},{"ltp":13.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7785570420","pt":1540857949795,"mc":[{"id":"1.150302461","rc":[{"ltp":1.11,"id":8194193}]}]}
+{"op":"mcm","clk":"7785683163","pt":1540859477239,"mc":[{"id":"1.150302461","rc":[{"ltp":1.08,"id":8194193}]}]}
+{"op":"mcm","clk":"7786004079","pt":1540864731362,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:15:00.000Z","suspendTime":"2018-10-30T04:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:15:00.000Z","version":2485390025,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7786040671","pt":1540865322124,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:04:00.000Z","suspendTime":"2018-10-30T04:04:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:04:00.000Z","version":2485396777,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7786297483","pt":1540870560806,"mc":[{"id":"1.150302461","rc":[{"ltp":1.09,"id":8194193}]}]}
+{"op":"mcm","clk":"7786333098","pt":1540871343698,"mc":[{"id":"1.150302461","rc":[{"ltp":1.11,"id":8194193}]}]}
+{"op":"mcm","clk":"7786372619","pt":1540872256239,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:02:00.000Z","suspendTime":"2018-10-30T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:02:00.000Z","version":2485444624,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}
+{"op":"mcm","clk":"7786402990","pt":1540872976030,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:02:00.000Z","suspendTime":"2018-10-30T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"ACTIVE","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:02:00.000Z","version":2485446416,"name":"Match Odds","eventName":"Santillan v Petrone"},"rc":[{"ltp":1.09,"id":8194193}]}]}
+{"op":"mcm","clk":"7786425656","pt":1540873336582,"mc":[{"id":"1.150302461","rc":[{"ltp":1.11,"id":8194193}]}]}
+{"op":"mcm","clk":"7786431829","pt":1540873574523,"mc":[{"id":"1.150302461","rc":[{"ltp":1.06,"id":8194193}]}]}
+{"op":"mcm","clk":"7786433263","pt":1540873632847,"mc":[{"id":"1.150302461","rc":[{"ltp":1.07,"id":8194193}]}]}
+{"op":"mcm","clk":"7786434784","pt":1540873694981,"mc":[{"id":"1.150302461","rc":[{"ltp":1.1,"id":8194193},{"ltp":11.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786436749","pt":1540873756947,"mc":[{"id":"1.150302461","rc":[{"ltp":1.12,"id":8194193},{"ltp":9.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786438441","pt":1540873815103,"mc":[{"id":"1.150302461","rc":[{"ltp":10.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786439433","pt":1540873853593,"mc":[{"id":"1.150302461","rc":[{"ltp":1.1,"id":8194193},{"ltp":11.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786442859","pt":1540873996090,"mc":[{"id":"1.150302461","rc":[{"ltp":1.09,"id":8194193},{"ltp":12.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786444540","pt":1540874056542,"mc":[{"id":"1.150302461","rc":[{"ltp":1.04,"id":8194193}]}]}
+{"op":"mcm","clk":"7786446520","pt":1540874116898,"mc":[{"id":"1.150302461","rc":[{"ltp":1.05,"id":8194193},{"ltp":21.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786460803","pt":1540874235213,"mc":[{"id":"1.150302461","rc":[{"ltp":1.04,"id":8194193},{"ltp":26.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786462407","pt":1540874292743,"mc":[{"id":"1.150302461","rc":[{"ltp":1.05,"id":8194193}]}]}
+{"op":"mcm","clk":"7786463734","pt":1540874356217,"mc":[{"id":"1.150302461","rc":[{"ltp":21.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786465387","pt":1540874416381,"mc":[{"id":"1.150302461","rc":[{"ltp":1.06,"id":8194193}]}]}
+{"op":"mcm","clk":"7786467699","pt":1540874476238,"mc":[{"id":"1.150302461","rc":[{"ltp":1.07,"id":8194193},{"ltp":9.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786469765","pt":1540874536568,"mc":[{"id":"1.150302461","rc":[{"ltp":1.12,"id":8194193},{"ltp":9.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786471765","pt":1540874596562,"mc":[{"id":"1.150302461","rc":[{"ltp":1.14,"id":8194193},{"ltp":8.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786473823","pt":1540874656963,"mc":[{"id":"1.150302461","rc":[{"ltp":1.15,"id":8194193},{"ltp":9.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786475716","pt":1540874716774,"mc":[{"id":"1.150302461","rc":[{"ltp":7.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786477789","pt":1540874776865,"mc":[{"id":"1.150302461","rc":[{"ltp":1.18,"id":8194193},{"ltp":7.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786479705","pt":1540874836629,"mc":[{"id":"1.150302461","rc":[{"ltp":1.25,"id":8194193},{"ltp":4.5,"id":8490662}]}]}
+{"op":"mcm","clk":"7786482035","pt":1540874896843,"mc":[{"id":"1.150302461","rc":[{"ltp":5.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786484150","pt":1540874956703,"mc":[{"id":"1.150302461","rc":[{"ltp":1.44,"id":8194193},{"ltp":3.1,"id":8490662}]}]}
+{"op":"mcm","clk":"7786486286","pt":1540875015651,"mc":[{"id":"1.150302461","rc":[{"ltp":1.54,"id":8194193},{"ltp":2.94,"id":8490662}]}]}
+{"op":"mcm","clk":"7786488674","pt":1540875076780,"mc":[{"id":"1.150302461","rc":[{"ltp":1.46,"id":8194193},{"ltp":3.15,"id":8490662}]}]}
+{"op":"mcm","clk":"7786501562","pt":1540875136956,"mc":[{"id":"1.150302461","rc":[{"ltp":1.53,"id":8194193},{"ltp":2.88,"id":8490662}]}]}
+{"op":"mcm","clk":"7786503651","pt":1540875196550,"mc":[{"id":"1.150302461","rc":[{"ltp":1.43,"id":8194193},{"ltp":3.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786505502","pt":1540875256442,"mc":[{"id":"1.150302461","rc":[{"ltp":1.54,"id":8194193},{"ltp":2.84,"id":8490662}]}]}
+{"op":"mcm","clk":"7786507588","pt":1540875316546,"mc":[{"id":"1.150302461","rc":[{"ltp":1.51,"id":8194193},{"ltp":2.98,"id":8490662}]}]}
+{"op":"mcm","clk":"7786509917","pt":1540875377003,"mc":[{"id":"1.150302461","rc":[{"ltp":1.6,"id":8194193},{"ltp":2.66,"id":8490662}]}]}
+{"op":"mcm","clk":"7786512118","pt":1540875436653,"mc":[{"id":"1.150302461","rc":[{"ltp":1.68,"id":8194193},{"ltp":2.68,"id":8490662}]}]}
+{"op":"mcm","clk":"7786513930","pt":1540875496476,"mc":[{"id":"1.150302461","rc":[{"ltp":1.54,"id":8194193},{"ltp":2.84,"id":8490662}]}]}
+{"op":"mcm","clk":"7786515974","pt":1540875556644,"mc":[{"id":"1.150302461","rc":[{"ltp":1.53,"id":8194193},{"ltp":2.9,"id":8490662}]}]}
+{"op":"mcm","clk":"7786518010","pt":1540875615241,"mc":[{"id":"1.150302461","rc":[{"ltp":1.44,"id":8194193},{"ltp":3.15,"id":8490662}]}]}
+{"op":"mcm","clk":"7786519811","pt":1540875676973,"mc":[{"id":"1.150302461","rc":[{"ltp":3.25,"id":8490662}]}]}
+{"op":"mcm","clk":"7786521501","pt":1540875736877,"mc":[{"id":"1.150302461","rc":[{"ltp":1.4,"id":8194193},{"ltp":3.5,"id":8490662}]}]}
+{"op":"mcm","clk":"7786523250","pt":1540875796909,"mc":[{"id":"1.150302461","rc":[{"ltp":1.33,"id":8194193},{"ltp":4.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786524874","pt":1540875856857,"mc":[{"id":"1.150302461","rc":[{"ltp":1.4,"id":8194193},{"ltp":3.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786526514","pt":1540875916929,"mc":[{"id":"1.150302461","rc":[{"ltp":1.6,"id":8194193},{"ltp":2.66,"id":8490662}]}]}
+{"op":"mcm","clk":"7786528253","pt":1540875976172,"mc":[{"id":"1.150302461","rc":[{"ltp":1.57,"id":8194193},{"ltp":2.74,"id":8490662}]}]}
+{"op":"mcm","clk":"7786541255","pt":1540876036786,"mc":[{"id":"1.150302461","rc":[{"ltp":1.68,"id":8194193},{"ltp":2.46,"id":8490662}]}]}
+{"op":"mcm","clk":"7786543315","pt":1540876096771,"mc":[{"id":"1.150302461","rc":[{"ltp":1.7,"id":8194193}]}]}
+{"op":"mcm","clk":"7786544953","pt":1540876156910,"mc":[{"id":"1.150302461","rc":[{"ltp":1.72,"id":8194193},{"ltp":2.42,"id":8490662}]}]}
+{"op":"mcm","clk":"7786547147","pt":1540876216439,"mc":[{"id":"1.150302461","rc":[{"ltp":1.67,"id":8194193},{"ltp":2.56,"id":8490662}]}]}
+{"op":"mcm","clk":"7786549754","pt":1540876276840,"mc":[{"id":"1.150302461","rc":[{"ltp":1.57,"id":8194193},{"ltp":2.78,"id":8490662}]}]}
+{"op":"mcm","clk":"7786552090","pt":1540876336221,"mc":[{"id":"1.150302461","rc":[{"ltp":1.56,"id":8194193}]}]}
+{"op":"mcm","clk":"7786554412","pt":1540876396940,"mc":[{"id":"1.150302461","rc":[{"ltp":1.32,"id":8194193},{"ltp":3.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786556511","pt":1540876455808,"mc":[{"id":"1.150302461","rc":[{"ltp":1.34,"id":8194193},{"ltp":3.9,"id":8490662}]}]}
+{"op":"mcm","clk":"7786558627","pt":1540876516531,"mc":[{"id":"1.150302461","rc":[{"ltp":1.29,"id":8194193},{"ltp":4.3,"id":8490662}]}]}
+{"op":"mcm","clk":"7786560675","pt":1540876576977,"mc":[{"id":"1.150302461","rc":[{"ltp":1.35,"id":8194193},{"ltp":3.85,"id":8490662}]}]}
+{"op":"mcm","clk":"7786562828","pt":1540876636510,"mc":[{"id":"1.150302461","rc":[{"ltp":1.28,"id":8194193},{"ltp":4.6,"id":8490662}]}]}
+{"op":"mcm","clk":"7786565117","pt":1540876696093,"mc":[{"id":"1.150302461","rc":[{"ltp":1.23,"id":8194193},{"ltp":5.1,"id":8490662}]}]}
+{"op":"mcm","clk":"7786567210","pt":1540876756362,"mc":[{"id":"1.150302461","rc":[{"ltp":1.25,"id":8194193}]}]}
+{"op":"mcm","clk":"7786569386","pt":1540876816940,"mc":[{"id":"1.150302461","rc":[{"ltp":1.26,"id":8194193}]}]}
+{"op":"mcm","clk":"7786571779","pt":1540876876950,"mc":[{"id":"1.150302461","rc":[{"ltp":1.28,"id":8194193}]}]}
+{"op":"mcm","clk":"7786584780","pt":1540876936937,"mc":[{"id":"1.150302461","rc":[{"ltp":1.3,"id":8194193},{"ltp":4.1,"id":8490662}]}]}
+{"op":"mcm","clk":"7786589267","pt":1540877056629,"mc":[{"id":"1.150302461","rc":[{"ltp":1.57,"id":8194193},{"ltp":2.66,"id":8490662}]}]}
+{"op":"mcm","clk":"7786591495","pt":1540877116922,"mc":[{"id":"1.150302461","rc":[{"ltp":1.59,"id":8194193}]}]}
+{"op":"mcm","clk":"7786593711","pt":1540877176783,"mc":[{"id":"1.150302461","rc":[{"ltp":1.57,"id":8194193},{"ltp":2.56,"id":8490662}]}]}
+{"op":"mcm","clk":"7786595592","pt":1540877236952,"mc":[{"id":"1.150302461","rc":[{"ltp":1.56,"id":8194193},{"ltp":3.15,"id":8490662}]}]}
+{"op":"mcm","clk":"7786597530","pt":1540877296756,"mc":[{"id":"1.150302461","rc":[{"ltp":1.74,"id":8194193},{"ltp":2.34,"id":8490662}]}]}
+{"op":"mcm","clk":"7786599771","pt":1540877356995,"mc":[{"id":"1.150302461","rc":[{"ltp":1.77,"id":8194193},{"ltp":2.26,"id":8490662}]}]}
+{"op":"mcm","clk":"7786601725","pt":1540877416417,"mc":[{"id":"1.150302461","rc":[{"ltp":1.67,"id":8194193}]}]}
+{"op":"mcm","clk":"7786603633","pt":1540877476043,"mc":[{"id":"1.150302461","rc":[{"ltp":2.0,"id":8194193}]}]}
+{"op":"mcm","clk":"7786605743","pt":1540877536932,"mc":[{"id":"1.150302461","rc":[{"ltp":1.68,"id":8194193}]}]}
+{"op":"mcm","clk":"7786607752","pt":1540877596283,"mc":[{"id":"1.150302461","rc":[{"ltp":1.65,"id":8194193},{"ltp":2.46,"id":8490662}]}]}
+{"op":"mcm","clk":"7786609733","pt":1540877656624,"mc":[{"id":"1.150302461","rc":[{"ltp":1.54,"id":8194193},{"ltp":2.48,"id":8490662}]}]}
+{"op":"mcm","clk":"7786611587","pt":1540877716927,"mc":[{"id":"1.150302461","rc":[{"ltp":1.58,"id":8194193},{"ltp":2.72,"id":8490662}]}]}
+{"op":"mcm","clk":"7786613134","pt":1540877776423,"mc":[{"id":"1.150302461","rc":[{"ltp":1.8,"id":8194193}]}]}
+{"op":"mcm","clk":"7786625501","pt":1540877836780,"mc":[{"id":"1.150302461","rc":[{"ltp":1.98,"id":8194193},{"ltp":2.02,"id":8490662}]}]}
+{"op":"mcm","clk":"7786627024","pt":1540877896617,"mc":[{"id":"1.150302461","rc":[{"ltp":1.81,"id":8194193},{"ltp":1.97,"id":8490662}]}]}
+{"op":"mcm","clk":"7786628935","pt":1540877956895,"mc":[{"id":"1.150302461","rc":[{"ltp":1.51,"id":8194193},{"ltp":2.54,"id":8490662}]}]}
+{"op":"mcm","clk":"7786631175","pt":1540878016709,"mc":[{"id":"1.150302461","rc":[{"ltp":1.5,"id":8194193}]}]}
+{"op":"mcm","clk":"7786633410","pt":1540878076781,"mc":[{"id":"1.150302461","rc":[{"ltp":1.36,"id":8194193},{"ltp":3.5,"id":8490662}]}]}
+{"op":"mcm","clk":"7786635464","pt":1540878137003,"mc":[{"id":"1.150302461","rc":[{"ltp":1.31,"id":8194193},{"ltp":4.3,"id":8490662}]}]}
+{"op":"mcm","clk":"7786637955","pt":1540878196600,"mc":[{"id":"1.150302461","rc":[{"ltp":1.33,"id":8194193},{"ltp":4.2,"id":8490662}]}]}
+{"op":"mcm","clk":"7786640006","pt":1540878256442,"mc":[{"id":"1.150302461","rc":[{"ltp":1.29,"id":8194193},{"ltp":4.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786642222","pt":1540878316915,"mc":[{"id":"1.150302461","rc":[{"ltp":1.41,"id":8194193},{"ltp":4.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786644192","pt":1540878376506,"mc":[{"id":"1.150302461","rc":[{"ltp":1.29,"id":8194193},{"ltp":4.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786648664","pt":1540878496939,"mc":[{"id":"1.150302461","rc":[{"ltp":1.28,"id":8194193},{"ltp":4.6,"id":8490662}]}]}
+{"op":"mcm","clk":"7786650388","pt":1540878555773,"mc":[{"id":"1.150302461","rc":[{"ltp":1.3,"id":8194193},{"ltp":4.1,"id":8490662}]}]}
+{"op":"mcm","clk":"7786652282","pt":1540878616712,"mc":[{"id":"1.150302461","rc":[{"ltp":4.3,"id":8490662}]}]}
+{"op":"mcm","clk":"7786654250","pt":1540878676919,"mc":[{"id":"1.150302461","rc":[{"ltp":1.24,"id":8194193},{"ltp":5.1,"id":8490662}]}]}
+{"op":"mcm","clk":"7786667249","pt":1540878736411,"mc":[{"id":"1.150302461","rc":[{"ltp":1.12,"id":8194193},{"ltp":6.4,"id":8490662}]}]}
+{"op":"mcm","clk":"7786669414","pt":1540878797006,"mc":[{"id":"1.150302461","rc":[{"ltp":1.07,"id":8194193},{"ltp":11.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786673321","pt":1540878916873,"mc":[{"id":"1.150302461","rc":[{"ltp":15.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786675538","pt":1540878976907,"mc":[{"id":"1.150302461","rc":[{"ltp":1.09,"id":8194193}]}]}
+{"op":"mcm","clk":"7786678221","pt":1540879036878,"mc":[{"id":"1.150302461","rc":[{"ltp":1.1,"id":8194193}]}]}
+{"op":"mcm","clk":"7786680883","pt":1540879096304,"mc":[{"id":"1.150302461","rc":[{"ltp":1.16,"id":8194193},{"ltp":11.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786683372","pt":1540879156917,"mc":[{"id":"1.150302461","rc":[{"ltp":1.12,"id":8194193}]}]}
+{"op":"mcm","clk":"7786685954","pt":1540879216610,"mc":[{"id":"1.150302461","rc":[{"ltp":1.09,"id":8194193},{"ltp":8.6,"id":8490662}]}]}
+{"op":"mcm","clk":"7786688724","pt":1540879276751,"mc":[{"id":"1.150302461","rc":[{"ltp":1.1,"id":8194193},{"ltp":8.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786691261","pt":1540879336984,"mc":[{"id":"1.150302461","rc":[{"ltp":1.08,"id":8194193}]}]}
+{"op":"mcm","clk":"7786693951","pt":1540879396779,"mc":[{"id":"1.150302461","rc":[{"ltp":1.05,"id":8194193},{"ltp":21.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786695529","pt":1540879456960,"mc":[{"id":"1.150302461","rc":[{"ltp":1.02,"id":8194193},{"ltp":50.0,"id":8490662}]}]}
+{"op":"mcm","clk":"7786697388","pt":1540879516530,"mc":[{"id":"1.150302461","rc":[{"ltp":1.01,"id":8194193}]}]}
+{"op":"mcm","clk":"7786720378","pt":1540879872487,"mc":[{"id":"1.150302461","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978666","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:02:00.000Z","suspendTime":"2018-10-30T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T06:10:56.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8194193,"name":"Akira Santillan"},{"status":"LOSER","sortPriority":2,"id":8490662,"name":"Alessandro Petrone"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:02:00.000Z","version":2485463167,"name":"Match Odds","eventName":"Santillan v Petrone"}}]}

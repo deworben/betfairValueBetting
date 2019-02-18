@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"7837781070","pt":1540823405037,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T15:40:00.000Z","version":2484677606,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}
+{"op":"mcm","clk":"7837812423","pt":1540823718169,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T15:40:00.000Z","version":2484677606,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}
+{"op":"mcm","clk":"7838174343","pt":1540827329636,"mc":[{"id":"1.150419223","rc":[{"ltp":3.05,"id":19344629},{"ltp":1.29,"id":9628593}]}]}
+{"op":"mcm","clk":"7838187271","pt":1540827489597,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T15:50:00.000Z","version":2484747446,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}
+{"op":"mcm","clk":"7838220705","pt":1540827763005,"mc":[{"id":"1.150419223","rc":[{"ltp":1.31,"id":9628593}]}]}
+{"op":"mcm","clk":"7838288649","pt":1540828509688,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T15:50:00.000Z","version":2484764295,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}
+{"op":"mcm","clk":"7838337716","pt":1540829045750,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T16:03:23.000Z","version":2484769500,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}
+{"op":"mcm","clk":"7838359384","pt":1540829280033,"mc":[{"id":"1.150419223","rc":[{"ltp":1.46,"id":9628593}]}]}
+{"op":"mcm","clk":"7838365396","pt":1540829347389,"mc":[{"id":"1.150419223","rc":[{"ltp":3.1,"id":19344629},{"ltp":1.47,"id":9628593}]}]}
+{"op":"mcm","clk":"7838369967","pt":1540829407021,"mc":[{"id":"1.150419223","rc":[{"ltp":1.6,"id":9628593}]}]}
+{"op":"mcm","clk":"7838374076","pt":1540829466601,"mc":[{"id":"1.150419223","rc":[{"ltp":2.2,"id":19344629},{"ltp":1.83,"id":9628593}]}]}
+{"op":"mcm","clk":"7838389323","pt":1540829525872,"mc":[{"id":"1.150419223","rc":[{"ltp":2.02,"id":19344629},{"ltp":1.85,"id":9628593}]}]}
+{"op":"mcm","clk":"7838394016","pt":1540829585411,"mc":[{"id":"1.150419223","rc":[{"ltp":1.83,"id":9628593}]}]}
+{"op":"mcm","clk":"7838398811","pt":1540829647437,"mc":[{"id":"1.150419223","rc":[{"ltp":2.2,"id":19344629}]}]}
+{"op":"mcm","clk":"7838403527","pt":1540829707402,"mc":[{"id":"1.150419223","rc":[{"ltp":1.79,"id":9628593}]}]}
+{"op":"mcm","clk":"7838407639","pt":1540829765139,"mc":[{"id":"1.150419223","rc":[{"ltp":1.91,"id":9628593}]}]}
+{"op":"mcm","clk":"7838412312","pt":1540829827516,"mc":[{"id":"1.150419223","rc":[{"ltp":2.04,"id":19344629},{"ltp":1.9,"id":9628593}]}]}
+{"op":"mcm","clk":"7838416776","pt":1540829885596,"mc":[{"id":"1.150419223","rc":[{"ltp":1.83,"id":9628593}]}]}
+{"op":"mcm","clk":"7838421561","pt":1540829945286,"mc":[{"id":"1.150419223","rc":[{"ltp":1.77,"id":9628593}]}]}
+{"op":"mcm","clk":"7838430656","pt":1540830067351,"mc":[{"id":"1.150419223","rc":[{"ltp":1.74,"id":9628593}]}]}
+{"op":"mcm","clk":"7838439608","pt":1540830187545,"mc":[{"id":"1.150419223","rc":[{"ltp":1.73,"id":9628593}]}]}
+{"op":"mcm","clk":"7838443968","pt":1540830246323,"mc":[{"id":"1.150419223","rc":[{"ltp":2.02,"id":9628593}]}]}
+{"op":"mcm","clk":"7838453635","pt":1540830365280,"mc":[{"id":"1.150419223","rc":[{"ltp":1.84,"id":9628593}]}]}
+{"op":"mcm","clk":"7838478330","pt":1540830546894,"mc":[{"id":"1.150419223","rc":[{"ltp":2.0,"id":19344629},{"ltp":2.0,"id":9628593}]}]}
+{"op":"mcm","clk":"7838482240","pt":1540830600145,"mc":[{"id":"1.150419223","rc":[{"ltp":2.04,"id":19344629},{"ltp":1.96,"id":9628593}]}]}
+{"op":"mcm","clk":"7838486950","pt":1540830664054,"mc":[{"id":"1.150419223","rc":[{"ltp":1.95,"id":19344629},{"ltp":2.04,"id":9628593}]}]}
+{"op":"mcm","clk":"7838496006","pt":1540830786826,"mc":[{"id":"1.150419223","rc":[{"ltp":2.0,"id":19344629},{"ltp":1.99,"id":9628593}]}]}
+{"op":"mcm","clk":"7838500279","pt":1540830845897,"mc":[{"id":"1.150419223","rc":[{"ltp":2.0,"id":9628593}]}]}
+{"op":"mcm","clk":"7838504772","pt":1540830906888,"mc":[{"id":"1.150419223","rc":[{"ltp":1.93,"id":9628593}]}]}
+{"op":"mcm","clk":"7838516841","pt":1540831082206,"mc":[{"id":"1.150419223","rc":[{"ltp":2.06,"id":19344629}]}]}
+{"op":"mcm","clk":"7838521171","pt":1540831146446,"mc":[{"id":"1.150419223","rc":[{"ltp":1.75,"id":9628593}]}]}
+{"op":"mcm","clk":"7838525356","pt":1540831206042,"mc":[{"id":"1.150419223","rc":[{"ltp":1.55,"id":9628593}]}]}
+{"op":"mcm","clk":"7838529949","pt":1540831266924,"mc":[{"id":"1.150419223","rc":[{"ltp":1.53,"id":9628593}]}]}
+{"op":"mcm","clk":"7838549970","pt":1540831385894,"mc":[{"id":"1.150419223","rc":[{"ltp":1.32,"id":9628593}]}]}
+{"op":"mcm","clk":"7838554859","pt":1540831447461,"mc":[{"id":"1.150419223","rc":[{"ltp":1.35,"id":9628593}]}]}
+{"op":"mcm","clk":"7838559319","pt":1540831506084,"mc":[{"id":"1.150419223","rc":[{"ltp":1.2,"id":9628593}]}]}
+{"op":"mcm","clk":"7838563471","pt":1540831559471,"mc":[{"id":"1.150419223","rc":[{"ltp":1.24,"id":9628593}]}]}
+{"op":"mcm","clk":"7838567677","pt":1540831626166,"mc":[{"id":"1.150419223","rc":[{"ltp":7.6,"id":19344629},{"ltp":1.15,"id":9628593}]}]}
+{"op":"mcm","clk":"7838576035","pt":1540831747606,"mc":[{"id":"1.150419223","rc":[{"ltp":1.13,"id":9628593}]}]}
+{"op":"mcm","clk":"7838579314","pt":1540831806981,"mc":[{"id":"1.150419223","rc":[{"ltp":1.15,"id":9628593}]}]}
+{"op":"mcm","clk":"7838582407","pt":1540831860068,"mc":[{"id":"1.150419223","rc":[{"ltp":1.09,"id":9628593}]}]}
+{"op":"mcm","clk":"7838586379","pt":1540831926116,"mc":[{"id":"1.150419223","rc":[{"ltp":1.14,"id":9628593}]}]}
+{"op":"mcm","clk":"7838590322","pt":1540831987431,"mc":[{"id":"1.150419223","rc":[{"ltp":1.12,"id":9628593}]}]}
+{"op":"mcm","clk":"7838593614","pt":1540832044758,"mc":[{"id":"1.150419223","rc":[{"ltp":1.13,"id":9628593}]}]}
+{"op":"mcm","clk":"7838600459","pt":1540832161608,"mc":[{"id":"1.150419223","rc":[{"ltp":1.18,"id":9628593}]}]}
+{"op":"mcm","clk":"7838619055","pt":1540832279092,"mc":[{"id":"1.150419223","rc":[{"ltp":5.0,"id":19344629},{"ltp":1.25,"id":9628593}]}]}
+{"op":"mcm","clk":"7838623851","pt":1540832345613,"mc":[{"id":"1.150419223","rc":[{"ltp":1.11,"id":9628593}]}]}
+{"op":"mcm","clk":"7838628097","pt":1540832399430,"mc":[{"id":"1.150419223","rc":[{"ltp":12.5,"id":19344629},{"ltp":1.09,"id":9628593}]}]}
+{"op":"mcm","clk":"7838633118","pt":1540832467053,"mc":[{"id":"1.150419223","rc":[{"ltp":1.12,"id":9628593}]}]}
+{"op":"mcm","clk":"7838637795","pt":1540832524220,"mc":[{"id":"1.150419223","rc":[{"ltp":8.6,"id":19344629},{"ltp":1.11,"id":9628593}]}]}
+{"op":"mcm","clk":"7838643212","pt":1540832586619,"mc":[{"id":"1.150419223","rc":[{"ltp":1.15,"id":9628593}]}]}
+{"op":"mcm","clk":"7838649265","pt":1540832645936,"mc":[{"id":"1.150419223","rc":[{"ltp":6.4,"id":19344629},{"ltp":1.18,"id":9628593}]}]}
+{"op":"mcm","clk":"7838655081","pt":1540832706772,"mc":[{"id":"1.150419223","rc":[{"ltp":1.19,"id":9628593}]}]}
+{"op":"mcm","clk":"7838661323","pt":1540832766933,"mc":[{"id":"1.150419223","rc":[{"ltp":1.26,"id":9628593}]}]}
+{"op":"mcm","clk":"7838666896","pt":1540832826357,"mc":[{"id":"1.150419223","rc":[{"ltp":1.27,"id":9628593}]}]}
+{"op":"mcm","clk":"7838672536","pt":1540832884450,"mc":[{"id":"1.150419223","rc":[{"ltp":1.18,"id":9628593}]}]}
+{"op":"mcm","clk":"7838687669","pt":1540833065706,"mc":[{"id":"1.150419223","rc":[{"ltp":1.23,"id":9628593}]}]}
+{"op":"mcm","clk":"7838703664","pt":1540833127408,"mc":[{"id":"1.150419223","rc":[{"ltp":1.33,"id":9628593}]}]}
+{"op":"mcm","clk":"7838708146","pt":1540833182551,"mc":[{"id":"1.150419223","rc":[{"ltp":1.2,"id":9628593}]}]}
+{"op":"mcm","clk":"7838713360","pt":1540833246192,"mc":[{"id":"1.150419223","rc":[{"ltp":6.2,"id":19344629},{"ltp":1.19,"id":9628593}]}]}
+{"op":"mcm","clk":"7838720976","pt":1540833336181,"mc":[{"id":"1.150419223","rc":[{"ltp":1.17,"id":9628593}]}]}
+{"op":"mcm","clk":"7838728558","pt":1540833426507,"mc":[{"id":"1.150419223","rc":[{"ltp":1.23,"id":9628593}]}]}
+{"op":"mcm","clk":"7838733235","pt":1540833484157,"mc":[{"id":"1.150419223","rc":[{"ltp":1.17,"id":9628593}]}]}
+{"op":"mcm","clk":"7838738532","pt":1540833544908,"mc":[{"id":"1.150419223","rc":[{"ltp":7.6,"id":19344629},{"ltp":1.18,"id":9628593}]}]}
+{"op":"mcm","clk":"7838743872","pt":1540833606110,"mc":[{"id":"1.150419223","rc":[{"ltp":1.17,"id":9628593}]}]}
+{"op":"mcm","clk":"7838749517","pt":1540833665243,"mc":[{"id":"1.150419223","rc":[{"ltp":1.14,"id":9628593}]}]}
+{"op":"mcm","clk":"7838754768","pt":1540833722185,"mc":[{"id":"1.150419223","rc":[{"ltp":1.13,"id":9628593}]}]}
+{"op":"mcm","clk":"7838760167","pt":1540833786741,"mc":[{"id":"1.150419223","rc":[{"ltp":1.17,"id":9628593}]}]}
+{"op":"mcm","clk":"7838768429","pt":1540833903229,"mc":[{"id":"1.150419223","rc":[{"ltp":1.21,"id":9628593}]}]}
+{"op":"mcm","clk":"7838773076","pt":1540833965175,"mc":[{"id":"1.150419223","rc":[{"ltp":6.0,"id":19344629},{"ltp":1.2,"id":9628593}]}]}
+{"op":"mcm","clk":"7838788844","pt":1540834027602,"mc":[{"id":"1.150419223","rc":[{"ltp":1.22,"id":9628593}]}]}
+{"op":"mcm","clk":"7838792928","pt":1540834084292,"mc":[{"id":"1.150419223","rc":[{"ltp":6.2,"id":19344629}]}]}
+{"op":"mcm","clk":"7838797231","pt":1540834146687,"mc":[{"id":"1.150419223","rc":[{"ltp":1.15,"id":9628593}]}]}
+{"op":"mcm","clk":"7838800358","pt":1540834202639,"mc":[{"id":"1.150419223","rc":[{"ltp":1.12,"id":9628593}]}]}
+{"op":"mcm","clk":"7838804270","pt":1540834266614,"mc":[{"id":"1.150419223","rc":[{"ltp":9.2,"id":19344629},{"ltp":1.11,"id":9628593}]}]}
+{"op":"mcm","clk":"7838808716","pt":1540834327511,"mc":[{"id":"1.150419223","rc":[{"ltp":1.14,"id":9628593}]}]}
+{"op":"mcm","clk":"7838813354","pt":1540834386948,"mc":[{"id":"1.150419223","rc":[{"ltp":8.0,"id":19344629},{"ltp":1.1,"id":9628593}]}]}
+{"op":"mcm","clk":"7838822750","pt":1540834506899,"mc":[{"id":"1.150419223","rc":[{"ltp":17.5,"id":19344629},{"ltp":1.06,"id":9628593}]}]}
+{"op":"mcm","clk":"7838831855","pt":1540834621021,"mc":[{"id":"1.150419223","rc":[{"ltp":21.0,"id":19344629}]}]}
+{"op":"mcm","clk":"7838837297","pt":1540834684079,"mc":[{"id":"1.150419223","rc":[{"ltp":1.03,"id":9628593}]}]}
+{"op":"mcm","clk":"7838852710","pt":1540834867420,"mc":[{"id":"1.150419223","rc":[{"ltp":50.0,"id":19344629},{"ltp":1.02,"id":9628593}]}]}
+{"op":"mcm","clk":"7838857410","pt":1540834924476,"mc":[{"id":"1.150419223","rc":[{"ltp":1.04,"id":9628593}]}]}
+{"op":"mcm","clk":"7838877849","pt":1540835041651,"mc":[{"id":"1.150419223","rc":[{"ltp":1.03,"id":9628593}]}]}
+{"op":"mcm","clk":"7838882901","pt":1540835107518,"mc":[{"id":"1.150419223","rc":[{"ltp":1.01,"id":9628593}]}]}
+{"op":"mcm","clk":"7838887048","pt":1540835164529,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"ACTIVE","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T16:03:23.000Z","version":2484874714,"name":"Match Odds","eventName":"J Cako v A Arseneault"},"rc":[{"ltp":1000.0,"id":19344629}]}]}
+{"op":"mcm","clk":"7838889571","pt":1540835204658,"mc":[{"id":"1.150419223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982693","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:40:00.000Z","suspendTime":"2018-10-29T15:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T17:46:40.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9628593,"name":"J Cako"},{"status":"LOSER","sortPriority":2,"id":19344629,"name":"A Arseneault"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-29T16:03:23.000Z","version":2484874849,"name":"Match Odds","eventName":"J Cako v A Arseneault"}}]}

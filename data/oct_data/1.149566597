@@ -1,0 +1,145 @@
+{"op":"mcm","clk":"7717508144","pt":1539463859076,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T16:00:00.000Z","suspendTime":"2018-10-14T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T16:00:00.000Z","version":2454338191,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7717622797","pt":1539465154999,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T16:00:00.000Z","suspendTime":"2018-10-14T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T16:00:00.000Z","version":2454338191,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7718478559","pt":1539476415731,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T16:00:00.000Z","suspendTime":"2018-10-15T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T16:00:00.000Z","version":2454599044,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7725464906","pt":1539555864977,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T17:30:00.000Z","suspendTime":"2018-10-15T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T17:30:00.000Z","version":2456707578,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7726689000","pt":1539589304019,"mc":[{"id":"1.149566597","rc":[{"ltp":2.16,"id":7582779},{"ltp":1.87,"id":8596391}]}]}
+{"op":"mcm","clk":"7727024489","pt":1539595735226,"mc":[{"id":"1.149566597","rc":[{"ltp":1.81,"id":8596391}]}]}
+{"op":"mcm","clk":"7727448640","pt":1539601497567,"mc":[{"id":"1.149566597","rc":[{"ltp":2.12,"id":7582779}]}]}
+{"op":"mcm","clk":"7727477229","pt":1539601911038,"mc":[{"id":"1.149566597","rc":[{"ltp":2.04,"id":7582779}]}]}
+{"op":"mcm","clk":"7727633187","pt":1539604274254,"mc":[{"id":"1.149566597","rc":[{"ltp":1.89,"id":8596391}]}]}
+{"op":"mcm","clk":"7727715550","pt":1539605577835,"mc":[{"id":"1.149566597","rc":[{"ltp":2.0,"id":7582779}]}]}
+{"op":"mcm","clk":"7727717612","pt":1539605613092,"mc":[{"id":"1.149566597","rc":[{"ltp":1.99,"id":7582779}]}]}
+{"op":"mcm","clk":"7727726324","pt":1539605751551,"mc":[{"id":"1.149566597","rc":[{"ltp":1.98,"id":7582779}]}]}
+{"op":"mcm","clk":"7728005942","pt":1539609649613,"mc":[{"id":"1.149566597","rc":[{"ltp":1.96,"id":7582779}]}]}
+{"op":"mcm","clk":"7728071255","pt":1539610613627,"mc":[{"id":"1.149566597","rc":[{"ltp":1.95,"id":7582779}]}]}
+{"op":"mcm","clk":"7728082829","pt":1539610799434,"mc":[{"id":"1.149566597","rc":[{"ltp":1.91,"id":7582779}]}]}
+{"op":"mcm","clk":"7728086898","pt":1539610859412,"mc":[{"id":"1.149566597","rc":[{"ltp":1.96,"id":7582779},{"ltp":2.02,"id":8596391}]}]}
+{"op":"mcm","clk":"7728094737","pt":1539610973108,"mc":[{"id":"1.149566597","rc":[{"ltp":1.91,"id":7582779}]}]}
+{"op":"mcm","clk":"7728101792","pt":1539611085588,"mc":[{"id":"1.149566597","rc":[{"ltp":1.99,"id":7582779}]}]}
+{"op":"mcm","clk":"7728159454","pt":1539612050642,"mc":[{"id":"1.149566597","rc":[{"ltp":1.97,"id":8596391}]}]}
+{"op":"mcm","clk":"7728234899","pt":1539613192915,"mc":[{"id":"1.149566597","rc":[{"ltp":2.0,"id":7582779}]}]}
+{"op":"mcm","clk":"7728509378","pt":1539618594060,"mc":[{"id":"1.149566597","rc":[{"ltp":1.89,"id":8596391}]}]}
+{"op":"mcm","clk":"7728516742","pt":1539618836982,"mc":[{"id":"1.149566597","rc":[{"ltp":2.04,"id":7582779},{"ltp":1.96,"id":8596391}]}]}
+{"op":"mcm","clk":"7728518286","pt":1539618893314,"mc":[{"id":"1.149566597","rc":[{"ltp":1.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7728540762","pt":1539619375719,"mc":[{"id":"1.149566597","rc":[{"ltp":2.2,"id":7582779},{"ltp":1.79,"id":8596391}]}]}
+{"op":"mcm","clk":"7728542531","pt":1539619439409,"mc":[{"id":"1.149566597","rc":[{"ltp":1.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7728545661","pt":1539619554345,"mc":[{"id":"1.149566597","rc":[{"ltp":2.12,"id":7582779},{"ltp":1.89,"id":8596391}]}]}
+{"op":"mcm","clk":"7728556397","pt":1539619905319,"mc":[{"id":"1.149566597","rc":[{"ltp":1.84,"id":8596391}]}]}
+{"op":"mcm","clk":"7728578740","pt":1539620395497,"mc":[{"id":"1.149566597","rc":[{"ltp":2.22,"id":7582779},{"ltp":1.83,"id":8596391}]}]}
+{"op":"mcm","clk":"7728656926","pt":1539622254814,"mc":[{"id":"1.149566597","rc":[{"ltp":1.79,"id":8596391}]}]}
+{"op":"mcm","clk":"7728694898","pt":1539622858274,"mc":[{"id":"1.149566597","rc":[{"ltp":2.26,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7728795015","pt":1539623937360,"mc":[{"id":"1.149566597","rc":[{"ltp":2.24,"id":7582779},{"ltp":1.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7728804406","pt":1539624053384,"mc":[{"id":"1.149566597","rc":[{"ltp":1.81,"id":8596391}]}]}
+{"op":"mcm","clk":"7728808231","pt":1539624102566,"mc":[{"id":"1.149566597","rc":[{"ltp":2.18,"id":7582779},{"ltp":1.85,"id":8596391}]}]}
+{"op":"mcm","clk":"7728813323","pt":1539624166917,"mc":[{"id":"1.149566597","rc":[{"ltp":2.22,"id":7582779},{"ltp":1.83,"id":8596391}]}]}
+{"op":"mcm","clk":"7728824174","pt":1539624292062,"mc":[{"id":"1.149566597","rc":[{"ltp":2.08,"id":7582779},{"ltp":1.92,"id":8596391}]}]}
+{"op":"mcm","clk":"7728829776","pt":1539624356650,"mc":[{"id":"1.149566597","rc":[{"ltp":2.06,"id":7582779},{"ltp":1.88,"id":8596391}]}]}
+{"op":"mcm","clk":"7728831248","pt":1539624373354,"mc":[{"id":"1.149566597","rc":[{"ltp":1.91,"id":8596391}]}]}
+{"op":"mcm","clk":"7728843621","pt":1539624525786,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T17:45:00.000Z","suspendTime":"2018-10-15T17:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T17:45:00.000Z","version":2457316123,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7728849064","pt":1539624596678,"mc":[{"id":"1.149566597","rc":[{"ltp":1.87,"id":8596391}]}]}
+{"op":"mcm","clk":"7728886526","pt":1539624958605,"mc":[{"id":"1.149566597","rc":[{"ltp":1.83,"id":8596391}]}]}
+{"op":"mcm","clk":"7728925426","pt":1539625425197,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:00:00.000Z","suspendTime":"2018-10-15T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:00:00.000Z","version":2457335566,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7728967519","pt":1539625858222,"mc":[{"id":"1.149566597","rc":[{"ltp":2.08,"id":7582779}]}]}
+{"op":"mcm","clk":"7728992836","pt":1539626191839,"mc":[{"id":"1.149566597","rc":[{"ltp":1.91,"id":8596391}]}]}
+{"op":"mcm","clk":"7728995297","pt":1539626227422,"mc":[{"id":"1.149566597","rc":[{"ltp":1.88,"id":8596391}]}]}
+{"op":"mcm","clk":"7729002875","pt":1539626324649,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:15:00.000Z","suspendTime":"2018-10-15T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:15:00.000Z","version":2457354146,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7729043504","pt":1539626629375,"mc":[{"id":"1.149566597","rc":[{"ltp":1.91,"id":8596391}]}]}
+{"op":"mcm","clk":"7729101753","pt":1539627225389,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:30:00.000Z","suspendTime":"2018-10-15T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:30:00.000Z","version":2457394775,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7729195617","pt":1539628132150,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:45:00.000Z","suspendTime":"2018-10-15T18:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:45:00.000Z","version":2457423347,"name":"Match Odds","eventName":"Clarke v Altamirano"},"rc":[{"ltp":1.88,"id":8596391}]}]}
+{"op":"mcm","clk":"7729208550","pt":1539628253127,"mc":[{"id":"1.149566597","rc":[{"ltp":1.86,"id":8596391}]}]}
+{"op":"mcm","clk":"7729238184","pt":1539628437267,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:31:00.000Z","suspendTime":"2018-10-15T18:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:31:00.000Z","version":2457432581,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}
+{"op":"mcm","clk":"7729250963","pt":1539628556272,"mc":[{"id":"1.149566597","rc":[{"ltp":2.24,"id":7582779},{"ltp":1.81,"id":8596391}]}]}
+{"op":"mcm","clk":"7729256680","pt":1539628618089,"mc":[{"id":"1.149566597","rc":[{"ltp":2.18,"id":7582779},{"ltp":1.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729262298","pt":1539628679628,"mc":[{"id":"1.149566597","rc":[{"ltp":2.26,"id":7582779},{"ltp":1.76,"id":8596391}]}]}
+{"op":"mcm","clk":"7729267086","pt":1539628737946,"mc":[{"id":"1.149566597","rc":[{"ltp":2.28,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7729275908","pt":1539628849888,"mc":[{"id":"1.149566597","rc":[{"ltp":1.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729280550","pt":1539628906414,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:31:00.000Z","suspendTime":"2018-10-15T18:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:31:00.000Z","version":2457441859,"name":"Match Odds","eventName":"Clarke v Altamirano"},"rc":[{"ltp":2.3,"id":7582779},{"ltp":1.77,"id":8596391}]}]}
+{"op":"mcm","clk":"7729286950","pt":1539628979612,"mc":[{"id":"1.149566597","rc":[{"ltp":2.26,"id":7582779},{"ltp":1.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729291838","pt":1539629035535,"mc":[{"id":"1.149566597","rc":[{"ltp":2.42,"id":7582779},{"ltp":1.71,"id":8596391}]}]}
+{"op":"mcm","clk":"7729303199","pt":1539629157026,"mc":[{"id":"1.149566597","rc":[{"ltp":2.62,"id":7582779},{"ltp":1.5,"id":8596391}]}]}
+{"op":"mcm","clk":"7729308691","pt":1539629218457,"mc":[{"id":"1.149566597","rc":[{"ltp":2.72,"id":7582779},{"ltp":1.67,"id":8596391}]}]}
+{"op":"mcm","clk":"7729323303","pt":1539629279367,"mc":[{"id":"1.149566597","rc":[{"ltp":2.58,"id":7582779},{"ltp":1.63,"id":8596391}]}]}
+{"op":"mcm","clk":"7729328102","pt":1539629339320,"mc":[{"id":"1.149566597","rc":[{"ltp":2.28,"id":7582779},{"ltp":1.79,"id":8596391}]}]}
+{"op":"mcm","clk":"7729332399","pt":1539629399423,"mc":[{"id":"1.149566597","rc":[{"ltp":2.24,"id":7582779},{"ltp":1.73,"id":8596391}]}]}
+{"op":"mcm","clk":"7729336963","pt":1539629458536,"mc":[{"id":"1.149566597","rc":[{"ltp":2.28,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7729341386","pt":1539629519438,"mc":[{"id":"1.149566597","rc":[{"ltp":2.34,"id":7582779},{"ltp":1.72,"id":8596391}]}]}
+{"op":"mcm","clk":"7729345147","pt":1539629579375,"mc":[{"id":"1.149566597","rc":[{"ltp":2.36,"id":7582779}]}]}
+{"op":"mcm","clk":"7729348674","pt":1539629639194,"mc":[{"id":"1.149566597","rc":[{"ltp":2.58,"id":7582779},{"ltp":1.63,"id":8596391}]}]}
+{"op":"mcm","clk":"7729352176","pt":1539629699585,"mc":[{"id":"1.149566597","rc":[{"ltp":2.66,"id":7582779},{"ltp":1.6,"id":8596391}]}]}
+{"op":"mcm","clk":"7729355890","pt":1539629758665,"mc":[{"id":"1.149566597","rc":[{"ltp":2.96,"id":7582779},{"ltp":1.63,"id":8596391}]}]}
+{"op":"mcm","clk":"7729359619","pt":1539629819061,"mc":[{"id":"1.149566597","rc":[{"ltp":2.38,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7729363167","pt":1539629875443,"mc":[{"id":"1.149566597","rc":[{"ltp":2.32,"id":7582779}]}]}
+{"op":"mcm","clk":"7729367156","pt":1539629937536,"mc":[{"id":"1.149566597","rc":[{"ltp":2.34,"id":7582779},{"ltp":1.75,"id":8596391}]}]}
+{"op":"mcm","clk":"7729371317","pt":1539629998921,"mc":[{"id":"1.149566597","rc":[{"ltp":2.12,"id":7582779},{"ltp":1.88,"id":8596391}]}]}
+{"op":"mcm","clk":"7729375898","pt":1539630058638,"mc":[{"id":"1.149566597","rc":[{"ltp":1.77,"id":8596391}]}]}
+{"op":"mcm","clk":"7729381082","pt":1539630119606,"mc":[{"id":"1.149566597","rc":[{"ltp":2.1,"id":7582779},{"ltp":1.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7729395530","pt":1539630179033,"mc":[{"id":"1.149566597","rc":[{"ltp":2.24,"id":7582779},{"ltp":1.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729400874","pt":1539630239044,"mc":[{"id":"1.149566597","rc":[{"ltp":2.08,"id":7582779},{"ltp":1.91,"id":8596391}]}]}
+{"op":"mcm","clk":"7729406118","pt":1539630298731,"mc":[{"id":"1.149566597","rc":[{"ltp":2.42,"id":7582779},{"ltp":1.71,"id":8596391}]}]}
+{"op":"mcm","clk":"7729411128","pt":1539630353645,"mc":[{"id":"1.149566597","rc":[{"ltp":2.3,"id":7582779},{"ltp":1.76,"id":8596391}]}]}
+{"op":"mcm","clk":"7729417110","pt":1539630419591,"mc":[{"id":"1.149566597","rc":[{"ltp":2.18,"id":7582779},{"ltp":1.83,"id":8596391}]}]}
+{"op":"mcm","clk":"7729421892","pt":1539630479088,"mc":[{"id":"1.149566597","rc":[{"ltp":2.2,"id":7582779}]}]}
+{"op":"mcm","clk":"7729431015","pt":1539630598996,"mc":[{"id":"1.149566597","rc":[{"ltp":2.16,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7729435289","pt":1539630659549,"mc":[{"id":"1.149566597","rc":[{"ltp":1.89,"id":8596391}]}]}
+{"op":"mcm","clk":"7729439866","pt":1539630717441,"mc":[{"id":"1.149566597","rc":[{"ltp":2.28,"id":7582779},{"ltp":1.81,"id":8596391}]}]}
+{"op":"mcm","clk":"7729444541","pt":1539630779173,"mc":[{"id":"1.149566597","rc":[{"ltp":1.92,"id":8596391}]}]}
+{"op":"mcm","clk":"7729453525","pt":1539630899292,"mc":[{"id":"1.149566597","rc":[{"ltp":2.06,"id":7582779},{"ltp":1.94,"id":8596391}]}]}
+{"op":"mcm","clk":"7729458168","pt":1539630959369,"mc":[{"id":"1.149566597","rc":[{"ltp":1.54,"id":7582779},{"ltp":2.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7729462404","pt":1539631019641,"mc":[{"id":"1.149566597","rc":[{"ltp":1.5,"id":7582779},{"ltp":3.15,"id":8596391}]}]}
+{"op":"mcm","clk":"7729475623","pt":1539631071025,"mc":[{"id":"1.149566597","rc":[{"ltp":1.64,"id":7582779},{"ltp":2.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7729480988","pt":1539631138931,"mc":[{"id":"1.149566597","rc":[{"ltp":1.76,"id":7582779},{"ltp":2.34,"id":8596391}]}]}
+{"op":"mcm","clk":"7729485592","pt":1539631199507,"mc":[{"id":"1.149566597","rc":[{"ltp":1.56,"id":7582779}]}]}
+{"op":"mcm","clk":"7729490375","pt":1539631258471,"mc":[{"id":"1.149566597","rc":[{"ltp":1.76,"id":7582779},{"ltp":2.4,"id":8596391}]}]}
+{"op":"mcm","clk":"7729494727","pt":1539631319405,"mc":[{"id":"1.149566597","rc":[{"ltp":1.5,"id":7582779},{"ltp":3.05,"id":8596391}]}]}
+{"op":"mcm","clk":"7729498651","pt":1539631378524,"mc":[{"id":"1.149566597","rc":[{"ltp":1.6,"id":7582779},{"ltp":2.68,"id":8596391}]}]}
+{"op":"mcm","clk":"7729502895","pt":1539631439448,"mc":[{"id":"1.149566597","rc":[{"ltp":2.16,"id":7582779},{"ltp":1.85,"id":8596391}]}]}
+{"op":"mcm","clk":"7729506825","pt":1539631499568,"mc":[{"id":"1.149566597","rc":[{"ltp":1.83,"id":8596391}]}]}
+{"op":"mcm","clk":"7729510595","pt":1539631558541,"mc":[{"id":"1.149566597","rc":[{"ltp":1.94,"id":7582779},{"ltp":2.04,"id":8596391}]}]}
+{"op":"mcm","clk":"7729514130","pt":1539631619333,"mc":[{"id":"1.149566597","rc":[{"ltp":2.12,"id":7582779},{"ltp":1.94,"id":8596391}]}]}
+{"op":"mcm","clk":"7729518092","pt":1539631679517,"mc":[{"id":"1.149566597","rc":[{"ltp":1.89,"id":8596391}]}]}
+{"op":"mcm","clk":"7729522078","pt":1539631739593,"mc":[{"id":"1.149566597","rc":[{"ltp":2.48,"id":7582779},{"ltp":1.67,"id":8596391}]}]}
+{"op":"mcm","clk":"7729526304","pt":1539631798899,"mc":[{"id":"1.149566597","rc":[{"ltp":2.56,"id":7582779},{"ltp":1.66,"id":8596391}]}]}
+{"op":"mcm","clk":"7729530405","pt":1539631859312,"mc":[{"id":"1.149566597","rc":[{"ltp":2.24,"id":7582779},{"ltp":1.78,"id":8596391}]}]}
+{"op":"mcm","clk":"7729534706","pt":1539631918920,"mc":[{"id":"1.149566597","rc":[{"ltp":2.64,"id":7582779},{"ltp":1.61,"id":8596391}]}]}
+{"op":"mcm","clk":"7729552926","pt":1539632039439,"mc":[{"id":"1.149566597","rc":[{"ltp":2.16,"id":7582779},{"ltp":1.81,"id":8596391}]}]}
+{"op":"mcm","clk":"7729557695","pt":1539632099483,"mc":[{"id":"1.149566597","rc":[{"ltp":1.76,"id":7582779},{"ltp":2.24,"id":8596391}]}]}
+{"op":"mcm","clk":"7729562704","pt":1539632159639,"mc":[{"id":"1.149566597","rc":[{"ltp":1.59,"id":7582779},{"ltp":2.68,"id":8596391}]}]}
+{"op":"mcm","clk":"7729567831","pt":1539632219439,"mc":[{"id":"1.149566597","rc":[{"ltp":1.47,"id":7582779},{"ltp":3.1,"id":8596391}]}]}
+{"op":"mcm","clk":"7729572806","pt":1539632279508,"mc":[{"id":"1.149566597","rc":[{"ltp":1.56,"id":7582779},{"ltp":3.25,"id":8596391}]}]}
+{"op":"mcm","clk":"7729577063","pt":1539632339558,"mc":[{"id":"1.149566597","rc":[{"ltp":1.48,"id":7582779},{"ltp":2.68,"id":8596391}]}]}
+{"op":"mcm","clk":"7729581217","pt":1539632399613,"mc":[{"id":"1.149566597","rc":[{"ltp":3.15,"id":8596391}]}]}
+{"op":"mcm","clk":"7729584968","pt":1539632459540,"mc":[{"id":"1.149566597","rc":[{"ltp":1.4,"id":7582779},{"ltp":3.45,"id":8596391}]}]}
+{"op":"mcm","clk":"7729588886","pt":1539632519341,"mc":[{"id":"1.149566597","rc":[{"ltp":1.41,"id":7582779},{"ltp":3.4,"id":8596391}]}]}
+{"op":"mcm","clk":"7729593148","pt":1539632579557,"mc":[{"id":"1.149566597","rc":[{"ltp":1.35,"id":7582779}]}]}
+{"op":"mcm","clk":"7729597267","pt":1539632639481,"mc":[{"id":"1.149566597","rc":[{"ltp":1.36,"id":7582779},{"ltp":3.85,"id":8596391}]}]}
+{"op":"mcm","clk":"7729601451","pt":1539632699072,"mc":[{"id":"1.149566597","rc":[{"ltp":3.75,"id":8596391}]}]}
+{"op":"mcm","clk":"7729605778","pt":1539632759558,"mc":[{"id":"1.149566597","rc":[{"ltp":1.38,"id":7582779},{"ltp":3.65,"id":8596391}]}]}
+{"op":"mcm","clk":"7729610152","pt":1539632817677,"mc":[{"id":"1.149566597","rc":[{"ltp":1.4,"id":7582779},{"ltp":3.5,"id":8596391}]}]}
+{"op":"mcm","clk":"7729628666","pt":1539632939196,"mc":[{"id":"1.149566597","rc":[{"ltp":1.41,"id":7582779},{"ltp":3.4,"id":8596391}]}]}
+{"op":"mcm","clk":"7729633124","pt":1539632998514,"mc":[{"id":"1.149566597","rc":[{"ltp":1.42,"id":7582779},{"ltp":3.35,"id":8596391}]}]}
+{"op":"mcm","clk":"7729637529","pt":1539633059408,"mc":[{"id":"1.149566597","rc":[{"ltp":1.4,"id":7582779},{"ltp":3.25,"id":8596391}]}]}
+{"op":"mcm","clk":"7729641664","pt":1539633117868,"mc":[{"id":"1.149566597","rc":[{"ltp":1.35,"id":7582779},{"ltp":3.9,"id":8596391}]}]}
+{"op":"mcm","clk":"7729645714","pt":1539633179041,"mc":[{"id":"1.149566597","rc":[{"ltp":1.17,"id":7582779},{"ltp":4.7,"id":8596391}]}]}
+{"op":"mcm","clk":"7729649318","pt":1539633239298,"mc":[{"id":"1.149566597","rc":[{"ltp":1.16,"id":7582779},{"ltp":7.2,"id":8596391}]}]}
+{"op":"mcm","clk":"7729652741","pt":1539633299113,"mc":[{"id":"1.149566597","rc":[{"ltp":1.15,"id":7582779},{"ltp":7.6,"id":8596391}]}]}
+{"op":"mcm","clk":"7729655968","pt":1539633359544,"mc":[{"id":"1.149566597","rc":[{"ltp":8.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729658836","pt":1539633419435,"mc":[{"id":"1.149566597","rc":[{"ltp":1.19,"id":7582779},{"ltp":7.2,"id":8596391}]}]}
+{"op":"mcm","clk":"7729661732","pt":1539633479516,"mc":[{"id":"1.149566597","rc":[{"ltp":1.27,"id":7582779},{"ltp":4.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729664683","pt":1539633539544,"mc":[{"id":"1.149566597","rc":[{"ltp":1.23,"id":7582779},{"ltp":5.5,"id":8596391}]}]}
+{"op":"mcm","clk":"7729667767","pt":1539633599555,"mc":[{"id":"1.149566597","rc":[{"ltp":1.15,"id":7582779},{"ltp":8.8,"id":8596391}]}]}
+{"op":"mcm","clk":"7729671286","pt":1539633659471,"mc":[{"id":"1.149566597","rc":[{"ltp":1.11,"id":7582779},{"ltp":10.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729674977","pt":1539633718564,"mc":[{"id":"1.149566597","rc":[{"ltp":1.09,"id":7582779},{"ltp":10.5,"id":8596391}]}]}
+{"op":"mcm","clk":"7729688863","pt":1539633779378,"mc":[{"id":"1.149566597","rc":[{"ltp":1.07,"id":7582779},{"ltp":15.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729692991","pt":1539633839044,"mc":[{"id":"1.149566597","rc":[{"ltp":1.04,"id":7582779},{"ltp":26.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729701362","pt":1539633958142,"mc":[{"id":"1.149566597","rc":[{"ltp":1.03,"id":7582779}]}]}
+{"op":"mcm","clk":"7729708790","pt":1539634079461,"mc":[{"id":"1.149566597","rc":[{"ltp":1.01,"id":7582779},{"ltp":50.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729714525","pt":1539634199233,"mc":[{"id":"1.149566597","rc":[{"ltp":100.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729717701","pt":1539634258266,"mc":[{"id":"1.149566597","rc":[{"ltp":1.02,"id":7582779},{"ltp":50.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729721110","pt":1539634318459,"mc":[{"id":"1.149566597","rc":[{"ltp":1.01,"id":7582779}]}]}
+{"op":"mcm","clk":"7729724774","pt":1539634379397,"mc":[{"id":"1.149566597","rc":[{"ltp":100.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729727432","pt":1539634427075,"mc":[{"id":"1.149566597","rc":[{"ltp":290.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729731196","pt":1539634497964,"mc":[{"id":"1.149566597","rc":[{"ltp":990.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729752217","pt":1539634678808,"mc":[{"id":"1.149566597","rc":[{"ltp":500.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729756154","pt":1539634738046,"mc":[{"id":"1.149566597","rc":[{"ltp":290.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729760282","pt":1539634795837,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:31:00.000Z","suspendTime":"2018-10-15T18:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"ACTIVE","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:31:00.000Z","version":2457583155,"name":"Match Odds","eventName":"Clarke v Altamirano"},"rc":[{"ltp":500.0,"id":8596391}]}]}
+{"op":"mcm","clk":"7729760816","pt":1539634803269,"mc":[{"id":"1.149566597","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T18:31:00.000Z","suspendTime":"2018-10-15T18:31:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-15T20:19:55.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8596391,"name":"Jay Clarke"},{"status":"WINNER","sortPriority":2,"id":7582779,"name":"Collin Altamirano"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T18:31:00.000Z","version":2457583255,"name":"Match Odds","eventName":"Clarke v Altamirano"}}]}

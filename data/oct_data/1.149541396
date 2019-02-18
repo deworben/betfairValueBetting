@@ -1,0 +1,127 @@
+{"op":"mcm","clk":"7713165899","pt":1539436812358,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T07:00:00.000Z","suspendTime":"2018-10-14T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T07:00:00.000Z","version":2452736978,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7713236403","pt":1539437173254,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T07:00:00.000Z","suspendTime":"2018-10-14T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T07:00:00.000Z","version":2452736978,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7713405548","pt":1539437978785,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:00:00.000Z","suspendTime":"2018-10-14T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:00:00.000Z","version":2452783458,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7716483797","pt":1539456321904,"mc":[{"id":"1.149541396","rc":[{"ltp":1.39,"id":7797772}]}]}
+{"op":"mcm","clk":"7719081360","pt":1539484157847,"mc":[{"id":"1.149541396","rc":[{"ltp":3.6,"id":4877292}]}]}
+{"op":"mcm","clk":"7719318178","pt":1539488230668,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292}]}]}
+{"op":"mcm","clk":"7719335179","pt":1539488664435,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292}]}]}
+{"op":"mcm","clk":"7719452922","pt":1539490693971,"mc":[{"id":"1.149541396","rc":[{"ltp":3.1,"id":4877292}]}]}
+{"op":"mcm","clk":"7719511200","pt":1539491732023,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7719589754","pt":1539493265333,"mc":[{"id":"1.149541396","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7719660926","pt":1539494178589,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292}]}]}
+{"op":"mcm","clk":"7720092748","pt":1539500070650,"mc":[{"id":"1.149541396","rc":[{"ltp":3.05,"id":4877292}]}]}
+{"op":"mcm","clk":"7720094786","pt":1539500123144,"mc":[{"id":"1.149541396","rc":[{"ltp":3.15,"id":4877292},{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7720101280","pt":1539500307280,"mc":[{"id":"1.149541396","rc":[{"ltp":3.05,"id":4877292}]}]}
+{"op":"mcm","clk":"7720121849","pt":1539500617087,"mc":[{"id":"1.149541396","rc":[{"ltp":3.25,"id":4877292}]}]}
+{"op":"mcm","clk":"7720153192","pt":1539501380182,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7720153670","pt":1539501393522,"mc":[{"id":"1.149541396","rc":[{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7720165840","pt":1539501473129,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7720168040","pt":1539501521027,"mc":[{"id":"1.149541396","rc":[{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7720173169","pt":1539501628418,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7720186013","pt":1539501925376,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292},{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7720189908","pt":1539502020644,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7720232113","pt":1539502766212,"mc":[{"id":"1.149541396","rc":[{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7720234747","pt":1539502830340,"mc":[{"id":"1.149541396","rc":[{"ltp":3.7,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7720236578","pt":1539502876368,"mc":[{"id":"1.149541396","rc":[{"ltp":3.5,"id":4877292}]}]}
+{"op":"mcm","clk":"7720284136","pt":1539503888089,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292}]}]}
+{"op":"mcm","clk":"7720287486","pt":1539503966669,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292},{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7720308782","pt":1539504263484,"mc":[{"id":"1.149541396","rc":[{"ltp":3.0,"id":4877292},{"ltp":1.5,"id":7797772}]}]}
+{"op":"mcm","clk":"7720310587","pt":1539504315703,"mc":[{"id":"1.149541396","rc":[{"ltp":2.92,"id":4877292},{"ltp":1.52,"id":7797772}]}]}
+{"op":"mcm","clk":"7720351649","pt":1539505167309,"mc":[{"id":"1.149541396","rc":[{"ltp":3.15,"id":4877292},{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7720463423","pt":1539507319141,"mc":[{"id":"1.149541396","rc":[{"ltp":3.2,"id":4877292}]}]}
+{"op":"mcm","clk":"7720473933","pt":1539507571661,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:55:00.000Z","suspendTime":"2018-10-14T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:00:00.000Z","version":2454978277,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7720474126","pt":1539507574676,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:55:00.000Z","suspendTime":"2018-10-14T10:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:55:00.000Z","version":2454978277,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7720618215","pt":1539509593958,"mc":[{"id":"1.149541396","rc":[{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7720649658","pt":1539510056093,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7720666220","pt":1539510268674,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292},{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7720671165","pt":1539510327953,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7720689359","pt":1539510445964,"mc":[{"id":"1.149541396","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7720703253","pt":1539510627580,"mc":[{"id":"1.149541396","rc":[{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7720708463","pt":1539510692139,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292}]}]}
+{"op":"mcm","clk":"7720718695","pt":1539510812302,"mc":[{"id":"1.149541396","rc":[{"ltp":3.5,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7720754054","pt":1539511259532,"mc":[{"id":"1.149541396","rc":[{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7720865801","pt":1539512072382,"mc":[{"id":"1.149541396","rc":[{"ltp":3.0,"id":4877292}]}]}
+{"op":"mcm","clk":"7720936100","pt":1539512571862,"mc":[{"id":"1.149541396","rc":[{"ltp":3.1,"id":4877292},{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7720946037","pt":1539512667283,"mc":[{"id":"1.149541396","rc":[{"ltp":3.0,"id":4877292},{"ltp":1.49,"id":7797772}]}]}
+{"op":"mcm","clk":"7720980790","pt":1539512971823,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:32:00.000Z","suspendTime":"2018-10-14T10:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:55:00.000Z","version":2455124341,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7720985206","pt":1539513006843,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:32:00.000Z","suspendTime":"2018-10-14T10:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:32:00.000Z","version":2455124341,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"},"rc":[{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7720994598","pt":1539513076275,"mc":[{"id":"1.149541396","rc":[{"ltp":1.5,"id":7797772}]}]}
+{"op":"mcm","clk":"7721020574","pt":1539513212198,"mc":[{"id":"1.149541396","rc":[{"ltp":1.48,"id":7797772}]}]}
+{"op":"mcm","clk":"7721029001","pt":1539513272368,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:29:00.000Z","suspendTime":"2018-10-14T10:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:32:00.000Z","version":2455135166,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}
+{"op":"mcm","clk":"7721036829","pt":1539513331929,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:29:00.000Z","suspendTime":"2018-10-14T10:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:29:00.000Z","version":2455135166,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"},"rc":[{"ltp":1.5,"id":7797772}]}]}
+{"op":"mcm","clk":"7721065036","pt":1539513572414,"mc":[{"id":"1.149541396","rc":[{"ltp":3.1,"id":4877292},{"ltp":1.48,"id":7797772}]}]}
+{"op":"mcm","clk":"7721071917","pt":1539513632150,"mc":[{"id":"1.149541396","rc":[{"ltp":1.47,"id":7797772}]}]}
+{"op":"mcm","clk":"7721083480","pt":1539513733198,"mc":[{"id":"1.149541396","rc":[{"ltp":3.25,"id":4877292},{"ltp":1.45,"id":7797772}]}]}
+{"op":"mcm","clk":"7721092403","pt":1539513811694,"mc":[{"id":"1.149541396","rc":[{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7721098936","pt":1539513866364,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292},{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7721114652","pt":1539513990290,"mc":[{"id":"1.149541396","rc":[{"ltp":3.15,"id":4877292}]}]}
+{"op":"mcm","clk":"7721130357","pt":1539514052327,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:29:00.000Z","suspendTime":"2018-10-14T10:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"ACTIVE","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:29:00.000Z","version":2455157555,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"},"rc":[{"ltp":3.1,"id":4877292},{"ltp":1.46,"id":7797772}]}]}
+{"op":"mcm","clk":"7721136589","pt":1539514112127,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7721142325","pt":1539514171445,"mc":[{"id":"1.149541396","rc":[{"ltp":3.85,"id":4877292},{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7721147519","pt":1539514229633,"mc":[{"id":"1.149541396","rc":[{"ltp":3.35,"id":4877292},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7721152900","pt":1539514291096,"mc":[{"id":"1.149541396","rc":[{"ltp":3.5,"id":4877292},{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721158033","pt":1539514352071,"mc":[{"id":"1.149541396","rc":[{"ltp":3.7,"id":4877292}]}]}
+{"op":"mcm","clk":"7721163228","pt":1539514411147,"mc":[{"id":"1.149541396","rc":[{"ltp":3.2,"id":4877292},{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7721168741","pt":1539514472380,"mc":[{"id":"1.149541396","rc":[{"ltp":3.6,"id":4877292},{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721174065","pt":1539514531901,"mc":[{"id":"1.149541396","rc":[{"ltp":3.75,"id":4877292},{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721179125","pt":1539514591712,"mc":[{"id":"1.149541396","rc":[{"ltp":3.9,"id":4877292},{"ltp":1.34,"id":7797772}]}]}
+{"op":"mcm","clk":"7721184709","pt":1539514652437,"mc":[{"id":"1.149541396","rc":[{"ltp":3.3,"id":4877292},{"ltp":1.43,"id":7797772}]}]}
+{"op":"mcm","clk":"7721189502","pt":1539514710262,"mc":[{"id":"1.149541396","rc":[{"ltp":1.34,"id":7797772}]}]}
+{"op":"mcm","clk":"7721195655","pt":1539514772196,"mc":[{"id":"1.149541396","rc":[{"ltp":3.35,"id":4877292},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7721202168","pt":1539514832225,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7721208554","pt":1539514891299,"mc":[{"id":"1.149541396","rc":[{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721223632","pt":1539514948288,"mc":[{"id":"1.149541396","rc":[{"ltp":3.85,"id":4877292}]}]}
+{"op":"mcm","clk":"7721231016","pt":1539515012397,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7721238094","pt":1539515072403,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292},{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7721245188","pt":1539515132101,"mc":[{"id":"1.149541396","rc":[{"ltp":5.0,"id":4877292},{"ltp":1.25,"id":7797772}]}]}
+{"op":"mcm","clk":"7721252173","pt":1539515192461,"mc":[{"id":"1.149541396","rc":[{"ltp":3.5,"id":4877292},{"ltp":1.41,"id":7797772}]}]}
+{"op":"mcm","clk":"7721258779","pt":1539515249677,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292},{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721266365","pt":1539515308830,"mc":[{"id":"1.149541396","rc":[{"ltp":4.0,"id":4877292},{"ltp":1.33,"id":7797772}]}]}
+{"op":"mcm","clk":"7721273446","pt":1539515371201,"mc":[{"id":"1.149541396","rc":[{"ltp":1.34,"id":7797772}]}]}
+{"op":"mcm","clk":"7721280848","pt":1539515431997,"mc":[{"id":"1.149541396","rc":[{"ltp":4.1,"id":4877292},{"ltp":1.31,"id":7797772}]}]}
+{"op":"mcm","clk":"7721287704","pt":1539515492068,"mc":[{"id":"1.149541396","rc":[{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721294793","pt":1539515551843,"mc":[{"id":"1.149541396","rc":[{"ltp":1.34,"id":7797772}]}]}
+{"op":"mcm","clk":"7721301926","pt":1539515612313,"mc":[{"id":"1.149541396","rc":[{"ltp":3.8,"id":4877292}]}]}
+{"op":"mcm","clk":"7721309708","pt":1539515671950,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292},{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721317396","pt":1539515729936,"mc":[{"id":"1.149541396","rc":[{"ltp":4.2,"id":4877292},{"ltp":1.32,"id":7797772}]}]}
+{"op":"mcm","clk":"7721324640","pt":1539515786619,"mc":[{"id":"1.149541396","rc":[{"ltp":4.3,"id":4877292},{"ltp":1.3,"id":7797772}]}]}
+{"op":"mcm","clk":"7721341417","pt":1539515852294,"mc":[{"id":"1.149541396","rc":[{"ltp":4.1,"id":4877292},{"ltp":1.31,"id":7797772}]}]}
+{"op":"mcm","clk":"7721348449","pt":1539515912423,"mc":[{"id":"1.149541396","rc":[{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7721354677","pt":1539515970866,"mc":[{"id":"1.149541396","rc":[{"ltp":3.6,"id":4877292},{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7721361650","pt":1539516032308,"mc":[{"id":"1.149541396","rc":[{"ltp":3.25,"id":4877292},{"ltp":1.44,"id":7797772}]}]}
+{"op":"mcm","clk":"7721367756","pt":1539516089809,"mc":[{"id":"1.149541396","rc":[{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7721373990","pt":1539516151930,"mc":[{"id":"1.149541396","rc":[{"ltp":1.32,"id":7797772}]}]}
+{"op":"mcm","clk":"7721380276","pt":1539516212415,"mc":[{"id":"1.149541396","rc":[{"ltp":4.2,"id":4877292},{"ltp":1.33,"id":7797772}]}]}
+{"op":"mcm","clk":"7721386700","pt":1539516271745,"mc":[{"id":"1.149541396","rc":[{"ltp":3.8,"id":4877292},{"ltp":1.37,"id":7797772}]}]}
+{"op":"mcm","clk":"7721393306","pt":1539516331628,"mc":[{"id":"1.149541396","rc":[{"ltp":3.9,"id":4877292},{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721399517","pt":1539516388748,"mc":[{"id":"1.149541396","rc":[{"ltp":4.0,"id":4877292},{"ltp":1.31,"id":7797772}]}]}
+{"op":"mcm","clk":"7721406264","pt":1539516450742,"mc":[{"id":"1.149541396","rc":[{"ltp":3.4,"id":4877292},{"ltp":1.42,"id":7797772}]}]}
+{"op":"mcm","clk":"7721412692","pt":1539516509406,"mc":[{"id":"1.149541396","rc":[{"ltp":3.5,"id":4877292},{"ltp":1.4,"id":7797772}]}]}
+{"op":"mcm","clk":"7721419710","pt":1539516572088,"mc":[{"id":"1.149541396","rc":[{"ltp":3.55,"id":4877292},{"ltp":1.38,"id":7797772}]}]}
+{"op":"mcm","clk":"7721426547","pt":1539516631944,"mc":[{"id":"1.149541396","rc":[{"ltp":3.75,"id":4877292},{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721433621","pt":1539516692419,"mc":[{"id":"1.149541396","rc":[{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721448934","pt":1539516751440,"mc":[{"id":"1.149541396","rc":[{"ltp":1.36,"id":7797772}]}]}
+{"op":"mcm","clk":"7721455653","pt":1539516812266,"mc":[{"id":"1.149541396","rc":[{"ltp":1.35,"id":7797772}]}]}
+{"op":"mcm","clk":"7721462434","pt":1539516871669,"mc":[{"id":"1.149541396","rc":[{"ltp":4.0,"id":4877292},{"ltp":1.33,"id":7797772}]}]}
+{"op":"mcm","clk":"7721481064","pt":1539517051078,"mc":[{"id":"1.149541396","rc":[{"ltp":4.4,"id":4877292},{"ltp":1.3,"id":7797772}]}]}
+{"op":"mcm","clk":"7721487045","pt":1539517110048,"mc":[{"id":"1.149541396","rc":[{"ltp":4.1,"id":4877292},{"ltp":1.33,"id":7797772}]}]}
+{"op":"mcm","clk":"7721493615","pt":1539517170666,"mc":[{"id":"1.149541396","rc":[{"ltp":4.4,"id":4877292},{"ltp":1.29,"id":7797772}]}]}
+{"op":"mcm","clk":"7721500350","pt":1539517229246,"mc":[{"id":"1.149541396","rc":[{"ltp":5.1,"id":4877292},{"ltp":1.23,"id":7797772}]}]}
+{"op":"mcm","clk":"7721507005","pt":1539517292304,"mc":[{"id":"1.149541396","rc":[{"ltp":4.4,"id":4877292},{"ltp":1.29,"id":7797772}]}]}
+{"op":"mcm","clk":"7721513016","pt":1539517350026,"mc":[{"id":"1.149541396","rc":[{"ltp":6.0,"id":4877292},{"ltp":1.2,"id":7797772}]}]}
+{"op":"mcm","clk":"7721519523","pt":1539517411847,"mc":[{"id":"1.149541396","rc":[{"ltp":5.1,"id":4877292},{"ltp":1.24,"id":7797772}]}]}
+{"op":"mcm","clk":"7721526655","pt":1539517472165,"mc":[{"id":"1.149541396","rc":[{"ltp":7.2,"id":4877292},{"ltp":1.14,"id":7797772}]}]}
+{"op":"mcm","clk":"7721534228","pt":1539517532071,"mc":[{"id":"1.149541396","rc":[{"ltp":7.6,"id":4877292},{"ltp":1.16,"id":7797772}]}]}
+{"op":"mcm","clk":"7721541312","pt":1539517592349,"mc":[{"id":"1.149541396","rc":[{"ltp":10.0,"id":4877292},{"ltp":1.12,"id":7797772}]}]}
+{"op":"mcm","clk":"7721555571","pt":1539517649133,"mc":[{"id":"1.149541396","rc":[{"ltp":9.0,"id":4877292},{"ltp":1.13,"id":7797772}]}]}
+{"op":"mcm","clk":"7721561388","pt":1539517712425,"mc":[{"id":"1.149541396","rc":[{"ltp":10.0,"id":4877292},{"ltp":1.09,"id":7797772}]}]}
+{"op":"mcm","clk":"7721566772","pt":1539517770881,"mc":[{"id":"1.149541396","rc":[{"ltp":9.0,"id":4877292},{"ltp":1.11,"id":7797772}]}]}
+{"op":"mcm","clk":"7721572603","pt":1539517831984,"mc":[{"id":"1.149541396","rc":[{"ltp":11.0,"id":4877292},{"ltp":1.07,"id":7797772}]}]}
+{"op":"mcm","clk":"7721578071","pt":1539517892460,"mc":[{"id":"1.149541396","rc":[{"ltp":26.0,"id":4877292},{"ltp":1.04,"id":7797772}]}]}
+{"op":"mcm","clk":"7721582252","pt":1539517947448,"mc":[{"id":"1.149541396","rc":[{"ltp":17.5,"id":4877292}]}]}
+{"op":"mcm","clk":"7721586763","pt":1539518009761,"mc":[{"id":"1.149541396","rc":[{"ltp":21.0,"id":4877292},{"ltp":1.06,"id":7797772}]}]}
+{"op":"mcm","clk":"7721591698","pt":1539518072096,"mc":[{"id":"1.149541396","rc":[{"ltp":34.0,"id":4877292},{"ltp":1.03,"id":7797772}]}]}
+{"op":"mcm","clk":"7721599508","pt":1539518189856,"mc":[{"id":"1.149541396","rc":[{"ltp":26.0,"id":4877292},{"ltp":1.02,"id":7797772}]}]}
+{"op":"mcm","clk":"7721603983","pt":1539518252458,"mc":[{"id":"1.149541396","rc":[{"ltp":1.01,"id":7797772}]}]}
+{"op":"mcm","clk":"7721646763","pt":1539518671768,"mc":[{"id":"1.149541396","rc":[{"ltp":290.0,"id":4877292}]}]}
+{"op":"mcm","clk":"7721672189","pt":1539518956365,"mc":[{"id":"1.149541396","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:29:00.000Z","suspendTime":"2018-10-14T10:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T12:09:09.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7797772,"name":"Egor Gerasimov"},{"status":"LOSER","sortPriority":2,"id":4877292,"name":"Teymuraz Gabashvili"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:29:00.000Z","version":2455330087,"name":"Match Odds","eventName":"Gerasimov v Gabashvili"}}]}

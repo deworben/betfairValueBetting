@@ -1,0 +1,112 @@
+{"op":"mcm","clk":"7827927191","pt":1540616437539,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:00:00.000Z","suspendTime":"2018-10-28T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:00:00.000Z","version":2477575964,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7827991131","pt":1540617116931,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T02:00:00.000Z","suspendTime":"2018-10-28T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T02:00:00.000Z","version":2477575964,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7840500744","pt":1540686575467,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T02:00:00.000Z","suspendTime":"2018-10-29T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T02:00:00.000Z","version":2480953041,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7842509016","pt":1540706326654,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T04:30:00.000Z","suspendTime":"2018-10-29T04:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T04:30:00.000Z","version":2481247773,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7844924726","pt":1540724776444,"mc":[{"id":"1.150303289","rc":[{"ltp":1.61,"id":7366916}]}]}
+{"op":"mcm","clk":"7847556673","pt":1540736474268,"mc":[{"id":"1.150303289","rc":[{"ltp":1.6,"id":7366916}]}]}
+{"op":"mcm","clk":"7849463424","pt":1540745905214,"mc":[{"id":"1.150303289","rc":[{"ltp":1.66,"id":7366916}]}]}
+{"op":"mcm","clk":"7849698247","pt":1540747281339,"mc":[{"id":"1.150303289","rc":[{"ltp":1.67,"id":7366916},{"ltp":2.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7849710278","pt":1540747355336,"mc":[{"id":"1.150303289","rc":[{"ltp":1.77,"id":7366916}]}]}
+{"op":"mcm","clk":"7849720190","pt":1540747415778,"mc":[{"id":"1.150303289","rc":[{"ltp":2.02,"id":7366916},{"ltp":1.99,"id":8639790}]}]}
+{"op":"mcm","clk":"7850131492","pt":1540749815654,"mc":[{"id":"1.150303289","rc":[{"ltp":2.06,"id":7366916},{"ltp":1.94,"id":8639790}]}]}
+{"op":"mcm","clk":"7850566741","pt":1540752516434,"mc":[{"id":"1.150303289","rc":[{"ltp":2.02,"id":7366916},{"ltp":1.98,"id":8639790}]}]}
+{"op":"mcm","clk":"7850741697","pt":1540753706511,"mc":[{"id":"1.150303289","rc":[{"ltp":1.93,"id":8639790}]}]}
+{"op":"mcm","clk":"7851879106","pt":1540761813366,"mc":[{"id":"1.150303289","rc":[{"ltp":1.86,"id":8639790}]}]}
+{"op":"mcm","clk":"7851945624","pt":1540762333564,"mc":[{"id":"1.150303289","rc":[{"ltp":1.82,"id":8639790}]}]}
+{"op":"mcm","clk":"7852324648","pt":1540766792500,"mc":[{"id":"1.150303289","rc":[{"ltp":1.99,"id":8639790}]}]}
+{"op":"mcm","clk":"7852410441","pt":1540768221638,"mc":[{"id":"1.150303289","rc":[{"ltp":2.16,"id":7366916},{"ltp":1.88,"id":8639790}]}]}
+{"op":"mcm","clk":"7852448675","pt":1540768774279,"mc":[{"id":"1.150303289","rc":[{"ltp":2.12,"id":7366916},{"ltp":1.9,"id":8639790}]}]}
+{"op":"mcm","clk":"7852517233","pt":1540770181716,"mc":[{"id":"1.150303289","rc":[{"ltp":1.78,"id":8639790}]}]}
+{"op":"mcm","clk":"7852709096","pt":1540773661799,"mc":[{"id":"1.150303289","rc":[{"ltp":1.77,"id":8639790}]}]}
+{"op":"mcm","clk":"7852960449","pt":1540778979453,"mc":[{"id":"1.150303289","rc":[{"ltp":1.78,"id":8639790}]}]}
+{"op":"mcm","clk":"7853005439","pt":1540779862965,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T04:21:00.000Z","suspendTime":"2018-10-29T04:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T04:21:00.000Z","version":2484282248,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7853015100","pt":1540780159881,"mc":[{"id":"1.150303289","rc":[{"ltp":1.77,"id":8639790}]}]}
+{"op":"mcm","clk":"7853230636","pt":1540784041665,"mc":[{"id":"1.150303289","rc":[{"ltp":2.24,"id":7366916}]}]}
+{"op":"mcm","clk":"7853240737","pt":1540784323820,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T03:42:00.000Z","suspendTime":"2018-10-29T03:42:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T03:42:00.000Z","version":2484303604,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7853251761","pt":1540784632612,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T03:41:00.000Z","suspendTime":"2018-10-29T03:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T03:41:00.000Z","version":2484304360,"name":"Match Odds","eventName":"18736818"}}]}
+{"op":"mcm","clk":"7853255025","pt":1540784727831,"mc":[{"id":"1.150303289","rc":[{"ltp":1.72,"id":8639790}]}]}
+{"op":"mcm","clk":"7853269767","pt":1540784852705,"mc":[{"id":"1.150303289","rc":[{"ltp":2.14,"id":7366916},{"ltp":1.84,"id":8639790}]}]}
+{"op":"mcm","clk":"7853278299","pt":1540785081073,"mc":[{"id":"1.150303289","rc":[{"ltp":1.76,"id":8639790}]}]}
+{"op":"mcm","clk":"7853283346","pt":1540785216690,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T03:41:00.000Z","suspendTime":"2018-10-29T03:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T03:41:00.000Z","version":2484309576,"name":"Match Odds","eventName":"18736818"},"rc":[{"ltp":1.75,"id":8639790}]}]}
+{"op":"mcm","clk":"7853287457","pt":1540785334660,"mc":[{"id":"1.150303289","rc":[{"ltp":1.9,"id":7366916},{"ltp":2.1,"id":8639790}]}]}
+{"op":"mcm","clk":"7853289757","pt":1540785397325,"mc":[{"id":"1.150303289","rc":[{"ltp":1.65,"id":8639790}]}]}
+{"op":"mcm","clk":"7853292019","pt":1540785453690,"mc":[{"id":"1.150303289","rc":[{"ltp":2.32,"id":7366916},{"ltp":1.75,"id":8639790}]}]}
+{"op":"mcm","clk":"7853296227","pt":1540785577580,"mc":[{"id":"1.150303289","rc":[{"ltp":2.12,"id":7366916},{"ltp":1.92,"id":8639790}]}]}
+{"op":"mcm","clk":"7853298477","pt":1540785636664,"mc":[{"id":"1.150303289","rc":[{"ltp":1.78,"id":7366916},{"ltp":2.28,"id":8639790}]}]}
+{"op":"mcm","clk":"7853300708","pt":1540785697510,"mc":[{"id":"1.150303289","rc":[{"ltp":1.55,"id":7366916},{"ltp":2.44,"id":8639790}]}]}
+{"op":"mcm","clk":"7853312535","pt":1540785755514,"mc":[{"id":"1.150303289","rc":[{"ltp":1.54,"id":7366916},{"ltp":2.72,"id":8639790}]}]}
+{"op":"mcm","clk":"7853318217","pt":1540785874650,"mc":[{"id":"1.150303289","rc":[{"ltp":1.66,"id":7366916},{"ltp":2.68,"id":8639790}]}]}
+{"op":"mcm","clk":"7853320464","pt":1540785936340,"mc":[{"id":"1.150303289","rc":[{"ltp":1.77,"id":7366916},{"ltp":2.22,"id":8639790}]}]}
+{"op":"mcm","clk":"7853322821","pt":1540785997336,"mc":[{"id":"1.150303289","rc":[{"ltp":1.55,"id":7366916}]}]}
+{"op":"mcm","clk":"7853325455","pt":1540786057509,"mc":[{"id":"1.150303289","rc":[{"ltp":1.61,"id":7366916},{"ltp":2.52,"id":8639790}]}]}
+{"op":"mcm","clk":"7853327794","pt":1540786117665,"mc":[{"id":"1.150303289","rc":[{"ltp":1.47,"id":7366916},{"ltp":2.78,"id":8639790}]}]}
+{"op":"mcm","clk":"7853329509","pt":1540786173555,"mc":[{"id":"1.150303289","rc":[{"ltp":1.58,"id":7366916},{"ltp":2.74,"id":8639790}]}]}
+{"op":"mcm","clk":"7853331714","pt":1540786236914,"mc":[{"id":"1.150303289","rc":[{"ltp":1.61,"id":7366916},{"ltp":2.62,"id":8639790}]}]}
+{"op":"mcm","clk":"7853333794","pt":1540786297184,"mc":[{"id":"1.150303289","rc":[{"ltp":1.59,"id":7366916}]}]}
+{"op":"mcm","clk":"7853335835","pt":1540786356317,"mc":[{"id":"1.150303289","rc":[{"ltp":1.85,"id":7366916},{"ltp":1.97,"id":8639790}]}]}
+{"op":"mcm","clk":"7853337941","pt":1540786415889,"mc":[{"id":"1.150303289","rc":[{"ltp":1.83,"id":7366916},{"ltp":2.3,"id":8639790}]}]}
+{"op":"mcm","clk":"7853340417","pt":1540786477514,"mc":[{"id":"1.150303289","rc":[{"ltp":1.57,"id":7366916},{"ltp":2.6,"id":8639790}]}]}
+{"op":"mcm","clk":"7853342757","pt":1540786537258,"mc":[{"id":"1.150303289","rc":[{"ltp":1.68,"id":7366916},{"ltp":2.44,"id":8639790}]}]}
+{"op":"mcm","clk":"7853345209","pt":1540786597659,"mc":[{"id":"1.150303289","rc":[{"ltp":1.67,"id":7366916}]}]}
+{"op":"mcm","clk":"7853357197","pt":1540786656682,"mc":[{"id":"1.150303289","rc":[{"ltp":1.53,"id":7366916},{"ltp":2.74,"id":8639790}]}]}
+{"op":"mcm","clk":"7853359934","pt":1540786717566,"mc":[{"id":"1.150303289","rc":[{"ltp":1.47,"id":7366916},{"ltp":3.25,"id":8639790}]}]}
+{"op":"mcm","clk":"7853362363","pt":1540786777294,"mc":[{"id":"1.150303289","rc":[{"ltp":1.43,"id":7366916},{"ltp":3.1,"id":8639790}]}]}
+{"op":"mcm","clk":"7853364784","pt":1540786837646,"mc":[{"id":"1.150303289","rc":[{"ltp":1.54,"id":7366916},{"ltp":2.96,"id":8639790}]}]}
+{"op":"mcm","clk":"7853367504","pt":1540786896786,"mc":[{"id":"1.150303289","rc":[{"ltp":1.55,"id":7366916},{"ltp":2.74,"id":8639790}]}]}
+{"op":"mcm","clk":"7853370386","pt":1540786957365,"mc":[{"id":"1.150303289","rc":[{"ltp":1.48,"id":7366916},{"ltp":3.1,"id":8639790}]}]}
+{"op":"mcm","clk":"7853372817","pt":1540787017387,"mc":[{"id":"1.150303289","rc":[{"ltp":1.43,"id":7366916}]}]}
+{"op":"mcm","clk":"7853375445","pt":1540787077277,"mc":[{"id":"1.150303289","rc":[{"ltp":1.4,"id":7366916},{"ltp":3.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853378517","pt":1540787137036,"mc":[{"id":"1.150303289","rc":[{"ltp":1.31,"id":7366916}]}]}
+{"op":"mcm","clk":"7853380548","pt":1540787195550,"mc":[{"id":"1.150303289","rc":[{"ltp":1.26,"id":7366916}]}]}
+{"op":"mcm","clk":"7853383085","pt":1540787257408,"mc":[{"id":"1.150303289","rc":[{"ltp":1.33,"id":7366916},{"ltp":5.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853385102","pt":1540787315885,"mc":[{"id":"1.150303289","rc":[{"ltp":1.35,"id":7366916},{"ltp":3.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853387357","pt":1540787376394,"mc":[{"id":"1.150303289","rc":[{"ltp":1.32,"id":7366916}]}]}
+{"op":"mcm","clk":"7853390022","pt":1540787437139,"mc":[{"id":"1.150303289","rc":[{"ltp":1.4,"id":7366916},{"ltp":3.55,"id":8639790}]}]}
+{"op":"mcm","clk":"7853392290","pt":1540787497366,"mc":[{"id":"1.150303289","rc":[{"ltp":1.25,"id":7366916}]}]}
+{"op":"mcm","clk":"7853404156","pt":1540787554509,"mc":[{"id":"1.150303289","rc":[{"ltp":1.21,"id":7366916}]}]}
+{"op":"mcm","clk":"7853408454","pt":1540787615686,"mc":[{"id":"1.150303289","rc":[{"ltp":1.18,"id":7366916}]}]}
+{"op":"mcm","clk":"7853411752","pt":1540787677635,"mc":[{"id":"1.150303289","rc":[{"ltp":1.25,"id":7366916},{"ltp":4.7,"id":8639790}]}]}
+{"op":"mcm","clk":"7853414590","pt":1540787735903,"mc":[{"id":"1.150303289","rc":[{"ltp":1.34,"id":7366916},{"ltp":5.3,"id":8639790}]}]}
+{"op":"mcm","clk":"7853417288","pt":1540787797614,"mc":[{"id":"1.150303289","rc":[{"ltp":1.41,"id":7366916},{"ltp":3.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853419744","pt":1540787856330,"mc":[{"id":"1.150303289","rc":[{"ltp":1.31,"id":7366916},{"ltp":4.2,"id":8639790}]}]}
+{"op":"mcm","clk":"7853422190","pt":1540787908742,"mc":[{"id":"1.150303289","rc":[{"ltp":1.56,"id":7366916},{"ltp":2.76,"id":8639790}]}]}
+{"op":"mcm","clk":"7853427994","pt":1540788036364,"mc":[{"id":"1.150303289","rc":[{"ltp":1.47,"id":7366916},{"ltp":2.68,"id":8639790}]}]}
+{"op":"mcm","clk":"7853430805","pt":1540788097458,"mc":[{"id":"1.150303289","rc":[{"ltp":1.68,"id":7366916},{"ltp":2.46,"id":8639790}]}]}
+{"op":"mcm","clk":"7853433625","pt":1540788155091,"mc":[{"id":"1.150303289","rc":[{"ltp":1.75,"id":7366916},{"ltp":2.44,"id":8639790}]}]}
+{"op":"mcm","clk":"7853436237","pt":1540788215863,"mc":[{"id":"1.150303289","rc":[{"ltp":1.81,"id":7366916},{"ltp":2.1,"id":8639790}]}]}
+{"op":"mcm","clk":"7853438337","pt":1540788277509,"mc":[{"id":"1.150303289","rc":[{"ltp":1.72,"id":7366916}]}]}
+{"op":"mcm","clk":"7853440895","pt":1540788335994,"mc":[{"id":"1.150303289","rc":[{"ltp":1.66,"id":7366916},{"ltp":2.48,"id":8639790}]}]}
+{"op":"mcm","clk":"7853443490","pt":1540788393191,"mc":[{"id":"1.150303289","rc":[{"ltp":2.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853455939","pt":1540788457480,"mc":[{"id":"1.150303289","rc":[{"ltp":1.65,"id":7366916},{"ltp":2.36,"id":8639790}]}]}
+{"op":"mcm","clk":"7853458391","pt":1540788516842,"mc":[{"id":"1.150303289","rc":[{"ltp":1.41,"id":7366916}]}]}
+{"op":"mcm","clk":"7853460711","pt":1540788577033,"mc":[{"id":"1.150303289","rc":[{"ltp":1.45,"id":7366916},{"ltp":3.2,"id":8639790}]}]}
+{"op":"mcm","clk":"7853463023","pt":1540788636516,"mc":[{"id":"1.150303289","rc":[{"ltp":1.47,"id":7366916},{"ltp":2.72,"id":8639790}]}]}
+{"op":"mcm","clk":"7853465627","pt":1540788697640,"mc":[{"id":"1.150303289","rc":[{"ltp":1.28,"id":7366916},{"ltp":4.8,"id":8639790}]}]}
+{"op":"mcm","clk":"7853467571","pt":1540788757322,"mc":[{"id":"1.150303289","rc":[{"ltp":1.31,"id":7366916},{"ltp":4.4,"id":8639790}]}]}
+{"op":"mcm","clk":"7853469601","pt":1540788817282,"mc":[{"id":"1.150303289","rc":[{"ltp":1.32,"id":7366916},{"ltp":3.9,"id":8639790}]}]}
+{"op":"mcm","clk":"7853471459","pt":1540788876347,"mc":[{"id":"1.150303289","rc":[{"ltp":1.67,"id":7366916}]}]}
+{"op":"mcm","clk":"7853473457","pt":1540788937071,"mc":[{"id":"1.150303289","rc":[{"ltp":2.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853475526","pt":1540788997462,"mc":[{"id":"1.150303289","rc":[{"ltp":1.56,"id":7366916},{"ltp":2.78,"id":8639790}]}]}
+{"op":"mcm","clk":"7853477830","pt":1540789057554,"mc":[{"id":"1.150303289","rc":[{"ltp":1.65,"id":7366916}]}]}
+{"op":"mcm","clk":"7853479944","pt":1540789117186,"mc":[{"id":"1.150303289","rc":[{"ltp":1.31,"id":7366916},{"ltp":3.05,"id":8639790}]}]}
+{"op":"mcm","clk":"7853482159","pt":1540789177485,"mc":[{"id":"1.150303289","rc":[{"ltp":1.28,"id":7366916},{"ltp":4.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853486616","pt":1540789297609,"mc":[{"id":"1.150303289","rc":[{"ltp":1.48,"id":7366916},{"ltp":3.05,"id":8639790}]}]}
+{"op":"mcm","clk":"7853498565","pt":1540789357313,"mc":[{"id":"1.150303289","rc":[{"ltp":1.82,"id":7366916},{"ltp":2.2,"id":8639790}]}]}
+{"op":"mcm","clk":"7853501820","pt":1540789416774,"mc":[{"id":"1.150303289","rc":[{"ltp":1.51,"id":7366916},{"ltp":2.5,"id":8639790}]}]}
+{"op":"mcm","clk":"7853503949","pt":1540789477564,"mc":[{"id":"1.150303289","rc":[{"ltp":1.43,"id":7366916},{"ltp":3.35,"id":8639790}]}]}
+{"op":"mcm","clk":"7853506286","pt":1540789537593,"mc":[{"id":"1.150303289","rc":[{"ltp":1.33,"id":7366916},{"ltp":3.3,"id":8639790}]}]}
+{"op":"mcm","clk":"7853508795","pt":1540789597615,"mc":[{"id":"1.150303289","rc":[{"ltp":1.4,"id":7366916},{"ltp":3.35,"id":8639790}]}]}
+{"op":"mcm","clk":"7853511231","pt":1540789656230,"mc":[{"id":"1.150303289","rc":[{"ltp":1.32,"id":7366916},{"ltp":3.9,"id":8639790}]}]}
+{"op":"mcm","clk":"7853513882","pt":1540789717632,"mc":[{"id":"1.150303289","rc":[{"ltp":1.23,"id":7366916},{"ltp":4.6,"id":8639790}]}]}
+{"op":"mcm","clk":"7853516499","pt":1540789776981,"mc":[{"id":"1.150303289","rc":[{"ltp":1.21,"id":7366916},{"ltp":6.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853518596","pt":1540789836693,"mc":[{"id":"1.150303289","rc":[{"ltp":1.24,"id":7366916},{"ltp":6.2,"id":8639790}]}]}
+{"op":"mcm","clk":"7853520853","pt":1540789897508,"mc":[{"id":"1.150303289","rc":[{"ltp":1.31,"id":7366916},{"ltp":4.7,"id":8639790}]}]}
+{"op":"mcm","clk":"7853522967","pt":1540789957430,"mc":[{"id":"1.150303289","rc":[{"ltp":4.2,"id":8639790}]}]}
+{"op":"mcm","clk":"7853525097","pt":1540790017514,"mc":[{"id":"1.150303289","rc":[{"ltp":1.33,"id":7366916}]}]}
+{"op":"mcm","clk":"7853527739","pt":1540790077366,"mc":[{"id":"1.150303289","rc":[{"ltp":1.2,"id":7366916},{"ltp":6.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853530217","pt":1540790137087,"mc":[{"id":"1.150303289","rc":[{"ltp":1.35,"id":7366916},{"ltp":5.7,"id":8639790}]}]}
+{"op":"mcm","clk":"7853532773","pt":1540790197283,"mc":[{"id":"1.150303289","rc":[{"ltp":1.33,"id":7366916},{"ltp":3.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853544908","pt":1540790257413,"mc":[{"id":"1.150303289","rc":[{"ltp":1.32,"id":7366916},{"ltp":3.9,"id":8639790}]}]}
+{"op":"mcm","clk":"7853547847","pt":1540790317513,"mc":[{"id":"1.150303289","rc":[{"ltp":1.09,"id":7366916},{"ltp":11.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853550609","pt":1540790375335,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T03:41:00.000Z","suspendTime":"2018-10-29T03:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"ACTIVE","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T03:41:00.000Z","version":2484326346,"name":"Match Odds","eventName":"18736818"},"rc":[{"ltp":1.04,"id":7366916},{"ltp":34.0,"id":8639790}]}]}
+{"op":"mcm","clk":"7853554069","pt":1540790447404,"mc":[{"id":"1.150303289","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28978800","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T03:41:00.000Z","suspendTime":"2018-10-29T03:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T05:20:37.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7366916,"name":"Filip Peliwo"},{"status":"LOSER","sortPriority":2,"id":8639790,"name":"Rigele Te"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T03:41:00.000Z","version":2484326522,"name":"Match Odds","eventName":"18736818"}}]}

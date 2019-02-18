@@ -1,0 +1,81 @@
+{"op":"mcm","clk":"7834737797","pt":1540773235093,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T04:00:00.000Z","suspendTime":"2018-10-30T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T04:00:00.000Z","version":2484212098,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7834833823","pt":1540774759311,"mc":[{"id":"1.150383974","rc":[{"ltp":1.45,"id":6531033}]}]}
+{"op":"mcm","clk":"7835729289","pt":1540797234937,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T11:30:00.000Z","suspendTime":"2018-10-30T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T11:30:00.000Z","version":2484348942,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7841564640","pt":1540881042877,"mc":[{"id":"1.150383974","rc":[{"ltp":1.5,"id":6531033}]}]}
+{"op":"mcm","clk":"7841672766","pt":1540884235935,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T11:21:00.000Z","suspendTime":"2018-10-30T11:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T11:21:00.000Z","version":2485479736,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7841894181","pt":1540889929913,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:58:00.000Z","suspendTime":"2018-10-30T10:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:58:00.000Z","version":2485521950,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7842030074","pt":1540892882411,"mc":[{"id":"1.150383974","rc":[{"ltp":1.49,"id":6531033}]}]}
+{"op":"mcm","clk":"7842152457","pt":1540895340879,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:26:00.000Z","suspendTime":"2018-10-30T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:26:00.000Z","version":2485585947,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7842161650","pt":1540895684746,"mc":[{"id":"1.150383974","rc":[{"ltp":1.52,"id":6531033}]}]}
+{"op":"mcm","clk":"7842163383","pt":1540895750011,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:26:00.000Z","suspendTime":"2018-10-30T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:26:00.000Z","version":2485595614,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7842165288","pt":1540895820673,"mc":[{"id":"1.150383974","rc":[{"ltp":1.54,"id":6531033}]}]}
+{"op":"mcm","clk":"7842167156","pt":1540895879707,"mc":[{"id":"1.150383974","rc":[{"ltp":1.48,"id":6531033},{"ltp":3.1,"id":3375695}]}]}
+{"op":"mcm","clk":"7842169419","pt":1540895940552,"mc":[{"id":"1.150383974","rc":[{"ltp":1.4,"id":6531033}]}]}
+{"op":"mcm","clk":"7842171453","pt":1540896000349,"mc":[{"id":"1.150383974","rc":[{"ltp":1.5,"id":6531033}]}]}
+{"op":"mcm","clk":"7842176039","pt":1540896122118,"mc":[{"id":"1.150383974","rc":[{"ltp":1.65,"id":6531033},{"ltp":2.56,"id":3375695}]}]}
+{"op":"mcm","clk":"7842189157","pt":1540896177401,"mc":[{"id":"1.150383974","rc":[{"ltp":1.62,"id":6531033}]}]}
+{"op":"mcm","clk":"7842190977","pt":1540896242511,"mc":[{"id":"1.150383974","rc":[{"ltp":1.56,"id":6531033}]}]}
+{"op":"mcm","clk":"7842192414","pt":1540896301498,"mc":[{"id":"1.150383974","rc":[{"ltp":1.57,"id":6531033}]}]}
+{"op":"mcm","clk":"7842194040","pt":1540896361889,"mc":[{"id":"1.150383974","rc":[{"ltp":1.53,"id":6531033}]}]}
+{"op":"mcm","clk":"7842195818","pt":1540896422290,"mc":[{"id":"1.150383974","rc":[{"ltp":1.47,"id":6531033}]}]}
+{"op":"mcm","clk":"7842197285","pt":1540896482346,"mc":[{"id":"1.150383974","rc":[{"ltp":1.49,"id":6531033}]}]}
+{"op":"mcm","clk":"7842198491","pt":1540896542475,"mc":[{"id":"1.150383974","rc":[{"ltp":1.48,"id":6531033}]}]}
+{"op":"mcm","clk":"7842200061","pt":1540896601691,"mc":[{"id":"1.150383974","rc":[{"ltp":1.32,"id":6531033},{"ltp":4.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842201470","pt":1540896656830,"mc":[{"id":"1.150383974","rc":[{"ltp":4.1,"id":3375695}]}]}
+{"op":"mcm","clk":"7842203267","pt":1540896717127,"mc":[{"id":"1.150383974","rc":[{"ltp":1.31,"id":6531033}]}]}
+{"op":"mcm","clk":"7842205853","pt":1540896782159,"mc":[{"id":"1.150383974","rc":[{"ltp":1.25,"id":6531033},{"ltp":5.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842211263","pt":1540896961159,"mc":[{"id":"1.150383974","rc":[{"ltp":1.27,"id":6531033},{"ltp":4.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842226203","pt":1540897080626,"mc":[{"id":"1.150383974","rc":[{"ltp":1.22,"id":6531033}]}]}
+{"op":"mcm","clk":"7842227899","pt":1540897139157,"mc":[{"id":"1.150383974","rc":[{"ltp":1.23,"id":6531033},{"ltp":5.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842229636","pt":1540897193246,"mc":[{"id":"1.150383974","rc":[{"ltp":1.17,"id":6531033}]}]}
+{"op":"mcm","clk":"7842232008","pt":1540897260593,"mc":[{"id":"1.150383974","rc":[{"ltp":1.16,"id":6531033}]}]}
+{"op":"mcm","clk":"7842233296","pt":1540897308220,"mc":[{"id":"1.150383974","rc":[{"ltp":1.14,"id":6531033},{"ltp":8.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842235944","pt":1540897378169,"mc":[{"id":"1.150383974","rc":[{"ltp":1.15,"id":6531033}]}]}
+{"op":"mcm","clk":"7842238016","pt":1540897442468,"mc":[{"id":"1.150383974","rc":[{"ltp":1.14,"id":6531033}]}]}
+{"op":"mcm","clk":"7842239820","pt":1540897502598,"mc":[{"id":"1.150383974","rc":[{"ltp":1.11,"id":6531033}]}]}
+{"op":"mcm","clk":"7842242092","pt":1540897562480,"mc":[{"id":"1.150383974","rc":[{"ltp":1.13,"id":6531033}]}]}
+{"op":"mcm","clk":"7842244224","pt":1540897621271,"mc":[{"id":"1.150383974","rc":[{"ltp":1.15,"id":6531033}]}]}
+{"op":"mcm","clk":"7842246829","pt":1540897681146,"mc":[{"id":"1.150383974","rc":[{"ltp":1.14,"id":6531033}]}]}
+{"op":"mcm","clk":"7842249625","pt":1540897741234,"mc":[{"id":"1.150383974","rc":[{"ltp":1.17,"id":6531033},{"ltp":7.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842252146","pt":1540897801880,"mc":[{"id":"1.150383974","rc":[{"ltp":1.14,"id":6531033}]}]}
+{"op":"mcm","clk":"7842254782","pt":1540897862337,"mc":[{"id":"1.150383974","rc":[{"ltp":1.16,"id":6531033},{"ltp":7.4,"id":3375695}]}]}
+{"op":"mcm","clk":"7842256868","pt":1540897921050,"mc":[{"id":"1.150383974","rc":[{"ltp":1.15,"id":6531033}]}]}
+{"op":"mcm","clk":"7842271009","pt":1540897982493,"mc":[{"id":"1.150383974","rc":[{"ltp":1.18,"id":6531033},{"ltp":6.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842273117","pt":1540898040008,"mc":[{"id":"1.150383974","rc":[{"ltp":1.22,"id":6531033},{"ltp":5.6,"id":3375695}]}]}
+{"op":"mcm","clk":"7842275853","pt":1540898102161,"mc":[{"id":"1.150383974","rc":[{"ltp":1.24,"id":6531033},{"ltp":5.1,"id":3375695}]}]}
+{"op":"mcm","clk":"7842279473","pt":1540898162526,"mc":[{"id":"1.150383974","rc":[{"ltp":1.34,"id":6531033},{"ltp":4.4,"id":3375695}]}]}
+{"op":"mcm","clk":"7842282337","pt":1540898222402,"mc":[{"id":"1.150383974","rc":[{"ltp":1.38,"id":6531033},{"ltp":3.7,"id":3375695}]}]}
+{"op":"mcm","clk":"7842284748","pt":1540898275683,"mc":[{"id":"1.150383974","rc":[{"ltp":1.37,"id":6531033}]}]}
+{"op":"mcm","clk":"7842287439","pt":1540898339761,"mc":[{"id":"1.150383974","rc":[{"ltp":1.43,"id":6531033},{"ltp":3.35,"id":3375695}]}]}
+{"op":"mcm","clk":"7842289938","pt":1540898401058,"mc":[{"id":"1.150383974","rc":[{"ltp":1.51,"id":6531033},{"ltp":3.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842292757","pt":1540898462427,"mc":[{"id":"1.150383974","rc":[{"ltp":1.5,"id":6531033}]}]}
+{"op":"mcm","clk":"7842295501","pt":1540898522100,"mc":[{"id":"1.150383974","rc":[{"ltp":1.45,"id":6531033},{"ltp":2.78,"id":3375695}]}]}
+{"op":"mcm","clk":"7842298214","pt":1540898582347,"mc":[{"id":"1.150383974","rc":[{"ltp":1.41,"id":6531033},{"ltp":3.25,"id":3375695}]}]}
+{"op":"mcm","clk":"7842300679","pt":1540898641682,"mc":[{"id":"1.150383974","rc":[{"ltp":1.33,"id":6531033},{"ltp":4.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842302584","pt":1540898701005,"mc":[{"id":"1.150383974","rc":[{"ltp":3.9,"id":3375695}]}]}
+{"op":"mcm","clk":"7842305306","pt":1540898761848,"mc":[{"id":"1.150383974","rc":[{"ltp":1.31,"id":6531033},{"ltp":4.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842307361","pt":1540898822587,"mc":[{"id":"1.150383974","rc":[{"ltp":1.23,"id":6531033},{"ltp":5.4,"id":3375695}]}]}
+{"op":"mcm","clk":"7842321087","pt":1540898881183,"mc":[{"id":"1.150383974","rc":[{"ltp":1.2,"id":6531033},{"ltp":6.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842323564","pt":1540898941459,"mc":[{"id":"1.150383974","rc":[{"ltp":6.8,"id":3375695}]}]}
+{"op":"mcm","clk":"7842326117","pt":1540899002056,"mc":[{"id":"1.150383974","rc":[{"ltp":1.32,"id":6531033},{"ltp":4.3,"id":3375695}]}]}
+{"op":"mcm","clk":"7842328898","pt":1540899062607,"mc":[{"id":"1.150383974","rc":[{"ltp":1.28,"id":6531033},{"ltp":4.8,"id":3375695}]}]}
+{"op":"mcm","clk":"7842332108","pt":1540899122316,"mc":[{"id":"1.150383974","rc":[{"ltp":1.19,"id":6531033},{"ltp":6.2,"id":3375695}]}]}
+{"op":"mcm","clk":"7842334066","pt":1540899180864,"mc":[{"id":"1.150383974","rc":[{"ltp":1.22,"id":6531033}]}]}
+{"op":"mcm","clk":"7842336320","pt":1540899242405,"mc":[{"id":"1.150383974","rc":[{"ltp":5.3,"id":3375695}]}]}
+{"op":"mcm","clk":"7842338085","pt":1540899302377,"mc":[{"id":"1.150383974","rc":[{"ltp":1.19,"id":6531033},{"ltp":6.4,"id":3375695}]}]}
+{"op":"mcm","clk":"7842340620","pt":1540899362445,"mc":[{"id":"1.150383974","rc":[{"ltp":1.17,"id":6531033}]}]}
+{"op":"mcm","clk":"7842342860","pt":1540899422580,"mc":[{"id":"1.150383974","rc":[{"ltp":1.08,"id":6531033},{"ltp":13.5,"id":3375695}]}]}
+{"op":"mcm","clk":"7842345785","pt":1540899482438,"mc":[{"id":"1.150383974","rc":[{"ltp":1.06,"id":6531033},{"ltp":17.5,"id":3375695}]}]}
+{"op":"mcm","clk":"7842349125","pt":1540899542029,"mc":[{"id":"1.150383974","rc":[{"ltp":1.03,"id":6531033},{"ltp":16.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842351835","pt":1540899602427,"mc":[{"id":"1.150383974","rc":[{"ltp":1.07,"id":6531033},{"ltp":34.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842354735","pt":1540899661373,"mc":[{"id":"1.150383974","rc":[{"ltp":1.04,"id":6531033}]}]}
+{"op":"mcm","clk":"7842357323","pt":1540899722222,"mc":[{"id":"1.150383974","rc":[{"ltp":13.5,"id":3375695}]}]}
+{"op":"mcm","clk":"7842371621","pt":1540899782482,"mc":[{"id":"1.150383974","rc":[{"ltp":1.03,"id":6531033},{"ltp":34.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842374147","pt":1540899842235,"mc":[{"id":"1.150383974","rc":[{"ltp":1.05,"id":6531033},{"ltp":26.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842377105","pt":1540899902210,"mc":[{"id":"1.150383974","rc":[{"ltp":1.06,"id":6531033},{"ltp":25.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842379901","pt":1540899961162,"mc":[{"id":"1.150383974","rc":[{"ltp":1.05,"id":6531033},{"ltp":19.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842382108","pt":1540900020691,"mc":[{"id":"1.150383974","rc":[{"ltp":1.06,"id":6531033},{"ltp":21.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842384432","pt":1540900081794,"mc":[{"id":"1.150383974","rc":[{"ltp":1.03,"id":6531033},{"ltp":15.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842386675","pt":1540900141726,"mc":[{"id":"1.150383974","rc":[{"ltp":1.02,"id":6531033},{"ltp":100.0,"id":3375695}]}]}
+{"op":"mcm","clk":"7842387846","pt":1540900182456,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:26:00.000Z","suspendTime":"2018-10-30T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"ACTIVE","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:26:00.000Z","version":2485713098,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}
+{"op":"mcm","clk":"7842389115","pt":1540900220780,"mc":[{"id":"1.150383974","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28982303","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:26:00.000Z","suspendTime":"2018-10-30T10:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T11:50:14.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":3375695,"name":"Sofia Shapatava"},{"status":"WINNER","sortPriority":2,"id":6531033,"name":"Ekaterine Gorgodze"}],"regulators":["MR_INT"],"countryCode":"IN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:26:00.000Z","version":2485713678,"name":"Match Odds","eventName":"Shapatava v Gorgodze"}}]}

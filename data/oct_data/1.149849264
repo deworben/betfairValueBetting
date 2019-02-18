@@ -1,0 +1,72 @@
+{"op":"mcm","clk":"7756469347","pt":1539959383694,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:00:00.000Z","suspendTime":"2018-10-20T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"ACTIVE","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:00:00.000Z","version":2461679471,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}
+{"op":"mcm","clk":"7756536303","pt":1539959727791,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:00:00.000Z","suspendTime":"2018-10-20T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"ACTIVE","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:00:00.000Z","version":2461679471,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}
+{"op":"mcm","clk":"7757296200","pt":1539964119068,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:30:00.000Z","suspendTime":"2018-10-20T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"ACTIVE","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:30:00.000Z","version":2461794653,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}
+{"op":"mcm","clk":"7759806685","pt":1539976820181,"mc":[{"id":"1.149849264","rc":[{"ltp":1.54,"id":21039842}]}]}
+{"op":"mcm","clk":"7764800823","pt":1540017814334,"mc":[{"id":"1.149849264","rc":[{"ltp":1.58,"id":21039842}]}]}
+{"op":"mcm","clk":"7766463622","pt":1540028795272,"mc":[{"id":"1.149849264","rc":[{"ltp":1.64,"id":21039842}]}]}
+{"op":"mcm","clk":"7766489037","pt":1540028838176,"mc":[{"id":"1.149849264","rc":[{"ltp":2.48,"id":21143600},{"ltp":1.68,"id":21039842}]}]}
+{"op":"mcm","clk":"7766669310","pt":1540029868619,"mc":[{"id":"1.149849264","rc":[{"ltp":2.3,"id":21143600},{"ltp":1.77,"id":21039842}]}]}
+{"op":"mcm","clk":"7766897825","pt":1540031019217,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:22:00.000Z","suspendTime":"2018-10-20T10:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"ACTIVE","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:22:00.000Z","version":2463555721,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}
+{"op":"mcm","clk":"7766919726","pt":1540031141680,"mc":[{"id":"1.149849264","rc":[{"ltp":1.69,"id":21039842}]}]}
+{"op":"mcm","clk":"7766958721","pt":1540031355642,"mc":[{"id":"1.149849264","rc":[{"ltp":1.68,"id":21039842}]}]}
+{"op":"mcm","clk":"7767039950","pt":1540031680017,"mc":[{"id":"1.149849264","rc":[{"ltp":1.67,"id":21039842}]}]}
+{"op":"mcm","clk":"7767080471","pt":1540031914380,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:22:00.000Z","suspendTime":"2018-10-20T10:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"ACTIVE","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:22:00.000Z","version":2463586780,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}
+{"op":"mcm","clk":"7767091014","pt":1540031977102,"mc":[{"id":"1.149849264","rc":[{"ltp":1.57,"id":21039842}]}]}
+{"op":"mcm","clk":"7767101498","pt":1540032040755,"mc":[{"id":"1.149849264","rc":[{"ltp":1.51,"id":21039842}]}]}
+{"op":"mcm","clk":"7767112216","pt":1540032103840,"mc":[{"id":"1.149849264","rc":[{"ltp":3.3,"id":21143600},{"ltp":1.44,"id":21039842}]}]}
+{"op":"mcm","clk":"7767142221","pt":1540032284143,"mc":[{"id":"1.149849264","rc":[{"ltp":1.66,"id":21039842}]}]}
+{"op":"mcm","clk":"7767152280","pt":1540032341662,"mc":[{"id":"1.149849264","rc":[{"ltp":2.28,"id":21143600},{"ltp":1.78,"id":21039842}]}]}
+{"op":"mcm","clk":"7767162710","pt":1540032402591,"mc":[{"id":"1.149849264","rc":[{"ltp":2.32,"id":21143600}]}]}
+{"op":"mcm","clk":"7767187596","pt":1540032439432,"mc":[{"id":"1.149849264","rc":[{"ltp":1.56,"id":21039842}]}]}
+{"op":"mcm","clk":"7767252804","pt":1540032822024,"mc":[{"id":"1.149849264","rc":[{"ltp":2.56,"id":21143600},{"ltp":1.6,"id":21039842}]}]}
+{"op":"mcm","clk":"7767284804","pt":1540033004097,"mc":[{"id":"1.149849264","rc":[{"ltp":2.28,"id":21143600}]}]}
+{"op":"mcm","clk":"7767293487","pt":1540033058473,"mc":[{"id":"1.149849264","rc":[{"ltp":2.56,"id":21143600},{"ltp":1.65,"id":21039842}]}]}
+{"op":"mcm","clk":"7767304174","pt":1540033121115,"mc":[{"id":"1.149849264","rc":[{"ltp":2.96,"id":21143600},{"ltp":1.51,"id":21039842}]}]}
+{"op":"mcm","clk":"7767314243","pt":1540033178134,"mc":[{"id":"1.149849264","rc":[{"ltp":2.44,"id":21143600}]}]}
+{"op":"mcm","clk":"7767326436","pt":1540033242884,"mc":[{"id":"1.149849264","rc":[{"ltp":1.75,"id":21039842}]}]}
+{"op":"mcm","clk":"7767338338","pt":1540033300280,"mc":[{"id":"1.149849264","rc":[{"ltp":2.16,"id":21143600},{"ltp":2.4,"id":21039842}]}]}
+{"op":"mcm","clk":"7767369593","pt":1540033356416,"mc":[{"id":"1.149849264","rc":[{"ltp":1.78,"id":21143600},{"ltp":2.28,"id":21039842}]}]}
+{"op":"mcm","clk":"7767382806","pt":1540033424049,"mc":[{"id":"1.149849264","rc":[{"ltp":1.8,"id":21143600},{"ltp":2.24,"id":21039842}]}]}
+{"op":"mcm","clk":"7767393361","pt":1540033477368,"mc":[{"id":"1.149849264","rc":[{"ltp":1.7,"id":21143600},{"ltp":2.4,"id":21039842}]}]}
+{"op":"mcm","clk":"7767406119","pt":1540033539794,"mc":[{"id":"1.149849264","rc":[{"ltp":1.81,"id":21143600},{"ltp":2.42,"id":21039842}]}]}
+{"op":"mcm","clk":"7767418118","pt":1540033602841,"mc":[{"id":"1.149849264","rc":[{"ltp":1.62,"id":21143600},{"ltp":2.6,"id":21039842}]}]}
+{"op":"mcm","clk":"7767429965","pt":1540033663041,"mc":[{"id":"1.149849264","rc":[{"ltp":1.92,"id":21143600},{"ltp":2.08,"id":21039842}]}]}
+{"op":"mcm","clk":"7767441590","pt":1540033721770,"mc":[{"id":"1.149849264","rc":[{"ltp":2.46,"id":21143600},{"ltp":1.74,"id":21039842}]}]}
+{"op":"mcm","clk":"7767453911","pt":1540033783750,"mc":[{"id":"1.149849264","rc":[{"ltp":1.78,"id":21039842}]}]}
+{"op":"mcm","clk":"7767543272","pt":1540034198967,"mc":[{"id":"1.149849264","rc":[{"ltp":2.08,"id":21143600},{"ltp":1.92,"id":21039842}]}]}
+{"op":"mcm","clk":"7767574176","pt":1540034257006,"mc":[{"id":"1.149849264","rc":[{"ltp":2.0,"id":21039842}]}]}
+{"op":"mcm","clk":"7767599133","pt":1540034381484,"mc":[{"id":"1.149849264","rc":[{"ltp":1.92,"id":21039842}]}]}
+{"op":"mcm","clk":"7767611642","pt":1540034442254,"mc":[{"id":"1.149849264","rc":[{"ltp":2.68,"id":21143600},{"ltp":1.58,"id":21039842}]}]}
+{"op":"mcm","clk":"7767624038","pt":1540034503308,"mc":[{"id":"1.149849264","rc":[{"ltp":1.6,"id":21039842}]}]}
+{"op":"mcm","clk":"7767637322","pt":1540034563937,"mc":[{"id":"1.149849264","rc":[{"ltp":3.05,"id":21143600},{"ltp":1.49,"id":21039842}]}]}
+{"op":"mcm","clk":"7767650160","pt":1540034623776,"mc":[{"id":"1.149849264","rc":[{"ltp":3.3,"id":21143600},{"ltp":1.44,"id":21039842}]}]}
+{"op":"mcm","clk":"7767661026","pt":1540034676984,"mc":[{"id":"1.149849264","rc":[{"ltp":1.39,"id":21039842}]}]}
+{"op":"mcm","clk":"7767700575","pt":1540034861352,"mc":[{"id":"1.149849264","rc":[{"ltp":2.02,"id":21143600}]}]}
+{"op":"mcm","clk":"7767744654","pt":1540035043718,"mc":[{"id":"1.149849264","rc":[{"ltp":1.5,"id":21143600}]}]}
+{"op":"mcm","clk":"7767757350","pt":1540035103258,"mc":[{"id":"1.149849264","rc":[{"ltp":3.45,"id":21039842}]}]}
+{"op":"mcm","clk":"7767787875","pt":1540035157219,"mc":[{"id":"1.149849264","rc":[{"ltp":1.41,"id":21143600},{"ltp":3.5,"id":21039842}]}]}
+{"op":"mcm","clk":"7767801205","pt":1540035220453,"mc":[{"id":"1.149849264","rc":[{"ltp":1.36,"id":21143600},{"ltp":3.8,"id":21039842}]}]}
+{"op":"mcm","clk":"7767814350","pt":1540035283764,"mc":[{"id":"1.149849264","rc":[{"ltp":1.32,"id":21143600},{"ltp":4.0,"id":21039842}]}]}
+{"op":"mcm","clk":"7767825607","pt":1540035340988,"mc":[{"id":"1.149849264","rc":[{"ltp":1.28,"id":21143600}]}]}
+{"op":"mcm","clk":"7767838556","pt":1540035403609,"mc":[{"id":"1.149849264","rc":[{"ltp":4.6,"id":21039842}]}]}
+{"op":"mcm","clk":"7767863319","pt":1540035522548,"mc":[{"id":"1.149849264","rc":[{"ltp":1.36,"id":21143600},{"ltp":3.6,"id":21039842}]}]}
+{"op":"mcm","clk":"7767874962","pt":1540035578632,"mc":[{"id":"1.149849264","rc":[{"ltp":1.39,"id":21143600},{"ltp":3.55,"id":21039842}]}]}
+{"op":"mcm","clk":"7767888914","pt":1540035644061,"mc":[{"id":"1.149849264","rc":[{"ltp":1.4,"id":21143600},{"ltp":4.5,"id":21039842}]}]}
+{"op":"mcm","clk":"7767900476","pt":1540035697382,"mc":[{"id":"1.149849264","rc":[{"ltp":1.28,"id":21143600},{"ltp":3.85,"id":21039842}]}]}
+{"op":"mcm","clk":"7767915214","pt":1540035764197,"mc":[{"id":"1.149849264","rc":[{"ltp":1.3,"id":21143600}]}]}
+{"op":"mcm","clk":"7767928716","pt":1540035823605,"mc":[{"id":"1.149849264","rc":[{"ltp":1.32,"id":21143600}]}]}
+{"op":"mcm","clk":"7767938711","pt":1540035867858,"mc":[{"id":"1.149849264","rc":[{"ltp":1.35,"id":21143600}]}]}
+{"op":"mcm","clk":"7767954334","pt":1540035944012,"mc":[{"id":"1.149849264","rc":[{"ltp":1.3,"id":21143600}]}]}
+{"op":"mcm","clk":"7767965806","pt":1540036002831,"mc":[{"id":"1.149849264","rc":[{"ltp":1.37,"id":21143600},{"ltp":3.75,"id":21039842}]}]}
+{"op":"mcm","clk":"7768004249","pt":1540036114006,"mc":[{"id":"1.149849264","rc":[{"ltp":1.32,"id":21143600},{"ltp":4.0,"id":21039842}]}]}
+{"op":"mcm","clk":"7768014817","pt":1540036180516,"mc":[{"id":"1.149849264","rc":[{"ltp":1.27,"id":21143600}]}]}
+{"op":"mcm","clk":"7768024140","pt":1540036242079,"mc":[{"id":"1.149849264","rc":[{"ltp":4.7,"id":21039842}]}]}
+{"op":"mcm","clk":"7768032383","pt":1540036299432,"mc":[{"id":"1.149849264","rc":[{"ltp":1.23,"id":21143600},{"ltp":5.5,"id":21039842}]}]}
+{"op":"mcm","clk":"7768041240","pt":1540036359954,"mc":[{"id":"1.149849264","rc":[{"ltp":1.26,"id":21143600},{"ltp":4.9,"id":21039842}]}]}
+{"op":"mcm","clk":"7768059779","pt":1540036480931,"mc":[{"id":"1.149849264","rc":[{"ltp":1.1,"id":21143600}]}]}
+{"op":"mcm","clk":"7768068752","pt":1540036543433,"mc":[{"id":"1.149849264","rc":[{"ltp":11.0,"id":21039842}]}]}
+{"op":"mcm","clk":"7768085571","pt":1540036657534,"mc":[{"id":"1.149849264","rc":[{"ltp":1.05,"id":21143600},{"ltp":15.0,"id":21039842}]}]}
+{"op":"mcm","clk":"7768092212","pt":1540036703664,"mc":[{"id":"1.149849264","rc":[{"ltp":1.04,"id":21143600}]}]}
+{"op":"mcm","clk":"7768104617","pt":1540036783109,"mc":[{"id":"1.149849264","rc":[{"ltp":1.03,"id":21143600}]}]}
+{"op":"mcm","clk":"7768116251","pt":1540036844123,"mc":[{"id":"1.149849264","rc":[{"ltp":1.01,"id":21143600}]}]}
+{"op":"mcm","clk":"7768127604","pt":1540036902187,"mc":[{"id":"1.149849264","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964883","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T10:22:00.000Z","suspendTime":"2018-10-20T10:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T12:01:38.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":21039842,"name":"Lapko/Minella"},{"status":"WINNER","sortPriority":2,"id":21143600,"name":"Minnen/Van Uytvanck"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T10:22:00.000Z","version":2463863521,"name":"Match Odds","eventName":"Lapko/Minella v Minnen/Van Uytvanck"}}]}

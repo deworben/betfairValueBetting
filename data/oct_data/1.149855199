@@ -1,0 +1,66 @@
+{"op":"mcm","clk":"7744515875","pt":1539962451820,"mc":[{"id":"1.149855199","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:15:00.000Z","suspendTime":"2018-10-19T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11486880,"name":"S Ma"},{"status":"ACTIVE","sortPriority":2,"id":9627400,"name":"C Dinu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T16:15:00.000Z","version":2461743671,"name":"Match Odds","eventName":"S Ma v C Dinu"}}]}
+{"op":"mcm","clk":"7745099295","pt":1539965868337,"mc":[{"id":"1.149855199","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:15:00.000Z","suspendTime":"2018-10-19T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11486880,"name":"S Ma"},{"status":"ACTIVE","sortPriority":2,"id":9627400,"name":"C Dinu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T16:15:00.000Z","version":2461840505,"name":"Match Odds","eventName":"S Ma v C Dinu"}}]}
+{"op":"mcm","clk":"7745164551","pt":1539966273602,"mc":[{"id":"1.149855199","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:15:00.000Z","suspendTime":"2018-10-19T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11486880,"name":"S Ma"},{"status":"ACTIVE","sortPriority":2,"id":9627400,"name":"C Dinu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T16:23:47.000Z","version":2461846763,"name":"Match Odds","eventName":"S Ma v C Dinu"}}]}
+{"op":"mcm","clk":"7745212018","pt":1539966466727,"mc":[{"id":"1.149855199","rc":[{"ltp":1.21,"id":9627400}]}]}
+{"op":"mcm","clk":"7745290357","pt":1539966937961,"mc":[{"id":"1.149855199","rc":[{"ltp":1.2,"id":9627400}]}]}
+{"op":"mcm","clk":"7745301228","pt":1539967004038,"mc":[{"id":"1.149855199","rc":[{"ltp":1.26,"id":9627400},{"ltp":4.8,"id":11486880}]}]}
+{"op":"mcm","clk":"7745334668","pt":1539967185822,"mc":[{"id":"1.149855199","rc":[{"ltp":1.15,"id":9627400}]}]}
+{"op":"mcm","clk":"7745356221","pt":1539967304370,"mc":[{"id":"1.149855199","rc":[{"ltp":1.21,"id":9627400}]}]}
+{"op":"mcm","clk":"7745395236","pt":1539967421378,"mc":[{"id":"1.149855199","rc":[{"ltp":1.18,"id":9627400},{"ltp":6.4,"id":11486880}]}]}
+{"op":"mcm","clk":"7745428618","pt":1539967608307,"mc":[{"id":"1.149855199","rc":[{"ltp":1.21,"id":9627400}]}]}
+{"op":"mcm","clk":"7745437914","pt":1539967663987,"mc":[{"id":"1.149855199","rc":[{"ltp":1.24,"id":9627400},{"ltp":5.1,"id":11486880}]}]}
+{"op":"mcm","clk":"7745456341","pt":1539967782998,"mc":[{"id":"1.149855199","rc":[{"ltp":1.26,"id":9627400},{"ltp":4.9,"id":11486880}]}]}
+{"op":"mcm","clk":"7745467235","pt":1539967847980,"mc":[{"id":"1.149855199","rc":[{"ltp":1.28,"id":9627400},{"ltp":4.6,"id":11486880}]}]}
+{"op":"mcm","clk":"7745553400","pt":1539968265780,"mc":[{"id":"1.149855199","rc":[{"ltp":1.34,"id":9627400}]}]}
+{"op":"mcm","clk":"7745573051","pt":1539968386714,"mc":[{"id":"1.149855199","rc":[{"ltp":1.2,"id":9627400},{"ltp":6.0,"id":11486880}]}]}
+{"op":"mcm","clk":"7745594629","pt":1539968506630,"mc":[{"id":"1.149855199","rc":[{"ltp":1.28,"id":9627400},{"ltp":4.6,"id":11486880}]}]}
+{"op":"mcm","clk":"7745605495","pt":1539968567944,"mc":[{"id":"1.149855199","rc":[{"ltp":1.24,"id":9627400},{"ltp":5.2,"id":11486880}]}]}
+{"op":"mcm","clk":"7745614747","pt":1539968619481,"mc":[{"id":"1.149855199","rc":[{"ltp":1.3,"id":9627400},{"ltp":4.4,"id":11486880}]}]}
+{"op":"mcm","clk":"7745649039","pt":1539968804170,"mc":[{"id":"1.149855199","rc":[{"ltp":1.32,"id":9627400},{"ltp":4.2,"id":11486880}]}]}
+{"op":"mcm","clk":"7745658823","pt":1539968855028,"mc":[{"id":"1.149855199","rc":[{"ltp":1.37,"id":9627400}]}]}
+{"op":"mcm","clk":"7745695415","pt":1539969045136,"mc":[{"id":"1.149855199","rc":[{"ltp":1.19,"id":9627400},{"ltp":6.2,"id":11486880}]}]}
+{"op":"mcm","clk":"7745759874","pt":1539969273255,"mc":[{"id":"1.149855199","rc":[{"ltp":1.15,"id":9627400}]}]}
+{"op":"mcm","clk":"7745785061","pt":1539969391291,"mc":[{"id":"1.149855199","rc":[{"ltp":1.11,"id":9627400},{"ltp":10.0,"id":11486880}]}]}
+{"op":"mcm","clk":"7745851436","pt":1539969705230,"mc":[{"id":"1.149855199","rc":[{"ltp":1.09,"id":9627400}]}]}
+{"op":"mcm","clk":"7745899643","pt":1539969948484,"mc":[{"id":"1.149855199","rc":[{"ltp":1.15,"id":9627400}]}]}
+{"op":"mcm","clk":"7746003484","pt":1539970366254,"mc":[{"id":"1.149855199","rc":[{"ltp":1.29,"id":9627400},{"ltp":4.4,"id":11486880}]}]}
+{"op":"mcm","clk":"7746042438","pt":1539970545477,"mc":[{"id":"1.149855199","rc":[{"ltp":1.24,"id":9627400},{"ltp":5.1,"id":11486880}]}]}
+{"op":"mcm","clk":"7746068335","pt":1539970660506,"mc":[{"id":"1.149855199","rc":[{"ltp":1.16,"id":9627400}]}]}
+{"op":"mcm","clk":"7746083236","pt":1539970725851,"mc":[{"id":"1.149855199","rc":[{"ltp":1.22,"id":9627400}]}]}
+{"op":"mcm","clk":"7746096030","pt":1539970783893,"mc":[{"id":"1.149855199","rc":[{"ltp":7.2,"id":11486880}]}]}
+{"op":"mcm","clk":"7746147800","pt":1539970941938,"mc":[{"id":"1.149855199","rc":[{"ltp":1.16,"id":9627400}]}]}
+{"op":"mcm","clk":"7746191135","pt":1539971141264,"mc":[{"id":"1.149855199","rc":[{"ltp":1.14,"id":9627400}]}]}
+{"op":"mcm","clk":"7746203711","pt":1539971205603,"mc":[{"id":"1.149855199","rc":[{"ltp":1.21,"id":9627400},{"ltp":5.7,"id":11486880}]}]}
+{"op":"mcm","clk":"7746242136","pt":1539971384299,"mc":[{"id":"1.149855199","rc":[{"ltp":1.22,"id":9627400},{"ltp":5.5,"id":11486880}]}]}
+{"op":"mcm","clk":"7746279095","pt":1539971568498,"mc":[{"id":"1.149855199","rc":[{"ltp":1.37,"id":9627400},{"ltp":3.75,"id":11486880}]}]}
+{"op":"mcm","clk":"7746327625","pt":1539971808743,"mc":[{"id":"1.149855199","rc":[{"ltp":1.46,"id":9627400},{"ltp":3.2,"id":11486880}]}]}
+{"op":"mcm","clk":"7746353540","pt":1539971849821,"mc":[{"id":"1.149855199","rc":[{"ltp":1.49,"id":9627400}]}]}
+{"op":"mcm","clk":"7746377728","pt":1539971987849,"mc":[{"id":"1.149855199","rc":[{"ltp":1.54,"id":9627400},{"ltp":2.86,"id":11486880}]}]}
+{"op":"mcm","clk":"7746386731","pt":1539972030607,"mc":[{"id":"1.149855199","rc":[{"ltp":1.64,"id":9627400}]}]}
+{"op":"mcm","clk":"7746427457","pt":1539972227674,"mc":[{"id":"1.149855199","rc":[{"ltp":1.6,"id":9627400},{"ltp":2.6,"id":11486880}]}]}
+{"op":"mcm","clk":"7746440169","pt":1539972286055,"mc":[{"id":"1.149855199","rc":[{"ltp":1.59,"id":9627400},{"ltp":2.7,"id":11486880}]}]}
+{"op":"mcm","clk":"7746496639","pt":1539972526612,"mc":[{"id":"1.149855199","rc":[{"ltp":1.62,"id":9627400}]}]}
+{"op":"mcm","clk":"7746535674","pt":1539972701911,"mc":[{"id":"1.149855199","rc":[{"ltp":2.02,"id":9627400}]}]}
+{"op":"mcm","clk":"7746581825","pt":1539972827772,"mc":[{"id":"1.149855199","rc":[{"ltp":1.97,"id":11486880}]}]}
+{"op":"mcm","clk":"7746595100","pt":1539972888537,"mc":[{"id":"1.149855199","rc":[{"ltp":1.96,"id":11486880}]}]}
+{"op":"mcm","clk":"7746618236","pt":1539972993062,"mc":[{"id":"1.149855199","rc":[{"ltp":1.43,"id":11486880}]}]}
+{"op":"mcm","clk":"7746633771","pt":1539973066044,"mc":[{"id":"1.149855199","rc":[{"ltp":1.7,"id":11486880}]}]}
+{"op":"mcm","clk":"7746647070","pt":1539973126423,"mc":[{"id":"1.149855199","rc":[{"ltp":1.47,"id":11486880}]}]}
+{"op":"mcm","clk":"7746659992","pt":1539973183900,"mc":[{"id":"1.149855199","rc":[{"ltp":4.6,"id":9627400},{"ltp":1.28,"id":11486880}]}]}
+{"op":"mcm","clk":"7746685949","pt":1539973304976,"mc":[{"id":"1.149855199","rc":[{"ltp":1.22,"id":11486880}]}]}
+{"op":"mcm","clk":"7746726143","pt":1539973479852,"mc":[{"id":"1.149855199","rc":[{"ltp":8.6,"id":9627400},{"ltp":1.17,"id":11486880}]}]}
+{"op":"mcm","clk":"7746756210","pt":1539973605595,"mc":[{"id":"1.149855199","rc":[{"ltp":1.15,"id":11486880}]}]}
+{"op":"mcm","clk":"7746814363","pt":1539973785265,"mc":[{"id":"1.149855199","rc":[{"ltp":1.11,"id":11486880}]}]}
+{"op":"mcm","clk":"7746839568","pt":1539973903641,"mc":[{"id":"1.149855199","rc":[{"ltp":1.15,"id":11486880}]}]}
+{"op":"mcm","clk":"7746854593","pt":1539973968758,"mc":[{"id":"1.149855199","rc":[{"ltp":8.8,"id":9627400},{"ltp":1.08,"id":11486880}]}]}
+{"op":"mcm","clk":"7746866586","pt":1539974022992,"mc":[{"id":"1.149855199","rc":[{"ltp":1.11,"id":11486880}]}]}
+{"op":"mcm","clk":"7746881438","pt":1539974088707,"mc":[{"id":"1.149855199","rc":[{"ltp":9.2,"id":9627400},{"ltp":1.09,"id":11486880}]}]}
+{"op":"mcm","clk":"7746895345","pt":1539974147811,"mc":[{"id":"1.149855199","rc":[{"ltp":1.02,"id":11486880}]}]}
+{"op":"mcm","clk":"7746938946","pt":1539974328721,"mc":[{"id":"1.149855199","rc":[{"ltp":1.03,"id":11486880}]}]}
+{"op":"mcm","clk":"7746952600","pt":1539974384102,"mc":[{"id":"1.149855199","rc":[{"ltp":90.0,"id":9627400},{"ltp":1.01,"id":11486880}]}]}
+{"op":"mcm","clk":"7746968611","pt":1539974446878,"mc":[{"id":"1.149855199","rc":[{"ltp":1.02,"id":11486880}]}]}
+{"op":"mcm","clk":"7746983984","pt":1539974505302,"mc":[{"id":"1.149855199","rc":[{"ltp":60.0,"id":9627400}]}]}
+{"op":"mcm","clk":"7747018676","pt":1539974568489,"mc":[{"id":"1.149855199","rc":[{"ltp":70.0,"id":9627400}]}]}
+{"op":"mcm","clk":"7747046709","pt":1539974687296,"mc":[{"id":"1.149855199","rc":[{"ltp":36.0,"id":9627400},{"ltp":1.03,"id":11486880}]}]}
+{"op":"mcm","clk":"7747088005","pt":1539974859728,"mc":[{"id":"1.149855199","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:15:00.000Z","suspendTime":"2018-10-19T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11486880,"name":"S Ma"},{"status":"ACTIVE","sortPriority":2,"id":9627400,"name":"C Dinu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T16:23:47.000Z","version":2462308355,"name":"Match Odds","eventName":"S Ma v C Dinu"},"rc":[{"ltp":1.01,"id":11486880}]}]}
+{"op":"mcm","clk":"7747094489","pt":1539974888883,"mc":[{"id":"1.149855199","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28964978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T16:15:00.000Z","suspendTime":"2018-10-19T16:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T18:48:04.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":11486880,"name":"S Ma"},{"status":"LOSER","sortPriority":2,"id":9627400,"name":"C Dinu"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T16:23:47.000Z","version":2462311371,"name":"Match Odds","eventName":"S Ma v C Dinu"}}]}

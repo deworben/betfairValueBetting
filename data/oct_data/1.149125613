@@ -1,0 +1,97 @@
+{"op":"mcm","clk":"7568273373","pt":1538731246412,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T02:00:00.000Z","suspendTime":"2018-10-06T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T02:00:00.000Z","version":2437686548,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7568327066","pt":1538731664337,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T02:00:00.000Z","suspendTime":"2018-10-06T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T02:00:00.000Z","version":2437686548,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7568441504","pt":1538732664764,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T04:00:00.000Z","suspendTime":"2018-10-06T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T04:00:00.000Z","version":2437706360,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7576376289","pt":1538791161596,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:55:00.000Z","suspendTime":"2018-10-06T03:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:55:00.000Z","version":2439203042,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7576811659","pt":1538795980173,"mc":[{"id":"1.149125613","rc":[{"ltp":3.6,"id":7550871},{"ltp":1.39,"id":6498921}]}]}
+{"op":"mcm","clk":"7576815655","pt":1538796043753,"mc":[{"id":"1.149125613","rc":[{"ltp":3.9,"id":7550871},{"ltp":1.35,"id":6498921}]}]}
+{"op":"mcm","clk":"7576888307","pt":1538796858313,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:50:00.000Z","suspendTime":"2018-10-06T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:50:00.000Z","version":2439294610,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7576921553","pt":1538797089789,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:50:00.000Z","suspendTime":"2018-10-06T03:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:50:00.000Z","version":2439296630,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7576925113","pt":1538797157371,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:34:00.000Z","suspendTime":"2018-10-06T03:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:34:00.000Z","version":2439296746,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}
+{"op":"mcm","clk":"7576945009","pt":1538797478844,"mc":[{"id":"1.149125613","rc":[{"ltp":3.75,"id":7550871},{"ltp":1.44,"id":6498921}]}]}
+{"op":"mcm","clk":"7576948436","pt":1538797541704,"mc":[{"id":"1.149125613","rc":[{"ltp":3.35,"id":7550871},{"ltp":1.43,"id":6498921}]}]}
+{"op":"mcm","clk":"7576952196","pt":1538797603823,"mc":[{"id":"1.149125613","rc":[{"ltp":1.39,"id":6498921}]}]}
+{"op":"mcm","clk":"7576955545","pt":1538797662983,"mc":[{"id":"1.149125613","rc":[{"ltp":4.4,"id":7550871},{"ltp":1.3,"id":6498921}]}]}
+{"op":"mcm","clk":"7576959155","pt":1538797725268,"mc":[{"id":"1.149125613","rc":[{"ltp":1.29,"id":6498921}]}]}
+{"op":"mcm","clk":"7576962553","pt":1538797775688,"mc":[{"id":"1.149125613","rc":[{"ltp":3.5,"id":7550871},{"ltp":1.4,"id":6498921}]}]}
+{"op":"mcm","clk":"7576967634","pt":1538797838904,"mc":[{"id":"1.149125613","rc":[{"ltp":1.38,"id":6498921}]}]}
+{"op":"mcm","clk":"7576971627","pt":1538797905738,"mc":[{"id":"1.149125613","rc":[{"ltp":1.24,"id":6498921}]}]}
+{"op":"mcm","clk":"7576991419","pt":1538797966187,"mc":[{"id":"1.149125613","rc":[{"ltp":1.2,"id":6498921}]}]}
+{"op":"mcm","clk":"7576995939","pt":1538798025123,"mc":[{"id":"1.149125613","rc":[{"ltp":1.22,"id":6498921}]}]}
+{"op":"mcm","clk":"7576999472","pt":1538798079910,"mc":[{"id":"1.149125613","rc":[{"ltp":1.3,"id":6498921}]}]}
+{"op":"mcm","clk":"7577003657","pt":1538798142409,"mc":[{"id":"1.149125613","rc":[{"ltp":4.3,"id":7550871}]}]}
+{"op":"mcm","clk":"7577011290","pt":1538798265719,"mc":[{"id":"1.149125613","rc":[{"ltp":4.2,"id":7550871},{"ltp":1.31,"id":6498921}]}]}
+{"op":"mcm","clk":"7577014385","pt":1538798323656,"mc":[{"id":"1.149125613","rc":[{"ltp":3.65,"id":7550871},{"ltp":1.38,"id":6498921}]}]}
+{"op":"mcm","clk":"7577023105","pt":1538798439303,"mc":[{"id":"1.149125613","rc":[{"ltp":1.42,"id":6498921}]}]}
+{"op":"mcm","clk":"7577028181","pt":1538798505974,"mc":[{"id":"1.149125613","rc":[{"ltp":1.38,"id":6498921}]}]}
+{"op":"mcm","clk":"7577031738","pt":1538798552146,"mc":[{"id":"1.149125613","rc":[{"ltp":3.4,"id":7550871},{"ltp":1.42,"id":6498921}]}]}
+{"op":"mcm","clk":"7577039307","pt":1538798619283,"mc":[{"id":"1.149125613","rc":[{"ltp":2.96,"id":7550871},{"ltp":1.52,"id":6498921}]}]}
+{"op":"mcm","clk":"7577049935","pt":1538798745246,"mc":[{"id":"1.149125613","rc":[{"ltp":2.38,"id":7550871},{"ltp":1.72,"id":6498921}]}]}
+{"op":"mcm","clk":"7577053106","pt":1538798781199,"mc":[{"id":"1.149125613","rc":[{"ltp":1.68,"id":6498921}]}]}
+{"op":"mcm","clk":"7577077059","pt":1538798864677,"mc":[{"id":"1.149125613","rc":[{"ltp":1.6,"id":6498921}]}]}
+{"op":"mcm","clk":"7577090336","pt":1538799035796,"mc":[{"id":"1.149125613","rc":[{"ltp":2.0,"id":7550871},{"ltp":2.0,"id":6498921}]}]}
+{"op":"mcm","clk":"7577095684","pt":1538799102715,"mc":[{"id":"1.149125613","rc":[{"ltp":1.99,"id":7550871},{"ltp":2.02,"id":6498921}]}]}
+{"op":"mcm","clk":"7577100048","pt":1538799164616,"mc":[{"id":"1.149125613","rc":[{"ltp":1.86,"id":7550871}]}]}
+{"op":"mcm","clk":"7577103927","pt":1538799223720,"mc":[{"id":"1.149125613","rc":[{"ltp":1.66,"id":7550871}]}]}
+{"op":"mcm","clk":"7577105810","pt":1538799247060,"mc":[{"id":"1.149125613","rc":[{"ltp":1.62,"id":7550871},{"ltp":2.6,"id":6498921}]}]}
+{"op":"mcm","clk":"7577117763","pt":1538799405708,"mc":[{"id":"1.149125613","rc":[{"ltp":1.48,"id":7550871},{"ltp":3.05,"id":6498921}]}]}
+{"op":"mcm","clk":"7577121411","pt":1538799457318,"mc":[{"id":"1.149125613","rc":[{"ltp":1.5,"id":7550871}]}]}
+{"op":"mcm","clk":"7577129933","pt":1538799585765,"mc":[{"id":"1.149125613","rc":[{"ltp":1.43,"id":7550871}]}]}
+{"op":"mcm","clk":"7577133462","pt":1538799646216,"mc":[{"id":"1.149125613","rc":[{"ltp":1.62,"id":7550871},{"ltp":3.0,"id":6498921}]}]}
+{"op":"mcm","clk":"7577137043","pt":1538799700520,"mc":[{"id":"1.149125613","rc":[{"ltp":1.7,"id":7550871},{"ltp":2.38,"id":6498921}]}]}
+{"op":"mcm","clk":"7577158536","pt":1538799762805,"mc":[{"id":"1.149125613","rc":[{"ltp":1.84,"id":7550871}]}]}
+{"op":"mcm","clk":"7577162865","pt":1538799826377,"mc":[{"id":"1.149125613","rc":[{"ltp":1.64,"id":7550871},{"ltp":2.56,"id":6498921}]}]}
+{"op":"mcm","clk":"7577167144","pt":1538799885300,"mc":[{"id":"1.149125613","rc":[{"ltp":1.7,"id":7550871}]}]}
+{"op":"mcm","clk":"7577175263","pt":1538800005673,"mc":[{"id":"1.149125613","rc":[{"ltp":1.63,"id":7550871}]}]}
+{"op":"mcm","clk":"7577182576","pt":1538800125816,"mc":[{"id":"1.149125613","rc":[{"ltp":1.51,"id":7550871},{"ltp":2.88,"id":6498921}]}]}
+{"op":"mcm","clk":"7577186327","pt":1538800186309,"mc":[{"id":"1.149125613","rc":[{"ltp":1.62,"id":7550871},{"ltp":2.78,"id":6498921}]}]}
+{"op":"mcm","clk":"7577190020","pt":1538800242231,"mc":[{"id":"1.149125613","rc":[{"ltp":1.77,"id":7550871}]}]}
+{"op":"mcm","clk":"7577191653","pt":1538800262142,"mc":[{"id":"1.149125613","rc":[{"ltp":2.2,"id":6498921}]}]}
+{"op":"mcm","clk":"7577199002","pt":1538800363042,"mc":[{"id":"1.149125613","rc":[{"ltp":1.9,"id":7550871}]}]}
+{"op":"mcm","clk":"7577204399","pt":1538800424708,"mc":[{"id":"1.149125613","rc":[{"ltp":2.2,"id":7550871},{"ltp":1.8,"id":6498921}]}]}
+{"op":"mcm","clk":"7577209394","pt":1538800486315,"mc":[{"id":"1.149125613","rc":[{"ltp":2.5,"id":7550871},{"ltp":1.68,"id":6498921}]}]}
+{"op":"mcm","clk":"7577214936","pt":1538800546510,"mc":[{"id":"1.149125613","rc":[{"ltp":2.32,"id":7550871},{"ltp":1.86,"id":6498921}]}]}
+{"op":"mcm","clk":"7577218782","pt":1538800597841,"mc":[{"id":"1.149125613","rc":[{"ltp":2.12,"id":7550871},{"ltp":1.89,"id":6498921}]}]}
+{"op":"mcm","clk":"7577240722","pt":1538800660557,"mc":[{"id":"1.149125613","rc":[{"ltp":1.6,"id":6498921}]}]}
+{"op":"mcm","clk":"7577249718","pt":1538800783953,"mc":[{"id":"1.149125613","rc":[{"ltp":1.57,"id":6498921}]}]}
+{"op":"mcm","clk":"7577253661","pt":1538800841003,"mc":[{"id":"1.149125613","rc":[{"ltp":1.6,"id":6498921}]}]}
+{"op":"mcm","clk":"7577269031","pt":1538801026010,"mc":[{"id":"1.149125613","rc":[{"ltp":2.62,"id":7550871},{"ltp":1.58,"id":6498921}]}]}
+{"op":"mcm","clk":"7577272975","pt":1538801084176,"mc":[{"id":"1.149125613","rc":[{"ltp":2.68,"id":7550871},{"ltp":1.72,"id":6498921}]}]}
+{"op":"mcm","clk":"7577277583","pt":1538801143988,"mc":[{"id":"1.149125613","rc":[{"ltp":1.8,"id":6498921}]}]}
+{"op":"mcm","clk":"7577281784","pt":1538801206249,"mc":[{"id":"1.149125613","rc":[{"ltp":2.18,"id":7550871},{"ltp":1.85,"id":6498921}]}]}
+{"op":"mcm","clk":"7577285780","pt":1538801265121,"mc":[{"id":"1.149125613","rc":[{"ltp":2.56,"id":7550871},{"ltp":1.64,"id":6498921}]}]}
+{"op":"mcm","clk":"7577289140","pt":1538801312594,"mc":[{"id":"1.149125613","rc":[{"ltp":1.56,"id":6498921}]}]}
+{"op":"mcm","clk":"7577294603","pt":1538801386395,"mc":[{"id":"1.149125613","rc":[{"ltp":1.55,"id":6498921}]}]}
+{"op":"mcm","clk":"7577300752","pt":1538801443817,"mc":[{"id":"1.149125613","rc":[{"ltp":1.54,"id":6498921}]}]}
+{"op":"mcm","clk":"7577306826","pt":1538801504295,"mc":[{"id":"1.149125613","rc":[{"ltp":1.45,"id":6498921}]}]}
+{"op":"mcm","clk":"7577327083","pt":1538801551785,"mc":[{"id":"1.149125613","rc":[{"ltp":3.2,"id":7550871}]}]}
+{"op":"mcm","clk":"7577331883","pt":1538801625463,"mc":[{"id":"1.149125613","rc":[{"ltp":3.25,"id":7550871},{"ltp":1.44,"id":6498921}]}]}
+{"op":"mcm","clk":"7577336297","pt":1538801686568,"mc":[{"id":"1.149125613","rc":[{"ltp":1.32,"id":6498921}]}]}
+{"op":"mcm","clk":"7577339742","pt":1538801745256,"mc":[{"id":"1.149125613","rc":[{"ltp":1.36,"id":6498921}]}]}
+{"op":"mcm","clk":"7577343206","pt":1538801805192,"mc":[{"id":"1.149125613","rc":[{"ltp":1.95,"id":6498921}]}]}
+{"op":"mcm","clk":"7577347271","pt":1538801859766,"mc":[{"id":"1.149125613","rc":[{"ltp":2.04,"id":7550871},{"ltp":1.94,"id":6498921}]}]}
+{"op":"mcm","clk":"7577351411","pt":1538801923646,"mc":[{"id":"1.149125613","rc":[{"ltp":1.84,"id":7550871},{"ltp":2.12,"id":6498921}]}]}
+{"op":"mcm","clk":"7577356254","pt":1538801985306,"mc":[{"id":"1.149125613","rc":[{"ltp":1.72,"id":7550871},{"ltp":2.38,"id":6498921}]}]}
+{"op":"mcm","clk":"7577360935","pt":1538802044465,"mc":[{"id":"1.149125613","rc":[{"ltp":1.6,"id":7550871}]}]}
+{"op":"mcm","clk":"7577365837","pt":1538802105947,"mc":[{"id":"1.149125613","rc":[{"ltp":1.71,"id":7550871},{"ltp":2.42,"id":6498921}]}]}
+{"op":"mcm","clk":"7577368766","pt":1538802154511,"mc":[{"id":"1.149125613","rc":[{"ltp":1.91,"id":7550871},{"ltp":2.08,"id":6498921}]}]}
+{"op":"mcm","clk":"7577373026","pt":1538802225626,"mc":[{"id":"1.149125613","rc":[{"ltp":1.83,"id":6498921}]}]}
+{"op":"mcm","clk":"7577376483","pt":1538802284893,"mc":[{"id":"1.149125613","rc":[{"ltp":2.22,"id":7550871}]}]}
+{"op":"mcm","clk":"7577380158","pt":1538802344560,"mc":[{"id":"1.149125613","rc":[{"ltp":2.66,"id":7550871},{"ltp":1.82,"id":6498921}]}]}
+{"op":"mcm","clk":"7577383644","pt":1538802405454,"mc":[{"id":"1.149125613","rc":[{"ltp":1.97,"id":7550871}]}]}
+{"op":"mcm","clk":"7577403971","pt":1538802466503,"mc":[{"id":"1.149125613","rc":[{"ltp":2.92,"id":7550871},{"ltp":1.52,"id":6498921}]}]}
+{"op":"mcm","clk":"7577407163","pt":1538802526504,"mc":[{"id":"1.149125613","rc":[{"ltp":1.97,"id":7550871}]}]}
+{"op":"mcm","clk":"7577410626","pt":1538802585926,"mc":[{"id":"1.149125613","rc":[{"ltp":1.71,"id":7550871},{"ltp":2.02,"id":6498921}]}]}
+{"op":"mcm","clk":"7577414127","pt":1538802645908,"mc":[{"id":"1.149125613","rc":[{"ltp":1.4,"id":7550871},{"ltp":3.5,"id":6498921}]}]}
+{"op":"mcm","clk":"7577417918","pt":1538802704192,"mc":[{"id":"1.149125613","rc":[{"ltp":1.37,"id":7550871},{"ltp":3.7,"id":6498921}]}]}
+{"op":"mcm","clk":"7577421469","pt":1538802762430,"mc":[{"id":"1.149125613","rc":[{"ltp":1.45,"id":7550871}]}]}
+{"op":"mcm","clk":"7577425307","pt":1538802825534,"mc":[{"id":"1.149125613","rc":[{"ltp":1.32,"id":7550871}]}]}
+{"op":"mcm","clk":"7577429297","pt":1538802884468,"mc":[{"id":"1.149125613","rc":[{"ltp":1.17,"id":7550871},{"ltp":7.4,"id":6498921}]}]}
+{"op":"mcm","clk":"7577439377","pt":1538803003260,"mc":[{"id":"1.149125613","rc":[{"ltp":1.21,"id":7550871}]}]}
+{"op":"mcm","clk":"7577444222","pt":1538803065124,"mc":[{"id":"1.149125613","rc":[{"ltp":1.15,"id":7550871}]}]}
+{"op":"mcm","clk":"7577448461","pt":1538803124517,"mc":[{"id":"1.149125613","rc":[{"ltp":1.25,"id":7550871}]}]}
+{"op":"mcm","clk":"7577460158","pt":1538803246110,"mc":[{"id":"1.149125613","rc":[{"ltp":1.18,"id":7550871},{"ltp":6.4,"id":6498921}]}]}
+{"op":"mcm","clk":"7577464676","pt":1538803305437,"mc":[{"id":"1.149125613","rc":[{"ltp":1.1,"id":7550871},{"ltp":11.0,"id":6498921}]}]}
+{"op":"mcm","clk":"7577485945","pt":1538803365076,"mc":[{"id":"1.149125613","rc":[{"ltp":1.04,"id":7550871},{"ltp":26.0,"id":6498921}]}]}
+{"op":"mcm","clk":"7577490106","pt":1538803426525,"mc":[{"id":"1.149125613","rc":[{"ltp":1.02,"id":7550871}]}]}
+{"op":"mcm","clk":"7577494297","pt":1538803485493,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:34:00.000Z","suspendTime":"2018-10-06T03:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"ACTIVE","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:34:00.000Z","version":2439387567,"name":"Match Odds","eventName":"C Zhao v Mrdeza"},"rc":[{"ltp":100.0,"id":6498921}]}]}
+{"op":"mcm","clk":"7577498200","pt":1538803540675,"mc":[{"id":"1.149125613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940029","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T03:34:00.000Z","suspendTime":"2018-10-06T03:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T05:25:35.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7550871,"name":"Carol Zhao"},{"status":"LOSER","sortPriority":2,"id":6498921,"name":"Tereza Mrdeza"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T03:34:00.000Z","version":2439388986,"name":"Match Odds","eventName":"C Zhao v Mrdeza"}}]}

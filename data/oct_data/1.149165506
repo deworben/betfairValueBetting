@@ -1,0 +1,141 @@
+{"op":"mcm","clk":"7633527915","pt":1538790935687,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:00:00.000Z","version":2439198415,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7633593103","pt":1538791568056,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:00:00.000Z","version":2439198415,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7636628188","pt":1538818770396,"mc":[{"id":"1.149165506","rc":[{"ltp":3.1,"id":4822931}]}]}
+{"op":"mcm","clk":"7637270259","pt":1538822370154,"mc":[{"id":"1.149165506","rc":[{"ltp":3.2,"id":4822931},{"ltp":1.45,"id":4490590}]}]}
+{"op":"mcm","clk":"7639472612","pt":1538832962875,"mc":[{"id":"1.149165506","rc":[{"ltp":3.0,"id":4822931},{"ltp":1.5,"id":4490590}]}]}
+{"op":"mcm","clk":"7639730111","pt":1538834059461,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:54:00.000Z","suspendTime":"2018-10-06T17:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:54:00.000Z","version":2440388815,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7641559167","pt":1538840855934,"mc":[{"id":"1.149165506","rc":[{"ltp":2.98,"id":4822931}]}]}
+{"op":"mcm","clk":"7641637784","pt":1538841262453,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:09:00.000Z","suspendTime":"2018-10-06T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:09:00.000Z","version":2441155146,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7641702071","pt":1538841572207,"mc":[{"id":"1.149165506","rc":[{"ltp":3.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7641712392","pt":1538841634491,"mc":[{"id":"1.149165506","rc":[{"ltp":2.98,"id":4822931}]}]}
+{"op":"mcm","clk":"7641717298","pt":1538841662563,"mc":[{"id":"1.149165506","rc":[{"ltp":3.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7641733283","pt":1538841754018,"mc":[{"id":"1.149165506","rc":[{"ltp":2.98,"id":4822931}]}]}
+{"op":"mcm","clk":"7641810952","pt":1538842160323,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:24:00.000Z","suspendTime":"2018-10-06T18:24:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:24:00.000Z","version":2441345095,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7641963532","pt":1538842839017,"mc":[{"id":"1.149165506","rc":[{"ltp":3.3,"id":4822931},{"ltp":1.44,"id":4490590}]}]}
+{"op":"mcm","clk":"7642010955","pt":1538843074251,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:39:00.000Z","suspendTime":"2018-10-06T18:39:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:39:00.000Z","version":2441419578,"name":"Match Odds","eventName":"Souza v Olivo"},"rc":[{"ltp":2.98,"id":4822931}]}]}
+{"op":"mcm","clk":"7642204645","pt":1538843960080,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:54:00.000Z","suspendTime":"2018-10-06T18:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:54:00.000Z","version":2441477960,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7642372186","pt":1538844861330,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:58:00.000Z","suspendTime":"2018-10-06T18:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:58:00.000Z","version":2441545715,"name":"Match Odds","eventName":"Souza v Olivo"},"rc":[{"ltp":3.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7642430501","pt":1538845164457,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:57:00.000Z","suspendTime":"2018-10-06T18:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T18:57:00.000Z","version":2441557621,"name":"Match Odds","eventName":"Souza v Olivo"},"rc":[{"ltp":1.5,"id":4490590}]}]}
+{"op":"mcm","clk":"7642440696","pt":1538845236294,"mc":[{"id":"1.149165506","rc":[{"ltp":2.98,"id":4822931},{"ltp":1.48,"id":4490590}]}]}
+{"op":"mcm","clk":"7642479040","pt":1538845475937,"mc":[{"id":"1.149165506","rc":[{"ltp":2.8,"id":4822931}]}]}
+{"op":"mcm","clk":"7642489767","pt":1538845536428,"mc":[{"id":"1.149165506","rc":[{"ltp":2.58,"id":4822931}]}]}
+{"op":"mcm","clk":"7642499866","pt":1538845593504,"mc":[{"id":"1.149165506","rc":[{"ltp":1.51,"id":4490590}]}]}
+{"op":"mcm","clk":"7642509145","pt":1538845642012,"mc":[{"id":"1.149165506","rc":[{"ltp":2.4,"id":4822931}]}]}
+{"op":"mcm","clk":"7642522737","pt":1538845715834,"mc":[{"id":"1.149165506","rc":[{"ltp":2.42,"id":4822931}]}]}
+{"op":"mcm","clk":"7642528677","pt":1538845749175,"mc":[{"id":"1.149165506","rc":[{"ltp":1.7,"id":4490590}]}]}
+{"op":"mcm","clk":"7642601365","pt":1538846068878,"mc":[{"id":"1.149165506","rc":[{"ltp":2.32,"id":4822931}]}]}
+{"op":"mcm","clk":"7642612154","pt":1538846131540,"mc":[{"id":"1.149165506","rc":[{"ltp":1.6,"id":4490590}]}]}
+{"op":"mcm","clk":"7642633244","pt":1538846252409,"mc":[{"id":"1.149165506","rc":[{"ltp":2.3,"id":4822931}]}]}
+{"op":"mcm","clk":"7642643492","pt":1538846313069,"mc":[{"id":"1.149165506","rc":[{"ltp":2.68,"id":4822931}]}]}
+{"op":"mcm","clk":"7642654308","pt":1538846368456,"mc":[{"id":"1.149165506","rc":[{"ltp":2.5,"id":4822931}]}]}
+{"op":"mcm","clk":"7642668342","pt":1538846435424,"mc":[{"id":"1.149165506","rc":[{"ltp":2.66,"id":4822931}]}]}
+{"op":"mcm","clk":"7642681005","pt":1538846496459,"mc":[{"id":"1.149165506","rc":[{"ltp":2.68,"id":4822931},{"ltp":1.65,"id":4490590}]}]}
+{"op":"mcm","clk":"7642691128","pt":1538846551952,"mc":[{"id":"1.149165506","rc":[{"ltp":2.34,"id":4822931},{"ltp":1.67,"id":4490590}]}]}
+{"op":"mcm","clk":"7642712687","pt":1538846676426,"mc":[{"id":"1.149165506","rc":[{"ltp":2.3,"id":4822931}]}]}
+{"op":"mcm","clk":"7642722315","pt":1538846728307,"mc":[{"id":"1.149165506","rc":[{"ltp":2.5,"id":4822931}]}]}
+{"op":"mcm","clk":"7642735120","pt":1538846794008,"mc":[{"id":"1.149165506","rc":[{"ltp":2.3,"id":4822931}]}]}
+{"op":"mcm","clk":"7642767748","pt":1538846896986,"mc":[{"id":"1.149165506","rc":[{"ltp":2.28,"id":4822931}]}]}
+{"op":"mcm","clk":"7642781262","pt":1538846974994,"mc":[{"id":"1.149165506","rc":[{"ltp":2.48,"id":4822931}]}]}
+{"op":"mcm","clk":"7642792561","pt":1538847035929,"mc":[{"id":"1.149165506","rc":[{"ltp":2.44,"id":4822931}]}]}
+{"op":"mcm","clk":"7642803136","pt":1538847095710,"mc":[{"id":"1.149165506","rc":[{"ltp":2.3,"id":4822931}]}]}
+{"op":"mcm","clk":"7642814319","pt":1538847155214,"mc":[{"id":"1.149165506","rc":[{"ltp":2.52,"id":4822931},{"ltp":1.66,"id":4490590}]}]}
+{"op":"mcm","clk":"7642825997","pt":1538847216387,"mc":[{"id":"1.149165506","rc":[{"ltp":2.34,"id":4822931}]}]}
+{"op":"mcm","clk":"7642836740","pt":1538847276100,"mc":[{"id":"1.149165506","rc":[{"ltp":2.46,"id":4822931},{"ltp":1.68,"id":4490590}]}]}
+{"op":"mcm","clk":"7642847983","pt":1538847335019,"mc":[{"id":"1.149165506","rc":[{"ltp":2.5,"id":4822931}]}]}
+{"op":"mcm","clk":"7642858296","pt":1538847390091,"mc":[{"id":"1.149165506","rc":[{"ltp":2.34,"id":4822931},{"ltp":1.67,"id":4490590}]}]}
+{"op":"mcm","clk":"7642870231","pt":1538847454498,"mc":[{"id":"1.149165506","rc":[{"ltp":2.3,"id":4822931},{"ltp":1.69,"id":4490590}]}]}
+{"op":"mcm","clk":"7642881306","pt":1538847512904,"mc":[{"id":"1.149165506","rc":[{"ltp":2.44,"id":4822931}]}]}
+{"op":"mcm","clk":"7642893361","pt":1538847576494,"mc":[{"id":"1.149165506","rc":[{"ltp":2.32,"id":4822931},{"ltp":1.7,"id":4490590}]}]}
+{"op":"mcm","clk":"7642903408","pt":1538847632539,"mc":[{"id":"1.149165506","rc":[{"ltp":2.44,"id":4822931}]}]}
+{"op":"mcm","clk":"7642937893","pt":1538847755582,"mc":[{"id":"1.149165506","rc":[{"ltp":2.36,"id":4822931}]}]}
+{"op":"mcm","clk":"7642947572","pt":1538847811428,"mc":[{"id":"1.149165506","rc":[{"ltp":2.5,"id":4822931}]}]}
+{"op":"mcm","clk":"7642968393","pt":1538847927746,"mc":[{"id":"1.149165506","rc":[{"ltp":2.52,"id":4822931},{"ltp":1.66,"id":4490590}]}]}
+{"op":"mcm","clk":"7642980421","pt":1538847993469,"mc":[{"id":"1.149165506","rc":[{"ltp":2.66,"id":4822931}]}]}
+{"op":"mcm","clk":"7642991010","pt":1538848052674,"mc":[{"id":"1.149165506","rc":[{"ltp":2.94,"id":4822931},{"ltp":1.52,"id":4490590}]}]}
+{"op":"mcm","clk":"7643013393","pt":1538848175190,"mc":[{"id":"1.149165506","rc":[{"ltp":2.8,"id":4822931}]}]}
+{"op":"mcm","clk":"7643123780","pt":1538848776281,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:58:00.000Z","suspendTime":"2018-10-06T17:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:58:00.000Z","version":2441770987,"name":"Match Odds","eventName":"Souza v Olivo"},"rc":[{"ltp":2.88,"id":4822931},{"ltp":1.54,"id":4490590}]}]}
+{"op":"mcm","clk":"7643131401","pt":1538848823274,"mc":[{"id":"1.149165506","rc":[{"ltp":2.94,"id":4822931},{"ltp":1.52,"id":4490590}]}]}
+{"op":"mcm","clk":"7643138537","pt":1538848870412,"mc":[{"id":"1.149165506","rc":[{"ltp":3.1,"id":4822931},{"ltp":1.48,"id":4490590}]}]}
+{"op":"mcm","clk":"7643210375","pt":1538849276852,"mc":[{"id":"1.149165506","rc":[{"ltp":2.8,"id":4822931},{"ltp":1.56,"id":4490590}]}]}
+{"op":"mcm","clk":"7643243368","pt":1538849441850,"mc":[{"id":"1.149165506","rc":[{"ltp":1.46,"id":4490590}]}]}
+{"op":"mcm","clk":"7643378650","pt":1538850082503,"mc":[{"id":"1.149165506","rc":[{"ltp":1.47,"id":4490590}]}]}
+{"op":"mcm","clk":"7643461426","pt":1538850515418,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:58:00.000Z","suspendTime":"2018-10-06T17:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:58:00.000Z","version":2441897946,"name":"Match Odds","eventName":"Souza v Olivo"}}]}
+{"op":"mcm","clk":"7643470909","pt":1538850575792,"mc":[{"id":"1.149165506","rc":[{"ltp":2.92,"id":4822931}]}]}
+{"op":"mcm","clk":"7643492877","pt":1538850695951,"mc":[{"id":"1.149165506","rc":[{"ltp":2.8,"id":4822931},{"ltp":1.57,"id":4490590}]}]}
+{"op":"mcm","clk":"7643503641","pt":1538850754939,"mc":[{"id":"1.149165506","rc":[{"ltp":1.58,"id":4490590}]}]}
+{"op":"mcm","clk":"7643524075","pt":1538850875164,"mc":[{"id":"1.149165506","rc":[{"ltp":2.14,"id":4822931}]}]}
+{"op":"mcm","clk":"7643535084","pt":1538850936333,"mc":[{"id":"1.149165506","rc":[{"ltp":1.87,"id":4490590}]}]}
+{"op":"mcm","clk":"7643545283","pt":1538850994898,"mc":[{"id":"1.149165506","rc":[{"ltp":2.94,"id":4822931},{"ltp":1.51,"id":4490590}]}]}
+{"op":"mcm","clk":"7643586717","pt":1538851235846,"mc":[{"id":"1.149165506","rc":[{"ltp":2.48,"id":4822931},{"ltp":1.67,"id":4490590}]}]}
+{"op":"mcm","clk":"7643596330","pt":1538851292812,"mc":[{"id":"1.149165506","rc":[{"ltp":2.74,"id":4822931},{"ltp":1.42,"id":4490590}]}]}
+{"op":"mcm","clk":"7643620491","pt":1538851355883,"mc":[{"id":"1.149165506","rc":[{"ltp":1.61,"id":4490590}]}]}
+{"op":"mcm","clk":"7643630746","pt":1538851416245,"mc":[{"id":"1.149165506","rc":[{"ltp":2.26,"id":4822931},{"ltp":1.8,"id":4490590}]}]}
+{"op":"mcm","clk":"7643640580","pt":1538851475010,"mc":[{"id":"1.149165506","rc":[{"ltp":2.72,"id":4822931},{"ltp":1.53,"id":4490590}]}]}
+{"op":"mcm","clk":"7643650238","pt":1538851531690,"mc":[{"id":"1.149165506","rc":[{"ltp":1.64,"id":4490590}]}]}
+{"op":"mcm","clk":"7643660665","pt":1538851594835,"mc":[{"id":"1.149165506","rc":[{"ltp":2.54,"id":4822931},{"ltp":1.56,"id":4490590}]}]}
+{"op":"mcm","clk":"7643671026","pt":1538851654636,"mc":[{"id":"1.149165506","rc":[{"ltp":3.4,"id":4822931},{"ltp":1.42,"id":4490590}]}]}
+{"op":"mcm","clk":"7643681019","pt":1538851714786,"mc":[{"id":"1.149165506","rc":[{"ltp":3.55,"id":4822931},{"ltp":1.4,"id":4490590}]}]}
+{"op":"mcm","clk":"7643689853","pt":1538851769265,"mc":[{"id":"1.149165506","rc":[{"ltp":3.65,"id":4822931},{"ltp":1.38,"id":4490590}]}]}
+{"op":"mcm","clk":"7643699001","pt":1538851832119,"mc":[{"id":"1.149165506","rc":[{"ltp":1.34,"id":4490590}]}]}
+{"op":"mcm","clk":"7643706406","pt":1538851891283,"mc":[{"id":"1.149165506","rc":[{"ltp":3.8,"id":4822931},{"ltp":1.36,"id":4490590}]}]}
+{"op":"mcm","clk":"7643715691","pt":1538851956252,"mc":[{"id":"1.149165506","rc":[{"ltp":3.6,"id":4822931},{"ltp":1.38,"id":4490590}]}]}
+{"op":"mcm","clk":"7643732793","pt":1538852073926,"mc":[{"id":"1.149165506","rc":[{"ltp":3.15,"id":4822931},{"ltp":1.46,"id":4490590}]}]}
+{"op":"mcm","clk":"7643741465","pt":1538852134794,"mc":[{"id":"1.149165506","rc":[{"ltp":2.52,"id":4822931},{"ltp":1.65,"id":4490590}]}]}
+{"op":"mcm","clk":"7643748961","pt":1538852192461,"mc":[{"id":"1.149165506","rc":[{"ltp":2.2,"id":4822931},{"ltp":1.66,"id":4490590}]}]}
+{"op":"mcm","clk":"7643770590","pt":1538852254731,"mc":[{"id":"1.149165506","rc":[{"ltp":2.0,"id":4822931},{"ltp":2.0,"id":4490590}]}]}
+{"op":"mcm","clk":"7643779030","pt":1538852314974,"mc":[{"id":"1.149165506","rc":[{"ltp":2.04,"id":4822931},{"ltp":1.96,"id":4490590}]}]}
+{"op":"mcm","clk":"7643784112","pt":1538852348040,"mc":[{"id":"1.149165506","rc":[{"ltp":2.1,"id":4822931},{"ltp":1.9,"id":4490590}]}]}
+{"op":"mcm","clk":"7643791618","pt":1538852401815,"mc":[{"id":"1.149165506","rc":[{"ltp":2.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7643804677","pt":1538852495553,"mc":[{"id":"1.149165506","rc":[{"ltp":1.99,"id":4822931},{"ltp":1.95,"id":4490590}]}]}
+{"op":"mcm","clk":"7643813831","pt":1538852556312,"mc":[{"id":"1.149165506","rc":[{"ltp":2.1,"id":4822931},{"ltp":2.0,"id":4490590}]}]}
+{"op":"mcm","clk":"7643821238","pt":1538852604484,"mc":[{"id":"1.149165506","rc":[{"ltp":1.9,"id":4822931},{"ltp":2.02,"id":4490590}]}]}
+{"op":"mcm","clk":"7643832031","pt":1538852671789,"mc":[{"id":"1.149165506","rc":[{"ltp":2.12,"id":4490590}]}]}
+{"op":"mcm","clk":"7643842753","pt":1538852734049,"mc":[{"id":"1.149165506","rc":[{"ltp":2.2,"id":4822931},{"ltp":1.9,"id":4490590}]}]}
+{"op":"mcm","clk":"7643852993","pt":1538852794128,"mc":[{"id":"1.149165506","rc":[{"ltp":1.84,"id":4490590}]}]}
+{"op":"mcm","clk":"7643863342","pt":1538852855375,"mc":[{"id":"1.149165506","rc":[{"ltp":2.06,"id":4822931},{"ltp":1.94,"id":4490590}]}]}
+{"op":"mcm","clk":"7643873045","pt":1538852911576,"mc":[{"id":"1.149165506","rc":[{"ltp":2.24,"id":4822931},{"ltp":1.81,"id":4490590}]}]}
+{"op":"mcm","clk":"7643883663","pt":1538852974265,"mc":[{"id":"1.149165506","rc":[{"ltp":2.0,"id":4822931},{"ltp":2.0,"id":4490590}]}]}
+{"op":"mcm","clk":"7643903976","pt":1538853095199,"mc":[{"id":"1.149165506","rc":[{"ltp":2.62,"id":4822931},{"ltp":1.62,"id":4490590}]}]}
+{"op":"mcm","clk":"7643927281","pt":1538853155563,"mc":[{"id":"1.149165506","rc":[{"ltp":2.8,"id":4822931},{"ltp":1.56,"id":4490590}]}]}
+{"op":"mcm","clk":"7643937424","pt":1538853216434,"mc":[{"id":"1.149165506","rc":[{"ltp":2.66,"id":4822931},{"ltp":1.59,"id":4490590}]}]}
+{"op":"mcm","clk":"7643948183","pt":1538853275809,"mc":[{"id":"1.149165506","rc":[{"ltp":1.6,"id":4490590}]}]}
+{"op":"mcm","clk":"7643959748","pt":1538853336082,"mc":[{"id":"1.149165506","rc":[{"ltp":3.4,"id":4822931},{"ltp":1.41,"id":4490590}]}]}
+{"op":"mcm","clk":"7643970436","pt":1538853395105,"mc":[{"id":"1.149165506","rc":[{"ltp":3.05,"id":4822931},{"ltp":1.48,"id":4490590}]}]}
+{"op":"mcm","clk":"7643981233","pt":1538853455783,"mc":[{"id":"1.149165506","rc":[{"ltp":3.4,"id":4822931},{"ltp":1.42,"id":4490590}]}]}
+{"op":"mcm","clk":"7643990566","pt":1538853514734,"mc":[{"id":"1.149165506","rc":[{"ltp":1.45,"id":4490590}]}]}
+{"op":"mcm","clk":"7643998666","pt":1538853568379,"mc":[{"id":"1.149165506","rc":[{"ltp":3.3,"id":4822931},{"ltp":1.44,"id":4490590}]}]}
+{"op":"mcm","clk":"7644007982","pt":1538853629094,"mc":[{"id":"1.149165506","rc":[{"ltp":3.15,"id":4822931},{"ltp":1.46,"id":4490590}]}]}
+{"op":"mcm","clk":"7644019160","pt":1538853696534,"mc":[{"id":"1.149165506","rc":[{"ltp":1.44,"id":4490590}]}]}
+{"op":"mcm","clk":"7644029947","pt":1538853755918,"mc":[{"id":"1.149165506","rc":[{"ltp":3.7,"id":4822931},{"ltp":1.38,"id":4490590}]}]}
+{"op":"mcm","clk":"7644039565","pt":1538853814778,"mc":[{"id":"1.149165506","rc":[{"ltp":3.8,"id":4822931},{"ltp":1.36,"id":4490590}]}]}
+{"op":"mcm","clk":"7644048016","pt":1538853875235,"mc":[{"id":"1.149165506","rc":[{"ltp":3.95,"id":4822931},{"ltp":1.34,"id":4490590}]}]}
+{"op":"mcm","clk":"7644053777","pt":1538853911100,"mc":[{"id":"1.149165506","rc":[{"ltp":3.7,"id":4822931},{"ltp":1.38,"id":4490590}]}]}
+{"op":"mcm","clk":"7644066567","pt":1538853991386,"mc":[{"id":"1.149165506","rc":[{"ltp":3.4,"id":4822931},{"ltp":1.42,"id":4490590}]}]}
+{"op":"mcm","clk":"7644097490","pt":1538854116412,"mc":[{"id":"1.149165506","rc":[{"ltp":3.5,"id":4822931},{"ltp":1.3,"id":4490590}]}]}
+{"op":"mcm","clk":"7644106192","pt":1538854176493,"mc":[{"id":"1.149165506","rc":[{"ltp":4.5,"id":4822931},{"ltp":1.29,"id":4490590}]}]}
+{"op":"mcm","clk":"7644115757","pt":1538854235702,"mc":[{"id":"1.149165506","rc":[{"ltp":6.2,"id":4822931},{"ltp":1.19,"id":4490590}]}]}
+{"op":"mcm","clk":"7644123363","pt":1538854292044,"mc":[{"id":"1.149165506","rc":[{"ltp":6.0,"id":4822931},{"ltp":1.2,"id":4490590}]}]}
+{"op":"mcm","clk":"7644132342","pt":1538854355797,"mc":[{"id":"1.149165506","rc":[{"ltp":6.4,"id":4822931},{"ltp":1.19,"id":4490590}]}]}
+{"op":"mcm","clk":"7644141085","pt":1538854414084,"mc":[{"id":"1.149165506","rc":[{"ltp":1.17,"id":4490590}]}]}
+{"op":"mcm","clk":"7644158145","pt":1538854535944,"mc":[{"id":"1.149165506","rc":[{"ltp":8.8,"id":4822931},{"ltp":1.11,"id":4490590}]}]}
+{"op":"mcm","clk":"7644166571","pt":1538854594430,"mc":[{"id":"1.149165506","rc":[{"ltp":1.1,"id":4490590}]}]}
+{"op":"mcm","clk":"7644174794","pt":1538854655815,"mc":[{"id":"1.149165506","rc":[{"ltp":10.0,"id":4822931},{"ltp":1.12,"id":4490590}]}]}
+{"op":"mcm","clk":"7644183722","pt":1538854715482,"mc":[{"id":"1.149165506","rc":[{"ltp":1.16,"id":4490590}]}]}
+{"op":"mcm","clk":"7644191568","pt":1538854773055,"mc":[{"id":"1.149165506","rc":[{"ltp":1.12,"id":4490590}]}]}
+{"op":"mcm","clk":"7644201298","pt":1538854835299,"mc":[{"id":"1.149165506","rc":[{"ltp":1.09,"id":4490590}]}]}
+{"op":"mcm","clk":"7644210423","pt":1538854896495,"mc":[{"id":"1.149165506","rc":[{"ltp":15.0,"id":4822931},{"ltp":1.1,"id":4490590}]}]}
+{"op":"mcm","clk":"7644232579","pt":1538854955767,"mc":[{"id":"1.149165506","rc":[{"ltp":11.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7644242166","pt":1538855016013,"mc":[{"id":"1.149165506","rc":[{"ltp":13.5,"id":4822931},{"ltp":1.08,"id":4490590}]}]}
+{"op":"mcm","clk":"7644250960","pt":1538855075965,"mc":[{"id":"1.149165506","rc":[{"ltp":11.0,"id":4822931},{"ltp":1.11,"id":4490590}]}]}
+{"op":"mcm","clk":"7644266886","pt":1538855194648,"mc":[{"id":"1.149165506","rc":[{"ltp":9.2,"id":4822931}]}]}
+{"op":"mcm","clk":"7644275280","pt":1538855256215,"mc":[{"id":"1.149165506","rc":[{"ltp":10.0,"id":4822931},{"ltp":1.09,"id":4490590}]}]}
+{"op":"mcm","clk":"7644282124","pt":1538855307304,"mc":[{"id":"1.149165506","rc":[{"ltp":1.1,"id":4490590}]}]}
+{"op":"mcm","clk":"7644290509","pt":1538855374764,"mc":[{"id":"1.149165506","rc":[{"ltp":1.07,"id":4490590}]}]}
+{"op":"mcm","clk":"7644298322","pt":1538855435716,"mc":[{"id":"1.149165506","rc":[{"ltp":15.0,"id":4822931},{"ltp":1.05,"id":4490590}]}]}
+{"op":"mcm","clk":"7644311686","pt":1538855555746,"mc":[{"id":"1.149165506","rc":[{"ltp":1.07,"id":4490590}]}]}
+{"op":"mcm","clk":"7644317763","pt":1538855615781,"mc":[{"id":"1.149165506","rc":[{"ltp":21.0,"id":4822931},{"ltp":1.02,"id":4490590}]}]}
+{"op":"mcm","clk":"7644324032","pt":1538855664243,"mc":[{"id":"1.149165506","rc":[{"ltp":1.01,"id":4490590}]}]}
+{"op":"mcm","clk":"7644332288","pt":1538855735998,"mc":[{"id":"1.149165506","rc":[{"ltp":65.0,"id":4822931}]}]}
+{"op":"mcm","clk":"7644339091","pt":1538855796070,"mc":[{"id":"1.149165506","rc":[{"ltp":1.03,"id":4490590}]}]}
+{"op":"mcm","clk":"7644358678","pt":1538855848032,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:58:00.000Z","suspendTime":"2018-10-06T17:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"ACTIVE","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:58:00.000Z","version":2442228808,"name":"Match Odds","eventName":"Souza v Olivo"},"rc":[{"ltp":1.01,"id":4490590}]}]}
+{"op":"mcm","clk":"7644362934","pt":1538855885235,"mc":[{"id":"1.149165506","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941278","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:58:00.000Z","suspendTime":"2018-10-06T17:58:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T19:57:58.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":4490590,"name":"Joao Souza"},{"status":"LOSER","sortPriority":2,"id":4822931,"name":"Renzo Olivo"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:58:00.000Z","version":2442232689,"name":"Match Odds","eventName":"Souza v Olivo"}}]}

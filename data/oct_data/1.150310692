@@ -1,0 +1,61 @@
+{"op":"mcm","clk":"7830437680","pt":1540636162216,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8659524,"name":"Daniel Masur"},{"status":"ACTIVE","sortPriority":2,"id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2477955505,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}
+{"op":"mcm","clk":"7830843504","pt":1540638122279,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8659524,"name":"Daniel Masur"},{"status":"ACTIVE","sortPriority":2,"id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2477955505,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}
+{"op":"mcm","clk":"7840497630","pt":1540686546166,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T09:00:00.000Z","suspendTime":"2018-10-29T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8659524,"name":"Daniel Masur"},{"status":"ACTIVE","sortPriority":2,"id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T09:00:00.000Z","version":2480946958,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}
+{"op":"mcm","clk":"7852667639","pt":1540772930373,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T09:00:00.000Z","suspendTime":"2018-10-30T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8659524,"name":"Daniel Masur"},{"status":"ACTIVE","sortPriority":2,"id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T09:00:00.000Z","version":2484197134,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}
+{"op":"mcm","clk":"7854919828","pt":1540812535468,"mc":[{"id":"1.150310692","rc":[{"ltp":1.48,"id":8659524}]}]}
+{"op":"mcm","clk":"7855305021","pt":1540815692645,"mc":[{"id":"1.150310692","rc":[{"ltp":2.74,"id":7593283},{"ltp":1.57,"id":8659524}]}]}
+{"op":"mcm","clk":"7855308279","pt":1540815721939,"mc":[{"id":"1.150310692","rc":[{"ltp":2.42,"id":7593283}]}]}
+{"op":"mcm","clk":"7855462121","pt":1540816932401,"mc":[{"id":"1.150310692","rc":[{"ltp":2.62,"id":7593283},{"ltp":1.62,"id":8659524}]}]}
+{"op":"mcm","clk":"7856623847","pt":1540826635560,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:00:00.000Z","suspendTime":"2018-10-30T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8659524,"name":"Daniel Masur"},{"status":"ACTIVE","sortPriority":2,"id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:00:00.000Z","version":2484728400,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}
+{"op":"mcm","clk":"7859032144","pt":1540847859558,"mc":[{"id":"1.150310692","rc":[{"ltp":2.32,"id":7593283}]}]}
+{"op":"mcm","clk":"7859286334","pt":1540852002204,"mc":[{"id":"1.150310692","rc":[{"ltp":2.46,"id":7593283},{"ltp":1.69,"id":8659524}]}]}
+{"op":"mcm","clk":"7859782031","pt":1540860027161,"mc":[{"id":"1.150310692","rc":[{"ltp":2.36,"id":7593283}]}]}
+{"op":"mcm","clk":"7859944747","pt":1540862741722,"mc":[{"id":"1.150310692","rc":[{"ltp":1.64,"id":8659524}]}]}
+{"op":"mcm","clk":"7861038103","pt":1540881443322,"mc":[{"id":"1.150310692","rc":[{"ltp":1.55,"id":8659524}]}]}
+{"op":"mcm","clk":"7861203497","pt":1540884340464,"mc":[{"id":"1.150310692","rc":[{"ltp":2.6,"id":7593283}]}]}
+{"op":"mcm","clk":"7861205732","pt":1540884386939,"mc":[{"id":"1.150310692","rc":[{"ltp":2.5,"id":7593283}]}]}
+{"op":"mcm","clk":"7861321729","pt":1540886402715,"mc":[{"id":"1.150310692","rc":[{"ltp":1.64,"id":8659524}]}]}
+{"op":"mcm","clk":"7861372433","pt":1540887102319,"mc":[{"id":"1.150310692","rc":[{"ltp":1.63,"id":8659524}]}]}
+{"op":"mcm","clk":"7861375298","pt":1540887162235,"mc":[{"id":"1.150310692","rc":[{"ltp":2.46,"id":7593283}]}]}
+{"op":"mcm","clk":"7861378539","pt":1540887216623,"mc":[{"id":"1.150310692","rc":[{"ltp":2.66,"id":7593283},{"ltp":1.62,"id":8659524}]}]}
+{"op":"mcm","clk":"7861382613","pt":1540887276858,"mc":[{"id":"1.150310692","rc":[{"ltp":1.61,"id":8659524}]}]}
+{"op":"mcm","clk":"7861405140","pt":1540887458052,"mc":[{"id":"1.150310692","rc":[{"ltp":1.58,"id":8659524}]}]}
+{"op":"mcm","clk":"7861408556","pt":1540887518342,"mc":[{"id":"1.150310692","rc":[{"ltp":1.56,"id":8659524}]}]}
+{"op":"mcm","clk":"7861412500","pt":1540887581344,"mc":[{"id":"1.150310692","rc":[{"ltp":1.55,"id":8659524}]}]}
+{"op":"mcm","clk":"7861423232","pt":1540887759801,"mc":[{"id":"1.150310692","rc":[{"ltp":1.52,"id":8659524}]}]}
+{"op":"mcm","clk":"7861426915","pt":1540887819646,"mc":[{"id":"1.150310692","rc":[{"ltp":1.58,"id":8659524}]}]}
+{"op":"mcm","clk":"7861431180","pt":1540887880399,"mc":[{"id":"1.150310692","rc":[{"ltp":1.55,"id":8659524}]}]}
+{"op":"mcm","clk":"7861434867","pt":1540887942804,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861438573","pt":1540888002018,"mc":[{"id":"1.150310692","rc":[{"ltp":3.0,"id":7593283},{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861442519","pt":1540888061423,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861454658","pt":1540888242636,"mc":[{"id":"1.150310692","rc":[{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861483588","pt":1540888482754,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861489996","pt":1540888599971,"mc":[{"id":"1.150310692","rc":[{"ltp":2.94,"id":7593283}]}]}
+{"op":"mcm","clk":"7861492454","pt":1540888642592,"mc":[{"id":"1.150310692","rc":[{"ltp":3.05,"id":7593283}]}]}
+{"op":"mcm","clk":"7861499680","pt":1540888775163,"mc":[{"id":"1.150310692","rc":[{"ltp":1.51,"id":8659524}]}]}
+{"op":"mcm","clk":"7861502116","pt":1540888818101,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861548418","pt":1540889313807,"mc":[{"id":"1.150310692","rc":[{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861576389","pt":1540889741833,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861582859","pt":1540889861474,"mc":[{"id":"1.150310692","rc":[{"ltp":1.47,"id":8659524}]}]}
+{"op":"mcm","clk":"7861585895","pt":1540889917775,"mc":[{"id":"1.150310692","rc":[{"ltp":3.0,"id":7593283},{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861596793","pt":1540890102731,"mc":[{"id":"1.150310692","rc":[{"ltp":2.96,"id":7593283},{"ltp":1.51,"id":8659524}]}]}
+{"op":"mcm","clk":"7861613021","pt":1540890162664,"mc":[{"id":"1.150310692","rc":[{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861617090","pt":1540890220956,"mc":[{"id":"1.150310692","rc":[{"ltp":2.98,"id":7593283}]}]}
+{"op":"mcm","clk":"7861621121","pt":1540890282679,"mc":[{"id":"1.150310692","rc":[{"ltp":2.96,"id":7593283},{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861631692","pt":1540890459057,"mc":[{"id":"1.150310692","rc":[{"ltp":1.51,"id":8659524}]}]}
+{"op":"mcm","clk":"7861656890","pt":1540890877585,"mc":[{"id":"1.150310692","rc":[{"ltp":3.0,"id":7593283},{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861659954","pt":1540890924087,"mc":[{"id":"1.150310692","rc":[{"ltp":1.51,"id":8659524}]}]}
+{"op":"mcm","clk":"7861663173","pt":1540890975965,"mc":[{"id":"1.150310692","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861696622","pt":1540891301408,"mc":[{"id":"1.150310692","rc":[{"ltp":2.98,"id":7593283},{"ltp":1.51,"id":8659524}]}]}
+{"op":"mcm","clk":"7861704399","pt":1540891412259,"mc":[{"id":"1.150310692","rc":[{"ltp":2.94,"id":7593283}]}]}
+{"op":"mcm","clk":"7861713281","pt":1540891532271,"mc":[{"id":"1.150310692","rc":[{"ltp":1.53,"id":8659524}]}]}
+{"op":"mcm","clk":"7861717564","pt":1540891592971,"mc":[{"id":"1.150310692","rc":[{"ltp":1.54,"id":8659524}]}]}
+{"op":"mcm","clk":"7861723466","pt":1540891661153,"mc":[{"id":"1.150310692","rc":[{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861766031","pt":1540892015909,"mc":[{"id":"1.150310692","rc":[{"ltp":2.96,"id":7593283}]}]}
+{"op":"mcm","clk":"7861786769","pt":1540892370007,"mc":[{"id":"1.150310692","rc":[{"ltp":3.05,"id":7593283},{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7861801887","pt":1540892620914,"mc":[{"id":"1.150310692","rc":[{"ltp":1.47,"id":8659524}]}]}
+{"op":"mcm","clk":"7861806048","pt":1540892679382,"mc":[{"id":"1.150310692","rc":[{"ltp":3.1,"id":7593283}]}]}
+{"op":"mcm","clk":"7861810394","pt":1540892739624,"mc":[{"id":"1.150310692","rc":[{"ltp":1.48,"id":8659524}]}]}
+{"op":"mcm","clk":"7861814780","pt":1540892801417,"mc":[{"id":"1.150310692","rc":[{"ltp":3.05,"id":7593283}]}]}
+{"op":"mcm","clk":"7861831169","pt":1540892861761,"mc":[{"id":"1.150310692","rc":[{"ltp":2.98,"id":7593283},{"ltp":1.5,"id":8659524}]}]}
+{"op":"mcm","clk":"7861845105","pt":1540893024286,"mc":[{"id":"1.150310692","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979253","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T10:00:00.000Z","suspendTime":"2018-10-30T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":0,"status":"CLOSED","settledTime":"2018-10-30T09:50:21.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-30T09:50:21.000Z","id":8659524,"name":"Daniel Masur"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-30T09:50:21.000Z","id":7593283,"name":"Andrea Arnaboldi"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T10:00:00.000Z","version":2485550808,"name":"Match Odds","eventName":"Masur v Arnaboldi"}}]}

@@ -1,0 +1,98 @@
+{"op":"mcm","clk":"7671374107","pt":1538920228525,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T05:00:00.000Z","suspendTime":"2018-10-08T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T05:00:00.000Z","version":2444091663,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7671514423","pt":1538920932227,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T05:00:00.000Z","suspendTime":"2018-10-08T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T05:00:00.000Z","version":2444091663,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7675254011","pt":1538945418056,"mc":[{"id":"1.149237537","rc":[{"ltp":1.65,"id":11114091}]}]}
+{"op":"mcm","clk":"7676585818","pt":1538967736949,"mc":[{"id":"1.149237537","rc":[{"ltp":1.63,"id":11114091}]}]}
+{"op":"mcm","clk":"7676600754","pt":1538968463017,"mc":[{"id":"1.149237537","rc":[{"ltp":2.58,"id":8304957},{"ltp":1.62,"id":11114091}]}]}
+{"op":"mcm","clk":"7676601475","pt":1538968496464,"mc":[{"id":"1.149237537","rc":[{"ltp":1.61,"id":11114091}]}]}
+{"op":"mcm","clk":"7676830899","pt":1538974522047,"mc":[{"id":"1.149237537","rc":[{"ltp":2.52,"id":8304957},{"ltp":1.65,"id":11114091}]}]}
+{"op":"mcm","clk":"7676837802","pt":1538974761205,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T07:30:00.000Z","suspendTime":"2018-10-08T07:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T07:30:00.000Z","version":2445960461,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7676840167","pt":1538974828877,"mc":[{"id":"1.149237537","rc":[{"ltp":1.61,"id":11114091}]}]}
+{"op":"mcm","clk":"7676917156","pt":1538976560388,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T07:25:00.000Z","suspendTime":"2018-10-08T07:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T07:25:00.000Z","version":2445969730,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7677065219","pt":1538980460540,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T06:50:00.000Z","suspendTime":"2018-10-08T06:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T06:50:00.000Z","version":2445995782,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7677072258","pt":1538980762963,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T06:37:00.000Z","suspendTime":"2018-10-08T06:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T06:37:00.000Z","version":2445998298,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7677109721","pt":1538982028460,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T06:37:00.000Z","suspendTime":"2018-10-08T06:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T06:37:00.000Z","version":2446016384,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}
+{"op":"mcm","clk":"7677110581","pt":1538982060503,"mc":[{"id":"1.149237537","rc":[{"ltp":2.22,"id":8304957},{"ltp":1.82,"id":11114091}]}]}
+{"op":"mcm","clk":"7677119197","pt":1538982136922,"mc":[{"id":"1.149237537","rc":[{"ltp":2.2,"id":8304957},{"ltp":1.83,"id":11114091}]}]}
+{"op":"mcm","clk":"7677121036","pt":1538982195070,"mc":[{"id":"1.149237537","rc":[{"ltp":1.95,"id":8304957}]}]}
+{"op":"mcm","clk":"7677127072","pt":1538982387786,"mc":[{"id":"1.149237537","rc":[{"ltp":1.64,"id":11114091}]}]}
+{"op":"mcm","clk":"7677129305","pt":1538982449165,"mc":[{"id":"1.149237537","rc":[{"ltp":2.46,"id":8304957},{"ltp":1.65,"id":11114091}]}]}
+{"op":"mcm","clk":"7677132113","pt":1538982543974,"mc":[{"id":"1.149237537","rc":[{"ltp":2.34,"id":8304957},{"ltp":1.75,"id":11114091}]}]}
+{"op":"mcm","clk":"7677153790","pt":1538983044271,"mc":[{"id":"1.149237537","rc":[{"ltp":1.7,"id":8304957}]}]}
+{"op":"mcm","clk":"7677156108","pt":1538983108234,"mc":[{"id":"1.149237537","rc":[{"ltp":1.64,"id":8304957}]}]}
+{"op":"mcm","clk":"7677158193","pt":1538983169330,"mc":[{"id":"1.149237537","rc":[{"ltp":1.66,"id":8304957},{"ltp":2.5,"id":11114091}]}]}
+{"op":"mcm","clk":"7677159905","pt":1538983226861,"mc":[{"id":"1.149237537","rc":[{"ltp":1.6,"id":8304957}]}]}
+{"op":"mcm","clk":"7677172393","pt":1538983578101,"mc":[{"id":"1.149237537","rc":[{"ltp":2.36,"id":8304957},{"ltp":1.74,"id":11114091}]}]}
+{"op":"mcm","clk":"7677174707","pt":1538983640362,"mc":[{"id":"1.149237537","rc":[{"ltp":1.7,"id":11114091}]}]}
+{"op":"mcm","clk":"7677195427","pt":1538984062163,"mc":[{"id":"1.149237537","rc":[{"ltp":1.72,"id":11114091}]}]}
+{"op":"mcm","clk":"7677241062","pt":1538985088917,"mc":[{"id":"1.149237537","rc":[{"ltp":1.86,"id":8304957},{"ltp":2.16,"id":11114091}]}]}
+{"op":"mcm","clk":"7677245877","pt":1538985209004,"mc":[{"id":"1.149237537","rc":[{"ltp":1.74,"id":11114091}]}]}
+{"op":"mcm","clk":"7677248362","pt":1538985268670,"mc":[{"id":"1.149237537","rc":[{"ltp":1.33,"id":11114091}]}]}
+{"op":"mcm","clk":"7677276098","pt":1538985806553,"mc":[{"id":"1.149237537","rc":[{"ltp":1.89,"id":8304957},{"ltp":2.12,"id":11114091}]}]}
+{"op":"mcm","clk":"7677279252","pt":1538985866278,"mc":[{"id":"1.149237537","rc":[{"ltp":1.71,"id":8304957},{"ltp":2.42,"id":11114091}]}]}
+{"op":"mcm","clk":"7677286517","pt":1538986034238,"mc":[{"id":"1.149237537","rc":[{"ltp":1.3,"id":8304957},{"ltp":3.3,"id":11114091}]}]}
+{"op":"mcm","clk":"7677298924","pt":1538986349068,"mc":[{"id":"1.149237537","rc":[{"ltp":2.88,"id":11114091}]}]}
+{"op":"mcm","clk":"7677300544","pt":1538986408338,"mc":[{"id":"1.149237537","rc":[{"ltp":1.4,"id":8304957}]}]}
+{"op":"mcm","clk":"7677305649","pt":1538986582813,"mc":[{"id":"1.149237537","rc":[{"ltp":3.05,"id":11114091}]}]}
+{"op":"mcm","clk":"7677317738","pt":1538986764776,"mc":[{"id":"1.149237537","rc":[{"ltp":1.61,"id":8304957},{"ltp":2.66,"id":11114091}]}]}
+{"op":"mcm","clk":"7677321997","pt":1538986884018,"mc":[{"id":"1.149237537","rc":[{"ltp":1.86,"id":8304957},{"ltp":2.16,"id":11114091}]}]}
+{"op":"mcm","clk":"7677324510","pt":1538986946970,"mc":[{"id":"1.149237537","rc":[{"ltp":1.92,"id":8304957},{"ltp":2.08,"id":11114091}]}]}
+{"op":"mcm","clk":"7677326606","pt":1538987007590,"mc":[{"id":"1.149237537","rc":[{"ltp":2.06,"id":11114091}]}]}
+{"op":"mcm","clk":"7677328455","pt":1538987060503,"mc":[{"id":"1.149237537","rc":[{"ltp":2.02,"id":8304957},{"ltp":1.89,"id":11114091}]}]}
+{"op":"mcm","clk":"7677336195","pt":1538987231023,"mc":[{"id":"1.149237537","rc":[{"ltp":2.24,"id":8304957},{"ltp":1.73,"id":11114091}]}]}
+{"op":"mcm","clk":"7677339041","pt":1538987290602,"mc":[{"id":"1.149237537","rc":[{"ltp":2.02,"id":8304957},{"ltp":1.98,"id":11114091}]}]}
+{"op":"mcm","clk":"7677346850","pt":1538987426901,"mc":[{"id":"1.149237537","rc":[{"ltp":1.78,"id":11114091}]}]}
+{"op":"mcm","clk":"7677348920","pt":1538987466899,"mc":[{"id":"1.149237537","rc":[{"ltp":1.62,"id":11114091}]}]}
+{"op":"mcm","clk":"7677359261","pt":1538987547181,"mc":[{"id":"1.149237537","rc":[{"ltp":1.58,"id":11114091}]}]}
+{"op":"mcm","clk":"7677361216","pt":1538987592599,"mc":[{"id":"1.149237537","rc":[{"ltp":2.72,"id":8304957}]}]}
+{"op":"mcm","clk":"7677364467","pt":1538987657388,"mc":[{"id":"1.149237537","rc":[{"ltp":1.56,"id":11114091}]}]}
+{"op":"mcm","clk":"7677380565","pt":1538988027819,"mc":[{"id":"1.149237537","rc":[{"ltp":1.52,"id":11114091}]}]}
+{"op":"mcm","clk":"7677387311","pt":1538988204577,"mc":[{"id":"1.149237537","rc":[{"ltp":2.28,"id":8304957},{"ltp":1.78,"id":11114091}]}]}
+{"op":"mcm","clk":"7677390173","pt":1538988265837,"mc":[{"id":"1.149237537","rc":[{"ltp":2.58,"id":8304957},{"ltp":1.64,"id":11114091}]}]}
+{"op":"mcm","clk":"7677405622","pt":1538988449263,"mc":[{"id":"1.149237537","rc":[{"ltp":1.76,"id":11114091}]}]}
+{"op":"mcm","clk":"7677413354","pt":1538988627519,"mc":[{"id":"1.149237537","rc":[{"ltp":2.12,"id":8304957},{"ltp":1.96,"id":11114091}]}]}
+{"op":"mcm","clk":"7677416794","pt":1538988679377,"mc":[{"id":"1.149237537","rc":[{"ltp":2.04,"id":8304957}]}]}
+{"op":"mcm","clk":"7677422848","pt":1538988806021,"mc":[{"id":"1.149237537","rc":[{"ltp":1.83,"id":11114091}]}]}
+{"op":"mcm","clk":"7677428224","pt":1538988926530,"mc":[{"id":"1.149237537","rc":[{"ltp":2.4,"id":8304957},{"ltp":1.72,"id":11114091}]}]}
+{"op":"mcm","clk":"7677432386","pt":1538989045394,"mc":[{"id":"1.149237537","rc":[{"ltp":1.75,"id":11114091}]}]}
+{"op":"mcm","clk":"7677436768","pt":1538989159358,"mc":[{"id":"1.149237537","rc":[{"ltp":1.98,"id":8304957},{"ltp":2.02,"id":11114091}]}]}
+{"op":"mcm","clk":"7677439707","pt":1538989221343,"mc":[{"id":"1.149237537","rc":[{"ltp":1.8,"id":8304957},{"ltp":2.26,"id":11114091}]}]}
+{"op":"mcm","clk":"7677442483","pt":1538989286601,"mc":[{"id":"1.149237537","rc":[{"ltp":1.89,"id":8304957}]}]}
+{"op":"mcm","clk":"7677451585","pt":1538989349249,"mc":[{"id":"1.149237537","rc":[{"ltp":1.57,"id":8304957}]}]}
+{"op":"mcm","clk":"7677454239","pt":1538989407232,"mc":[{"id":"1.149237537","rc":[{"ltp":1.81,"id":8304957},{"ltp":2.2,"id":11114091}]}]}
+{"op":"mcm","clk":"7677457028","pt":1538989468776,"mc":[{"id":"1.149237537","rc":[{"ltp":1.56,"id":8304957}]}]}
+{"op":"mcm","clk":"7677459903","pt":1538989527042,"mc":[{"id":"1.149237537","rc":[{"ltp":2.24,"id":8304957},{"ltp":1.8,"id":11114091}]}]}
+{"op":"mcm","clk":"7677466001","pt":1538989649079,"mc":[{"id":"1.149237537","rc":[{"ltp":2.02,"id":8304957},{"ltp":1.72,"id":11114091}]}]}
+{"op":"mcm","clk":"7677468975","pt":1538989709064,"mc":[{"id":"1.149237537","rc":[{"ltp":3.2,"id":8304957},{"ltp":1.45,"id":11114091}]}]}
+{"op":"mcm","clk":"7677471920","pt":1538989769131,"mc":[{"id":"1.149237537","rc":[{"ltp":6.4,"id":8304957},{"ltp":1.18,"id":11114091}]}]}
+{"op":"mcm","clk":"7677474470","pt":1538989824572,"mc":[{"id":"1.149237537","rc":[{"ltp":6.8,"id":8304957}]}]}
+{"op":"mcm","clk":"7677477283","pt":1538989886552,"mc":[{"id":"1.149237537","rc":[{"ltp":1.14,"id":11114091}]}]}
+{"op":"mcm","clk":"7677480237","pt":1538989949042,"mc":[{"id":"1.149237537","rc":[{"ltp":9.4,"id":8304957},{"ltp":1.12,"id":11114091}]}]}
+{"op":"mcm","clk":"7677483353","pt":1538990007364,"mc":[{"id":"1.149237537","rc":[{"ltp":1.13,"id":11114091}]}]}
+{"op":"mcm","clk":"7677486933","pt":1538990067222,"mc":[{"id":"1.149237537","rc":[{"ltp":5.5,"id":8304957},{"ltp":1.38,"id":11114091}]}]}
+{"op":"mcm","clk":"7677489481","pt":1538990120634,"mc":[{"id":"1.149237537","rc":[{"ltp":1.42,"id":11114091}]}]}
+{"op":"mcm","clk":"7677492199","pt":1538990186309,"mc":[{"id":"1.149237537","rc":[{"ltp":3.4,"id":8304957},{"ltp":1.23,"id":11114091}]}]}
+{"op":"mcm","clk":"7677501229","pt":1538990246142,"mc":[{"id":"1.149237537","rc":[{"ltp":8.0,"id":8304957},{"ltp":1.22,"id":11114091}]}]}
+{"op":"mcm","clk":"7677503625","pt":1538990309177,"mc":[{"id":"1.149237537","rc":[{"ltp":1.4,"id":11114091}]}]}
+{"op":"mcm","clk":"7677506902","pt":1538990363697,"mc":[{"id":"1.149237537","rc":[{"ltp":1.24,"id":11114091}]}]}
+{"op":"mcm","clk":"7677509816","pt":1538990417607,"mc":[{"id":"1.149237537","rc":[{"ltp":7.6,"id":8304957},{"ltp":1.14,"id":11114091}]}]}
+{"op":"mcm","clk":"7677513948","pt":1538990486831,"mc":[{"id":"1.149237537","rc":[{"ltp":1.24,"id":11114091}]}]}
+{"op":"mcm","clk":"7677516933","pt":1538990544971,"mc":[{"id":"1.149237537","rc":[{"ltp":3.25,"id":8304957},{"ltp":1.43,"id":11114091}]}]}
+{"op":"mcm","clk":"7677520260","pt":1538990608025,"mc":[{"id":"1.149237537","rc":[{"ltp":1.16,"id":11114091}]}]}
+{"op":"mcm","clk":"7677522999","pt":1538990660800,"mc":[{"id":"1.149237537","rc":[{"ltp":5.1,"id":8304957},{"ltp":1.24,"id":11114091}]}]}
+{"op":"mcm","clk":"7677526737","pt":1538990729339,"mc":[{"id":"1.149237537","rc":[{"ltp":7.2,"id":8304957},{"ltp":1.16,"id":11114091}]}]}
+{"op":"mcm","clk":"7677530012","pt":1538990787809,"mc":[{"id":"1.149237537","rc":[{"ltp":1.07,"id":11114091}]}]}
+{"op":"mcm","clk":"7677533154","pt":1538990842868,"mc":[{"id":"1.149237537","rc":[{"ltp":12.0,"id":8304957},{"ltp":1.12,"id":11114091}]}]}
+{"op":"mcm","clk":"7677536439","pt":1538990909318,"mc":[{"id":"1.149237537","rc":[{"ltp":1.11,"id":11114091}]}]}
+{"op":"mcm","clk":"7677539405","pt":1538990965117,"mc":[{"id":"1.149237537","rc":[{"ltp":1.03,"id":11114091}]}]}
+{"op":"mcm","clk":"7677542358","pt":1538991027960,"mc":[{"id":"1.149237537","rc":[{"ltp":15.0,"id":8304957},{"ltp":1.12,"id":11114091}]}]}
+{"op":"mcm","clk":"7677544960","pt":1538991089099,"mc":[{"id":"1.149237537","rc":[{"ltp":10.0,"id":8304957},{"ltp":1.11,"id":11114091}]}]}
+{"op":"mcm","clk":"7677554078","pt":1538991147198,"mc":[{"id":"1.149237537","rc":[{"ltp":1.12,"id":11114091}]}]}
+{"op":"mcm","clk":"7677556721","pt":1538991201958,"mc":[{"id":"1.149237537","rc":[{"ltp":1.08,"id":11114091}]}]}
+{"op":"mcm","clk":"7677560083","pt":1538991261938,"mc":[{"id":"1.149237537","rc":[{"ltp":1.11,"id":11114091}]}]}
+{"op":"mcm","clk":"7677566876","pt":1538991387897,"mc":[{"id":"1.149237537","rc":[{"ltp":6.0,"id":8304957},{"ltp":1.21,"id":11114091}]}]}
+{"op":"mcm","clk":"7677569535","pt":1538991444657,"mc":[{"id":"1.149237537","rc":[{"ltp":1.39,"id":11114091}]}]}
+{"op":"mcm","clk":"7677572216","pt":1538991508533,"mc":[{"id":"1.149237537","rc":[{"ltp":5.6,"id":8304957},{"ltp":1.16,"id":11114091}]}]}
+{"op":"mcm","clk":"7677575122","pt":1538991569074,"mc":[{"id":"1.149237537","rc":[{"ltp":10.5,"id":8304957},{"ltp":1.05,"id":11114091}]}]}
+{"op":"mcm","clk":"7677577820","pt":1538991628790,"mc":[{"id":"1.149237537","rc":[{"ltp":7.2,"id":8304957},{"ltp":1.06,"id":11114091}]}]}
+{"op":"mcm","clk":"7677580213","pt":1538991686054,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T06:37:00.000Z","suspendTime":"2018-10-08T06:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"ACTIVE","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T06:37:00.000Z","version":2446077729,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"},"rc":[{"ltp":6.8,"id":8304957},{"ltp":1.17,"id":11114091}]}]}
+{"op":"mcm","clk":"7677581087","pt":1538991707120,"mc":[{"id":"1.149237537","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944774","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T06:37:00.000Z","suspendTime":"2018-10-08T06:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-08T09:41:42.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":11114091,"name":"Frederico Ferreira Silv"},{"status":"LOSER","sortPriority":2,"id":8304957,"name":"Denis Yevseyev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T06:37:00.000Z","version":2446077874,"name":"Match Odds","eventName":"Ferreira Silva v Yevseyev"}}]}

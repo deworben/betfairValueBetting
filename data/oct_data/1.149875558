@@ -1,0 +1,105 @@
+{"op":"mcm","clk":"7692496142","pt":1539975536095,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:00:00.000Z","suspendTime":"2018-10-20T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:00:00.000Z","version":2462352101,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7692545874","pt":1539975829546,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T14:00:00.000Z","suspendTime":"2018-10-20T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T14:00:00.000Z","version":2462385456,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7692663754","pt":1539976294835,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T14:00:00.000Z","suspendTime":"2018-10-20T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T14:00:00.000Z","version":2462385456,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7696653495","pt":1540016451726,"mc":[{"id":"1.149875558","rc":[{"ltp":1.9,"id":10691901}]}]}
+{"op":"mcm","clk":"7696764417","pt":1540017289498,"mc":[{"id":"1.149875558","rc":[{"ltp":1.82,"id":10691901}]}]}
+{"op":"mcm","clk":"7696799959","pt":1540017476878,"mc":[{"id":"1.149875558","rc":[{"ltp":1.76,"id":10691901}]}]}
+{"op":"mcm","clk":"7696940832","pt":1540018889630,"mc":[{"id":"1.149875558","rc":[{"ltp":1.72,"id":10691901}]}]}
+{"op":"mcm","clk":"7697569263","pt":1540023878366,"mc":[{"id":"1.149875558","rc":[{"ltp":1.79,"id":10691901}]}]}
+{"op":"mcm","clk":"7697698219","pt":1540024693894,"mc":[{"id":"1.149875558","rc":[{"ltp":2.1,"id":3035263}]}]}
+{"op":"mcm","clk":"7698506931","pt":1540029226446,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:51:00.000Z","suspendTime":"2018-10-20T13:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:51:00.000Z","version":2463487637,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7699004113","pt":1540031775265,"mc":[{"id":"1.149875558","rc":[{"ltp":1.84,"id":10691901}]}]}
+{"op":"mcm","clk":"7699940663","pt":1540036124615,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:46:00.000Z","suspendTime":"2018-10-20T13:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:46:00.000Z","version":2463808480,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7700313688","pt":1540037735986,"mc":[{"id":"1.149875558","rc":[{"ltp":1.85,"id":10691901}]}]}
+{"op":"mcm","clk":"7700498767","pt":1540038463517,"mc":[{"id":"1.149875558","rc":[{"ltp":1.84,"id":10691901}]}]}
+{"op":"mcm","clk":"7700665846","pt":1540039095808,"mc":[{"id":"1.149875558","rc":[{"ltp":1.83,"id":10691901}]}]}
+{"op":"mcm","clk":"7700697903","pt":1540039230398,"mc":[{"id":"1.149875558","rc":[{"ltp":2.18,"id":3035263}]}]}
+{"op":"mcm","clk":"7700712170","pt":1540039291191,"mc":[{"id":"1.149875558","rc":[{"ltp":1.84,"id":10691901}]}]}
+{"op":"mcm","clk":"7700788838","pt":1540039603698,"mc":[{"id":"1.149875558","rc":[{"ltp":2.16,"id":3035263}]}]}
+{"op":"mcm","clk":"7700792219","pt":1540039621105,"mc":[{"id":"1.149875558","rc":[{"ltp":1.86,"id":10691901}]}]}
+{"op":"mcm","clk":"7700940375","pt":1540040328510,"mc":[{"id":"1.149875558","rc":[{"ltp":1.78,"id":10691901}]}]}
+{"op":"mcm","clk":"7700952434","pt":1540040386917,"mc":[{"id":"1.149875558","rc":[{"ltp":1.8,"id":10691901}]}]}
+{"op":"mcm","clk":"7701020072","pt":1540040691729,"mc":[{"id":"1.149875558","rc":[{"ltp":1.77,"id":10691901}]}]}
+{"op":"mcm","clk":"7701033322","pt":1540040751064,"mc":[{"id":"1.149875558","rc":[{"ltp":2.18,"id":3035263}]}]}
+{"op":"mcm","clk":"7701163872","pt":1540041221873,"mc":[{"id":"1.149875558","rc":[{"ltp":1.86,"id":10691901},{"ltp":2.14,"id":3035263}]}]}
+{"op":"mcm","clk":"7701175340","pt":1540041265982,"mc":[{"id":"1.149875558","rc":[{"ltp":2.2,"id":3035263}]}]}
+{"op":"mcm","clk":"7701209249","pt":1540041408189,"mc":[{"id":"1.149875558","rc":[{"ltp":1.83,"id":10691901},{"ltp":2.16,"id":3035263}]}]}
+{"op":"mcm","clk":"7701448418","pt":1540042425804,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:37:00.000Z","suspendTime":"2018-10-20T13:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:37:00.000Z","version":2464189900,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7701493115","pt":1540042604733,"mc":[{"id":"1.149875558","rc":[{"ltp":1.77,"id":10691901},{"ltp":2.2,"id":3035263}]}]}
+{"op":"mcm","clk":"7701527856","pt":1540042671983,"mc":[{"id":"1.149875558","rc":[{"ltp":1.75,"id":10691901}]}]}
+{"op":"mcm","clk":"7701541950","pt":1540042726170,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:34:00.000Z","suspendTime":"2018-10-20T13:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:34:00.000Z","version":2464204421,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7701582364","pt":1540042901067,"mc":[{"id":"1.149875558","rc":[{"ltp":1.84,"id":10691901}]}]}
+{"op":"mcm","clk":"7701633561","pt":1540043126620,"mc":[{"id":"1.149875558","rc":[{"ltp":1.78,"id":10691901}]}]}
+{"op":"mcm","clk":"7701659047","pt":1540043236197,"mc":[{"id":"1.149875558","rc":[{"ltp":2.18,"id":3035263}]}]}
+{"op":"mcm","clk":"7701679735","pt":1540043331869,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:34:00.000Z","suspendTime":"2018-10-20T13:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:34:00.000Z","version":2464227498,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}
+{"op":"mcm","clk":"7701691245","pt":1540043384955,"mc":[{"id":"1.149875558","rc":[{"ltp":1.76,"id":10691901},{"ltp":2.32,"id":3035263}]}]}
+{"op":"mcm","clk":"7701706107","pt":1540043451231,"mc":[{"id":"1.149875558","rc":[{"ltp":1.53,"id":10691901}]}]}
+{"op":"mcm","clk":"7701719042","pt":1540043512024,"mc":[{"id":"1.149875558","rc":[{"ltp":1.58,"id":10691901},{"ltp":2.72,"id":3035263}]}]}
+{"op":"mcm","clk":"7701744366","pt":1540043549029,"mc":[{"id":"1.149875558","rc":[{"ltp":1.71,"id":10691901},{"ltp":2.14,"id":3035263}]}]}
+{"op":"mcm","clk":"7701765265","pt":1540043631388,"mc":[{"id":"1.149875558","rc":[{"ltp":1.78,"id":10691901},{"ltp":2.28,"id":3035263}]}]}
+{"op":"mcm","clk":"7701779132","pt":1540043691504,"mc":[{"id":"1.149875558","rc":[{"ltp":1.6,"id":10691901}]}]}
+{"op":"mcm","clk":"7701793662","pt":1540043750912,"mc":[{"id":"1.149875558","rc":[{"ltp":1.44,"id":10691901},{"ltp":3.25,"id":3035263}]}]}
+{"op":"mcm","clk":"7701809618","pt":1540043811981,"mc":[{"id":"1.149875558","rc":[{"ltp":1.46,"id":10691901},{"ltp":2.84,"id":3035263}]}]}
+{"op":"mcm","clk":"7701817813","pt":1540043850966,"mc":[{"id":"1.149875558","rc":[{"ltp":1.38,"id":10691901},{"ltp":3.75,"id":3035263}]}]}
+{"op":"mcm","clk":"7701830464","pt":1540043913141,"mc":[{"id":"1.149875558","rc":[{"ltp":1.35,"id":10691901}]}]}
+{"op":"mcm","clk":"7701865131","pt":1540044051279,"mc":[{"id":"1.149875558","rc":[{"ltp":1.43,"id":10691901}]}]}
+{"op":"mcm","clk":"7701915571","pt":1540044232005,"mc":[{"id":"1.149875558","rc":[{"ltp":3.35,"id":3035263}]}]}
+{"op":"mcm","clk":"7701932095","pt":1540044292019,"mc":[{"id":"1.149875558","rc":[{"ltp":1.44,"id":10691901}]}]}
+{"op":"mcm","clk":"7701949274","pt":1540044351882,"mc":[{"id":"1.149875558","rc":[{"ltp":1.6,"id":10691901}]}]}
+{"op":"mcm","clk":"7701967168","pt":1540044412003,"mc":[{"id":"1.149875558","rc":[{"ltp":1.82,"id":10691901},{"ltp":2.36,"id":3035263}]}]}
+{"op":"mcm","clk":"7702001131","pt":1540044471125,"mc":[{"id":"1.149875558","rc":[{"ltp":1.54,"id":10691901}]}]}
+{"op":"mcm","clk":"7702016763","pt":1540044522358,"mc":[{"id":"1.149875558","rc":[{"ltp":1.43,"id":10691901}]}]}
+{"op":"mcm","clk":"7702038745","pt":1540044591607,"mc":[{"id":"1.149875558","rc":[{"ltp":1.37,"id":10691901},{"ltp":3.75,"id":3035263}]}]}
+{"op":"mcm","clk":"7702055715","pt":1540044651516,"mc":[{"id":"1.149875558","rc":[{"ltp":1.39,"id":10691901}]}]}
+{"op":"mcm","clk":"7702072255","pt":1540044711135,"mc":[{"id":"1.149875558","rc":[{"ltp":1.34,"id":10691901}]}]}
+{"op":"mcm","clk":"7702088446","pt":1540044767622,"mc":[{"id":"1.149875558","rc":[{"ltp":1.33,"id":10691901},{"ltp":3.95,"id":3035263}]}]}
+{"op":"mcm","clk":"7702106824","pt":1540044830479,"mc":[{"id":"1.149875558","rc":[{"ltp":1.31,"id":10691901},{"ltp":4.3,"id":3035263}]}]}
+{"op":"mcm","clk":"7702125302","pt":1540044891784,"mc":[{"id":"1.149875558","rc":[{"ltp":1.28,"id":10691901}]}]}
+{"op":"mcm","clk":"7702143073","pt":1540044952019,"mc":[{"id":"1.149875558","rc":[{"ltp":1.27,"id":10691901}]}]}
+{"op":"mcm","clk":"7702160116","pt":1540045007683,"mc":[{"id":"1.149875558","rc":[{"ltp":1.21,"id":10691901},{"ltp":5.5,"id":3035263}]}]}
+{"op":"mcm","clk":"7702216873","pt":1540045191280,"mc":[{"id":"1.149875558","rc":[{"ltp":1.2,"id":10691901},{"ltp":6.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702235001","pt":1540045251942,"mc":[{"id":"1.149875558","rc":[{"ltp":1.27,"id":10691901},{"ltp":5.1,"id":3035263}]}]}
+{"op":"mcm","clk":"7702252400","pt":1540045311659,"mc":[{"id":"1.149875558","rc":[{"ltp":1.2,"id":10691901},{"ltp":4.6,"id":3035263}]}]}
+{"op":"mcm","clk":"7702284967","pt":1540045365617,"mc":[{"id":"1.149875558","rc":[{"ltp":1.21,"id":10691901},{"ltp":5.8,"id":3035263}]}]}
+{"op":"mcm","clk":"7702304022","pt":1540045430480,"mc":[{"id":"1.149875558","rc":[{"ltp":1.2,"id":10691901}]}]}
+{"op":"mcm","clk":"7702321417","pt":1540045490730,"mc":[{"id":"1.149875558","rc":[{"ltp":1.21,"id":10691901},{"ltp":5.7,"id":3035263}]}]}
+{"op":"mcm","clk":"7702339864","pt":1540045552021,"mc":[{"id":"1.149875558","rc":[{"ltp":1.25,"id":10691901},{"ltp":5.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702358064","pt":1540045611847,"mc":[{"id":"1.149875558","rc":[{"ltp":1.23,"id":10691901},{"ltp":6.4,"id":3035263}]}]}
+{"op":"mcm","clk":"7702377115","pt":1540045671991,"mc":[{"id":"1.149875558","rc":[{"ltp":1.1,"id":10691901}]}]}
+{"op":"mcm","clk":"7702395508","pt":1540045731371,"mc":[{"id":"1.149875558","rc":[{"ltp":1.09,"id":10691901},{"ltp":12.5,"id":3035263}]}]}
+{"op":"mcm","clk":"7702451000","pt":1540045910877,"mc":[{"id":"1.149875558","rc":[{"ltp":1.07,"id":10691901}]}]}
+{"op":"mcm","clk":"7702469647","pt":1540045971656,"mc":[{"id":"1.149875558","rc":[{"ltp":1.06,"id":10691901}]}]}
+{"op":"mcm","clk":"7702487796","pt":1540046031980,"mc":[{"id":"1.149875558","rc":[{"ltp":1.09,"id":10691901},{"ltp":15.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702505709","pt":1540046090288,"mc":[{"id":"1.149875558","rc":[{"ltp":12.5,"id":3035263}]}]}
+{"op":"mcm","clk":"7702524790","pt":1540046151824,"mc":[{"id":"1.149875558","rc":[{"ltp":1.06,"id":10691901}]}]}
+{"op":"mcm","clk":"7702543392","pt":1540046211932,"mc":[{"id":"1.149875558","rc":[{"ltp":1.11,"id":10691901},{"ltp":10.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702577527","pt":1540046270503,"mc":[{"id":"1.149875558","rc":[{"ltp":1.19,"id":10691901}]}]}
+{"op":"mcm","clk":"7702595956","pt":1540046330967,"mc":[{"id":"1.149875558","rc":[{"ltp":1.21,"id":10691901},{"ltp":4.8,"id":3035263}]}]}
+{"op":"mcm","clk":"7702614217","pt":1540046391875,"mc":[{"id":"1.149875558","rc":[{"ltp":1.16,"id":10691901},{"ltp":6.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702632808","pt":1540046451621,"mc":[{"id":"1.149875558","rc":[{"ltp":1.13,"id":10691901},{"ltp":6.2,"id":3035263}]}]}
+{"op":"mcm","clk":"7702650713","pt":1540046511906,"mc":[{"id":"1.149875558","rc":[{"ltp":1.28,"id":10691901},{"ltp":5.3,"id":3035263}]}]}
+{"op":"mcm","clk":"7702668733","pt":1540046570232,"mc":[{"id":"1.149875558","rc":[{"ltp":1.33,"id":10691901},{"ltp":4.1,"id":3035263}]}]}
+{"op":"mcm","clk":"7702687157","pt":1540046631110,"mc":[{"id":"1.149875558","rc":[{"ltp":1.32,"id":10691901}]}]}
+{"op":"mcm","clk":"7702705122","pt":1540046691872,"mc":[{"id":"1.149875558","rc":[{"ltp":1.39,"id":10691901},{"ltp":3.6,"id":3035263}]}]}
+{"op":"mcm","clk":"7702723826","pt":1540046751853,"mc":[{"id":"1.149875558","rc":[{"ltp":3.35,"id":3035263}]}]}
+{"op":"mcm","clk":"7702741329","pt":1540046811175,"mc":[{"id":"1.149875558","rc":[{"ltp":1.29,"id":10691901},{"ltp":3.75,"id":3035263}]}]}
+{"op":"mcm","clk":"7702760104","pt":1540046871918,"mc":[{"id":"1.149875558","rc":[{"ltp":1.21,"id":10691901},{"ltp":5.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702774683","pt":1540046931670,"mc":[{"id":"1.149875558","rc":[{"ltp":1.16,"id":10691901},{"ltp":7.4,"id":3035263}]}]}
+{"op":"mcm","clk":"7702788708","pt":1540046991430,"mc":[{"id":"1.149875558","rc":[{"ltp":6.4,"id":3035263}]}]}
+{"op":"mcm","clk":"7702803122","pt":1540047051443,"mc":[{"id":"1.149875558","rc":[{"ltp":1.08,"id":10691901},{"ltp":14.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702846747","pt":1540047171972,"mc":[{"id":"1.149875558","rc":[{"ltp":1.1,"id":10691901}]}]}
+{"op":"mcm","clk":"7702860659","pt":1540047231227,"mc":[{"id":"1.149875558","rc":[{"ltp":1.22,"id":10691901}]}]}
+{"op":"mcm","clk":"7702873590","pt":1540047291202,"mc":[{"id":"1.149875558","rc":[{"ltp":1.15,"id":10691901},{"ltp":6.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702886600","pt":1540047351956,"mc":[{"id":"1.149875558","rc":[{"ltp":1.14,"id":10691901},{"ltp":7.8,"id":3035263}]}]}
+{"op":"mcm","clk":"7702898782","pt":1540047411152,"mc":[{"id":"1.149875558","rc":[{"ltp":1.06,"id":10691901},{"ltp":18.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702911028","pt":1540047471917,"mc":[{"id":"1.149875558","rc":[{"ltp":12.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702924146","pt":1540047528940,"mc":[{"id":"1.149875558","rc":[{"ltp":1.04,"id":10691901},{"ltp":27.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702936045","pt":1540047587454,"mc":[{"id":"1.149875558","rc":[{"ltp":1.02,"id":10691901}]}]}
+{"op":"mcm","clk":"7702949263","pt":1540047651030,"mc":[{"id":"1.149875558","rc":[{"ltp":50.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702965193","pt":1540047710371,"mc":[{"id":"1.149875558","rc":[{"ltp":1.05,"id":10691901},{"ltp":26.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702977580","pt":1540047769391,"mc":[{"id":"1.149875558","rc":[{"ltp":1.04,"id":10691901},{"ltp":21.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7702991648","pt":1540047831560,"mc":[{"id":"1.149875558","rc":[{"ltp":1.02,"id":10691901}]}]}
+{"op":"mcm","clk":"7703006394","pt":1540047891834,"mc":[{"id":"1.149875558","rc":[{"ltp":1.1,"id":10691901},{"ltp":11.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7703021341","pt":1540047951256,"mc":[{"id":"1.149875558","rc":[{"ltp":1.07,"id":10691901},{"ltp":15.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7703033415","pt":1540047995905,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:34:00.000Z","suspendTime":"2018-10-20T13:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"ACTIVE","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:34:00.000Z","version":2464775094,"name":"Match Odds","eventName":"M Granollers v McDonald"},"rc":[{"ltp":1.01,"id":10691901},{"ltp":110.0,"id":3035263}]}]}
+{"op":"mcm","clk":"7703058908","pt":1540048032601,"mc":[{"id":"1.149875558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965382","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:34:00.000Z","suspendTime":"2018-10-20T13:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T15:07:06.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":3035263,"name":"Marcel Granollers"},{"status":"WINNER","sortPriority":2,"id":10691901,"name":"Mackenzie McDonald"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:34:00.000Z","version":2464777193,"name":"Match Odds","eventName":"M Granollers v McDonald"}}]}

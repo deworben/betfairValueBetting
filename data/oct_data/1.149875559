@@ -1,0 +1,115 @@
+{"op":"mcm","clk":"7759542065","pt":1539975544980,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T09:00:00.000Z","suspendTime":"2018-10-20T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T09:00:00.000Z","version":2462352846,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7759612203","pt":1539975826561,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T14:00:00.000Z","suspendTime":"2018-10-20T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T14:00:00.000Z","version":2462384653,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7759686807","pt":1539976265747,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T14:00:00.000Z","suspendTime":"2018-10-20T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T14:00:00.000Z","version":2462384653,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7764270045","pt":1540014031802,"mc":[{"id":"1.149875559","rc":[{"ltp":1.29,"id":8173434}]}]}
+{"op":"mcm","clk":"7764748908","pt":1540017415821,"mc":[{"id":"1.149875559","rc":[{"ltp":1.34,"id":8173434}]}]}
+{"op":"mcm","clk":"7766501490","pt":1540028925410,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:48:00.000Z","suspendTime":"2018-10-20T13:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:48:00.000Z","version":2463477580,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7767650304","pt":1540034624397,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:25:00.000Z","suspendTime":"2018-10-20T13:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:25:00.000Z","version":2463718651,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7767718559","pt":1540034924721,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:40:00.000Z","suspendTime":"2018-10-20T13:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:40:00.000Z","version":2463730546,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7767802408","pt":1540035225353,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:28:00.000Z","suspendTime":"2018-10-20T13:28:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:28:00.000Z","version":2463755835,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7768263953","pt":1540037448277,"mc":[{"id":"1.149875559","rc":[{"ltp":1.33,"id":8173434}]}]}
+{"op":"mcm","clk":"7768379389","pt":1540037860938,"mc":[{"id":"1.149875559","rc":[{"ltp":4.1,"id":6514124}]}]}
+{"op":"mcm","clk":"7768962137","pt":1540040308399,"mc":[{"id":"1.149875559","rc":[{"ltp":3.9,"id":6514124},{"ltp":1.34,"id":8173434}]}]}
+{"op":"mcm","clk":"7768990864","pt":1540040457168,"mc":[{"id":"1.149875559","rc":[{"ltp":1.33,"id":8173434}]}]}
+{"op":"mcm","clk":"7769097946","pt":1540040856991,"mc":[{"id":"1.149875559","rc":[{"ltp":1.32,"id":8173434}]}]}
+{"op":"mcm","clk":"7769116252","pt":1540040935414,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:07:00.000Z","suspendTime":"2018-10-20T13:07:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:07:00.000Z","version":2464106159,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7769267122","pt":1540041489210,"mc":[{"id":"1.149875559","rc":[{"ltp":1.33,"id":8173434}]}]}
+{"op":"mcm","clk":"7769285691","pt":1540041574497,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:07:00.000Z","suspendTime":"2018-10-20T13:07:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"ACTIVE","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:07:00.000Z","version":2464140348,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}
+{"op":"mcm","clk":"7769302143","pt":1540041649853,"mc":[{"id":"1.149875559","rc":[{"ltp":3.5,"id":6514124},{"ltp":1.36,"id":8173434}]}]}
+{"op":"mcm","clk":"7769317173","pt":1540041717135,"mc":[{"id":"1.149875559","rc":[{"ltp":1.39,"id":8173434}]}]}
+{"op":"mcm","clk":"7769329974","pt":1540041773767,"mc":[{"id":"1.149875559","rc":[{"ltp":3.25,"id":6514124},{"ltp":1.45,"id":8173434}]}]}
+{"op":"mcm","clk":"7769344535","pt":1540041835824,"mc":[{"id":"1.149875559","rc":[{"ltp":3.75,"id":6514124},{"ltp":1.36,"id":8173434}]}]}
+{"op":"mcm","clk":"7769357927","pt":1540041895239,"mc":[{"id":"1.149875559","rc":[{"ltp":3.9,"id":6514124},{"ltp":1.32,"id":8173434}]}]}
+{"op":"mcm","clk":"7769372138","pt":1540041955088,"mc":[{"id":"1.149875559","rc":[{"ltp":1.3,"id":8173434}]}]}
+{"op":"mcm","clk":"7769386319","pt":1540042014653,"mc":[{"id":"1.149875559","rc":[{"ltp":5.0,"id":6514124},{"ltp":1.25,"id":8173434}]}]}
+{"op":"mcm","clk":"7769401013","pt":1540042077006,"mc":[{"id":"1.149875559","rc":[{"ltp":1.28,"id":8173434}]}]}
+{"op":"mcm","clk":"7769415381","pt":1540042137088,"mc":[{"id":"1.149875559","rc":[{"ltp":1.24,"id":8173434}]}]}
+{"op":"mcm","clk":"7769429860","pt":1540042196333,"mc":[{"id":"1.149875559","rc":[{"ltp":1.18,"id":8173434}]}]}
+{"op":"mcm","clk":"7769445820","pt":1540042255956,"mc":[{"id":"1.149875559","rc":[{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7769461746","pt":1540042316449,"mc":[{"id":"1.149875559","rc":[{"ltp":1.22,"id":8173434}]}]}
+{"op":"mcm","clk":"7769494912","pt":1540042374141,"mc":[{"id":"1.149875559","rc":[{"ltp":1.24,"id":8173434}]}]}
+{"op":"mcm","clk":"7769511915","pt":1540042437068,"mc":[{"id":"1.149875559","rc":[{"ltp":1.32,"id":8173434}]}]}
+{"op":"mcm","clk":"7769527416","pt":1540042494170,"mc":[{"id":"1.149875559","rc":[{"ltp":1.3,"id":8173434}]}]}
+{"op":"mcm","clk":"7769543283","pt":1540042556645,"mc":[{"id":"1.149875559","rc":[{"ltp":3.75,"id":6514124},{"ltp":1.36,"id":8173434}]}]}
+{"op":"mcm","clk":"7769559603","pt":1540042615928,"mc":[{"id":"1.149875559","rc":[{"ltp":1.37,"id":8173434}]}]}
+{"op":"mcm","clk":"7769577221","pt":1540042677147,"mc":[{"id":"1.149875559","rc":[{"ltp":4.4,"id":6514124},{"ltp":1.28,"id":8173434}]}]}
+{"op":"mcm","clk":"7769594462","pt":1540042736806,"mc":[{"id":"1.149875559","rc":[{"ltp":1.23,"id":8173434}]}]}
+{"op":"mcm","clk":"7769608788","pt":1540042796115,"mc":[{"id":"1.149875559","rc":[{"ltp":4.7,"id":6514124},{"ltp":1.18,"id":8173434}]}]}
+{"op":"mcm","clk":"7769623771","pt":1540042855699,"mc":[{"id":"1.149875559","rc":[{"ltp":1.22,"id":8173434}]}]}
+{"op":"mcm","clk":"7769654616","pt":1540042973595,"mc":[{"id":"1.149875559","rc":[{"ltp":1.29,"id":8173434}]}]}
+{"op":"mcm","clk":"7769669673","pt":1540043034593,"mc":[{"id":"1.149875559","rc":[{"ltp":6.8,"id":6514124},{"ltp":1.17,"id":8173434}]}]}
+{"op":"mcm","clk":"7769684565","pt":1540043096620,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7769699269","pt":1540043153555,"mc":[{"id":"1.149875559","rc":[{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7769747014","pt":1540043274298,"mc":[{"id":"1.149875559","rc":[{"ltp":9.0,"id":6514124},{"ltp":1.12,"id":8173434}]}]}
+{"op":"mcm","clk":"7769761938","pt":1540043336530,"mc":[{"id":"1.149875559","rc":[{"ltp":1.1,"id":8173434}]}]}
+{"op":"mcm","clk":"7769776080","pt":1540043396864,"mc":[{"id":"1.149875559","rc":[{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7769791301","pt":1540043457106,"mc":[{"id":"1.149875559","rc":[{"ltp":13.5,"id":6514124},{"ltp":1.08,"id":8173434}]}]}
+{"op":"mcm","clk":"7769805474","pt":1540043516943,"mc":[{"id":"1.149875559","rc":[{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7769819301","pt":1540043575455,"mc":[{"id":"1.149875559","rc":[{"ltp":12.0,"id":6514124}]}]}
+{"op":"mcm","clk":"7769837335","pt":1540043636524,"mc":[{"id":"1.149875559","rc":[{"ltp":1.08,"id":8173434}]}]}
+{"op":"mcm","clk":"7769850449","pt":1540043695195,"mc":[{"id":"1.149875559","rc":[{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7769882471","pt":1540043810740,"mc":[{"id":"1.149875559","rc":[{"ltp":1.08,"id":8173434}]}]}
+{"op":"mcm","clk":"7769896988","pt":1540043868015,"mc":[{"id":"1.149875559","rc":[{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7769928723","pt":1540043996902,"mc":[{"id":"1.149875559","rc":[{"ltp":11.0,"id":6514124},{"ltp":1.1,"id":8173434}]}]}
+{"op":"mcm","clk":"7769944947","pt":1540044056951,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7769962482","pt":1540044115814,"mc":[{"id":"1.149875559","rc":[{"ltp":7.6,"id":6514124},{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7769999181","pt":1540044175594,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770018135","pt":1540044235847,"mc":[{"id":"1.149875559","rc":[{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770037321","pt":1540044296755,"mc":[{"id":"1.149875559","rc":[{"ltp":9.4,"id":6514124},{"ltp":1.11,"id":8173434}]}]}
+{"op":"mcm","clk":"7770057170","pt":1540044356858,"mc":[{"id":"1.149875559","rc":[{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7770076183","pt":1540044416808,"mc":[{"id":"1.149875559","rc":[{"ltp":1.07,"id":8173434}]}]}
+{"op":"mcm","clk":"7770096333","pt":1540044476840,"mc":[{"id":"1.149875559","rc":[{"ltp":1.11,"id":8173434}]}]}
+{"op":"mcm","clk":"7770115686","pt":1540044534024,"mc":[{"id":"1.149875559","rc":[{"ltp":8.6,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770139159","pt":1540044596693,"mc":[{"id":"1.149875559","rc":[{"ltp":8.0,"id":6514124},{"ltp":1.17,"id":8173434}]}]}
+{"op":"mcm","clk":"7770157513","pt":1540044656626,"mc":[{"id":"1.149875559","rc":[{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770175783","pt":1540044716573,"mc":[{"id":"1.149875559","rc":[{"ltp":9.2,"id":6514124},{"ltp":1.12,"id":8173434}]}]}
+{"op":"mcm","clk":"7770193789","pt":1540044773600,"mc":[{"id":"1.149875559","rc":[{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770214975","pt":1540044836412,"mc":[{"id":"1.149875559","rc":[{"ltp":5.8,"id":6514124},{"ltp":1.2,"id":8173434}]}]}
+{"op":"mcm","clk":"7770236138","pt":1540044896985,"mc":[{"id":"1.149875559","rc":[{"ltp":7.4,"id":6514124},{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770255536","pt":1540044955804,"mc":[{"id":"1.149875559","rc":[{"ltp":1.12,"id":8173434}]}]}
+{"op":"mcm","clk":"7770276975","pt":1540045017167,"mc":[{"id":"1.149875559","rc":[{"ltp":11.0,"id":6514124},{"ltp":1.1,"id":8173434}]}]}
+{"op":"mcm","clk":"7770315052","pt":1540045076965,"mc":[{"id":"1.149875559","rc":[{"ltp":1.11,"id":8173434}]}]}
+{"op":"mcm","clk":"7770335595","pt":1540045136863,"mc":[{"id":"1.149875559","rc":[{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770354340","pt":1540045193868,"mc":[{"id":"1.149875559","rc":[{"ltp":7.6,"id":6514124},{"ltp":1.17,"id":8173434}]}]}
+{"op":"mcm","clk":"7770375110","pt":1540045256561,"mc":[{"id":"1.149875559","rc":[{"ltp":1.16,"id":8173434}]}]}
+{"op":"mcm","clk":"7770392939","pt":1540045314061,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770411667","pt":1540045376159,"mc":[{"id":"1.149875559","rc":[{"ltp":8.0,"id":6514124},{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770450649","pt":1540045497009,"mc":[{"id":"1.149875559","rc":[{"ltp":1.12,"id":8173434}]}]}
+{"op":"mcm","clk":"7770470672","pt":1540045556838,"mc":[{"id":"1.149875559","rc":[{"ltp":8.6,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770490066","pt":1540045616408,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770502720","pt":1540045656288,"mc":[{"id":"1.149875559","rc":[{"ltp":8.0,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770527675","pt":1540045736693,"mc":[{"id":"1.149875559","rc":[{"ltp":9.2,"id":6514124},{"ltp":1.11,"id":8173434}]}]}
+{"op":"mcm","clk":"7770545737","pt":1540045793802,"mc":[{"id":"1.149875559","rc":[{"ltp":6.4,"id":6514124},{"ltp":1.18,"id":8173434}]}]}
+{"op":"mcm","clk":"7770565359","pt":1540045853122,"mc":[{"id":"1.149875559","rc":[{"ltp":1.19,"id":8173434}]}]}
+{"op":"mcm","clk":"7770586080","pt":1540045917078,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770623121","pt":1540045977063,"mc":[{"id":"1.149875559","rc":[{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770643479","pt":1540046036797,"mc":[{"id":"1.149875559","rc":[{"ltp":7.6,"id":6514124},{"ltp":1.2,"id":8173434}]}]}
+{"op":"mcm","clk":"7770663767","pt":1540046096009,"mc":[{"id":"1.149875559","rc":[{"ltp":1.17,"id":8173434}]}]}
+{"op":"mcm","clk":"7770683155","pt":1540046153279,"mc":[{"id":"1.149875559","rc":[{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770704133","pt":1540046216819,"mc":[{"id":"1.149875559","rc":[{"ltp":6.2,"id":6514124},{"ltp":1.19,"id":8173434}]}]}
+{"op":"mcm","clk":"7770724533","pt":1540046276908,"mc":[{"id":"1.149875559","rc":[{"ltp":6.6,"id":6514124},{"ltp":1.18,"id":8173434}]}]}
+{"op":"mcm","clk":"7770744195","pt":1540046336417,"mc":[{"id":"1.149875559","rc":[{"ltp":6.0,"id":6514124},{"ltp":1.2,"id":8173434}]}]}
+{"op":"mcm","clk":"7770763859","pt":1540046396785,"mc":[{"id":"1.149875559","rc":[{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7770783742","pt":1540046456808,"mc":[{"id":"1.149875559","rc":[{"ltp":8.6,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770802236","pt":1540046516940,"mc":[{"id":"1.149875559","rc":[{"ltp":6.8,"id":6514124},{"ltp":1.17,"id":8173434}]}]}
+{"op":"mcm","clk":"7770819515","pt":1540046575702,"mc":[{"id":"1.149875559","rc":[{"ltp":13.5,"id":6514124},{"ltp":1.08,"id":8173434}]}]}
+{"op":"mcm","clk":"7770836324","pt":1540046635012,"mc":[{"id":"1.149875559","rc":[{"ltp":8.6,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7770853554","pt":1540046695518,"mc":[{"id":"1.149875559","rc":[{"ltp":8.8,"id":6514124}]}]}
+{"op":"mcm","clk":"7770870625","pt":1540046755242,"mc":[{"id":"1.149875559","rc":[{"ltp":7.2,"id":6514124},{"ltp":1.16,"id":8173434}]}]}
+{"op":"mcm","clk":"7770887317","pt":1540046817009,"mc":[{"id":"1.149875559","rc":[{"ltp":6.8,"id":6514124},{"ltp":1.19,"id":8173434}]}]}
+{"op":"mcm","clk":"7770921233","pt":1540046873827,"mc":[{"id":"1.149875559","rc":[{"ltp":6.4,"id":6514124},{"ltp":1.2,"id":8173434}]}]}
+{"op":"mcm","clk":"7770936551","pt":1540046933764,"mc":[{"id":"1.149875559","rc":[{"ltp":1.24,"id":8173434}]}]}
+{"op":"mcm","clk":"7770951681","pt":1540046997154,"mc":[{"id":"1.149875559","rc":[{"ltp":5.2,"id":6514124},{"ltp":1.21,"id":8173434}]}]}
+{"op":"mcm","clk":"7770965150","pt":1540047056530,"mc":[{"id":"1.149875559","rc":[{"ltp":6.6,"id":6514124},{"ltp":1.18,"id":8173434}]}]}
+{"op":"mcm","clk":"7770978183","pt":1540047117145,"mc":[{"id":"1.149875559","rc":[{"ltp":7.8,"id":6514124},{"ltp":1.15,"id":8173434}]}]}
+{"op":"mcm","clk":"7770989676","pt":1540047175563,"mc":[{"id":"1.149875559","rc":[{"ltp":8.2,"id":6514124},{"ltp":1.12,"id":8173434}]}]}
+{"op":"mcm","clk":"7771002875","pt":1540047236349,"mc":[{"id":"1.149875559","rc":[{"ltp":7.2,"id":6514124},{"ltp":1.13,"id":8173434}]}]}
+{"op":"mcm","clk":"7771014114","pt":1540047296670,"mc":[{"id":"1.149875559","rc":[{"ltp":1.16,"id":8173434}]}]}
+{"op":"mcm","clk":"7771025682","pt":1540047354579,"mc":[{"id":"1.149875559","rc":[{"ltp":8.4,"id":6514124},{"ltp":1.14,"id":8173434}]}]}
+{"op":"mcm","clk":"7771037441","pt":1540047416242,"mc":[{"id":"1.149875559","rc":[{"ltp":1.05,"id":8173434}]}]}
+{"op":"mcm","clk":"7771049474","pt":1540047477173,"mc":[{"id":"1.149875559","rc":[{"ltp":7.2,"id":6514124},{"ltp":1.16,"id":8173434}]}]}
+{"op":"mcm","clk":"7771063525","pt":1540047536244,"mc":[{"id":"1.149875559","rc":[{"ltp":12.5,"id":6514124},{"ltp":1.09,"id":8173434}]}]}
+{"op":"mcm","clk":"7771075559","pt":1540047596978,"mc":[{"id":"1.149875559","rc":[{"ltp":1.03,"id":8173434}]}]}
+{"op":"mcm","clk":"7771088540","pt":1540047656731,"mc":[{"id":"1.149875559","rc":[{"ltp":34.0,"id":6514124}]}]}
+{"op":"mcm","clk":"7771105043","pt":1540047715462,"mc":[{"id":"1.149875559","rc":[{"ltp":1.01,"id":8173434}]}]}
+{"op":"mcm","clk":"7771144475","pt":1540047819322,"mc":[{"id":"1.149875559","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965372","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T13:07:00.000Z","suspendTime":"2018-10-20T13:07:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T15:03:33.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8173434,"name":"Taro Daniel"},{"status":"LOSER","sortPriority":2,"id":6514124,"name":"Sandro Ehrat"}],"regulators":["MR_INT"],"countryCode":"CH","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T13:07:00.000Z","version":2464763309,"name":"Match Odds","eventName":"Daniel v Sa Ehrat"}}]}

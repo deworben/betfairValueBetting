@@ -1,0 +1,136 @@
+{"op":"mcm","clk":"7702414702","pt":1540045795369,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T09:00:00.000Z","suspendTime":"2018-10-21T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T09:00:00.000Z","version":2464550213,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7702750744","pt":1540046843981,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T09:00:00.000Z","suspendTime":"2018-10-21T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T09:00:00.000Z","version":2464550213,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7704631520","pt":1540053825983,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:00:00.000Z","suspendTime":"2018-10-21T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:00:00.000Z","version":2465446731,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7706918862","pt":1540066797799,"mc":[{"id":"1.149912144","rc":[{"ltp":1.53,"id":7797771}]}]}
+{"op":"mcm","clk":"7707194233","pt":1540069595934,"mc":[{"id":"1.149912144","rc":[{"ltp":2.84,"id":2609424}]}]}
+{"op":"mcm","clk":"7707775027","pt":1540074539815,"mc":[{"id":"1.149912144","rc":[{"ltp":2.82,"id":2609424},{"ltp":1.55,"id":7797771}]}]}
+{"op":"mcm","clk":"7708632391","pt":1540082881425,"mc":[{"id":"1.149912144","rc":[{"ltp":1.52,"id":7797771}]}]}
+{"op":"mcm","clk":"7710145358","pt":1540105550294,"mc":[{"id":"1.149912144","rc":[{"ltp":2.66,"id":2609424},{"ltp":1.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7710536091","pt":1540109821314,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":7797771}]}]}
+{"op":"mcm","clk":"7710581181","pt":1540110180708,"mc":[{"id":"1.149912144","rc":[{"ltp":1.52,"id":7797771}]}]}
+{"op":"mcm","clk":"7710703666","pt":1540111240516,"mc":[{"id":"1.149912144","rc":[{"ltp":2.68,"id":2609424},{"ltp":1.59,"id":7797771}]}]}
+{"op":"mcm","clk":"7710716075","pt":1540111355543,"mc":[{"id":"1.149912144","rc":[{"ltp":2.78,"id":2609424},{"ltp":1.56,"id":7797771}]}]}
+{"op":"mcm","clk":"7711260972","pt":1540115085651,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T12:00:00.000Z","suspendTime":"2018-10-21T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"Europe/London","openDate":"2018-10-21T12:00:00.000Z","version":2467378615,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7711362476","pt":1540115687811,"mc":[{"id":"1.149912144","rc":[{"ltp":2.68,"id":2609424},{"ltp":1.59,"id":7797771}]}]}
+{"op":"mcm","clk":"7711367054","pt":1540115718192,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7711463629","pt":1540116241910,"mc":[{"id":"1.149912144","rc":[{"ltp":2.62,"id":2609424}]}]}
+{"op":"mcm","clk":"7711533016","pt":1540116533853,"mc":[{"id":"1.149912144","rc":[{"ltp":2.64,"id":2609424}]}]}
+{"op":"mcm","clk":"7711597555","pt":1540116857367,"mc":[{"id":"1.149912144","rc":[{"ltp":2.62,"id":2609424}]}]}
+{"op":"mcm","clk":"7711800348","pt":1540117858211,"mc":[{"id":"1.149912144","rc":[{"ltp":2.58,"id":2609424}]}]}
+{"op":"mcm","clk":"7711811801","pt":1540117915172,"mc":[{"id":"1.149912144","rc":[{"ltp":2.56,"id":2609424}]}]}
+{"op":"mcm","clk":"7711835343","pt":1540118041683,"mc":[{"id":"1.149912144","rc":[{"ltp":2.54,"id":2609424}]}]}
+{"op":"mcm","clk":"7711846432","pt":1540118098572,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7711855393","pt":1540118146534,"mc":[{"id":"1.149912144","rc":[{"ltp":2.62,"id":2609424}]}]}
+{"op":"mcm","clk":"7711868366","pt":1540118216000,"mc":[{"id":"1.149912144","rc":[{"ltp":1.54,"id":7797771}]}]}
+{"op":"mcm","clk":"7712086297","pt":1540119375414,"mc":[{"id":"1.149912144","rc":[{"ltp":1.58,"id":7797771}]}]}
+{"op":"mcm","clk":"7712101583","pt":1540119476345,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7712111442","pt":1540119540881,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T12:56:00.000Z","suspendTime":"2018-10-21T12:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T12:56:00.000Z","version":2467549199,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7712129910","pt":1540119645012,"mc":[{"id":"1.149912144","rc":[{"ltp":2.68,"id":2609424},{"ltp":1.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7712144463","pt":1540119722048,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7712270403","pt":1540120316390,"mc":[{"id":"1.149912144","rc":[{"ltp":1.61,"id":7797771}]}]}
+{"op":"mcm","clk":"7712356142","pt":1540120741741,"mc":[{"id":"1.149912144","rc":[{"ltp":2.58,"id":2609424},{"ltp":1.62,"id":7797771}]}]}
+{"op":"mcm","clk":"7712366588","pt":1540120797401,"mc":[{"id":"1.149912144","rc":[{"ltp":2.54,"id":2609424}]}]}
+{"op":"mcm","clk":"7712414785","pt":1540120981070,"mc":[{"id":"1.149912144","rc":[{"ltp":2.52,"id":2609424}]}]}
+{"op":"mcm","clk":"7712523403","pt":1540121521261,"mc":[{"id":"1.149912144","rc":[{"ltp":2.5,"id":2609424}]}]}
+{"op":"mcm","clk":"7712539941","pt":1540121606850,"mc":[{"id":"1.149912144","rc":[{"ltp":2.48,"id":2609424}]}]}
+{"op":"mcm","clk":"7712568095","pt":1540121762083,"mc":[{"id":"1.149912144","rc":[{"ltp":2.5,"id":2609424}]}]}
+{"op":"mcm","clk":"7712579894","pt":1540121820242,"mc":[{"id":"1.149912144","rc":[{"ltp":2.46,"id":2609424}]}]}
+{"op":"mcm","clk":"7712603566","pt":1540121881803,"mc":[{"id":"1.149912144","rc":[{"ltp":2.48,"id":2609424}]}]}
+{"op":"mcm","clk":"7712614803","pt":1540121938598,"mc":[{"id":"1.149912144","rc":[{"ltp":2.42,"id":2609424}]}]}
+{"op":"mcm","clk":"7712639092","pt":1540122061602,"mc":[{"id":"1.149912144","rc":[{"ltp":1.71,"id":7797771}]}]}
+{"op":"mcm","clk":"7712663483","pt":1540122179846,"mc":[{"id":"1.149912144","rc":[{"ltp":2.44,"id":2609424}]}]}
+{"op":"mcm","clk":"7712712608","pt":1540122422017,"mc":[{"id":"1.149912144","rc":[{"ltp":2.36,"id":2609424},{"ltp":1.74,"id":7797771}]}]}
+{"op":"mcm","clk":"7712848195","pt":1540123201736,"mc":[{"id":"1.149912144","rc":[{"ltp":1.65,"id":7797771}]}]}
+{"op":"mcm","clk":"7713105239","pt":1540124613377,"mc":[{"id":"1.149912144","rc":[{"ltp":1.73,"id":7797771}]}]}
+{"op":"mcm","clk":"7713143822","pt":1540124881964,"mc":[{"id":"1.149912144","rc":[{"ltp":2.52,"id":2609424},{"ltp":1.66,"id":7797771}]}]}
+{"op":"mcm","clk":"7713152243","pt":1540124936035,"mc":[{"id":"1.149912144","rc":[{"ltp":2.46,"id":2609424}]}]}
+{"op":"mcm","clk":"7713186743","pt":1540125146962,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7713221201","pt":1540125358526,"mc":[{"id":"1.149912144","rc":[{"ltp":2.46,"id":2609424}]}]}
+{"op":"mcm","clk":"7713252330","pt":1540125479415,"mc":[{"id":"1.149912144","rc":[{"ltp":1.7,"id":7797771}]}]}
+{"op":"mcm","clk":"7713262633","pt":1540125541612,"mc":[{"id":"1.149912144","rc":[{"ltp":1.69,"id":7797771}]}]}
+{"op":"mcm","clk":"7713292948","pt":1540125721956,"mc":[{"id":"1.149912144","rc":[{"ltp":1.63,"id":7797771}]}]}
+{"op":"mcm","clk":"7713386500","pt":1540126275569,"mc":[{"id":"1.149912144","rc":[{"ltp":2.44,"id":2609424},{"ltp":1.69,"id":7797771}]}]}
+{"op":"mcm","clk":"7713408160","pt":1540126335787,"mc":[{"id":"1.149912144","rc":[{"ltp":2.6,"id":2609424}]}]}
+{"op":"mcm","clk":"7713437490","pt":1540126523081,"mc":[{"id":"1.149912144","rc":[{"ltp":1.63,"id":7797771}]}]}
+{"op":"mcm","clk":"7713472301","pt":1540126738462,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:11:00.000Z","suspendTime":"2018-10-21T13:11:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:11:00.000Z","version":2467952208,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7713521184","pt":1540126981787,"mc":[{"id":"1.149912144","rc":[{"ltp":2.46,"id":2609424}]}]}
+{"op":"mcm","clk":"7713543659","pt":1540127085920,"mc":[{"id":"1.149912144","rc":[{"ltp":1.69,"id":7797771}]}]}
+{"op":"mcm","clk":"7713675503","pt":1540127623177,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:26:00.000Z","suspendTime":"2018-10-21T13:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:26:00.000Z","version":2468041200,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7713832847","pt":1540128276050,"mc":[{"id":"1.149912144","rc":[{"ltp":2.44,"id":2609424}]}]}
+{"op":"mcm","clk":"7713887508","pt":1540128536166,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:41:00.000Z","suspendTime":"2018-10-21T13:41:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:41:00.000Z","version":2468113405,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7714013778","pt":1540129124378,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:36:00.000Z","suspendTime":"2018-10-21T13:36:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:36:00.000Z","version":2468166408,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}
+{"op":"mcm","clk":"7714052230","pt":1540129322086,"mc":[{"id":"1.149912144","rc":[{"ltp":2.4,"id":2609424},{"ltp":1.71,"id":7797771}]}]}
+{"op":"mcm","clk":"7714063738","pt":1540129379508,"mc":[{"id":"1.149912144","rc":[{"ltp":2.38,"id":2609424}]}]}
+{"op":"mcm","clk":"7714075586","pt":1540129437716,"mc":[{"id":"1.149912144","rc":[{"ltp":2.44,"id":2609424},{"ltp":1.68,"id":7797771}]}]}
+{"op":"mcm","clk":"7714085184","pt":1540129484503,"mc":[{"id":"1.149912144","rc":[{"ltp":1.65,"id":7797771}]}]}
+{"op":"mcm","clk":"7714111997","pt":1540129618172,"mc":[{"id":"1.149912144","rc":[{"ltp":2.52,"id":2609424}]}]}
+{"op":"mcm","clk":"7714122576","pt":1540129676361,"mc":[{"id":"1.149912144","rc":[{"ltp":2.56,"id":2609424},{"ltp":1.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7714144235","pt":1540129801883,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:36:00.000Z","suspendTime":"2018-10-21T13:36:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:36:00.000Z","version":2468207701,"name":"Match Odds","eventName":"Kukushkin v Rublev"},"rc":[{"ltp":2.46,"id":2609424},{"ltp":1.67,"id":7797771}]}]}
+{"op":"mcm","clk":"7714154366","pt":1540129859233,"mc":[{"id":"1.149912144","rc":[{"ltp":2.66,"id":2609424},{"ltp":1.68,"id":7797771}]}]}
+{"op":"mcm","clk":"7714164209","pt":1540129918899,"mc":[{"id":"1.149912144","rc":[{"ltp":1.59,"id":7797771}]}]}
+{"op":"mcm","clk":"7714186089","pt":1540129981804,"mc":[{"id":"1.149912144","rc":[{"ltp":2.4,"id":2609424},{"ltp":1.56,"id":7797771}]}]}
+{"op":"mcm","clk":"7714195804","pt":1540130040550,"mc":[{"id":"1.149912144","rc":[{"ltp":1.73,"id":7797771}]}]}
+{"op":"mcm","clk":"7714206147","pt":1540130102050,"mc":[{"id":"1.149912144","rc":[{"ltp":1.76,"id":7797771}]}]}
+{"op":"mcm","clk":"7714215832","pt":1540130159444,"mc":[{"id":"1.149912144","rc":[{"ltp":2.08,"id":2609424},{"ltp":1.92,"id":7797771}]}]}
+{"op":"mcm","clk":"7714225974","pt":1540130221224,"mc":[{"id":"1.149912144","rc":[{"ltp":1.78,"id":2609424},{"ltp":2.22,"id":7797771}]}]}
+{"op":"mcm","clk":"7714235034","pt":1540130282060,"mc":[{"id":"1.149912144","rc":[{"ltp":1.62,"id":2609424},{"ltp":2.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7714243888","pt":1540130341005,"mc":[{"id":"1.149912144","rc":[{"ltp":1.63,"id":2609424}]}]}
+{"op":"mcm","clk":"7714253673","pt":1540130400528,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":2609424}]}]}
+{"op":"mcm","clk":"7714265563","pt":1540130462069,"mc":[{"id":"1.149912144","rc":[{"ltp":1.6,"id":2609424},{"ltp":2.66,"id":7797771}]}]}
+{"op":"mcm","clk":"7714276874","pt":1540130521581,"mc":[{"id":"1.149912144","rc":[{"ltp":1.61,"id":2609424},{"ltp":2.64,"id":7797771}]}]}
+{"op":"mcm","clk":"7714302624","pt":1540130641485,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":2609424},{"ltp":2.56,"id":7797771}]}]}
+{"op":"mcm","clk":"7714316086","pt":1540130699673,"mc":[{"id":"1.149912144","rc":[{"ltp":1.62,"id":2609424},{"ltp":2.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7714330451","pt":1540130759293,"mc":[{"id":"1.149912144","rc":[{"ltp":1.8,"id":2609424},{"ltp":2.24,"id":7797771}]}]}
+{"op":"mcm","clk":"7714345098","pt":1540130821156,"mc":[{"id":"1.149912144","rc":[{"ltp":1.73,"id":2609424},{"ltp":2.36,"id":7797771}]}]}
+{"op":"mcm","clk":"7714371095","pt":1540130881993,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":2609424},{"ltp":2.56,"id":7797771}]}]}
+{"op":"mcm","clk":"7714384409","pt":1540130936428,"mc":[{"id":"1.149912144","rc":[{"ltp":1.6,"id":2609424},{"ltp":2.66,"id":7797771}]}]}
+{"op":"mcm","clk":"7714398796","pt":1540131000981,"mc":[{"id":"1.149912144","rc":[{"ltp":1.58,"id":2609424}]}]}
+{"op":"mcm","clk":"7714412482","pt":1540131061817,"mc":[{"id":"1.149912144","rc":[{"ltp":1.63,"id":2609424}]}]}
+{"op":"mcm","clk":"7714424826","pt":1540131116287,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":2609424},{"ltp":2.56,"id":7797771}]}]}
+{"op":"mcm","clk":"7714440055","pt":1540131179052,"mc":[{"id":"1.149912144","rc":[{"ltp":1.71,"id":2609424}]}]}
+{"op":"mcm","clk":"7714454894","pt":1540131241862,"mc":[{"id":"1.149912144","rc":[{"ltp":1.63,"id":2609424},{"ltp":2.86,"id":7797771}]}]}
+{"op":"mcm","clk":"7714484090","pt":1540131362008,"mc":[{"id":"1.149912144","rc":[{"ltp":1.53,"id":2609424},{"ltp":2.88,"id":7797771}]}]}
+{"op":"mcm","clk":"7714497950","pt":1540131420840,"mc":[{"id":"1.149912144","rc":[{"ltp":1.54,"id":2609424},{"ltp":2.84,"id":7797771}]}]}
+{"op":"mcm","clk":"7714511714","pt":1540131481074,"mc":[{"id":"1.149912144","rc":[{"ltp":3.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714524865","pt":1540131538364,"mc":[{"id":"1.149912144","rc":[{"ltp":1.39,"id":2609424},{"ltp":3.6,"id":7797771}]}]}
+{"op":"mcm","clk":"7714538522","pt":1540131598548,"mc":[{"id":"1.149912144","rc":[{"ltp":1.4,"id":2609424},{"ltp":3.55,"id":7797771}]}]}
+{"op":"mcm","clk":"7714549309","pt":1540131645431,"mc":[{"id":"1.149912144","rc":[{"ltp":1.39,"id":2609424},{"ltp":3.5,"id":7797771}]}]}
+{"op":"mcm","clk":"7714565464","pt":1540131721263,"mc":[{"id":"1.149912144","rc":[{"ltp":1.41,"id":2609424},{"ltp":3.4,"id":7797771}]}]}
+{"op":"mcm","clk":"7714589663","pt":1540131781177,"mc":[{"id":"1.149912144","rc":[{"ltp":1.39,"id":2609424}]}]}
+{"op":"mcm","clk":"7714602711","pt":1540131842030,"mc":[{"id":"1.149912144","rc":[{"ltp":1.28,"id":2609424},{"ltp":4.5,"id":7797771}]}]}
+{"op":"mcm","clk":"7714616094","pt":1540131901971,"mc":[{"id":"1.149912144","rc":[{"ltp":1.44,"id":2609424}]}]}
+{"op":"mcm","clk":"7714628533","pt":1540131959577,"mc":[{"id":"1.149912144","rc":[{"ltp":1.42,"id":2609424},{"ltp":3.35,"id":7797771}]}]}
+{"op":"mcm","clk":"7714641850","pt":1540132020777,"mc":[{"id":"1.149912144","rc":[{"ltp":1.36,"id":2609424},{"ltp":3.8,"id":7797771}]}]}
+{"op":"mcm","clk":"7714653049","pt":1540132076472,"mc":[{"id":"1.149912144","rc":[{"ltp":1.34,"id":2609424},{"ltp":4.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714666054","pt":1540132141754,"mc":[{"id":"1.149912144","rc":[{"ltp":1.22,"id":2609424},{"ltp":5.2,"id":7797771}]}]}
+{"op":"mcm","clk":"7714678184","pt":1540132199251,"mc":[{"id":"1.149912144","rc":[{"ltp":1.26,"id":2609424},{"ltp":5.1,"id":7797771}]}]}
+{"op":"mcm","clk":"7714691714","pt":1540132261852,"mc":[{"id":"1.149912144","rc":[{"ltp":1.29,"id":2609424},{"ltp":4.4,"id":7797771}]}]}
+{"op":"mcm","clk":"7714704199","pt":1540132321964,"mc":[{"id":"1.149912144","rc":[{"ltp":1.12,"id":2609424}]}]}
+{"op":"mcm","clk":"7714716830","pt":1540132381998,"mc":[{"id":"1.149912144","rc":[{"ltp":1.14,"id":2609424},{"ltp":9.2,"id":7797771}]}]}
+{"op":"mcm","clk":"7714729441","pt":1540132441750,"mc":[{"id":"1.149912144","rc":[{"ltp":1.23,"id":2609424},{"ltp":5.5,"id":7797771}]}]}
+{"op":"mcm","clk":"7714742462","pt":1540132502091,"mc":[{"id":"1.149912144","rc":[{"ltp":1.28,"id":2609424},{"ltp":4.4,"id":7797771}]}]}
+{"op":"mcm","clk":"7714756195","pt":1540132561825,"mc":[{"id":"1.149912144","rc":[{"ltp":1.35,"id":2609424},{"ltp":3.85,"id":7797771}]}]}
+{"op":"mcm","clk":"7714769620","pt":1540132621301,"mc":[{"id":"1.149912144","rc":[{"ltp":1.36,"id":2609424},{"ltp":3.75,"id":7797771}]}]}
+{"op":"mcm","clk":"7714793132","pt":1540132680512,"mc":[{"id":"1.149912144","rc":[{"ltp":1.4,"id":2609424},{"ltp":3.4,"id":7797771}]}]}
+{"op":"mcm","clk":"7714806328","pt":1540132741593,"mc":[{"id":"1.149912144","rc":[{"ltp":1.5,"id":2609424},{"ltp":3.05,"id":7797771}]}]}
+{"op":"mcm","clk":"7714818173","pt":1540132798474,"mc":[{"id":"1.149912144","rc":[{"ltp":1.6,"id":2609424},{"ltp":2.72,"id":7797771}]}]}
+{"op":"mcm","clk":"7714830526","pt":1540132858604,"mc":[{"id":"1.149912144","rc":[{"ltp":1.64,"id":2609424},{"ltp":2.58,"id":7797771}]}]}
+{"op":"mcm","clk":"7714843243","pt":1540132920762,"mc":[{"id":"1.149912144","rc":[{"ltp":1.52,"id":2609424},{"ltp":3.25,"id":7797771}]}]}
+{"op":"mcm","clk":"7714855623","pt":1540132982007,"mc":[{"id":"1.149912144","rc":[{"ltp":1.44,"id":2609424}]}]}
+{"op":"mcm","clk":"7714868295","pt":1540133042092,"mc":[{"id":"1.149912144","rc":[{"ltp":1.39,"id":2609424},{"ltp":3.55,"id":7797771}]}]}
+{"op":"mcm","clk":"7714892980","pt":1540133161541,"mc":[{"id":"1.149912144","rc":[{"ltp":1.45,"id":2609424}]}]}
+{"op":"mcm","clk":"7714904956","pt":1540133222031,"mc":[{"id":"1.149912144","rc":[{"ltp":1.38,"id":2609424}]}]}
+{"op":"mcm","clk":"7714915847","pt":1540133281252,"mc":[{"id":"1.149912144","rc":[{"ltp":1.3,"id":2609424},{"ltp":4.4,"id":7797771}]}]}
+{"op":"mcm","clk":"7714925930","pt":1540133340167,"mc":[{"id":"1.149912144","rc":[{"ltp":1.12,"id":2609424},{"ltp":11.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714935108","pt":1540133401347,"mc":[{"id":"1.149912144","rc":[{"ltp":1.11,"id":2609424},{"ltp":15.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714944111","pt":1540133462011,"mc":[{"id":"1.149912144","rc":[{"ltp":1.09,"id":2609424},{"ltp":12.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714952566","pt":1540133521368,"mc":[{"id":"1.149912144","rc":[{"ltp":1.19,"id":2609424},{"ltp":6.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714972307","pt":1540133581830,"mc":[{"id":"1.149912144","rc":[{"ltp":1.13,"id":2609424}]}]}
+{"op":"mcm","clk":"7714980736","pt":1540133641986,"mc":[{"id":"1.149912144","rc":[{"ltp":1.07,"id":2609424},{"ltp":13.5,"id":7797771}]}]}
+{"op":"mcm","clk":"7714988624","pt":1540133701222,"mc":[{"id":"1.149912144","rc":[{"ltp":1.05,"id":2609424},{"ltp":21.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7714996594","pt":1540133761231,"mc":[{"id":"1.149912144","rc":[{"ltp":1.06,"id":2609424}]}]}
+{"op":"mcm","clk":"7715004680","pt":1540133821629,"mc":[{"id":"1.149912144","rc":[{"ltp":1.05,"id":2609424},{"ltp":17.5,"id":7797771}]}]}
+{"op":"mcm","clk":"7715012637","pt":1540133880528,"mc":[{"id":"1.149912144","rc":[{"ltp":1.06,"id":2609424}]}]}
+{"op":"mcm","clk":"7715020856","pt":1540133940315,"mc":[{"id":"1.149912144","rc":[{"ltp":1.04,"id":2609424},{"ltp":15.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7715039219","pt":1540134061656,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:36:00.000Z","suspendTime":"2018-10-21T13:36:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"ACTIVE","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:36:00.000Z","version":2468571149,"name":"Match Odds","eventName":"Kukushkin v Rublev"},"rc":[{"ltp":1.02,"id":2609424},{"ltp":26.0,"id":7797771}]}]}
+{"op":"mcm","clk":"7715046145","pt":1540134105940,"mc":[{"id":"1.149912144","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966966","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T13:36:00.000Z","suspendTime":"2018-10-21T13:36:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-21T15:01:38.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2609424,"name":"Mikhail Kukushkin"},{"status":"LOSER","sortPriority":2,"id":7797771,"name":"Andrey Rublev"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T13:36:00.000Z","version":2468578324,"name":"Match Odds","eventName":"Kukushkin v Rublev"}}]}

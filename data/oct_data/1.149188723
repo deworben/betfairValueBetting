@@ -1,0 +1,56 @@
+{"op":"mcm","clk":"7640882333","pt":1538838355397,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"ACTIVE","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:00:00.000Z","version":2440866946,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}
+{"op":"mcm","clk":"7640906436","pt":1538838462381,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"ACTIVE","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:00:00.000Z","version":2440866946,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}
+{"op":"mcm","clk":"7642846357","pt":1538847326754,"mc":[{"id":"1.149188723","rc":[{"ltp":1.45,"id":9627732}]}]}
+{"op":"mcm","clk":"7643043005","pt":1538848360410,"mc":[{"id":"1.149188723","rc":[{"ltp":1.44,"id":9627732}]}]}
+{"op":"mcm","clk":"7643087263","pt":1538848624027,"mc":[{"id":"1.149188723","rc":[{"ltp":1.51,"id":9627732},{"ltp":2.96,"id":9634506}]}]}
+{"op":"mcm","clk":"7643121367","pt":1538848761338,"mc":[{"id":"1.149188723","rc":[{"ltp":1.45,"id":9627732}]}]}
+{"op":"mcm","clk":"7643142528","pt":1538848896835,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"ACTIVE","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:00:00.000Z","version":2441805667,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}
+{"op":"mcm","clk":"7643151449","pt":1538848947529,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"ACTIVE","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:00:00.000Z","version":2441809510,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}
+{"op":"mcm","clk":"7643175518","pt":1538849081373,"mc":[{"id":"1.149188723","rc":[{"ltp":1.44,"id":9627732}]}]}
+{"op":"mcm","clk":"7643209752","pt":1538849273859,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"ACTIVE","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:07:02.000Z","version":2441832712,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}
+{"op":"mcm","clk":"7643246313","pt":1538849456168,"mc":[{"id":"1.149188723","rc":[{"ltp":1.33,"id":9627732}]}]}
+{"op":"mcm","clk":"7643258149","pt":1538849515266,"mc":[{"id":"1.149188723","rc":[{"ltp":1.31,"id":9627732}]}]}
+{"op":"mcm","clk":"7643282716","pt":1538849574111,"mc":[{"id":"1.149188723","rc":[{"ltp":1.36,"id":9627732},{"ltp":3.8,"id":9634506}]}]}
+{"op":"mcm","clk":"7643293719","pt":1538849630174,"mc":[{"id":"1.149188723","rc":[{"ltp":1.48,"id":9627732},{"ltp":3.05,"id":9634506}]}]}
+{"op":"mcm","clk":"7643306064","pt":1538849693956,"mc":[{"id":"1.149188723","rc":[{"ltp":1.42,"id":9627732}]}]}
+{"op":"mcm","clk":"7643330118","pt":1538849812195,"mc":[{"id":"1.149188723","rc":[{"ltp":1.3,"id":9627732}]}]}
+{"op":"mcm","clk":"7643353566","pt":1538849935597,"mc":[{"id":"1.149188723","rc":[{"ltp":1.24,"id":9627732},{"ltp":4.4,"id":9634506}]}]}
+{"op":"mcm","clk":"7643373573","pt":1538850052176,"mc":[{"id":"1.149188723","rc":[{"ltp":1.21,"id":9627732}]}]}
+{"op":"mcm","clk":"7643384432","pt":1538850116347,"mc":[{"id":"1.149188723","rc":[{"ltp":1.22,"id":9627732}]}]}
+{"op":"mcm","clk":"7643412285","pt":1538850291980,"mc":[{"id":"1.149188723","rc":[{"ltp":1.15,"id":9627732}]}]}
+{"op":"mcm","clk":"7643421565","pt":1538850350959,"mc":[{"id":"1.149188723","rc":[{"ltp":1.26,"id":9627732}]}]}
+{"op":"mcm","clk":"7643454672","pt":1538850471978,"mc":[{"id":"1.149188723","rc":[{"ltp":1.17,"id":9627732}]}]}
+{"op":"mcm","clk":"7643462592","pt":1538850523628,"mc":[{"id":"1.149188723","rc":[{"ltp":1.15,"id":9627732},{"ltp":7.8,"id":9634506}]}]}
+{"op":"mcm","clk":"7643473848","pt":1538850592529,"mc":[{"id":"1.149188723","rc":[{"ltp":1.16,"id":9627732}]}]}
+{"op":"mcm","clk":"7643506607","pt":1538850773248,"mc":[{"id":"1.149188723","rc":[{"ltp":1.13,"id":9627732}]}]}
+{"op":"mcm","clk":"7643516600","pt":1538850832099,"mc":[{"id":"1.149188723","rc":[{"ltp":1.11,"id":9627732}]}]}
+{"op":"mcm","clk":"7643537476","pt":1538850949840,"mc":[{"id":"1.149188723","rc":[{"ltp":1.12,"id":9627732}]}]}
+{"op":"mcm","clk":"7643548419","pt":1538851013938,"mc":[{"id":"1.149188723","rc":[{"ltp":11.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643559157","pt":1538851074690,"mc":[{"id":"1.149188723","rc":[{"ltp":1.1,"id":9627732}]}]}
+{"op":"mcm","clk":"7643569939","pt":1538851135035,"mc":[{"id":"1.149188723","rc":[{"ltp":1.12,"id":9627732},{"ltp":11.5,"id":9634506}]}]}
+{"op":"mcm","clk":"7643580003","pt":1538851195189,"mc":[{"id":"1.149188723","rc":[{"ltp":1.1,"id":9627732}]}]}
+{"op":"mcm","clk":"7643600122","pt":1538851314784,"mc":[{"id":"1.149188723","rc":[{"ltp":1.08,"id":9627732}]}]}
+{"op":"mcm","clk":"7643623739","pt":1538851375510,"mc":[{"id":"1.149188723","rc":[{"ltp":1.09,"id":9627732},{"ltp":12.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643633665","pt":1538851433352,"mc":[{"id":"1.149188723","rc":[{"ltp":1.1,"id":9627732}]}]}
+{"op":"mcm","clk":"7643644182","pt":1538851496341,"mc":[{"id":"1.149188723","rc":[{"ltp":1.13,"id":9627732}]}]}
+{"op":"mcm","clk":"7643653682","pt":1538851552894,"mc":[{"id":"1.149188723","rc":[{"ltp":1.1,"id":9627732},{"ltp":11.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643664130","pt":1538851615178,"mc":[{"id":"1.149188723","rc":[{"ltp":1.09,"id":9627732}]}]}
+{"op":"mcm","clk":"7643674363","pt":1538851675665,"mc":[{"id":"1.149188723","rc":[{"ltp":1.08,"id":9627732},{"ltp":13.5,"id":9634506}]}]}
+{"op":"mcm","clk":"7643684190","pt":1538851734736,"mc":[{"id":"1.149188723","rc":[{"ltp":1.09,"id":9627732}]}]}
+{"op":"mcm","clk":"7643693290","pt":1538851791017,"mc":[{"id":"1.149188723","rc":[{"ltp":1.12,"id":9627732}]}]}
+{"op":"mcm","clk":"7643701803","pt":1538851854034,"mc":[{"id":"1.149188723","rc":[{"ltp":1.07,"id":9627732}]}]}
+{"op":"mcm","clk":"7643708997","pt":1538851911100,"mc":[{"id":"1.149188723","rc":[{"ltp":1.11,"id":9627732}]}]}
+{"op":"mcm","clk":"7643718321","pt":1538851976350,"mc":[{"id":"1.149188723","rc":[{"ltp":1.09,"id":9627732}]}]}
+{"op":"mcm","clk":"7643725708","pt":1538852027085,"mc":[{"id":"1.149188723","rc":[{"ltp":11.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643735806","pt":1538852096254,"mc":[{"id":"1.149188723","rc":[{"ltp":1.07,"id":9627732}]}]}
+{"op":"mcm","clk":"7643751914","pt":1538852215655,"mc":[{"id":"1.149188723","rc":[{"ltp":1.04,"id":9627732}]}]}
+{"op":"mcm","clk":"7643773527","pt":1538852275243,"mc":[{"id":"1.149188723","rc":[{"ltp":1.03,"id":9627732}]}]}
+{"op":"mcm","clk":"7643781823","pt":1538852333826,"mc":[{"id":"1.149188723","rc":[{"ltp":1.02,"id":9627732}]}]}
+{"op":"mcm","clk":"7643798396","pt":1538852448773,"mc":[{"id":"1.149188723","rc":[{"ltp":50.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643808072","pt":1538852515642,"mc":[{"id":"1.149188723","rc":[{"ltp":1.03,"id":9627732}]}]}
+{"op":"mcm","clk":"7643826052","pt":1538852635252,"mc":[{"id":"1.149188723","rc":[{"ltp":1.02,"id":9627732}]}]}
+{"op":"mcm","clk":"7643835529","pt":1538852693206,"mc":[{"id":"1.149188723","rc":[{"ltp":1.01,"id":9627732}]}]}
+{"op":"mcm","clk":"7643843954","pt":1538852741346,"mc":[{"id":"1.149188723","rc":[{"ltp":110.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643930093","pt":1538853172965,"mc":[{"id":"1.149188723","rc":[{"ltp":1.02,"id":9627732}]}]}
+{"op":"mcm","clk":"7643940213","pt":1538853232954,"mc":[{"id":"1.149188723","rc":[{"ltp":290.0,"id":9634506}]}]}
+{"op":"mcm","clk":"7643947656","pt":1538853273289,"mc":[{"id":"1.149188723","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941926","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T18:00:00.000Z","suspendTime":"2018-10-06T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T19:14:30.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9627732,"name":"M Brengle"},{"status":"LOSER","sortPriority":2,"id":9634506,"name":"S Zhuk"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T18:07:02.000Z","version":2442049129,"name":"Match Odds","eventName":"M Brengle v S Zhuk"}}]}

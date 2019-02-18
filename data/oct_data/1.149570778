@@ -1,0 +1,45 @@
+{"op":"mcm","clk":"7702061557","pt":1539486495111,"mc":[{"id":"1.149570778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T12:00:00.000Z","suspendTime":"2018-10-14T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626703,"name":"M Di Giuseppe"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T12:00:00.000Z","version":2454764188,"name":"Match Odds","eventName":"G Ce v M Di Giuseppe"}}]}
+{"op":"mcm","clk":"7702085951","pt":1539486739755,"mc":[{"id":"1.149570778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T12:00:00.000Z","suspendTime":"2018-10-14T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626703,"name":"M Di Giuseppe"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T12:00:00.000Z","version":2454764188,"name":"Match Odds","eventName":"G Ce v M Di Giuseppe"}}]}
+{"op":"mcm","clk":"7702693614","pt":1539496016642,"mc":[{"id":"1.149570778","rc":[{"ltp":1.27,"id":9626703}]}]}
+{"op":"mcm","clk":"7703889360","pt":1539508811897,"mc":[{"id":"1.149570778","rc":[{"ltp":1.28,"id":9626703}]}]}
+{"op":"mcm","clk":"7704690677","pt":1539514778392,"mc":[{"id":"1.149570778","rc":[{"ltp":1.25,"id":9626703}]}]}
+{"op":"mcm","clk":"7705171877","pt":1539518126745,"mc":[{"id":"1.149570778","rc":[{"ltp":4.6,"id":9627493},{"ltp":1.28,"id":9626703}]}]}
+{"op":"mcm","clk":"7705250031","pt":1539518612993,"mc":[{"id":"1.149570778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T12:00:00.000Z","suspendTime":"2018-10-14T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626703,"name":"M Di Giuseppe"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T12:00:00.000Z","version":2455322071,"name":"Match Odds","eventName":"G Ce v M Di Giuseppe"}}]}
+{"op":"mcm","clk":"7705305168","pt":1539518977260,"mc":[{"id":"1.149570778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T12:00:00.000Z","suspendTime":"2018-10-14T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626703,"name":"M Di Giuseppe"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T12:09:19.000Z","version":2455330097,"name":"Match Odds","eventName":"G Ce v M Di Giuseppe"}}]}
+{"op":"mcm","clk":"7705313895","pt":1539519033895,"mc":[{"id":"1.149570778","rc":[{"ltp":4.3,"id":9627493},{"ltp":1.31,"id":9626703}]}]}
+{"op":"mcm","clk":"7705361364","pt":1539519279844,"mc":[{"id":"1.149570778","rc":[{"ltp":1.23,"id":9626703}]}]}
+{"op":"mcm","clk":"7705480710","pt":1539520055562,"mc":[{"id":"1.149570778","rc":[{"ltp":4.0,"id":9627493},{"ltp":1.34,"id":9626703}]}]}
+{"op":"mcm","clk":"7705495681","pt":1539520158690,"mc":[{"id":"1.149570778","rc":[{"ltp":1.27,"id":9626703}]}]}
+{"op":"mcm","clk":"7705539989","pt":1539520477081,"mc":[{"id":"1.149570778","rc":[{"ltp":1.41,"id":9626703}]}]}
+{"op":"mcm","clk":"7705548674","pt":1539520537262,"mc":[{"id":"1.149570778","rc":[{"ltp":1.34,"id":9626703}]}]}
+{"op":"mcm","clk":"7705630074","pt":1539521071784,"mc":[{"id":"1.149570778","rc":[{"ltp":1.31,"id":9626703}]}]}
+{"op":"mcm","clk":"7705713982","pt":1539521679822,"mc":[{"id":"1.149570778","rc":[{"ltp":1.19,"id":9626703}]}]}
+{"op":"mcm","clk":"7705721758","pt":1539521737754,"mc":[{"id":"1.149570778","rc":[{"ltp":1.22,"id":9626703}]}]}
+{"op":"mcm","clk":"7705787796","pt":1539522128344,"mc":[{"id":"1.149570778","rc":[{"ltp":1.12,"id":9626703}]}]}
+{"op":"mcm","clk":"7705806555","pt":1539522246857,"mc":[{"id":"1.149570778","rc":[{"ltp":1.14,"id":9626703}]}]}
+{"op":"mcm","clk":"7705843060","pt":1539522459539,"mc":[{"id":"1.149570778","rc":[{"ltp":6.8,"id":9627493},{"ltp":1.17,"id":9626703}]}]}
+{"op":"mcm","clk":"7705909094","pt":1539522759913,"mc":[{"id":"1.149570778","rc":[{"ltp":1.25,"id":9626703}]}]}
+{"op":"mcm","clk":"7705931214","pt":1539522878724,"mc":[{"id":"1.149570778","rc":[{"ltp":1.23,"id":9626703}]}]}
+{"op":"mcm","clk":"7705941870","pt":1539522936477,"mc":[{"id":"1.149570778","rc":[{"ltp":1.3,"id":9626703}]}]}
+{"op":"mcm","clk":"7705963952","pt":1539523056002,"mc":[{"id":"1.149570778","rc":[{"ltp":1.37,"id":9626703}]}]}
+{"op":"mcm","clk":"7705974764","pt":1539523116472,"mc":[{"id":"1.149570778","rc":[{"ltp":1.3,"id":9626703}]}]}
+{"op":"mcm","clk":"7705982681","pt":1539523160483,"mc":[{"id":"1.149570778","rc":[{"ltp":1.26,"id":9626703}]}]}
+{"op":"mcm","clk":"7706006638","pt":1539523298154,"mc":[{"id":"1.149570778","rc":[{"ltp":1.3,"id":9626703}]}]}
+{"op":"mcm","clk":"7706015533","pt":1539523345829,"mc":[{"id":"1.149570778","rc":[{"ltp":1.26,"id":9626703}]}]}
+{"op":"mcm","clk":"7706028513","pt":1539523415776,"mc":[{"id":"1.149570778","rc":[{"ltp":5.6,"id":9627493},{"ltp":1.22,"id":9626703}]}]}
+{"op":"mcm","clk":"7706039888","pt":1539523475256,"mc":[{"id":"1.149570778","rc":[{"ltp":1.2,"id":9626703}]}]}
+{"op":"mcm","clk":"7706107648","pt":1539523836131,"mc":[{"id":"1.149570778","rc":[{"ltp":1.24,"id":9626703}]}]}
+{"op":"mcm","clk":"7706127150","pt":1539523959932,"mc":[{"id":"1.149570778","rc":[{"ltp":6.4,"id":9627493},{"ltp":1.18,"id":9626703}]}]}
+{"op":"mcm","clk":"7706146831","pt":1539524080037,"mc":[{"id":"1.149570778","rc":[{"ltp":6.2,"id":9627493},{"ltp":1.13,"id":9626703}]}]}
+{"op":"mcm","clk":"7706156775","pt":1539524138920,"mc":[{"id":"1.149570778","rc":[{"ltp":1.14,"id":9626703}]}]}
+{"op":"mcm","clk":"7706166526","pt":1539524199294,"mc":[{"id":"1.149570778","rc":[{"ltp":1.18,"id":9626703}]}]}
+{"op":"mcm","clk":"7706175845","pt":1539524259077,"mc":[{"id":"1.149570778","rc":[{"ltp":8.6,"id":9627493},{"ltp":1.14,"id":9626703}]}]}
+{"op":"mcm","clk":"7706185525","pt":1539524319262,"mc":[{"id":"1.149570778","rc":[{"ltp":12.0,"id":9627493},{"ltp":1.08,"id":9626703}]}]}
+{"op":"mcm","clk":"7706215632","pt":1539524499835,"mc":[{"id":"1.149570778","rc":[{"ltp":1.09,"id":9626703}]}]}
+{"op":"mcm","clk":"7706235076","pt":1539524558600,"mc":[{"id":"1.149570778","rc":[{"ltp":1.05,"id":9626703}]}]}
+{"op":"mcm","clk":"7706241443","pt":1539524594555,"mc":[{"id":"1.149570778","rc":[{"ltp":1.06,"id":9626703}]}]}
+{"op":"mcm","clk":"7706273866","pt":1539524794463,"mc":[{"id":"1.149570778","rc":[{"ltp":1.09,"id":9626703}]}]}
+{"op":"mcm","clk":"7706282472","pt":1539524850325,"mc":[{"id":"1.149570778","rc":[{"ltp":1.05,"id":9626703}]}]}
+{"op":"mcm","clk":"7706292330","pt":1539524919038,"mc":[{"id":"1.149570778","rc":[{"ltp":1.02,"id":9626703}]}]}
+{"op":"mcm","clk":"7706300522","pt":1539524977553,"mc":[{"id":"1.149570778","rc":[{"ltp":1.01,"id":9626703}]}]}
+{"op":"mcm","clk":"7706322069","pt":1539525127727,"mc":[{"id":"1.149570778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956356","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T12:00:00.000Z","suspendTime":"2018-10-14T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T13:52:03.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"WINNER","sortPriority":2,"id":9626703,"name":"M Di Giuseppe"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-14T12:09:19.000Z","version":2455556504,"name":"Match Odds","eventName":"G Ce v M Di Giuseppe"}}]}

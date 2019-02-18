@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7720171916","pt":1539501603302,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:00:00.000Z","suspendTime":"2018-10-15T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:00:00.000Z","version":2454909067,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"}}]}
+{"op":"mcm","clk":"7720180902","pt":1539501803149,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:00:00.000Z","suspendTime":"2018-10-15T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:00:00.000Z","version":2454909067,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"}}]}
+{"op":"mcm","clk":"7720375780","pt":1539505776093,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:30:00.000Z","suspendTime":"2018-10-15T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:30:00.000Z","version":2454948625,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"}}]}
+{"op":"mcm","clk":"7725139710","pt":1539549755177,"mc":[{"id":"1.149580368","rc":[{"ltp":2.3,"id":9631478},{"ltp":1.75,"id":10500847}]}]}
+{"op":"mcm","clk":"7725510580","pt":1539556998776,"mc":[{"id":"1.149580368","rc":[{"ltp":2.32,"id":9631478},{"ltp":1.74,"id":10500847}]}]}
+{"op":"mcm","clk":"7725753181","pt":1539562996399,"mc":[{"id":"1.149580368","rc":[{"ltp":1.73,"id":10500847}]}]}
+{"op":"mcm","clk":"7725904021","pt":1539567314771,"mc":[{"id":"1.149580368","rc":[{"ltp":2.08,"id":9631478},{"ltp":1.92,"id":10500847}]}]}
+{"op":"mcm","clk":"7725963716","pt":1539569117807,"mc":[{"id":"1.149580368","rc":[{"ltp":1.76,"id":10500847}]}]}
+{"op":"mcm","clk":"7725982672","pt":1539569773099,"mc":[{"id":"1.149580368","rc":[{"ltp":2.06,"id":9631478},{"ltp":1.94,"id":10500847}]}]}
+{"op":"mcm","clk":"7725998135","pt":1539570040259,"mc":[{"id":"1.149580368","rc":[{"ltp":1.78,"id":10500847}]}]}
+{"op":"mcm","clk":"7726006848","pt":1539570319923,"mc":[{"id":"1.149580368","rc":[{"ltp":2.08,"id":9631478},{"ltp":1.73,"id":10500847}]}]}
+{"op":"mcm","clk":"7726011639","pt":1539570493669,"mc":[{"id":"1.149580368","rc":[{"ltp":2.16,"id":9631478},{"ltp":1.87,"id":10500847}]}]}
+{"op":"mcm","clk":"7726013089","pt":1539570554501,"mc":[{"id":"1.149580368","rc":[{"ltp":2.14,"id":9631478},{"ltp":1.88,"id":10500847}]}]}
+{"op":"mcm","clk":"7726013788","pt":1539570578627,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:26:00.000Z","suspendTime":"2018-10-15T02:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:26:00.000Z","version":2456864825,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"}}]}
+{"op":"mcm","clk":"7726025308","pt":1539570729797,"mc":[{"id":"1.149580368","rc":[{"ltp":1.81,"id":10500847}]}]}
+{"op":"mcm","clk":"7726029262","pt":1539570855646,"mc":[{"id":"1.149580368","rc":[{"ltp":1.79,"id":10500847}]}]}
+{"op":"mcm","clk":"7726037309","pt":1539571160443,"mc":[{"id":"1.149580368","rc":[{"ltp":1.78,"id":10500847}]}]}
+{"op":"mcm","clk":"7726038114","pt":1539571186172,"mc":[{"id":"1.149580368","rc":[{"ltp":1.75,"id":10500847}]}]}
+{"op":"mcm","clk":"7726040783","pt":1539571278687,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:26:00.000Z","suspendTime":"2018-10-15T02:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:26:00.000Z","version":2456868059,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"},"rc":[{"ltp":2.32,"id":9631478},{"ltp":1.71,"id":10500847}]}]}
+{"op":"mcm","clk":"7726042377","pt":1539571340450,"mc":[{"id":"1.149580368","rc":[{"ltp":1.72,"id":10500847}]}]}
+{"op":"mcm","clk":"7726043793","pt":1539571391904,"mc":[{"id":"1.149580368","rc":[{"ltp":2.08,"id":9631478},{"ltp":1.75,"id":10500847}]}]}
+{"op":"mcm","clk":"7726045324","pt":1539571460376,"mc":[{"id":"1.149580368","rc":[{"ltp":1.98,"id":9631478},{"ltp":1.92,"id":10500847}]}]}
+{"op":"mcm","clk":"7726046219","pt":1539571502801,"mc":[{"id":"1.149580368","rc":[{"ltp":1.94,"id":10500847}]}]}
+{"op":"mcm","clk":"7726047438","pt":1539571558334,"mc":[{"id":"1.149580368","rc":[{"ltp":2.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726060247","pt":1539571755658,"mc":[{"id":"1.149580368","rc":[{"ltp":2.08,"id":9631478}]}]}
+{"op":"mcm","clk":"7726061691","pt":1539571816236,"mc":[{"id":"1.149580368","rc":[{"ltp":2.04,"id":9631478},{"ltp":1.96,"id":10500847}]}]}
+{"op":"mcm","clk":"7726062473","pt":1539571857275,"mc":[{"id":"1.149580368","rc":[{"ltp":2.02,"id":9631478}]}]}
+{"op":"mcm","clk":"7726063835","pt":1539571938636,"mc":[{"id":"1.149580368","rc":[{"ltp":2.1,"id":9631478},{"ltp":1.92,"id":10500847}]}]}
+{"op":"mcm","clk":"7726065130","pt":1539571999106,"mc":[{"id":"1.149580368","rc":[{"ltp":2.02,"id":10500847}]}]}
+{"op":"mcm","clk":"7726066122","pt":1539572056637,"mc":[{"id":"1.149580368","rc":[{"ltp":1.9,"id":9631478},{"ltp":2.24,"id":10500847}]}]}
+{"op":"mcm","clk":"7726067195","pt":1539572118131,"mc":[{"id":"1.149580368","rc":[{"ltp":2.2,"id":9631478},{"ltp":1.82,"id":10500847}]}]}
+{"op":"mcm","clk":"7726069778","pt":1539572239741,"mc":[{"id":"1.149580368","rc":[{"ltp":2.1,"id":9631478},{"ltp":1.91,"id":10500847}]}]}
+{"op":"mcm","clk":"7726071140","pt":1539572300180,"mc":[{"id":"1.149580368","rc":[{"ltp":1.94,"id":9631478},{"ltp":2.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726072796","pt":1539572358555,"mc":[{"id":"1.149580368","rc":[{"ltp":1.9,"id":9631478}]}]}
+{"op":"mcm","clk":"7726073787","pt":1539572403981,"mc":[{"id":"1.149580368","rc":[{"ltp":1.86,"id":9631478},{"ltp":2.16,"id":10500847}]}]}
+{"op":"mcm","clk":"7726075319","pt":1539572477371,"mc":[{"id":"1.149580368","rc":[{"ltp":1.83,"id":9631478}]}]}
+{"op":"mcm","clk":"7726084265","pt":1539572533142,"mc":[{"id":"1.149580368","rc":[{"ltp":1.91,"id":9631478},{"ltp":2.12,"id":10500847}]}]}
+{"op":"mcm","clk":"7726087336","pt":1539572656955,"mc":[{"id":"1.149580368","rc":[{"ltp":1.75,"id":9631478},{"ltp":2.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726088919","pt":1539572720333,"mc":[{"id":"1.149580368","rc":[{"ltp":1.82,"id":9631478},{"ltp":1.86,"id":10500847}]}]}
+{"op":"mcm","clk":"7726090715","pt":1539572776995,"mc":[{"id":"1.149580368","rc":[{"ltp":1.84,"id":9631478},{"ltp":2.2,"id":10500847}]}]}
+{"op":"mcm","clk":"7726092758","pt":1539572840353,"mc":[{"id":"1.149580368","rc":[{"ltp":1.92,"id":9631478},{"ltp":2.12,"id":10500847}]}]}
+{"op":"mcm","clk":"7726094913","pt":1539572899296,"mc":[{"id":"1.149580368","rc":[{"ltp":2.2,"id":10500847}]}]}
+{"op":"mcm","clk":"7726097049","pt":1539572953463,"mc":[{"id":"1.149580368","rc":[{"ltp":1.8,"id":9631478},{"ltp":2.32,"id":10500847}]}]}
+{"op":"mcm","clk":"7726101849","pt":1539573079628,"mc":[{"id":"1.149580368","rc":[{"ltp":1.78,"id":9631478},{"ltp":2.16,"id":10500847}]}]}
+{"op":"mcm","clk":"7726103972","pt":1539573140478,"mc":[{"id":"1.149580368","rc":[{"ltp":1.6,"id":9631478},{"ltp":3.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726106000","pt":1539573200035,"mc":[{"id":"1.149580368","rc":[{"ltp":4.3,"id":10500847}]}]}
+{"op":"mcm","clk":"7726107697","pt":1539573257310,"mc":[{"id":"1.149580368","rc":[{"ltp":3.6,"id":10500847}]}]}
+{"op":"mcm","clk":"7726109165","pt":1539573319493,"mc":[{"id":"1.149580368","rc":[{"ltp":1.52,"id":9631478}]}]}
+{"op":"mcm","clk":"7726110685","pt":1539573380223,"mc":[{"id":"1.149580368","rc":[{"ltp":1.54,"id":9631478},{"ltp":2.86,"id":10500847}]}]}
+{"op":"mcm","clk":"7726120020","pt":1539573438597,"mc":[{"id":"1.149580368","rc":[{"ltp":1.32,"id":9631478}]}]}
+{"op":"mcm","clk":"7726121452","pt":1539573495791,"mc":[{"id":"1.149580368","rc":[{"ltp":1.3,"id":9631478},{"ltp":4.4,"id":10500847}]}]}
+{"op":"mcm","clk":"7726126205","pt":1539573680391,"mc":[{"id":"1.149580368","rc":[{"ltp":1.33,"id":9631478}]}]}
+{"op":"mcm","clk":"7726128031","pt":1539573734793,"mc":[{"id":"1.149580368","rc":[{"ltp":1.37,"id":9631478},{"ltp":3.75,"id":10500847}]}]}
+{"op":"mcm","clk":"7726132012","pt":1539573859695,"mc":[{"id":"1.149580368","rc":[{"ltp":3.6,"id":10500847}]}]}
+{"op":"mcm","clk":"7726135440","pt":1539573980017,"mc":[{"id":"1.149580368","rc":[{"ltp":1.5,"id":9631478},{"ltp":3.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726136666","pt":1539574038309,"mc":[{"id":"1.149580368","rc":[{"ltp":4.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726138292","pt":1539574100004,"mc":[{"id":"1.149580368","rc":[{"ltp":1.22,"id":9631478},{"ltp":5.6,"id":10500847}]}]}
+{"op":"mcm","clk":"7726139529","pt":1539574159671,"mc":[{"id":"1.149580368","rc":[{"ltp":1.17,"id":9631478}]}]}
+{"op":"mcm","clk":"7726140731","pt":1539574216934,"mc":[{"id":"1.149580368","rc":[{"ltp":1.14,"id":9631478},{"ltp":8.2,"id":10500847}]}]}
+{"op":"mcm","clk":"7726141916","pt":1539574279894,"mc":[{"id":"1.149580368","rc":[{"ltp":8.6,"id":10500847}]}]}
+{"op":"mcm","clk":"7726150774","pt":1539574337266,"mc":[{"id":"1.149580368","rc":[{"ltp":1.16,"id":9631478},{"ltp":7.2,"id":10500847}]}]}
+{"op":"mcm","clk":"7726153856","pt":1539574459499,"mc":[{"id":"1.149580368","rc":[{"ltp":1.1,"id":9631478}]}]}
+{"op":"mcm","clk":"7726155228","pt":1539574518246,"mc":[{"id":"1.149580368","rc":[{"ltp":1.14,"id":9631478},{"ltp":8.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726156790","pt":1539574580299,"mc":[{"id":"1.149580368","rc":[{"ltp":1.09,"id":9631478}]}]}
+{"op":"mcm","clk":"7726158676","pt":1539574640185,"mc":[{"id":"1.149580368","rc":[{"ltp":1.1,"id":9631478}]}]}
+{"op":"mcm","clk":"7726160228","pt":1539574700424,"mc":[{"id":"1.149580368","rc":[{"ltp":1.05,"id":9631478},{"ltp":26.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726162473","pt":1539574801651,"mc":[{"id":"1.149580368","rc":[{"ltp":1.02,"id":9631478}]}]}
+{"op":"mcm","clk":"7726164252","pt":1539574877302,"mc":[{"id":"1.149580368","rc":[{"ltp":50.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726167280","pt":1539574994306,"mc":[{"id":"1.149580368","rc":[{"ltp":1.01,"id":9631478}]}]}
+{"op":"mcm","clk":"7726173065","pt":1539575171519,"mc":[{"id":"1.149580368","rc":[{"ltp":110.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726186109","pt":1539575357574,"mc":[{"id":"1.149580368","rc":[{"ltp":100.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726187975","pt":1539575420448,"mc":[{"id":"1.149580368","rc":[{"ltp":26.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726189704","pt":1539575479378,"mc":[{"id":"1.149580368","rc":[{"ltp":1.06,"id":9631478},{"ltp":21.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726191499","pt":1539575540143,"mc":[{"id":"1.149580368","rc":[{"ltp":1.07,"id":9631478},{"ltp":15.5,"id":10500847}]}]}
+{"op":"mcm","clk":"7726194805","pt":1539575657747,"mc":[{"id":"1.149580368","rc":[{"ltp":1.02,"id":9631478}]}]}
+{"op":"mcm","clk":"7726196074","pt":1539575709425,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:26:00.000Z","suspendTime":"2018-10-15T02:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"ACTIVE","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:26:00.000Z","version":2456884156,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"},"rc":[{"ltp":110.0,"id":10500847}]}]}
+{"op":"mcm","clk":"7726196804","pt":1539575746514,"mc":[{"id":"1.149580368","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956594","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T02:26:00.000Z","suspendTime":"2018-10-15T02:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-15T03:55:40.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":10500847,"name":"Yuta Shimizu"},{"status":"WINNER","sortPriority":2,"id":9631478,"name":"Viktor Durasovic"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T02:26:00.000Z","version":2456884317,"name":"Match Odds","eventName":"Yu Shimizu v Durasovic"}}]}

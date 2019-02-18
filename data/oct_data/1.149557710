@@ -1,0 +1,65 @@
+{"op":"mcm","clk":"7716049501","pt":1539453013127,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T16:00:00.000Z","suspendTime":"2018-10-14T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"ACTIVE","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T16:00:00.000Z","version":2453766574,"name":"Match Odds","eventName":"Lokoli v A Gomez"}}]}
+{"op":"mcm","clk":"7716365529","pt":1539455462110,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T16:00:00.000Z","suspendTime":"2018-10-14T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"ACTIVE","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T16:00:00.000Z","version":2453766574,"name":"Match Odds","eventName":"Lokoli v A Gomez"}}]}
+{"op":"mcm","clk":"7721637515","pt":1539518573347,"mc":[{"id":"1.149557710","rc":[{"ltp":2.42,"id":8714009}]}]}
+{"op":"mcm","clk":"7723042911","pt":1539529896470,"mc":[{"id":"1.149557710","rc":[{"ltp":1.62,"id":8257788}]}]}
+{"op":"mcm","clk":"7723274546","pt":1539531996178,"mc":[{"id":"1.149557710","rc":[{"ltp":1.57,"id":8257788}]}]}
+{"op":"mcm","clk":"7723344543","pt":1539532576818,"mc":[{"id":"1.149557710","rc":[{"ltp":2.38,"id":8714009},{"ltp":1.73,"id":8257788}]}]}
+{"op":"mcm","clk":"7723361913","pt":1539532763304,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:56:00.000Z","suspendTime":"2018-10-14T15:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"ACTIVE","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:56:00.000Z","version":2455922322,"name":"Match Odds","eventName":"Lokoli v A Gomez"}}]}
+{"op":"mcm","clk":"7723462494","pt":1539533488135,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:56:00.000Z","suspendTime":"2018-10-14T15:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"ACTIVE","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:56:00.000Z","version":2455981953,"name":"Match Odds","eventName":"Lokoli v A Gomez"},"rc":[{"ltp":2.84,"id":8714009},{"ltp":1.66,"id":8257788}]}]}
+{"op":"mcm","clk":"7723570445","pt":1539534333051,"mc":[{"id":"1.149557710","rc":[{"ltp":3.35,"id":8714009},{"ltp":1.43,"id":8257788}]}]}
+{"op":"mcm","clk":"7723597238","pt":1539534573708,"mc":[{"id":"1.149557710","rc":[{"ltp":2.98,"id":8714009},{"ltp":1.51,"id":8257788}]}]}
+{"op":"mcm","clk":"7723609130","pt":1539534685836,"mc":[{"id":"1.149557710","rc":[{"ltp":2.9,"id":8714009},{"ltp":1.53,"id":8257788}]}]}
+{"op":"mcm","clk":"7723622859","pt":1539534746942,"mc":[{"id":"1.149557710","rc":[{"ltp":2.88,"id":8714009},{"ltp":1.54,"id":8257788}]}]}
+{"op":"mcm","clk":"7723636591","pt":1539534873227,"mc":[{"id":"1.149557710","rc":[{"ltp":1.48,"id":8257788}]}]}
+{"op":"mcm","clk":"7723642880","pt":1539534934328,"mc":[{"id":"1.149557710","rc":[{"ltp":3.2,"id":8714009}]}]}
+{"op":"mcm","clk":"7723653954","pt":1539535041428,"mc":[{"id":"1.149557710","rc":[{"ltp":3.3,"id":8714009},{"ltp":1.44,"id":8257788}]}]}
+{"op":"mcm","clk":"7723667015","pt":1539535174525,"mc":[{"id":"1.149557710","rc":[{"ltp":1.18,"id":8257788}]}]}
+{"op":"mcm","clk":"7723672687","pt":1539535234798,"mc":[{"id":"1.149557710","rc":[{"ltp":5.7,"id":8714009},{"ltp":1.21,"id":8257788}]}]}
+{"op":"mcm","clk":"7723678762","pt":1539535296087,"mc":[{"id":"1.149557710","rc":[{"ltp":1.16,"id":8257788}]}]}
+{"op":"mcm","clk":"7723685447","pt":1539535356648,"mc":[{"id":"1.149557710","rc":[{"ltp":8.2,"id":8714009},{"ltp":1.14,"id":8257788}]}]}
+{"op":"mcm","clk":"7723691599","pt":1539535412463,"mc":[{"id":"1.149557710","rc":[{"ltp":7.6,"id":8714009},{"ltp":1.15,"id":8257788}]}]}
+{"op":"mcm","clk":"7723721990","pt":1539535654774,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009},{"ltp":1.17,"id":8257788}]}]}
+{"op":"mcm","clk":"7723735853","pt":1539535823163,"mc":[{"id":"1.149557710","rc":[{"ltp":2.96,"id":8714009},{"ltp":1.51,"id":8257788}]}]}
+{"op":"mcm","clk":"7723740692","pt":1539535891445,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009}]}]}
+{"op":"mcm","clk":"7723753924","pt":1539536063611,"mc":[{"id":"1.149557710","rc":[{"ltp":6.4,"id":8714009},{"ltp":1.19,"id":8257788}]}]}
+{"op":"mcm","clk":"7723759775","pt":1539536134950,"mc":[{"id":"1.149557710","rc":[{"ltp":5.7,"id":8714009},{"ltp":1.22,"id":8257788}]}]}
+{"op":"mcm","clk":"7723764176","pt":1539536188258,"mc":[{"id":"1.149557710","rc":[{"ltp":6.4,"id":8714009},{"ltp":1.18,"id":8257788}]}]}
+{"op":"mcm","clk":"7723769556","pt":1539536256303,"mc":[{"id":"1.149557710","rc":[{"ltp":6.2,"id":8714009},{"ltp":1.17,"id":8257788}]}]}
+{"op":"mcm","clk":"7723774537","pt":1539536314110,"mc":[{"id":"1.149557710","rc":[{"ltp":7.6,"id":8714009},{"ltp":1.15,"id":8257788}]}]}
+{"op":"mcm","clk":"7723778658","pt":1539536359915,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009},{"ltp":1.17,"id":8257788}]}]}
+{"op":"mcm","clk":"7723785244","pt":1539536431937,"mc":[{"id":"1.149557710","rc":[{"ltp":8.0,"id":8714009},{"ltp":1.11,"id":8257788}]}]}
+{"op":"mcm","clk":"7723790419","pt":1539536489796,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009}]}]}
+{"op":"mcm","clk":"7723803994","pt":1539536553517,"mc":[{"id":"1.149557710","rc":[{"ltp":1.17,"id":8257788}]}]}
+{"op":"mcm","clk":"7723806261","pt":1539536577621,"mc":[{"id":"1.149557710","rc":[{"ltp":6.4,"id":8714009}]}]}
+{"op":"mcm","clk":"7723816091","pt":1539536672059,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009}]}]}
+{"op":"mcm","clk":"7723822841","pt":1539536735632,"mc":[{"id":"1.149557710","rc":[{"ltp":1.16,"id":8257788}]}]}
+{"op":"mcm","clk":"7723835431","pt":1539536856098,"mc":[{"id":"1.149557710","rc":[{"ltp":9.4,"id":8714009},{"ltp":1.11,"id":8257788}]}]}
+{"op":"mcm","clk":"7723842085","pt":1539536916467,"mc":[{"id":"1.149557710","rc":[{"ltp":9.2,"id":8714009},{"ltp":1.12,"id":8257788}]}]}
+{"op":"mcm","clk":"7723848583","pt":1539536976636,"mc":[{"id":"1.149557710","rc":[{"ltp":6.8,"id":8714009},{"ltp":1.13,"id":8257788}]}]}
+{"op":"mcm","clk":"7723852251","pt":1539537013388,"mc":[{"id":"1.149557710","rc":[{"ltp":7.2,"id":8714009},{"ltp":1.35,"id":8257788}]}]}
+{"op":"mcm","clk":"7723861228","pt":1539537095329,"mc":[{"id":"1.149557710","rc":[{"ltp":1.16,"id":8257788}]}]}
+{"op":"mcm","clk":"7723867831","pt":1539537156146,"mc":[{"id":"1.149557710","rc":[{"ltp":34.0,"id":8714009},{"ltp":1.03,"id":8257788}]}]}
+{"op":"mcm","clk":"7723874950","pt":1539537216234,"mc":[{"id":"1.149557710","rc":[{"ltp":21.0,"id":8714009},{"ltp":1.04,"id":8257788}]}]}
+{"op":"mcm","clk":"7723882003","pt":1539537275761,"mc":[{"id":"1.149557710","rc":[{"ltp":1.05,"id":8257788}]}]}
+{"op":"mcm","clk":"7723889174","pt":1539537336515,"mc":[{"id":"1.149557710","rc":[{"ltp":26.0,"id":8714009},{"ltp":1.04,"id":8257788}]}]}
+{"op":"mcm","clk":"7723896072","pt":1539537396588,"mc":[{"id":"1.149557710","rc":[{"ltp":1.03,"id":8257788}]}]}
+{"op":"mcm","clk":"7723910384","pt":1539537454681,"mc":[{"id":"1.149557710","rc":[{"ltp":1.04,"id":8257788}]}]}
+{"op":"mcm","clk":"7723924696","pt":1539537576549,"mc":[{"id":"1.149557710","rc":[{"ltp":21.0,"id":8714009},{"ltp":1.05,"id":8257788}]}]}
+{"op":"mcm","clk":"7723937452","pt":1539537693116,"mc":[{"id":"1.149557710","rc":[{"ltp":26.0,"id":8714009}]}]}
+{"op":"mcm","clk":"7723944529","pt":1539537755996,"mc":[{"id":"1.149557710","rc":[{"ltp":7.6,"id":8714009},{"ltp":1.15,"id":8257788}]}]}
+{"op":"mcm","clk":"7723951093","pt":1539537816361,"mc":[{"id":"1.149557710","rc":[{"ltp":5.3,"id":8714009},{"ltp":1.24,"id":8257788}]}]}
+{"op":"mcm","clk":"7723957344","pt":1539537874854,"mc":[{"id":"1.149557710","rc":[{"ltp":3.25,"id":8714009},{"ltp":1.44,"id":8257788}]}]}
+{"op":"mcm","clk":"7723963606","pt":1539537934431,"mc":[{"id":"1.149557710","rc":[{"ltp":4.2,"id":8714009},{"ltp":1.31,"id":8257788}]}]}
+{"op":"mcm","clk":"7723969898","pt":1539537996520,"mc":[{"id":"1.149557710","rc":[{"ltp":4.6,"id":8714009},{"ltp":1.28,"id":8257788}]}]}
+{"op":"mcm","clk":"7723975445","pt":1539538053556,"mc":[{"id":"1.149557710","rc":[{"ltp":4.3,"id":8714009},{"ltp":1.3,"id":8257788}]}]}
+{"op":"mcm","clk":"7723980989","pt":1539538116382,"mc":[{"id":"1.149557710","rc":[{"ltp":4.4,"id":8714009}]}]}
+{"op":"mcm","clk":"7723986730","pt":1539538176042,"mc":[{"id":"1.149557710","rc":[{"ltp":5.5,"id":8714009},{"ltp":1.21,"id":8257788}]}]}
+{"op":"mcm","clk":"7723992217","pt":1539538230980,"mc":[{"id":"1.149557710","rc":[{"ltp":6.4,"id":8714009},{"ltp":1.19,"id":8257788}]}]}
+{"op":"mcm","clk":"7723998462","pt":1539538295613,"mc":[{"id":"1.149557710","rc":[{"ltp":7.2,"id":8714009},{"ltp":1.1,"id":8257788}]}]}
+{"op":"mcm","clk":"7724012239","pt":1539538352634,"mc":[{"id":"1.149557710","rc":[{"ltp":6.0,"id":8714009},{"ltp":1.2,"id":8257788}]}]}
+{"op":"mcm","clk":"7724018777","pt":1539538416558,"mc":[{"id":"1.149557710","rc":[{"ltp":4.4,"id":8714009},{"ltp":1.29,"id":8257788}]}]}
+{"op":"mcm","clk":"7724024502","pt":1539538476572,"mc":[{"id":"1.149557710","rc":[{"ltp":9.2,"id":8714009},{"ltp":1.11,"id":8257788}]}]}
+{"op":"mcm","clk":"7724030578","pt":1539538535470,"mc":[{"id":"1.149557710","rc":[{"ltp":10.0,"id":8714009}]}]}
+{"op":"mcm","clk":"7724036657","pt":1539538596643,"mc":[{"id":"1.149557710","rc":[{"ltp":21.0,"id":8714009},{"ltp":1.05,"id":8257788}]}]}
+{"op":"mcm","clk":"7724041649","pt":1539538641929,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:56:00.000Z","suspendTime":"2018-10-14T15:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"ACTIVE","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:56:00.000Z","version":2456248539,"name":"Match Odds","eventName":"Lokoli v A Gomez"},"rc":[{"ltp":34.0,"id":8714009},{"ltp":1.03,"id":8257788}]}]}
+{"op":"mcm","clk":"7724045715","pt":1539538679596,"mc":[{"id":"1.149557710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955946","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:56:00.000Z","suspendTime":"2018-10-14T15:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T17:37:54.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8257788,"name":"Laurent Lokoli"},{"status":"LOSER","sortPriority":2,"id":8714009,"name":"Alejandro Gomez"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:56:00.000Z","version":2456249791,"name":"Match Odds","eventName":"Lokoli v A Gomez"}}]}

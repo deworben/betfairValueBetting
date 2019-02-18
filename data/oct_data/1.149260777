@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7660268366","pt":1539001234202,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2446219540,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7660333586","pt":1539001939249,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2446219540,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7663465076","pt":1539041960637,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690},{"ltp":6.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7663631661","pt":1539044392966,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2446941169,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7667323798","pt":1539097235925,"mc":[{"id":"1.149260777","rc":[{"ltp":1.13,"id":7287690}]}]}
+{"op":"mcm","clk":"7670576393","pt":1539147947833,"mc":[{"id":"1.149260777","rc":[{"ltp":7.6,"id":9624573}]}]}
+{"op":"mcm","clk":"7670816743","pt":1539153973015,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690},{"ltp":7.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7670895120","pt":1539156206568,"mc":[{"id":"1.149260777","rc":[{"ltp":1.14,"id":7287690}]}]}
+{"op":"mcm","clk":"7670964526","pt":1539158008636,"mc":[{"id":"1.149260777","rc":[{"ltp":1.16,"id":7287690}]}]}
+{"op":"mcm","clk":"7671002429","pt":1539158976487,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690},{"ltp":6.8,"id":9624573}]}]}
+{"op":"mcm","clk":"7671038136","pt":1539159683371,"mc":[{"id":"1.149260777","rc":[{"ltp":1.13,"id":7287690}]}]}
+{"op":"mcm","clk":"7671078097","pt":1539160813406,"mc":[{"id":"1.149260777","rc":[{"ltp":7.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7671112746","pt":1539161671213,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T08:51:00.000Z","suspendTime":"2018-10-10T08:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T08:51:00.000Z","version":2448265134,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7671114591","pt":1539161717748,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690}]}]}
+{"op":"mcm","clk":"7671142445","pt":1539162311354,"mc":[{"id":"1.149260777","rc":[{"ltp":1.12,"id":7287690}]}]}
+{"op":"mcm","clk":"7671152322","pt":1539162575199,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T08:51:00.000Z","suspendTime":"2018-10-10T08:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T08:51:00.000Z","version":2448282916,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7671170683","pt":1539162816040,"mc":[{"id":"1.149260777","rc":[{"ltp":1.22,"id":7287690},{"ltp":6.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671173797","pt":1539162876653,"mc":[{"id":"1.149260777","rc":[{"ltp":1.21,"id":7287690}]}]}
+{"op":"mcm","clk":"7671176164","pt":1539162930179,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690}]}]}
+{"op":"mcm","clk":"7671179008","pt":1539162994737,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690}]}]}
+{"op":"mcm","clk":"7671184751","pt":1539163116928,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690}]}]}
+{"op":"mcm","clk":"7671187133","pt":1539163176935,"mc":[{"id":"1.149260777","rc":[{"ltp":1.2,"id":7287690},{"ltp":5.8,"id":9624573}]}]}
+{"op":"mcm","clk":"7671189666","pt":1539163236464,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690}]}]}
+{"op":"mcm","clk":"7671191734","pt":1539163285232,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690},{"ltp":6.8,"id":9624573}]}]}
+{"op":"mcm","clk":"7671194551","pt":1539163357594,"mc":[{"id":"1.149260777","rc":[{"ltp":1.2,"id":7287690},{"ltp":6.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671197053","pt":1539163415144,"mc":[{"id":"1.149260777","rc":[{"ltp":1.23,"id":7287690},{"ltp":5.7,"id":9624573}]}]}
+{"op":"mcm","clk":"7671199836","pt":1539163477498,"mc":[{"id":"1.149260777","rc":[{"ltp":1.24,"id":7287690},{"ltp":5.1,"id":9624573}]}]}
+{"op":"mcm","clk":"7671202136","pt":1539163535129,"mc":[{"id":"1.149260777","rc":[{"ltp":1.22,"id":7287690},{"ltp":5.7,"id":9624573}]}]}
+{"op":"mcm","clk":"7671204415","pt":1539163594560,"mc":[{"id":"1.149260777","rc":[{"ltp":1.23,"id":7287690}]}]}
+{"op":"mcm","clk":"7671215227","pt":1539163657348,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690},{"ltp":6.8,"id":9624573}]}]}
+{"op":"mcm","clk":"7671219177","pt":1539163777431,"mc":[{"id":"1.149260777","rc":[{"ltp":1.2,"id":7287690},{"ltp":5.4,"id":9624573}]}]}
+{"op":"mcm","clk":"7671221465","pt":1539163836941,"mc":[{"id":"1.149260777","rc":[{"ltp":1.25,"id":7287690},{"ltp":5.1,"id":9624573}]}]}
+{"op":"mcm","clk":"7671223627","pt":1539163897730,"mc":[{"id":"1.149260777","rc":[{"ltp":1.2,"id":7287690},{"ltp":5.7,"id":9624573}]}]}
+{"op":"mcm","clk":"7671225720","pt":1539163957590,"mc":[{"id":"1.149260777","rc":[{"ltp":1.22,"id":7287690}]}]}
+{"op":"mcm","clk":"7671229031","pt":1539164016804,"mc":[{"id":"1.149260777","rc":[{"ltp":1.2,"id":7287690}]}]}
+{"op":"mcm","clk":"7671231871","pt":1539164076729,"mc":[{"id":"1.149260777","rc":[{"ltp":1.18,"id":7287690},{"ltp":6.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7671235012","pt":1539164137392,"mc":[{"id":"1.149260777","rc":[{"ltp":1.25,"id":7287690},{"ltp":5.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671238732","pt":1539164197572,"mc":[{"id":"1.149260777","rc":[{"ltp":1.26,"id":7287690},{"ltp":5.6,"id":9624573}]}]}
+{"op":"mcm","clk":"7671242082","pt":1539164256042,"mc":[{"id":"1.149260777","rc":[{"ltp":1.25,"id":7287690},{"ltp":5.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671245206","pt":1539164317757,"mc":[{"id":"1.149260777","rc":[{"ltp":1.22,"id":7287690},{"ltp":5.6,"id":9624573}]}]}
+{"op":"mcm","clk":"7671247880","pt":1539164377521,"mc":[{"id":"1.149260777","rc":[{"ltp":5.4,"id":9624573}]}]}
+{"op":"mcm","clk":"7671250508","pt":1539164437353,"mc":[{"id":"1.149260777","rc":[{"ltp":5.6,"id":9624573}]}]}
+{"op":"mcm","clk":"7671254210","pt":1539164497578,"mc":[{"id":"1.149260777","rc":[{"ltp":1.24,"id":7287690},{"ltp":6.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7671265600","pt":1539164557700,"mc":[{"id":"1.149260777","rc":[{"ltp":5.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7671268267","pt":1539164617268,"mc":[{"id":"1.149260777","rc":[{"ltp":1.27,"id":7287690},{"ltp":4.8,"id":9624573}]}]}
+{"op":"mcm","clk":"7671271166","pt":1539164677583,"mc":[{"id":"1.149260777","rc":[{"ltp":1.28,"id":7287690},{"ltp":4.5,"id":9624573}]}]}
+{"op":"mcm","clk":"7671274083","pt":1539164737451,"mc":[{"id":"1.149260777","rc":[{"ltp":1.29,"id":7287690},{"ltp":4.4,"id":9624573}]}]}
+{"op":"mcm","clk":"7671276876","pt":1539164797306,"mc":[{"id":"1.149260777","rc":[{"ltp":1.28,"id":7287690},{"ltp":4.5,"id":9624573}]}]}
+{"op":"mcm","clk":"7671280071","pt":1539164856797,"mc":[{"id":"1.149260777","rc":[{"ltp":1.17,"id":7287690},{"ltp":4.3,"id":9624573}]}]}
+{"op":"mcm","clk":"7671282810","pt":1539164917624,"mc":[{"id":"1.149260777","rc":[{"ltp":1.15,"id":7287690},{"ltp":7.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671285770","pt":1539164977318,"mc":[{"id":"1.149260777","rc":[{"ltp":1.31,"id":7287690},{"ltp":4.2,"id":9624573}]}]}
+{"op":"mcm","clk":"7671288685","pt":1539165036518,"mc":[{"id":"1.149260777","rc":[{"ltp":1.08,"id":7287690}]}]}
+{"op":"mcm","clk":"7671291286","pt":1539165097383,"mc":[{"id":"1.149260777","rc":[{"ltp":13.5,"id":9624573}]}]}
+{"op":"mcm","clk":"7671294183","pt":1539165157601,"mc":[{"id":"1.149260777","rc":[{"ltp":1.09,"id":7287690}]}]}
+{"op":"mcm","clk":"7671296797","pt":1539165217480,"mc":[{"id":"1.149260777","rc":[{"ltp":1.07,"id":7287690}]}]}
+{"op":"mcm","clk":"7671299717","pt":1539165276680,"mc":[{"id":"1.149260777","rc":[{"ltp":1.05,"id":7287690},{"ltp":21.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671302084","pt":1539165335939,"mc":[{"id":"1.149260777","rc":[{"ltp":1.03,"id":7287690},{"ltp":50.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671304857","pt":1539165397715,"mc":[{"id":"1.149260777","rc":[{"ltp":1.02,"id":7287690}]}]}
+{"op":"mcm","clk":"7671315754","pt":1539165457489,"mc":[{"id":"1.149260777","rc":[{"ltp":1.03,"id":7287690}]}]}
+{"op":"mcm","clk":"7671318185","pt":1539165517720,"mc":[{"id":"1.149260777","rc":[{"ltp":1.02,"id":7287690},{"ltp":34.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671321044","pt":1539165573604,"mc":[{"id":"1.149260777","rc":[{"ltp":1.04,"id":7287690}]}]}
+{"op":"mcm","clk":"7671328957","pt":1539165697405,"mc":[{"id":"1.149260777","rc":[{"ltp":26.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671331990","pt":1539165756597,"mc":[{"id":"1.149260777","rc":[{"ltp":1.03,"id":7287690}]}]}
+{"op":"mcm","clk":"7671335253","pt":1539165817316,"mc":[{"id":"1.149260777","rc":[{"ltp":34.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671338745","pt":1539165877594,"mc":[{"id":"1.149260777","rc":[{"ltp":30.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671346119","pt":1539165996154,"mc":[{"id":"1.149260777","rc":[{"ltp":34.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671349846","pt":1539166056775,"mc":[{"id":"1.149260777","rc":[{"ltp":1.02,"id":7287690}]}]}
+{"op":"mcm","clk":"7671353099","pt":1539166113809,"mc":[{"id":"1.149260777","rc":[{"ltp":85.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671356817","pt":1539166176869,"mc":[{"id":"1.149260777","rc":[{"ltp":1.03,"id":7287690}]}]}
+{"op":"mcm","clk":"7671363503","pt":1539166295884,"mc":[{"id":"1.149260777","rc":[{"ltp":1.02,"id":7287690}]}]}
+{"op":"mcm","clk":"7671389672","pt":1539166537031,"mc":[{"id":"1.149260777","rc":[{"ltp":1.01,"id":7287690},{"ltp":50.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671394522","pt":1539166596216,"mc":[{"id":"1.149260777","rc":[{"ltp":100.0,"id":9624573}]}]}
+{"op":"mcm","clk":"7671398557","pt":1539166647082,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T08:51:00.000Z","suspendTime":"2018-10-10T08:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T08:51:00.000Z","version":2448330837,"name":"Match Odds","eventName":"Ornago v Halys"}}]}
+{"op":"mcm","clk":"7671401239","pt":1539166683498,"mc":[{"id":"1.149260777","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946309","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T08:51:00.000Z","suspendTime":"2018-10-10T08:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T10:17:57.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9624573,"name":"Fabrizio Ornago"},{"status":"WINNER","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T08:51:00.000Z","version":2448331145,"name":"Match Odds","eventName":"Ornago v Halys"}}]}

@@ -1,0 +1,69 @@
+{"op":"mcm","clk":"7739605537","pt":1540456767407,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:30:00.000Z","version":2474753529,"name":"Match Odds","eventName":"18706952"}}]}
+{"op":"mcm","clk":"7739611635","pt":1540456894889,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:30:00.000Z","version":2474753529,"name":"Match Odds","eventName":"18706952"}}]}
+{"op":"mcm","clk":"7739847176","pt":1540460533858,"mc":[{"id":"1.150157169","rc":[{"ltp":1.6,"id":8176573}]}]}
+{"op":"mcm","clk":"7740885285","pt":1540473913756,"mc":[{"id":"1.150157169","rc":[{"ltp":2.22,"id":9634154},{"ltp":1.82,"id":8176573}]}]}
+{"op":"mcm","clk":"7740916034","pt":1540474311667,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:30:00.000Z","version":2474913496,"name":"Match Odds","eventName":"18706952"}}]}
+{"op":"mcm","clk":"7740968905","pt":1540474753297,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:30:00.000Z","version":2474917475,"name":"Match Odds","eventName":"18706952"}}]}
+{"op":"mcm","clk":"7740999537","pt":1540475086815,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:44:40.000Z","version":2474919446,"name":"Match Odds","eventName":"18706952"}}]}
+{"op":"mcm","clk":"7741119089","pt":1540476337315,"mc":[{"id":"1.150157169","rc":[{"ltp":1.99,"id":8176573}]}]}
+{"op":"mcm","clk":"7741148917","pt":1540476523910,"mc":[{"id":"1.150157169","rc":[{"ltp":2.18,"id":8176573}]}]}
+{"op":"mcm","clk":"7741154050","pt":1540476581338,"mc":[{"id":"1.150157169","rc":[{"ltp":1.82,"id":8176573}]}]}
+{"op":"mcm","clk":"7741159155","pt":1540476635383,"mc":[{"id":"1.150157169","rc":[{"ltp":1.75,"id":9634154},{"ltp":2.32,"id":8176573}]}]}
+{"op":"mcm","clk":"7741207974","pt":1540477120460,"mc":[{"id":"1.150157169","rc":[{"ltp":1.77,"id":9634154}]}]}
+{"op":"mcm","clk":"7741213670","pt":1540477180950,"mc":[{"id":"1.150157169","rc":[{"ltp":1.72,"id":9634154}]}]}
+{"op":"mcm","clk":"7741223440","pt":1540477302375,"mc":[{"id":"1.150157169","rc":[{"ltp":2.08,"id":9634154},{"ltp":1.91,"id":8176573}]}]}
+{"op":"mcm","clk":"7741240900","pt":1540477362569,"mc":[{"id":"1.150157169","rc":[{"ltp":1.65,"id":8176573}]}]}
+{"op":"mcm","clk":"7741249990","pt":1540477478416,"mc":[{"id":"1.150157169","rc":[{"ltp":1.59,"id":9634154}]}]}
+{"op":"mcm","clk":"7741257120","pt":1540477563693,"mc":[{"id":"1.150157169","rc":[{"ltp":1.73,"id":9634154}]}]}
+{"op":"mcm","clk":"7741268771","pt":1540477721721,"mc":[{"id":"1.150157169","rc":[{"ltp":1.84,"id":9634154}]}]}
+{"op":"mcm","clk":"7741277726","pt":1540477831088,"mc":[{"id":"1.150157169","rc":[{"ltp":1.42,"id":9634154}]}]}
+{"op":"mcm","clk":"7741283052","pt":1540477897793,"mc":[{"id":"1.150157169","rc":[{"ltp":1.43,"id":9634154},{"ltp":3.35,"id":8176573}]}]}
+{"op":"mcm","clk":"7741293843","pt":1540478024894,"mc":[{"id":"1.150157169","rc":[{"ltp":1.5,"id":9634154},{"ltp":3.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741298626","pt":1540478080877,"mc":[{"id":"1.150157169","rc":[{"ltp":1.34,"id":9634154},{"ltp":4.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741309519","pt":1540478202695,"mc":[{"id":"1.150157169","rc":[{"ltp":1.46,"id":9634154},{"ltp":3.35,"id":8176573}]}]}
+{"op":"mcm","clk":"7741328705","pt":1540478264598,"mc":[{"id":"1.150157169","rc":[{"ltp":1.5,"id":9634154}]}]}
+{"op":"mcm","clk":"7741335507","pt":1540478324487,"mc":[{"id":"1.150157169","rc":[{"ltp":1.24,"id":9634154}]}]}
+{"op":"mcm","clk":"7741341621","pt":1540478385307,"mc":[{"id":"1.150157169","rc":[{"ltp":1.29,"id":9634154}]}]}
+{"op":"mcm","clk":"7741346685","pt":1540478445296,"mc":[{"id":"1.150157169","rc":[{"ltp":1.2,"id":9634154},{"ltp":5.1,"id":8176573}]}]}
+{"op":"mcm","clk":"7741351818","pt":1540478501474,"mc":[{"id":"1.150157169","rc":[{"ltp":1.15,"id":9634154}]}]}
+{"op":"mcm","clk":"7741356879","pt":1540478564996,"mc":[{"id":"1.150157169","rc":[{"ltp":1.2,"id":9634154}]}]}
+{"op":"mcm","clk":"7741362089","pt":1540478625408,"mc":[{"id":"1.150157169","rc":[{"ltp":1.22,"id":9634154},{"ltp":5.5,"id":8176573}]}]}
+{"op":"mcm","clk":"7741365406","pt":1540478665071,"mc":[{"id":"1.150157169","rc":[{"ltp":1.24,"id":9634154}]}]}
+{"op":"mcm","clk":"7741377196","pt":1540478802024,"mc":[{"id":"1.150157169","rc":[{"ltp":1.2,"id":9634154},{"ltp":6.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741387292","pt":1540478920627,"mc":[{"id":"1.150157169","rc":[{"ltp":1.18,"id":9634154}]}]}
+{"op":"mcm","clk":"7741392986","pt":1540478985094,"mc":[{"id":"1.150157169","rc":[{"ltp":1.15,"id":9634154}]}]}
+{"op":"mcm","clk":"7741397925","pt":1540479043729,"mc":[{"id":"1.150157169","rc":[{"ltp":6.4,"id":8176573}]}]}
+{"op":"mcm","clk":"7741403044","pt":1540479105419,"mc":[{"id":"1.150157169","rc":[{"ltp":1.1,"id":9634154}]}]}
+{"op":"mcm","clk":"7741421527","pt":1540479165130,"mc":[{"id":"1.150157169","rc":[{"ltp":1.15,"id":9634154},{"ltp":7.6,"id":8176573}]}]}
+{"op":"mcm","clk":"7741432377","pt":1540479280591,"mc":[{"id":"1.150157169","rc":[{"ltp":1.04,"id":9634154}]}]}
+{"op":"mcm","clk":"7741438545","pt":1540479341877,"mc":[{"id":"1.150157169","rc":[{"ltp":1.05,"id":9634154}]}]}
+{"op":"mcm","clk":"7741444359","pt":1540479402592,"mc":[{"id":"1.150157169","rc":[{"ltp":1.07,"id":9634154}]}]}
+{"op":"mcm","clk":"7741449780","pt":1540479459542,"mc":[{"id":"1.150157169","rc":[{"ltp":1.03,"id":9634154}]}]}
+{"op":"mcm","clk":"7741456232","pt":1540479524836,"mc":[{"id":"1.150157169","rc":[{"ltp":1.04,"id":9634154}]}]}
+{"op":"mcm","clk":"7741467942","pt":1540479644548,"mc":[{"id":"1.150157169","rc":[{"ltp":1.08,"id":9634154}]}]}
+{"op":"mcm","clk":"7741474084","pt":1540479705347,"mc":[{"id":"1.150157169","rc":[{"ltp":1.06,"id":9634154}]}]}
+{"op":"mcm","clk":"7741479681","pt":1540479763040,"mc":[{"id":"1.150157169","rc":[{"ltp":1.08,"id":9634154}]}]}
+{"op":"mcm","clk":"7741485527","pt":1540479822664,"mc":[{"id":"1.150157169","rc":[{"ltp":1.16,"id":9634154}]}]}
+{"op":"mcm","clk":"7741491608","pt":1540479885192,"mc":[{"id":"1.150157169","rc":[{"ltp":1.09,"id":9634154}]}]}
+{"op":"mcm","clk":"7741497437","pt":1540479943124,"mc":[{"id":"1.150157169","rc":[{"ltp":1.14,"id":9634154},{"ltp":9.2,"id":8176573}]}]}
+{"op":"mcm","clk":"7741503716","pt":1540480005182,"mc":[{"id":"1.150157169","rc":[{"ltp":1.13,"id":9634154}]}]}
+{"op":"mcm","clk":"7741523739","pt":1540480065438,"mc":[{"id":"1.150157169","rc":[{"ltp":1.15,"id":9634154}]}]}
+{"op":"mcm","clk":"7741529523","pt":1540480125440,"mc":[{"id":"1.150157169","rc":[{"ltp":1.08,"id":9634154},{"ltp":8.6,"id":8176573}]}]}
+{"op":"mcm","clk":"7741535376","pt":1540480184858,"mc":[{"id":"1.150157169","rc":[{"ltp":1.03,"id":9634154},{"ltp":34.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741547143","pt":1540480305374,"mc":[{"id":"1.150157169","rc":[{"ltp":1.02,"id":9634154}]}]}
+{"op":"mcm","clk":"7741553402","pt":1540480365084,"mc":[{"id":"1.150157169","rc":[{"ltp":1.01,"id":9634154},{"ltp":50.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741560148","pt":1540480424222,"mc":[{"id":"1.150157169","rc":[{"ltp":1.05,"id":9634154}]}]}
+{"op":"mcm","clk":"7741566669","pt":1540480484934,"mc":[{"id":"1.150157169","rc":[{"ltp":1.06,"id":9634154}]}]}
+{"op":"mcm","clk":"7741573540","pt":1540480544561,"mc":[{"id":"1.150157169","rc":[{"ltp":1.09,"id":9634154}]}]}
+{"op":"mcm","clk":"7741579705","pt":1540480599674,"mc":[{"id":"1.150157169","rc":[{"ltp":1.07,"id":9634154}]}]}
+{"op":"mcm","clk":"7741602708","pt":1540480783376,"mc":[{"id":"1.150157169","rc":[{"ltp":1.04,"id":9634154}]}]}
+{"op":"mcm","clk":"7741610049","pt":1540480844975,"mc":[{"id":"1.150157169","rc":[{"ltp":1.12,"id":9634154},{"ltp":26.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741617133","pt":1540480905402,"mc":[{"id":"1.150157169","rc":[{"ltp":1.04,"id":9634154}]}]}
+{"op":"mcm","clk":"7741638215","pt":1540480963815,"mc":[{"id":"1.150157169","rc":[{"ltp":1.1,"id":9634154},{"ltp":13.5,"id":8176573}]}]}
+{"op":"mcm","clk":"7741645805","pt":1540481025398,"mc":[{"id":"1.150157169","rc":[{"ltp":1.08,"id":9634154}]}]}
+{"op":"mcm","clk":"7741652841","pt":1540481085401,"mc":[{"id":"1.150157169","rc":[{"ltp":1.14,"id":9634154},{"ltp":11.0,"id":8176573}]}]}
+{"op":"mcm","clk":"7741660065","pt":1540481144255,"mc":[{"id":"1.150157169","rc":[{"ltp":8.2,"id":8176573}]}]}
+{"op":"mcm","clk":"7741666813","pt":1540481204878,"mc":[{"id":"1.150157169","rc":[{"ltp":1.02,"id":9634154}]}]}
+{"op":"mcm","clk":"7741678680","pt":1540481324942,"mc":[{"id":"1.150157169","rc":[{"ltp":1.06,"id":9634154}]}]}
+{"op":"mcm","clk":"7741684336","pt":1540481384689,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"ACTIVE","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:44:40.000Z","version":2475044965,"name":"Match Odds","eventName":"18706952"},"rc":[{"ltp":1.01,"id":9634154}]}]}
+{"op":"mcm","clk":"7741685761","pt":1540481399063,"mc":[{"id":"1.150157169","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974775","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T13:30:00.000Z","suspendTime":"2018-10-25T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T15:29:53.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9634154,"name":"K Day"},{"status":"LOSER","sortPriority":2,"id":8176573,"name":"L Davis"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-25T13:44:40.000Z","version":2475046491,"name":"Match Odds","eventName":"18706952"}}]}

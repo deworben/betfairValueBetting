@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"7673000736","pt":1539774029571,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T14:00:00.000Z","suspendTime":"2018-10-17T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-17T14:00:00.000Z","version":2459181313,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7673005319","pt":1539774092057,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T14:00:00.000Z","suspendTime":"2018-10-17T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-17T14:00:00.000Z","version":2459181313,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7673952219","pt":1539784532427,"mc":[{"id":"1.149722174","rc":[{"ltp":2.22,"id":9627493},{"ltp":1.65,"id":9626075}]}]}
+{"op":"mcm","clk":"7673952885","pt":1539784540522,"mc":[{"id":"1.149722174","rc":[{"ltp":1.81,"id":9626075}]}]}
+{"op":"mcm","clk":"7673969968","pt":1539784745032,"mc":[{"id":"1.149722174","rc":[{"ltp":1.65,"id":9626075}]}]}
+{"op":"mcm","clk":"7674123067","pt":1539786370104,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T14:00:00.000Z","suspendTime":"2018-10-17T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:00:00.000Z","version":2459358136,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7674380665","pt":1539789215453,"mc":[{"id":"1.149722174","rc":[{"ltp":1.81,"id":9626075}]}]}
+{"op":"mcm","clk":"7674695453","pt":1539792681422,"mc":[{"id":"1.149722174","rc":[{"ltp":1.65,"id":9626075}]}]}
+{"op":"mcm","clk":"7678834853","pt":1539837599953,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:00:00.000Z","version":2460306528,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7679030584","pt":1539840683057,"mc":[{"id":"1.149722174","rc":[{"ltp":1.64,"id":9626075}]}]}
+{"op":"mcm","clk":"7679560182","pt":1539848290901,"mc":[{"id":"1.149722174","rc":[{"ltp":1.67,"id":9626075}]}]}
+{"op":"mcm","clk":"7679796147","pt":1539851407333,"mc":[{"id":"1.149722174","rc":[{"ltp":1.66,"id":9626075}]}]}
+{"op":"mcm","clk":"7680056882","pt":1539854482121,"mc":[{"id":"1.149722174","rc":[{"ltp":2.2,"id":9627493}]}]}
+{"op":"mcm","clk":"7680279607","pt":1539856690122,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:30:00.000Z","version":2460417761,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7680499848","pt":1539858743584,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:30:00.000Z","version":2460447200,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7680554442","pt":1539859172461,"mc":[{"id":"1.149722174","rc":[{"ltp":1.81,"id":9626075}]}]}
+{"op":"mcm","clk":"7680566894","pt":1539859301486,"mc":[{"id":"1.149722174","rc":[{"ltp":1.79,"id":9626075}]}]}
+{"op":"mcm","clk":"7680602250","pt":1539859673511,"mc":[{"id":"1.149722174","rc":[{"ltp":1.78,"id":9626075}]}]}
+{"op":"mcm","clk":"7680644389","pt":1539860003165,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:53:17.000Z","version":2460455034,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}
+{"op":"mcm","clk":"7680691341","pt":1539860547731,"mc":[{"id":"1.149722174","rc":[{"ltp":1.54,"id":9626075}]}]}
+{"op":"mcm","clk":"7680696152","pt":1539860603469,"mc":[{"id":"1.149722174","rc":[{"ltp":1.51,"id":9626075}]}]}
+{"op":"mcm","clk":"7680711180","pt":1539860785774,"mc":[{"id":"1.149722174","rc":[{"ltp":3.0,"id":9627493},{"ltp":1.46,"id":9626075}]}]}
+{"op":"mcm","clk":"7680728787","pt":1539860849025,"mc":[{"id":"1.149722174","rc":[{"ltp":1.66,"id":9626075}]}]}
+{"op":"mcm","clk":"7680733714","pt":1539860909305,"mc":[{"id":"1.149722174","rc":[{"ltp":1.7,"id":9626075}]}]}
+{"op":"mcm","clk":"7680738705","pt":1539860971596,"mc":[{"id":"1.149722174","rc":[{"ltp":1.83,"id":9626075}]}]}
+{"op":"mcm","clk":"7680743370","pt":1539861030179,"mc":[{"id":"1.149722174","rc":[{"ltp":2.18,"id":9626075}]}]}
+{"op":"mcm","clk":"7680748270","pt":1539861089219,"mc":[{"id":"1.149722174","rc":[{"ltp":2.28,"id":9626075}]}]}
+{"op":"mcm","clk":"7680753347","pt":1539861150839,"mc":[{"id":"1.149722174","rc":[{"ltp":1.61,"id":9627493},{"ltp":2.62,"id":9626075}]}]}
+{"op":"mcm","clk":"7680758130","pt":1539861207375,"mc":[{"id":"1.149722174","rc":[{"ltp":1.57,"id":9627493}]}]}
+{"op":"mcm","clk":"7680773931","pt":1539861391117,"mc":[{"id":"1.149722174","rc":[{"ltp":1.79,"id":9627493}]}]}
+{"op":"mcm","clk":"7680779530","pt":1539861451808,"mc":[{"id":"1.149722174","rc":[{"ltp":1.91,"id":9627493}]}]}
+{"op":"mcm","clk":"7680801736","pt":1539861690330,"mc":[{"id":"1.149722174","rc":[{"ltp":1.83,"id":9627493},{"ltp":2.22,"id":9626075}]}]}
+{"op":"mcm","clk":"7680820019","pt":1539861749856,"mc":[{"id":"1.149722174","rc":[{"ltp":1.71,"id":9627493},{"ltp":2.4,"id":9626075}]}]}
+{"op":"mcm","clk":"7680825256","pt":1539861809734,"mc":[{"id":"1.149722174","rc":[{"ltp":1.57,"id":9627493}]}]}
+{"op":"mcm","clk":"7680830547","pt":1539861871307,"mc":[{"id":"1.149722174","rc":[{"ltp":1.48,"id":9627493}]}]}
+{"op":"mcm","clk":"7680835207","pt":1539861932647,"mc":[{"id":"1.149722174","rc":[{"ltp":1.34,"id":9627493}]}]}
+{"op":"mcm","clk":"7680838992","pt":1539861985647,"mc":[{"id":"1.149722174","rc":[{"ltp":1.43,"id":9627493}]}]}
+{"op":"mcm","clk":"7680842739","pt":1539862036887,"mc":[{"id":"1.149722174","rc":[{"ltp":1.53,"id":9627493}]}]}
+{"op":"mcm","clk":"7680858081","pt":1539862232122,"mc":[{"id":"1.149722174","rc":[{"ltp":1.59,"id":9627493}]}]}
+{"op":"mcm","clk":"7680860842","pt":1539862263253,"mc":[{"id":"1.149722174","rc":[{"ltp":1.61,"id":9627493}]}]}
+{"op":"mcm","clk":"7680873131","pt":1539862399822,"mc":[{"id":"1.149722174","rc":[{"ltp":1.84,"id":9627493},{"ltp":2.18,"id":9626075}]}]}
+{"op":"mcm","clk":"7680884977","pt":1539862531612,"mc":[{"id":"1.149722174","rc":[{"ltp":2.1,"id":9627493},{"ltp":1.84,"id":9626075}]}]}
+{"op":"mcm","clk":"7680890420","pt":1539862590504,"mc":[{"id":"1.149722174","rc":[{"ltp":1.77,"id":9626075}]}]}
+{"op":"mcm","clk":"7680919564","pt":1539862764481,"mc":[{"id":"1.149722174","rc":[{"ltp":2.56,"id":9627493}]}]}
+{"op":"mcm","clk":"7680970062","pt":1539863360551,"mc":[{"id":"1.149722174","rc":[{"ltp":2.74,"id":9627493},{"ltp":1.58,"id":9626075}]}]}
+{"op":"mcm","clk":"7681014267","pt":1539863703762,"mc":[{"id":"1.149722174","rc":[{"ltp":1.23,"id":9626075}]}]}
+{"op":"mcm","clk":"7681059133","pt":1539864200228,"mc":[{"id":"1.149722174","rc":[{"ltp":4.6,"id":9627493},{"ltp":1.28,"id":9626075}]}]}
+{"op":"mcm","clk":"7681077965","pt":1539864390395,"mc":[{"id":"1.149722174","rc":[{"ltp":1.21,"id":9626075}]}]}
+{"op":"mcm","clk":"7681096821","pt":1539864452462,"mc":[{"id":"1.149722174","rc":[{"ltp":1.17,"id":9626075}]}]}
+{"op":"mcm","clk":"7681100623","pt":1539864489639,"mc":[{"id":"1.149722174","rc":[{"ltp":1.11,"id":9626075}]}]}
+{"op":"mcm","clk":"7681107738","pt":1539864568497,"mc":[{"id":"1.149722174","rc":[{"ltp":1.09,"id":9626075}]}]}
+{"op":"mcm","clk":"7681112904","pt":1539864627895,"mc":[{"id":"1.149722174","rc":[{"ltp":15.5,"id":9627493},{"ltp":1.07,"id":9626075}]}]}
+{"op":"mcm","clk":"7681118352","pt":1539864687824,"mc":[{"id":"1.149722174","rc":[{"ltp":17.0,"id":9627493},{"ltp":1.06,"id":9626075}]}]}
+{"op":"mcm","clk":"7681134287","pt":1539864866628,"mc":[{"id":"1.149722174","rc":[{"ltp":1.12,"id":9626075}]}]}
+{"op":"mcm","clk":"7681145897","pt":1539864992607,"mc":[{"id":"1.149722174","rc":[{"ltp":19.5,"id":9627493},{"ltp":1.05,"id":9626075}]}]}
+{"op":"mcm","clk":"7681157568","pt":1539865112601,"mc":[{"id":"1.149722174","rc":[{"ltp":1.06,"id":9626075}]}]}
+{"op":"mcm","clk":"7681164169","pt":1539865172581,"mc":[{"id":"1.149722174","rc":[{"ltp":1.03,"id":9626075}]}]}
+{"op":"mcm","clk":"7681169681","pt":1539865228571,"mc":[{"id":"1.149722174","rc":[{"ltp":1.01,"id":9626075}]}]}
+{"op":"mcm","clk":"7681175452","pt":1539865286454,"mc":[{"id":"1.149722174","rc":[{"ltp":1.03,"id":9626075}]}]}
+{"op":"mcm","clk":"7681194531","pt":1539865351931,"mc":[{"id":"1.149722174","rc":[{"ltp":1.05,"id":9626075}]}]}
+{"op":"mcm","clk":"7681213385","pt":1539865551901,"mc":[{"id":"1.149722174","rc":[{"ltp":15.0,"id":9627493},{"ltp":1.07,"id":9626075}]}]}
+{"op":"mcm","clk":"7681221371","pt":1539865641116,"mc":[{"id":"1.149722174","rc":[{"ltp":1.11,"id":9626075}]}]}
+{"op":"mcm","clk":"7681233413","pt":1539865766478,"mc":[{"id":"1.149722174","rc":[{"ltp":1.02,"id":9626075}]}]}
+{"op":"mcm","clk":"7681239663","pt":1539865829751,"mc":[{"id":"1.149722174","rc":[{"ltp":1.03,"id":9626075}]}]}
+{"op":"mcm","clk":"7681251676","pt":1539865950691,"mc":[{"id":"1.149722174","rc":[{"ltp":1.05,"id":9626075}]}]}
+{"op":"mcm","clk":"7681269946","pt":1539866132550,"mc":[{"id":"1.149722174","rc":[{"ltp":1.04,"id":9626075}]}]}
+{"op":"mcm","clk":"7681306497","pt":1539866369735,"mc":[{"id":"1.149722174","rc":[{"ltp":1.02,"id":9626075}]}]}
+{"op":"mcm","clk":"7681310521","pt":1539866416172,"mc":[{"id":"1.149722174","rc":[{"ltp":1.03,"id":9626075}]}]}
+{"op":"mcm","clk":"7681315665","pt":1539866468511,"mc":[{"id":"1.149722174","rc":[{"ltp":1.07,"id":9626075}]}]}
+{"op":"mcm","clk":"7681323309","pt":1539866550544,"mc":[{"id":"1.149722174","rc":[{"ltp":1.03,"id":9626075}]}]}
+{"op":"mcm","clk":"7681334029","pt":1539866669648,"mc":[{"id":"1.149722174","rc":[{"ltp":1.19,"id":9626075}]}]}
+{"op":"mcm","clk":"7681343286","pt":1539866772098,"mc":[{"id":"1.149722174","rc":[{"ltp":6.2,"id":9627493}]}]}
+{"op":"mcm","clk":"7681356406","pt":1539866912589,"mc":[{"id":"1.149722174","rc":[{"ltp":1.27,"id":9626075}]}]}
+{"op":"mcm","clk":"7681361394","pt":1539866967389,"mc":[{"id":"1.149722174","rc":[{"ltp":4.8,"id":9627493}]}]}
+{"op":"mcm","clk":"7681365489","pt":1539867012000,"mc":[{"id":"1.149722174","rc":[{"ltp":1.15,"id":9626075}]}]}
+{"op":"mcm","clk":"7681390295","pt":1539867145071,"mc":[{"id":"1.149722174","rc":[{"ltp":4.2,"id":9627493},{"ltp":1.32,"id":9626075}]}]}
+{"op":"mcm","clk":"7681396206","pt":1539867211006,"mc":[{"id":"1.149722174","rc":[{"ltp":1.23,"id":9626075}]}]}
+{"op":"mcm","clk":"7681399744","pt":1539867250809,"mc":[{"id":"1.149722174","rc":[{"ltp":4.0,"id":9627493},{"ltp":1.33,"id":9626075}]}]}
+{"op":"mcm","clk":"7681411384","pt":1539867378174,"mc":[{"id":"1.149722174","rc":[{"ltp":1.1,"id":9626075}]}]}
+{"op":"mcm","clk":"7681417744","pt":1539867447963,"mc":[{"id":"1.149722174","rc":[{"ltp":1.2,"id":9626075}]}]}
+{"op":"mcm","clk":"7681437943","pt":1539867672870,"mc":[{"id":"1.149722174","rc":[{"ltp":1.17,"id":9626075}]}]}
+{"op":"mcm","clk":"7681445101","pt":1539867752484,"mc":[{"id":"1.149722174","rc":[{"ltp":7.6,"id":9627493},{"ltp":1.15,"id":9626075}]}]}
+{"op":"mcm","clk":"7681450929","pt":1539867812662,"mc":[{"id":"1.149722174","rc":[{"ltp":1.29,"id":9626075}]}]}
+{"op":"mcm","clk":"7681455399","pt":1539867859063,"mc":[{"id":"1.149722174","rc":[{"ltp":6.0,"id":9627493},{"ltp":1.2,"id":9626075}]}]}
+{"op":"mcm","clk":"7681468584","pt":1539867988787,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"ACTIVE","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:53:17.000Z","version":2460544006,"name":"Match Odds","eventName":"G Ce v S Wagner"},"rc":[{"ltp":1.01,"id":9626075}]}]}
+{"op":"mcm","clk":"7681470559","pt":1539868008796,"mc":[{"id":"1.149722174","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960924","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T10:00:00.000Z","suspendTime":"2018-10-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T13:06:45.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9627493,"name":"G Ce"},{"status":"WINNER","sortPriority":2,"id":9626075,"name":"S Wagner"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T10:53:17.000Z","version":2460544317,"name":"Match Odds","eventName":"G Ce v S Wagner"}}]}

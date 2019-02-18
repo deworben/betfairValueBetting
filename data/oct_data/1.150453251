@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7841623203","pt":1540882628811,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T23:00:00.000Z","suspendTime":"2018-10-30T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"ACTIVE","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T23:00:00.000Z","version":2485470089,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}
+{"op":"mcm","clk":"7841638826","pt":1540883168640,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T23:00:00.000Z","suspendTime":"2018-10-30T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"ACTIVE","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T23:00:00.000Z","version":2485470089,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}
+{"op":"mcm","clk":"7844244371","pt":1540922479879,"mc":[{"id":"1.150453251","rc":[{"ltp":1.14,"id":7137497}]}]}
+{"op":"mcm","clk":"7844446965","pt":1540924117969,"mc":[{"id":"1.150453251","rc":[{"ltp":1.15,"id":7137497}]}]}
+{"op":"mcm","clk":"7845325069","pt":1540929800661,"mc":[{"id":"1.150453251","rc":[{"ltp":1.14,"id":7137497}]}]}
+{"op":"mcm","clk":"7846140736","pt":1540934773851,"mc":[{"id":"1.150453251","rc":[{"ltp":1.13,"id":7137497}]}]}
+{"op":"mcm","clk":"7846342901","pt":1540937755732,"mc":[{"id":"1.150453251","rc":[{"ltp":8.8,"id":9631799}]}]}
+{"op":"mcm","clk":"7846358073","pt":1540938363440,"mc":[{"id":"1.150453251","rc":[{"ltp":1.14,"id":7137497}]}]}
+{"op":"mcm","clk":"7846380306","pt":1540938855971,"mc":[{"id":"1.150453251","rc":[{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846382274","pt":1540938971450,"mc":[{"id":"1.150453251","rc":[{"ltp":9.2,"id":9631799}]}]}
+{"op":"mcm","clk":"7846383537","pt":1540939031846,"mc":[{"id":"1.150453251","rc":[{"ltp":1.11,"id":7137497}]}]}
+{"op":"mcm","clk":"7846401487","pt":1540939340473,"mc":[{"id":"1.150453251","rc":[{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846403749","pt":1540939450289,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T22:43:00.000Z","suspendTime":"2018-10-30T22:43:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"ACTIVE","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T22:43:00.000Z","version":2486800377,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}
+{"op":"mcm","clk":"7846407589","pt":1540939631227,"mc":[{"id":"1.150453251","rc":[{"ltp":8.8,"id":9631799},{"ltp":1.13,"id":7137497}]}]}
+{"op":"mcm","clk":"7846432228","pt":1540940234374,"mc":[{"id":"1.150453251","rc":[{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846433192","pt":1540940298123,"mc":[{"id":"1.150453251","rc":[{"ltp":1.1,"id":7137497}]}]}
+{"op":"mcm","clk":"7846437238","pt":1540940475697,"mc":[{"id":"1.150453251","rc":[{"ltp":1.11,"id":7137497}]}]}
+{"op":"mcm","clk":"7846464670","pt":1540941138289,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T22:43:00.000Z","suspendTime":"2018-10-30T22:43:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"ACTIVE","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T22:43:00.000Z","version":2486823931,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}
+{"op":"mcm","clk":"7846466403","pt":1540941197121,"mc":[{"id":"1.150453251","rc":[{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846468360","pt":1540941254428,"mc":[{"id":"1.150453251","rc":[{"ltp":1.11,"id":7137497}]}]}
+{"op":"mcm","clk":"7846470143","pt":1540941318515,"mc":[{"id":"1.150453251","rc":[{"ltp":1.1,"id":7137497}]}]}
+{"op":"mcm","clk":"7846471537","pt":1540941373860,"mc":[{"id":"1.150453251","rc":[{"ltp":10.0,"id":9631799},{"ltp":1.11,"id":7137497}]}]}
+{"op":"mcm","clk":"7846478337","pt":1540941620230,"mc":[{"id":"1.150453251","rc":[{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846479354","pt":1540941675088,"mc":[{"id":"1.150453251","rc":[{"ltp":12.0,"id":9631799},{"ltp":1.1,"id":7137497}]}]}
+{"op":"mcm","clk":"7846481043","pt":1540941737251,"mc":[{"id":"1.150453251","rc":[{"ltp":11.0,"id":9631799}]}]}
+{"op":"mcm","clk":"7846482708","pt":1540941800204,"mc":[{"id":"1.150453251","rc":[{"ltp":1.08,"id":7137497}]}]}
+{"op":"mcm","clk":"7846483656","pt":1540941856408,"mc":[{"id":"1.150453251","rc":[{"ltp":13.5,"id":9631799}]}]}
+{"op":"mcm","clk":"7846485330","pt":1540941920298,"mc":[{"id":"1.150453251","rc":[{"ltp":15.0,"id":9631799},{"ltp":1.07,"id":7137497}]}]}
+{"op":"mcm","clk":"7846487005","pt":1540941980866,"mc":[{"id":"1.150453251","rc":[{"ltp":17.5,"id":9631799}]}]}
+{"op":"mcm","clk":"7846499868","pt":1540942040692,"mc":[{"id":"1.150453251","rc":[{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846500876","pt":1540942100889,"mc":[{"id":"1.150453251","rc":[{"ltp":1.06,"id":7137497}]}]}
+{"op":"mcm","clk":"7846501895","pt":1540942159094,"mc":[{"id":"1.150453251","rc":[{"ltp":26.0,"id":9631799},{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846505138","pt":1540942339798,"mc":[{"id":"1.150453251","rc":[{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846506789","pt":1540942398115,"mc":[{"id":"1.150453251","rc":[{"ltp":21.0,"id":9631799},{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846509341","pt":1540942459670,"mc":[{"id":"1.150453251","rc":[{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846511554","pt":1540942580215,"mc":[{"id":"1.150453251","rc":[{"ltp":1.06,"id":7137497}]}]}
+{"op":"mcm","clk":"7846512970","pt":1540942640577,"mc":[{"id":"1.150453251","rc":[{"ltp":17.5,"id":9631799}]}]}
+{"op":"mcm","clk":"7846514143","pt":1540942697293,"mc":[{"id":"1.150453251","rc":[{"ltp":21.0,"id":9631799},{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846515060","pt":1540942754963,"mc":[{"id":"1.150453251","rc":[{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846516173","pt":1540942812931,"mc":[{"id":"1.150453251","rc":[{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846517942","pt":1540942880345,"mc":[{"id":"1.150453251","rc":[{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846530391","pt":1540942935730,"mc":[{"id":"1.150453251","rc":[{"ltp":17.5,"id":9631799},{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846531840","pt":1540943000686,"mc":[{"id":"1.150453251","rc":[{"ltp":1.09,"id":7137497}]}]}
+{"op":"mcm","clk":"7846533054","pt":1540943060798,"mc":[{"id":"1.150453251","rc":[{"ltp":12.0,"id":9631799},{"ltp":1.1,"id":7137497}]}]}
+{"op":"mcm","clk":"7846534138","pt":1540943118302,"mc":[{"id":"1.150453251","rc":[{"ltp":8.0,"id":9631799},{"ltp":1.14,"id":7137497}]}]}
+{"op":"mcm","clk":"7846535267","pt":1540943180439,"mc":[{"id":"1.150453251","rc":[{"ltp":6.8,"id":9631799},{"ltp":1.16,"id":7137497}]}]}
+{"op":"mcm","clk":"7846536479","pt":1540943240170,"mc":[{"id":"1.150453251","rc":[{"ltp":7.6,"id":9631799},{"ltp":1.14,"id":7137497}]}]}
+{"op":"mcm","clk":"7846537468","pt":1540943300724,"mc":[{"id":"1.150453251","rc":[{"ltp":1.15,"id":7137497}]}]}
+{"op":"mcm","clk":"7846538649","pt":1540943360064,"mc":[{"id":"1.150453251","rc":[{"ltp":12.0,"id":9631799},{"ltp":1.09,"id":7137497}]}]}
+{"op":"mcm","clk":"7846539813","pt":1540943420472,"mc":[{"id":"1.150453251","rc":[{"ltp":10.5,"id":9631799},{"ltp":1.08,"id":7137497}]}]}
+{"op":"mcm","clk":"7846541189","pt":1540943480635,"mc":[{"id":"1.150453251","rc":[{"ltp":9.2,"id":9631799},{"ltp":1.12,"id":7137497}]}]}
+{"op":"mcm","clk":"7846542697","pt":1540943540113,"mc":[{"id":"1.150453251","rc":[{"ltp":1.09,"id":7137497}]}]}
+{"op":"mcm","clk":"7846544102","pt":1540943600765,"mc":[{"id":"1.150453251","rc":[{"ltp":1.16,"id":7137497}]}]}
+{"op":"mcm","clk":"7846545241","pt":1540943660467,"mc":[{"id":"1.150453251","rc":[{"ltp":8.8,"id":9631799},{"ltp":1.13,"id":7137497}]}]}
+{"op":"mcm","clk":"7846546781","pt":1540943718360,"mc":[{"id":"1.150453251","rc":[{"ltp":21.0,"id":9631799},{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846563491","pt":1540943899605,"mc":[{"id":"1.150453251","rc":[{"ltp":26.0,"id":9631799}]}]}
+{"op":"mcm","clk":"7846565221","pt":1540943958883,"mc":[{"id":"1.150453251","rc":[{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846566621","pt":1540944019119,"mc":[{"id":"1.150453251","rc":[{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846570063","pt":1540944140569,"mc":[{"id":"1.150453251","rc":[{"ltp":50.0,"id":9631799},{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846572514","pt":1540944200491,"mc":[{"id":"1.150453251","rc":[{"ltp":1.01,"id":7137497}]}]}
+{"op":"mcm","clk":"7846583387","pt":1540944559207,"mc":[{"id":"1.150453251","rc":[{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846584968","pt":1540944618276,"mc":[{"id":"1.150453251","rc":[{"ltp":1.01,"id":7137497}]}]}
+{"op":"mcm","clk":"7846586651","pt":1540944680651,"mc":[{"id":"1.150453251","rc":[{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846599196","pt":1540944737688,"mc":[{"id":"1.150453251","rc":[{"ltp":21.0,"id":9631799},{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846600417","pt":1540944793158,"mc":[{"id":"1.150453251","rc":[{"ltp":1.04,"id":7137497}]}]}
+{"op":"mcm","clk":"7846601663","pt":1540944858056,"mc":[{"id":"1.150453251","rc":[{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846604893","pt":1540944980318,"mc":[{"id":"1.150453251","rc":[{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846606953","pt":1540945040691,"mc":[{"id":"1.150453251","rc":[{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846608419","pt":1540945099362,"mc":[{"id":"1.150453251","rc":[{"ltp":34.0,"id":9631799},{"ltp":1.05,"id":7137497}]}]}
+{"op":"mcm","clk":"7846610321","pt":1540945159713,"mc":[{"id":"1.150453251","rc":[{"ltp":1.01,"id":7137497}]}]}
+{"op":"mcm","clk":"7846611672","pt":1540945220452,"mc":[{"id":"1.150453251","rc":[{"ltp":50.0,"id":9631799},{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846613375","pt":1540945276386,"mc":[{"id":"1.150453251","rc":[{"ltp":1.03,"id":7137497}]}]}
+{"op":"mcm","clk":"7846615126","pt":1540945340611,"mc":[{"id":"1.150453251","rc":[{"ltp":1.01,"id":7137497}]}]}
+{"op":"mcm","clk":"7846616284","pt":1540945396629,"mc":[{"id":"1.150453251","rc":[{"ltp":100.0,"id":9631799}]}]}
+{"op":"mcm","clk":"7846620366","pt":1540945580516,"mc":[{"id":"1.150453251","rc":[{"ltp":50.0,"id":9631799},{"ltp":1.02,"id":7137497}]}]}
+{"op":"mcm","clk":"7846633876","pt":1540945686848,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T22:43:00.000Z","suspendTime":"2018-10-30T22:43:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"ACTIVE","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T22:43:00.000Z","version":2486882668,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}
+{"op":"mcm","clk":"7846634207","pt":1540945710921,"mc":[{"id":"1.150453251","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984046","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T22:43:00.000Z","suspendTime":"2018-10-30T22:43:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-31T00:28:25.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9631799,"name":"Benjamin Hassan"},{"status":"WINNER","sortPriority":2,"id":7137497,"name":"Yoshihito Nishioka"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T22:43:00.000Z","version":2486883191,"name":"Match Odds","eventName":"Ben Hassan v Nishioka"}}]}

@@ -1,0 +1,45 @@
+{"op":"mcm","clk":"7722660057","pt":1539716393572,"mc":[{"id":"1.149689903","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:00:00.000Z","suspendTime":"2018-10-17T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7299658,"name":"Nick Kyrgios"},{"status":"ACTIVE","sortPriority":2,"id":5499167,"name":"Mirza Basic"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:00:00.000Z","version":2458629035,"name":"Match Odds","eventName":"Kyrgios v Basic"}}]}
+{"op":"mcm","clk":"7723400755","pt":1539722132766,"mc":[{"id":"1.149689903","rc":[{"ltp":1.2,"id":7299658},{"ltp":6.0,"id":5499167}]}]}
+{"op":"mcm","clk":"7723736947","pt":1539729203068,"mc":[{"id":"1.149689903","rc":[{"ltp":1.25,"id":7299658},{"ltp":5.0,"id":5499167}]}]}
+{"op":"mcm","clk":"7723971422","pt":1539734692639,"mc":[{"id":"1.149689903","rc":[{"ltp":5.1,"id":5499167}]}]}
+{"op":"mcm","clk":"7724043459","pt":1539736135866,"mc":[{"id":"1.149689903","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T07:00:00.000Z","suspendTime":"2018-10-18T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7299658,"name":"Nick Kyrgios"},{"status":"ACTIVE","sortPriority":2,"id":5499167,"name":"Mirza Basic"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T07:00:00.000Z","version":2458856209,"name":"Match Odds","eventName":"Kyrgios v Basic"}}]}
+{"op":"mcm","clk":"7725148898","pt":1539751905849,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7725265996","pt":1539753595001,"mc":[{"id":"1.149689903","rc":[{"ltp":1.24,"id":7299658}]}]}
+{"op":"mcm","clk":"7726401160","pt":1539768362733,"mc":[{"id":"1.149689903","rc":[{"ltp":1.23,"id":7299658}]}]}
+{"op":"mcm","clk":"7726604383","pt":1539770691897,"mc":[{"id":"1.149689903","rc":[{"ltp":5.4,"id":5499167}]}]}
+{"op":"mcm","clk":"7727162745","pt":1539776318059,"mc":[{"id":"1.149689903","rc":[{"ltp":5.5,"id":5499167}]}]}
+{"op":"mcm","clk":"7727462076","pt":1539779200282,"mc":[{"id":"1.149689903","rc":[{"ltp":1.24,"id":7299658},{"ltp":5.1,"id":5499167}]}]}
+{"op":"mcm","clk":"7727696674","pt":1539781224971,"mc":[{"id":"1.149689903","rc":[{"ltp":1.25,"id":7299658}]}]}
+{"op":"mcm","clk":"7728375152","pt":1539788039633,"mc":[{"id":"1.149689903","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T17:00:00.000Z","suspendTime":"2018-10-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7299658,"name":"Nick Kyrgios"},{"status":"ACTIVE","sortPriority":2,"id":5499167,"name":"Mirza Basic"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T17:00:00.000Z","version":2459375502,"name":"Match Odds","eventName":"Kyrgios v Basic"}}]}
+{"op":"mcm","clk":"7729172620","pt":1539794994435,"mc":[{"id":"1.149689903","rc":[{"ltp":5.0,"id":5499167}]}]}
+{"op":"mcm","clk":"7730265614","pt":1539803526927,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7730326196","pt":1539804028262,"mc":[{"id":"1.149689903","rc":[{"ltp":1.25,"id":7299658}]}]}
+{"op":"mcm","clk":"7730638738","pt":1539806542833,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7730662860","pt":1539806756563,"mc":[{"id":"1.149689903","rc":[{"ltp":1.25,"id":7299658}]}]}
+{"op":"mcm","clk":"7730980051","pt":1539810058966,"mc":[{"id":"1.149689903","rc":[{"ltp":5.1,"id":5499167}]}]}
+{"op":"mcm","clk":"7731044790","pt":1539811074327,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7731171075","pt":1539813168697,"mc":[{"id":"1.149689903","rc":[{"ltp":4.7,"id":5499167}]}]}
+{"op":"mcm","clk":"7731359259","pt":1539815995762,"mc":[{"id":"1.149689903","rc":[{"ltp":1.25,"id":7299658},{"ltp":5.0,"id":5499167}]}]}
+{"op":"mcm","clk":"7731484741","pt":1539817607776,"mc":[{"id":"1.149689903","rc":[{"ltp":4.8,"id":5499167}]}]}
+{"op":"mcm","clk":"7731849724","pt":1539821976464,"mc":[{"id":"1.149689903","rc":[{"ltp":1.24,"id":7299658}]}]}
+{"op":"mcm","clk":"7732061453","pt":1539824693170,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7732730478","pt":1539834680309,"mc":[{"id":"1.149689903","rc":[{"ltp":4.7,"id":5499167}]}]}
+{"op":"mcm","clk":"7732732522","pt":1539834746138,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7732766904","pt":1539835368898,"mc":[{"id":"1.149689903","rc":[{"ltp":4.8,"id":5499167}]}]}
+{"op":"mcm","clk":"7732948889","pt":1539838853870,"mc":[{"id":"1.149689903","rc":[{"ltp":4.6,"id":5499167}]}]}
+{"op":"mcm","clk":"7733016054","pt":1539840336015,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7733091143","pt":1539841620964,"mc":[{"id":"1.149689903","rc":[{"ltp":4.8,"id":5499167}]}]}
+{"op":"mcm","clk":"7733295738","pt":1539845483784,"mc":[{"id":"1.149689903","rc":[{"ltp":1.28,"id":7299658}]}]}
+{"op":"mcm","clk":"7733392254","pt":1539846984294,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7733452336","pt":1539847751682,"mc":[{"id":"1.149689903","rc":[{"ltp":1.28,"id":7299658}]}]}
+{"op":"mcm","clk":"7733505616","pt":1539848668297,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7733584684","pt":1539850080268,"mc":[{"id":"1.149689903","rc":[{"ltp":4.6,"id":5499167}]}]}
+{"op":"mcm","clk":"7733741949","pt":1539852444524,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7733744787","pt":1539852503126,"mc":[{"id":"1.149689903","rc":[{"ltp":4.8,"id":5499167}]}]}
+{"op":"mcm","clk":"7733856814","pt":1539854154351,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7733984681","pt":1539856011874,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7734186283","pt":1539858461272,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658},{"ltp":4.7,"id":5499167}]}]}
+{"op":"mcm","clk":"7734189688","pt":1539858506973,"mc":[{"id":"1.149689903","rc":[{"ltp":1.26,"id":7299658}]}]}
+{"op":"mcm","clk":"7734199484","pt":1539858635848,"mc":[{"id":"1.149689903","rc":[{"ltp":4.8,"id":5499167}]}]}
+{"op":"mcm","clk":"7734491078","pt":1539862050592,"mc":[{"id":"1.149689903","rc":[{"ltp":1.27,"id":7299658}]}]}
+{"op":"mcm","clk":"7734520020","pt":1539862436713,"mc":[{"id":"1.149689903","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28960304","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T17:00:00.000Z","suspendTime":"2018-10-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T11:33:45.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-18T11:33:45.000Z","id":7299658,"name":"Nick Kyrgios"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-18T11:33:45.000Z","id":5499167,"name":"Mirza Basic"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T17:00:00.000Z","version":2460475781,"name":"Match Odds","eventName":"Kyrgios v Basic"}}]}

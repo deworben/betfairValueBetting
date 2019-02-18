@@ -1,0 +1,59 @@
+{"op":"mcm","clk":"7796257024","pt":1540273267729,"mc":[{"id":"1.150042371","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969566","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T09:00:00.000Z","suspendTime":"2018-10-23T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626647,"name":"E Rodina"},{"status":"ACTIVE","sortPriority":2,"id":9628364,"name":"T Smitkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T09:00:00.000Z","version":2471539114,"name":"Match Odds","eventName":"E Rodina v T Smitkova"}}]}
+{"op":"mcm","clk":"7796294683","pt":1540273977766,"mc":[{"id":"1.150042371","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969566","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T09:00:00.000Z","suspendTime":"2018-10-23T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626647,"name":"E Rodina"},{"status":"ACTIVE","sortPriority":2,"id":9628364,"name":"T Smitkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T09:00:00.000Z","version":2471539114,"name":"Match Odds","eventName":"E Rodina v T Smitkova"}}]}
+{"op":"mcm","clk":"7796689787","pt":1540280942069,"mc":[{"id":"1.150042371","rc":[{"ltp":1.53,"id":9628364}]}]}
+{"op":"mcm","clk":"7796810794","pt":1540283309161,"mc":[{"id":"1.150042371","rc":[{"ltp":2.4,"id":9626647}]}]}
+{"op":"mcm","clk":"7796810836","pt":1540283310059,"mc":[{"id":"1.150042371","rc":[{"ltp":1.55,"id":9628364}]}]}
+{"op":"mcm","clk":"7796841516","pt":1540283744473,"mc":[{"id":"1.150042371","rc":[{"ltp":1.54,"id":9628364}]}]}
+{"op":"mcm","clk":"7796883738","pt":1540284488190,"mc":[{"id":"1.150042371","rc":[{"ltp":1.53,"id":9628364}]}]}
+{"op":"mcm","clk":"7796900525","pt":1540284926182,"mc":[{"id":"1.150042371","rc":[{"ltp":2.42,"id":9626647},{"ltp":1.71,"id":9628364}]}]}
+{"op":"mcm","clk":"7796902068","pt":1540284965901,"mc":[{"id":"1.150042371","rc":[{"ltp":1.53,"id":9628364}]}]}
+{"op":"mcm","clk":"7796912957","pt":1540285227050,"mc":[{"id":"1.150042371","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969566","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T09:00:00.000Z","suspendTime":"2018-10-23T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626647,"name":"E Rodina"},{"status":"ACTIVE","sortPriority":2,"id":9628364,"name":"T Smitkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T09:00:00.000Z","version":2471592111,"name":"Match Odds","eventName":"E Rodina v T Smitkova"}}]}
+{"op":"mcm","clk":"7796942346","pt":1540285611543,"mc":[{"id":"1.150042371","rc":[{"ltp":1.54,"id":9628364}]}]}
+{"op":"mcm","clk":"7796952728","pt":1540285825343,"mc":[{"id":"1.150042371","rc":[{"ltp":1.49,"id":9628364}]}]}
+{"op":"mcm","clk":"7796954191","pt":1540285861799,"mc":[{"id":"1.150042371","rc":[{"ltp":1.4,"id":9628364}]}]}
+{"op":"mcm","clk":"7796959041","pt":1540285947759,"mc":[{"id":"1.150042371","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969566","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T09:00:00.000Z","suspendTime":"2018-10-23T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626647,"name":"E Rodina"},{"status":"ACTIVE","sortPriority":2,"id":9628364,"name":"T Smitkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T09:12:16.000Z","version":2471595944,"name":"Match Odds","eventName":"E Rodina v T Smitkova"},"rc":[{"ltp":2.72,"id":9626647},{"ltp":1.58,"id":9628364}]}]}
+{"op":"mcm","clk":"7796961333","pt":1540286004199,"mc":[{"id":"1.150042371","rc":[{"ltp":3.0,"id":9626647},{"ltp":1.5,"id":9628364}]}]}
+{"op":"mcm","clk":"7796963271","pt":1540286056078,"mc":[{"id":"1.150042371","rc":[{"ltp":1.48,"id":9628364}]}]}
+{"op":"mcm","clk":"7796968178","pt":1540286188806,"mc":[{"id":"1.150042371","rc":[{"ltp":1.41,"id":9628364}]}]}
+{"op":"mcm","clk":"7796981228","pt":1540286237878,"mc":[{"id":"1.150042371","rc":[{"ltp":1.39,"id":9628364}]}]}
+{"op":"mcm","clk":"7796986503","pt":1540286369101,"mc":[{"id":"1.150042371","rc":[{"ltp":1.5,"id":9628364}]}]}
+{"op":"mcm","clk":"7796991154","pt":1540286477437,"mc":[{"id":"1.150042371","rc":[{"ltp":1.46,"id":9628364}]}]}
+{"op":"mcm","clk":"7796994063","pt":1540286549314,"mc":[{"id":"1.150042371","rc":[{"ltp":1.41,"id":9628364}]}]}
+{"op":"mcm","clk":"7796996372","pt":1540286606129,"mc":[{"id":"1.150042371","rc":[{"ltp":1.56,"id":9628364}]}]}
+{"op":"mcm","clk":"7797002890","pt":1540286729150,"mc":[{"id":"1.150042371","rc":[{"ltp":2.66,"id":9626647},{"ltp":1.47,"id":9628364}]}]}
+{"op":"mcm","clk":"7797005744","pt":1540286785294,"mc":[{"id":"1.150042371","rc":[{"ltp":1.5,"id":9628364}]}]}
+{"op":"mcm","clk":"7797008913","pt":1540286843294,"mc":[{"id":"1.150042371","rc":[{"ltp":1.42,"id":9628364}]}]}
+{"op":"mcm","clk":"7797014574","pt":1540286968412,"mc":[{"id":"1.150042371","rc":[{"ltp":2.8,"id":9626647},{"ltp":1.54,"id":9628364}]}]}
+{"op":"mcm","clk":"7797017202","pt":1540287027353,"mc":[{"id":"1.150042371","rc":[{"ltp":2.54,"id":9626647},{"ltp":1.65,"id":9628364}]}]}
+{"op":"mcm","clk":"7797019963","pt":1540287088340,"mc":[{"id":"1.150042371","rc":[{"ltp":2.16,"id":9626647},{"ltp":1.63,"id":9628364}]}]}
+{"op":"mcm","clk":"7797033968","pt":1540287149481,"mc":[{"id":"1.150042371","rc":[{"ltp":3.25,"id":9626647},{"ltp":1.44,"id":9628364}]}]}
+{"op":"mcm","clk":"7797037236","pt":1540287208661,"mc":[{"id":"1.150042371","rc":[{"ltp":1.42,"id":9628364}]}]}
+{"op":"mcm","clk":"7797039878","pt":1540287268990,"mc":[{"id":"1.150042371","rc":[{"ltp":4.6,"id":9626647},{"ltp":1.28,"id":9628364}]}]}
+{"op":"mcm","clk":"7797043510","pt":1540287328809,"mc":[{"id":"1.150042371","rc":[{"ltp":1.3,"id":9628364}]}]}
+{"op":"mcm","clk":"7797046984","pt":1540287389204,"mc":[{"id":"1.150042371","rc":[{"ltp":3.25,"id":9626647}]}]}
+{"op":"mcm","clk":"7797050114","pt":1540287445997,"mc":[{"id":"1.150042371","rc":[{"ltp":1.15,"id":9628364}]}]}
+{"op":"mcm","clk":"7797052949","pt":1540287504366,"mc":[{"id":"1.150042371","rc":[{"ltp":1.17,"id":9628364}]}]}
+{"op":"mcm","clk":"7797055816","pt":1540287566447,"mc":[{"id":"1.150042371","rc":[{"ltp":1.13,"id":9628364}]}]}
+{"op":"mcm","clk":"7797058307","pt":1540287628635,"mc":[{"id":"1.150042371","rc":[{"ltp":11.0,"id":9626647},{"ltp":1.08,"id":9628364}]}]}
+{"op":"mcm","clk":"7797060943","pt":1540287689213,"mc":[{"id":"1.150042371","rc":[{"ltp":15.5,"id":9626647},{"ltp":1.05,"id":9628364}]}]}
+{"op":"mcm","clk":"7797063299","pt":1540287749356,"mc":[{"id":"1.150042371","rc":[{"ltp":15.0,"id":9626647},{"ltp":1.07,"id":9628364}]}]}
+{"op":"mcm","clk":"7797066167","pt":1540287808868,"mc":[{"id":"1.150042371","rc":[{"ltp":1.05,"id":9628364}]}]}
+{"op":"mcm","clk":"7797068842","pt":1540287865025,"mc":[{"id":"1.150042371","rc":[{"ltp":15.5,"id":9626647},{"ltp":1.08,"id":9628364}]}]}
+{"op":"mcm","clk":"7797072165","pt":1540287927860,"mc":[{"id":"1.150042371","rc":[{"ltp":9.2,"id":9626647},{"ltp":1.13,"id":9628364}]}]}
+{"op":"mcm","clk":"7797075664","pt":1540287988858,"mc":[{"id":"1.150042371","rc":[{"ltp":8.6,"id":9626647},{"ltp":1.06,"id":9628364}]}]}
+{"op":"mcm","clk":"7797089633","pt":1540288048685,"mc":[{"id":"1.150042371","rc":[{"ltp":8.0,"id":9626647},{"ltp":1.14,"id":9628364}]}]}
+{"op":"mcm","clk":"7797092627","pt":1540288106548,"mc":[{"id":"1.150042371","rc":[{"ltp":6.2,"id":9626647},{"ltp":1.2,"id":9628364}]}]}
+{"op":"mcm","clk":"7797095880","pt":1540288169130,"mc":[{"id":"1.150042371","rc":[{"ltp":1.14,"id":9628364}]}]}
+{"op":"mcm","clk":"7797098696","pt":1540288222819,"mc":[{"id":"1.150042371","rc":[{"ltp":9.2,"id":9626647},{"ltp":1.12,"id":9628364}]}]}
+{"op":"mcm","clk":"7797102270","pt":1540288285120,"mc":[{"id":"1.150042371","rc":[{"ltp":1.13,"id":9628364}]}]}
+{"op":"mcm","clk":"7797105620","pt":1540288349359,"mc":[{"id":"1.150042371","rc":[{"ltp":1.15,"id":9628364}]}]}
+{"op":"mcm","clk":"7797108005","pt":1540288409534,"mc":[{"id":"1.150042371","rc":[{"ltp":1.07,"id":9628364}]}]}
+{"op":"mcm","clk":"7797110759","pt":1540288467196,"mc":[{"id":"1.150042371","rc":[{"ltp":1.02,"id":9628364}]}]}
+{"op":"mcm","clk":"7797113748","pt":1540288526923,"mc":[{"id":"1.150042371","rc":[{"ltp":20.0,"id":9626647},{"ltp":1.04,"id":9628364}]}]}
+{"op":"mcm","clk":"7797116291","pt":1540288588940,"mc":[{"id":"1.150042371","rc":[{"ltp":34.0,"id":9626647},{"ltp":1.02,"id":9628364}]}]}
+{"op":"mcm","clk":"7797121371","pt":1540288708613,"mc":[{"id":"1.150042371","rc":[{"ltp":1.01,"id":9628364}]}]}
+{"op":"mcm","clk":"7797124704","pt":1540288769146,"mc":[{"id":"1.150042371","rc":[{"ltp":50.0,"id":9626647},{"ltp":1.02,"id":9628364}]}]}
+{"op":"mcm","clk":"7797128189","pt":1540288828984,"mc":[{"id":"1.150042371","rc":[{"ltp":55.0,"id":9626647},{"ltp":1.03,"id":9628364}]}]}
+{"op":"mcm","clk":"7797132223","pt":1540288889471,"mc":[{"id":"1.150042371","rc":[{"ltp":1.02,"id":9628364}]}]}
+{"op":"mcm","clk":"7797146791","pt":1540288942177,"mc":[{"id":"1.150042371","rc":[{"ltp":1.01,"id":9628364}]}]}
+{"op":"mcm","clk":"7797149124","pt":1540288982071,"mc":[{"id":"1.150042371","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969566","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T09:00:00.000Z","suspendTime":"2018-10-23T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T10:02:56.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9626647,"name":"E Rodina"},{"status":"WINNER","sortPriority":2,"id":9628364,"name":"T Smitkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-23T09:12:16.000Z","version":2471607305,"name":"Match Odds","eventName":"E Rodina v T Smitkova"}}]}

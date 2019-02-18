@@ -1,0 +1,87 @@
+{"op":"mcm","clk":"7737561353","pt":1540418384805,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T15:00:00.000Z","suspendTime":"2018-10-25T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2474404982,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7737576192","pt":1540418712557,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T15:00:00.000Z","suspendTime":"2018-10-25T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2474404982,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7737787329","pt":1540423130815,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T17:00:00.000Z","suspendTime":"2018-10-25T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2474457475,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7737787448","pt":1540423132929,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T17:00:00.000Z","suspendTime":"2018-10-25T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T17:00:00.000Z","version":2474457475,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7739242086","pt":1540450250559,"mc":[{"id":"1.150147473","rc":[{"ltp":2.58,"id":9420497},{"ltp":1.63,"id":6129383}]}]}
+{"op":"mcm","clk":"7739847672","pt":1540460542311,"mc":[{"id":"1.150147473","rc":[{"ltp":1.59,"id":6129383}]}]}
+{"op":"mcm","clk":"7741158538","pt":1540476629788,"mc":[{"id":"1.150147473","rc":[{"ltp":2.6,"id":9420497},{"ltp":1.63,"id":6129383}]}]}
+{"op":"mcm","clk":"7741269106","pt":1540477726096,"mc":[{"id":"1.150147473","rc":[{"ltp":2.46,"id":9420497},{"ltp":1.65,"id":6129383}]}]}
+{"op":"mcm","clk":"7741346394","pt":1540478441994,"mc":[{"id":"1.150147473","rc":[{"ltp":2.44,"id":9420497},{"ltp":1.68,"id":6129383}]}]}
+{"op":"mcm","clk":"7741467120","pt":1540479636566,"mc":[{"id":"1.150147473","rc":[{"ltp":2.4,"id":9420497},{"ltp":1.71,"id":6129383}]}]}
+{"op":"mcm","clk":"7741479648","pt":1540479762710,"mc":[{"id":"1.150147473","rc":[{"ltp":1.72,"id":6129383}]}]}
+{"op":"mcm","clk":"7741486161","pt":1540479829105,"mc":[{"id":"1.150147473","rc":[{"ltp":1.71,"id":6129383}]}]}
+{"op":"mcm","clk":"7741491362","pt":1540479882615,"mc":[{"id":"1.150147473","rc":[{"ltp":2.38,"id":9420497}]}]}
+{"op":"mcm","clk":"7741504213","pt":1540480009973,"mc":[{"id":"1.150147473","rc":[{"ltp":1.72,"id":6129383}]}]}
+{"op":"mcm","clk":"7741534699","pt":1540480177727,"mc":[{"id":"1.150147473","rc":[{"ltp":2.36,"id":9420497},{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7741602369","pt":1540480780375,"mc":[{"id":"1.150147473","rc":[{"ltp":2.38,"id":9420497}]}]}
+{"op":"mcm","clk":"7741609936","pt":1540480843922,"mc":[{"id":"1.150147473","rc":[{"ltp":2.36,"id":9420497}]}]}
+{"op":"mcm","clk":"7741684284","pt":1540481384232,"mc":[{"id":"1.150147473","rc":[{"ltp":1.7,"id":6129383}]}]}
+{"op":"mcm","clk":"7741696886","pt":1540481509006,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7741702807","pt":1540481569039,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7741750163","pt":1540481867012,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7741763469","pt":1540481988490,"mc":[{"id":"1.150147473","rc":[{"ltp":1.68,"id":6129383}]}]}
+{"op":"mcm","clk":"7741768649","pt":1540482047717,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7741812992","pt":1540482472232,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7741818603","pt":1540482531673,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7741829511","pt":1540482651601,"mc":[{"id":"1.150147473","rc":[{"ltp":1.71,"id":6129383}]}]}
+{"op":"mcm","clk":"7741861937","pt":1540482832413,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7741873777","pt":1540482942410,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7741917239","pt":1540483356308,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7741964947","pt":1540483659297,"mc":[{"id":"1.150147473","rc":[{"ltp":1.7,"id":6129383}]}]}
+{"op":"mcm","clk":"7742033990","pt":1540484311328,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7742125776","pt":1540485170939,"mc":[{"id":"1.150147473","rc":[{"ltp":1.71,"id":6129383}]}]}
+{"op":"mcm","clk":"7742137883","pt":1540485282981,"mc":[{"id":"1.150147473","rc":[{"ltp":1.72,"id":6129383}]}]}
+{"op":"mcm","clk":"7742151082","pt":1540485401736,"mc":[{"id":"1.150147473","rc":[{"ltp":1.73,"id":6129383}]}]}
+{"op":"mcm","clk":"7742211573","pt":1540485948335,"mc":[{"id":"1.150147473","rc":[{"ltp":2.4,"id":9420497}]}]}
+{"op":"mcm","clk":"7742221298","pt":1540486062394,"mc":[{"id":"1.150147473","rc":[{"ltp":2.34,"id":9420497}]}]}
+{"op":"mcm","clk":"7742227845","pt":1540486132398,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7742233181","pt":1540486191019,"mc":[{"id":"1.150147473","rc":[{"ltp":2.36,"id":9420497},{"ltp":1.75,"id":6129383}]}]}
+{"op":"mcm","clk":"7742239441","pt":1540486252248,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7742246054","pt":1540486312131,"mc":[{"id":"1.150147473","rc":[{"ltp":2.32,"id":9420497},{"ltp":1.75,"id":6129383}]}]}
+{"op":"mcm","clk":"7742274495","pt":1540486431684,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T16:49:00.000Z","suspendTime":"2018-10-25T16:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T16:49:00.000Z","version":2475154815,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7742285963","pt":1540486538156,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7742297168","pt":1540486665412,"mc":[{"id":"1.150147473","rc":[{"ltp":1.75,"id":6129383}]}]}
+{"op":"mcm","clk":"7742344383","pt":1540487150952,"mc":[{"id":"1.150147473","rc":[{"ltp":2.36,"id":9420497}]}]}
+{"op":"mcm","clk":"7742373255","pt":1540487268776,"mc":[{"id":"1.150147473","rc":[{"ltp":2.38,"id":9420497},{"ltp":1.72,"id":6129383}]}]}
+{"op":"mcm","clk":"7742392613","pt":1540487449786,"mc":[{"id":"1.150147473","rc":[{"ltp":1.75,"id":6129383}]}]}
+{"op":"mcm","clk":"7742398011","pt":1540487508334,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T16:49:00.000Z","suspendTime":"2018-10-25T16:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T16:49:00.000Z","version":2475205652,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"},"rc":[{"ltp":1.72,"id":6129383}]}]}
+{"op":"mcm","clk":"7742409041","pt":1540487631057,"mc":[{"id":"1.150147473","rc":[{"ltp":1.74,"id":6129383}]}]}
+{"op":"mcm","clk":"7742414648","pt":1540487691893,"mc":[{"id":"1.150147473","rc":[{"ltp":2.6,"id":9420497},{"ltp":1.62,"id":6129383}]}]}
+{"op":"mcm","clk":"7742424995","pt":1540487810534,"mc":[{"id":"1.150147473","rc":[{"ltp":2.52,"id":9420497},{"ltp":1.64,"id":6129383}]}]}
+{"op":"mcm","clk":"7742436082","pt":1540487929401,"mc":[{"id":"1.150147473","rc":[{"ltp":1.47,"id":6129383}]}]}
+{"op":"mcm","clk":"7742441883","pt":1540487990720,"mc":[{"id":"1.150147473","rc":[{"ltp":3.6,"id":9420497},{"ltp":1.42,"id":6129383}]}]}
+{"op":"mcm","clk":"7742447951","pt":1540488051930,"mc":[{"id":"1.150147473","rc":[{"ltp":1.37,"id":6129383}]}]}
+{"op":"mcm","clk":"7742454295","pt":1540488112057,"mc":[{"id":"1.150147473","rc":[{"ltp":1.32,"id":6129383}]}]}
+{"op":"mcm","clk":"7742480378","pt":1540488228991,"mc":[{"id":"1.150147473","rc":[{"ltp":4.4,"id":9420497},{"ltp":1.27,"id":6129383}]}]}
+{"op":"mcm","clk":"7742486430","pt":1540488292517,"mc":[{"id":"1.150147473","rc":[{"ltp":1.24,"id":6129383}]}]}
+{"op":"mcm","clk":"7742497600","pt":1540488412376,"mc":[{"id":"1.150147473","rc":[{"ltp":1.25,"id":6129383}]}]}
+{"op":"mcm","clk":"7742503499","pt":1540488472509,"mc":[{"id":"1.150147473","rc":[{"ltp":1.26,"id":6129383}]}]}
+{"op":"mcm","clk":"7742508830","pt":1540488527740,"mc":[{"id":"1.150147473","rc":[{"ltp":1.21,"id":6129383}]}]}
+{"op":"mcm","clk":"7742521281","pt":1540488651234,"mc":[{"id":"1.150147473","rc":[{"ltp":6.0,"id":9420497},{"ltp":1.2,"id":6129383}]}]}
+{"op":"mcm","clk":"7742528623","pt":1540488711390,"mc":[{"id":"1.150147473","rc":[{"ltp":6.2,"id":9420497},{"ltp":1.19,"id":6129383}]}]}
+{"op":"mcm","clk":"7742536316","pt":1540488770797,"mc":[{"id":"1.150147473","rc":[{"ltp":1.18,"id":6129383}]}]}
+{"op":"mcm","clk":"7742556949","pt":1540488948529,"mc":[{"id":"1.150147473","rc":[{"ltp":6.4,"id":9420497},{"ltp":1.21,"id":6129383}]}]}
+{"op":"mcm","clk":"7742563808","pt":1540489012350,"mc":[{"id":"1.150147473","rc":[{"ltp":1.22,"id":6129383}]}]}
+{"op":"mcm","clk":"7742585964","pt":1540489072041,"mc":[{"id":"1.150147473","rc":[{"ltp":5.7,"id":9420497},{"ltp":1.19,"id":6129383}]}]}
+{"op":"mcm","clk":"7742599762","pt":1540489191551,"mc":[{"id":"1.150147473","rc":[{"ltp":1.18,"id":6129383}]}]}
+{"op":"mcm","clk":"7742606466","pt":1540489249485,"mc":[{"id":"1.150147473","rc":[{"ltp":1.19,"id":6129383}]}]}
+{"op":"mcm","clk":"7742613162","pt":1540489311556,"mc":[{"id":"1.150147473","rc":[{"ltp":6.2,"id":9420497},{"ltp":1.2,"id":6129383}]}]}
+{"op":"mcm","clk":"7742636422","pt":1540489541218,"mc":[{"id":"1.150147473","rc":[{"ltp":1.19,"id":6129383}]}]}
+{"op":"mcm","clk":"7742644044","pt":1540489611880,"mc":[{"id":"1.150147473","rc":[{"ltp":5.3,"id":9420497},{"ltp":1.23,"id":6129383}]}]}
+{"op":"mcm","clk":"7742649571","pt":1540489670734,"mc":[{"id":"1.150147473","rc":[{"ltp":5.7,"id":9420497},{"ltp":1.17,"id":6129383}]}]}
+{"op":"mcm","clk":"7742655784","pt":1540489732185,"mc":[{"id":"1.150147473","rc":[{"ltp":5.6,"id":9420497},{"ltp":1.2,"id":6129383}]}]}
+{"op":"mcm","clk":"7742661403","pt":1540489790475,"mc":[{"id":"1.150147473","rc":[{"ltp":8.0,"id":9420497},{"ltp":1.16,"id":6129383}]}]}
+{"op":"mcm","clk":"7742666972","pt":1540489851493,"mc":[{"id":"1.150147473","rc":[{"ltp":12.0,"id":9420497},{"ltp":1.08,"id":6129383}]}]}
+{"op":"mcm","clk":"7742672685","pt":1540489908833,"mc":[{"id":"1.150147473","rc":[{"ltp":1.07,"id":6129383}]}]}
+{"op":"mcm","clk":"7742694493","pt":1540489972127,"mc":[{"id":"1.150147473","rc":[{"ltp":15.0,"id":9420497},{"ltp":1.06,"id":6129383}]}]}
+{"op":"mcm","clk":"7742700301","pt":1540490029913,"mc":[{"id":"1.150147473","rc":[{"ltp":1.07,"id":6129383}]}]}
+{"op":"mcm","clk":"7742705598","pt":1540490087206,"mc":[{"id":"1.150147473","rc":[{"ltp":1.06,"id":6129383}]}]}
+{"op":"mcm","clk":"7742711663","pt":1540490148887,"mc":[{"id":"1.150147473","rc":[{"ltp":17.5,"id":9420497},{"ltp":1.04,"id":6129383}]}]}
+{"op":"mcm","clk":"7742717232","pt":1540490212455,"mc":[{"id":"1.150147473","rc":[{"ltp":1.02,"id":6129383}]}]}
+{"op":"mcm","clk":"7742722377","pt":1540490270529,"mc":[{"id":"1.150147473","rc":[{"ltp":36.0,"id":9420497}]}]}
+{"op":"mcm","clk":"7742750802","pt":1540490512006,"mc":[{"id":"1.150147473","rc":[{"ltp":1.01,"id":6129383}]}]}
+{"op":"mcm","clk":"7742771978","pt":1540490691764,"mc":[{"id":"1.150147473","rc":[{"ltp":1.02,"id":6129383}]}]}
+{"op":"mcm","clk":"7742785927","pt":1540490811788,"mc":[{"id":"1.150147473","rc":[{"ltp":1.01,"id":6129383}]}]}
+{"op":"mcm","clk":"7742874218","pt":1540491404568,"mc":[{"id":"1.150147473","rc":[{"ltp":110.0,"id":9420497}]}]}
+{"op":"mcm","clk":"7742887773","pt":1540491521853,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T16:49:00.000Z","suspendTime":"2018-10-25T16:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"ACTIVE","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T16:49:00.000Z","version":2475336901,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}
+{"op":"mcm","clk":"7742891626","pt":1540491559464,"mc":[{"id":"1.150147473","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974517","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T16:49:00.000Z","suspendTime":"2018-10-25T16:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T18:19:14.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9420497,"name":"Jose Hernandez-Fernande"},{"status":"WINNER","sortPriority":2,"id":6129383,"name":"Facundo Arguello"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T16:49:00.000Z","version":2475337995,"name":"Match Odds","eventName":"Hernandez-Fernandez v Arguello"}}]}

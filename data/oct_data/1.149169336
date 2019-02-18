@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7634131184","pt":1538797230754,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:00:00.000Z","suspendTime":"2018-10-06T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:00:00.000Z","version":2439296969,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7634192906","pt":1538797931375,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:00:00.000Z","suspendTime":"2018-10-06T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:00:00.000Z","version":2439296969,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7637530623","pt":1538823738296,"mc":[{"id":"1.149169336","rc":[{"ltp":1.63,"id":2257314}]}]}
+{"op":"mcm","clk":"7637906651","pt":1538825535763,"mc":[{"id":"1.149169336","rc":[{"ltp":2.62,"id":8700174},{"ltp":1.62,"id":2257314}]}]}
+{"op":"mcm","clk":"7639281493","pt":1538832210952,"mc":[{"id":"1.149169336","rc":[{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7641083420","pt":1538839089274,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7642355045","pt":1538844753029,"mc":[{"id":"1.149169336","rc":[{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7642382651","pt":1538844931000,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7642699425","pt":1538846599296,"mc":[{"id":"1.149169336","rc":[{"ltp":1.56,"id":2257314}]}]}
+{"op":"mcm","clk":"7642847378","pt":1538847332092,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7643138627","pt":1538848870977,"mc":[{"id":"1.149169336","rc":[{"ltp":2.78,"id":8700174}]}]}
+{"op":"mcm","clk":"7643488912","pt":1538850674304,"mc":[{"id":"1.149169336","rc":[{"ltp":1.55,"id":2257314}]}]}
+{"op":"mcm","clk":"7643532585","pt":1538850922613,"mc":[{"id":"1.149169336","rc":[{"ltp":1.56,"id":2257314}]}]}
+{"op":"mcm","clk":"7643548421","pt":1538851013939,"mc":[{"id":"1.149169336","rc":[{"ltp":2.76,"id":8700174}]}]}
+{"op":"mcm","clk":"7643732632","pt":1538852072599,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T20:53:00.000Z","suspendTime":"2018-10-06T20:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T20:53:00.000Z","version":2441995057,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7643773199","pt":1538852272954,"mc":[{"id":"1.149169336","rc":[{"ltp":1.55,"id":2257314}]}]}
+{"op":"mcm","clk":"7643804220","pt":1538852492533,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7643813637","pt":1538852555117,"mc":[{"id":"1.149169336","rc":[{"ltp":1.56,"id":2257314}]}]}
+{"op":"mcm","clk":"7643818562","pt":1538852587579,"mc":[{"id":"1.149169336","rc":[{"ltp":1.55,"id":2257314}]}]}
+{"op":"mcm","clk":"7643826756","pt":1538852639740,"mc":[{"id":"1.149169336","rc":[{"ltp":1.56,"id":2257314}]}]}
+{"op":"mcm","clk":"7643848036","pt":1538852765087,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7643883705","pt":1538852974545,"mc":[{"id":"1.149169336","rc":[{"ltp":2.7,"id":8700174},{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7643891739","pt":1538853023108,"mc":[{"id":"1.149169336","rc":[{"ltp":2.66,"id":8700174}]}]}
+{"op":"mcm","clk":"7643902309","pt":1538853085578,"mc":[{"id":"1.149169336","rc":[{"ltp":2.62,"id":8700174}]}]}
+{"op":"mcm","clk":"7643926868","pt":1538853153064,"mc":[{"id":"1.149169336","rc":[{"ltp":2.54,"id":8700174}]}]}
+{"op":"mcm","clk":"7643955745","pt":1538853315576,"mc":[{"id":"1.149169336","rc":[{"ltp":2.52,"id":8700174}]}]}
+{"op":"mcm","clk":"7643977849","pt":1538853436827,"mc":[{"id":"1.149169336","rc":[{"ltp":2.54,"id":8700174}]}]}
+{"op":"mcm","clk":"7644008938","pt":1538853635190,"mc":[{"id":"1.149169336","rc":[{"ltp":1.64,"id":2257314}]}]}
+{"op":"mcm","clk":"7644029376","pt":1538853753032,"mc":[{"id":"1.149169336","rc":[{"ltp":1.65,"id":2257314}]}]}
+{"op":"mcm","clk":"7644034334","pt":1538853782447,"mc":[{"id":"1.149169336","rc":[{"ltp":2.52,"id":8700174}]}]}
+{"op":"mcm","clk":"7644047498","pt":1538853871563,"mc":[{"id":"1.149169336","rc":[{"ltp":2.5,"id":8700174}]}]}
+{"op":"mcm","clk":"7644066577","pt":1538853991423,"mc":[{"id":"1.149169336","rc":[{"ltp":2.48,"id":8700174}]}]}
+{"op":"mcm","clk":"7644087311","pt":1538854047602,"mc":[{"id":"1.149169336","rc":[{"ltp":1.67,"id":2257314}]}]}
+{"op":"mcm","clk":"7644105140","pt":1538854170079,"mc":[{"id":"1.149169336","rc":[{"ltp":2.46,"id":8700174},{"ltp":1.63,"id":2257314}]}]}
+{"op":"mcm","clk":"7644115708","pt":1538854235367,"mc":[{"id":"1.149169336","rc":[{"ltp":2.48,"id":8700174},{"ltp":1.67,"id":2257314}]}]}
+{"op":"mcm","clk":"7644123648","pt":1538854294052,"mc":[{"id":"1.149169336","rc":[{"ltp":2.46,"id":8700174},{"ltp":1.69,"id":2257314}]}]}
+{"op":"mcm","clk":"7644151585","pt":1538854488549,"mc":[{"id":"1.149169336","rc":[{"ltp":1.7,"id":2257314}]}]}
+{"op":"mcm","clk":"7644179677","pt":1538854686171,"mc":[{"id":"1.149169336","rc":[{"ltp":2.48,"id":8700174}]}]}
+{"op":"mcm","clk":"7644200995","pt":1538854833615,"mc":[{"id":"1.149169336","rc":[{"ltp":2.42,"id":8700174}]}]}
+{"op":"mcm","clk":"7644250879","pt":1538855075388,"mc":[{"id":"1.149169336","rc":[{"ltp":2.5,"id":8700174},{"ltp":1.67,"id":2257314}]}]}
+{"op":"mcm","clk":"7644258979","pt":1538855135380,"mc":[{"id":"1.149169336","rc":[{"ltp":2.42,"id":8700174}]}]}
+{"op":"mcm","clk":"7644283014","pt":1538855313777,"mc":[{"id":"1.149169336","rc":[{"ltp":2.5,"id":8700174}]}]}
+{"op":"mcm","clk":"7644385334","pt":1538856075617,"mc":[{"id":"1.149169336","rc":[{"ltp":1.68,"id":2257314}]}]}
+{"op":"mcm","clk":"7644400384","pt":1538856214463,"mc":[{"id":"1.149169336","rc":[{"ltp":2.48,"id":8700174},{"ltp":1.67,"id":2257314}]}]}
+{"op":"mcm","clk":"7644419364","pt":1538856381779,"mc":[{"id":"1.149169336","rc":[{"ltp":2.52,"id":8700174}]}]}
+{"op":"mcm","clk":"7644437949","pt":1538856513122,"mc":[{"id":"1.149169336","rc":[{"ltp":2.54,"id":8700174},{"ltp":1.65,"id":2257314}]}]}
+{"op":"mcm","clk":"7644445021","pt":1538856575193,"mc":[{"id":"1.149169336","rc":[{"ltp":2.66,"id":8700174},{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644453807","pt":1538856635062,"mc":[{"id":"1.149169336","rc":[{"ltp":2.54,"id":8700174},{"ltp":1.66,"id":2257314}]}]}
+{"op":"mcm","clk":"7644461295","pt":1538856695061,"mc":[{"id":"1.149169336","rc":[{"ltp":2.66,"id":8700174},{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644488342","pt":1538856813139,"mc":[{"id":"1.149169336","rc":[{"ltp":2.62,"id":8700174},{"ltp":1.61,"id":2257314}]}]}
+{"op":"mcm","clk":"7644511775","pt":1538857011723,"mc":[{"id":"1.149169336","rc":[{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644523336","pt":1538857112962,"mc":[{"id":"1.149169336","rc":[{"ltp":1.61,"id":2257314}]}]}
+{"op":"mcm","clk":"7644548446","pt":1538857353821,"mc":[{"id":"1.149169336","rc":[{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7644600984","pt":1538857715084,"mc":[{"id":"1.149169336","rc":[{"ltp":1.58,"id":2257314}]}]}
+{"op":"mcm","clk":"7644691631","pt":1538858433048,"mc":[{"id":"1.149169336","rc":[{"ltp":1.56,"id":2257314}]}]}
+{"op":"mcm","clk":"7644744111","pt":1538858789876,"mc":[{"id":"1.149169336","rc":[{"ltp":2.68,"id":8700174},{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644755737","pt":1538858906329,"mc":[{"id":"1.149169336","rc":[{"ltp":2.6,"id":8700174},{"ltp":1.62,"id":2257314}]}]}
+{"op":"mcm","clk":"7644760192","pt":1538858951456,"mc":[{"id":"1.149169336","rc":[{"ltp":1.57,"id":2257314}]}]}
+{"op":"mcm","clk":"7644785333","pt":1538859214546,"mc":[{"id":"1.149169336","rc":[{"ltp":1.62,"id":2257314}]}]}
+{"op":"mcm","clk":"7644791071","pt":1538859265977,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:08:00.000Z","suspendTime":"2018-10-06T21:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:08:00.000Z","version":2442377164,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7644797058","pt":1538859319720,"mc":[{"id":"1.149169336","rc":[{"ltp":1.58,"id":2257314}]}]}
+{"op":"mcm","clk":"7644822252","pt":1538859440969,"mc":[{"id":"1.149169336","rc":[{"ltp":1.62,"id":2257314}]}]}
+{"op":"mcm","clk":"7644834166","pt":1538859562333,"mc":[{"id":"1.149169336","rc":[{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644878096","pt":1538859992391,"mc":[{"id":"1.149169336","rc":[{"ltp":1.63,"id":2257314}]}]}
+{"op":"mcm","clk":"7644878923","pt":1538860001571,"mc":[{"id":"1.149169336","rc":[{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7644897735","pt":1538860165559,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:23:00.000Z","suspendTime":"2018-10-06T21:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:23:00.000Z","version":2442408588,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7644970263","pt":1538860712241,"mc":[{"id":"1.149169336","rc":[{"ltp":2.72,"id":8700174},{"ltp":1.58,"id":2257314}]}]}
+{"op":"mcm","clk":"7645004501","pt":1538861065870,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:38:00.000Z","suspendTime":"2018-10-06T21:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8700174,"name":"Ernesto Escobedo"},{"status":"ACTIVE","sortPriority":2,"id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:38:00.000Z","version":2442423944,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}
+{"op":"mcm","clk":"7645015548","pt":1538861186538,"mc":[{"id":"1.149169336","rc":[{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7645032643","pt":1538861232793,"mc":[{"id":"1.149169336","rc":[{"ltp":2.66,"id":8700174},{"ltp":1.6,"id":2257314}]}]}
+{"op":"mcm","clk":"7645040513","pt":1538861309159,"mc":[{"id":"1.149169336","rc":[{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7645046491","pt":1538861372209,"mc":[{"id":"1.149169336","rc":[{"ltp":2.72,"id":8700174},{"ltp":1.58,"id":2257314}]}]}
+{"op":"mcm","clk":"7645052476","pt":1538861431316,"mc":[{"id":"1.149169336","rc":[{"ltp":2.7,"id":8700174},{"ltp":1.59,"id":2257314}]}]}
+{"op":"mcm","clk":"7645055818","pt":1538861471405,"mc":[{"id":"1.149169336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941323","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T21:38:00.000Z","suspendTime":"2018-10-06T21:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T21:31:08.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-06T21:31:08.000Z","id":8700174,"name":"Ernesto Escobedo"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-06T21:31:08.000Z","id":2257314,"name":"David Ferrer"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T21:38:00.000Z","version":2442434568,"name":"Match Odds","eventName":"Escobedo v Ferrer"}}]}

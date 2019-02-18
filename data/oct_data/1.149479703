@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"7632391688","pt":1539350420525,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:00:00.000Z","suspendTime":"2018-10-13T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:00:00.000Z","version":2450814279,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}
+{"op":"mcm","clk":"7632458007","pt":1539350945500,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T05:00:00.000Z","suspendTime":"2018-10-13T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T05:00:00.000Z","version":2450814279,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}
+{"op":"mcm","clk":"7636595897","pt":1539387162827,"mc":[{"id":"1.149479703","rc":[{"ltp":1.47,"id":9300628}]}]}
+{"op":"mcm","clk":"7637348863","pt":1539399274359,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:52:00.000Z","suspendTime":"2018-10-13T04:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:52:00.000Z","version":2452010458,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}
+{"op":"mcm","clk":"7637677323","pt":1539404725750,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:29:00.000Z","suspendTime":"2018-10-13T04:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:29:00.000Z","version":2452046035,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}
+{"op":"mcm","clk":"7637692507","pt":1539405025757,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:26:00.000Z","suspendTime":"2018-10-13T04:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:26:00.000Z","version":2452050561,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}
+{"op":"mcm","clk":"7637705950","pt":1539405262947,"mc":[{"id":"1.149479703","rc":[{"ltp":2.62,"id":8979738},{"ltp":1.62,"id":9300628}]}]}
+{"op":"mcm","clk":"7637709313","pt":1539405320803,"mc":[{"id":"1.149479703","rc":[{"ltp":2.58,"id":8979738},{"ltp":1.64,"id":9300628}]}]}
+{"op":"mcm","clk":"7637710611","pt":1539405343403,"mc":[{"id":"1.149479703","rc":[{"ltp":2.56,"id":8979738},{"ltp":1.65,"id":9300628}]}]}
+{"op":"mcm","clk":"7637740875","pt":1539405686168,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:26:00.000Z","suspendTime":"2018-10-13T04:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"ACTIVE","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:26:00.000Z","version":2452057749,"name":"Match Odds","eventName":"Niesten v Uesugi"},"rc":[{"ltp":1.54,"id":9300628}]}]}
+{"op":"mcm","clk":"7637744234","pt":1539405749432,"mc":[{"id":"1.149479703","rc":[{"ltp":1.5,"id":9300628}]}]}
+{"op":"mcm","clk":"7637746943","pt":1539405807347,"mc":[{"id":"1.149479703","rc":[{"ltp":3.05,"id":8979738}]}]}
+{"op":"mcm","clk":"7637758315","pt":1539406048447,"mc":[{"id":"1.149479703","rc":[{"ltp":2.84,"id":8979738},{"ltp":1.54,"id":9300628}]}]}
+{"op":"mcm","clk":"7637760931","pt":1539406102942,"mc":[{"id":"1.149479703","rc":[{"ltp":2.42,"id":8979738},{"ltp":1.6,"id":9300628}]}]}
+{"op":"mcm","clk":"7637763995","pt":1539406164881,"mc":[{"id":"1.149479703","rc":[{"ltp":2.24,"id":8979738},{"ltp":1.8,"id":9300628}]}]}
+{"op":"mcm","clk":"7637767996","pt":1539406227775,"mc":[{"id":"1.149479703","rc":[{"ltp":2.44,"id":8979738},{"ltp":1.7,"id":9300628}]}]}
+{"op":"mcm","clk":"7637771246","pt":1539406289042,"mc":[{"id":"1.149479703","rc":[{"ltp":2.02,"id":8979738},{"ltp":1.98,"id":9300628}]}]}
+{"op":"mcm","clk":"7637788778","pt":1539406409316,"mc":[{"id":"1.149479703","rc":[{"ltp":1.76,"id":8979738},{"ltp":2.32,"id":9300628}]}]}
+{"op":"mcm","clk":"7637794763","pt":1539406526713,"mc":[{"id":"1.149479703","rc":[{"ltp":1.54,"id":8979738}]}]}
+{"op":"mcm","clk":"7637797854","pt":1539406587578,"mc":[{"id":"1.149479703","rc":[{"ltp":2.84,"id":9300628}]}]}
+{"op":"mcm","clk":"7637801215","pt":1539406649245,"mc":[{"id":"1.149479703","rc":[{"ltp":1.63,"id":8979738},{"ltp":2.6,"id":9300628}]}]}
+{"op":"mcm","clk":"7637803979","pt":1539406703778,"mc":[{"id":"1.149479703","rc":[{"ltp":1.69,"id":8979738},{"ltp":2.46,"id":9300628}]}]}
+{"op":"mcm","clk":"7637807431","pt":1539406769305,"mc":[{"id":"1.149479703","rc":[{"ltp":1.66,"id":8979738}]}]}
+{"op":"mcm","clk":"7637814602","pt":1539406886040,"mc":[{"id":"1.149479703","rc":[{"ltp":1.51,"id":8979738}]}]}
+{"op":"mcm","clk":"7637818000","pt":1539406946120,"mc":[{"id":"1.149479703","rc":[{"ltp":1.64,"id":8979738},{"ltp":2.56,"id":9300628}]}]}
+{"op":"mcm","clk":"7637822433","pt":1539407009302,"mc":[{"id":"1.149479703","rc":[{"ltp":2.4,"id":9300628}]}]}
+{"op":"mcm","clk":"7637825884","pt":1539407058245,"mc":[{"id":"1.149479703","rc":[{"ltp":1.74,"id":8979738},{"ltp":2.36,"id":9300628}]}]}
+{"op":"mcm","clk":"7637828220","pt":1539407097235,"mc":[{"id":"1.149479703","rc":[{"ltp":1.7,"id":8979738}]}]}
+{"op":"mcm","clk":"7637835475","pt":1539407217019,"mc":[{"id":"1.149479703","rc":[{"ltp":1.81,"id":8979738},{"ltp":2.22,"id":9300628}]}]}
+{"op":"mcm","clk":"7637852051","pt":1539407304940,"mc":[{"id":"1.149479703","rc":[{"ltp":1.53,"id":8979738}]}]}
+{"op":"mcm","clk":"7637855991","pt":1539407368754,"mc":[{"id":"1.149479703","rc":[{"ltp":2.02,"id":8979738}]}]}
+{"op":"mcm","clk":"7637860269","pt":1539407428831,"mc":[{"id":"1.149479703","rc":[{"ltp":1.8,"id":8979738},{"ltp":2.26,"id":9300628}]}]}
+{"op":"mcm","clk":"7637864035","pt":1539407488519,"mc":[{"id":"1.149479703","rc":[{"ltp":1.57,"id":8979738},{"ltp":2.6,"id":9300628}]}]}
+{"op":"mcm","clk":"7637867160","pt":1539407545265,"mc":[{"id":"1.149479703","rc":[{"ltp":1.51,"id":8979738},{"ltp":2.78,"id":9300628}]}]}
+{"op":"mcm","clk":"7637870843","pt":1539407606992,"mc":[{"id":"1.149479703","rc":[{"ltp":1.54,"id":8979738},{"ltp":2.88,"id":9300628}]}]}
+{"op":"mcm","clk":"7637874499","pt":1539407669296,"mc":[{"id":"1.149479703","rc":[{"ltp":1.63,"id":8979738},{"ltp":2.58,"id":9300628}]}]}
+{"op":"mcm","clk":"7637877454","pt":1539407722986,"mc":[{"id":"1.149479703","rc":[{"ltp":1.53,"id":8979738},{"ltp":2.88,"id":9300628}]}]}
+{"op":"mcm","clk":"7637880924","pt":1539407785065,"mc":[{"id":"1.149479703","rc":[{"ltp":1.48,"id":8979738},{"ltp":3.1,"id":9300628}]}]}
+{"op":"mcm","clk":"7637884906","pt":1539407849367,"mc":[{"id":"1.149479703","rc":[{"ltp":1.6,"id":8979738},{"ltp":2.66,"id":9300628}]}]}
+{"op":"mcm","clk":"7637888747","pt":1539407908836,"mc":[{"id":"1.149479703","rc":[{"ltp":1.98,"id":8979738},{"ltp":1.8,"id":9300628}]}]}
+{"op":"mcm","clk":"7637892496","pt":1539407968593,"mc":[{"id":"1.149479703","rc":[{"ltp":1.81,"id":8979738},{"ltp":2.24,"id":9300628}]}]}
+{"op":"mcm","clk":"7637896895","pt":1539408028404,"mc":[{"id":"1.149479703","rc":[{"ltp":2.34,"id":9300628}]}]}
+{"op":"mcm","clk":"7637900987","pt":1539408089327,"mc":[{"id":"1.149479703","rc":[{"ltp":1.82,"id":8979738}]}]}
+{"op":"mcm","clk":"7637916276","pt":1539408147909,"mc":[{"id":"1.149479703","rc":[{"ltp":1.84,"id":8979738}]}]}
+{"op":"mcm","clk":"7637920736","pt":1539408208963,"mc":[{"id":"1.149479703","rc":[{"ltp":1.83,"id":8979738},{"ltp":2.2,"id":9300628}]}]}
+{"op":"mcm","clk":"7637924781","pt":1539408269254,"mc":[{"id":"1.149479703","rc":[{"ltp":1.68,"id":8979738},{"ltp":2.36,"id":9300628}]}]}
+{"op":"mcm","clk":"7637928982","pt":1539408328009,"mc":[{"id":"1.149479703","rc":[{"ltp":1.76,"id":8979738},{"ltp":2.32,"id":9300628}]}]}
+{"op":"mcm","clk":"7637932750","pt":1539408386256,"mc":[{"id":"1.149479703","rc":[{"ltp":1.54,"id":8979738},{"ltp":2.88,"id":9300628}]}]}
+{"op":"mcm","clk":"7637937330","pt":1539408448466,"mc":[{"id":"1.149479703","rc":[{"ltp":1.44,"id":8979738},{"ltp":3.25,"id":9300628}]}]}
+{"op":"mcm","clk":"7637941157","pt":1539408509162,"mc":[{"id":"1.149479703","rc":[{"ltp":1.55,"id":8979738},{"ltp":2.8,"id":9300628}]}]}
+{"op":"mcm","clk":"7637945109","pt":1539408568988,"mc":[{"id":"1.149479703","rc":[{"ltp":1.39,"id":8979738},{"ltp":3.6,"id":9300628}]}]}
+{"op":"mcm","clk":"7637949933","pt":1539408629221,"mc":[{"id":"1.149479703","rc":[{"ltp":1.41,"id":8979738},{"ltp":3.4,"id":9300628}]}]}
+{"op":"mcm","clk":"7637954564","pt":1539408687463,"mc":[{"id":"1.149479703","rc":[{"ltp":1.44,"id":8979738},{"ltp":3.25,"id":9300628}]}]}
+{"op":"mcm","clk":"7637959284","pt":1539408747722,"mc":[{"id":"1.149479703","rc":[{"ltp":1.43,"id":8979738},{"ltp":3.5,"id":9300628}]}]}
+{"op":"mcm","clk":"7637964974","pt":1539408809307,"mc":[{"id":"1.149479703","rc":[{"ltp":1.2,"id":8979738},{"ltp":6.2,"id":9300628}]}]}
+{"op":"mcm","clk":"7637968294","pt":1539408865468,"mc":[{"id":"1.149479703","rc":[{"ltp":1.23,"id":8979738}]}]}
+{"op":"mcm","clk":"7637972381","pt":1539408928543,"mc":[{"id":"1.149479703","rc":[{"ltp":1.3,"id":8979738},{"ltp":4.4,"id":9300628}]}]}
+{"op":"mcm","clk":"7637976432","pt":1539408989054,"mc":[{"id":"1.149479703","rc":[{"ltp":1.18,"id":8979738},{"ltp":6.2,"id":9300628}]}]}
+{"op":"mcm","clk":"7637992532","pt":1539409046658,"mc":[{"id":"1.149479703","rc":[{"ltp":1.15,"id":8979738},{"ltp":7.6,"id":9300628}]}]}
+{"op":"mcm","clk":"7637997743","pt":1539409107470,"mc":[{"id":"1.149479703","rc":[{"ltp":1.13,"id":8979738},{"ltp":6.8,"id":9300628}]}]}
+{"op":"mcm","clk":"7638002125","pt":1539409164882,"mc":[{"id":"1.149479703","rc":[{"ltp":1.16,"id":8979738}]}]}
+{"op":"mcm","clk":"7638006048","pt":1539409226041,"mc":[{"id":"1.149479703","rc":[{"ltp":1.14,"id":8979738},{"ltp":8.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638010214","pt":1539409282005,"mc":[{"id":"1.149479703","rc":[{"ltp":1.11,"id":8979738},{"ltp":10.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638014727","pt":1539409343447,"mc":[{"id":"1.149479703","rc":[{"ltp":1.04,"id":8979738},{"ltp":21.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638019264","pt":1539409407234,"mc":[{"id":"1.149479703","rc":[{"ltp":1.05,"id":8979738}]}]}
+{"op":"mcm","clk":"7638023340","pt":1539409469435,"mc":[{"id":"1.149479703","rc":[{"ltp":1.09,"id":8979738},{"ltp":15.5,"id":9300628}]}]}
+{"op":"mcm","clk":"7638027128","pt":1539409525493,"mc":[{"id":"1.149479703","rc":[{"ltp":1.11,"id":8979738},{"ltp":10.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638031584","pt":1539409586260,"mc":[{"id":"1.149479703","rc":[{"ltp":1.18,"id":8979738}]}]}
+{"op":"mcm","clk":"7638035604","pt":1539409645509,"mc":[{"id":"1.149479703","rc":[{"ltp":1.17,"id":8979738},{"ltp":6.8,"id":9300628}]}]}
+{"op":"mcm","clk":"7638042763","pt":1539409768926,"mc":[{"id":"1.149479703","rc":[{"ltp":1.04,"id":8979738}]}]}
+{"op":"mcm","clk":"7638049569","pt":1539409889162,"mc":[{"id":"1.149479703","rc":[{"ltp":1.03,"id":8979738}]}]}
+{"op":"mcm","clk":"7638068740","pt":1539410009285,"mc":[{"id":"1.149479703","rc":[{"ltp":1.06,"id":8979738},{"ltp":26.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638072194","pt":1539410060969,"mc":[{"id":"1.149479703","rc":[{"ltp":1.09,"id":8979738},{"ltp":12.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638076720","pt":1539410125525,"mc":[{"id":"1.149479703","rc":[{"ltp":1.13,"id":8979738},{"ltp":15.5,"id":9300628}]}]}
+{"op":"mcm","clk":"7638080748","pt":1539410188691,"mc":[{"id":"1.149479703","rc":[{"ltp":1.09,"id":8979738}]}]}
+{"op":"mcm","clk":"7638084315","pt":1539410247951,"mc":[{"id":"1.149479703","rc":[{"ltp":1.1,"id":8979738},{"ltp":10.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638088306","pt":1539410307059,"mc":[{"id":"1.149479703","rc":[{"ltp":1.12,"id":8979738},{"ltp":9.2,"id":9300628}]}]}
+{"op":"mcm","clk":"7638091573","pt":1539410366137,"mc":[{"id":"1.149479703","rc":[{"ltp":9.4,"id":9300628}]}]}
+{"op":"mcm","clk":"7638098950","pt":1539410488256,"mc":[{"id":"1.149479703","rc":[{"ltp":1.15,"id":8979738},{"ltp":8.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638102508","pt":1539410549141,"mc":[{"id":"1.149479703","rc":[{"ltp":1.16,"id":8979738},{"ltp":7.2,"id":9300628}]}]}
+{"op":"mcm","clk":"7638106251","pt":1539410609290,"mc":[{"id":"1.149479703","rc":[{"ltp":1.11,"id":8979738},{"ltp":10.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638113008","pt":1539410727647,"mc":[{"id":"1.149479703","rc":[{"ltp":1.08,"id":8979738},{"ltp":13.5,"id":9300628}]}]}
+{"op":"mcm","clk":"7638132117","pt":1539410841506,"mc":[{"id":"1.149479703","rc":[{"ltp":1.1,"id":8979738},{"ltp":11.0,"id":9300628}]}]}
+{"op":"mcm","clk":"7638136819","pt":1539410907499,"mc":[{"id":"1.149479703","rc":[{"ltp":1.18,"id":8979738}]}]}
+{"op":"mcm","clk":"7638141111","pt":1539410967675,"mc":[{"id":"1.149479703","rc":[{"ltp":1.03,"id":8979738}]}]}
+{"op":"mcm","clk":"7638144241","pt":1539411019447,"mc":[{"id":"1.149479703","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952824","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T04:26:00.000Z","suspendTime":"2018-10-13T04:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-13T06:10:12.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9300628,"name":"Miliaan Niesten"},{"status":"WINNER","sortPriority":2,"id":8979738,"name":"Kaito Uesugi"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T04:26:00.000Z","version":2452117510,"name":"Match Odds","eventName":"Niesten v Uesugi"}}]}

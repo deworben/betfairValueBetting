@@ -1,0 +1,118 @@
+{"op":"mcm","clk":"7786644390","pt":1540339166213,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:00:00.000Z","suspendTime":"2018-10-24T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:00:00.000Z","version":2472610446,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7786670256","pt":1540339867519,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:00:00.000Z","suspendTime":"2018-10-24T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:00:00.000Z","version":2472610446,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7786730714","pt":1540340921712,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2472640236,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7788422649","pt":1540373193574,"mc":[{"id":"1.150085647","rc":[{"ltp":1.45,"id":7048850}]}]}
+{"op":"mcm","clk":"7788862962","pt":1540377317312,"mc":[{"id":"1.150085647","rc":[{"ltp":2.8,"id":8475991},{"ltp":1.55,"id":7048850}]}]}
+{"op":"mcm","clk":"7794131146","pt":1540412524240,"mc":[{"id":"1.150085647","rc":[{"ltp":2.9,"id":8475991}]}]}
+{"op":"mcm","clk":"7794353015","pt":1540415552093,"mc":[{"id":"1.150085647","rc":[{"ltp":1.47,"id":7048850}]}]}
+{"op":"mcm","clk":"7794369624","pt":1540415921390,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:00:00.000Z","suspendTime":"2018-10-25T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:00:00.000Z","version":2474376579,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7795138231","pt":1540427853975,"mc":[{"id":"1.150085647","rc":[{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7796193257","pt":1540448128516,"mc":[{"id":"1.150085647","rc":[{"ltp":1.47,"id":7048850}]}]}
+{"op":"mcm","clk":"7796928379","pt":1540461407451,"mc":[{"id":"1.150085647","rc":[{"ltp":3.1,"id":8475991}]}]}
+{"op":"mcm","clk":"7797478362","pt":1540468601762,"mc":[{"id":"1.150085647","rc":[{"ltp":3.05,"id":8475991}]}]}
+{"op":"mcm","clk":"7797495205","pt":1540468658404,"mc":[{"id":"1.150085647","rc":[{"ltp":1.45,"id":7048850}]}]}
+{"op":"mcm","clk":"7797645956","pt":1540470754650,"mc":[{"id":"1.150085647","rc":[{"ltp":1.39,"id":7048850}]}]}
+{"op":"mcm","clk":"7798856926","pt":1540483279318,"mc":[{"id":"1.150085647","rc":[{"ltp":3.3,"id":8475991}]}]}
+{"op":"mcm","clk":"7799302662","pt":1540486780059,"mc":[{"id":"1.150085647","rc":[{"ltp":3.4,"id":8475991},{"ltp":1.42,"id":7048850}]}]}
+{"op":"mcm","clk":"7799771072","pt":1540490020911,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:52:00.000Z","suspendTime":"2018-10-25T19:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:52:00.000Z","version":2475289058,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7799832472","pt":1540490432763,"mc":[{"id":"1.150085647","rc":[{"ltp":3.2,"id":8475991}]}]}
+{"op":"mcm","clk":"7799848438","pt":1540490552897,"mc":[{"id":"1.150085647","rc":[{"ltp":1.45,"id":7048850}]}]}
+{"op":"mcm","clk":"7799992923","pt":1540491581448,"mc":[{"id":"1.150085647","rc":[{"ltp":3.25,"id":8475991}]}]}
+{"op":"mcm","clk":"7799999996","pt":1540491639228,"mc":[{"id":"1.150085647","rc":[{"ltp":3.2,"id":8475991}]}]}
+{"op":"mcm","clk":"7800014139","pt":1540491754621,"mc":[{"id":"1.150085647","rc":[{"ltp":1.42,"id":7048850}]}]}
+{"op":"mcm","clk":"7800164765","pt":1540492821185,"mc":[{"id":"1.150085647","rc":[{"ltp":3.15,"id":8475991}]}]}
+{"op":"mcm","clk":"7800174101","pt":1540492896072,"mc":[{"id":"1.150085647","rc":[{"ltp":3.1,"id":8475991}]}]}
+{"op":"mcm","clk":"7800195696","pt":1540492943517,"mc":[{"id":"1.150085647","rc":[{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7800203799","pt":1540493010156,"mc":[{"id":"1.150085647","rc":[{"ltp":3.05,"id":8475991},{"ltp":1.5,"id":7048850}]}]}
+{"op":"mcm","clk":"7800224117","pt":1540493180665,"mc":[{"id":"1.150085647","rc":[{"ltp":3.15,"id":8475991}]}]}
+{"op":"mcm","clk":"7800297424","pt":1540493770170,"mc":[{"id":"1.150085647","rc":[{"ltp":1.46,"id":7048850}]}]}
+{"op":"mcm","clk":"7800333670","pt":1540493958034,"mc":[{"id":"1.150085647","rc":[{"ltp":3.2,"id":8475991}]}]}
+{"op":"mcm","clk":"7800364918","pt":1540494218604,"mc":[{"id":"1.150085647","rc":[{"ltp":3.0,"id":8475991}]}]}
+{"op":"mcm","clk":"7800371721","pt":1540494279371,"mc":[{"id":"1.150085647","rc":[{"ltp":2.94,"id":8475991},{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7800378795","pt":1540494341229,"mc":[{"id":"1.150085647","rc":[{"ltp":3.05,"id":8475991},{"ltp":1.52,"id":7048850}]}]}
+{"op":"mcm","clk":"7800386023","pt":1540494398742,"mc":[{"id":"1.150085647","rc":[{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7800393956","pt":1540494460322,"mc":[{"id":"1.150085647","rc":[{"ltp":2.96,"id":8475991},{"ltp":1.52,"id":7048850}]}]}
+{"op":"mcm","clk":"7800402422","pt":1540494520740,"mc":[{"id":"1.150085647","rc":[{"ltp":3.05,"id":8475991},{"ltp":1.47,"id":7048850}]}]}
+{"op":"mcm","clk":"7800411987","pt":1540494581712,"mc":[{"id":"1.150085647","rc":[{"ltp":2.96,"id":8475991},{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7800420026","pt":1540494641344,"mc":[{"id":"1.150085647","rc":[{"ltp":1.51,"id":7048850}]}]}
+{"op":"mcm","clk":"7800427779","pt":1540494701843,"mc":[{"id":"1.150085647","rc":[{"ltp":2.9,"id":8475991},{"ltp":1.53,"id":7048850}]}]}
+{"op":"mcm","clk":"7800450890","pt":1540494761642,"mc":[{"id":"1.150085647","rc":[{"ltp":2.94,"id":8475991}]}]}
+{"op":"mcm","clk":"7800458231","pt":1540494821139,"mc":[{"id":"1.150085647","rc":[{"ltp":2.9,"id":8475991},{"ltp":1.5,"id":7048850}]}]}
+{"op":"mcm","clk":"7800464986","pt":1540494880724,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:29:00.000Z","suspendTime":"2018-10-25T19:29:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:29:00.000Z","version":2475446134,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"},"rc":[{"ltp":2.88,"id":8475991},{"ltp":1.52,"id":7048850}]}]}
+{"op":"mcm","clk":"7800486209","pt":1540495058962,"mc":[{"id":"1.150085647","rc":[{"ltp":2.96,"id":8475991}]}]}
+{"op":"mcm","clk":"7800493141","pt":1540495118001,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:16:00.000Z","suspendTime":"2018-10-25T19:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:29:00.000Z","version":2475452146,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7800500817","pt":1540495180759,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:16:00.000Z","suspendTime":"2018-10-25T19:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:16:00.000Z","version":2475452146,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"},"rc":[{"ltp":2.88,"id":8475991}]}]}
+{"op":"mcm","clk":"7800508091","pt":1540495241682,"mc":[{"id":"1.150085647","rc":[{"ltp":1.54,"id":7048850}]}]}
+{"op":"mcm","clk":"7800515159","pt":1540495300320,"mc":[{"id":"1.150085647","rc":[{"ltp":2.92,"id":8475991},{"ltp":1.52,"id":7048850}]}]}
+{"op":"mcm","clk":"7800578881","pt":1540495713770,"mc":[{"id":"1.150085647","rc":[{"ltp":2.88,"id":8475991},{"ltp":1.53,"id":7048850}]}]}
+{"op":"mcm","clk":"7800585636","pt":1540495781854,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:16:00.000Z","suspendTime":"2018-10-25T19:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:16:00.000Z","version":2475461770,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7800591476","pt":1540495839756,"mc":[{"id":"1.150085647","rc":[{"ltp":3.6,"id":8475991},{"ltp":1.4,"id":7048850}]}]}
+{"op":"mcm","clk":"7800597611","pt":1540495901103,"mc":[{"id":"1.150085647","rc":[{"ltp":3.9,"id":8475991},{"ltp":1.35,"id":7048850}]}]}
+{"op":"mcm","clk":"7800604114","pt":1540495961478,"mc":[{"id":"1.150085647","rc":[{"ltp":3.5,"id":8475991},{"ltp":1.48,"id":7048850}]}]}
+{"op":"mcm","clk":"7800610883","pt":1540496021807,"mc":[{"id":"1.150085647","rc":[{"ltp":2.68,"id":8475991},{"ltp":1.6,"id":7048850}]}]}
+{"op":"mcm","clk":"7800617467","pt":1540496081571,"mc":[{"id":"1.150085647","rc":[{"ltp":2.24,"id":8475991},{"ltp":1.81,"id":7048850}]}]}
+{"op":"mcm","clk":"7800624206","pt":1540496141024,"mc":[{"id":"1.150085647","rc":[{"ltp":1.72,"id":7048850}]}]}
+{"op":"mcm","clk":"7800631125","pt":1540496201571,"mc":[{"id":"1.150085647","rc":[{"ltp":1.7,"id":7048850}]}]}
+{"op":"mcm","clk":"7800637554","pt":1540496261453,"mc":[{"id":"1.150085647","rc":[{"ltp":1.65,"id":7048850}]}]}
+{"op":"mcm","clk":"7800642914","pt":1540496312116,"mc":[{"id":"1.150085647","rc":[{"ltp":2.9,"id":8475991}]}]}
+{"op":"mcm","clk":"7800665117","pt":1540496498136,"mc":[{"id":"1.150085647","rc":[{"ltp":2.5,"id":8475991},{"ltp":1.66,"id":7048850}]}]}
+{"op":"mcm","clk":"7800687533","pt":1540496561840,"mc":[{"id":"1.150085647","rc":[{"ltp":1.67,"id":7048850}]}]}
+{"op":"mcm","clk":"7800693606","pt":1540496621360,"mc":[{"id":"1.150085647","rc":[{"ltp":2.62,"id":8475991},{"ltp":1.6,"id":7048850}]}]}
+{"op":"mcm","clk":"7800699775","pt":1540496681264,"mc":[{"id":"1.150085647","rc":[{"ltp":2.56,"id":8475991},{"ltp":1.56,"id":7048850}]}]}
+{"op":"mcm","clk":"7800706204","pt":1540496741877,"mc":[{"id":"1.150085647","rc":[{"ltp":2.66,"id":8475991}]}]}
+{"op":"mcm","clk":"7800712298","pt":1540496800168,"mc":[{"id":"1.150085647","rc":[{"ltp":1.59,"id":7048850}]}]}
+{"op":"mcm","clk":"7800719010","pt":1540496861876,"mc":[{"id":"1.150085647","rc":[{"ltp":2.88,"id":8475991},{"ltp":1.5,"id":7048850}]}]}
+{"op":"mcm","clk":"7800725356","pt":1540496921816,"mc":[{"id":"1.150085647","rc":[{"ltp":4.3,"id":8475991},{"ltp":1.3,"id":7048850}]}]}
+{"op":"mcm","clk":"7800731223","pt":1540496981409,"mc":[{"id":"1.150085647","rc":[{"ltp":1.27,"id":7048850}]}]}
+{"op":"mcm","clk":"7800737607","pt":1540497040748,"mc":[{"id":"1.150085647","rc":[{"ltp":1.29,"id":7048850}]}]}
+{"op":"mcm","clk":"7800743955","pt":1540497101700,"mc":[{"id":"1.150085647","rc":[{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800749123","pt":1540497161829,"mc":[{"id":"1.150085647","rc":[{"ltp":1.22,"id":7048850}]}]}
+{"op":"mcm","clk":"7800754433","pt":1540497221850,"mc":[{"id":"1.150085647","rc":[{"ltp":1.21,"id":7048850}]}]}
+{"op":"mcm","clk":"7800759994","pt":1540497281639,"mc":[{"id":"1.150085647","rc":[{"ltp":5.1,"id":8475991},{"ltp":1.24,"id":7048850}]}]}
+{"op":"mcm","clk":"7800765649","pt":1540497340213,"mc":[{"id":"1.150085647","rc":[{"ltp":1.26,"id":7048850}]}]}
+{"op":"mcm","clk":"7800771250","pt":1540497401078,"mc":[{"id":"1.150085647","rc":[{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800792139","pt":1540497461807,"mc":[{"id":"1.150085647","rc":[{"ltp":5.0,"id":8475991},{"ltp":1.29,"id":7048850}]}]}
+{"op":"mcm","clk":"7800797216","pt":1540497521079,"mc":[{"id":"1.150085647","rc":[{"ltp":4.1,"id":8475991},{"ltp":1.32,"id":7048850}]}]}
+{"op":"mcm","clk":"7800801780","pt":1540497581397,"mc":[{"id":"1.150085647","rc":[{"ltp":4.4,"id":8475991},{"ltp":1.29,"id":7048850}]}]}
+{"op":"mcm","clk":"7800806866","pt":1540497641370,"mc":[{"id":"1.150085647","rc":[{"ltp":4.7,"id":8475991}]}]}
+{"op":"mcm","clk":"7800812274","pt":1540497692873,"mc":[{"id":"1.150085647","rc":[{"ltp":4.4,"id":8475991}]}]}
+{"op":"mcm","clk":"7800819558","pt":1540497761852,"mc":[{"id":"1.150085647","rc":[{"ltp":5.3,"id":8475991},{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800832597","pt":1540497880818,"mc":[{"id":"1.150085647","rc":[{"ltp":1.24,"id":7048850}]}]}
+{"op":"mcm","clk":"7800839614","pt":1540497940707,"mc":[{"id":"1.150085647","rc":[{"ltp":1.22,"id":7048850}]}]}
+{"op":"mcm","clk":"7800846307","pt":1540498000239,"mc":[{"id":"1.150085647","rc":[{"ltp":1.25,"id":7048850}]}]}
+{"op":"mcm","clk":"7800852070","pt":1540498055645,"mc":[{"id":"1.150085647","rc":[{"ltp":5.0,"id":8475991},{"ltp":1.21,"id":7048850}]}]}
+{"op":"mcm","clk":"7800858132","pt":1540498115143,"mc":[{"id":"1.150085647","rc":[{"ltp":1.27,"id":7048850}]}]}
+{"op":"mcm","clk":"7800865619","pt":1540498181801,"mc":[{"id":"1.150085647","rc":[{"ltp":1.22,"id":7048850}]}]}
+{"op":"mcm","clk":"7800872534","pt":1540498241566,"mc":[{"id":"1.150085647","rc":[{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800879287","pt":1540498301650,"mc":[{"id":"1.150085647","rc":[{"ltp":3.75,"id":8475991},{"ltp":1.36,"id":7048850}]}]}
+{"op":"mcm","clk":"7800901694","pt":1540498360605,"mc":[{"id":"1.150085647","rc":[{"ltp":3.55,"id":8475991},{"ltp":1.39,"id":7048850}]}]}
+{"op":"mcm","clk":"7800908912","pt":1540498420327,"mc":[{"id":"1.150085647","rc":[{"ltp":5.5,"id":8475991},{"ltp":1.18,"id":7048850}]}]}
+{"op":"mcm","clk":"7800916019","pt":1540498480827,"mc":[{"id":"1.150085647","rc":[{"ltp":6.2,"id":8475991},{"ltp":1.19,"id":7048850}]}]}
+{"op":"mcm","clk":"7800936492","pt":1540498601842,"mc":[{"id":"1.150085647","rc":[{"ltp":5.5,"id":8475991},{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800944701","pt":1540498661408,"mc":[{"id":"1.150085647","rc":[{"ltp":5.0,"id":8475991},{"ltp":1.25,"id":7048850}]}]}
+{"op":"mcm","clk":"7800956774","pt":1540498780372,"mc":[{"id":"1.150085647","rc":[{"ltp":1.22,"id":7048850}]}]}
+{"op":"mcm","clk":"7800963485","pt":1540498841661,"mc":[{"id":"1.150085647","rc":[{"ltp":6.2,"id":8475991},{"ltp":1.19,"id":7048850}]}]}
+{"op":"mcm","clk":"7800970885","pt":1540498900873,"mc":[{"id":"1.150085647","rc":[{"ltp":5.3,"id":8475991},{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800978126","pt":1540498961772,"mc":[{"id":"1.150085647","rc":[{"ltp":5.1,"id":8475991},{"ltp":1.22,"id":7048850}]}]}
+{"op":"mcm","clk":"7800984743","pt":1540499021432,"mc":[{"id":"1.150085647","rc":[{"ltp":5.8,"id":8475991},{"ltp":1.21,"id":7048850}]}]}
+{"op":"mcm","clk":"7800990316","pt":1540499077770,"mc":[{"id":"1.150085647","rc":[{"ltp":5.2,"id":8475991},{"ltp":1.23,"id":7048850}]}]}
+{"op":"mcm","clk":"7800996953","pt":1540499141752,"mc":[{"id":"1.150085647","rc":[{"ltp":4.5,"id":8475991},{"ltp":1.29,"id":7048850}]}]}
+{"op":"mcm","clk":"7801002895","pt":1540499201286,"mc":[{"id":"1.150085647","rc":[{"ltp":4.1,"id":8475991},{"ltp":1.32,"id":7048850}]}]}
+{"op":"mcm","clk":"7801023839","pt":1540499260615,"mc":[{"id":"1.150085647","rc":[{"ltp":3.8,"id":8475991},{"ltp":1.36,"id":7048850}]}]}
+{"op":"mcm","clk":"7801029816","pt":1540499321740,"mc":[{"id":"1.150085647","rc":[{"ltp":4.9,"id":8475991}]}]}
+{"op":"mcm","clk":"7801036046","pt":1540499381740,"mc":[{"id":"1.150085647","rc":[{"ltp":3.0,"id":8475991},{"ltp":1.49,"id":7048850}]}]}
+{"op":"mcm","clk":"7801042393","pt":1540499440760,"mc":[{"id":"1.150085647","rc":[{"ltp":2.68,"id":8475991},{"ltp":1.62,"id":7048850}]}]}
+{"op":"mcm","clk":"7801048269","pt":1540499497502,"mc":[{"id":"1.150085647","rc":[{"ltp":2.52,"id":8475991},{"ltp":1.61,"id":7048850}]}]}
+{"op":"mcm","clk":"7801054530","pt":1540499561820,"mc":[{"id":"1.150085647","rc":[{"ltp":1.56,"id":7048850}]}]}
+{"op":"mcm","clk":"7801059637","pt":1540499620906,"mc":[{"id":"1.150085647","rc":[{"ltp":2.86,"id":8475991},{"ltp":1.54,"id":7048850}]}]}
+{"op":"mcm","clk":"7801065423","pt":1540499681729,"mc":[{"id":"1.150085647","rc":[{"ltp":3.15,"id":8475991},{"ltp":1.45,"id":7048850}]}]}
+{"op":"mcm","clk":"7801071717","pt":1540499741619,"mc":[{"id":"1.150085647","rc":[{"ltp":4.3,"id":8475991},{"ltp":1.37,"id":7048850}]}]}
+{"op":"mcm","clk":"7801077314","pt":1540499799503,"mc":[{"id":"1.150085647","rc":[{"ltp":3.95,"id":8475991},{"ltp":1.26,"id":7048850}]}]}
+{"op":"mcm","clk":"7801082970","pt":1540499861566,"mc":[{"id":"1.150085647","rc":[{"ltp":1.24,"id":7048850}]}]}
+{"op":"mcm","clk":"7801088433","pt":1540499921801,"mc":[{"id":"1.150085647","rc":[{"ltp":1.19,"id":7048850}]}]}
+{"op":"mcm","clk":"7801100293","pt":1540500041517,"mc":[{"id":"1.150085647","rc":[{"ltp":5.9,"id":8475991},{"ltp":1.2,"id":7048850}]}]}
+{"op":"mcm","clk":"7801105949","pt":1540500101739,"mc":[{"id":"1.150085647","rc":[{"ltp":7.0,"id":8475991},{"ltp":1.16,"id":7048850}]}]}
+{"op":"mcm","clk":"7801127104","pt":1540500160713,"mc":[{"id":"1.150085647","rc":[{"ltp":34.0,"id":8475991},{"ltp":1.03,"id":7048850}]}]}
+{"op":"mcm","clk":"7801137805","pt":1540500280992,"mc":[{"id":"1.150085647","rc":[{"ltp":1.01,"id":7048850}]}]}
+{"op":"mcm","clk":"7801143084","pt":1540500341839,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:16:00.000Z","suspendTime":"2018-10-25T19:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"ACTIVE","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:16:00.000Z","version":2475533213,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}
+{"op":"mcm","clk":"7801144050","pt":1540500351708,"mc":[{"id":"1.150085647","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972436","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T19:16:00.000Z","suspendTime":"2018-10-25T19:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T20:45:45.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8475991,"name":"Roberto Ortega-Olmedo"},{"status":"WINNER","sortPriority":2,"id":7048850,"name":"Jason Jung"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T19:16:00.000Z","version":2475534715,"name":"Match Odds","eventName":"Ortega-Olmedo v Jung"}}]}

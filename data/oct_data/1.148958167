@@ -1,0 +1,122 @@
+{"op":"mcm","clk":"7618387756","pt":1538419760163,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:00:00.000Z","suspendTime":"2018-10-02T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T13:00:00.000Z","version":2433365451,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7618485327","pt":1538420576212,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:00:00.000Z","suspendTime":"2018-10-02T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T13:00:00.000Z","version":2433365451,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7618495944","pt":1538420668755,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:00:00.000Z","suspendTime":"2018-10-02T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:00:00.000Z","version":2433409940,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7620564613","pt":1538452548791,"mc":[{"id":"1.148958167","rc":[{"ltp":2.62,"id":9635538}]}]}
+{"op":"mcm","clk":"7621359861","pt":1538467037720,"mc":[{"id":"1.148958167","rc":[{"ltp":1.66,"id":2923174}]}]}
+{"op":"mcm","clk":"7621823447","pt":1538474837230,"mc":[{"id":"1.148958167","rc":[{"ltp":2.18,"id":9635538},{"ltp":1.84,"id":2923174}]}]}
+{"op":"mcm","clk":"7622205507","pt":1538479477596,"mc":[{"id":"1.148958167","rc":[{"ltp":1.85,"id":2923174}]}]}
+{"op":"mcm","clk":"7622540474","pt":1538482997067,"mc":[{"id":"1.148958167","rc":[{"ltp":2.22,"id":9635538},{"ltp":1.81,"id":2923174}]}]}
+{"op":"mcm","clk":"7622714860","pt":1538484862529,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T14:52:00.000Z","suspendTime":"2018-10-02T14:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T14:52:00.000Z","version":2433967151,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7622786936","pt":1538485608343,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":9635538},{"ltp":1.84,"id":2923174}]}]}
+{"op":"mcm","clk":"7622988344","pt":1538487416688,"mc":[{"id":"1.148958167","rc":[{"ltp":2.24,"id":9635538}]}]}
+{"op":"mcm","clk":"7623020988","pt":1538487736462,"mc":[{"id":"1.148958167","rc":[{"ltp":1.8,"id":2923174}]}]}
+{"op":"mcm","clk":"7623032520","pt":1538487844965,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":9635538}]}]}
+{"op":"mcm","clk":"7623037309","pt":1538487898041,"mc":[{"id":"1.148958167","rc":[{"ltp":2.24,"id":9635538}]}]}
+{"op":"mcm","clk":"7623369145","pt":1538491636020,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":9635538},{"ltp":1.82,"id":2923174}]}]}
+{"op":"mcm","clk":"7623372730","pt":1538491691107,"mc":[{"id":"1.148958167","rc":[{"ltp":2.24,"id":9635538}]}]}
+{"op":"mcm","clk":"7623382662","pt":1538491869564,"mc":[{"id":"1.148958167","rc":[{"ltp":1.81,"id":2923174}]}]}
+{"op":"mcm","clk":"7623394148","pt":1538492041308,"mc":[{"id":"1.148958167","rc":[{"ltp":1.8,"id":2923174}]}]}
+{"op":"mcm","clk":"7623395509","pt":1538492062390,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:07:00.000Z","suspendTime":"2018-10-02T15:07:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:07:00.000Z","version":2434094159,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7623406535","pt":1538492236396,"mc":[{"id":"1.148958167","rc":[{"ltp":1.81,"id":2923174}]}]}
+{"op":"mcm","clk":"7623438008","pt":1538492570169,"mc":[{"id":"1.148958167","rc":[{"ltp":1.8,"id":2923174}]}]}
+{"op":"mcm","clk":"7623459773","pt":1538492967594,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:22:00.000Z","suspendTime":"2018-10-02T15:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:22:00.000Z","version":2434102970,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7623522496","pt":1538493860079,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:37:00.000Z","suspendTime":"2018-10-02T15:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:37:00.000Z","version":2434114258,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7623542093","pt":1538494217230,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:26:00.000Z","suspendTime":"2018-10-02T15:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:26:00.000Z","version":2434118011,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}
+{"op":"mcm","clk":"7623545030","pt":1538494270624,"mc":[{"id":"1.148958167","rc":[{"ltp":2.32,"id":9635538},{"ltp":1.76,"id":2923174}]}]}
+{"op":"mcm","clk":"7623563811","pt":1538494413702,"mc":[{"id":"1.148958167","rc":[{"ltp":1.7,"id":2923174}]}]}
+{"op":"mcm","clk":"7623567395","pt":1538494468761,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":9635538},{"ltp":1.82,"id":2923174}]}]}
+{"op":"mcm","clk":"7623579375","pt":1538494667171,"mc":[{"id":"1.148958167","rc":[{"ltp":1.83,"id":2923174}]}]}
+{"op":"mcm","clk":"7623589716","pt":1538494853836,"mc":[{"id":"1.148958167","rc":[{"ltp":1.7,"id":2923174}]}]}
+{"op":"mcm","clk":"7623604788","pt":1538495117617,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:26:00.000Z","suspendTime":"2018-10-02T15:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:26:00.000Z","version":2434142764,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"},"rc":[{"ltp":1.96,"id":9635538},{"ltp":1.92,"id":2923174}]}]}
+{"op":"mcm","clk":"7623607616","pt":1538495169091,"mc":[{"id":"1.148958167","rc":[{"ltp":1.83,"id":9635538}]}]}
+{"op":"mcm","clk":"7623621433","pt":1538495233718,"mc":[{"id":"1.148958167","rc":[{"ltp":1.89,"id":9635538},{"ltp":2.12,"id":2923174}]}]}
+{"op":"mcm","clk":"7623625022","pt":1538495297468,"mc":[{"id":"1.148958167","rc":[{"ltp":1.76,"id":9635538},{"ltp":2.32,"id":2923174}]}]}
+{"op":"mcm","clk":"7623628292","pt":1538495357082,"mc":[{"id":"1.148958167","rc":[{"ltp":1.83,"id":9635538}]}]}
+{"op":"mcm","clk":"7623631565","pt":1538495417394,"mc":[{"id":"1.148958167","rc":[{"ltp":1.75,"id":9635538},{"ltp":2.34,"id":2923174}]}]}
+{"op":"mcm","clk":"7623634774","pt":1538495476469,"mc":[{"id":"1.148958167","rc":[{"ltp":1.6,"id":9635538},{"ltp":2.56,"id":2923174}]}]}
+{"op":"mcm","clk":"7623638025","pt":1538495536116,"mc":[{"id":"1.148958167","rc":[{"ltp":1.7,"id":9635538},{"ltp":2.42,"id":2923174}]}]}
+{"op":"mcm","clk":"7623641294","pt":1538495591760,"mc":[{"id":"1.148958167","rc":[{"ltp":1.98,"id":9635538},{"ltp":2.02,"id":2923174}]}]}
+{"op":"mcm","clk":"7623645346","pt":1538495657462,"mc":[{"id":"1.148958167","rc":[{"ltp":2.28,"id":9635538},{"ltp":1.73,"id":2923174}]}]}
+{"op":"mcm","clk":"7623649063","pt":1538495717050,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":9635538},{"ltp":1.82,"id":2923174}]}]}
+{"op":"mcm","clk":"7623652715","pt":1538495776807,"mc":[{"id":"1.148958167","rc":[{"ltp":2.14,"id":9635538},{"ltp":1.87,"id":2923174}]}]}
+{"op":"mcm","clk":"7623655789","pt":1538495830642,"mc":[{"id":"1.148958167","rc":[{"ltp":1.95,"id":9635538},{"ltp":1.94,"id":2923174}]}]}
+{"op":"mcm","clk":"7623659960","pt":1538495897040,"mc":[{"id":"1.148958167","rc":[{"ltp":1.72,"id":9635538},{"ltp":2.3,"id":2923174}]}]}
+{"op":"mcm","clk":"7623664240","pt":1538495957539,"mc":[{"id":"1.148958167","rc":[{"ltp":1.76,"id":9635538}]}]}
+{"op":"mcm","clk":"7623667457","pt":1538496006850,"mc":[{"id":"1.148958167","rc":[{"ltp":1.75,"id":9635538},{"ltp":2.36,"id":2923174}]}]}
+{"op":"mcm","clk":"7623672051","pt":1538496077658,"mc":[{"id":"1.148958167","rc":[{"ltp":1.82,"id":9635538},{"ltp":2.1,"id":2923174}]}]}
+{"op":"mcm","clk":"7623686196","pt":1538496134681,"mc":[{"id":"1.148958167","rc":[{"ltp":2.2,"id":2923174}]}]}
+{"op":"mcm","clk":"7623690222","pt":1538496196962,"mc":[{"id":"1.148958167","rc":[{"ltp":1.61,"id":9635538},{"ltp":2.66,"id":2923174}]}]}
+{"op":"mcm","clk":"7623693710","pt":1538496257614,"mc":[{"id":"1.148958167","rc":[{"ltp":1.6,"id":9635538}]}]}
+{"op":"mcm","clk":"7623697463","pt":1538496316960,"mc":[{"id":"1.148958167","rc":[{"ltp":1.74,"id":9635538},{"ltp":2.34,"id":2923174}]}]}
+{"op":"mcm","clk":"7623699513","pt":1538496351570,"mc":[{"id":"1.148958167","rc":[{"ltp":1.78,"id":9635538},{"ltp":2.28,"id":2923174}]}]}
+{"op":"mcm","clk":"7623704435","pt":1538496435909,"mc":[{"id":"1.148958167","rc":[{"ltp":1.79,"id":9635538},{"ltp":2.26,"id":2923174}]}]}
+{"op":"mcm","clk":"7623710696","pt":1538496543176,"mc":[{"id":"1.148958167","rc":[{"ltp":1.82,"id":9635538}]}]}
+{"op":"mcm","clk":"7623714268","pt":1538496608444,"mc":[{"id":"1.148958167","rc":[{"ltp":2.06,"id":9635538},{"ltp":1.95,"id":2923174}]}]}
+{"op":"mcm","clk":"7623718126","pt":1538496676980,"mc":[{"id":"1.148958167","rc":[{"ltp":1.84,"id":9635538}]}]}
+{"op":"mcm","clk":"7623721959","pt":1538496737629,"mc":[{"id":"1.148958167","rc":[{"ltp":2.0,"id":9635538},{"ltp":1.96,"id":2923174}]}]}
+{"op":"mcm","clk":"7623726052","pt":1538496795914,"mc":[{"id":"1.148958167","rc":[{"ltp":2.16,"id":2923174}]}]}
+{"op":"mcm","clk":"7623730426","pt":1538496857273,"mc":[{"id":"1.148958167","rc":[{"ltp":2.04,"id":9635538},{"ltp":1.96,"id":2923174}]}]}
+{"op":"mcm","clk":"7623734278","pt":1538496917592,"mc":[{"id":"1.148958167","rc":[{"ltp":2.44,"id":9635538},{"ltp":1.7,"id":2923174}]}]}
+{"op":"mcm","clk":"7623738230","pt":1538496976819,"mc":[{"id":"1.148958167","rc":[{"ltp":1.96,"id":9635538},{"ltp":1.98,"id":2923174}]}]}
+{"op":"mcm","clk":"7623753014","pt":1538497036659,"mc":[{"id":"1.148958167","rc":[{"ltp":1.74,"id":2923174}]}]}
+{"op":"mcm","clk":"7623757373","pt":1538497097071,"mc":[{"id":"1.148958167","rc":[{"ltp":2.48,"id":9635538},{"ltp":1.6,"id":2923174}]}]}
+{"op":"mcm","clk":"7623761230","pt":1538497157155,"mc":[{"id":"1.148958167","rc":[{"ltp":2.28,"id":9635538},{"ltp":1.95,"id":2923174}]}]}
+{"op":"mcm","clk":"7623765173","pt":1538497217281,"mc":[{"id":"1.148958167","rc":[{"ltp":1.75,"id":9635538},{"ltp":2.24,"id":2923174}]}]}
+{"op":"mcm","clk":"7623768568","pt":1538497275497,"mc":[{"id":"1.148958167","rc":[{"ltp":1.74,"id":9635538},{"ltp":2.32,"id":2923174}]}]}
+{"op":"mcm","clk":"7623772644","pt":1538497336657,"mc":[{"id":"1.148958167","rc":[{"ltp":1.86,"id":9635538}]}]}
+{"op":"mcm","clk":"7623776445","pt":1538497397506,"mc":[{"id":"1.148958167","rc":[{"ltp":1.58,"id":9635538},{"ltp":2.78,"id":2923174}]}]}
+{"op":"mcm","clk":"7623780206","pt":1538497457341,"mc":[{"id":"1.148958167","rc":[{"ltp":1.75,"id":9635538}]}]}
+{"op":"mcm","clk":"7623784088","pt":1538497515786,"mc":[{"id":"1.148958167","rc":[{"ltp":2.02,"id":9635538},{"ltp":2.02,"id":2923174}]}]}
+{"op":"mcm","clk":"7623787926","pt":1538497575500,"mc":[{"id":"1.148958167","rc":[{"ltp":1.82,"id":9635538},{"ltp":2.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623791966","pt":1538497634374,"mc":[{"id":"1.148958167","rc":[{"ltp":1.81,"id":9635538},{"ltp":2.54,"id":2923174}]}]}
+{"op":"mcm","clk":"7623796309","pt":1538497697121,"mc":[{"id":"1.148958167","rc":[{"ltp":1.57,"id":9635538},{"ltp":2.84,"id":2923174}]}]}
+{"op":"mcm","clk":"7623800491","pt":1538497757571,"mc":[{"id":"1.148958167","rc":[{"ltp":1.54,"id":9635538}]}]}
+{"op":"mcm","clk":"7623804441","pt":1538497813887,"mc":[{"id":"1.148958167","rc":[{"ltp":1.47,"id":9635538}]}]}
+{"op":"mcm","clk":"7623808955","pt":1538497876779,"mc":[{"id":"1.148958167","rc":[{"ltp":1.55,"id":9635538}]}]}
+{"op":"mcm","clk":"7623824084","pt":1538497935352,"mc":[{"id":"1.148958167","rc":[{"ltp":1.64,"id":9635538},{"ltp":2.48,"id":2923174}]}]}
+{"op":"mcm","clk":"7623828641","pt":1538497997000,"mc":[{"id":"1.148958167","rc":[{"ltp":1.67,"id":9635538},{"ltp":2.56,"id":2923174}]}]}
+{"op":"mcm","clk":"7623833076","pt":1538498057408,"mc":[{"id":"1.148958167","rc":[{"ltp":1.62,"id":9635538}]}]}
+{"op":"mcm","clk":"7623837519","pt":1538498115803,"mc":[{"id":"1.148958167","rc":[{"ltp":1.56,"id":9635538},{"ltp":2.78,"id":2923174}]}]}
+{"op":"mcm","clk":"7623841706","pt":1538498166122,"mc":[{"id":"1.148958167","rc":[{"ltp":1.71,"id":9635538}]}]}
+{"op":"mcm","clk":"7623847517","pt":1538498237124,"mc":[{"id":"1.148958167","rc":[{"ltp":1.97,"id":9635538},{"ltp":1.93,"id":2923174}]}]}
+{"op":"mcm","clk":"7623852755","pt":1538498297487,"mc":[{"id":"1.148958167","rc":[{"ltp":1.52,"id":9635538},{"ltp":2.8,"id":2923174}]}]}
+{"op":"mcm","clk":"7623857014","pt":1538498357679,"mc":[{"id":"1.148958167","rc":[{"ltp":1.46,"id":9635538},{"ltp":3.2,"id":2923174}]}]}
+{"op":"mcm","clk":"7623860898","pt":1538498409143,"mc":[{"id":"1.148958167","rc":[{"ltp":1.45,"id":9635538},{"ltp":3.15,"id":2923174}]}]}
+{"op":"mcm","clk":"7623865069","pt":1538498476858,"mc":[{"id":"1.148958167","rc":[{"ltp":1.46,"id":9635538}]}]}
+{"op":"mcm","clk":"7623868382","pt":1538498534559,"mc":[{"id":"1.148958167","rc":[{"ltp":1.45,"id":9635538}]}]}
+{"op":"mcm","clk":"7623871706","pt":1538498593007,"mc":[{"id":"1.148958167","rc":[{"ltp":1.46,"id":9635538}]}]}
+{"op":"mcm","clk":"7623875239","pt":1538498654533,"mc":[{"id":"1.148958167","rc":[{"ltp":1.44,"id":9635538},{"ltp":3.25,"id":2923174}]}]}
+{"op":"mcm","clk":"7623879333","pt":1538498716722,"mc":[{"id":"1.148958167","rc":[{"ltp":1.45,"id":9635538},{"ltp":3.2,"id":2923174}]}]}
+{"op":"mcm","clk":"7623882678","pt":1538498769564,"mc":[{"id":"1.148958167","rc":[{"ltp":1.53,"id":9635538},{"ltp":2.92,"id":2923174}]}]}
+{"op":"mcm","clk":"7623897620","pt":1538498835060,"mc":[{"id":"1.148958167","rc":[{"ltp":1.43,"id":9635538}]}]}
+{"op":"mcm","clk":"7623901388","pt":1538498897366,"mc":[{"id":"1.148958167","rc":[{"ltp":1.53,"id":9635538}]}]}
+{"op":"mcm","clk":"7623904755","pt":1538498955473,"mc":[{"id":"1.148958167","rc":[{"ltp":1.39,"id":9635538},{"ltp":3.3,"id":2923174}]}]}
+{"op":"mcm","clk":"7623908444","pt":1538499017724,"mc":[{"id":"1.148958167","rc":[{"ltp":1.36,"id":9635538},{"ltp":3.2,"id":2923174}]}]}
+{"op":"mcm","clk":"7623912413","pt":1538499077646,"mc":[{"id":"1.148958167","rc":[{"ltp":1.3,"id":9635538},{"ltp":4.3,"id":2923174}]}]}
+{"op":"mcm","clk":"7623916312","pt":1538499137458,"mc":[{"id":"1.148958167","rc":[{"ltp":1.23,"id":9635538}]}]}
+{"op":"mcm","clk":"7623920259","pt":1538499197666,"mc":[{"id":"1.148958167","rc":[{"ltp":1.25,"id":9635538},{"ltp":4.4,"id":2923174}]}]}
+{"op":"mcm","clk":"7623924193","pt":1538499256889,"mc":[{"id":"1.148958167","rc":[{"ltp":1.31,"id":9635538}]}]}
+{"op":"mcm","clk":"7623928454","pt":1538499317713,"mc":[{"id":"1.148958167","rc":[{"ltp":1.27,"id":9635538}]}]}
+{"op":"mcm","clk":"7623933304","pt":1538499377056,"mc":[{"id":"1.148958167","rc":[{"ltp":1.2,"id":9635538},{"ltp":6.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623937458","pt":1538499437576,"mc":[{"id":"1.148958167","rc":[{"ltp":1.16,"id":9635538},{"ltp":7.2,"id":2923174}]}]}
+{"op":"mcm","clk":"7623940603","pt":1538499496695,"mc":[{"id":"1.148958167","rc":[{"ltp":1.13,"id":9635538}]}]}
+{"op":"mcm","clk":"7623944057","pt":1538499557689,"mc":[{"id":"1.148958167","rc":[{"ltp":1.09,"id":9635538},{"ltp":8.6,"id":2923174}]}]}
+{"op":"mcm","clk":"7623948771","pt":1538499617661,"mc":[{"id":"1.148958167","rc":[{"ltp":1.07,"id":9635538},{"ltp":12.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623953008","pt":1538499676745,"mc":[{"id":"1.148958167","rc":[{"ltp":1.05,"id":9635538},{"ltp":21.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623968110","pt":1538499735430,"mc":[{"id":"1.148958167","rc":[{"ltp":1.06,"id":9635538}]}]}
+{"op":"mcm","clk":"7623972902","pt":1538499797282,"mc":[{"id":"1.148958167","rc":[{"ltp":1.05,"id":9635538}]}]}
+{"op":"mcm","clk":"7623977401","pt":1538499857573,"mc":[{"id":"1.148958167","rc":[{"ltp":1.03,"id":9635538}]}]}
+{"op":"mcm","clk":"7623981539","pt":1538499916633,"mc":[{"id":"1.148958167","rc":[{"ltp":1.02,"id":9635538},{"ltp":26.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623985961","pt":1538499976901,"mc":[{"id":"1.148958167","rc":[{"ltp":34.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623990445","pt":1538500034056,"mc":[{"id":"1.148958167","rc":[{"ltp":1.01,"id":9635538}]}]}
+{"op":"mcm","clk":"7623995306","pt":1538500095456,"mc":[{"id":"1.148958167","rc":[{"ltp":1.03,"id":9635538},{"ltp":50.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7623999831","pt":1538500157401,"mc":[{"id":"1.148958167","rc":[{"ltp":1.02,"id":9635538}]}]}
+{"op":"mcm","clk":"7624004171","pt":1538500214166,"mc":[{"id":"1.148958167","rc":[{"ltp":1.01,"id":9635538}]}]}
+{"op":"mcm","clk":"7624012025","pt":1538500335879,"mc":[{"id":"1.148958167","rc":[{"ltp":1.03,"id":9635538}]}]}
+{"op":"mcm","clk":"7624028023","pt":1538500577588,"mc":[{"id":"1.148958167","rc":[{"ltp":1.02,"id":9635538}]}]}
+{"op":"mcm","clk":"7624046529","pt":1538500695837,"mc":[{"id":"1.148958167","rc":[{"ltp":1.03,"id":9635538},{"ltp":100.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7624050137","pt":1538500757676,"mc":[{"id":"1.148958167","rc":[{"ltp":1.04,"id":9635538},{"ltp":27.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7624057184","pt":1538500876345,"mc":[{"id":"1.148958167","rc":[{"ltp":1.02,"id":9635538}]}]}
+{"op":"mcm","clk":"7624071907","pt":1538501100353,"mc":[{"id":"1.148958167","rc":[{"ltp":1.01,"id":9635538}]}]}
+{"op":"mcm","clk":"7624085624","pt":1538501297559,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:26:00.000Z","suspendTime":"2018-10-02T15:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"ACTIVE","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:26:00.000Z","version":2434288063,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"},"rc":[{"ltp":110.0,"id":2923174}]}]}
+{"op":"mcm","clk":"7624088435","pt":1538501339746,"mc":[{"id":"1.148958167","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934082","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T15:26:00.000Z","suspendTime":"2018-10-02T15:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T17:28:52.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":2923174,"name":"Gastao Elias"},{"status":"WINNER","sortPriority":2,"id":9635538,"name":"Camilo Ugo Carabelli"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T15:26:00.000Z","version":2434288243,"name":"Match Odds","eventName":"Elias v Cam Ugo Carabelli"}}]}

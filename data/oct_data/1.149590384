@@ -1,0 +1,167 @@
+{"op":"mcm","clk":"7706632529","pt":1539526818978,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T07:00:00.000Z","suspendTime":"2018-10-15T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T07:00:00.000Z","version":2455639927,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7706688791","pt":1539527090908,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T16:00:00.000Z","suspendTime":"2018-10-15T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T16:00:00.000Z","version":2455663257,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7706748708","pt":1539527375176,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T15:30:00.000Z","suspendTime":"2018-10-15T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:30:00.000Z","version":2455672124,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7707587709","pt":1539532196958,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T16:00:00.000Z","suspendTime":"2018-10-15T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T16:00:00.000Z","version":2455898641,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7708112510","pt":1539535587113,"mc":[{"id":"1.149590384","rc":[{"ltp":1.52,"id":8962036}]}]}
+{"op":"mcm","clk":"7708139232","pt":1539535826196,"mc":[{"id":"1.149590384","rc":[{"ltp":1.44,"id":8962036}]}]}
+{"op":"mcm","clk":"7708145894","pt":1539535881019,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036},{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7708926593","pt":1539544021241,"mc":[{"id":"1.149590384","rc":[{"ltp":1.43,"id":8962036}]}]}
+{"op":"mcm","clk":"7709391656","pt":1539548494944,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7709652558","pt":1539550885416,"mc":[{"id":"1.149590384","rc":[{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7709883689","pt":1539553764137,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7709888060","pt":1539553837010,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036}]}]}
+{"op":"mcm","clk":"7709905759","pt":1539554129502,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036}]}]}
+{"op":"mcm","clk":"7709940210","pt":1539554539435,"mc":[{"id":"1.149590384","rc":[{"ltp":1.5,"id":8962036},{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7709948022","pt":1539554648552,"mc":[{"id":"1.149590384","rc":[{"ltp":2.98,"id":2258415}]}]}
+{"op":"mcm","clk":"7710145345","pt":1539557074857,"mc":[{"id":"1.149590384","rc":[{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7710231463","pt":1539558429219,"mc":[{"id":"1.149590384","rc":[{"ltp":2.98,"id":2258415}]}]}
+{"op":"mcm","clk":"7710472455","pt":1539561824758,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036}]}]}
+{"op":"mcm","clk":"7710511648","pt":1539562455033,"mc":[{"id":"1.149590384","rc":[{"ltp":2.96,"id":2258415}]}]}
+{"op":"mcm","clk":"7710612417","pt":1539564564838,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7710644729","pt":1539565355688,"mc":[{"id":"1.149590384","rc":[{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7710695545","pt":1539566649509,"mc":[{"id":"1.149590384","rc":[{"ltp":2.96,"id":2258415}]}]}
+{"op":"mcm","clk":"7710846205","pt":1539571115774,"mc":[{"id":"1.149590384","rc":[{"ltp":3.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7711027895","pt":1539576745739,"mc":[{"id":"1.149590384","rc":[{"ltp":2.96,"id":2258415}]}]}
+{"op":"mcm","clk":"7711271754","pt":1539583176018,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T15:30:00.000Z","suspendTime":"2018-10-15T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:30:00.000Z","version":2456896639,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7711557746","pt":1539590360514,"mc":[{"id":"1.149590384","rc":[{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7711560188","pt":1539590431769,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7711561599","pt":1539590480858,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036}]}]}
+{"op":"mcm","clk":"7711572359","pt":1539590783247,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036}]}]}
+{"op":"mcm","clk":"7711742626","pt":1539594157194,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7711779063","pt":1539594729679,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036}]}]}
+{"op":"mcm","clk":"7711845285","pt":1539595775181,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T15:24:00.000Z","suspendTime":"2018-10-15T15:24:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:24:00.000Z","version":2456986996,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7711952210","pt":1539597396363,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7711972889","pt":1539597572798,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T15:15:00.000Z","suspendTime":"2018-10-15T15:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:15:00.000Z","version":2456994933,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7712077452","pt":1539598810685,"mc":[{"id":"1.149590384","rc":[{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7712147343","pt":1539599549813,"mc":[{"id":"1.149590384","rc":[{"ltp":3.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7712234721","pt":1539600621900,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036}]}]}
+{"op":"mcm","clk":"7712303920","pt":1539601415495,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036}]}]}
+{"op":"mcm","clk":"7712308640","pt":1539601475301,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T15:02:00.000Z","suspendTime":"2018-10-15T15:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:02:00.000Z","version":2457018888,"name":"Match Odds","eventName":"Rosol v Berrettini"},"rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7712367444","pt":1539602062797,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036},{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7712396359","pt":1539602411620,"mc":[{"id":"1.149590384","rc":[{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7712409980","pt":1539602580184,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7712450761","pt":1539602956656,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036}]}]}
+{"op":"mcm","clk":"7712457672","pt":1539603036507,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7712533939","pt":1539603880826,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7712708291","pt":1539605675920,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T14:17:00.000Z","suspendTime":"2018-10-15T14:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T15:02:00.000Z","version":2457056024,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7712714983","pt":1539605735350,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T14:17:00.000Z","suspendTime":"2018-10-15T14:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T14:17:00.000Z","version":2457056024,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7712722661","pt":1539605809923,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036},{"ltp":3.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7712741917","pt":1539606004489,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T14:14:00.000Z","suspendTime":"2018-10-15T14:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T14:14:00.000Z","version":2457058754,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}
+{"op":"mcm","clk":"7712837057","pt":1539606930533,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036}]}]}
+{"op":"mcm","clk":"7712891830","pt":1539607410643,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036}]}]}
+{"op":"mcm","clk":"7713108122","pt":1539609444363,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036},{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713144056","pt":1539609842030,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036}]}]}
+{"op":"mcm","clk":"7713152210","pt":1539609932982,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036}]}]}
+{"op":"mcm","clk":"7713208069","pt":1539610447980,"mc":[{"id":"1.149590384","rc":[{"ltp":3.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7713239028","pt":1539610774881,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713251176","pt":1539610896468,"mc":[{"id":"1.149590384","rc":[{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7713275895","pt":1539611071701,"mc":[{"id":"1.149590384","rc":[{"ltp":3.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7713282196","pt":1539611136497,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036}]}]}
+{"op":"mcm","clk":"7713300109","pt":1539611317056,"mc":[{"id":"1.149590384","rc":[{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713305974","pt":1539611373633,"mc":[{"id":"1.149590384","rc":[{"ltp":1.45,"id":8962036},{"ltp":3.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713312834","pt":1539611435929,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036}]}]}
+{"op":"mcm","clk":"7713319416","pt":1539611494705,"mc":[{"id":"1.149590384","rc":[{"ltp":1.47,"id":8962036},{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713326289","pt":1539611557179,"mc":[{"id":"1.149590384","rc":[{"ltp":1.49,"id":8962036},{"ltp":3.05,"id":2258415}]}]}
+{"op":"mcm","clk":"7713331069","pt":1539611607123,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T14:14:00.000Z","suspendTime":"2018-10-15T14:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T14:14:00.000Z","version":2457117147,"name":"Match Odds","eventName":"Rosol v Berrettini"},"rc":[{"ltp":1.5,"id":8962036},{"ltp":2.9,"id":2258415}]}]}
+{"op":"mcm","clk":"7713336463","pt":1539611677141,"mc":[{"id":"1.149590384","rc":[{"ltp":1.53,"id":8962036},{"ltp":2.78,"id":2258415}]}]}
+{"op":"mcm","clk":"7713341180","pt":1539611735563,"mc":[{"id":"1.149590384","rc":[{"ltp":2.88,"id":2258415}]}]}
+{"op":"mcm","clk":"7713345547","pt":1539611791627,"mc":[{"id":"1.149590384","rc":[{"ltp":1.51,"id":8962036}]}]}
+{"op":"mcm","clk":"7713358659","pt":1539611857092,"mc":[{"id":"1.149590384","rc":[{"ltp":1.7,"id":8962036}]}]}
+{"op":"mcm","clk":"7713363320","pt":1539611916509,"mc":[{"id":"1.149590384","rc":[{"ltp":1.53,"id":8962036}]}]}
+{"op":"mcm","clk":"7713368060","pt":1539611976329,"mc":[{"id":"1.149590384","rc":[{"ltp":1.4,"id":8962036}]}]}
+{"op":"mcm","clk":"7713373596","pt":1539612037121,"mc":[{"id":"1.149590384","rc":[{"ltp":1.37,"id":8962036}]}]}
+{"op":"mcm","clk":"7713379160","pt":1539612096791,"mc":[{"id":"1.149590384","rc":[{"ltp":1.32,"id":8962036}]}]}
+{"op":"mcm","clk":"7713384589","pt":1539612157171,"mc":[{"id":"1.149590384","rc":[{"ltp":1.41,"id":8962036}]}]}
+{"op":"mcm","clk":"7713389953","pt":1539612215508,"mc":[{"id":"1.149590384","rc":[{"ltp":1.44,"id":8962036},{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713395310","pt":1539612273115,"mc":[{"id":"1.149590384","rc":[{"ltp":1.45,"id":8962036},{"ltp":3.25,"id":2258415}]}]}
+{"op":"mcm","clk":"7713401471","pt":1539612337018,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036},{"ltp":3.15,"id":2258415}]}]}
+{"op":"mcm","clk":"7713407209","pt":1539612397209,"mc":[{"id":"1.149590384","rc":[{"ltp":1.52,"id":8962036},{"ltp":2.92,"id":2258415}]}]}
+{"op":"mcm","clk":"7713413172","pt":1539612456845,"mc":[{"id":"1.149590384","rc":[{"ltp":1.68,"id":8962036},{"ltp":2.52,"id":2258415}]}]}
+{"op":"mcm","clk":"7713419485","pt":1539612517170,"mc":[{"id":"1.149590384","rc":[{"ltp":1.59,"id":8962036}]}]}
+{"op":"mcm","clk":"7713426058","pt":1539612575876,"mc":[{"id":"1.149590384","rc":[{"ltp":1.69,"id":8962036},{"ltp":2.42,"id":2258415}]}]}
+{"op":"mcm","clk":"7713432785","pt":1539612636980,"mc":[{"id":"1.149590384","rc":[{"ltp":2.08,"id":8962036},{"ltp":1.87,"id":2258415}]}]}
+{"op":"mcm","clk":"7713439238","pt":1539612696977,"mc":[{"id":"1.149590384","rc":[{"ltp":2.34,"id":8962036},{"ltp":1.82,"id":2258415}]}]}
+{"op":"mcm","clk":"7713454024","pt":1539612757171,"mc":[{"id":"1.149590384","rc":[{"ltp":2.28,"id":8962036},{"ltp":1.81,"id":2258415}]}]}
+{"op":"mcm","clk":"7713460089","pt":1539612817123,"mc":[{"id":"1.149590384","rc":[{"ltp":2.22,"id":8962036}]}]}
+{"op":"mcm","clk":"7713465410","pt":1539612876036,"mc":[{"id":"1.149590384","rc":[{"ltp":2.28,"id":8962036},{"ltp":1.86,"id":2258415}]}]}
+{"op":"mcm","clk":"7713471529","pt":1539612937065,"mc":[{"id":"1.149590384","rc":[{"ltp":2.2,"id":8962036},{"ltp":1.83,"id":2258415}]}]}
+{"op":"mcm","clk":"7713477607","pt":1539612996191,"mc":[{"id":"1.149590384","rc":[{"ltp":2.4,"id":8962036},{"ltp":1.7,"id":2258415}]}]}
+{"op":"mcm","clk":"7713483842","pt":1539613057027,"mc":[{"id":"1.149590384","rc":[{"ltp":2.52,"id":8962036},{"ltp":1.63,"id":2258415}]}]}
+{"op":"mcm","clk":"7713489714","pt":1539613116051,"mc":[{"id":"1.149590384","rc":[{"ltp":2.58,"id":8962036},{"ltp":1.65,"id":2258415}]}]}
+{"op":"mcm","clk":"7713495652","pt":1539613177059,"mc":[{"id":"1.149590384","rc":[{"ltp":2.4,"id":8962036},{"ltp":1.71,"id":2258415}]}]}
+{"op":"mcm","clk":"7713501195","pt":1539613236835,"mc":[{"id":"1.149590384","rc":[{"ltp":2.36,"id":8962036},{"ltp":1.72,"id":2258415}]}]}
+{"op":"mcm","clk":"7713505878","pt":1539613297141,"mc":[{"id":"1.149590384","rc":[{"ltp":2.68,"id":8962036},{"ltp":1.59,"id":2258415}]}]}
+{"op":"mcm","clk":"7713509637","pt":1539613357190,"mc":[{"id":"1.149590384","rc":[{"ltp":2.66,"id":8962036},{"ltp":1.6,"id":2258415}]}]}
+{"op":"mcm","clk":"7713513520","pt":1539613417127,"mc":[{"id":"1.149590384","rc":[{"ltp":2.6,"id":8962036},{"ltp":1.62,"id":2258415}]}]}
+{"op":"mcm","clk":"7713517961","pt":1539613476202,"mc":[{"id":"1.149590384","rc":[{"ltp":2.96,"id":8962036},{"ltp":1.51,"id":2258415}]}]}
+{"op":"mcm","clk":"7713522589","pt":1539613537033,"mc":[{"id":"1.149590384","rc":[{"ltp":2.76,"id":8962036},{"ltp":1.65,"id":2258415}]}]}
+{"op":"mcm","clk":"7713527436","pt":1539613597135,"mc":[{"id":"1.149590384","rc":[{"ltp":2.58,"id":8962036},{"ltp":1.64,"id":2258415}]}]}
+{"op":"mcm","clk":"7713544674","pt":1539613717218,"mc":[{"id":"1.149590384","rc":[{"ltp":2.62,"id":8962036},{"ltp":1.6,"id":2258415}]}]}
+{"op":"mcm","clk":"7713549062","pt":1539613776787,"mc":[{"id":"1.149590384","rc":[{"ltp":2.72,"id":8962036},{"ltp":1.56,"id":2258415}]}]}
+{"op":"mcm","clk":"7713553034","pt":1539613836838,"mc":[{"id":"1.149590384","rc":[{"ltp":2.8,"id":8962036}]}]}
+{"op":"mcm","clk":"7713556709","pt":1539613896944,"mc":[{"id":"1.149590384","rc":[{"ltp":2.5,"id":8962036},{"ltp":1.66,"id":2258415}]}]}
+{"op":"mcm","clk":"7713560581","pt":1539613956417,"mc":[{"id":"1.149590384","rc":[{"ltp":2.46,"id":8962036},{"ltp":1.67,"id":2258415}]}]}
+{"op":"mcm","clk":"7713564591","pt":1539614016778,"mc":[{"id":"1.149590384","rc":[{"ltp":2.48,"id":8962036},{"ltp":1.61,"id":2258415}]}]}
+{"op":"mcm","clk":"7713568718","pt":1539614076186,"mc":[{"id":"1.149590384","rc":[{"ltp":2.2,"id":8962036},{"ltp":1.83,"id":2258415}]}]}
+{"op":"mcm","clk":"7713573013","pt":1539614137080,"mc":[{"id":"1.149590384","rc":[{"ltp":2.12,"id":8962036},{"ltp":1.94,"id":2258415}]}]}
+{"op":"mcm","clk":"7713576983","pt":1539614196996,"mc":[{"id":"1.149590384","rc":[{"ltp":2.44,"id":8962036},{"ltp":1.69,"id":2258415}]}]}
+{"op":"mcm","clk":"7713581340","pt":1539614257219,"mc":[{"id":"1.149590384","rc":[{"ltp":2.56,"id":8962036},{"ltp":1.63,"id":2258415}]}]}
+{"op":"mcm","clk":"7713586152","pt":1539614316325,"mc":[{"id":"1.149590384","rc":[{"ltp":2.4,"id":8962036},{"ltp":1.71,"id":2258415}]}]}
+{"op":"mcm","clk":"7713590685","pt":1539614376040,"mc":[{"id":"1.149590384","rc":[{"ltp":2.28,"id":8962036},{"ltp":1.75,"id":2258415}]}]}
+{"op":"mcm","clk":"7713594939","pt":1539614436622,"mc":[{"id":"1.149590384","rc":[{"ltp":2.3,"id":8962036},{"ltp":1.76,"id":2258415}]}]}
+{"op":"mcm","clk":"7713598819","pt":1539614497193,"mc":[{"id":"1.149590384","rc":[{"ltp":2.1,"id":8962036},{"ltp":1.86,"id":2258415}]}]}
+{"op":"mcm","clk":"7713610811","pt":1539614557214,"mc":[{"id":"1.149590384","rc":[{"ltp":2.44,"id":8962036},{"ltp":1.68,"id":2258415}]}]}
+{"op":"mcm","clk":"7713615626","pt":1539614617124,"mc":[{"id":"1.149590384","rc":[{"ltp":2.56,"id":8962036},{"ltp":1.67,"id":2258415}]}]}
+{"op":"mcm","clk":"7713620377","pt":1539614677209,"mc":[{"id":"1.149590384","rc":[{"ltp":2.34,"id":8962036},{"ltp":1.75,"id":2258415}]}]}
+{"op":"mcm","clk":"7713625173","pt":1539614736889,"mc":[{"id":"1.149590384","rc":[{"ltp":2.28,"id":8962036},{"ltp":1.78,"id":2258415}]}]}
+{"op":"mcm","clk":"7713630421","pt":1539614796591,"mc":[{"id":"1.149590384","rc":[{"ltp":2.24,"id":8962036},{"ltp":1.8,"id":2258415}]}]}
+{"op":"mcm","clk":"7713635796","pt":1539614856885,"mc":[{"id":"1.149590384","rc":[{"ltp":1.79,"id":2258415}]}]}
+{"op":"mcm","clk":"7713640929","pt":1539614916755,"mc":[{"id":"1.149590384","rc":[{"ltp":2.46,"id":8962036},{"ltp":1.68,"id":2258415}]}]}
+{"op":"mcm","clk":"7713646083","pt":1539614977059,"mc":[{"id":"1.149590384","rc":[{"ltp":2.52,"id":8962036},{"ltp":1.65,"id":2258415}]}]}
+{"op":"mcm","clk":"7713650773","pt":1539615037020,"mc":[{"id":"1.149590384","rc":[{"ltp":3.75,"id":8962036},{"ltp":1.36,"id":2258415}]}]}
+{"op":"mcm","clk":"7713655145","pt":1539615097051,"mc":[{"id":"1.149590384","rc":[{"ltp":2.62,"id":8962036},{"ltp":1.56,"id":2258415}]}]}
+{"op":"mcm","clk":"7713658503","pt":1539615157076,"mc":[{"id":"1.149590384","rc":[{"ltp":2.38,"id":8962036},{"ltp":1.76,"id":2258415}]}]}
+{"op":"mcm","clk":"7713662387","pt":1539615217129,"mc":[{"id":"1.149590384","rc":[{"ltp":2.3,"id":8962036}]}]}
+{"op":"mcm","clk":"7713666075","pt":1539615276066,"mc":[{"id":"1.149590384","rc":[{"ltp":2.08,"id":8962036},{"ltp":1.83,"id":2258415}]}]}
+{"op":"mcm","clk":"7713669806","pt":1539615337093,"mc":[{"id":"1.149590384","rc":[{"ltp":2.18,"id":8962036}]}]}
+{"op":"mcm","clk":"7713673516","pt":1539615397031,"mc":[{"id":"1.149590384","rc":[{"ltp":1.5,"id":8962036},{"ltp":2.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713685496","pt":1539615457129,"mc":[{"id":"1.149590384","rc":[{"ltp":1.48,"id":8962036},{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7713689368","pt":1539615516793,"mc":[{"id":"1.149590384","rc":[{"ltp":1.51,"id":8962036}]}]}
+{"op":"mcm","clk":"7713693993","pt":1539615577204,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T13:33:00.000Z","suspendTime":"2018-10-15T13:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T13:33:00.000Z","version":2457158457,"name":"Match Odds","eventName":"Rosol v Berrettini"},"rc":[{"ltp":1.42,"id":8962036},{"ltp":3.45,"id":2258415}]}]}
+{"op":"mcm","clk":"7713697723","pt":1539615636851,"mc":[{"id":"1.149590384","rc":[{"ltp":1.4,"id":8962036}]}]}
+{"op":"mcm","clk":"7713701443","pt":1539615696900,"mc":[{"id":"1.149590384","rc":[{"ltp":1.33,"id":8962036},{"ltp":3.9,"id":2258415}]}]}
+{"op":"mcm","clk":"7713705326","pt":1539615757228,"mc":[{"id":"1.149590384","rc":[{"ltp":1.35,"id":8962036},{"ltp":4.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713708940","pt":1539615817120,"mc":[{"id":"1.149590384","rc":[{"ltp":1.42,"id":8962036},{"ltp":3.4,"id":2258415}]}]}
+{"op":"mcm","clk":"7713713397","pt":1539615877057,"mc":[{"id":"1.149590384","rc":[{"ltp":1.46,"id":8962036},{"ltp":3.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713717593","pt":1539615936893,"mc":[{"id":"1.149590384","rc":[{"ltp":1.44,"id":8962036},{"ltp":3.0,"id":2258415}]}]}
+{"op":"mcm","clk":"7713722644","pt":1539615996992,"mc":[{"id":"1.149590384","rc":[{"ltp":1.4,"id":8962036},{"ltp":3.5,"id":2258415}]}]}
+{"op":"mcm","clk":"7713732734","pt":1539616116812,"mc":[{"id":"1.149590384","rc":[{"ltp":1.43,"id":8962036},{"ltp":3.25,"id":2258415}]}]}
+{"op":"mcm","clk":"7713737685","pt":1539616177025,"mc":[{"id":"1.149590384","rc":[{"ltp":1.51,"id":8962036},{"ltp":2.96,"id":2258415}]}]}
+{"op":"mcm","clk":"7713741884","pt":1539616237188,"mc":[{"id":"1.149590384","rc":[{"ltp":1.4,"id":8962036},{"ltp":3.35,"id":2258415}]}]}
+{"op":"mcm","clk":"7713745993","pt":1539616297035,"mc":[{"id":"1.149590384","rc":[{"ltp":1.41,"id":8962036}]}]}
+{"op":"mcm","clk":"7713758653","pt":1539616356845,"mc":[{"id":"1.149590384","rc":[{"ltp":1.44,"id":8962036},{"ltp":3.4,"id":2258415}]}]}
+{"op":"mcm","clk":"7713763663","pt":1539616416510,"mc":[{"id":"1.149590384","rc":[{"ltp":1.39,"id":8962036},{"ltp":3.55,"id":2258415}]}]}
+{"op":"mcm","clk":"7713769041","pt":1539616476656,"mc":[{"id":"1.149590384","rc":[{"ltp":1.37,"id":8962036},{"ltp":3.7,"id":2258415}]}]}
+{"op":"mcm","clk":"7713774067","pt":1539616537184,"mc":[{"id":"1.149590384","rc":[{"ltp":1.34,"id":8962036},{"ltp":4.1,"id":2258415}]}]}
+{"op":"mcm","clk":"7713779265","pt":1539616597242,"mc":[{"id":"1.149590384","rc":[{"ltp":1.51,"id":8962036},{"ltp":2.92,"id":2258415}]}]}
+{"op":"mcm","clk":"7713784595","pt":1539616657208,"mc":[{"id":"1.149590384","rc":[{"ltp":1.64,"id":8962036},{"ltp":2.54,"id":2258415}]}]}
+{"op":"mcm","clk":"7713789942","pt":1539616717209,"mc":[{"id":"1.149590384","rc":[{"ltp":1.96,"id":8962036},{"ltp":2.02,"id":2258415}]}]}
+{"op":"mcm","clk":"7713795004","pt":1539616777210,"mc":[{"id":"1.149590384","rc":[{"ltp":2.38,"id":8962036},{"ltp":1.72,"id":2258415}]}]}
+{"op":"mcm","clk":"7713799883","pt":1539616837221,"mc":[{"id":"1.149590384","rc":[{"ltp":4.5,"id":8962036},{"ltp":1.28,"id":2258415}]}]}
+{"op":"mcm","clk":"7713804752","pt":1539616896246,"mc":[{"id":"1.149590384","rc":[{"ltp":5.5,"id":8962036},{"ltp":1.22,"id":2258415}]}]}
+{"op":"mcm","clk":"7713814539","pt":1539617016936,"mc":[{"id":"1.149590384","rc":[{"ltp":2.56,"id":8962036},{"ltp":1.67,"id":2258415}]}]}
+{"op":"mcm","clk":"7713819950","pt":1539617076990,"mc":[{"id":"1.149590384","rc":[{"ltp":3.75,"id":8962036},{"ltp":1.39,"id":2258415}]}]}
+{"op":"mcm","clk":"7713825558","pt":1539617137186,"mc":[{"id":"1.149590384","rc":[{"ltp":8.0,"id":8962036},{"ltp":1.14,"id":2258415}]}]}
+{"op":"mcm","clk":"7713831259","pt":1539617197089,"mc":[{"id":"1.149590384","rc":[{"ltp":7.2,"id":8962036},{"ltp":1.17,"id":2258415}]}]}
+{"op":"mcm","clk":"7713845312","pt":1539617257133,"mc":[{"id":"1.149590384","rc":[{"ltp":1.16,"id":2258415}]}]}
+{"op":"mcm","clk":"7713851020","pt":1539617317016,"mc":[{"id":"1.149590384","rc":[{"ltp":6.0,"id":8962036},{"ltp":1.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713857007","pt":1539617377094,"mc":[{"id":"1.149590384","rc":[{"ltp":8.0,"id":8962036},{"ltp":1.11,"id":2258415}]}]}
+{"op":"mcm","clk":"7713862445","pt":1539617437165,"mc":[{"id":"1.149590384","rc":[{"ltp":5.3,"id":8962036},{"ltp":1.22,"id":2258415}]}]}
+{"op":"mcm","clk":"7713867776","pt":1539617497139,"mc":[{"id":"1.149590384","rc":[{"ltp":11.0,"id":8962036},{"ltp":1.08,"id":2258415}]}]}
+{"op":"mcm","clk":"7713873043","pt":1539617556885,"mc":[{"id":"1.149590384","rc":[{"ltp":2.68,"id":8962036},{"ltp":1.6,"id":2258415}]}]}
+{"op":"mcm","clk":"7713878186","pt":1539617617232,"mc":[{"id":"1.149590384","rc":[{"ltp":2.72,"id":8962036}]}]}
+{"op":"mcm","clk":"7713883297","pt":1539617676754,"mc":[{"id":"1.149590384","rc":[{"ltp":5.3,"id":8962036},{"ltp":1.22,"id":2258415}]}]}
+{"op":"mcm","clk":"7713888417","pt":1539617737181,"mc":[{"id":"1.149590384","rc":[{"ltp":5.0,"id":8962036},{"ltp":1.24,"id":2258415}]}]}
+{"op":"mcm","clk":"7713893147","pt":1539617797211,"mc":[{"id":"1.149590384","rc":[{"ltp":13.5,"id":8962036},{"ltp":1.09,"id":2258415}]}]}
+{"op":"mcm","clk":"7713897712","pt":1539617849060,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T13:33:00.000Z","suspendTime":"2018-10-15T13:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"ACTIVE","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T13:33:00.000Z","version":2457186584,"name":"Match Odds","eventName":"Rosol v Berrettini"},"rc":[{"ltp":6.0,"id":8962036},{"ltp":1.2,"id":2258415}]}]}
+{"op":"mcm","clk":"7713899865","pt":1539617876136,"mc":[{"id":"1.149590384","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28957244","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T13:33:00.000Z","suspendTime":"2018-10-15T13:33:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-15T15:37:40.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2258415,"name":"Lukas Rosol"},{"status":"LOSER","sortPriority":2,"id":8962036,"name":"Matteo Berrettini"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T13:33:00.000Z","version":2457186865,"name":"Match Odds","eventName":"Rosol v Berrettini"}}]}

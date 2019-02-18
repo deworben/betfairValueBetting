@@ -1,0 +1,44 @@
+{"op":"mcm","clk":"7528869859","pt":1538304039660,"mc":[{"id":"1.148886515","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932118","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T13:00:00.000Z","suspendTime":"2018-10-01T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2422070,"name":"Anastasija Sevastova"},{"status":"ACTIVE","sortPriority":2,"id":3800907,"name":"Madison Keys"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T13:00:00.000Z","version":2429892990,"name":"Match Odds","eventName":"Sevastova v Keys"}}]}
+{"op":"mcm","clk":"7533826076","pt":1538329207147,"mc":[{"id":"1.148886515","rc":[{"ltp":1.71,"id":3800907}]}]}
+{"op":"mcm","clk":"7535199786","pt":1538341764484,"mc":[{"id":"1.148886515","rc":[{"ltp":1.72,"id":3800907}]}]}
+{"op":"mcm","clk":"7535370734","pt":1538343628632,"mc":[{"id":"1.148886515","rc":[{"ltp":2.4,"id":2422070}]}]}
+{"op":"mcm","clk":"7535385854","pt":1538343816088,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070}]}]}
+{"op":"mcm","clk":"7535795100","pt":1538348916366,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7535796531","pt":1538348942738,"mc":[{"id":"1.148886515","rc":[{"ltp":2.34,"id":2422070}]}]}
+{"op":"mcm","clk":"7536062521","pt":1538354080449,"mc":[{"id":"1.148886515","rc":[{"ltp":2.3,"id":2422070},{"ltp":1.74,"id":3800907}]}]}
+{"op":"mcm","clk":"7536639834","pt":1538365946627,"mc":[{"id":"1.148886515","rc":[{"ltp":1.73,"id":3800907}]}]}
+{"op":"mcm","clk":"7536863663","pt":1538369898636,"mc":[{"id":"1.148886515","rc":[{"ltp":1.76,"id":3800907}]}]}
+{"op":"mcm","clk":"7536871191","pt":1538370036553,"mc":[{"id":"1.148886515","rc":[{"ltp":2.34,"id":2422070}]}]}
+{"op":"mcm","clk":"7536873197","pt":1538370073609,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070}]}]}
+{"op":"mcm","clk":"7536884602","pt":1538370322750,"mc":[{"id":"1.148886515","rc":[{"ltp":2.32,"id":2422070}]}]}
+{"op":"mcm","clk":"7536930300","pt":1538371225259,"mc":[{"id":"1.148886515","rc":[{"ltp":1.72,"id":3800907}]}]}
+{"op":"mcm","clk":"7537381188","pt":1538378715963,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7537500208","pt":1538380729282,"mc":[{"id":"1.148886515","rc":[{"ltp":1.75,"id":3800907}]}]}
+{"op":"mcm","clk":"7537680409","pt":1538383537102,"mc":[{"id":"1.148886515","rc":[{"ltp":2.34,"id":2422070}]}]}
+{"op":"mcm","clk":"7537785426","pt":1538384895970,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7537840351","pt":1538385574405,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070},{"ltp":1.7,"id":3800907}]}]}
+{"op":"mcm","clk":"7537872060","pt":1538385842917,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070},{"ltp":1.74,"id":3800907}]}]}
+{"op":"mcm","clk":"7537934001","pt":1538386594251,"mc":[{"id":"1.148886515","rc":[{"ltp":2.46,"id":2422070},{"ltp":1.7,"id":3800907}]}]}
+{"op":"mcm","clk":"7537965900","pt":1538386876776,"mc":[{"id":"1.148886515","rc":[{"ltp":1.69,"id":3800907}]}]}
+{"op":"mcm","clk":"7537976972","pt":1538387013690,"mc":[{"id":"1.148886515","rc":[{"ltp":2.44,"id":2422070}]}]}
+{"op":"mcm","clk":"7538116318","pt":1538388510526,"mc":[{"id":"1.148886515","rc":[{"ltp":1.7,"id":3800907}]}]}
+{"op":"mcm","clk":"7538160492","pt":1538388971830,"mc":[{"id":"1.148886515","rc":[{"ltp":2.4,"id":2422070}]}]}
+{"op":"mcm","clk":"7538258606","pt":1538389901719,"mc":[{"id":"1.148886515","rc":[{"ltp":1.71,"id":3800907}]}]}
+{"op":"mcm","clk":"7538263250","pt":1538389960672,"mc":[{"id":"1.148886515","rc":[{"ltp":2.44,"id":2422070},{"ltp":1.7,"id":3800907}]}]}
+{"op":"mcm","clk":"7538319050","pt":1538390432888,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070}]}]}
+{"op":"mcm","clk":"7538345300","pt":1538390679975,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7538350484","pt":1538390726039,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070}]}]}
+{"op":"mcm","clk":"7538354431","pt":1538390766146,"mc":[{"id":"1.148886515","rc":[{"ltp":1.74,"id":3800907}]}]}
+{"op":"mcm","clk":"7538430139","pt":1538391566058,"mc":[{"id":"1.148886515","rc":[{"ltp":2.34,"id":2422070}]}]}
+{"op":"mcm","clk":"7538440360","pt":1538391670206,"mc":[{"id":"1.148886515","rc":[{"ltp":1.73,"id":3800907}]}]}
+{"op":"mcm","clk":"7538457009","pt":1538391878196,"mc":[{"id":"1.148886515","rc":[{"ltp":1.74,"id":3800907}]}]}
+{"op":"mcm","clk":"7538491874","pt":1538392172661,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7538543057","pt":1538392719956,"mc":[{"id":"1.148886515","rc":[{"ltp":2.34,"id":2422070},{"ltp":1.75,"id":3800907}]}]}
+{"op":"mcm","clk":"7538560031","pt":1538392901412,"mc":[{"id":"1.148886515","rc":[{"ltp":2.32,"id":2422070}]}]}
+{"op":"mcm","clk":"7538578065","pt":1538393004751,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7538586783","pt":1538393110946,"mc":[{"id":"1.148886515","rc":[{"ltp":1.74,"id":3800907}]}]}
+{"op":"mcm","clk":"7538598806","pt":1538393261036,"mc":[{"id":"1.148886515","rc":[{"ltp":2.38,"id":2422070}]}]}
+{"op":"mcm","clk":"7538601508","pt":1538393294024,"mc":[{"id":"1.148886515","rc":[{"ltp":2.36,"id":2422070}]}]}
+{"op":"mcm","clk":"7538606641","pt":1538393359086,"mc":[{"id":"1.148886515","rc":[{"ltp":1.73,"id":3800907}]}]}
+{"op":"mcm","clk":"7538700091","pt":1538394340938,"mc":[{"id":"1.148886515","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932118","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T13:00:00.000Z","suspendTime":"2018-10-01T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2422070,"name":"Anastasija Sevastova"},{"status":"ACTIVE","sortPriority":2,"id":3800907,"name":"Madison Keys"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T13:00:00.000Z","version":2432760190,"name":"Match Odds","eventName":"Sevastova v Keys"}}]}
+{"op":"mcm","clk":"7538703962","pt":1538394378097,"mc":[{"id":"1.148886515","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932118","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T13:00:00.000Z","suspendTime":"2018-10-01T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-01T11:46:16.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-01T11:46:16.000Z","id":2422070,"name":"Anastasija Sevastova"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-01T11:46:16.000Z","id":3800907,"name":"Madison Keys"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T13:00:00.000Z","version":2432761382,"name":"Match Odds","eventName":"Sevastova v Keys"}}]}

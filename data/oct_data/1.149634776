@@ -1,0 +1,45 @@
+{"op":"mcm","clk":"7713705012","pt":1539615752951,"mc":[{"id":"1.149634776","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958519","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T07:00:00.000Z","suspendTime":"2018-10-16T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4625563,"name":"Simona Halep"},{"status":"ACTIVE","sortPriority":2,"id":11057836,"name":"Anastasia Pavlyuchenkov"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T07:00:00.000Z","version":2457167934,"name":"Match Odds","eventName":"Halep v Pavlyuchenkova"}}]}
+{"op":"mcm","clk":"7714741783","pt":1539625906195,"mc":[{"id":"1.149634776","rc":[{"ltp":2.22,"id":4625563},{"ltp":1.83,"id":11057836}]}]}
+{"op":"mcm","clk":"7714780826","pt":1539626313211,"mc":[{"id":"1.149634776","rc":[{"ltp":1.66,"id":11057836}]}]}
+{"op":"mcm","clk":"7714926171","pt":1539627826855,"mc":[{"id":"1.149634776","rc":[{"ltp":2.3,"id":4625563}]}]}
+{"op":"mcm","clk":"7714954313","pt":1539628047640,"mc":[{"id":"1.149634776","rc":[{"ltp":1.77,"id":11057836}]}]}
+{"op":"mcm","clk":"7715255445","pt":1539631122734,"mc":[{"id":"1.149634776","rc":[{"ltp":2.48,"id":4625563},{"ltp":1.67,"id":11057836}]}]}
+{"op":"mcm","clk":"7715639204","pt":1539635390566,"mc":[{"id":"1.149634776","rc":[{"ltp":1.68,"id":11057836}]}]}
+{"op":"mcm","clk":"7715641409","pt":1539635426564,"mc":[{"id":"1.149634776","rc":[{"ltp":2.46,"id":4625563},{"ltp":1.69,"id":11057836}]}]}
+{"op":"mcm","clk":"7715673458","pt":1539636030306,"mc":[{"id":"1.149634776","rc":[{"ltp":2.52,"id":4625563},{"ltp":1.64,"id":11057836}]}]}
+{"op":"mcm","clk":"7715893586","pt":1539639704424,"mc":[{"id":"1.149634776","rc":[{"ltp":2.5,"id":4625563}]}]}
+{"op":"mcm","clk":"7715904585","pt":1539639738614,"mc":[{"id":"1.149634776","rc":[{"ltp":2.48,"id":4625563}]}]}
+{"op":"mcm","clk":"7715923021","pt":1539640126278,"mc":[{"id":"1.149634776","rc":[{"ltp":1.68,"id":11057836}]}]}
+{"op":"mcm","clk":"7715928479","pt":1539640250731,"mc":[{"id":"1.149634776","rc":[{"ltp":2.44,"id":4625563},{"ltp":1.7,"id":11057836}]}]}
+{"op":"mcm","clk":"7715931360","pt":1539640311263,"mc":[{"id":"1.149634776","rc":[{"ltp":1.71,"id":11057836}]}]}
+{"op":"mcm","clk":"7716008767","pt":1539641570862,"mc":[{"id":"1.149634776","rc":[{"ltp":2.38,"id":4625563},{"ltp":1.73,"id":11057836}]}]}
+{"op":"mcm","clk":"7716017762","pt":1539641750809,"mc":[{"id":"1.149634776","rc":[{"ltp":2.34,"id":4625563},{"ltp":1.75,"id":11057836}]}]}
+{"op":"mcm","clk":"7716111982","pt":1539643421932,"mc":[{"id":"1.149634776","rc":[{"ltp":2.3,"id":4625563}]}]}
+{"op":"mcm","clk":"7716155191","pt":1539644210909,"mc":[{"id":"1.149634776","rc":[{"ltp":1.71,"id":11057836}]}]}
+{"op":"mcm","clk":"7716179340","pt":1539644511333,"mc":[{"id":"1.149634776","rc":[{"ltp":2.44,"id":4625563},{"ltp":1.68,"id":11057836}]}]}
+{"op":"mcm","clk":"7716529283","pt":1539649744058,"mc":[{"id":"1.149634776","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958519","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:00:00.000Z","suspendTime":"2018-10-17T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4625563,"name":"Simona Halep"},{"status":"ACTIVE","sortPriority":2,"id":11057836,"name":"Anastasia Pavlyuchenkov"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:00:00.000Z","version":2457703004,"name":"Match Odds","eventName":"Halep v Pavlyuchenkova"}}]}
+{"op":"mcm","clk":"7716925413","pt":1539656475931,"mc":[{"id":"1.149634776","rc":[{"ltp":2.46,"id":4625563}]}]}
+{"op":"mcm","clk":"7717126669","pt":1539660303113,"mc":[{"id":"1.149634776","rc":[{"ltp":2.42,"id":4625563}]}]}
+{"op":"mcm","clk":"7717339094","pt":1539664292238,"mc":[{"id":"1.149634776","rc":[{"ltp":1.71,"id":11057836}]}]}
+{"op":"mcm","clk":"7717785145","pt":1539673006679,"mc":[{"id":"1.149634776","rc":[{"ltp":2.46,"id":4625563},{"ltp":1.68,"id":11057836}]}]}
+{"op":"mcm","clk":"7718679255","pt":1539684280983,"mc":[{"id":"1.149634776","rc":[{"ltp":1.66,"id":11057836}]}]}
+{"op":"mcm","clk":"7718975300","pt":1539687576377,"mc":[{"id":"1.149634776","rc":[{"ltp":1.65,"id":11057836}]}]}
+{"op":"mcm","clk":"7719468656","pt":1539693351991,"mc":[{"id":"1.149634776","rc":[{"ltp":2.56,"id":4625563},{"ltp":1.64,"id":11057836}]}]}
+{"op":"mcm","clk":"7719471910","pt":1539693390632,"mc":[{"id":"1.149634776","rc":[{"ltp":1.6,"id":11057836}]}]}
+{"op":"mcm","clk":"7719498032","pt":1539693686874,"mc":[{"id":"1.149634776","rc":[{"ltp":1.59,"id":11057836}]}]}
+{"op":"mcm","clk":"7719525700","pt":1539693879210,"mc":[{"id":"1.149634776","rc":[{"ltp":1.58,"id":11057836}]}]}
+{"op":"mcm","clk":"7719531753","pt":1539693945505,"mc":[{"id":"1.149634776","rc":[{"ltp":2.78,"id":4625563},{"ltp":1.45,"id":11057836}]}]}
+{"op":"mcm","clk":"7719538107","pt":1539694011059,"mc":[{"id":"1.149634776","rc":[{"ltp":2.9,"id":4625563},{"ltp":1.52,"id":11057836}]}]}
+{"op":"mcm","clk":"7719543775","pt":1539694069460,"mc":[{"id":"1.149634776","rc":[{"ltp":1.47,"id":11057836}]}]}
+{"op":"mcm","clk":"7719548166","pt":1539694115988,"mc":[{"id":"1.149634776","rc":[{"ltp":3.15,"id":4625563}]}]}
+{"op":"mcm","clk":"7719553859","pt":1539694182660,"mc":[{"id":"1.149634776","rc":[{"ltp":1.42,"id":11057836}]}]}
+{"op":"mcm","clk":"7719563987","pt":1539694307797,"mc":[{"id":"1.149634776","rc":[{"ltp":1.43,"id":11057836}]}]}
+{"op":"mcm","clk":"7719606458","pt":1539694708915,"mc":[{"id":"1.149634776","rc":[{"ltp":3.2,"id":4625563},{"ltp":1.45,"id":11057836}]}]}
+{"op":"mcm","clk":"7719678434","pt":1539695431922,"mc":[{"id":"1.149634776","rc":[{"ltp":1.43,"id":11057836}]}]}
+{"op":"mcm","clk":"7719717448","pt":1539695689589,"mc":[{"id":"1.149634776","rc":[{"ltp":1.45,"id":11057836}]}]}
+{"op":"mcm","clk":"7719773774","pt":1539696204627,"mc":[{"id":"1.149634776","rc":[{"ltp":1.46,"id":11057836}]}]}
+{"op":"mcm","clk":"7719977804","pt":1539697774608,"mc":[{"id":"1.149634776","rc":[{"ltp":3.1,"id":4625563},{"ltp":1.47,"id":11057836}]}]}
+{"op":"mcm","clk":"7720093942","pt":1539698725076,"mc":[{"id":"1.149634776","rc":[{"ltp":1.45,"id":11057836}]}]}
+{"op":"mcm","clk":"7720227137","pt":1539699870332,"mc":[{"id":"1.149634776","rc":[{"ltp":1.48,"id":11057836}]}]}
+{"op":"mcm","clk":"7720278065","pt":1539700297387,"mc":[{"id":"1.149634776","rc":[{"ltp":3.05,"id":4625563},{"ltp":1.49,"id":11057836}]}]}
+{"op":"mcm","clk":"7720372165","pt":1539701145730,"mc":[{"id":"1.149634776","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28958519","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:00:00.000Z","suspendTime":"2018-10-17T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":0,"status":"CLOSED","settledTime":"2018-10-16T14:45:39.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-16T14:45:39.000Z","id":4625563,"name":"Simona Halep"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-16T14:45:39.000Z","id":11057836,"name":"Anastasia Pavlyuchenkov"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:00:00.000Z","version":2458163834,"name":"Match Odds","eventName":"Halep v Pavlyuchenkova"}}]}

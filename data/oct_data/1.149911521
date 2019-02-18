@@ -1,0 +1,54 @@
+{"op":"mcm","clk":"7769425005","pt":1540042175775,"mc":[{"id":"1.149911521","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966881","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T11:30:00.000Z","suspendTime":"2018-10-21T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21040336,"name":"Raja/Sancic"},{"status":"ACTIVE","sortPriority":2,"id":18349914,"name":"Junaid/Pel"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T11:30:00.000Z","version":2464169337,"name":"Match Odds","eventName":"Raja/Sancic v Junaid/Pel"}}]}
+{"op":"mcm","clk":"7769531028","pt":1540042508269,"mc":[{"id":"1.149911521","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966881","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T11:30:00.000Z","suspendTime":"2018-10-21T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21040336,"name":"Raja/Sancic"},{"status":"ACTIVE","sortPriority":2,"id":18349914,"name":"Junaid/Pel"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T11:30:00.000Z","version":2464169337,"name":"Match Odds","eventName":"Raja/Sancic v Junaid/Pel"}}]}
+{"op":"mcm","clk":"7779603589","pt":1540106441836,"mc":[{"id":"1.149911521","rc":[{"ltp":1.66,"id":21040336}]}]}
+{"op":"mcm","clk":"7779733544","pt":1540107957451,"mc":[{"id":"1.149911521","rc":[{"ltp":1.67,"id":21040336}]}]}
+{"op":"mcm","clk":"7780065179","pt":1540111574831,"mc":[{"id":"1.149911521","rc":[{"ltp":1.66,"id":21040336}]}]}
+{"op":"mcm","clk":"7780686835","pt":1540116434993,"mc":[{"id":"1.149911521","rc":[{"ltp":1.67,"id":21040336}]}]}
+{"op":"mcm","clk":"7781035649","pt":1540118778330,"mc":[{"id":"1.149911521","rc":[{"ltp":1.66,"id":21040336}]}]}
+{"op":"mcm","clk":"7781138927","pt":1540119506724,"mc":[{"id":"1.149911521","rc":[{"ltp":1.67,"id":21040336}]}]}
+{"op":"mcm","clk":"7781396517","pt":1540121019448,"mc":[{"id":"1.149911521","rc":[{"ltp":2.5,"id":18349914}]}]}
+{"op":"mcm","clk":"7781415071","pt":1540121142088,"mc":[{"id":"1.149911521","rc":[{"ltp":2.2,"id":18349914},{"ltp":1.84,"id":21040336}]}]}
+{"op":"mcm","clk":"7781427400","pt":1540121221900,"mc":[{"id":"1.149911521","rc":[{"ltp":2.36,"id":18349914},{"ltp":1.74,"id":21040336}]}]}
+{"op":"mcm","clk":"7781449644","pt":1540121369043,"mc":[{"id":"1.149911521","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966881","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T11:23:00.000Z","suspendTime":"2018-10-21T11:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21040336,"name":"Raja/Sancic"},{"status":"ACTIVE","sortPriority":2,"id":18349914,"name":"Junaid/Pel"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T11:23:00.000Z","version":2467632243,"name":"Match Odds","eventName":"Raja/Sancic v Junaid/Pel"}}]}
+{"op":"mcm","clk":"7781601340","pt":1540122091109,"mc":[{"id":"1.149911521","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966881","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T11:23:00.000Z","suspendTime":"2018-10-21T11:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21040336,"name":"Raja/Sancic"},{"status":"ACTIVE","sortPriority":2,"id":18349914,"name":"Junaid/Pel"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T11:23:00.000Z","version":2467714767,"name":"Match Odds","eventName":"Raja/Sancic v Junaid/Pel"}}]}
+{"op":"mcm","clk":"7781625063","pt":1540122216756,"mc":[{"id":"1.149911521","rc":[{"ltp":2.0,"id":18349914},{"ltp":1.96,"id":21040336}]}]}
+{"op":"mcm","clk":"7781659549","pt":1540122395618,"mc":[{"id":"1.149911521","rc":[{"ltp":2.16,"id":18349914}]}]}
+{"op":"mcm","clk":"7781694325","pt":1540122517294,"mc":[{"id":"1.149911521","rc":[{"ltp":1.58,"id":18349914},{"ltp":2.12,"id":21040336}]}]}
+{"op":"mcm","clk":"7781726186","pt":1540122701303,"mc":[{"id":"1.149911521","rc":[{"ltp":2.04,"id":18349914},{"ltp":1.96,"id":21040336}]}]}
+{"op":"mcm","clk":"7781792625","pt":1540123105812,"mc":[{"id":"1.149911521","rc":[{"ltp":1.86,"id":18349914},{"ltp":2.16,"id":21040336}]}]}
+{"op":"mcm","clk":"7781811879","pt":1540123228682,"mc":[{"id":"1.149911521","rc":[{"ltp":2.0,"id":21040336}]}]}
+{"op":"mcm","clk":"7781823151","pt":1540123293191,"mc":[{"id":"1.149911521","rc":[{"ltp":2.12,"id":18349914},{"ltp":1.89,"id":21040336}]}]}
+{"op":"mcm","clk":"7781855579","pt":1540123401154,"mc":[{"id":"1.149911521","rc":[{"ltp":1.81,"id":18349914},{"ltp":2.24,"id":21040336}]}]}
+{"op":"mcm","clk":"7781912883","pt":1540123718714,"mc":[{"id":"1.149911521","rc":[{"ltp":1.86,"id":18349914}]}]}
+{"op":"mcm","clk":"7781922670","pt":1540123774953,"mc":[{"id":"1.149911521","rc":[{"ltp":1.8,"id":18349914}]}]}
+{"op":"mcm","clk":"7781942464","pt":1540123887242,"mc":[{"id":"1.149911521","rc":[{"ltp":1.78,"id":18349914},{"ltp":2.28,"id":21040336}]}]}
+{"op":"mcm","clk":"7781966098","pt":1540124020281,"mc":[{"id":"1.149911521","rc":[{"ltp":2.0,"id":18349914},{"ltp":2.0,"id":21040336}]}]}
+{"op":"mcm","clk":"7781988714","pt":1540124141878,"mc":[{"id":"1.149911521","rc":[{"ltp":1.96,"id":18349914}]}]}
+{"op":"mcm","clk":"7781998235","pt":1540124200243,"mc":[{"id":"1.149911521","rc":[{"ltp":1.84,"id":18349914},{"ltp":2.18,"id":21040336}]}]}
+{"op":"mcm","clk":"7782031075","pt":1540124320821,"mc":[{"id":"1.149911521","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7782040485","pt":1540124377850,"mc":[{"id":"1.149911521","rc":[{"ltp":1.42,"id":18349914}]}]}
+{"op":"mcm","clk":"7782052070","pt":1540124441975,"mc":[{"id":"1.149911521","rc":[{"ltp":1.27,"id":18349914},{"ltp":4.6,"id":21040336}]}]}
+{"op":"mcm","clk":"7782062207","pt":1540124497085,"mc":[{"id":"1.149911521","rc":[{"ltp":4.3,"id":21040336}]}]}
+{"op":"mcm","clk":"7782095094","pt":1540124681062,"mc":[{"id":"1.149911521","rc":[{"ltp":5.1,"id":21040336}]}]}
+{"op":"mcm","clk":"7782105193","pt":1540124738774,"mc":[{"id":"1.149911521","rc":[{"ltp":1.26,"id":18349914}]}]}
+{"op":"mcm","clk":"7782114692","pt":1540124794409,"mc":[{"id":"1.149911521","rc":[{"ltp":5.3,"id":21040336}]}]}
+{"op":"mcm","clk":"7782136889","pt":1540124914441,"mc":[{"id":"1.149911521","rc":[{"ltp":3.35,"id":21040336}]}]}
+{"op":"mcm","clk":"7782146529","pt":1540124970421,"mc":[{"id":"1.149911521","rc":[{"ltp":1.35,"id":18349914}]}]}
+{"op":"mcm","clk":"7782158291","pt":1540125031493,"mc":[{"id":"1.149911521","rc":[{"ltp":1.37,"id":18349914}]}]}
+{"op":"mcm","clk":"7782167837","pt":1540125080202,"mc":[{"id":"1.149911521","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7782196432","pt":1540125156907,"mc":[{"id":"1.149911521","rc":[{"ltp":1.56,"id":18349914}]}]}
+{"op":"mcm","clk":"7782232957","pt":1540125335843,"mc":[{"id":"1.149911521","rc":[{"ltp":1.76,"id":18349914},{"ltp":2.24,"id":21040336}]}]}
+{"op":"mcm","clk":"7782274011","pt":1540125521870,"mc":[{"id":"1.149911521","rc":[{"ltp":1.75,"id":18349914},{"ltp":2.34,"id":21040336}]}]}
+{"op":"mcm","clk":"7782336982","pt":1540125812248,"mc":[{"id":"1.149911521","rc":[{"ltp":2.2,"id":21040336}]}]}
+{"op":"mcm","clk":"7782364357","pt":1540125939413,"mc":[{"id":"1.149911521","rc":[{"ltp":1.88,"id":18349914}]}]}
+{"op":"mcm","clk":"7782401701","pt":1540126052395,"mc":[{"id":"1.149911521","rc":[{"ltp":2.06,"id":18349914}]}]}
+{"op":"mcm","clk":"7782428435","pt":1540126180682,"mc":[{"id":"1.149911521","rc":[{"ltp":2.08,"id":18349914}]}]}
+{"op":"mcm","clk":"7782463870","pt":1540126362056,"mc":[{"id":"1.149911521","rc":[{"ltp":1.92,"id":21040336}]}]}
+{"op":"mcm","clk":"7782482886","pt":1540126466523,"mc":[{"id":"1.149911521","rc":[{"ltp":2.22,"id":18349914},{"ltp":1.82,"id":21040336}]}]}
+{"op":"mcm","clk":"7782508676","pt":1540126600013,"mc":[{"id":"1.149911521","rc":[{"ltp":1.59,"id":21040336}]}]}
+{"op":"mcm","clk":"7782519665","pt":1540126655982,"mc":[{"id":"1.149911521","rc":[{"ltp":1.17,"id":21040336}]}]}
+{"op":"mcm","clk":"7782532042","pt":1540126719006,"mc":[{"id":"1.149911521","rc":[{"ltp":8.0,"id":18349914},{"ltp":1.1,"id":21040336}]}]}
+{"op":"mcm","clk":"7782555942","pt":1540126836703,"mc":[{"id":"1.149911521","rc":[{"ltp":1.06,"id":21040336}]}]}
+{"op":"mcm","clk":"7782570670","pt":1540126901846,"mc":[{"id":"1.149911521","rc":[{"ltp":1.03,"id":21040336}]}]}
+{"op":"mcm","clk":"7782609202","pt":1540127018080,"mc":[{"id":"1.149911521","rc":[{"ltp":1.01,"id":21040336}]}]}
+{"op":"mcm","clk":"7782621136","pt":1540127069505,"mc":[{"id":"1.149911521","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966881","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T11:23:00.000Z","suspendTime":"2018-10-21T11:23:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-21T13:04:26.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":21040336,"name":"Raja/Sancic"},{"status":"LOSER","sortPriority":2,"id":18349914,"name":"Junaid/Pel"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T11:23:00.000Z","version":2468014148,"name":"Match Odds","eventName":"Raja/Sancic v Junaid/Pel"}}]}

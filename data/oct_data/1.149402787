@@ -1,0 +1,78 @@
+{"op":"mcm","clk":"7695768633","pt":1539260415550,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T02:00:00.000Z","suspendTime":"2018-10-12T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T02:00:00.000Z","version":2449626733,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}
+{"op":"mcm","clk":"7695798463","pt":1539260776118,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T02:00:00.000Z","suspendTime":"2018-10-12T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T02:00:00.000Z","version":2449626733,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}
+{"op":"mcm","clk":"7696528169","pt":1539268760691,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T07:00:00.000Z","suspendTime":"2018-10-12T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T07:00:00.000Z","version":2449751098,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}
+{"op":"mcm","clk":"7700709617","pt":1539325582563,"mc":[{"id":"1.149402787","rc":[{"ltp":1.97,"id":13825854}]}]}
+{"op":"mcm","clk":"7700720099","pt":1539325825098,"mc":[{"id":"1.149402787","rc":[{"ltp":2.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7700724342","pt":1539325885598,"mc":[{"id":"1.149402787","rc":[{"ltp":2.0,"id":20015056}]}]}
+{"op":"mcm","clk":"7700748031","pt":1539326102101,"mc":[{"id":"1.149402787","rc":[{"ltp":1.98,"id":13825854}]}]}
+{"op":"mcm","clk":"7700763094","pt":1539326412147,"mc":[{"id":"1.149402787","rc":[{"ltp":1.97,"id":13825854}]}]}
+{"op":"mcm","clk":"7700797383","pt":1539326979174,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T06:49:00.000Z","suspendTime":"2018-10-12T06:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T06:49:00.000Z","version":2450451912,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}
+{"op":"mcm","clk":"7700816195","pt":1539327318348,"mc":[{"id":"1.149402787","rc":[{"ltp":1.96,"id":13825854},{"ltp":1.93,"id":20015056}]}]}
+{"op":"mcm","clk":"7700819583","pt":1539327370370,"mc":[{"id":"1.149402787","rc":[{"ltp":1.97,"id":20015056}]}]}
+{"op":"mcm","clk":"7700857359","pt":1539327864522,"mc":[{"id":"1.149402787","rc":[{"ltp":1.93,"id":20015056}]}]}
+{"op":"mcm","clk":"7700866237","pt":1539328045517,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T06:49:00.000Z","suspendTime":"2018-10-12T06:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T06:49:00.000Z","version":2450455787,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}
+{"op":"mcm","clk":"7700872351","pt":1539328146141,"mc":[{"id":"1.149402787","rc":[{"ltp":1.62,"id":13825854},{"ltp":2.6,"id":20015056}]}]}
+{"op":"mcm","clk":"7700877064","pt":1539328218712,"mc":[{"id":"1.149402787","rc":[{"ltp":2.48,"id":20015056}]}]}
+{"op":"mcm","clk":"7700881278","pt":1539328283269,"mc":[{"id":"1.149402787","rc":[{"ltp":1.5,"id":13825854},{"ltp":2.84,"id":20015056}]}]}
+{"op":"mcm","clk":"7700885052","pt":1539328344846,"mc":[{"id":"1.149402787","rc":[{"ltp":1.48,"id":13825854},{"ltp":3.05,"id":20015056}]}]}
+{"op":"mcm","clk":"7700888169","pt":1539328405715,"mc":[{"id":"1.149402787","rc":[{"ltp":1.49,"id":13825854},{"ltp":2.84,"id":20015056}]}]}
+{"op":"mcm","clk":"7700891365","pt":1539328465497,"mc":[{"id":"1.149402787","rc":[{"ltp":2.66,"id":20015056}]}]}
+{"op":"mcm","clk":"7700914020","pt":1539328705542,"mc":[{"id":"1.149402787","rc":[{"ltp":1.66,"id":13825854}]}]}
+{"op":"mcm","clk":"7700917095","pt":1539328764104,"mc":[{"id":"1.149402787","rc":[{"ltp":1.5,"id":13825854},{"ltp":3.0,"id":20015056}]}]}
+{"op":"mcm","clk":"7700920122","pt":1539328825297,"mc":[{"id":"1.149402787","rc":[{"ltp":1.4,"id":13825854},{"ltp":3.5,"id":20015056}]}]}
+{"op":"mcm","clk":"7700922677","pt":1539328882231,"mc":[{"id":"1.149402787","rc":[{"ltp":3.6,"id":20015056}]}]}
+{"op":"mcm","clk":"7700928803","pt":1539329005010,"mc":[{"id":"1.149402787","rc":[{"ltp":1.6,"id":13825854},{"ltp":2.66,"id":20015056}]}]}
+{"op":"mcm","clk":"7700935535","pt":1539329115424,"mc":[{"id":"1.149402787","rc":[{"ltp":1.49,"id":13825854}]}]}
+{"op":"mcm","clk":"7700942351","pt":1539329223432,"mc":[{"id":"1.149402787","rc":[{"ltp":1.54,"id":13825854},{"ltp":2.84,"id":20015056}]}]}
+{"op":"mcm","clk":"7700949809","pt":1539329351392,"mc":[{"id":"1.149402787","rc":[{"ltp":1.46,"id":13825854}]}]}
+{"op":"mcm","clk":"7700958090","pt":1539329476220,"mc":[{"id":"1.149402787","rc":[{"ltp":1.29,"id":13825854},{"ltp":4.4,"id":20015056}]}]}
+{"op":"mcm","clk":"7700971248","pt":1539329542588,"mc":[{"id":"1.149402787","rc":[{"ltp":1.28,"id":13825854}]}]}
+{"op":"mcm","clk":"7700975721","pt":1539329605669,"mc":[{"id":"1.149402787","rc":[{"ltp":1.29,"id":13825854}]}]}
+{"op":"mcm","clk":"7700979009","pt":1539329660089,"mc":[{"id":"1.149402787","rc":[{"ltp":1.38,"id":13825854}]}]}
+{"op":"mcm","clk":"7700982092","pt":1539329713977,"mc":[{"id":"1.149402787","rc":[{"ltp":1.43,"id":13825854},{"ltp":3.35,"id":20015056}]}]}
+{"op":"mcm","clk":"7700986123","pt":1539329783615,"mc":[{"id":"1.149402787","rc":[{"ltp":1.47,"id":13825854}]}]}
+{"op":"mcm","clk":"7700990535","pt":1539329845062,"mc":[{"id":"1.149402787","rc":[{"ltp":1.55,"id":13825854},{"ltp":2.84,"id":20015056}]}]}
+{"op":"mcm","clk":"7701002872","pt":1539330020676,"mc":[{"id":"1.149402787","rc":[{"ltp":1.4,"id":13825854},{"ltp":3.4,"id":20015056}]}]}
+{"op":"mcm","clk":"7701007517","pt":1539330084944,"mc":[{"id":"1.149402787","rc":[{"ltp":1.46,"id":13825854},{"ltp":3.2,"id":20015056}]}]}
+{"op":"mcm","clk":"7701011533","pt":1539330142098,"mc":[{"id":"1.149402787","rc":[{"ltp":1.62,"id":13825854}]}]}
+{"op":"mcm","clk":"7701015192","pt":1539330201541,"mc":[{"id":"1.149402787","rc":[{"ltp":1.39,"id":13825854},{"ltp":3.75,"id":20015056}]}]}
+{"op":"mcm","clk":"7701017388","pt":1539330244122,"mc":[{"id":"1.149402787","rc":[{"ltp":1.37,"id":13825854},{"ltp":3.7,"id":20015056}]}]}
+{"op":"mcm","clk":"7701036828","pt":1539330445066,"mc":[{"id":"1.149402787","rc":[{"ltp":1.45,"id":13825854},{"ltp":3.2,"id":20015056}]}]}
+{"op":"mcm","clk":"7701044141","pt":1539330564510,"mc":[{"id":"1.149402787","rc":[{"ltp":1.5,"id":13825854},{"ltp":2.94,"id":20015056}]}]}
+{"op":"mcm","clk":"7701055196","pt":1539330744420,"mc":[{"id":"1.149402787","rc":[{"ltp":1.45,"id":13825854},{"ltp":3.2,"id":20015056}]}]}
+{"op":"mcm","clk":"7701058205","pt":1539330796563,"mc":[{"id":"1.149402787","rc":[{"ltp":1.43,"id":13825854},{"ltp":3.3,"id":20015056}]}]}
+{"op":"mcm","clk":"7701062082","pt":1539330860163,"mc":[{"id":"1.149402787","rc":[{"ltp":1.54,"id":13825854},{"ltp":2.84,"id":20015056}]}]}
+{"op":"mcm","clk":"7701079490","pt":1539331102523,"mc":[{"id":"1.149402787","rc":[{"ltp":1.45,"id":13825854},{"ltp":3.25,"id":20015056}]}]}
+{"op":"mcm","clk":"7701084382","pt":1539331165669,"mc":[{"id":"1.149402787","rc":[{"ltp":1.4,"id":13825854}]}]}
+{"op":"mcm","clk":"7701088778","pt":1539331223439,"mc":[{"id":"1.149402787","rc":[{"ltp":3.5,"id":20015056}]}]}
+{"op":"mcm","clk":"7701093470","pt":1539331280990,"mc":[{"id":"1.149402787","rc":[{"ltp":3.7,"id":20015056}]}]}
+{"op":"mcm","clk":"7701107713","pt":1539331345608,"mc":[{"id":"1.149402787","rc":[{"ltp":1.51,"id":13825854},{"ltp":2.92,"id":20015056}]}]}
+{"op":"mcm","clk":"7701108762","pt":1539331360744,"mc":[{"id":"1.149402787","rc":[{"ltp":2.94,"id":20015056}]}]}
+{"op":"mcm","clk":"7701118308","pt":1539331525612,"mc":[{"id":"1.149402787","rc":[{"ltp":1.8,"id":13825854},{"ltp":2.32,"id":20015056}]}]}
+{"op":"mcm","clk":"7701121857","pt":1539331580947,"mc":[{"id":"1.149402787","rc":[{"ltp":1.86,"id":13825854},{"ltp":2.2,"id":20015056}]}]}
+{"op":"mcm","clk":"7701125847","pt":1539331642359,"mc":[{"id":"1.149402787","rc":[{"ltp":1.62,"id":13825854},{"ltp":2.62,"id":20015056}]}]}
+{"op":"mcm","clk":"7701129700","pt":1539331695042,"mc":[{"id":"1.149402787","rc":[{"ltp":1.89,"id":13825854}]}]}
+{"op":"mcm","clk":"7701133905","pt":1539331762933,"mc":[{"id":"1.149402787","rc":[{"ltp":2.32,"id":20015056}]}]}
+{"op":"mcm","clk":"7701137419","pt":1539331824722,"mc":[{"id":"1.149402787","rc":[{"ltp":2.04,"id":20015056}]}]}
+{"op":"mcm","clk":"7701140383","pt":1539331878696,"mc":[{"id":"1.149402787","rc":[{"ltp":1.6,"id":13825854},{"ltp":2.5,"id":20015056}]}]}
+{"op":"mcm","clk":"7701143916","pt":1539331942143,"mc":[{"id":"1.149402787","rc":[{"ltp":2.96,"id":20015056}]}]}
+{"op":"mcm","clk":"7701150627","pt":1539332062330,"mc":[{"id":"1.149402787","rc":[{"ltp":1.53,"id":13825854},{"ltp":2.88,"id":20015056}]}]}
+{"op":"mcm","clk":"7701154725","pt":1539332123348,"mc":[{"id":"1.149402787","rc":[{"ltp":3.25,"id":20015056}]}]}
+{"op":"mcm","clk":"7701158999","pt":1539332185205,"mc":[{"id":"1.149402787","rc":[{"ltp":1.58,"id":13825854},{"ltp":2.74,"id":20015056}]}]}
+{"op":"mcm","clk":"7701172529","pt":1539332243840,"mc":[{"id":"1.149402787","rc":[{"ltp":1.98,"id":13825854}]}]}
+{"op":"mcm","clk":"7701176759","pt":1539332305514,"mc":[{"id":"1.149402787","rc":[{"ltp":1.83,"id":13825854},{"ltp":2.2,"id":20015056}]}]}
+{"op":"mcm","clk":"7701179891","pt":1539332364473,"mc":[{"id":"1.149402787","rc":[{"ltp":1.66,"id":13825854},{"ltp":2.5,"id":20015056}]}]}
+{"op":"mcm","clk":"7701183450","pt":1539332423627,"mc":[{"id":"1.149402787","rc":[{"ltp":1.73,"id":13825854},{"ltp":2.48,"id":20015056}]}]}
+{"op":"mcm","clk":"7701186859","pt":1539332480272,"mc":[{"id":"1.149402787","rc":[{"ltp":2.22,"id":13825854},{"ltp":1.82,"id":20015056}]}]}
+{"op":"mcm","clk":"7701189753","pt":1539332537447,"mc":[{"id":"1.149402787","rc":[{"ltp":2.2,"id":13825854}]}]}
+{"op":"mcm","clk":"7701197135","pt":1539332662572,"mc":[{"id":"1.149402787","rc":[{"ltp":1.58,"id":20015056}]}]}
+{"op":"mcm","clk":"7701201181","pt":1539332723736,"mc":[{"id":"1.149402787","rc":[{"ltp":3.1,"id":13825854},{"ltp":1.46,"id":20015056}]}]}
+{"op":"mcm","clk":"7701204956","pt":1539332784505,"mc":[{"id":"1.149402787","rc":[{"ltp":3.15,"id":13825854},{"ltp":1.8,"id":20015056}]}]}
+{"op":"mcm","clk":"7701208696","pt":1539332844115,"mc":[{"id":"1.149402787","rc":[{"ltp":2.88,"id":13825854}]}]}
+{"op":"mcm","clk":"7701212754","pt":1539332905076,"mc":[{"id":"1.149402787","rc":[{"ltp":2.16,"id":13825854},{"ltp":1.85,"id":20015056}]}]}
+{"op":"mcm","clk":"7701217109","pt":1539332965349,"mc":[{"id":"1.149402787","rc":[{"ltp":1.63,"id":13825854},{"ltp":2.58,"id":20015056}]}]}
+{"op":"mcm","clk":"7701220931","pt":1539333022434,"mc":[{"id":"1.149402787","rc":[{"ltp":2.22,"id":13825854},{"ltp":1.8,"id":20015056}]}]}
+{"op":"mcm","clk":"7701225125","pt":1539333084821,"mc":[{"id":"1.149402787","rc":[{"ltp":3.55,"id":13825854},{"ltp":1.4,"id":20015056}]}]}
+{"op":"mcm","clk":"7701239005","pt":1539333144877,"mc":[{"id":"1.149402787","rc":[{"ltp":3.35,"id":13825854}]}]}
+{"op":"mcm","clk":"7701241983","pt":1539333179149,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T06:49:00.000Z","suspendTime":"2018-10-12T06:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"ACTIVE","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T06:49:00.000Z","version":2450504249,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"},"rc":[{"ltp":11.0,"id":13825854},{"ltp":1.12,"id":20015056}]}]}
+{"op":"mcm","clk":"7701249469","pt":1539333281779,"mc":[{"id":"1.149402787","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28950690","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T06:49:00.000Z","suspendTime":"2018-10-12T06:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T08:34:37.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":13825854,"name":"Kichenok/Rodionova"},{"status":"WINNER","sortPriority":2,"id":20015056,"name":"Aoyama/Marozava"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-12T06:49:00.000Z","version":2450504464,"name":"Match Odds","eventName":"Kichenok/Rodionova v Aoyama/Marozava"}}]}

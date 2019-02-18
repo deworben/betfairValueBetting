@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7763713731","pt":1540009814795,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T17:00:00.000Z","suspendTime":"2018-10-20T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"ACTIVE","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T17:00:00.000Z","version":2463066146,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"}}]}
+{"op":"mcm","clk":"7763781703","pt":1540010330826,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T17:00:00.000Z","suspendTime":"2018-10-20T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"ACTIVE","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T17:00:00.000Z","version":2463066915,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"}}]}
+{"op":"mcm","clk":"7767386750","pt":1540033443200,"mc":[{"id":"1.149891003","rc":[{"ltp":1.54,"id":8661103}]}]}
+{"op":"mcm","clk":"7767736377","pt":1540035003483,"mc":[{"id":"1.149891003","rc":[{"ltp":2.86,"id":8813392}]}]}
+{"op":"mcm","clk":"7768027447","pt":1540036264954,"mc":[{"id":"1.149891003","rc":[{"ltp":1.5,"id":8661103},{"ltp":3.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7769390289","pt":1540042031353,"mc":[{"id":"1.149891003","rc":[{"ltp":1.49,"id":8661103},{"ltp":3.05,"id":8813392}]}]}
+{"op":"mcm","clk":"7770613465","pt":1540045947930,"mc":[{"id":"1.149891003","rc":[{"ltp":3.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7772568935","pt":1540052833469,"mc":[{"id":"1.149891003","rc":[{"ltp":1.39,"id":8661103},{"ltp":3.55,"id":8813392}]}]}
+{"op":"mcm","clk":"7772577490","pt":1540052873933,"mc":[{"id":"1.149891003","rc":[{"ltp":1.38,"id":8661103},{"ltp":3.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7772592280","pt":1540052941916,"mc":[{"id":"1.149891003","rc":[{"ltp":3.05,"id":8813392}]}]}
+{"op":"mcm","clk":"7772913018","pt":1540054149976,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T16:48:00.000Z","suspendTime":"2018-10-20T16:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"ACTIVE","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T16:48:00.000Z","version":2465477073,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"}}]}
+{"op":"mcm","clk":"7773213581","pt":1540055716714,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T16:48:00.000Z","suspendTime":"2018-10-20T16:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"ACTIVE","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T16:48:00.000Z","version":2465609033,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"},"rc":[{"ltp":1.32,"id":8661103},{"ltp":4.1,"id":8813392}]}]}
+{"op":"mcm","clk":"7773225331","pt":1540055775176,"mc":[{"id":"1.149891003","rc":[{"ltp":1.3,"id":8661103},{"ltp":4.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7773262968","pt":1540055896049,"mc":[{"id":"1.149891003","rc":[{"ltp":1.41,"id":8661103},{"ltp":3.4,"id":8813392}]}]}
+{"op":"mcm","clk":"7773273458","pt":1540055956400,"mc":[{"id":"1.149891003","rc":[{"ltp":1.4,"id":8661103}]}]}
+{"op":"mcm","clk":"7773291286","pt":1540056058925,"mc":[{"id":"1.149891003","rc":[{"ltp":4.1,"id":8813392}]}]}
+{"op":"mcm","clk":"7773361596","pt":1540056435399,"mc":[{"id":"1.149891003","rc":[{"ltp":1.13,"id":8661103},{"ltp":8.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7773454774","pt":1540056857254,"mc":[{"id":"1.149891003","rc":[{"ltp":1.14,"id":8661103}]}]}
+{"op":"mcm","clk":"7773477627","pt":1540056975642,"mc":[{"id":"1.149891003","rc":[{"ltp":1.09,"id":8661103}]}]}
+{"op":"mcm","clk":"7773555375","pt":1540057368069,"mc":[{"id":"1.149891003","rc":[{"ltp":1.31,"id":8661103},{"ltp":4.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7773618616","pt":1540057633008,"mc":[{"id":"1.149891003","rc":[{"ltp":1.41,"id":8661103},{"ltp":3.45,"id":8813392}]}]}
+{"op":"mcm","clk":"7773628657","pt":1540057689495,"mc":[{"id":"1.149891003","rc":[{"ltp":1.44,"id":8661103},{"ltp":3.25,"id":8813392}]}]}
+{"op":"mcm","clk":"7773640599","pt":1540057757691,"mc":[{"id":"1.149891003","rc":[{"ltp":1.33,"id":8661103}]}]}
+{"op":"mcm","clk":"7773659090","pt":1540057876631,"mc":[{"id":"1.149891003","rc":[{"ltp":1.29,"id":8661103},{"ltp":4.7,"id":8813392}]}]}
+{"op":"mcm","clk":"7773676052","pt":1540057986538,"mc":[{"id":"1.149891003","rc":[{"ltp":1.62,"id":8661103},{"ltp":2.62,"id":8813392}]}]}
+{"op":"mcm","clk":"7773687276","pt":1540058057378,"mc":[{"id":"1.149891003","rc":[{"ltp":1.41,"id":8661103},{"ltp":3.45,"id":8813392}]}]}
+{"op":"mcm","clk":"7773693991","pt":1540058100732,"mc":[{"id":"1.149891003","rc":[{"ltp":1.45,"id":8661103},{"ltp":3.25,"id":8813392}]}]}
+{"op":"mcm","clk":"7773705881","pt":1540058176623,"mc":[{"id":"1.149891003","rc":[{"ltp":1.31,"id":8661103},{"ltp":4.3,"id":8813392}]}]}
+{"op":"mcm","clk":"7773711925","pt":1540058217506,"mc":[{"id":"1.149891003","rc":[{"ltp":1.3,"id":8661103},{"ltp":4.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7773732835","pt":1540058337553,"mc":[{"id":"1.149891003","rc":[{"ltp":1.27,"id":8661103},{"ltp":4.7,"id":8813392}]}]}
+{"op":"mcm","clk":"7773758119","pt":1540058475314,"mc":[{"id":"1.149891003","rc":[{"ltp":1.33,"id":8661103}]}]}
+{"op":"mcm","clk":"7773794872","pt":1540058596833,"mc":[{"id":"1.149891003","rc":[{"ltp":1.4,"id":8661103},{"ltp":3.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7773806195","pt":1540058655182,"mc":[{"id":"1.149891003","rc":[{"ltp":1.62,"id":8661103},{"ltp":2.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7773817624","pt":1540058717600,"mc":[{"id":"1.149891003","rc":[{"ltp":1.67,"id":8661103},{"ltp":2.48,"id":8813392}]}]}
+{"op":"mcm","clk":"7773829316","pt":1540058777754,"mc":[{"id":"1.149891003","rc":[{"ltp":1.86,"id":8661103},{"ltp":2.16,"id":8813392}]}]}
+{"op":"mcm","clk":"7773840417","pt":1540058835735,"mc":[{"id":"1.149891003","rc":[{"ltp":1.71,"id":8661103},{"ltp":2.42,"id":8813392}]}]}
+{"op":"mcm","clk":"7773852063","pt":1540058896789,"mc":[{"id":"1.149891003","rc":[{"ltp":1.8,"id":8661103},{"ltp":2.28,"id":8813392}]}]}
+{"op":"mcm","clk":"7773872505","pt":1540059012307,"mc":[{"id":"1.149891003","rc":[{"ltp":1.58,"id":8661103}]}]}
+{"op":"mcm","clk":"7773884212","pt":1540059076841,"mc":[{"id":"1.149891003","rc":[{"ltp":1.21,"id":8661103}]}]}
+{"op":"mcm","clk":"7773892606","pt":1540059122712,"mc":[{"id":"1.149891003","rc":[{"ltp":1.1,"id":8661103}]}]}
+{"op":"mcm","clk":"7773904703","pt":1540059187393,"mc":[{"id":"1.149891003","rc":[{"ltp":1.13,"id":8661103}]}]}
+{"op":"mcm","clk":"7773917202","pt":1540059253941,"mc":[{"id":"1.149891003","rc":[{"ltp":8.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7773929027","pt":1540059316109,"mc":[{"id":"1.149891003","rc":[{"ltp":1.16,"id":8661103},{"ltp":7.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7773938181","pt":1540059362429,"mc":[{"id":"1.149891003","rc":[{"ltp":1.17,"id":8661103},{"ltp":6.8,"id":8813392}]}]}
+{"op":"mcm","clk":"7773966936","pt":1540059437552,"mc":[{"id":"1.149891003","rc":[{"ltp":1.19,"id":8661103},{"ltp":6.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7773978101","pt":1540059497770,"mc":[{"id":"1.149891003","rc":[{"ltp":6.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7773987421","pt":1540059552725,"mc":[{"id":"1.149891003","rc":[{"ltp":1.26,"id":8661103},{"ltp":4.8,"id":8813392}]}]}
+{"op":"mcm","clk":"7773997342","pt":1540059616048,"mc":[{"id":"1.149891003","rc":[{"ltp":1.19,"id":8661103},{"ltp":6.2,"id":8813392}]}]}
+{"op":"mcm","clk":"7774005995","pt":1540059672710,"mc":[{"id":"1.149891003","rc":[{"ltp":1.3,"id":8661103},{"ltp":4.4,"id":8813392}]}]}
+{"op":"mcm","clk":"7774016372","pt":1540059737706,"mc":[{"id":"1.149891003","rc":[{"ltp":1.33,"id":8661103},{"ltp":4.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7774025599","pt":1540059797256,"mc":[{"id":"1.149891003","rc":[{"ltp":4.5,"id":8813392}]}]}
+{"op":"mcm","clk":"7774035116","pt":1540059856388,"mc":[{"id":"1.149891003","rc":[{"ltp":1.3,"id":8661103},{"ltp":4.3,"id":8813392}]}]}
+{"op":"mcm","clk":"7774043556","pt":1540059917511,"mc":[{"id":"1.149891003","rc":[{"ltp":1.22,"id":8661103},{"ltp":5.5,"id":8813392}]}]}
+{"op":"mcm","clk":"7774061822","pt":1540060037498,"mc":[{"id":"1.149891003","rc":[{"ltp":1.17,"id":8661103},{"ltp":6.8,"id":8813392}]}]}
+{"op":"mcm","clk":"7774070505","pt":1540060094277,"mc":[{"id":"1.149891003","rc":[{"ltp":1.14,"id":8661103},{"ltp":7.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7774080681","pt":1540060157687,"mc":[{"id":"1.149891003","rc":[{"ltp":1.15,"id":8661103}]}]}
+{"op":"mcm","clk":"7774090307","pt":1540060215765,"mc":[{"id":"1.149891003","rc":[{"ltp":1.2,"id":8661103},{"ltp":6.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7774098893","pt":1540060265648,"mc":[{"id":"1.149891003","rc":[{"ltp":1.21,"id":8661103},{"ltp":5.7,"id":8813392}]}]}
+{"op":"mcm","clk":"7774126036","pt":1540060334841,"mc":[{"id":"1.149891003","rc":[{"ltp":1.17,"id":8661103},{"ltp":6.8,"id":8813392}]}]}
+{"op":"mcm","clk":"7774172617","pt":1540060575349,"mc":[{"id":"1.149891003","rc":[{"ltp":1.15,"id":8661103},{"ltp":7.6,"id":8813392}]}]}
+{"op":"mcm","clk":"7774183834","pt":1540060636454,"mc":[{"id":"1.149891003","rc":[{"ltp":1.08,"id":8661103},{"ltp":13.5,"id":8813392}]}]}
+{"op":"mcm","clk":"7774204241","pt":1540060749451,"mc":[{"id":"1.149891003","rc":[{"ltp":1.07,"id":8661103},{"ltp":15.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7774215982","pt":1540060816174,"mc":[{"id":"1.149891003","rc":[{"ltp":1.05,"id":8661103}]}]}
+{"op":"mcm","clk":"7774226792","pt":1540060875984,"mc":[{"id":"1.149891003","rc":[{"ltp":1.02,"id":8661103},{"ltp":55.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7774258394","pt":1540061057630,"mc":[{"id":"1.149891003","rc":[{"ltp":1.01,"id":8661103},{"ltp":100.0,"id":8813392}]}]}
+{"op":"mcm","clk":"7774266478","pt":1540061101272,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T16:48:00.000Z","suspendTime":"2018-10-20T16:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"ACTIVE","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T16:48:00.000Z","version":2465979604,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"}}]}
+{"op":"mcm","clk":"7774273898","pt":1540061137377,"mc":[{"id":"1.149891003","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965978","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T16:48:00.000Z","suspendTime":"2018-10-20T16:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T18:45:34.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8813392,"name":"Bar Tzuf Botzer"},{"status":"WINNER","sortPriority":2,"id":8661103,"name":"Tom Fawcett"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T16:48:00.000Z","version":2465982451,"name":"Match Odds","eventName":"Ba Botzer v T Fawcett"}}]}

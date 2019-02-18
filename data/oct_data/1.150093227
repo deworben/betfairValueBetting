@@ -1,0 +1,72 @@
+{"op":"mcm","clk":"7731439051","pt":1540348190963,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T23:00:00.000Z","suspendTime":"2018-10-24T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T23:00:00.000Z","version":2472722600,"name":"Match Odds","eventName":"E Gomez v Delbonis"}}]}
+{"op":"mcm","clk":"7731465250","pt":1540348691119,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T23:00:00.000Z","suspendTime":"2018-10-24T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T23:00:00.000Z","version":2472722600,"name":"Match Odds","eventName":"E Gomez v Delbonis"}}]}
+{"op":"mcm","clk":"7732576909","pt":1540368828508,"mc":[{"id":"1.150093227","rc":[{"ltp":1.13,"id":6181532}]}]}
+{"op":"mcm","clk":"7732591300","pt":1540369065691,"mc":[{"id":"1.150093227","rc":[{"ltp":1.12,"id":6181532}]}]}
+{"op":"mcm","clk":"7734074569","pt":1540385838874,"mc":[{"id":"1.150093227","rc":[{"ltp":1.09,"id":6181532}]}]}
+{"op":"mcm","clk":"7734154453","pt":1540386646814,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532}]}]}
+{"op":"mcm","clk":"7736223394","pt":1540404591255,"mc":[{"id":"1.150093227","rc":[{"ltp":14.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7736224209","pt":1540404601107,"mc":[{"id":"1.150093227","rc":[{"ltp":13.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7736231899","pt":1540404681325,"mc":[{"id":"1.150093227","rc":[{"ltp":10.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737338221","pt":1540414686859,"mc":[{"id":"1.150093227","rc":[{"ltp":1.09,"id":6181532}]}]}
+{"op":"mcm","clk":"7737344551","pt":1540414834362,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532}]}]}
+{"op":"mcm","clk":"7737347939","pt":1540414903406,"mc":[{"id":"1.150093227","rc":[{"ltp":14.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737356990","pt":1540415074178,"mc":[{"id":"1.150093227","rc":[{"ltp":1.07,"id":6181532}]}]}
+{"op":"mcm","clk":"7737360811","pt":1540415148460,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532}]}]}
+{"op":"mcm","clk":"7737520179","pt":1540417669061,"mc":[{"id":"1.150093227","rc":[{"ltp":1.06,"id":6181532},{"ltp":18.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737571469","pt":1540418631508,"mc":[{"id":"1.150093227","rc":[{"ltp":16.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737574446","pt":1540418681389,"mc":[{"id":"1.150093227","rc":[{"ltp":1.07,"id":6181532},{"ltp":14.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737594375","pt":1540418867196,"mc":[{"id":"1.150093227","rc":[{"ltp":1.06,"id":6181532}]}]}
+{"op":"mcm","clk":"7737603304","pt":1540419089047,"mc":[{"id":"1.150093227","rc":[{"ltp":1.07,"id":6181532}]}]}
+{"op":"mcm","clk":"7737605967","pt":1540419153307,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532}]}]}
+{"op":"mcm","clk":"7737613681","pt":1540419341963,"mc":[{"id":"1.150093227","rc":[{"ltp":14.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737615919","pt":1540419394063,"mc":[{"id":"1.150093227","rc":[{"ltp":1.09,"id":6181532},{"ltp":13.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737618315","pt":1540419454358,"mc":[{"id":"1.150093227","rc":[{"ltp":1.07,"id":6181532},{"ltp":14.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737620665","pt":1540419529371,"mc":[{"id":"1.150093227","rc":[{"ltp":14.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737651901","pt":1540420128964,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532},{"ltp":13.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737708509","pt":1540421355778,"mc":[{"id":"1.150093227","rc":[{"ltp":12.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737726250","pt":1540421630750,"mc":[{"id":"1.150093227","rc":[{"ltp":1.1,"id":6181532},{"ltp":11.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737728948","pt":1540421735022,"mc":[{"id":"1.150093227","rc":[{"ltp":1.09,"id":6181532},{"ltp":12.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737734183","pt":1540421929159,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T22:55:00.000Z","suspendTime":"2018-10-24T22:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T23:00:00.000Z","version":2474440097,"name":"Match Odds","eventName":"E Gomez v Delbonis"},"rc":[{"ltp":1.1,"id":6181532},{"ltp":11.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737735766","pt":1540421989041,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T22:55:00.000Z","suspendTime":"2018-10-24T22:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T22:55:00.000Z","version":2474440097,"name":"Match Odds","eventName":"E Gomez v Delbonis"}}]}
+{"op":"mcm","clk":"7737744534","pt":1540422253685,"mc":[{"id":"1.150093227","rc":[{"ltp":13.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737766893","pt":1540422591543,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532},{"ltp":10.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737768694","pt":1540422646025,"mc":[{"id":"1.150093227","rc":[{"ltp":1.1,"id":6181532},{"ltp":9.8,"id":4994250}]}]}
+{"op":"mcm","clk":"7737773290","pt":1540422767828,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T22:55:00.000Z","suspendTime":"2018-10-24T22:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T22:55:00.000Z","version":2474452501,"name":"Match Odds","eventName":"E Gomez v Delbonis"},"rc":[{"ltp":1.11,"id":6181532}]}]}
+{"op":"mcm","clk":"7737775681","pt":1540422828177,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532},{"ltp":13.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737778262","pt":1540422888882,"mc":[{"id":"1.150093227","rc":[{"ltp":1.07,"id":6181532}]}]}
+{"op":"mcm","clk":"7737780621","pt":1540422950005,"mc":[{"id":"1.150093227","rc":[{"ltp":1.06,"id":6181532}]}]}
+{"op":"mcm","clk":"7737783324","pt":1540423011406,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532},{"ltp":17.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737785392","pt":1540423070480,"mc":[{"id":"1.150093227","rc":[{"ltp":26.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737792826","pt":1540423310800,"mc":[{"id":"1.150093227","rc":[{"ltp":1.05,"id":6181532}]}]}
+{"op":"mcm","clk":"7737805406","pt":1540423365840,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532}]}]}
+{"op":"mcm","clk":"7737807635","pt":1540423431407,"mc":[{"id":"1.150093227","rc":[{"ltp":1.08,"id":6181532},{"ltp":13.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737811131","pt":1540423551121,"mc":[{"id":"1.150093227","rc":[{"ltp":1.06,"id":6181532}]}]}
+{"op":"mcm","clk":"7737812461","pt":1540423611016,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532},{"ltp":17.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737814220","pt":1540423669503,"mc":[{"id":"1.150093227","rc":[{"ltp":21.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737815844","pt":1540423731207,"mc":[{"id":"1.150093227","rc":[{"ltp":1.05,"id":6181532}]}]}
+{"op":"mcm","clk":"7737817583","pt":1540423791097,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532}]}]}
+{"op":"mcm","clk":"7737821481","pt":1540423902315,"mc":[{"id":"1.150093227","rc":[{"ltp":1.03,"id":6181532},{"ltp":26.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737824116","pt":1540423971075,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532}]}]}
+{"op":"mcm","clk":"7737826997","pt":1540424029379,"mc":[{"id":"1.150093227","rc":[{"ltp":1.03,"id":6181532}]}]}
+{"op":"mcm","clk":"7737829148","pt":1540424090587,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532}]}]}
+{"op":"mcm","clk":"7737831230","pt":1540424148948,"mc":[{"id":"1.150093227","rc":[{"ltp":21.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737833200","pt":1540424209946,"mc":[{"id":"1.150093227","rc":[{"ltp":1.05,"id":6181532},{"ltp":26.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737846321","pt":1540424271443,"mc":[{"id":"1.150093227","rc":[{"ltp":20.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737848240","pt":1540424327591,"mc":[{"id":"1.150093227","rc":[{"ltp":1.06,"id":6181532},{"ltp":19.5,"id":4994250}]}]}
+{"op":"mcm","clk":"7737850515","pt":1540424391405,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532},{"ltp":25.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737853395","pt":1540424451090,"mc":[{"id":"1.150093227","rc":[{"ltp":26.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737855713","pt":1540424508399,"mc":[{"id":"1.150093227","rc":[{"ltp":1.05,"id":6181532},{"ltp":21.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737858395","pt":1540424570367,"mc":[{"id":"1.150093227","rc":[{"ltp":1.04,"id":6181532}]}]}
+{"op":"mcm","clk":"7737860820","pt":1540424623581,"mc":[{"id":"1.150093227","rc":[{"ltp":1.03,"id":6181532},{"ltp":34.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737863895","pt":1540424687903,"mc":[{"id":"1.150093227","rc":[{"ltp":26.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737880225","pt":1540425050048,"mc":[{"id":"1.150093227","rc":[{"ltp":50.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737882225","pt":1540425108357,"mc":[{"id":"1.150093227","rc":[{"ltp":36.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737895333","pt":1540425168957,"mc":[{"id":"1.150093227","rc":[{"ltp":1.02,"id":6181532},{"ltp":34.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737897655","pt":1540425230317,"mc":[{"id":"1.150093227","rc":[{"ltp":1.03,"id":6181532}]}]}
+{"op":"mcm","clk":"7737899687","pt":1540425290514,"mc":[{"id":"1.150093227","rc":[{"ltp":36.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737901715","pt":1540425350582,"mc":[{"id":"1.150093227","rc":[{"ltp":34.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737905428","pt":1540425459629,"mc":[{"id":"1.150093227","rc":[{"ltp":1.01,"id":6181532},{"ltp":100.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737911157","pt":1540425627330,"mc":[{"id":"1.150093227","rc":[{"ltp":140.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737926915","pt":1540425950486,"mc":[{"id":"1.150093227","rc":[{"ltp":110.0,"id":4994250}]}]}
+{"op":"mcm","clk":"7737978095","pt":1540426849034,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T22:55:00.000Z","suspendTime":"2018-10-24T22:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"ACTIVE","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T22:55:00.000Z","version":2474511427,"name":"Match Odds","eventName":"E Gomez v Delbonis"}}]}
+{"op":"mcm","clk":"7737978346","pt":1540426855237,"mc":[{"id":"1.150093227","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972612","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T22:55:00.000Z","suspendTime":"2018-10-24T22:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T00:20:48.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4994250,"name":"Emilio Gomez"},{"status":"WINNER","sortPriority":2,"id":6181532,"name":"Federico Delbonis"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T22:55:00.000Z","version":2474511449,"name":"Match Odds","eventName":"E Gomez v Delbonis"}}]}

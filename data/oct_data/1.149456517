@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7629436149","pt":1539312035222,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T01:00:00.000Z","suspendTime":"2018-10-13T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T01:00:00.000Z","version":2450364172,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"}}]}
+{"op":"mcm","clk":"7629450099","pt":1539312429439,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T01:00:00.000Z","suspendTime":"2018-10-13T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T01:00:00.000Z","version":2450364172,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"}}]}
+{"op":"mcm","clk":"7635980613","pt":1539376255237,"mc":[{"id":"1.149456517","rc":[{"ltp":1.8,"id":13519119}]}]}
+{"op":"mcm","clk":"7636325635","pt":1539381394289,"mc":[{"id":"1.149456517","rc":[{"ltp":2.22,"id":13466537}]}]}
+{"op":"mcm","clk":"7636327320","pt":1539381452444,"mc":[{"id":"1.149456517","rc":[{"ltp":1.83,"id":13519119},{"ltp":2.04,"id":13466537}]}]}
+{"op":"mcm","clk":"7636329039","pt":1539381504278,"mc":[{"id":"1.149456517","rc":[{"ltp":1.88,"id":13519119},{"ltp":2.14,"id":13466537}]}]}
+{"op":"mcm","clk":"7636335843","pt":1539381714304,"mc":[{"id":"1.149456517","rc":[{"ltp":1.86,"id":13519119}]}]}
+{"op":"mcm","clk":"7636539178","pt":1539385950256,"mc":[{"id":"1.149456517","rc":[{"ltp":1.91,"id":13466537}]}]}
+{"op":"mcm","clk":"7636805126","pt":1539390691177,"mc":[{"id":"1.149456517","rc":[{"ltp":1.91,"id":13519119},{"ltp":2.12,"id":13466537}]}]}
+{"op":"mcm","clk":"7636807643","pt":1539390754362,"mc":[{"id":"1.149456517","rc":[{"ltp":1.96,"id":13466537}]}]}
+{"op":"mcm","clk":"7636854027","pt":1539391531050,"mc":[{"id":"1.149456517","rc":[{"ltp":2.12,"id":13466537}]}]}
+{"op":"mcm","clk":"7636868352","pt":1539391830510,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T00:48:00.000Z","suspendTime":"2018-10-13T00:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T00:48:00.000Z","version":2451926064,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"}}]}
+{"op":"mcm","clk":"7636894962","pt":1539392120300,"mc":[{"id":"1.149456517","rc":[{"ltp":1.98,"id":13466537}]}]}
+{"op":"mcm","clk":"7636918113","pt":1539392497869,"mc":[{"id":"1.149456517","rc":[{"ltp":1.99,"id":13466537}]}]}
+{"op":"mcm","clk":"7636929975","pt":1539392663764,"mc":[{"id":"1.149456517","rc":[{"ltp":1.96,"id":13466537}]}]}
+{"op":"mcm","clk":"7636933171","pt":1539392713712,"mc":[{"id":"1.149456517","rc":[{"ltp":1.95,"id":13466537}]}]}
+{"op":"mcm","clk":"7636967045","pt":1539393088512,"mc":[{"id":"1.149456517","rc":[{"ltp":1.93,"id":13466537}]}]}
+{"op":"mcm","clk":"7636970293","pt":1539393138003,"mc":[{"id":"1.149456517","rc":[{"ltp":1.9,"id":13466537}]}]}
+{"op":"mcm","clk":"7636974587","pt":1539393214200,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T00:48:00.000Z","suspendTime":"2018-10-13T00:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T00:48:00.000Z","version":2451933169,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"},"rc":[{"ltp":1.98,"id":13519119},{"ltp":2.0,"id":13466537}]}]}
+{"op":"mcm","clk":"7636978258","pt":1539393274846,"mc":[{"id":"1.149456517","rc":[{"ltp":1.89,"id":13519119},{"ltp":2.02,"id":13466537}]}]}
+{"op":"mcm","clk":"7636981729","pt":1539393331766,"mc":[{"id":"1.149456517","rc":[{"ltp":1.86,"id":13519119},{"ltp":2.12,"id":13466537}]}]}
+{"op":"mcm","clk":"7636985632","pt":1539393394449,"mc":[{"id":"1.149456517","rc":[{"ltp":1.98,"id":13519119}]}]}
+{"op":"mcm","clk":"7636988954","pt":1539393450014,"mc":[{"id":"1.149456517","rc":[{"ltp":1.89,"id":13466537}]}]}
+{"op":"mcm","clk":"7636993351","pt":1539393512974,"mc":[{"id":"1.149456517","rc":[{"ltp":2.56,"id":13519119},{"ltp":1.72,"id":13466537}]}]}
+{"op":"mcm","clk":"7636996905","pt":1539393575978,"mc":[{"id":"1.149456517","rc":[{"ltp":2.68,"id":13519119},{"ltp":1.49,"id":13466537}]}]}
+{"op":"mcm","clk":"7637003617","pt":1539393695545,"mc":[{"id":"1.149456517","rc":[{"ltp":2.6,"id":13519119},{"ltp":1.62,"id":13466537}]}]}
+{"op":"mcm","clk":"7637018970","pt":1539393754636,"mc":[{"id":"1.149456517","rc":[{"ltp":3.1,"id":13519119},{"ltp":1.41,"id":13466537}]}]}
+{"op":"mcm","clk":"7637021969","pt":1539393815619,"mc":[{"id":"1.149456517","rc":[{"ltp":1.39,"id":13466537}]}]}
+{"op":"mcm","clk":"7637025680","pt":1539393875237,"mc":[{"id":"1.149456517","rc":[{"ltp":3.25,"id":13519119},{"ltp":1.41,"id":13466537}]}]}
+{"op":"mcm","clk":"7637029011","pt":1539393935090,"mc":[{"id":"1.149456517","rc":[{"ltp":3.75,"id":13519119},{"ltp":1.38,"id":13466537}]}]}
+{"op":"mcm","clk":"7637032052","pt":1539393985825,"mc":[{"id":"1.149456517","rc":[{"ltp":3.25,"id":13519119},{"ltp":1.43,"id":13466537}]}]}
+{"op":"mcm","clk":"7637035568","pt":1539394053461,"mc":[{"id":"1.149456517","rc":[{"ltp":3.55,"id":13519119},{"ltp":1.39,"id":13466537}]}]}
+{"op":"mcm","clk":"7637038721","pt":1539394115607,"mc":[{"id":"1.149456517","rc":[{"ltp":1.4,"id":13466537}]}]}
+{"op":"mcm","clk":"7637041607","pt":1539394173134,"mc":[{"id":"1.149456517","rc":[{"ltp":3.0,"id":13519119},{"ltp":1.47,"id":13466537}]}]}
+{"op":"mcm","clk":"7637045487","pt":1539394235562,"mc":[{"id":"1.149456517","rc":[{"ltp":3.9,"id":13519119},{"ltp":1.34,"id":13466537}]}]}
+{"op":"mcm","clk":"7637048626","pt":1539394296133,"mc":[{"id":"1.149456517","rc":[{"ltp":1.33,"id":13466537}]}]}
+{"op":"mcm","clk":"7637051672","pt":1539394354601,"mc":[{"id":"1.149456517","rc":[{"ltp":1.38,"id":13466537}]}]}
+{"op":"mcm","clk":"7637054434","pt":1539394407892,"mc":[{"id":"1.149456517","rc":[{"ltp":3.5,"id":13519119},{"ltp":1.41,"id":13466537}]}]}
+{"op":"mcm","clk":"7637060738","pt":1539394529994,"mc":[{"id":"1.149456517","rc":[{"ltp":3.3,"id":13519119},{"ltp":1.43,"id":13466537}]}]}
+{"op":"mcm","clk":"7637063698","pt":1539394595104,"mc":[{"id":"1.149456517","rc":[{"ltp":4.1,"id":13519119},{"ltp":1.32,"id":13466537}]}]}
+{"op":"mcm","clk":"7637080798","pt":1539394709831,"mc":[{"id":"1.149456517","rc":[{"ltp":1.36,"id":13466537}]}]}
+{"op":"mcm","clk":"7637084222","pt":1539394775612,"mc":[{"id":"1.149456517","rc":[{"ltp":3.75,"id":13519119}]}]}
+{"op":"mcm","clk":"7637087285","pt":1539394834259,"mc":[{"id":"1.149456517","rc":[{"ltp":3.85,"id":13519119},{"ltp":1.35,"id":13466537}]}]}
+{"op":"mcm","clk":"7637090384","pt":1539394894692,"mc":[{"id":"1.149456517","rc":[{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7637093537","pt":1539394955701,"mc":[{"id":"1.149456517","rc":[{"ltp":4.0,"id":13519119},{"ltp":1.34,"id":13466537}]}]}
+{"op":"mcm","clk":"7637096573","pt":1539395015179,"mc":[{"id":"1.149456517","rc":[{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7637099268","pt":1539395072351,"mc":[{"id":"1.149456517","rc":[{"ltp":4.7,"id":13519119},{"ltp":1.27,"id":13466537}]}]}
+{"op":"mcm","clk":"7637101817","pt":1539395127783,"mc":[{"id":"1.149456517","rc":[{"ltp":5.0,"id":13519119},{"ltp":1.25,"id":13466537}]}]}
+{"op":"mcm","clk":"7637104411","pt":1539395186803,"mc":[{"id":"1.149456517","rc":[{"ltp":5.1,"id":13519119}]}]}
+{"op":"mcm","clk":"7637107537","pt":1539395255601,"mc":[{"id":"1.149456517","rc":[{"ltp":5.2,"id":13519119},{"ltp":1.24,"id":13466537}]}]}
+{"op":"mcm","clk":"7637110072","pt":1539395316031,"mc":[{"id":"1.149456517","rc":[{"ltp":5.1,"id":13519119},{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7637112722","pt":1539395374701,"mc":[{"id":"1.149456517","rc":[{"ltp":4.4,"id":13519119},{"ltp":1.3,"id":13466537}]}]}
+{"op":"mcm","clk":"7637115354","pt":1539395433324,"mc":[{"id":"1.149456517","rc":[{"ltp":1.28,"id":13466537}]}]}
+{"op":"mcm","clk":"7637117970","pt":1539395495414,"mc":[{"id":"1.149456517","rc":[{"ltp":5.1,"id":13519119},{"ltp":1.24,"id":13466537}]}]}
+{"op":"mcm","clk":"7637132193","pt":1539395555915,"mc":[{"id":"1.149456517","rc":[{"ltp":5.7,"id":13519119},{"ltp":1.21,"id":13466537}]}]}
+{"op":"mcm","clk":"7637134559","pt":1539395613200,"mc":[{"id":"1.149456517","rc":[{"ltp":4.7,"id":13519119},{"ltp":1.27,"id":13466537}]}]}
+{"op":"mcm","clk":"7637137823","pt":1539395675843,"mc":[{"id":"1.149456517","rc":[{"ltp":6.4,"id":13519119},{"ltp":1.18,"id":13466537}]}]}
+{"op":"mcm","clk":"7637140583","pt":1539395735735,"mc":[{"id":"1.149456517","rc":[{"ltp":13.5,"id":13519119},{"ltp":1.08,"id":13466537}]}]}
+{"op":"mcm","clk":"7637143202","pt":1539395792612,"mc":[{"id":"1.149456517","rc":[{"ltp":1.1,"id":13466537}]}]}
+{"op":"mcm","clk":"7637146102","pt":1539395851652,"mc":[{"id":"1.149456517","rc":[{"ltp":21.0,"id":13519119},{"ltp":1.05,"id":13466537}]}]}
+{"op":"mcm","clk":"7637152183","pt":1539395975171,"mc":[{"id":"1.149456517","rc":[{"ltp":13.5,"id":13519119},{"ltp":1.07,"id":13466537}]}]}
+{"op":"mcm","clk":"7637153455","pt":1539395999440,"mc":[{"id":"1.149456517","rc":[{"ltp":12.0,"id":13519119},{"ltp":1.09,"id":13466537}]}]}
+{"op":"mcm","clk":"7637160701","pt":1539396154041,"mc":[{"id":"1.149456517","rc":[{"ltp":10.5,"id":13519119},{"ltp":1.11,"id":13466537}]}]}
+{"op":"mcm","clk":"7637163678","pt":1539396214179,"mc":[{"id":"1.149456517","rc":[{"ltp":5.9,"id":13519119},{"ltp":1.21,"id":13466537}]}]}
+{"op":"mcm","clk":"7637166922","pt":1539396275624,"mc":[{"id":"1.149456517","rc":[{"ltp":17.5,"id":13519119},{"ltp":1.06,"id":13466537}]}]}
+{"op":"mcm","clk":"7637169696","pt":1539396333266,"mc":[{"id":"1.149456517","rc":[{"ltp":1.07,"id":13466537}]}]}
+{"op":"mcm","clk":"7637172204","pt":1539396387948,"mc":[{"id":"1.149456517","rc":[{"ltp":12.0,"id":13519119},{"ltp":1.08,"id":13466537}]}]}
+{"op":"mcm","clk":"7637192298","pt":1539396567197,"mc":[{"id":"1.149456517","rc":[{"ltp":1.03,"id":13466537}]}]}
+{"op":"mcm","clk":"7637198226","pt":1539396691409,"mc":[{"id":"1.149456517","rc":[{"ltp":1.04,"id":13466537}]}]}
+{"op":"mcm","clk":"7637201165","pt":1539396755498,"mc":[{"id":"1.149456517","rc":[{"ltp":23.0,"id":13519119},{"ltp":1.05,"id":13466537}]}]}
+{"op":"mcm","clk":"7637206780","pt":1539396875946,"mc":[{"id":"1.149456517","rc":[{"ltp":6.0,"id":13519119},{"ltp":1.2,"id":13466537}]}]}
+{"op":"mcm","clk":"7637209591","pt":1539396931738,"mc":[{"id":"1.149456517","rc":[{"ltp":8.8,"id":13519119},{"ltp":1.08,"id":13466537}]}]}
+{"op":"mcm","clk":"7637211976","pt":1539396977398,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T00:48:00.000Z","suspendTime":"2018-10-13T00:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"ACTIVE","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T00:48:00.000Z","version":2451974762,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"}}]}
+{"op":"mcm","clk":"7637213234","pt":1539397005485,"mc":[{"id":"1.149456517","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28951972","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T00:48:00.000Z","suspendTime":"2018-10-13T00:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-13T02:16:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":13466537,"name":"Ratiwatana/Rungkat"},{"status":"LOSER","sortPriority":2,"id":13519119,"name":"Huesler/Verbeek"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T00:48:00.000Z","version":2451976048,"name":"Match Odds","eventName":"Ratiwatana/Rungkat v Huesler/Verbeek"}}]}

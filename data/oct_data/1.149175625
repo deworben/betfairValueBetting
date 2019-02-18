@@ -1,0 +1,64 @@
+{"op":"mcm","clk":"7578540475","pt":1538814025878,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T05:00:00.000Z","suspendTime":"2018-10-07T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"ACTIVE","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T05:00:00.000Z","version":2439575203,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}
+{"op":"mcm","clk":"7578955420","pt":1538817113966,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T05:00:00.000Z","suspendTime":"2018-10-07T05:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"ACTIVE","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T05:00:00.000Z","version":2439575203,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}
+{"op":"mcm","clk":"7587388137","pt":1538857081941,"mc":[{"id":"1.149175625","rc":[{"ltp":1.25,"id":12210252}]}]}
+{"op":"mcm","clk":"7590065126","pt":1538882566650,"mc":[{"id":"1.149175625","rc":[{"ltp":1.28,"id":12210252}]}]}
+{"op":"mcm","clk":"7590551209","pt":1538887758263,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:48:00.000Z","suspendTime":"2018-10-07T04:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"ACTIVE","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:48:00.000Z","version":2442990090,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}
+{"op":"mcm","clk":"7590592422","pt":1538888120717,"mc":[{"id":"1.149175625","rc":[{"ltp":1.29,"id":12210252}]}]}
+{"op":"mcm","clk":"7590629535","pt":1538888595829,"mc":[{"id":"1.149175625","rc":[{"ltp":1.27,"id":12210252}]}]}
+{"op":"mcm","clk":"7590634388","pt":1538888660092,"mc":[{"id":"1.149175625","rc":[{"ltp":1.26,"id":12210252}]}]}
+{"op":"mcm","clk":"7590635639","pt":1538888676600,"mc":[{"id":"1.149175625","rc":[{"ltp":1.25,"id":12210252}]}]}
+{"op":"mcm","clk":"7590708390","pt":1538889266011,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:48:00.000Z","suspendTime":"2018-10-07T04:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"ACTIVE","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:48:00.000Z","version":2443018828,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}
+{"op":"mcm","clk":"7590715732","pt":1538889329706,"mc":[{"id":"1.149175625","rc":[{"ltp":1.24,"id":12210252}]}]}
+{"op":"mcm","clk":"7590722728","pt":1538889385911,"mc":[{"id":"1.149175625","rc":[{"ltp":1.16,"id":12210252}]}]}
+{"op":"mcm","clk":"7590729547","pt":1538889448011,"mc":[{"id":"1.149175625","rc":[{"ltp":5.5,"id":8304051},{"ltp":1.23,"id":12210252}]}]}
+{"op":"mcm","clk":"7590735695","pt":1538889504974,"mc":[{"id":"1.149175625","rc":[{"ltp":1.3,"id":12210252}]}]}
+{"op":"mcm","clk":"7590780389","pt":1538889800753,"mc":[{"id":"1.149175625","rc":[{"ltp":1.33,"id":12210252}]}]}
+{"op":"mcm","clk":"7590861013","pt":1538890461770,"mc":[{"id":"1.149175625","rc":[{"ltp":1.13,"id":12210252}]}]}
+{"op":"mcm","clk":"7590924378","pt":1538890875366,"mc":[{"id":"1.149175625","rc":[{"ltp":1.05,"id":12210252}]}]}
+{"op":"mcm","clk":"7590938873","pt":1538891009458,"mc":[{"id":"1.149175625","rc":[{"ltp":1.07,"id":12210252}]}]}
+{"op":"mcm","clk":"7590974067","pt":1538891324382,"mc":[{"id":"1.149175625","rc":[{"ltp":1.06,"id":12210252}]}]}
+{"op":"mcm","clk":"7591014632","pt":1538891605339,"mc":[{"id":"1.149175625","rc":[{"ltp":1.08,"id":12210252}]}]}
+{"op":"mcm","clk":"7591078519","pt":1538892204510,"mc":[{"id":"1.149175625","rc":[{"ltp":1.07,"id":12210252}]}]}
+{"op":"mcm","clk":"7591085865","pt":1538892269136,"mc":[{"id":"1.149175625","rc":[{"ltp":1.15,"id":12210252}]}]}
+{"op":"mcm","clk":"7591099511","pt":1538892389748,"mc":[{"id":"1.149175625","rc":[{"ltp":14.0,"id":8304051},{"ltp":1.08,"id":12210252}]}]}
+{"op":"mcm","clk":"7591136422","pt":1538892595162,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591147703","pt":1538892688951,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7591158514","pt":1538892786261,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591171591","pt":1538892904045,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7591185707","pt":1538893046279,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7591192510","pt":1538893116140,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7591235237","pt":1538893437083,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7591254277","pt":1538893628442,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7591310378","pt":1538894125025,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591422492","pt":1538894948377,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591428278","pt":1538895005769,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7591433545","pt":1538895055271,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591504088","pt":1538895686105,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7591509720","pt":1538895743587,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591534277","pt":1538895991188,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7591559819","pt":1538896147389,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591588865","pt":1538896464855,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7591641726","pt":1538896949934,"mc":[{"id":"1.149175625","rc":[{"ltp":26.0,"id":8304051},{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591645132","pt":1538896997288,"mc":[{"id":"1.149175625","rc":[{"ltp":1.06,"id":12210252}]}]}
+{"op":"mcm","clk":"7591649925","pt":1538897063762,"mc":[{"id":"1.149175625","rc":[{"ltp":1.05,"id":12210252}]}]}
+{"op":"mcm","clk":"7591666154","pt":1538897261083,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591760404","pt":1538898126552,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591772818","pt":1538898249603,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591779938","pt":1538898316800,"mc":[{"id":"1.149175625","rc":[{"ltp":1.05,"id":12210252}]}]}
+{"op":"mcm","clk":"7591783140","pt":1538898350238,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591821190","pt":1538898685109,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7591848628","pt":1538898827125,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7591981360","pt":1538899883436,"mc":[{"id":"1.149175625","rc":[{"ltp":1.05,"id":12210252}]}]}
+{"op":"mcm","clk":"7591988880","pt":1538899943182,"mc":[{"id":"1.149175625","rc":[{"ltp":1.06,"id":12210252}]}]}
+{"op":"mcm","clk":"7592011144","pt":1538900130079,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7592023175","pt":1538900224586,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7592315375","pt":1538902222470,"mc":[{"id":"1.149175625","rc":[{"ltp":1.08,"id":12210252}]}]}
+{"op":"mcm","clk":"7592356461","pt":1538902441674,"mc":[{"id":"1.149175625","rc":[{"ltp":1.07,"id":12210252}]}]}
+{"op":"mcm","clk":"7592417240","pt":1538902888987,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7592536055","pt":1538903609868,"mc":[{"id":"1.149175625","rc":[{"ltp":1.04,"id":12210252}]}]}
+{"op":"mcm","clk":"7592545430","pt":1538903668578,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7592551990","pt":1538903712511,"mc":[{"id":"1.149175625","rc":[{"ltp":1.02,"id":12210252}]}]}
+{"op":"mcm","clk":"7592571417","pt":1538903845476,"mc":[{"id":"1.149175625","rc":[{"ltp":1.03,"id":12210252}]}]}
+{"op":"mcm","clk":"7592580196","pt":1538903909858,"mc":[{"id":"1.149175625","rc":[{"ltp":1.01,"id":12210252}]}]}
+{"op":"mcm","clk":"7592632502","pt":1538904202532,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:48:00.000Z","suspendTime":"2018-10-07T04:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"ACTIVE","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:48:00.000Z","version":2443298665,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}
+{"op":"mcm","clk":"7592634143","pt":1538904214588,"mc":[{"id":"1.149175625","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941817","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T04:48:00.000Z","suspendTime":"2018-10-07T04:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T09:23:31.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":12210252,"name":"Felix Auger-Aliassime"},{"status":"LOSER","sortPriority":2,"id":8304051,"name":"Sanjar Fayziev"}],"regulators":["MR_INT"],"countryCode":"UZ","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T04:48:00.000Z","version":2443300686,"name":"Match Odds","eventName":"F Auger-Aliassime v Fayziev"}}]}

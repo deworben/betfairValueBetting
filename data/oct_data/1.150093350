@@ -1,0 +1,63 @@
+{"op":"mcm","clk":"7787343167","pt":1540353348935,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"ACTIVE","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:00:00.000Z","version":2472759044,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"}}]}
+{"op":"mcm","clk":"7787360290","pt":1540353560517,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"ACTIVE","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:00:00.000Z","version":2472759044,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"}}]}
+{"op":"mcm","clk":"7788046646","pt":1540367435059,"mc":[{"id":"1.150093350","rc":[{"ltp":1.22,"id":9637477}]}]}
+{"op":"mcm","clk":"7788092953","pt":1540368153291,"mc":[{"id":"1.150093350","rc":[{"ltp":1.14,"id":9637477}]}]}
+{"op":"mcm","clk":"7788221971","pt":1540370225604,"mc":[{"id":"1.150093350","rc":[{"ltp":1.21,"id":9637477}]}]}
+{"op":"mcm","clk":"7788232375","pt":1540370444497,"mc":[{"id":"1.150093350","rc":[{"ltp":1.15,"id":9637477}]}]}
+{"op":"mcm","clk":"7788284873","pt":1540371327864,"mc":[{"id":"1.150093350","rc":[{"ltp":1.22,"id":9637477}]}]}
+{"op":"mcm","clk":"7788300631","pt":1540371439508,"mc":[{"id":"1.150093350","rc":[{"ltp":5.6,"id":9638495}]}]}
+{"op":"mcm","clk":"7788308323","pt":1540371583020,"mc":[{"id":"1.150093350","rc":[{"ltp":1.17,"id":9637477}]}]}
+{"op":"mcm","clk":"7788324707","pt":1540371826343,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"ACTIVE","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:00:00.000Z","version":2472851701,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"}}]}
+{"op":"mcm","clk":"7788337720","pt":1540372003467,"mc":[{"id":"1.150093350","rc":[{"ltp":1.16,"id":9637477}]}]}
+{"op":"mcm","clk":"7788342146","pt":1540372062360,"mc":[{"id":"1.150093350","rc":[{"ltp":1.22,"id":9637477}]}]}
+{"op":"mcm","clk":"7788345996","pt":1540372126498,"mc":[{"id":"1.150093350","rc":[{"ltp":1.2,"id":9637477}]}]}
+{"op":"mcm","clk":"7788349211","pt":1540372183548,"mc":[{"id":"1.150093350","rc":[{"ltp":1.23,"id":9637477},{"ltp":5.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788352783","pt":1540372245928,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"ACTIVE","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:10:17.000Z","version":2472857061,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"},"rc":[{"ltp":1.24,"id":9637477}]}]}
+{"op":"mcm","clk":"7788356172","pt":1540372302936,"mc":[{"id":"1.150093350","rc":[{"ltp":1.22,"id":9637477},{"ltp":5.1,"id":9638495}]}]}
+{"op":"mcm","clk":"7788370459","pt":1540372366745,"mc":[{"id":"1.150093350","rc":[{"ltp":1.24,"id":9637477}]}]}
+{"op":"mcm","clk":"7788374133","pt":1540372425788,"mc":[{"id":"1.150093350","rc":[{"ltp":1.2,"id":9637477}]}]}
+{"op":"mcm","clk":"7788377824","pt":1540372486068,"mc":[{"id":"1.150093350","rc":[{"ltp":1.27,"id":9637477},{"ltp":4.7,"id":9638495}]}]}
+{"op":"mcm","clk":"7788381515","pt":1540372545648,"mc":[{"id":"1.150093350","rc":[{"ltp":1.21,"id":9637477},{"ltp":5.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788388274","pt":1540372664991,"mc":[{"id":"1.150093350","rc":[{"ltp":5.7,"id":9638495}]}]}
+{"op":"mcm","clk":"7788391534","pt":1540372726503,"mc":[{"id":"1.150093350","rc":[{"ltp":1.18,"id":9637477}]}]}
+{"op":"mcm","clk":"7788395008","pt":1540372785668,"mc":[{"id":"1.150093350","rc":[{"ltp":1.16,"id":9637477}]}]}
+{"op":"mcm","clk":"7788398570","pt":1540372844842,"mc":[{"id":"1.150093350","rc":[{"ltp":1.11,"id":9637477}]}]}
+{"op":"mcm","clk":"7788405855","pt":1540372966203,"mc":[{"id":"1.150093350","rc":[{"ltp":1.1,"id":9637477},{"ltp":11.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788414191","pt":1540373082854,"mc":[{"id":"1.150093350","rc":[{"ltp":1.09,"id":9637477},{"ltp":12.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788419077","pt":1540373146549,"mc":[{"id":"1.150093350","rc":[{"ltp":1.08,"id":9637477}]}]}
+{"op":"mcm","clk":"7788423556","pt":1540373205980,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477},{"ltp":15.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788438327","pt":1540373264973,"mc":[{"id":"1.150093350","rc":[{"ltp":1.06,"id":9637477}]}]}
+{"op":"mcm","clk":"7788457203","pt":1540373500529,"mc":[{"id":"1.150093350","rc":[{"ltp":17.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788467072","pt":1540373626702,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477},{"ltp":18.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788471997","pt":1540373686155,"mc":[{"id":"1.150093350","rc":[{"ltp":1.06,"id":9637477}]}]}
+{"op":"mcm","clk":"7788477040","pt":1540373746188,"mc":[{"id":"1.150093350","rc":[{"ltp":1.05,"id":9637477},{"ltp":15.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788491198","pt":1540373924884,"mc":[{"id":"1.150093350","rc":[{"ltp":1.06,"id":9637477}]}]}
+{"op":"mcm","clk":"7788495818","pt":1540373985279,"mc":[{"id":"1.150093350","rc":[{"ltp":1.05,"id":9637477}]}]}
+{"op":"mcm","clk":"7788503924","pt":1540374100387,"mc":[{"id":"1.150093350","rc":[{"ltp":21.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788529648","pt":1540374285465,"mc":[{"id":"1.150093350","rc":[{"ltp":1.06,"id":9637477}]}]}
+{"op":"mcm","clk":"7788540569","pt":1540374405647,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477}]}]}
+{"op":"mcm","clk":"7788546181","pt":1540374466080,"mc":[{"id":"1.150093350","rc":[{"ltp":1.08,"id":9637477}]}]}
+{"op":"mcm","clk":"7788550808","pt":1540374523614,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477}]}]}
+{"op":"mcm","clk":"7788555650","pt":1540374584515,"mc":[{"id":"1.150093350","rc":[{"ltp":1.09,"id":9637477},{"ltp":12.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788560443","pt":1540374646471,"mc":[{"id":"1.150093350","rc":[{"ltp":1.08,"id":9637477},{"ltp":13.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788570225","pt":1540374764777,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477}]}]}
+{"op":"mcm","clk":"7788575626","pt":1540374824050,"mc":[{"id":"1.150093350","rc":[{"ltp":1.08,"id":9637477}]}]}
+{"op":"mcm","clk":"7788581086","pt":1540374885016,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477},{"ltp":11.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788585637","pt":1540374939470,"mc":[{"id":"1.150093350","rc":[{"ltp":1.09,"id":9637477}]}]}
+{"op":"mcm","clk":"7788591194","pt":1540375003914,"mc":[{"id":"1.150093350","rc":[{"ltp":1.06,"id":9637477}]}]}
+{"op":"mcm","clk":"7788612571","pt":1540375123268,"mc":[{"id":"1.150093350","rc":[{"ltp":1.08,"id":9637477},{"ltp":15.5,"id":9638495}]}]}
+{"op":"mcm","clk":"7788618477","pt":1540375186342,"mc":[{"id":"1.150093350","rc":[{"ltp":1.09,"id":9637477}]}]}
+{"op":"mcm","clk":"7788624608","pt":1540375246477,"mc":[{"id":"1.150093350","rc":[{"ltp":1.07,"id":9637477}]}]}
+{"op":"mcm","clk":"7788630887","pt":1540375305307,"mc":[{"id":"1.150093350","rc":[{"ltp":1.05,"id":9637477}]}]}
+{"op":"mcm","clk":"7788637233","pt":1540375366691,"mc":[{"id":"1.150093350","rc":[{"ltp":1.04,"id":9637477}]}]}
+{"op":"mcm","clk":"7788643189","pt":1540375426025,"mc":[{"id":"1.150093350","rc":[{"ltp":1.02,"id":9637477},{"ltp":34.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788649572","pt":1540375486901,"mc":[{"id":"1.150093350","rc":[{"ltp":1.04,"id":9637477},{"ltp":22.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788655622","pt":1540375544370,"mc":[{"id":"1.150093350","rc":[{"ltp":26.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788662042","pt":1540375602994,"mc":[{"id":"1.150093350","rc":[{"ltp":1.03,"id":9637477}]}]}
+{"op":"mcm","clk":"7788669075","pt":1540375664328,"mc":[{"id":"1.150093350","rc":[{"ltp":1.02,"id":9637477}]}]}
+{"op":"mcm","clk":"7788674227","pt":1540375714195,"mc":[{"id":"1.150093350","rc":[{"ltp":1.03,"id":9637477}]}]}
+{"op":"mcm","clk":"7788681418","pt":1540375784697,"mc":[{"id":"1.150093350","rc":[{"ltp":1.02,"id":9637477},{"ltp":50.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788694992","pt":1540375899945,"mc":[{"id":"1.150093350","rc":[{"ltp":1.01,"id":9637477}]}]}
+{"op":"mcm","clk":"7788710894","pt":1540375962353,"mc":[{"id":"1.150093350","rc":[{"ltp":170.0,"id":9638495}]}]}
+{"op":"mcm","clk":"7788776274","pt":1540376606138,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"ACTIVE","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:10:17.000Z","version":2472939404,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"}}]}
+{"op":"mcm","clk":"7788779247","pt":1540376634213,"mc":[{"id":"1.150093350","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28972691","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T09:00:00.000Z","suspendTime":"2018-10-24T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-24T10:23:47.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9638495,"name":"K Zavatska"},{"status":"WINNER","sortPriority":2,"id":9637477,"name":"A Blinkova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-24T09:10:17.000Z","version":2472939712,"name":"Match Odds","eventName":"K Zavatska v A Blinkova"}}]}

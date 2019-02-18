@@ -1,0 +1,94 @@
+{"op":"mcm","clk":"7544426915","pt":1538465437629,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:30:00.000Z","version":2433764019,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7544436612","pt":1538465657696,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:30:00.000Z","version":2433764019,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7545512445","pt":1538482330121,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:40:00.000Z","version":2433936710,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7545766468","pt":1538485555298,"mc":[{"id":"1.148976282","rc":[{"ltp":1.58,"id":9626680},{"ltp":2.32,"id":9628613}]}]}
+{"op":"mcm","clk":"7545884622","pt":1538486724442,"mc":[{"id":"1.148976282","rc":[{"ltp":1.76,"id":9626680}]}]}
+{"op":"mcm","clk":"7545957241","pt":1538487498049,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:40:00.000Z","version":2434010532,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7545966855","pt":1538487611890,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:50:00.000Z","version":2434011683,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7546042407","pt":1538488338506,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:50:00.000Z","version":2434028781,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7546068457","pt":1538488658687,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:56:49.000Z","version":2434033906,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}
+{"op":"mcm","clk":"7546099348","pt":1538489014170,"mc":[{"id":"1.148976282","rc":[{"ltp":1.89,"id":9628613}]}]}
+{"op":"mcm","clk":"7546152508","pt":1538489378216,"mc":[{"id":"1.148976282","rc":[{"ltp":1.79,"id":9628613}]}]}
+{"op":"mcm","clk":"7546214766","pt":1538489974691,"mc":[{"id":"1.148976282","rc":[{"ltp":1.4,"id":9628613}]}]}
+{"op":"mcm","clk":"7546257839","pt":1538490336462,"mc":[{"id":"1.148976282","rc":[{"ltp":1.43,"id":9628613}]}]}
+{"op":"mcm","clk":"7546262110","pt":1538490391019,"mc":[{"id":"1.148976282","rc":[{"ltp":3.0,"id":9626680},{"ltp":1.5,"id":9628613}]}]}
+{"op":"mcm","clk":"7546286142","pt":1538490637921,"mc":[{"id":"1.148976282","rc":[{"ltp":1.44,"id":9628613}]}]}
+{"op":"mcm","clk":"7546297290","pt":1538490755282,"mc":[{"id":"1.148976282","rc":[{"ltp":3.6,"id":9626680},{"ltp":1.39,"id":9628613}]}]}
+{"op":"mcm","clk":"7546301978","pt":1538490812392,"mc":[{"id":"1.148976282","rc":[{"ltp":1.46,"id":9628613}]}]}
+{"op":"mcm","clk":"7546316938","pt":1538490998030,"mc":[{"id":"1.148976282","rc":[{"ltp":3.75,"id":9626680},{"ltp":1.41,"id":9628613}]}]}
+{"op":"mcm","clk":"7546361125","pt":1538491414717,"mc":[{"id":"1.148976282","rc":[{"ltp":2.82,"id":9626680},{"ltp":1.55,"id":9628613}]}]}
+{"op":"mcm","clk":"7546387709","pt":1538491703253,"mc":[{"id":"1.148976282","rc":[{"ltp":1.77,"id":9626680},{"ltp":2.28,"id":9628613}]}]}
+{"op":"mcm","clk":"7546397160","pt":1538491827295,"mc":[{"id":"1.148976282","rc":[{"ltp":1.54,"id":9626680}]}]}
+{"op":"mcm","clk":"7546418334","pt":1538491957963,"mc":[{"id":"1.148976282","rc":[{"ltp":1.9,"id":9626680},{"ltp":2.12,"id":9628613}]}]}
+{"op":"mcm","clk":"7546432776","pt":1538492170711,"mc":[{"id":"1.148976282","rc":[{"ltp":2.02,"id":9626680},{"ltp":1.7,"id":9628613}]}]}
+{"op":"mcm","clk":"7546478635","pt":1538492790435,"mc":[{"id":"1.148976282","rc":[{"ltp":1.38,"id":9628613}]}]}
+{"op":"mcm","clk":"7546500741","pt":1538492918085,"mc":[{"id":"1.148976282","rc":[{"ltp":1.45,"id":9628613}]}]}
+{"op":"mcm","clk":"7546511354","pt":1538493038133,"mc":[{"id":"1.148976282","rc":[{"ltp":1.57,"id":9628613}]}]}
+{"op":"mcm","clk":"7546534323","pt":1538493328409,"mc":[{"id":"1.148976282","rc":[{"ltp":1.41,"id":9628613}]}]}
+{"op":"mcm","clk":"7546538927","pt":1538493397485,"mc":[{"id":"1.148976282","rc":[{"ltp":1.46,"id":9628613}]}]}
+{"op":"mcm","clk":"7546547427","pt":1538493518037,"mc":[{"id":"1.148976282","rc":[{"ltp":4.1,"id":9626680},{"ltp":1.3,"id":9628613}]}]}
+{"op":"mcm","clk":"7546551731","pt":1538493575782,"mc":[{"id":"1.148976282","rc":[{"ltp":1.56,"id":9628613}]}]}
+{"op":"mcm","clk":"7546554012","pt":1538493605032,"mc":[{"id":"1.148976282","rc":[{"ltp":2.7,"id":9626680},{"ltp":1.59,"id":9628613}]}]}
+{"op":"mcm","clk":"7546581940","pt":1538493816631,"mc":[{"id":"1.148976282","rc":[{"ltp":1.39,"id":9628613}]}]}
+{"op":"mcm","clk":"7546587219","pt":1538493877828,"mc":[{"id":"1.148976282","rc":[{"ltp":3.25,"id":9626680},{"ltp":1.45,"id":9628613}]}]}
+{"op":"mcm","clk":"7546591936","pt":1538493927673,"mc":[{"id":"1.148976282","rc":[{"ltp":1.3,"id":9628613}]}]}
+{"op":"mcm","clk":"7546598311","pt":1538493993439,"mc":[{"id":"1.148976282","rc":[{"ltp":1.19,"id":9628613}]}]}
+{"op":"mcm","clk":"7546604737","pt":1538494055801,"mc":[{"id":"1.148976282","rc":[{"ltp":1.18,"id":9628613}]}]}
+{"op":"mcm","clk":"7546611072","pt":1538494118006,"mc":[{"id":"1.148976282","rc":[{"ltp":4.8,"id":9626680},{"ltp":1.26,"id":9628613}]}]}
+{"op":"mcm","clk":"7546617763","pt":1538494178142,"mc":[{"id":"1.148976282","rc":[{"ltp":6.6,"id":9626680},{"ltp":1.17,"id":9628613}]}]}
+{"op":"mcm","clk":"7546623622","pt":1538494238411,"mc":[{"id":"1.148976282","rc":[{"ltp":1.1,"id":9628613}]}]}
+{"op":"mcm","clk":"7546639665","pt":1538494410139,"mc":[{"id":"1.148976282","rc":[{"ltp":1.11,"id":9628613}]}]}
+{"op":"mcm","clk":"7546644369","pt":1538494462878,"mc":[{"id":"1.148976282","rc":[{"ltp":13.5,"id":9626680},{"ltp":1.08,"id":9628613}]}]}
+{"op":"mcm","clk":"7546673609","pt":1538494658277,"mc":[{"id":"1.148976282","rc":[{"ltp":1.15,"id":9628613}]}]}
+{"op":"mcm","clk":"7546679128","pt":1538494718070,"mc":[{"id":"1.148976282","rc":[{"ltp":1.11,"id":9628613}]}]}
+{"op":"mcm","clk":"7546684096","pt":1538494775123,"mc":[{"id":"1.148976282","rc":[{"ltp":6.2,"id":9626680},{"ltp":1.2,"id":9628613}]}]}
+{"op":"mcm","clk":"7546689473","pt":1538494838265,"mc":[{"id":"1.148976282","rc":[{"ltp":3.8,"id":9626680},{"ltp":1.32,"id":9628613}]}]}
+{"op":"mcm","clk":"7546694499","pt":1538494891839,"mc":[{"id":"1.148976282","rc":[{"ltp":3.6,"id":9626680},{"ltp":1.39,"id":9628613}]}]}
+{"op":"mcm","clk":"7546700663","pt":1538494956901,"mc":[{"id":"1.148976282","rc":[{"ltp":4.4,"id":9626680},{"ltp":1.29,"id":9628613}]}]}
+{"op":"mcm","clk":"7546706393","pt":1538495015525,"mc":[{"id":"1.148976282","rc":[{"ltp":3.6,"id":9626680},{"ltp":1.27,"id":9628613}]}]}
+{"op":"mcm","clk":"7546713096","pt":1538495077328,"mc":[{"id":"1.148976282","rc":[{"ltp":1.18,"id":9628613}]}]}
+{"op":"mcm","clk":"7546720450","pt":1538495137585,"mc":[{"id":"1.148976282","rc":[{"ltp":3.8,"id":9626680},{"ltp":1.36,"id":9628613}]}]}
+{"op":"mcm","clk":"7546733325","pt":1538495257972,"mc":[{"id":"1.148976282","rc":[{"ltp":2.74,"id":9626680},{"ltp":1.57,"id":9628613}]}]}
+{"op":"mcm","clk":"7546739135","pt":1538495317505,"mc":[{"id":"1.148976282","rc":[{"ltp":2.44,"id":9626680},{"ltp":1.7,"id":9628613}]}]}
+{"op":"mcm","clk":"7546744575","pt":1538495377160,"mc":[{"id":"1.148976282","rc":[{"ltp":2.82,"id":9626680}]}]}
+{"op":"mcm","clk":"7546750079","pt":1538495438306,"mc":[{"id":"1.148976282","rc":[{"ltp":2.94,"id":9626680},{"ltp":1.73,"id":9628613}]}]}
+{"op":"mcm","clk":"7546754387","pt":1538495487165,"mc":[{"id":"1.148976282","rc":[{"ltp":2.36,"id":9626680}]}]}
+{"op":"mcm","clk":"7546770974","pt":1538495557016,"mc":[{"id":"1.148976282","rc":[{"ltp":1.96,"id":9626680},{"ltp":2.04,"id":9628613}]}]}
+{"op":"mcm","clk":"7546775251","pt":1538495618722,"mc":[{"id":"1.148976282","rc":[{"ltp":2.26,"id":9626680}]}]}
+{"op":"mcm","clk":"7546778545","pt":1538495667547,"mc":[{"id":"1.148976282","rc":[{"ltp":1.93,"id":9626680},{"ltp":2.06,"id":9628613}]}]}
+{"op":"mcm","clk":"7546782642","pt":1538495734928,"mc":[{"id":"1.148976282","rc":[{"ltp":1.9,"id":9626680},{"ltp":2.1,"id":9628613}]}]}
+{"op":"mcm","clk":"7546794343","pt":1538495918433,"mc":[{"id":"1.148976282","rc":[{"ltp":2.16,"id":9626680},{"ltp":1.84,"id":9628613}]}]}
+{"op":"mcm","clk":"7546798075","pt":1538495975783,"mc":[{"id":"1.148976282","rc":[{"ltp":2.46,"id":9626680},{"ltp":1.55,"id":9628613}]}]}
+{"op":"mcm","clk":"7546802299","pt":1538496038510,"mc":[{"id":"1.148976282","rc":[{"ltp":3.0,"id":9626680},{"ltp":1.48,"id":9628613}]}]}
+{"op":"mcm","clk":"7546806371","pt":1538496098450,"mc":[{"id":"1.148976282","rc":[{"ltp":2.66,"id":9626680},{"ltp":1.6,"id":9628613}]}]}
+{"op":"mcm","clk":"7546810871","pt":1538496158162,"mc":[{"id":"1.148976282","rc":[{"ltp":3.05,"id":9626680},{"ltp":1.47,"id":9628613}]}]}
+{"op":"mcm","clk":"7546815749","pt":1538496218634,"mc":[{"id":"1.148976282","rc":[{"ltp":2.64,"id":9626680},{"ltp":1.37,"id":9628613}]}]}
+{"op":"mcm","clk":"7546820527","pt":1538496278658,"mc":[{"id":"1.148976282","rc":[{"ltp":3.15,"id":9626680},{"ltp":1.47,"id":9628613}]}]}
+{"op":"mcm","clk":"7546825867","pt":1538496338145,"mc":[{"id":"1.148976282","rc":[{"ltp":2.48,"id":9626680},{"ltp":1.5,"id":9628613}]}]}
+{"op":"mcm","clk":"7546831528","pt":1538496398618,"mc":[{"id":"1.148976282","rc":[{"ltp":2.58,"id":9626680},{"ltp":1.63,"id":9628613}]}]}
+{"op":"mcm","clk":"7546848521","pt":1538496458034,"mc":[{"id":"1.148976282","rc":[{"ltp":2.56,"id":9626680},{"ltp":1.64,"id":9628613}]}]}
+{"op":"mcm","clk":"7546854270","pt":1538496518597,"mc":[{"id":"1.148976282","rc":[{"ltp":1.63,"id":9628613}]}]}
+{"op":"mcm","clk":"7546859087","pt":1538496578338,"mc":[{"id":"1.148976282","rc":[{"ltp":2.64,"id":9626680},{"ltp":1.61,"id":9628613}]}]}
+{"op":"mcm","clk":"7546863503","pt":1538496638517,"mc":[{"id":"1.148976282","rc":[{"ltp":2.98,"id":9626680},{"ltp":1.51,"id":9628613}]}]}
+{"op":"mcm","clk":"7546867213","pt":1538496698563,"mc":[{"id":"1.148976282","rc":[{"ltp":2.32,"id":9626680},{"ltp":1.72,"id":9628613}]}]}
+{"op":"mcm","clk":"7546871454","pt":1538496758560,"mc":[{"id":"1.148976282","rc":[{"ltp":3.05,"id":9626680},{"ltp":1.45,"id":9628613}]}]}
+{"op":"mcm","clk":"7546875896","pt":1538496818596,"mc":[{"id":"1.148976282","rc":[{"ltp":3.2,"id":9626680}]}]}
+{"op":"mcm","clk":"7546879690","pt":1538496878425,"mc":[{"id":"1.148976282","rc":[{"ltp":3.8,"id":9626680},{"ltp":1.4,"id":9628613}]}]}
+{"op":"mcm","clk":"7546883242","pt":1538496937024,"mc":[{"id":"1.148976282","rc":[{"ltp":3.85,"id":9626680},{"ltp":1.28,"id":9628613}]}]}
+{"op":"mcm","clk":"7546887029","pt":1538496998420,"mc":[{"id":"1.148976282","rc":[{"ltp":5.0,"id":9626680},{"ltp":1.25,"id":9628613}]}]}
+{"op":"mcm","clk":"7546890899","pt":1538497058512,"mc":[{"id":"1.148976282","rc":[{"ltp":5.6,"id":9626680},{"ltp":1.22,"id":9628613}]}]}
+{"op":"mcm","clk":"7546894550","pt":1538497115848,"mc":[{"id":"1.148976282","rc":[{"ltp":7.8,"id":9626680},{"ltp":1.16,"id":9628613}]}]}
+{"op":"mcm","clk":"7546898646","pt":1538497178087,"mc":[{"id":"1.148976282","rc":[{"ltp":6.6,"id":9626680},{"ltp":1.18,"id":9628613}]}]}
+{"op":"mcm","clk":"7546902768","pt":1538497238378,"mc":[{"id":"1.148976282","rc":[{"ltp":8.2,"id":9626680},{"ltp":1.15,"id":9628613}]}]}
+{"op":"mcm","clk":"7546907080","pt":1538497298483,"mc":[{"id":"1.148976282","rc":[{"ltp":7.6,"id":9626680},{"ltp":1.16,"id":9628613}]}]}
+{"op":"mcm","clk":"7546922461","pt":1538497358525,"mc":[{"id":"1.148976282","rc":[{"ltp":1.12,"id":9628613}]}]}
+{"op":"mcm","clk":"7546926165","pt":1538497417300,"mc":[{"id":"1.148976282","rc":[{"ltp":15.0,"id":9626680},{"ltp":1.07,"id":9628613}]}]}
+{"op":"mcm","clk":"7546929820","pt":1538497476233,"mc":[{"id":"1.148976282","rc":[{"ltp":15.5,"id":9626680},{"ltp":1.05,"id":9628613}]}]}
+{"op":"mcm","clk":"7546934104","pt":1538497538449,"mc":[{"id":"1.148976282","rc":[{"ltp":21.0,"id":9626680},{"ltp":1.06,"id":9628613}]}]}
+{"op":"mcm","clk":"7546938388","pt":1538497597549,"mc":[{"id":"1.148976282","rc":[{"ltp":26.0,"id":9626680},{"ltp":1.04,"id":9628613}]}]}
+{"op":"mcm","clk":"7546942855","pt":1538497658030,"mc":[{"id":"1.148976282","rc":[{"ltp":50.0,"id":9626680},{"ltp":1.02,"id":9628613}]}]}
+{"op":"mcm","clk":"7546951117","pt":1538497776185,"mc":[{"id":"1.148976282","rc":[{"ltp":26.0,"id":9626680},{"ltp":1.03,"id":9628613}]}]}
+{"op":"mcm","clk":"7546954947","pt":1538497838352,"mc":[{"id":"1.148976282","rc":[{"ltp":1.04,"id":9628613}]}]}
+{"op":"mcm","clk":"7546958682","pt":1538497898472,"mc":[{"id":"1.148976282","rc":[{"ltp":34.0,"id":9626680},{"ltp":1.03,"id":9628613}]}]}
+{"op":"mcm","clk":"7546962185","pt":1538497954359,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:56:49.000Z","version":2434187635,"name":"Match Odds","eventName":"R Jani v E Kostova"},"rc":[{"ltp":50.0,"id":9626680},{"ltp":1.01,"id":9628613}]}]}
+{"op":"mcm","clk":"7546962648","pt":1538497963808,"mc":[{"id":"1.148976282","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934614","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T13:30:00.000Z","suspendTime":"2018-10-02T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T16:32:39.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"LOSER","sortPriority":2,"id":9626680,"name":"E Kostova"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-02T13:56:49.000Z","version":2434187782,"name":"Match Odds","eventName":"R Jani v E Kostova"}}]}

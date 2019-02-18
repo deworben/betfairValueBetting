@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7698633610","pt":1539451296981,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:00:00.000Z","suspendTime":"2018-10-14T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:00:00.000Z","version":2453703905,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}
+{"op":"mcm","clk":"7698990573","pt":1539453752581,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:00:00.000Z","suspendTime":"2018-10-14T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:00:00.000Z","version":2453703905,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}
+{"op":"mcm","clk":"7703544766","pt":1539505968768,"mc":[{"id":"1.149557046","rc":[{"ltp":1.62,"id":19924837}]}]}
+{"op":"mcm","clk":"7703671229","pt":1539507035838,"mc":[{"id":"1.149557046","rc":[{"ltp":1.59,"id":19924837}]}]}
+{"op":"mcm","clk":"7703735031","pt":1539507561754,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T10:57:00.000Z","suspendTime":"2018-10-14T10:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T10:57:00.000Z","version":2454977317,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}
+{"op":"mcm","clk":"7704053756","pt":1539510151627,"mc":[{"id":"1.149557046","rc":[{"ltp":1.6,"id":19924837}]}]}
+{"op":"mcm","clk":"7704439322","pt":1539513019778,"mc":[{"id":"1.149557046","rc":[{"ltp":1.63,"id":19924837},{"ltp":2.42,"id":10885505}]}]}
+{"op":"mcm","clk":"7704492012","pt":1539513399257,"mc":[{"id":"1.149557046","rc":[{"ltp":1.57,"id":19924837}]}]}
+{"op":"mcm","clk":"7704523589","pt":1539513638720,"mc":[{"id":"1.149557046","rc":[{"ltp":1.6,"id":19924837}]}]}
+{"op":"mcm","clk":"7704529822","pt":1539513684963,"mc":[{"id":"1.149557046","rc":[{"ltp":2.46,"id":10885505}]}]}
+{"op":"mcm","clk":"7704548997","pt":1539513758678,"mc":[{"id":"1.149557046","rc":[{"ltp":2.66,"id":10885505}]}]}
+{"op":"mcm","clk":"7704632022","pt":1539514400145,"mc":[{"id":"1.149557046","rc":[{"ltp":1.69,"id":19924837},{"ltp":2.46,"id":10885505}]}]}
+{"op":"mcm","clk":"7704688728","pt":1539514762236,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:12:00.000Z","suspendTime":"2018-10-14T11:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:12:00.000Z","version":2455171224,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}
+{"op":"mcm","clk":"7704832449","pt":1539515728431,"mc":[{"id":"1.149557046","rc":[{"ltp":1.73,"id":19924837},{"ltp":2.38,"id":10885505}]}]}
+{"op":"mcm","clk":"7704852401","pt":1539515854264,"mc":[{"id":"1.149557046","rc":[{"ltp":1.71,"id":19924837},{"ltp":2.4,"id":10885505}]}]}
+{"op":"mcm","clk":"7704860716","pt":1539515910907,"mc":[{"id":"1.149557046","rc":[{"ltp":2.38,"id":10885505}]}]}
+{"op":"mcm","clk":"7704868787","pt":1539515969258,"mc":[{"id":"1.149557046","rc":[{"ltp":2.36,"id":10885505}]}]}
+{"op":"mcm","clk":"7704893173","pt":1539516154596,"mc":[{"id":"1.149557046","rc":[{"ltp":2.34,"id":10885505}]}]}
+{"op":"mcm","clk":"7704904933","pt":1539516246739,"mc":[{"id":"1.149557046","rc":[{"ltp":1.73,"id":19924837}]}]}
+{"op":"mcm","clk":"7704959136","pt":1539516578555,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:12:00.000Z","suspendTime":"2018-10-14T11:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:12:00.000Z","version":2455221254,"name":"Match Odds","eventName":"Ivashka v Hoang"},"rc":[{"ltp":1.6,"id":19924837},{"ltp":2.66,"id":10885505}]}]}
+{"op":"mcm","clk":"7704967687","pt":1539516637487,"mc":[{"id":"1.149557046","rc":[{"ltp":1.56,"id":19924837},{"ltp":2.78,"id":10885505}]}]}
+{"op":"mcm","clk":"7704985585","pt":1539516757325,"mc":[{"id":"1.149557046","rc":[{"ltp":1.61,"id":19924837}]}]}
+{"op":"mcm","clk":"7704994353","pt":1539516819739,"mc":[{"id":"1.149557046","rc":[{"ltp":1.66,"id":19924837},{"ltp":2.5,"id":10885505}]}]}
+{"op":"mcm","clk":"7705001758","pt":1539516875443,"mc":[{"id":"1.149557046","rc":[{"ltp":1.63,"id":19924837}]}]}
+{"op":"mcm","clk":"7705010163","pt":1539516939773,"mc":[{"id":"1.149557046","rc":[{"ltp":1.55,"id":19924837},{"ltp":2.72,"id":10885505}]}]}
+{"op":"mcm","clk":"7705025576","pt":1539517059119,"mc":[{"id":"1.149557046","rc":[{"ltp":1.53,"id":19924837}]}]}
+{"op":"mcm","clk":"7705033334","pt":1539517120086,"mc":[{"id":"1.149557046","rc":[{"ltp":1.58,"id":19924837}]}]}
+{"op":"mcm","clk":"7705040781","pt":1539517178004,"mc":[{"id":"1.149557046","rc":[{"ltp":1.66,"id":19924837},{"ltp":2.52,"id":10885505}]}]}
+{"op":"mcm","clk":"7705048845","pt":1539517238231,"mc":[{"id":"1.149557046","rc":[{"ltp":1.68,"id":19924837},{"ltp":2.46,"id":10885505}]}]}
+{"op":"mcm","clk":"7705057154","pt":1539517299272,"mc":[{"id":"1.149557046","rc":[{"ltp":1.64,"id":19924837},{"ltp":2.56,"id":10885505}]}]}
+{"op":"mcm","clk":"7705074490","pt":1539517360010,"mc":[{"id":"1.149557046","rc":[{"ltp":1.66,"id":19924837},{"ltp":2.66,"id":10885505}]}]}
+{"op":"mcm","clk":"7705082237","pt":1539517419444,"mc":[{"id":"1.149557046","rc":[{"ltp":1.61,"id":19924837}]}]}
+{"op":"mcm","clk":"7705096974","pt":1539517536340,"mc":[{"id":"1.149557046","rc":[{"ltp":1.43,"id":19924837}]}]}
+{"op":"mcm","clk":"7705105435","pt":1539517598475,"mc":[{"id":"1.149557046","rc":[{"ltp":1.37,"id":19924837},{"ltp":3.7,"id":10885505}]}]}
+{"op":"mcm","clk":"7705113116","pt":1539517659989,"mc":[{"id":"1.149557046","rc":[{"ltp":1.26,"id":19924837},{"ltp":4.8,"id":10885505}]}]}
+{"op":"mcm","clk":"7705120427","pt":1539517718839,"mc":[{"id":"1.149557046","rc":[{"ltp":1.22,"id":19924837}]}]}
+{"op":"mcm","clk":"7705128025","pt":1539517780116,"mc":[{"id":"1.149557046","rc":[{"ltp":1.23,"id":19924837},{"ltp":5.7,"id":10885505}]}]}
+{"op":"mcm","clk":"7705135992","pt":1539517837020,"mc":[{"id":"1.149557046","rc":[{"ltp":1.2,"id":19924837}]}]}
+{"op":"mcm","clk":"7705143764","pt":1539517900060,"mc":[{"id":"1.149557046","rc":[{"ltp":1.23,"id":19924837}]}]}
+{"op":"mcm","clk":"7705158589","pt":1539518020082,"mc":[{"id":"1.149557046","rc":[{"ltp":5.3,"id":10885505}]}]}
+{"op":"mcm","clk":"7705165611","pt":1539518079832,"mc":[{"id":"1.149557046","rc":[{"ltp":1.21,"id":19924837},{"ltp":6.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705173643","pt":1539518140049,"mc":[{"id":"1.149557046","rc":[{"ltp":1.31,"id":19924837}]}]}
+{"op":"mcm","clk":"7705181488","pt":1539518200072,"mc":[{"id":"1.149557046","rc":[{"ltp":1.22,"id":19924837}]}]}
+{"op":"mcm","clk":"7705198366","pt":1539518259293,"mc":[{"id":"1.149557046","rc":[{"ltp":1.2,"id":19924837}]}]}
+{"op":"mcm","clk":"7705214501","pt":1539518377595,"mc":[{"id":"1.149557046","rc":[{"ltp":1.22,"id":19924837}]}]}
+{"op":"mcm","clk":"7705223356","pt":1539518440075,"mc":[{"id":"1.149557046","rc":[{"ltp":1.21,"id":19924837},{"ltp":5.1,"id":10885505}]}]}
+{"op":"mcm","clk":"7705232186","pt":1539518496200,"mc":[{"id":"1.149557046","rc":[{"ltp":1.23,"id":19924837},{"ltp":5.3,"id":10885505}]}]}
+{"op":"mcm","clk":"7705241592","pt":1539518557228,"mc":[{"id":"1.149557046","rc":[{"ltp":1.2,"id":19924837},{"ltp":6.6,"id":10885505}]}]}
+{"op":"mcm","clk":"7705250991","pt":1539518619566,"mc":[{"id":"1.149557046","rc":[{"ltp":1.18,"id":19924837}]}]}
+{"op":"mcm","clk":"7705268616","pt":1539518737341,"mc":[{"id":"1.149557046","rc":[{"ltp":1.2,"id":19924837},{"ltp":6.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705277616","pt":1539518799615,"mc":[{"id":"1.149557046","rc":[{"ltp":1.22,"id":19924837}]}]}
+{"op":"mcm","clk":"7705286729","pt":1539518860111,"mc":[{"id":"1.149557046","rc":[{"ltp":1.24,"id":19924837},{"ltp":5.7,"id":10885505}]}]}
+{"op":"mcm","clk":"7705296077","pt":1539518919891,"mc":[{"id":"1.149557046","rc":[{"ltp":6.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705305643","pt":1539518980085,"mc":[{"id":"1.149557046","rc":[{"ltp":1.19,"id":19924837},{"ltp":6.2,"id":10885505}]}]}
+{"op":"mcm","clk":"7705314732","pt":1539519039951,"mc":[{"id":"1.149557046","rc":[{"ltp":1.21,"id":19924837}]}]}
+{"op":"mcm","clk":"7705339762","pt":1539519140840,"mc":[{"id":"1.149557046","rc":[{"ltp":1.23,"id":19924837},{"ltp":5.3,"id":10885505}]}]}
+{"op":"mcm","clk":"7705361225","pt":1539519278950,"mc":[{"id":"1.149557046","rc":[{"ltp":1.19,"id":19924837}]}]}
+{"op":"mcm","clk":"7705370951","pt":1539519340014,"mc":[{"id":"1.149557046","rc":[{"ltp":1.2,"id":19924837}]}]}
+{"op":"mcm","clk":"7705380517","pt":1539519399936,"mc":[{"id":"1.149557046","rc":[{"ltp":1.21,"id":19924837}]}]}
+{"op":"mcm","clk":"7705387590","pt":1539519450397,"mc":[{"id":"1.149557046","rc":[{"ltp":1.23,"id":19924837}]}]}
+{"op":"mcm","clk":"7705395824","pt":1539519511305,"mc":[{"id":"1.149557046","rc":[{"ltp":1.24,"id":19924837}]}]}
+{"op":"mcm","clk":"7705405346","pt":1539519579979,"mc":[{"id":"1.149557046","rc":[{"ltp":1.22,"id":19924837}]}]}
+{"op":"mcm","clk":"7705413483","pt":1539519639649,"mc":[{"id":"1.149557046","rc":[{"ltp":1.18,"id":19924837},{"ltp":8.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705421212","pt":1539519695863,"mc":[{"id":"1.149557046","rc":[{"ltp":1.14,"id":19924837},{"ltp":8.2,"id":10885505}]}]}
+{"op":"mcm","clk":"7705429650","pt":1539519759690,"mc":[{"id":"1.149557046","rc":[{"ltp":1.13,"id":19924837}]}]}
+{"op":"mcm","clk":"7705437836","pt":1539519819937,"mc":[{"id":"1.149557046","rc":[{"ltp":1.16,"id":19924837}]}]}
+{"op":"mcm","clk":"7705446472","pt":1539519879956,"mc":[{"id":"1.149557046","rc":[{"ltp":1.15,"id":19924837}]}]}
+{"op":"mcm","clk":"7705454558","pt":1539519936326,"mc":[{"id":"1.149557046","rc":[{"ltp":1.04,"id":19924837},{"ltp":26.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705481217","pt":1539520058929,"mc":[{"id":"1.149557046","rc":[{"ltp":1.02,"id":19924837}]}]}
+{"op":"mcm","clk":"7705490309","pt":1539520119523,"mc":[{"id":"1.149557046","rc":[{"ltp":1.04,"id":19924837},{"ltp":50.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705498731","pt":1539520179204,"mc":[{"id":"1.149557046","rc":[{"ltp":1.02,"id":19924837}]}]}
+{"op":"mcm","clk":"7705515091","pt":1539520297439,"mc":[{"id":"1.149557046","rc":[{"ltp":1.01,"id":19924837},{"ltp":100.0,"id":10885505}]}]}
+{"op":"mcm","clk":"7705523205","pt":1539520357728,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:12:00.000Z","suspendTime":"2018-10-14T11:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"ACTIVE","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:12:00.000Z","version":2455370089,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}
+{"op":"mcm","clk":"7705528845","pt":1539520398889,"mc":[{"id":"1.149557046","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955921","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T11:12:00.000Z","suspendTime":"2018-10-14T11:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T12:33:15.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924837,"name":"Ilya Ivashka"},{"status":"LOSER","sortPriority":2,"id":10885505,"name":"Antoine Hoang"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T11:12:00.000Z","version":2455373776,"name":"Match Odds","eventName":"Ivashka v Hoang"}}]}

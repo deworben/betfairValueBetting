@@ -1,0 +1,63 @@
+{"op":"mcm","clk":"7685596854","pt":1539350413952,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T03:00:00.000Z","suspendTime":"2018-10-13T03:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"ACTIVE","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T03:00:00.000Z","version":2450814573,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"}}]}
+{"op":"mcm","clk":"7685673645","pt":1539350945500,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T03:00:00.000Z","suspendTime":"2018-10-13T03:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"ACTIVE","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T03:00:00.000Z","version":2450814573,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"}}]}
+{"op":"mcm","clk":"7688922184","pt":1539375378501,"mc":[{"id":"1.149479483","rc":[{"ltp":1.69,"id":11102176}]}]}
+{"op":"mcm","clk":"7690832867","pt":1539398058697,"mc":[{"id":"1.149479483","rc":[{"ltp":2.08,"id":8256942},{"ltp":1.87,"id":11102176}]}]}
+{"op":"mcm","clk":"7690914894","pt":1539399259320,"mc":[{"id":"1.149479483","rc":[{"ltp":1.7,"id":11102176}]}]}
+{"op":"mcm","clk":"7690917759","pt":1539399316542,"mc":[{"id":"1.149479483","rc":[{"ltp":2.1,"id":8256942},{"ltp":1.62,"id":11102176}]}]}
+{"op":"mcm","clk":"7690935090","pt":1539399465078,"mc":[{"id":"1.149479483","rc":[{"ltp":1.87,"id":11102176}]}]}
+{"op":"mcm","clk":"7690941539","pt":1539399612916,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T02:55:00.000Z","suspendTime":"2018-10-13T02:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"ACTIVE","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T02:55:00.000Z","version":2452011636,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"}}]}
+{"op":"mcm","clk":"7690964452","pt":1539400091863,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T02:55:00.000Z","suspendTime":"2018-10-13T02:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"ACTIVE","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T02:55:00.000Z","version":2452012859,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"}}]}
+{"op":"mcm","clk":"7690990141","pt":1539400334437,"mc":[{"id":"1.149479483","rc":[{"ltp":2.2,"id":8256942},{"ltp":1.83,"id":11102176}]}]}
+{"op":"mcm","clk":"7691000684","pt":1539400518319,"mc":[{"id":"1.149479483","rc":[{"ltp":2.4,"id":8256942},{"ltp":1.72,"id":11102176}]}]}
+{"op":"mcm","clk":"7691013854","pt":1539400741078,"mc":[{"id":"1.149479483","rc":[{"ltp":2.66,"id":8256942},{"ltp":1.46,"id":11102176}]}]}
+{"op":"mcm","clk":"7691018496","pt":1539400817768,"mc":[{"id":"1.149479483","rc":[{"ltp":1.29,"id":11102176}]}]}
+{"op":"mcm","clk":"7691020624","pt":1539400854976,"mc":[{"id":"1.149479483","rc":[{"ltp":4.5,"id":8256942},{"ltp":1.28,"id":11102176}]}]}
+{"op":"mcm","clk":"7691032316","pt":1539401056355,"mc":[{"id":"1.149479483","rc":[{"ltp":1.26,"id":11102176}]}]}
+{"op":"mcm","clk":"7691035615","pt":1539401118996,"mc":[{"id":"1.149479483","rc":[{"ltp":1.23,"id":11102176}]}]}
+{"op":"mcm","clk":"7691052757","pt":1539401234827,"mc":[{"id":"1.149479483","rc":[{"ltp":1.26,"id":11102176}]}]}
+{"op":"mcm","clk":"7691076020","pt":1539401712459,"mc":[{"id":"1.149479483","rc":[{"ltp":3.0,"id":8256942},{"ltp":1.49,"id":11102176}]}]}
+{"op":"mcm","clk":"7691082418","pt":1539401838502,"mc":[{"id":"1.149479483","rc":[{"ltp":1.5,"id":11102176}]}]}
+{"op":"mcm","clk":"7691088985","pt":1539401958808,"mc":[{"id":"1.149479483","rc":[{"ltp":1.56,"id":11102176}]}]}
+{"op":"mcm","clk":"7691094895","pt":1539402075500,"mc":[{"id":"1.149479483","rc":[{"ltp":2.78,"id":8256942}]}]}
+{"op":"mcm","clk":"7691108894","pt":1539402129441,"mc":[{"id":"1.149479483","rc":[{"ltp":1.74,"id":11102176}]}]}
+{"op":"mcm","clk":"7691112524","pt":1539402198790,"mc":[{"id":"1.149479483","rc":[{"ltp":2.72,"id":8256942},{"ltp":1.58,"id":11102176}]}]}
+{"op":"mcm","clk":"7691128793","pt":1539402497861,"mc":[{"id":"1.149479483","rc":[{"ltp":4.4,"id":8256942},{"ltp":1.29,"id":11102176}]}]}
+{"op":"mcm","clk":"7691131194","pt":1539402550079,"mc":[{"id":"1.149479483","rc":[{"ltp":1.21,"id":11102176}]}]}
+{"op":"mcm","clk":"7691135108","pt":1539402617485,"mc":[{"id":"1.149479483","rc":[{"ltp":5.7,"id":8256942},{"ltp":1.22,"id":11102176}]}]}
+{"op":"mcm","clk":"7691141095","pt":1539402737787,"mc":[{"id":"1.149479483","rc":[{"ltp":1.16,"id":11102176}]}]}
+{"op":"mcm","clk":"7691144050","pt":1539402794528,"mc":[{"id":"1.149479483","rc":[{"ltp":12.0,"id":8256942},{"ltp":1.09,"id":11102176}]}]}
+{"op":"mcm","clk":"7691147407","pt":1539402857479,"mc":[{"id":"1.149479483","rc":[{"ltp":1.05,"id":11102176}]}]}
+{"op":"mcm","clk":"7691153537","pt":1539402977743,"mc":[{"id":"1.149479483","rc":[{"ltp":1.03,"id":11102176}]}]}
+{"op":"mcm","clk":"7691155834","pt":1539403023040,"mc":[{"id":"1.149479483","rc":[{"ltp":1.04,"id":11102176}]}]}
+{"op":"mcm","clk":"7691170953","pt":1539403095048,"mc":[{"id":"1.149479483","rc":[{"ltp":26.0,"id":8256942}]}]}
+{"op":"mcm","clk":"7691199382","pt":1539403457358,"mc":[{"id":"1.149479483","rc":[{"ltp":1.01,"id":11102176}]}]}
+{"op":"mcm","clk":"7691275987","pt":1539404358177,"mc":[{"id":"1.149479483","rc":[{"ltp":100.0,"id":8256942}]}]}
+{"op":"mcm","clk":"7691280620","pt":1539404415437,"mc":[{"id":"1.149479483","rc":[{"ltp":50.0,"id":8256942},{"ltp":1.02,"id":11102176}]}]}
+{"op":"mcm","clk":"7691285065","pt":1539404477630,"mc":[{"id":"1.149479483","rc":[{"ltp":1.03,"id":11102176}]}]}
+{"op":"mcm","clk":"7691335569","pt":1539405019034,"mc":[{"id":"1.149479483","rc":[{"ltp":1.09,"id":11102176}]}]}
+{"op":"mcm","clk":"7691349795","pt":1539405198079,"mc":[{"id":"1.149479483","rc":[{"ltp":7.6,"id":8256942},{"ltp":1.15,"id":11102176}]}]}
+{"op":"mcm","clk":"7691354707","pt":1539405252734,"mc":[{"id":"1.149479483","rc":[{"ltp":8.0,"id":8256942}]}]}
+{"op":"mcm","clk":"7691358745","pt":1539405299812,"mc":[{"id":"1.149479483","rc":[{"ltp":7.2,"id":8256942},{"ltp":1.16,"id":11102176}]}]}
+{"op":"mcm","clk":"7691365541","pt":1539405375662,"mc":[{"id":"1.149479483","rc":[{"ltp":9.2,"id":8256942},{"ltp":1.12,"id":11102176}]}]}
+{"op":"mcm","clk":"7691370597","pt":1539405439359,"mc":[{"id":"1.149479483","rc":[{"ltp":4.8,"id":8256942},{"ltp":1.26,"id":11102176}]}]}
+{"op":"mcm","clk":"7691375175","pt":1539405496954,"mc":[{"id":"1.149479483","rc":[{"ltp":4.1,"id":8256942},{"ltp":1.28,"id":11102176}]}]}
+{"op":"mcm","clk":"7691380800","pt":1539405559047,"mc":[{"id":"1.149479483","rc":[{"ltp":4.7,"id":8256942},{"ltp":1.4,"id":11102176}]}]}
+{"op":"mcm","clk":"7691390098","pt":1539405679257,"mc":[{"id":"1.149479483","rc":[{"ltp":5.5,"id":8256942},{"ltp":1.2,"id":11102176}]}]}
+{"op":"mcm","clk":"7691404392","pt":1539405726168,"mc":[{"id":"1.149479483","rc":[{"ltp":6.4,"id":8256942},{"ltp":1.18,"id":11102176}]}]}
+{"op":"mcm","clk":"7691412241","pt":1539405857830,"mc":[{"id":"1.149479483","rc":[{"ltp":1.17,"id":11102176}]}]}
+{"op":"mcm","clk":"7691415708","pt":1539405918705,"mc":[{"id":"1.149479483","rc":[{"ltp":1.11,"id":11102176}]}]}
+{"op":"mcm","clk":"7691418645","pt":1539405973404,"mc":[{"id":"1.149479483","rc":[{"ltp":10.0,"id":8256942}]}]}
+{"op":"mcm","clk":"7691423184","pt":1539406039165,"mc":[{"id":"1.149479483","rc":[{"ltp":5.5,"id":8256942},{"ltp":1.21,"id":11102176}]}]}
+{"op":"mcm","clk":"7691431482","pt":1539406158959,"mc":[{"id":"1.149479483","rc":[{"ltp":1.17,"id":11102176}]}]}
+{"op":"mcm","clk":"7691436535","pt":1539406218470,"mc":[{"id":"1.149479483","rc":[{"ltp":4.6,"id":8256942},{"ltp":1.28,"id":11102176}]}]}
+{"op":"mcm","clk":"7691440697","pt":1539406275473,"mc":[{"id":"1.149479483","rc":[{"ltp":4.7,"id":8256942},{"ltp":1.27,"id":11102176}]}]}
+{"op":"mcm","clk":"7691444281","pt":1539406334087,"mc":[{"id":"1.149479483","rc":[{"ltp":5.1,"id":8256942},{"ltp":1.24,"id":11102176}]}]}
+{"op":"mcm","clk":"7691448002","pt":1539406394377,"mc":[{"id":"1.149479483","rc":[{"ltp":4.7,"id":8256942},{"ltp":1.27,"id":11102176}]}]}
+{"op":"mcm","clk":"7691451902","pt":1539406455987,"mc":[{"id":"1.149479483","rc":[{"ltp":8.0,"id":8256942},{"ltp":1.17,"id":11102176}]}]}
+{"op":"mcm","clk":"7691456306","pt":1539406518851,"mc":[{"id":"1.149479483","rc":[{"ltp":1.09,"id":11102176}]}]}
+{"op":"mcm","clk":"7691459836","pt":1539406578764,"mc":[{"id":"1.149479483","rc":[{"ltp":1.05,"id":11102176}]}]}
+{"op":"mcm","clk":"7691474577","pt":1539406638296,"mc":[{"id":"1.149479483","rc":[{"ltp":26.0,"id":8256942},{"ltp":1.09,"id":11102176}]}]}
+{"op":"mcm","clk":"7691478764","pt":1539406698407,"mc":[{"id":"1.149479483","rc":[{"ltp":1.27,"id":11102176}]}]}
+{"op":"mcm","clk":"7691482851","pt":1539406759302,"mc":[{"id":"1.149479483","rc":[{"ltp":8.0,"id":8256942},{"ltp":1.12,"id":11102176}]}]}
+{"op":"mcm","clk":"7691485465","pt":1539406797997,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T02:55:00.000Z","suspendTime":"2018-10-13T02:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"ACTIVE","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T02:55:00.000Z","version":2452064404,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"},"rc":[{"ltp":9.2,"id":8256942}]}]}
+{"op":"mcm","clk":"7691489960","pt":1539406859550,"mc":[{"id":"1.149479483","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-13T02:55:00.000Z","suspendTime":"2018-10-13T02:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-13T05:00:56.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":11102176,"name":"Rio Noguchi"},{"status":"LOSER","sortPriority":2,"id":8256942,"name":"Sidharth Rawat"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-13T02:55:00.000Z","version":2452065286,"name":"Match Odds","eventName":"Ri Noguchi v Rawat"}}]}

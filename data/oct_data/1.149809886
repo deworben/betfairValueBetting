@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7750251166","pt":1539897574029,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:30:00.000Z","suspendTime":"2018-10-19T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5626817,"name":"Kyle Edmund"},{"status":"ACTIVE","sortPriority":2,"id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:30:00.000Z","version":2460967364,"name":"Match Odds","eventName":"Edmund v Ivashka"}}]}
+{"op":"mcm","clk":"7750525428","pt":1539901306539,"mc":[{"id":"1.149809886","rc":[{"ltp":1.3,"id":5626817},{"ltp":4.4,"id":19924837}]}]}
+{"op":"mcm","clk":"7750641567","pt":1539902858527,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7750879081","pt":1539906762560,"mc":[{"id":"1.149809886","rc":[{"ltp":4.3,"id":19924837}]}]}
+{"op":"mcm","clk":"7751003451","pt":1539908673244,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817}]}]}
+{"op":"mcm","clk":"7751013572","pt":1539908866248,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817},{"ltp":4.6,"id":19924837}]}]}
+{"op":"mcm","clk":"7751023785","pt":1539909054129,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817}]}]}
+{"op":"mcm","clk":"7751392966","pt":1539913791964,"mc":[{"id":"1.149809886","rc":[{"ltp":1.29,"id":5626817}]}]}
+{"op":"mcm","clk":"7751683659","pt":1539917809742,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817},{"ltp":4.5,"id":19924837}]}]}
+{"op":"mcm","clk":"7751685098","pt":1539917842942,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7752449744","pt":1539928528680,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817}]}]}
+{"op":"mcm","clk":"7752661343","pt":1539930768850,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7752758093","pt":1539932029408,"mc":[{"id":"1.149809886","rc":[{"ltp":4.7,"id":19924837}]}]}
+{"op":"mcm","clk":"7752769810","pt":1539932234002,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7753160965","pt":1539936272869,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817}]}]}
+{"op":"mcm","clk":"7753216866","pt":1539936877117,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7753312026","pt":1539937693837,"mc":[{"id":"1.149809886","rc":[{"ltp":1.28,"id":5626817}]}]}
+{"op":"mcm","clk":"7753456183","pt":1539938828605,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7753714887","pt":1539940954362,"mc":[{"id":"1.149809886","rc":[{"ltp":4.7,"id":19924837}]}]}
+{"op":"mcm","clk":"7753999431","pt":1539943079684,"mc":[{"id":"1.149809886","rc":[{"ltp":4.6,"id":19924837}]}]}
+{"op":"mcm","clk":"7754450618","pt":1539946234927,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7754508091","pt":1539946759996,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7754586848","pt":1539947202014,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7754797836","pt":1539948477583,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7754811635","pt":1539948569987,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7754870363","pt":1539948834960,"mc":[{"id":"1.149809886","rc":[{"ltp":4.7,"id":19924837}]}]}
+{"op":"mcm","clk":"7754971202","pt":1539949507283,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7755226725","pt":1539951027426,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7755451391","pt":1539952423849,"mc":[{"id":"1.149809886","rc":[{"ltp":4.7,"id":19924837}]}]}
+{"op":"mcm","clk":"7755849439","pt":1539955111604,"mc":[{"id":"1.149809886","rc":[{"ltp":4.9,"id":19924837}]}]}
+{"op":"mcm","clk":"7756687653","pt":1539960604387,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7756732600","pt":1539960926126,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7756855303","pt":1539961653791,"mc":[{"id":"1.149809886","rc":[{"ltp":4.9,"id":19924837}]}]}
+{"op":"mcm","clk":"7756891046","pt":1539961907168,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7757012638","pt":1539962553758,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7757035180","pt":1539962691643,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7757209049","pt":1539963654189,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7757214265","pt":1539963692779,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7757678686","pt":1539966363488,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7757706504","pt":1539966526808,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:45:00.000Z","suspendTime":"2018-10-19T18:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5626817,"name":"Kyle Edmund"},{"status":"ACTIVE","sortPriority":2,"id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:45:00.000Z","version":2461856143,"name":"Match Odds","eventName":"Edmund v Ivashka"}}]}
+{"op":"mcm","clk":"7757777275","pt":1539966833241,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7757829338","pt":1539967131326,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:35:00.000Z","suspendTime":"2018-10-19T18:35:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5626817,"name":"Kyle Edmund"},{"status":"ACTIVE","sortPriority":2,"id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:35:00.000Z","version":2461886952,"name":"Match Odds","eventName":"Edmund v Ivashka"}}]}
+{"op":"mcm","clk":"7758027819","pt":1539968266005,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7758176286","pt":1539969021246,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7758190954","pt":1539969101104,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7758502035","pt":1539970554404,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7758511535","pt":1539970610159,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7758590109","pt":1539971045562,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817},{"ltp":4.9,"id":19924837}]}]}
+{"op":"mcm","clk":"7758758326","pt":1539971934448,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7758777443","pt":1539972036217,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7758883106","pt":1539972453881,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7758922128","pt":1539972638177,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7758938887","pt":1539972713085,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7758950814","pt":1539972769128,"mc":[{"id":"1.149809886","rc":[{"ltp":5.0,"id":19924837}]}]}
+{"op":"mcm","clk":"7758959402","pt":1539972808601,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7758975723","pt":1539972885165,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759043016","pt":1539973090509,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7759062821","pt":1539973184614,"mc":[{"id":"1.149809886","rc":[{"ltp":4.9,"id":19924837}]}]}
+{"op":"mcm","clk":"7759112128","pt":1539973431302,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759142723","pt":1539973580401,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7759160690","pt":1539973670649,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759173334","pt":1539973732801,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7759185528","pt":1539973791149,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759209673","pt":1539973908806,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817},{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7759255203","pt":1539974033512,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817},{"ltp":5.0,"id":19924837}]}]}
+{"op":"mcm","clk":"7759267521","pt":1539974094453,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7759278799","pt":1539974150827,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759321787","pt":1539974380505,"mc":[{"id":"1.149809886","rc":[{"ltp":1.25,"id":5626817}]}]}
+{"op":"mcm","clk":"7759335538","pt":1539974450734,"mc":[{"id":"1.149809886","rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759347997","pt":1539974514007,"mc":[{"id":"1.149809886","rc":[{"ltp":4.8,"id":19924837}]}]}
+{"op":"mcm","clk":"7759359719","pt":1539974574375,"mc":[{"id":"1.149809886","rc":[{"ltp":1.27,"id":5626817},{"ltp":4.7,"id":19924837}]}]}
+{"op":"mcm","clk":"7759370038","pt":1539974626678,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:48:00.000Z","suspendTime":"2018-10-19T18:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5626817,"name":"Kyle Edmund"},{"status":"ACTIVE","sortPriority":2,"id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:48:00.000Z","version":2462292628,"name":"Match Odds","eventName":"Edmund v Ivashka"},"rc":[{"ltp":1.26,"id":5626817}]}]}
+{"op":"mcm","clk":"7759381871","pt":1539974683858,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:48:00.000Z","suspendTime":"2018-10-19T18:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5626817,"name":"Kyle Edmund"},{"status":"ACTIVE","sortPriority":2,"id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:48:00.000Z","version":2462295422,"name":"Match Odds","eventName":"Edmund v Ivashka"},"rc":[{"ltp":1.27,"id":5626817}]}]}
+{"op":"mcm","clk":"7759388225","pt":1539974713139,"mc":[{"id":"1.149809886","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963746","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T18:48:00.000Z","suspendTime":"2018-10-19T18:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T18:45:10.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-19T18:45:10.000Z","id":5626817,"name":"Kyle Edmund"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-19T18:45:10.000Z","id":19924837,"name":"Ilya Ivashka"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T18:48:00.000Z","version":2462297230,"name":"Match Odds","eventName":"Edmund v Ivashka"}}]}

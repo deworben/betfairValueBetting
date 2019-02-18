@@ -1,0 +1,110 @@
+{"op":"mcm","clk":"7809640599","pt":1540411175749,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2474222359,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7809715171","pt":1540411685936,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2474222359,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7811041218","pt":1540427319821,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T18:00:00.000Z","suspendTime":"2018-10-26T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T18:00:00.000Z","version":2474521927,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7813906208","pt":1540472251423,"mc":[{"id":"1.150146694","rc":[{"ltp":3.25,"id":8413749}]}]}
+{"op":"mcm","clk":"7816962716","pt":1540502558925,"mc":[{"id":"1.150146694","rc":[{"ltp":1.37,"id":8172416}]}]}
+{"op":"mcm","clk":"7816964872","pt":1540502603190,"mc":[{"id":"1.150146694","rc":[{"ltp":1.36,"id":8172416}]}]}
+{"op":"mcm","clk":"7817059769","pt":1540504121448,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T20:00:00.000Z","suspendTime":"2018-10-26T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T18:00:00.000Z","version":2475569462,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7817060016","pt":1540504125461,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T20:00:00.000Z","suspendTime":"2018-10-26T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T20:00:00.000Z","version":2475569462,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7818388663","pt":1540525428487,"mc":[{"id":"1.150146694","rc":[{"ltp":3.35,"id":8413749}]}]}
+{"op":"mcm","clk":"7820032613","pt":1540551174863,"mc":[{"id":"1.150146694","rc":[{"ltp":1.35,"id":8172416}]}]}
+{"op":"mcm","clk":"7821545742","pt":1540565287418,"mc":[{"id":"1.150146694","rc":[{"ltp":3.85,"id":8413749}]}]}
+{"op":"mcm","clk":"7822317717","pt":1540571333064,"mc":[{"id":"1.150146694","rc":[{"ltp":3.35,"id":8413749},{"ltp":1.39,"id":8172416}]}]}
+{"op":"mcm","clk":"7822650634","pt":1540573391149,"mc":[{"id":"1.150146694","rc":[{"ltp":1.42,"id":8172416}]}]}
+{"op":"mcm","clk":"7822894363","pt":1540574778749,"mc":[{"id":"1.150146694","rc":[{"ltp":3.75,"id":8413749},{"ltp":1.37,"id":8172416}]}]}
+{"op":"mcm","clk":"7823042807","pt":1540575580305,"mc":[{"id":"1.150146694","rc":[{"ltp":3.5,"id":8413749},{"ltp":1.4,"id":8172416}]}]}
+{"op":"mcm","clk":"7823147137","pt":1540576122436,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T19:48:00.000Z","suspendTime":"2018-10-26T19:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T19:48:00.000Z","version":2476556534,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7823201178","pt":1540576510810,"mc":[{"id":"1.150146694","rc":[{"ltp":1.39,"id":8172416}]}]}
+{"op":"mcm","clk":"7823437519","pt":1540577620033,"mc":[{"id":"1.150146694","rc":[{"ltp":3.65,"id":8413749},{"ltp":1.38,"id":8172416}]}]}
+{"op":"mcm","clk":"7823464188","pt":1540577737608,"mc":[{"id":"1.150146694","rc":[{"ltp":1.37,"id":8172416}]}]}
+{"op":"mcm","clk":"7823522264","pt":1540577919828,"mc":[{"id":"1.150146694","rc":[{"ltp":1.36,"id":8172416}]}]}
+{"op":"mcm","clk":"7823560085","pt":1540578102660,"mc":[{"id":"1.150146694","rc":[{"ltp":1.34,"id":8172416}]}]}
+{"op":"mcm","clk":"7823571658","pt":1540578162014,"mc":[{"id":"1.150146694","rc":[{"ltp":1.35,"id":8172416}]}]}
+{"op":"mcm","clk":"7823583736","pt":1540578222476,"mc":[{"id":"1.150146694","rc":[{"ltp":1.33,"id":8172416}]}]}
+{"op":"mcm","clk":"7823606843","pt":1540578341863,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7823821307","pt":1540579223510,"mc":[{"id":"1.150146694","rc":[{"ltp":4.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7823851334","pt":1540579356179,"mc":[{"id":"1.150146694","rc":[{"ltp":4.2,"id":8413749}]}]}
+{"op":"mcm","clk":"7823931099","pt":1540579662772,"mc":[{"id":"1.150146694","rc":[{"ltp":4.0,"id":8413749},{"ltp":1.33,"id":8172416}]}]}
+{"op":"mcm","clk":"7823941154","pt":1540579718631,"mc":[{"id":"1.150146694","rc":[{"ltp":1.34,"id":8172416}]}]}
+{"op":"mcm","clk":"7823949775","pt":1540579766348,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7823977487","pt":1540579958490,"mc":[{"id":"1.150146694","rc":[{"ltp":1.34,"id":8172416}]}]}
+{"op":"mcm","clk":"7823992558","pt":1540580062819,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7824064525","pt":1540580502841,"mc":[{"id":"1.150146694","rc":[{"ltp":1.3,"id":8172416}]}]}
+{"op":"mcm","clk":"7824092140","pt":1540580558500,"mc":[{"id":"1.150146694","rc":[{"ltp":4.2,"id":8413749},{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7824195204","pt":1540581060631,"mc":[{"id":"1.150146694","rc":[{"ltp":1.31,"id":8172416}]}]}
+{"op":"mcm","clk":"7824226158","pt":1540581216403,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7824265292","pt":1540581393507,"mc":[{"id":"1.150146694","rc":[{"ltp":1.33,"id":8172416}]}]}
+{"op":"mcm","clk":"7824346000","pt":1540581698424,"mc":[{"id":"1.150146694","rc":[{"ltp":1.31,"id":8172416}]}]}
+{"op":"mcm","clk":"7824535161","pt":1540582658666,"mc":[{"id":"1.150146694","rc":[{"ltp":1.3,"id":8172416}]}]}
+{"op":"mcm","clk":"7824547016","pt":1540582720355,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T19:37:00.000Z","suspendTime":"2018-10-26T19:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T19:37:00.000Z","version":2476980504,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7824553767","pt":1540582760263,"mc":[{"id":"1.150146694","rc":[{"ltp":4.4,"id":8413749}]}]}
+{"op":"mcm","clk":"7824566756","pt":1540582838379,"mc":[{"id":"1.150146694","rc":[{"ltp":4.1,"id":8413749}]}]}
+{"op":"mcm","clk":"7824593142","pt":1540583003285,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7824624658","pt":1540583201728,"mc":[{"id":"1.150146694","rc":[{"ltp":1.31,"id":8172416}]}]}
+{"op":"mcm","clk":"7824667660","pt":1540583381591,"mc":[{"id":"1.150146694","rc":[{"ltp":1.3,"id":8172416}]}]}
+{"op":"mcm","clk":"7824677290","pt":1540583441914,"mc":[{"id":"1.150146694","rc":[{"ltp":4.2,"id":8413749},{"ltp":1.31,"id":8172416}]}]}
+{"op":"mcm","clk":"7824684320","pt":1540583502305,"mc":[{"id":"1.150146694","rc":[{"ltp":4.5,"id":8413749},{"ltp":1.3,"id":8172416}]}]}
+{"op":"mcm","clk":"7824689966","pt":1540583551207,"mc":[{"id":"1.150146694","rc":[{"ltp":1.29,"id":8172416}]}]}
+{"op":"mcm","clk":"7824696306","pt":1540583611506,"mc":[{"id":"1.150146694","rc":[{"ltp":1.3,"id":8172416}]}]}
+{"op":"mcm","clk":"7824701107","pt":1540583654589,"mc":[{"id":"1.150146694","rc":[{"ltp":4.3,"id":8413749},{"ltp":1.29,"id":8172416}]}]}
+{"op":"mcm","clk":"7824715004","pt":1540583801572,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T19:37:00.000Z","suspendTime":"2018-10-26T19:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T19:37:00.000Z","version":2477044298,"name":"Match Odds","eventName":"Kokkinakis v D King"},"rc":[{"ltp":1.38,"id":8172416}]}]}
+{"op":"mcm","clk":"7824722046","pt":1540583861086,"mc":[{"id":"1.150146694","rc":[{"ltp":1.32,"id":8172416}]}]}
+{"op":"mcm","clk":"7824733418","pt":1540583982856,"mc":[{"id":"1.150146694","rc":[{"ltp":5.4,"id":8413749},{"ltp":1.23,"id":8172416}]}]}
+{"op":"mcm","clk":"7824742544","pt":1540584042597,"mc":[{"id":"1.150146694","rc":[{"ltp":4.9,"id":8413749},{"ltp":1.24,"id":8172416}]}]}
+{"op":"mcm","clk":"7824752583","pt":1540584102824,"mc":[{"id":"1.150146694","rc":[{"ltp":1.14,"id":8172416}]}]}
+{"op":"mcm","clk":"7824779102","pt":1540584161273,"mc":[{"id":"1.150146694","rc":[{"ltp":8.2,"id":8413749}]}]}
+{"op":"mcm","clk":"7824796738","pt":1540584282765,"mc":[{"id":"1.150146694","rc":[{"ltp":1.18,"id":8172416}]}]}
+{"op":"mcm","clk":"7824806609","pt":1540584342608,"mc":[{"id":"1.150146694","rc":[{"ltp":1.16,"id":8172416}]}]}
+{"op":"mcm","clk":"7824815412","pt":1540584400269,"mc":[{"id":"1.150146694","rc":[{"ltp":1.13,"id":8172416}]}]}
+{"op":"mcm","clk":"7824834525","pt":1540584522015,"mc":[{"id":"1.150146694","rc":[{"ltp":7.6,"id":8413749},{"ltp":1.14,"id":8172416}]}]}
+{"op":"mcm","clk":"7824844836","pt":1540584581341,"mc":[{"id":"1.150146694","rc":[{"ltp":1.15,"id":8172416}]}]}
+{"op":"mcm","clk":"7824854187","pt":1540584641855,"mc":[{"id":"1.150146694","rc":[{"ltp":1.13,"id":8172416}]}]}
+{"op":"mcm","clk":"7824870879","pt":1540584759794,"mc":[{"id":"1.150146694","rc":[{"ltp":8.6,"id":8413749}]}]}
+{"op":"mcm","clk":"7824879311","pt":1540584819181,"mc":[{"id":"1.150146694","rc":[{"ltp":1.12,"id":8172416}]}]}
+{"op":"mcm","clk":"7824886990","pt":1540584882496,"mc":[{"id":"1.150146694","rc":[{"ltp":1.13,"id":8172416}]}]}
+{"op":"mcm","clk":"7824895312","pt":1540584942807,"mc":[{"id":"1.150146694","rc":[{"ltp":1.11,"id":8172416}]}]}
+{"op":"mcm","clk":"7824903197","pt":1540585000084,"mc":[{"id":"1.150146694","rc":[{"ltp":13.5,"id":8413749},{"ltp":1.09,"id":8172416}]}]}
+{"op":"mcm","clk":"7824937937","pt":1540585121267,"mc":[{"id":"1.150146694","rc":[{"ltp":11.0,"id":8413749},{"ltp":1.1,"id":8172416}]}]}
+{"op":"mcm","clk":"7824946899","pt":1540585182690,"mc":[{"id":"1.150146694","rc":[{"ltp":13.5,"id":8413749},{"ltp":1.08,"id":8172416}]}]}
+{"op":"mcm","clk":"7824955596","pt":1540585242266,"mc":[{"id":"1.150146694","rc":[{"ltp":12.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7824971912","pt":1540585360633,"mc":[{"id":"1.150146694","rc":[{"ltp":1.09,"id":8172416}]}]}
+{"op":"mcm","clk":"7824978391","pt":1540585419618,"mc":[{"id":"1.150146694","rc":[{"ltp":1.07,"id":8172416}]}]}
+{"op":"mcm","clk":"7824986352","pt":1540585480977,"mc":[{"id":"1.150146694","rc":[{"ltp":1.11,"id":8172416}]}]}
+{"op":"mcm","clk":"7824995754","pt":1540585542657,"mc":[{"id":"1.150146694","rc":[{"ltp":11.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825003839","pt":1540585602633,"mc":[{"id":"1.150146694","rc":[{"ltp":8.0,"id":8413749},{"ltp":1.14,"id":8172416}]}]}
+{"op":"mcm","clk":"7825011211","pt":1540585659294,"mc":[{"id":"1.150146694","rc":[{"ltp":9.2,"id":8413749},{"ltp":1.12,"id":8172416}]}]}
+{"op":"mcm","clk":"7825025506","pt":1540585782568,"mc":[{"id":"1.150146694","rc":[{"ltp":8.8,"id":8413749},{"ltp":1.1,"id":8172416}]}]}
+{"op":"mcm","clk":"7825032361","pt":1540585842450,"mc":[{"id":"1.150146694","rc":[{"ltp":8.0,"id":8413749},{"ltp":1.14,"id":8172416}]}]}
+{"op":"mcm","clk":"7825038387","pt":1540585902157,"mc":[{"id":"1.150146694","rc":[{"ltp":9.2,"id":8413749},{"ltp":1.11,"id":8172416}]}]}
+{"op":"mcm","clk":"7825062666","pt":1540585962024,"mc":[{"id":"1.150146694","rc":[{"ltp":12.0,"id":8413749},{"ltp":1.07,"id":8172416}]}]}
+{"op":"mcm","clk":"7825070201","pt":1540586022075,"mc":[{"id":"1.150146694","rc":[{"ltp":11.0,"id":8413749},{"ltp":1.1,"id":8172416}]}]}
+{"op":"mcm","clk":"7825077913","pt":1540586082009,"mc":[{"id":"1.150146694","rc":[{"ltp":13.5,"id":8413749},{"ltp":1.07,"id":8172416}]}]}
+{"op":"mcm","clk":"7825087049","pt":1540586142398,"mc":[{"id":"1.150146694","rc":[{"ltp":21.0,"id":8413749},{"ltp":1.04,"id":8172416}]}]}
+{"op":"mcm","clk":"7825093426","pt":1540586196263,"mc":[{"id":"1.150146694","rc":[{"ltp":26.0,"id":8413749},{"ltp":1.03,"id":8172416}]}]}
+{"op":"mcm","clk":"7825101754","pt":1540586259537,"mc":[{"id":"1.150146694","rc":[{"ltp":27.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825111146","pt":1540586322669,"mc":[{"id":"1.150146694","rc":[{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825118951","pt":1540586380229,"mc":[{"id":"1.150146694","rc":[{"ltp":1.04,"id":8172416}]}]}
+{"op":"mcm","clk":"7825128436","pt":1540586442761,"mc":[{"id":"1.150146694","rc":[{"ltp":26.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825133775","pt":1540586502494,"mc":[{"id":"1.150146694","rc":[{"ltp":18.0,"id":8413749},{"ltp":1.06,"id":8172416}]}]}
+{"op":"mcm","clk":"7825140800","pt":1540586562630,"mc":[{"id":"1.150146694","rc":[{"ltp":11.0,"id":8413749},{"ltp":1.11,"id":8172416}]}]}
+{"op":"mcm","clk":"7825155046","pt":1540586681209,"mc":[{"id":"1.150146694","rc":[{"ltp":1.08,"id":8172416}]}]}
+{"op":"mcm","clk":"7825161056","pt":1540586739828,"mc":[{"id":"1.150146694","rc":[{"ltp":12.0,"id":8413749},{"ltp":1.07,"id":8172416}]}]}
+{"op":"mcm","clk":"7825167843","pt":1540586799024,"mc":[{"id":"1.150146694","rc":[{"ltp":21.0,"id":8413749},{"ltp":1.03,"id":8172416}]}]}
+{"op":"mcm","clk":"7825191505","pt":1540586859733,"mc":[{"id":"1.150146694","rc":[{"ltp":1.04,"id":8172416}]}]}
+{"op":"mcm","clk":"7825204777","pt":1540586980155,"mc":[{"id":"1.150146694","rc":[{"ltp":1.03,"id":8172416}]}]}
+{"op":"mcm","clk":"7825210853","pt":1540587041706,"mc":[{"id":"1.150146694","rc":[{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825217340","pt":1540587102108,"mc":[{"id":"1.150146694","rc":[{"ltp":1.01,"id":8172416}]}]}
+{"op":"mcm","clk":"7825223690","pt":1540587162404,"mc":[{"id":"1.150146694","rc":[{"ltp":50.0,"id":8413749},{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825235844","pt":1540587273958,"mc":[{"id":"1.150146694","rc":[{"ltp":34.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825242564","pt":1540587339925,"mc":[{"id":"1.150146694","rc":[{"ltp":50.0,"id":8413749},{"ltp":1.03,"id":8172416}]}]}
+{"op":"mcm","clk":"7825248962","pt":1540587400956,"mc":[{"id":"1.150146694","rc":[{"ltp":1.01,"id":8172416}]}]}
+{"op":"mcm","clk":"7825255277","pt":1540587457019,"mc":[{"id":"1.150146694","rc":[{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825261456","pt":1540587519745,"mc":[{"id":"1.150146694","rc":[{"ltp":1.01,"id":8172416}]}]}
+{"op":"mcm","clk":"7825267922","pt":1540587581113,"mc":[{"id":"1.150146694","rc":[{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825274199","pt":1540587636746,"mc":[{"id":"1.150146694","rc":[{"ltp":1.01,"id":8172416}]}]}
+{"op":"mcm","clk":"7825305197","pt":1540587751868,"mc":[{"id":"1.150146694","rc":[{"ltp":1.02,"id":8172416}]}]}
+{"op":"mcm","clk":"7825312564","pt":1540587822519,"mc":[{"id":"1.150146694","rc":[{"ltp":55.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825318848","pt":1540587882240,"mc":[{"id":"1.150146694","rc":[{"ltp":100.0,"id":8413749},{"ltp":1.01,"id":8172416}]}]}
+{"op":"mcm","clk":"7825324063","pt":1540587933336,"mc":[{"id":"1.150146694","rc":[{"ltp":490.0,"id":8413749}]}]}
+{"op":"mcm","clk":"7825330373","pt":1540587999353,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T19:37:00.000Z","suspendTime":"2018-10-26T19:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"ACTIVE","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T19:37:00.000Z","version":2477189190,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}
+{"op":"mcm","clk":"7825333618","pt":1540588034848,"mc":[{"id":"1.150146694","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974396","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T19:37:00.000Z","suspendTime":"2018-10-26T19:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-26T21:07:06.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8172416,"name":"Thanasi Kokkinakis"},{"status":"LOSER","sortPriority":2,"id":8413749,"name":"Darian King"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T19:37:00.000Z","version":2477190280,"name":"Match Odds","eventName":"Kokkinakis v D King"}}]}

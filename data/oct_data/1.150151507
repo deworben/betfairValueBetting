@@ -1,0 +1,70 @@
+{"op":"mcm","clk":"7811487685","pt":1540433517560,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T00:00:00.000Z","suspendTime":"2018-10-26T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T00:00:00.000Z","version":2474613766,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}
+{"op":"mcm","clk":"7811529186","pt":1540433988357,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-26T00:00:00.000Z","suspendTime":"2018-10-26T00:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-26T00:00:00.000Z","version":2474613766,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}
+{"op":"mcm","clk":"7812919588","pt":1540459271256,"mc":[{"id":"1.150151507","rc":[{"ltp":6.6,"id":8979695}]}]}
+{"op":"mcm","clk":"7813910045","pt":1540472319419,"mc":[{"id":"1.150151507","rc":[{"ltp":1.16,"id":19924841}]}]}
+{"op":"mcm","clk":"7815827579","pt":1540491196963,"mc":[{"id":"1.150151507","rc":[{"ltp":5.9,"id":8979695},{"ltp":1.2,"id":19924841}]}]}
+{"op":"mcm","clk":"7816545626","pt":1540497227236,"mc":[{"id":"1.150151507","rc":[{"ltp":6.6,"id":8979695},{"ltp":1.18,"id":19924841}]}]}
+{"op":"mcm","clk":"7816618214","pt":1540498071777,"mc":[{"id":"1.150151507","rc":[{"ltp":5.8,"id":8979695},{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7816854492","pt":1540501035498,"mc":[{"id":"1.150151507","rc":[{"ltp":5.4,"id":8979695},{"ltp":1.23,"id":19924841}]}]}
+{"op":"mcm","clk":"7816866330","pt":1540501306571,"mc":[{"id":"1.150151507","rc":[{"ltp":5.2,"id":8979695},{"ltp":1.24,"id":19924841}]}]}
+{"op":"mcm","clk":"7816906464","pt":1540501757125,"mc":[{"id":"1.150151507","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7816912668","pt":1540501860211,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7816947351","pt":1540502237212,"mc":[{"id":"1.150151507","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7816947586","pt":1540502242075,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7816984977","pt":1540503077832,"mc":[{"id":"1.150151507","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7817348826","pt":1540508515547,"mc":[{"id":"1.150151507","rc":[{"ltp":5.3,"id":8979695}]}]}
+{"op":"mcm","clk":"7817401053","pt":1540509283833,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7817436759","pt":1540509657031,"mc":[{"id":"1.150151507","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7817556759","pt":1540511410384,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7817566861","pt":1540511650888,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T23:52:00.000Z","suspendTime":"2018-10-25T23:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T23:52:00.000Z","version":2475639137,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}
+{"op":"mcm","clk":"7817570143","pt":1540511717292,"mc":[{"id":"1.150151507","rc":[{"ltp":1.23,"id":19924841}]}]}
+{"op":"mcm","clk":"7817577349","pt":1540511892477,"mc":[{"id":"1.150151507","rc":[{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7817583603","pt":1540512055838,"mc":[{"id":"1.150151507","rc":[{"ltp":1.23,"id":19924841}]}]}
+{"op":"mcm","clk":"7817607522","pt":1540512224384,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7817621675","pt":1540512558688,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T23:52:00.000Z","suspendTime":"2018-10-25T23:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T23:52:00.000Z","version":2475648179,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}
+{"op":"mcm","clk":"7817624367","pt":1540512618675,"mc":[{"id":"1.150151507","rc":[{"ltp":1.23,"id":19924841}]}]}
+{"op":"mcm","clk":"7817627189","pt":1540512678372,"mc":[{"id":"1.150151507","rc":[{"ltp":4.0,"id":8979695},{"ltp":1.24,"id":19924841}]}]}
+{"op":"mcm","clk":"7817629979","pt":1540512733895,"mc":[{"id":"1.150151507","rc":[{"ltp":4.7,"id":8979695}]}]}
+{"op":"mcm","clk":"7817632969","pt":1540512798300,"mc":[{"id":"1.150151507","rc":[{"ltp":5.5,"id":8979695},{"ltp":1.22,"id":19924841}]}]}
+{"op":"mcm","clk":"7817641879","pt":1540512977289,"mc":[{"id":"1.150151507","rc":[{"ltp":5.0,"id":8979695},{"ltp":1.3,"id":19924841}]}]}
+{"op":"mcm","clk":"7817660657","pt":1540513038408,"mc":[{"id":"1.150151507","rc":[{"ltp":3.55,"id":8979695},{"ltp":1.35,"id":19924841}]}]}
+{"op":"mcm","clk":"7817672030","pt":1540513277283,"mc":[{"id":"1.150151507","rc":[{"ltp":1.27,"id":19924841}]}]}
+{"op":"mcm","clk":"7817674023","pt":1540513325824,"mc":[{"id":"1.150151507","rc":[{"ltp":5.0,"id":8979695},{"ltp":1.25,"id":19924841}]}]}
+{"op":"mcm","clk":"7817677233","pt":1540513398293,"mc":[{"id":"1.150151507","rc":[{"ltp":1.21,"id":19924841}]}]}
+{"op":"mcm","clk":"7817679969","pt":1540513457063,"mc":[{"id":"1.150151507","rc":[{"ltp":5.1,"id":8979695}]}]}
+{"op":"mcm","clk":"7817684623","pt":1540513576668,"mc":[{"id":"1.150151507","rc":[{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7817687074","pt":1540513637527,"mc":[{"id":"1.150151507","rc":[{"ltp":10.5,"id":8979695},{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7817689002","pt":1540513697440,"mc":[{"id":"1.150151507","rc":[{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7817696642","pt":1540513877503,"mc":[{"id":"1.150151507","rc":[{"ltp":11.0,"id":8979695}]}]}
+{"op":"mcm","clk":"7817715045","pt":1540513938409,"mc":[{"id":"1.150151507","rc":[{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7817717823","pt":1540513995213,"mc":[{"id":"1.150151507","rc":[{"ltp":1.12,"id":19924841}]}]}
+{"op":"mcm","clk":"7817720828","pt":1540514058163,"mc":[{"id":"1.150151507","rc":[{"ltp":1.11,"id":19924841}]}]}
+{"op":"mcm","clk":"7817723686","pt":1540514117018,"mc":[{"id":"1.150151507","rc":[{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7817726220","pt":1540514174749,"mc":[{"id":"1.150151507","rc":[{"ltp":11.5,"id":8979695},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7817729391","pt":1540514238125,"mc":[{"id":"1.150151507","rc":[{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7817731923","pt":1540514294798,"mc":[{"id":"1.150151507","rc":[{"ltp":12.5,"id":8979695},{"ltp":1.09,"id":19924841}]}]}
+{"op":"mcm","clk":"7817734970","pt":1540514356959,"mc":[{"id":"1.150151507","rc":[{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7817738097","pt":1540514418316,"mc":[{"id":"1.150151507","rc":[{"ltp":1.08,"id":19924841}]}]}
+{"op":"mcm","clk":"7817741228","pt":1540514477777,"mc":[{"id":"1.150151507","rc":[{"ltp":1.1,"id":19924841}]}]}
+{"op":"mcm","clk":"7817747960","pt":1540514597145,"mc":[{"id":"1.150151507","rc":[{"ltp":13.5,"id":8979695},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7817750294","pt":1540514646216,"mc":[{"id":"1.150151507","rc":[{"ltp":1.07,"id":19924841}]}]}
+{"op":"mcm","clk":"7817753376","pt":1540514716526,"mc":[{"id":"1.150151507","rc":[{"ltp":16.0,"id":8979695},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7817756667","pt":1540514774952,"mc":[{"id":"1.150151507","rc":[{"ltp":18.0,"id":8979695}]}]}
+{"op":"mcm","clk":"7817775777","pt":1540514837804,"mc":[{"id":"1.150151507","rc":[{"ltp":19.5,"id":8979695},{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7817778390","pt":1540514889652,"mc":[{"id":"1.150151507","rc":[{"ltp":21.0,"id":8979695},{"ltp":1.06,"id":19924841}]}]}
+{"op":"mcm","clk":"7817781245","pt":1540514957727,"mc":[{"id":"1.150151507","rc":[{"ltp":1.05,"id":19924841}]}]}
+{"op":"mcm","clk":"7817783691","pt":1540515016122,"mc":[{"id":"1.150151507","rc":[{"ltp":1.04,"id":19924841}]}]}
+{"op":"mcm","clk":"7817785657","pt":1540515077924,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817792551","pt":1540515234157,"mc":[{"id":"1.150151507","rc":[{"ltp":1.01,"id":19924841}]}]}
+{"op":"mcm","clk":"7817796153","pt":1540515316295,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817804469","pt":1540515498508,"mc":[{"id":"1.150151507","rc":[{"ltp":50.0,"id":8979695}]}]}
+{"op":"mcm","clk":"7817807392","pt":1540515556081,"mc":[{"id":"1.150151507","rc":[{"ltp":1.01,"id":19924841}]}]}
+{"op":"mcm","clk":"7817840727","pt":1540515734870,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817849568","pt":1540515858481,"mc":[{"id":"1.150151507","rc":[{"ltp":34.0,"id":8979695},{"ltp":1.03,"id":19924841}]}]}
+{"op":"mcm","clk":"7817853163","pt":1540515916438,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817859027","pt":1540515947337,"mc":[{"id":"1.150151507","rc":[{"ltp":1.01,"id":19924841}]}]}
+{"op":"mcm","clk":"7817868829","pt":1540516034386,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817881348","pt":1540516217661,"mc":[{"id":"1.150151507","rc":[{"ltp":100.0,"id":8979695},{"ltp":1.01,"id":19924841}]}]}
+{"op":"mcm","clk":"7817899064","pt":1540516576026,"mc":[{"id":"1.150151507","rc":[{"ltp":1.02,"id":19924841}]}]}
+{"op":"mcm","clk":"7817918471","pt":1540516635170,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T23:52:00.000Z","suspendTime":"2018-10-25T23:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"ACTIVE","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T23:52:00.000Z","version":2475692958,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}
+{"op":"mcm","clk":"7817920526","pt":1540516671698,"mc":[{"id":"1.150151507","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28974576","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T23:52:00.000Z","suspendTime":"2018-10-25T23:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-26T01:17:47.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924841,"name":"Jordan Thompson"},{"status":"LOSER","sortPriority":2,"id":8979695,"name":"Aleksandar Vukic"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T23:52:00.000Z","version":2475693682,"name":"Match Odds","eventName":"Thompson v Vukic"}}]}

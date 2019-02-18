@@ -1,0 +1,98 @@
+{"op":"mcm","clk":"7733755382","pt":1540382366294,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T09:00:00.000Z","suspendTime":"2018-10-25T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T09:00:00.000Z","version":2473042301,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7733825206","pt":1540383056916,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T09:00:00.000Z","suspendTime":"2018-10-25T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T09:00:00.000Z","version":2473042301,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7734366867","pt":1540388842194,"mc":[{"id":"1.150107230","rc":[{"ltp":2.2,"id":7287690},{"ltp":1.84,"id":19924827}]}]}
+{"op":"mcm","clk":"7734860529","pt":1540393575472,"mc":[{"id":"1.150107230","rc":[{"ltp":2.64,"id":7287690},{"ltp":1.54,"id":19924827}]}]}
+{"op":"mcm","clk":"7735962286","pt":1540402128060,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:00:00.000Z","suspendTime":"2018-10-25T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2473777538,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7738152834","pt":1540429603430,"mc":[{"id":"1.150107230","rc":[{"ltp":2.56,"id":7287690},{"ltp":1.64,"id":19924827}]}]}
+{"op":"mcm","clk":"7739186026","pt":1540448923372,"mc":[{"id":"1.150107230","rc":[{"ltp":2.6,"id":7287690}]}]}
+{"op":"mcm","clk":"7739192765","pt":1540449087973,"mc":[{"id":"1.150107230","rc":[{"ltp":1.6,"id":19924827}]}]}
+{"op":"mcm","clk":"7739226877","pt":1540449621279,"mc":[{"id":"1.150107230","rc":[{"ltp":1.52,"id":19924827}]}]}
+{"op":"mcm","clk":"7739237014","pt":1540450034828,"mc":[{"id":"1.150107230","rc":[{"ltp":1.59,"id":19924827}]}]}
+{"op":"mcm","clk":"7739242505","pt":1540450271542,"mc":[{"id":"1.150107230","rc":[{"ltp":2.72,"id":7287690},{"ltp":1.58,"id":19924827}]}]}
+{"op":"mcm","clk":"7739261735","pt":1540450542146,"mc":[{"id":"1.150107230","rc":[{"ltp":2.66,"id":7287690},{"ltp":1.6,"id":19924827}]}]}
+{"op":"mcm","clk":"7739346106","pt":1540452343990,"mc":[{"id":"1.150107230","rc":[{"ltp":2.58,"id":7287690},{"ltp":1.64,"id":19924827}]}]}
+{"op":"mcm","clk":"7739595336","pt":1540456625653,"mc":[{"id":"1.150107230","rc":[{"ltp":1.61,"id":19924827}]}]}
+{"op":"mcm","clk":"7739679565","pt":1540458034897,"mc":[{"id":"1.150107230","rc":[{"ltp":2.48,"id":7287690}]}]}
+{"op":"mcm","clk":"7739683289","pt":1540458100238,"mc":[{"id":"1.150107230","rc":[{"ltp":2.36,"id":7287690}]}]}
+{"op":"mcm","clk":"7739847725","pt":1540460543071,"mc":[{"id":"1.150107230","rc":[{"ltp":1.67,"id":19924827}]}]}
+{"op":"mcm","clk":"7740093465","pt":1540463988060,"mc":[{"id":"1.150107230","rc":[{"ltp":1.65,"id":19924827}]}]}
+{"op":"mcm","clk":"7740705591","pt":1540472193446,"mc":[{"id":"1.150107230","rc":[{"ltp":1.66,"id":19924827}]}]}
+{"op":"mcm","clk":"7741050252","pt":1540475591714,"mc":[{"id":"1.150107230","rc":[{"ltp":2.5,"id":7287690},{"ltp":1.67,"id":19924827}]}]}
+{"op":"mcm","clk":"7741396386","pt":1540479025228,"mc":[{"id":"1.150107230","rc":[{"ltp":2.56,"id":7287690},{"ltp":1.64,"id":19924827}]}]}
+{"op":"mcm","clk":"7741431980","pt":1540479276127,"mc":[{"id":"1.150107230","rc":[{"ltp":1.59,"id":19924827}]}]}
+{"op":"mcm","clk":"7741438769","pt":1540479343697,"mc":[{"id":"1.150107230","rc":[{"ltp":2.72,"id":7287690},{"ltp":1.58,"id":19924827}]}]}
+{"op":"mcm","clk":"7741449876","pt":1540479460542,"mc":[{"id":"1.150107230","rc":[{"ltp":2.6,"id":7287690},{"ltp":1.61,"id":19924827}]}]}
+{"op":"mcm","clk":"7741559903","pt":1540480421929,"mc":[{"id":"1.150107230","rc":[{"ltp":1.59,"id":19924827}]}]}
+{"op":"mcm","clk":"7741936742","pt":1540483533700,"mc":[{"id":"1.150107230","rc":[{"ltp":2.72,"id":7287690}]}]}
+{"op":"mcm","clk":"7742018329","pt":1540484163174,"mc":[{"id":"1.150107230","rc":[{"ltp":1.58,"id":19924827}]}]}
+{"op":"mcm","clk":"7742195308","pt":1540485743639,"mc":[{"id":"1.150107230","rc":[{"ltp":2.7,"id":7287690},{"ltp":1.59,"id":19924827}]}]}
+{"op":"mcm","clk":"7742330159","pt":1540487019172,"mc":[{"id":"1.150107230","rc":[{"ltp":2.72,"id":7287690},{"ltp":1.57,"id":19924827}]}]}
+{"op":"mcm","clk":"7742429673","pt":1540487860811,"mc":[{"id":"1.150107230","rc":[{"ltp":1.55,"id":19924827}]}]}
+{"op":"mcm","clk":"7742472974","pt":1540488144665,"mc":[{"id":"1.150107230","rc":[{"ltp":1.54,"id":19924827}]}]}
+{"op":"mcm","clk":"7742479957","pt":1540488224073,"mc":[{"id":"1.150107230","rc":[{"ltp":2.76,"id":7287690},{"ltp":1.57,"id":19924827}]}]}
+{"op":"mcm","clk":"7742555734","pt":1540488937090,"mc":[{"id":"1.150107230","rc":[{"ltp":1.55,"id":19924827}]}]}
+{"op":"mcm","clk":"7742593909","pt":1540489141276,"mc":[{"id":"1.150107230","rc":[{"ltp":2.82,"id":7287690}]}]}
+{"op":"mcm","clk":"7742605269","pt":1540489239576,"mc":[{"id":"1.150107230","rc":[{"ltp":2.76,"id":7287690},{"ltp":1.57,"id":19924827}]}]}
+{"op":"mcm","clk":"7742610748","pt":1540489288036,"mc":[{"id":"1.150107230","rc":[{"ltp":2.8,"id":7287690},{"ltp":1.56,"id":19924827}]}]}
+{"op":"mcm","clk":"7742704796","pt":1540490078838,"mc":[{"id":"1.150107230","rc":[{"ltp":1.57,"id":19924827}]}]}
+{"op":"mcm","clk":"7742711190","pt":1540490144109,"mc":[{"id":"1.150107230","rc":[{"ltp":2.68,"id":7287690},{"ltp":1.59,"id":19924827}]}]}
+{"op":"mcm","clk":"7742716518","pt":1540490204253,"mc":[{"id":"1.150107230","rc":[{"ltp":1.6,"id":19924827}]}]}
+{"op":"mcm","clk":"7742728090","pt":1540490324048,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:15:00.000Z","suspendTime":"2018-10-25T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:00:00.000Z","version":2475297022,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7742734819","pt":1540490382847,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:15:00.000Z","suspendTime":"2018-10-25T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:15:00.000Z","version":2475297022,"name":"Match Odds","eventName":"Berankis v Halys"},"rc":[{"ltp":1.58,"id":19924827}]}]}
+{"op":"mcm","clk":"7742740485","pt":1540490429312,"mc":[{"id":"1.150107230","rc":[{"ltp":1.6,"id":19924827}]}]}
+{"op":"mcm","clk":"7742805169","pt":1540490840577,"mc":[{"id":"1.150107230","rc":[{"ltp":1.55,"id":19924827}]}]}
+{"op":"mcm","clk":"7742842649","pt":1540491158808,"mc":[{"id":"1.150107230","rc":[{"ltp":2.72,"id":7287690}]}]}
+{"op":"mcm","clk":"7742858605","pt":1540491284234,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:12:00.000Z","suspendTime":"2018-10-25T18:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:12:00.000Z","version":2475326985,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7742905504","pt":1540491704055,"mc":[{"id":"1.150107230","rc":[{"ltp":1.54,"id":19924827}]}]}
+{"op":"mcm","clk":"7742943710","pt":1540491929709,"mc":[{"id":"1.150107230","rc":[{"ltp":2.78,"id":7287690}]}]}
+{"op":"mcm","clk":"7742949619","pt":1540491997237,"mc":[{"id":"1.150107230","rc":[{"ltp":1.53,"id":19924827}]}]}
+{"op":"mcm","clk":"7742953857","pt":1540492046471,"mc":[{"id":"1.150107230","rc":[{"ltp":1.55,"id":19924827}]}]}
+{"op":"mcm","clk":"7742966939","pt":1540492172897,"mc":[{"id":"1.150107230","rc":[{"ltp":1.53,"id":19924827}]}]}
+{"op":"mcm","clk":"7742984736","pt":1540492304174,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:12:00.000Z","suspendTime":"2018-10-25T18:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:12:00.000Z","version":2475354809,"name":"Match Odds","eventName":"Berankis v Halys"},"rc":[{"ltp":2.82,"id":7287690},{"ltp":1.55,"id":19924827}]}]}
+{"op":"mcm","clk":"7742992927","pt":1540492364077,"mc":[{"id":"1.150107230","rc":[{"ltp":3.0,"id":7287690},{"ltp":1.5,"id":19924827}]}]}
+{"op":"mcm","clk":"7743000852","pt":1540492424165,"mc":[{"id":"1.150107230","rc":[{"ltp":2.76,"id":7287690},{"ltp":1.51,"id":19924827}]}]}
+{"op":"mcm","clk":"7743009122","pt":1540492483917,"mc":[{"id":"1.150107230","rc":[{"ltp":3.4,"id":7287690},{"ltp":1.4,"id":19924827}]}]}
+{"op":"mcm","clk":"7743016887","pt":1540492544151,"mc":[{"id":"1.150107230","rc":[{"ltp":4.3,"id":7287690},{"ltp":1.3,"id":19924827}]}]}
+{"op":"mcm","clk":"7743024259","pt":1540492604179,"mc":[{"id":"1.150107230","rc":[{"ltp":4.0,"id":7287690},{"ltp":1.34,"id":19924827}]}]}
+{"op":"mcm","clk":"7743047230","pt":1540492664083,"mc":[{"id":"1.150107230","rc":[{"ltp":4.1,"id":7287690},{"ltp":1.29,"id":19924827}]}]}
+{"op":"mcm","clk":"7743054528","pt":1540492724185,"mc":[{"id":"1.150107230","rc":[{"ltp":4.5,"id":7287690}]}]}
+{"op":"mcm","clk":"7743061527","pt":1540492783849,"mc":[{"id":"1.150107230","rc":[{"ltp":5.0,"id":7287690},{"ltp":1.25,"id":19924827}]}]}
+{"op":"mcm","clk":"7743069075","pt":1540492844150,"mc":[{"id":"1.150107230","rc":[{"ltp":1.22,"id":19924827}]}]}
+{"op":"mcm","clk":"7743076308","pt":1540492904063,"mc":[{"id":"1.150107230","rc":[{"ltp":4.6,"id":7287690},{"ltp":1.23,"id":19924827}]}]}
+{"op":"mcm","clk":"7743083821","pt":1540492963065,"mc":[{"id":"1.150107230","rc":[{"ltp":1.25,"id":19924827}]}]}
+{"op":"mcm","clk":"7743090818","pt":1540493023747,"mc":[{"id":"1.150107230","rc":[{"ltp":6.0,"id":7287690},{"ltp":1.26,"id":19924827}]}]}
+{"op":"mcm","clk":"7743097800","pt":1540493082721,"mc":[{"id":"1.150107230","rc":[{"ltp":4.8,"id":7287690},{"ltp":1.2,"id":19924827}]}]}
+{"op":"mcm","clk":"7743112353","pt":1540493203616,"mc":[{"id":"1.150107230","rc":[{"ltp":4.5,"id":7287690},{"ltp":1.27,"id":19924827}]}]}
+{"op":"mcm","clk":"7743118421","pt":1540493260122,"mc":[{"id":"1.150107230","rc":[{"ltp":4.8,"id":7287690},{"ltp":1.28,"id":19924827}]}]}
+{"op":"mcm","clk":"7743125493","pt":1540493323180,"mc":[{"id":"1.150107230","rc":[{"ltp":1.23,"id":19924827}]}]}
+{"op":"mcm","clk":"7743132075","pt":1540493382786,"mc":[{"id":"1.150107230","rc":[{"ltp":1.24,"id":19924827}]}]}
+{"op":"mcm","clk":"7743138496","pt":1540493442552,"mc":[{"id":"1.150107230","rc":[{"ltp":1.23,"id":19924827}]}]}
+{"op":"mcm","clk":"7743145262","pt":1540493503455,"mc":[{"id":"1.150107230","rc":[{"ltp":5.5,"id":7287690},{"ltp":1.21,"id":19924827}]}]}
+{"op":"mcm","clk":"7743168311","pt":1540493562936,"mc":[{"id":"1.150107230","rc":[{"ltp":6.0,"id":7287690},{"ltp":1.17,"id":19924827}]}]}
+{"op":"mcm","clk":"7743176338","pt":1540493623260,"mc":[{"id":"1.150107230","rc":[{"ltp":1.14,"id":19924827}]}]}
+{"op":"mcm","clk":"7743184176","pt":1540493683266,"mc":[{"id":"1.150107230","rc":[{"ltp":8.2,"id":7287690},{"ltp":1.15,"id":19924827}]}]}
+{"op":"mcm","clk":"7743192107","pt":1540493744243,"mc":[{"id":"1.150107230","rc":[{"ltp":8.6,"id":7287690},{"ltp":1.13,"id":19924827}]}]}
+{"op":"mcm","clk":"7743199638","pt":1540493803371,"mc":[{"id":"1.150107230","rc":[{"ltp":1.12,"id":19924827}]}]}
+{"op":"mcm","clk":"7743206496","pt":1540493860776,"mc":[{"id":"1.150107230","rc":[{"ltp":1.13,"id":19924827}]}]}
+{"op":"mcm","clk":"7743220950","pt":1540493983211,"mc":[{"id":"1.150107230","rc":[{"ltp":9.2,"id":7287690},{"ltp":1.12,"id":19924827}]}]}
+{"op":"mcm","clk":"7743228909","pt":1540494043384,"mc":[{"id":"1.150107230","rc":[{"ltp":8.6,"id":7287690}]}]}
+{"op":"mcm","clk":"7743236579","pt":1540494100280,"mc":[{"id":"1.150107230","rc":[{"ltp":9.4,"id":7287690}]}]}
+{"op":"mcm","clk":"7743245226","pt":1540494164174,"mc":[{"id":"1.150107230","rc":[{"ltp":1.11,"id":19924827}]}]}
+{"op":"mcm","clk":"7743253552","pt":1540494223294,"mc":[{"id":"1.150107230","rc":[{"ltp":10.5,"id":7287690}]}]}
+{"op":"mcm","clk":"7743261795","pt":1540494283508,"mc":[{"id":"1.150107230","rc":[{"ltp":1.12,"id":19924827}]}]}
+{"op":"mcm","clk":"7743270512","pt":1540494343119,"mc":[{"id":"1.150107230","rc":[{"ltp":11.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743304087","pt":1540494460333,"mc":[{"id":"1.150107230","rc":[{"ltp":13.5,"id":7287690},{"ltp":1.08,"id":19924827}]}]}
+{"op":"mcm","clk":"7743314573","pt":1540494523901,"mc":[{"id":"1.150107230","rc":[{"ltp":34.0,"id":7287690},{"ltp":1.03,"id":19924827}]}]}
+{"op":"mcm","clk":"7743325025","pt":1540494584008,"mc":[{"id":"1.150107230","rc":[{"ltp":36.0,"id":7287690},{"ltp":1.04,"id":19924827}]}]}
+{"op":"mcm","clk":"7743334604","pt":1540494643347,"mc":[{"id":"1.150107230","rc":[{"ltp":34.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743344235","pt":1540494703789,"mc":[{"id":"1.150107230","rc":[{"ltp":1.03,"id":19924827}]}]}
+{"op":"mcm","clk":"7743352848","pt":1540494762144,"mc":[{"id":"1.150107230","rc":[{"ltp":26.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743362736","pt":1540494823374,"mc":[{"id":"1.150107230","rc":[{"ltp":34.0,"id":7287690},{"ltp":1.02,"id":19924827}]}]}
+{"op":"mcm","clk":"7743370945","pt":1540494879210,"mc":[{"id":"1.150107230","rc":[{"ltp":1.01,"id":19924827}]}]}
+{"op":"mcm","clk":"7743398054","pt":1540495059638,"mc":[{"id":"1.150107230","rc":[{"ltp":190.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743493221","pt":1540495603214,"mc":[{"id":"1.150107230","rc":[{"ltp":480.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743535443","pt":1540495904003,"mc":[{"id":"1.150107230","rc":[{"ltp":150.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743543604","pt":1540495964064,"mc":[{"id":"1.150107230","rc":[{"ltp":140.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743552113","pt":1540496023555,"mc":[{"id":"1.150107230","rc":[{"ltp":190.0,"id":7287690}]}]}
+{"op":"mcm","clk":"7743560354","pt":1540496081115,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:12:00.000Z","suspendTime":"2018-10-25T18:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"ACTIVE","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:12:00.000Z","version":2475467406,"name":"Match Odds","eventName":"Berankis v Halys"}}]}
+{"op":"mcm","clk":"7743561328","pt":1540496088322,"mc":[{"id":"1.150107230","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973359","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T18:12:00.000Z","suspendTime":"2018-10-25T18:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T19:34:40.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":19924827,"name":"Ricardas Berankis"},{"status":"LOSER","sortPriority":2,"id":7287690,"name":"Quentin Halys"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T18:12:00.000Z","version":2475467432,"name":"Match Odds","eventName":"Berankis v Halys"}}]}

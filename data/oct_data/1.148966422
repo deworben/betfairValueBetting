@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7597322540","pt":1538425225273,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T16:00:00.000Z","suspendTime":"2018-10-02T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T16:00:00.000Z","version":2433505536,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7597356138","pt":1538425738827,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T16:00:00.000Z","suspendTime":"2018-10-02T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T16:00:00.000Z","version":2433505536,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7597461048","pt":1538427865733,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T18:00:00.000Z","suspendTime":"2018-10-02T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T18:00:00.000Z","version":2433534128,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7599593610","pt":1538463829428,"mc":[{"id":"1.148966422","rc":[{"ltp":1.21,"id":2415499}]}]}
+{"op":"mcm","clk":"7599972934","pt":1538468852393,"mc":[{"id":"1.148966422","rc":[{"ltp":1.2,"id":2415499}]}]}
+{"op":"mcm","clk":"7602622816","pt":1538495257467,"mc":[{"id":"1.148966422","rc":[{"ltp":1.21,"id":2415499}]}]}
+{"op":"mcm","clk":"7602753948","pt":1538496272736,"mc":[{"id":"1.148966422","rc":[{"ltp":1.22,"id":2415499}]}]}
+{"op":"mcm","clk":"7602761388","pt":1538496331039,"mc":[{"id":"1.148966422","rc":[{"ltp":1.19,"id":2415499},{"ltp":5.7,"id":4903608}]}]}
+{"op":"mcm","clk":"7602768771","pt":1538496392028,"mc":[{"id":"1.148966422","rc":[{"ltp":1.17,"id":2415499}]}]}
+{"op":"mcm","clk":"7602775913","pt":1538496452503,"mc":[{"id":"1.148966422","rc":[{"ltp":1.18,"id":2415499},{"ltp":6.6,"id":4903608}]}]}
+{"op":"mcm","clk":"7602803910","pt":1538496687933,"mc":[{"id":"1.148966422","rc":[{"ltp":1.17,"id":2415499}]}]}
+{"op":"mcm","clk":"7603261682","pt":1538499989661,"mc":[{"id":"1.148966422","rc":[{"ltp":1.2,"id":2415499},{"ltp":6.2,"id":4903608}]}]}
+{"op":"mcm","clk":"7603549785","pt":1538502199862,"mc":[{"id":"1.148966422","rc":[{"ltp":1.18,"id":2415499}]}]}
+{"op":"mcm","clk":"7603631018","pt":1538502871084,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T17:52:00.000Z","suspendTime":"2018-10-02T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T17:52:00.000Z","version":2434313143,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7603637450","pt":1538502929164,"mc":[{"id":"1.148966422","rc":[{"ltp":1.2,"id":2415499},{"ltp":6.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603643168","pt":1538502977087,"mc":[{"id":"1.148966422","rc":[{"ltp":1.18,"id":2415499},{"ltp":6.8,"id":4903608}]}]}
+{"op":"mcm","clk":"7603679234","pt":1538503171083,"mc":[{"id":"1.148966422","rc":[{"ltp":1.19,"id":2415499}]}]}
+{"op":"mcm","clk":"7603701263","pt":1538503340245,"mc":[{"id":"1.148966422","rc":[{"ltp":1.18,"id":2415499}]}]}
+{"op":"mcm","clk":"7603726352","pt":1538503531856,"mc":[{"id":"1.148966422","rc":[{"ltp":1.17,"id":2415499}]}]}
+{"op":"mcm","clk":"7603734187","pt":1538503592499,"mc":[{"id":"1.148966422","rc":[{"ltp":1.18,"id":2415499}]}]}
+{"op":"mcm","clk":"7603741540","pt":1538503649245,"mc":[{"id":"1.148966422","rc":[{"ltp":1.17,"id":2415499}]}]}
+{"op":"mcm","clk":"7603749728","pt":1538503712557,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T17:52:00.000Z","suspendTime":"2018-10-02T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T17:52:00.000Z","version":2434336243,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7603757109","pt":1538503769255,"mc":[{"id":"1.148966422","rc":[{"ltp":1.24,"id":2415499}]}]}
+{"op":"mcm","clk":"7603765629","pt":1538503832716,"mc":[{"id":"1.148966422","rc":[{"ltp":1.26,"id":2415499},{"ltp":4.8,"id":4903608}]}]}
+{"op":"mcm","clk":"7603773392","pt":1538503893128,"mc":[{"id":"1.148966422","rc":[{"ltp":1.21,"id":2415499}]}]}
+{"op":"mcm","clk":"7603801159","pt":1538504013079,"mc":[{"id":"1.148966422","rc":[{"ltp":1.23,"id":2415499},{"ltp":6.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603809257","pt":1538504073293,"mc":[{"id":"1.148966422","rc":[{"ltp":1.21,"id":2415499},{"ltp":5.7,"id":4903608}]}]}
+{"op":"mcm","clk":"7603825983","pt":1538504189903,"mc":[{"id":"1.148966422","rc":[{"ltp":1.25,"id":2415499},{"ltp":5.1,"id":4903608}]}]}
+{"op":"mcm","clk":"7603834301","pt":1538504252311,"mc":[{"id":"1.148966422","rc":[{"ltp":1.2,"id":2415499},{"ltp":5.7,"id":4903608}]}]}
+{"op":"mcm","clk":"7603842467","pt":1538504310787,"mc":[{"id":"1.148966422","rc":[{"ltp":6.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603851305","pt":1538504372576,"mc":[{"id":"1.148966422","rc":[{"ltp":1.22,"id":2415499},{"ltp":5.1,"id":4903608}]}]}
+{"op":"mcm","clk":"7603859313","pt":1538504433111,"mc":[{"id":"1.148966422","rc":[{"ltp":5.6,"id":4903608}]}]}
+{"op":"mcm","clk":"7603866765","pt":1538504492821,"mc":[{"id":"1.148966422","rc":[{"ltp":1.15,"id":2415499},{"ltp":6.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603873201","pt":1538504551645,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603879776","pt":1538504611401,"mc":[{"id":"1.148966422","rc":[{"ltp":13.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7603887077","pt":1538504672670,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7603893970","pt":1538504731986,"mc":[{"id":"1.148966422","rc":[{"ltp":1.07,"id":2415499},{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603901039","pt":1538504791268,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499},{"ltp":13.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7603919139","pt":1538504843250,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603933892","pt":1538504968719,"mc":[{"id":"1.148966422","rc":[{"ltp":1.11,"id":2415499}]}]}
+{"op":"mcm","clk":"7603950388","pt":1538505090842,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7603958401","pt":1538505150053,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":13.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7603965877","pt":1538505208839,"mc":[{"id":"1.148966422","rc":[{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603975158","pt":1538505272674,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7603984738","pt":1538505333323,"mc":[{"id":"1.148966422","rc":[{"ltp":1.06,"id":2415499},{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7603992553","pt":1538505388501,"mc":[{"id":"1.148966422","rc":[{"ltp":17.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604010172","pt":1538505512918,"mc":[{"id":"1.148966422","rc":[{"ltp":1.07,"id":2415499},{"ltp":18.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604020038","pt":1538505573252,"mc":[{"id":"1.148966422","rc":[{"ltp":1.06,"id":2415499},{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604029384","pt":1538505632920,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7604057095","pt":1538505751940,"mc":[{"id":"1.148966422","rc":[{"ltp":1.06,"id":2415499},{"ltp":17.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604064929","pt":1538505810686,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499},{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604082384","pt":1538505931807,"mc":[{"id":"1.148966422","rc":[{"ltp":13.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604091939","pt":1538505992538,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604102685","pt":1538506052767,"mc":[{"id":"1.148966422","rc":[{"ltp":13.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604113102","pt":1538506111518,"mc":[{"id":"1.148966422","rc":[{"ltp":1.1,"id":2415499}]}]}
+{"op":"mcm","clk":"7604123293","pt":1538506170253,"mc":[{"id":"1.148966422","rc":[{"ltp":1.07,"id":2415499}]}]}
+{"op":"mcm","clk":"7604134577","pt":1538506233227,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7604145681","pt":1538506293229,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604167223","pt":1538506412855,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7604178178","pt":1538506470318,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":13.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604189236","pt":1538506532963,"mc":[{"id":"1.148966422","rc":[{"ltp":12.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604199578","pt":1538506593288,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7604222386","pt":1538506653203,"mc":[{"id":"1.148966422","rc":[{"ltp":11.5,"id":4903608}]}]}
+{"op":"mcm","clk":"7604233635","pt":1538506713330,"mc":[{"id":"1.148966422","rc":[{"ltp":1.07,"id":2415499},{"ltp":11.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604244984","pt":1538506773093,"mc":[{"id":"1.148966422","rc":[{"ltp":15.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604255707","pt":1538506831079,"mc":[{"id":"1.148966422","rc":[{"ltp":1.1,"id":2415499},{"ltp":11.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604267287","pt":1538506893287,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499},{"ltp":12.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604278162","pt":1538506952586,"mc":[{"id":"1.148966422","rc":[{"ltp":1.1,"id":2415499},{"ltp":10.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604289000","pt":1538507011814,"mc":[{"id":"1.148966422","rc":[{"ltp":1.09,"id":2415499}]}]}
+{"op":"mcm","clk":"7604300359","pt":1538507073283,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499}]}]}
+{"op":"mcm","clk":"7604311859","pt":1538507132187,"mc":[{"id":"1.148966422","rc":[{"ltp":1.1,"id":2415499}]}]}
+{"op":"mcm","clk":"7604322829","pt":1538507190364,"mc":[{"id":"1.148966422","rc":[{"ltp":1.08,"id":2415499},{"ltp":11.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604335275","pt":1538507253204,"mc":[{"id":"1.148966422","rc":[{"ltp":1.05,"id":2415499},{"ltp":21.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604346340","pt":1538507311368,"mc":[{"id":"1.148966422","rc":[{"ltp":1.01,"id":2415499},{"ltp":55.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604381214","pt":1538507492221,"mc":[{"id":"1.148966422","rc":[{"ltp":100.0,"id":4903608}]}]}
+{"op":"mcm","clk":"7604404437","pt":1538507551338,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T17:52:00.000Z","suspendTime":"2018-10-02T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"ACTIVE","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T17:52:00.000Z","version":2434483839,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}
+{"op":"mcm","clk":"7604405575","pt":1538507557203,"mc":[{"id":"1.148966422","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28934291","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T17:52:00.000Z","suspendTime":"2018-10-02T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-02T19:12:33.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4903608,"name":"Pavel Krainik"},{"status":"WINNER","sortPriority":2,"id":2415499,"name":"Santiago Giraldo"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T17:52:00.000Z","version":2434484717,"name":"Match Odds","eventName":"Krainik v Giraldo"}}]}

@@ -1,0 +1,120 @@
+{"op":"mcm","clk":"7612229361","pt":1539103829653,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447488506,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7612250492","pt":1539104003338,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447488506,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7612255421","pt":1539104070603,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:00:00.000Z","suspendTime":"2018-10-10T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2447491425,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7612255715","pt":1539104073634,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:00:00.000Z","suspendTime":"2018-10-10T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:00:00.000Z","version":2447491425,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7614044164","pt":1539122321744,"mc":[{"id":"1.149319376","rc":[{"ltp":1.57,"id":8842295}]}]}
+{"op":"mcm","clk":"7615009904","pt":1539140415838,"mc":[{"id":"1.149319376","rc":[{"ltp":1.6,"id":8842295}]}]}
+{"op":"mcm","clk":"7615445051","pt":1539149217452,"mc":[{"id":"1.149319376","rc":[{"ltp":1.58,"id":8842295}]}]}
+{"op":"mcm","clk":"7615640541","pt":1539152448748,"mc":[{"id":"1.149319376","rc":[{"ltp":1.56,"id":8842295}]}]}
+{"op":"mcm","clk":"7615736809","pt":1539154255560,"mc":[{"id":"1.149319376","rc":[{"ltp":2.6,"id":5224080}]}]}
+{"op":"mcm","clk":"7615836455","pt":1539155968364,"mc":[{"id":"1.149319376","rc":[{"ltp":2.52,"id":5224080},{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7615838860","pt":1539156024295,"mc":[{"id":"1.149319376","rc":[{"ltp":1.61,"id":8842295}]}]}
+{"op":"mcm","clk":"7615895960","pt":1539156984792,"mc":[{"id":"1.149319376","rc":[{"ltp":2.4,"id":5224080},{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7616007267","pt":1539158619820,"mc":[{"id":"1.149319376","rc":[{"ltp":2.26,"id":5224080},{"ltp":1.7,"id":8842295}]}]}
+{"op":"mcm","clk":"7616210597","pt":1539161589021,"mc":[{"id":"1.149319376","rc":[{"ltp":2.48,"id":5224080}]}]}
+{"op":"mcm","clk":"7616363392","pt":1539163592357,"mc":[{"id":"1.149319376","rc":[{"ltp":1.68,"id":8842295}]}]}
+{"op":"mcm","clk":"7616364557","pt":1539163608218,"mc":[{"id":"1.149319376","rc":[{"ltp":1.67,"id":8842295}]}]}
+{"op":"mcm","clk":"7616435726","pt":1539164486461,"mc":[{"id":"1.149319376","rc":[{"ltp":2.52,"id":5224080},{"ltp":1.65,"id":8842295}]}]}
+{"op":"mcm","clk":"7616499709","pt":1539165244805,"mc":[{"id":"1.149319376","rc":[{"ltp":2.34,"id":5224080},{"ltp":1.7,"id":8842295}]}]}
+{"op":"mcm","clk":"7616773601","pt":1539167841614,"mc":[{"id":"1.149319376","rc":[{"ltp":1.68,"id":8842295}]}]}
+{"op":"mcm","clk":"7616799513","pt":1539168092412,"mc":[{"id":"1.149319376","rc":[{"ltp":2.26,"id":5224080}]}]}
+{"op":"mcm","clk":"7616799959","pt":1539168096637,"mc":[{"id":"1.149319376","rc":[{"ltp":1.7,"id":8842295}]}]}
+{"op":"mcm","clk":"7616823684","pt":1539168323554,"mc":[{"id":"1.149319376","rc":[{"ltp":2.3,"id":5224080}]}]}
+{"op":"mcm","clk":"7616830771","pt":1539168388517,"mc":[{"id":"1.149319376","rc":[{"ltp":2.26,"id":5224080},{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7616836751","pt":1539168448418,"mc":[{"id":"1.149319376","rc":[{"ltp":1.72,"id":8842295}]}]}
+{"op":"mcm","clk":"7616848657","pt":1539168571298,"mc":[{"id":"1.149319376","rc":[{"ltp":2.3,"id":5224080},{"ltp":1.7,"id":8842295}]}]}
+{"op":"mcm","clk":"7616854472","pt":1539168628172,"mc":[{"id":"1.149319376","rc":[{"ltp":2.28,"id":5224080}]}]}
+{"op":"mcm","clk":"7616887768","pt":1539168870377,"mc":[{"id":"1.149319376","rc":[{"ltp":1.79,"id":8842295}]}]}
+{"op":"mcm","clk":"7616912150","pt":1539169109990,"mc":[{"id":"1.149319376","rc":[{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7617232356","pt":1539171676065,"mc":[{"id":"1.149319376","rc":[{"ltp":2.26,"id":5224080}]}]}
+{"op":"mcm","clk":"7617249542","pt":1539171812184,"mc":[{"id":"1.149319376","rc":[{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7617295112","pt":1539172233984,"mc":[{"id":"1.149319376","rc":[{"ltp":1.81,"id":8842295}]}]}
+{"op":"mcm","clk":"7617333663","pt":1539172532011,"mc":[{"id":"1.149319376","rc":[{"ltp":2.24,"id":5224080}]}]}
+{"op":"mcm","clk":"7617358527","pt":1539172771492,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:15:00.000Z","suspendTime":"2018-10-10T12:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:15:00.000Z","version":2448413092,"name":"Match Odds","eventName":"Barrere v Pavic"},"rc":[{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7617395689","pt":1539173112837,"mc":[{"id":"1.149319376","rc":[{"ltp":1.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7617431896","pt":1539173370443,"mc":[{"id":"1.149319376","rc":[{"ltp":2.28,"id":5224080},{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7617465214","pt":1539173671505,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:30:00.000Z","suspendTime":"2018-10-10T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:30:00.000Z","version":2448428398,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7617546569","pt":1539174330510,"mc":[{"id":"1.149319376","rc":[{"ltp":2.3,"id":5224080}]}]}
+{"op":"mcm","clk":"7617550437","pt":1539174361981,"mc":[{"id":"1.149319376","rc":[{"ltp":2.28,"id":5224080},{"ltp":1.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7617574483","pt":1539174570865,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:26:00.000Z","suspendTime":"2018-10-10T12:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:30:00.000Z","version":2448448585,"name":"Match Odds","eventName":"Barrere v Pavic"},"rc":[{"ltp":2.26,"id":5224080},{"ltp":1.79,"id":8842295}]}]}
+{"op":"mcm","clk":"7617581747","pt":1539174632168,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:26:00.000Z","suspendTime":"2018-10-10T12:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:26:00.000Z","version":2448448585,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}
+{"op":"mcm","clk":"7617594565","pt":1539174749433,"mc":[{"id":"1.149319376","rc":[{"ltp":1.74,"id":8842295}]}]}
+{"op":"mcm","clk":"7617599606","pt":1539174794639,"mc":[{"id":"1.149319376","rc":[{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7617605251","pt":1539174848849,"mc":[{"id":"1.149319376","rc":[{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7617648850","pt":1539175168899,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:26:00.000Z","suspendTime":"2018-10-10T12:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:26:00.000Z","version":2448459226,"name":"Match Odds","eventName":"Barrere v Pavic"},"rc":[{"ltp":2.08,"id":5224080},{"ltp":1.93,"id":8842295}]}]}
+{"op":"mcm","clk":"7617655035","pt":1539175228817,"mc":[{"id":"1.149319376","rc":[{"ltp":2.34,"id":5224080},{"ltp":1.75,"id":8842295}]}]}
+{"op":"mcm","clk":"7617661586","pt":1539175292595,"mc":[{"id":"1.149319376","rc":[{"ltp":2.46,"id":5224080},{"ltp":1.68,"id":8842295}]}]}
+{"op":"mcm","clk":"7617668168","pt":1539175351479,"mc":[{"id":"1.149319376","rc":[{"ltp":2.6,"id":5224080},{"ltp":1.61,"id":8842295}]}]}
+{"op":"mcm","clk":"7617674508","pt":1539175409217,"mc":[{"id":"1.149319376","rc":[{"ltp":2.48,"id":5224080},{"ltp":1.69,"id":8842295}]}]}
+{"op":"mcm","clk":"7617681406","pt":1539175471899,"mc":[{"id":"1.149319376","rc":[{"ltp":1.74,"id":8842295}]}]}
+{"op":"mcm","clk":"7617687016","pt":1539175532509,"mc":[{"id":"1.149319376","rc":[{"ltp":2.4,"id":5224080},{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7617692318","pt":1539175590615,"mc":[{"id":"1.149319376","rc":[{"ltp":2.46,"id":5224080},{"ltp":1.68,"id":8842295}]}]}
+{"op":"mcm","clk":"7617698066","pt":1539175652340,"mc":[{"id":"1.149319376","rc":[{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7617703643","pt":1539175712168,"mc":[{"id":"1.149319376","rc":[{"ltp":2.28,"id":5224080},{"ltp":1.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7617709204","pt":1539175771262,"mc":[{"id":"1.149319376","rc":[{"ltp":2.26,"id":5224080},{"ltp":1.8,"id":8842295}]}]}
+{"op":"mcm","clk":"7617714582","pt":1539175828884,"mc":[{"id":"1.149319376","rc":[{"ltp":2.46,"id":5224080},{"ltp":1.69,"id":8842295}]}]}
+{"op":"mcm","clk":"7617734287","pt":1539175949604,"mc":[{"id":"1.149319376","rc":[{"ltp":2.5,"id":5224080},{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7617740494","pt":1539176012199,"mc":[{"id":"1.149319376","rc":[{"ltp":2.6,"id":5224080},{"ltp":1.63,"id":8842295}]}]}
+{"op":"mcm","clk":"7617746766","pt":1539176071723,"mc":[{"id":"1.149319376","rc":[{"ltp":2.3,"id":5224080},{"ltp":1.72,"id":8842295}]}]}
+{"op":"mcm","clk":"7617752769","pt":1539176132269,"mc":[{"id":"1.149319376","rc":[{"ltp":2.16,"id":5224080},{"ltp":1.78,"id":8842295}]}]}
+{"op":"mcm","clk":"7617759130","pt":1539176190497,"mc":[{"id":"1.149319376","rc":[{"ltp":2.52,"id":5224080},{"ltp":1.72,"id":8842295}]}]}
+{"op":"mcm","clk":"7617763596","pt":1539176227649,"mc":[{"id":"1.149319376","rc":[{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7617773182","pt":1539176312257,"mc":[{"id":"1.149319376","rc":[{"ltp":2.6,"id":5224080},{"ltp":1.63,"id":8842295}]}]}
+{"op":"mcm","clk":"7617786268","pt":1539176429628,"mc":[{"id":"1.149319376","rc":[{"ltp":2.44,"id":5224080},{"ltp":1.68,"id":8842295}]}]}
+{"op":"mcm","clk":"7617793680","pt":1539176492504,"mc":[{"id":"1.149319376","rc":[{"ltp":2.52,"id":5224080},{"ltp":1.66,"id":8842295}]}]}
+{"op":"mcm","clk":"7617801499","pt":1539176552609,"mc":[{"id":"1.149319376","rc":[{"ltp":2.46,"id":5224080},{"ltp":1.71,"id":8842295}]}]}
+{"op":"mcm","clk":"7617809401","pt":1539176612505,"mc":[{"id":"1.149319376","rc":[{"ltp":2.78,"id":5224080},{"ltp":1.58,"id":8842295}]}]}
+{"op":"mcm","clk":"7617817434","pt":1539176672243,"mc":[{"id":"1.149319376","rc":[{"ltp":2.72,"id":5224080}]}]}
+{"op":"mcm","clk":"7617826169","pt":1539176732473,"mc":[{"id":"1.149319376","rc":[{"ltp":1.67,"id":8842295}]}]}
+{"op":"mcm","clk":"7617835107","pt":1539176791765,"mc":[{"id":"1.149319376","rc":[{"ltp":2.62,"id":5224080},{"ltp":1.61,"id":8842295}]}]}
+{"op":"mcm","clk":"7617852697","pt":1539176852336,"mc":[{"id":"1.149319376","rc":[{"ltp":2.64,"id":5224080},{"ltp":1.58,"id":8842295}]}]}
+{"op":"mcm","clk":"7617860774","pt":1539176911634,"mc":[{"id":"1.149319376","rc":[{"ltp":2.52,"id":5224080},{"ltp":1.62,"id":8842295}]}]}
+{"op":"mcm","clk":"7617869468","pt":1539176972560,"mc":[{"id":"1.149319376","rc":[{"ltp":2.46,"id":5224080},{"ltp":1.64,"id":8842295}]}]}
+{"op":"mcm","clk":"7617877888","pt":1539177029081,"mc":[{"id":"1.149319376","rc":[{"ltp":2.76,"id":5224080},{"ltp":1.57,"id":8842295}]}]}
+{"op":"mcm","clk":"7617886939","pt":1539177090743,"mc":[{"id":"1.149319376","rc":[{"ltp":2.74,"id":5224080}]}]}
+{"op":"mcm","clk":"7617895828","pt":1539177152408,"mc":[{"id":"1.149319376","rc":[{"ltp":1.61,"id":8842295}]}]}
+{"op":"mcm","clk":"7617904291","pt":1539177212582,"mc":[{"id":"1.149319376","rc":[{"ltp":1.67,"id":8842295}]}]}
+{"op":"mcm","clk":"7617912479","pt":1539177271776,"mc":[{"id":"1.149319376","rc":[{"ltp":2.8,"id":5224080},{"ltp":1.54,"id":8842295}]}]}
+{"op":"mcm","clk":"7617921570","pt":1539177332592,"mc":[{"id":"1.149319376","rc":[{"ltp":4.7,"id":5224080},{"ltp":1.28,"id":8842295}]}]}
+{"op":"mcm","clk":"7617930171","pt":1539177392444,"mc":[{"id":"1.149319376","rc":[{"ltp":5.1,"id":5224080},{"ltp":1.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7617938978","pt":1539177452184,"mc":[{"id":"1.149319376","rc":[{"ltp":6.2,"id":5224080},{"ltp":1.19,"id":8842295}]}]}
+{"op":"mcm","clk":"7617947181","pt":1539177511788,"mc":[{"id":"1.149319376","rc":[{"ltp":1.17,"id":8842295}]}]}
+{"op":"mcm","clk":"7617955849","pt":1539177571718,"mc":[{"id":"1.149319376","rc":[{"ltp":1.19,"id":8842295}]}]}
+{"op":"mcm","clk":"7617965053","pt":1539177632549,"mc":[{"id":"1.149319376","rc":[{"ltp":6.4,"id":5224080},{"ltp":1.18,"id":8842295}]}]}
+{"op":"mcm","clk":"7617973832","pt":1539177691998,"mc":[{"id":"1.149319376","rc":[{"ltp":6.2,"id":5224080},{"ltp":1.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7617991236","pt":1539177751943,"mc":[{"id":"1.149319376","rc":[{"ltp":5.4,"id":5224080},{"ltp":1.24,"id":8842295}]}]}
+{"op":"mcm","clk":"7618000395","pt":1539177812187,"mc":[{"id":"1.149319376","rc":[{"ltp":1.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7618009634","pt":1539177872457,"mc":[{"id":"1.149319376","rc":[{"ltp":1.27,"id":8842295}]}]}
+{"op":"mcm","clk":"7618017695","pt":1539177925544,"mc":[{"id":"1.149319376","rc":[{"ltp":6.0,"id":5224080},{"ltp":1.2,"id":8842295}]}]}
+{"op":"mcm","clk":"7618036289","pt":1539178052596,"mc":[{"id":"1.149319376","rc":[{"ltp":1.19,"id":8842295}]}]}
+{"op":"mcm","clk":"7618044754","pt":1539178111364,"mc":[{"id":"1.149319376","rc":[{"ltp":1.23,"id":8842295}]}]}
+{"op":"mcm","clk":"7618052826","pt":1539178172551,"mc":[{"id":"1.149319376","rc":[{"ltp":1.28,"id":8842295}]}]}
+{"op":"mcm","clk":"7618061257","pt":1539178232016,"mc":[{"id":"1.149319376","rc":[{"ltp":5.1,"id":5224080},{"ltp":1.26,"id":8842295}]}]}
+{"op":"mcm","clk":"7618069264","pt":1539178289499,"mc":[{"id":"1.149319376","rc":[{"ltp":5.7,"id":5224080},{"ltp":1.21,"id":8842295}]}]}
+{"op":"mcm","clk":"7618078065","pt":1539178350651,"mc":[{"id":"1.149319376","rc":[{"ltp":5.0,"id":5224080},{"ltp":1.25,"id":8842295}]}]}
+{"op":"mcm","clk":"7618087455","pt":1539178411899,"mc":[{"id":"1.149319376","rc":[{"ltp":4.7,"id":5224080},{"ltp":1.27,"id":8842295}]}]}
+{"op":"mcm","clk":"7618096435","pt":1539178470696,"mc":[{"id":"1.149319376","rc":[{"ltp":1.26,"id":8842295}]}]}
+{"op":"mcm","clk":"7618105753","pt":1539178532340,"mc":[{"id":"1.149319376","rc":[{"ltp":5.4,"id":5224080},{"ltp":1.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7618114611","pt":1539178592574,"mc":[{"id":"1.149319376","rc":[{"ltp":5.9,"id":5224080},{"ltp":1.19,"id":8842295}]}]}
+{"op":"mcm","clk":"7618131654","pt":1539178652579,"mc":[{"id":"1.149319376","rc":[{"ltp":5.7,"id":5224080},{"ltp":1.17,"id":8842295}]}]}
+{"op":"mcm","clk":"7618140138","pt":1539178712465,"mc":[{"id":"1.149319376","rc":[{"ltp":6.2,"id":5224080},{"ltp":1.2,"id":8842295}]}]}
+{"op":"mcm","clk":"7618149234","pt":1539178772606,"mc":[{"id":"1.149319376","rc":[{"ltp":6.4,"id":5224080},{"ltp":1.19,"id":8842295}]}]}
+{"op":"mcm","clk":"7618158157","pt":1539178832554,"mc":[{"id":"1.149319376","rc":[{"ltp":1.22,"id":8842295}]}]}
+{"op":"mcm","clk":"7618166427","pt":1539178891005,"mc":[{"id":"1.149319376","rc":[{"ltp":1.24,"id":8842295}]}]}
+{"op":"mcm","clk":"7618182969","pt":1539179012157,"mc":[{"id":"1.149319376","rc":[{"ltp":5.7,"id":5224080},{"ltp":1.21,"id":8842295}]}]}
+{"op":"mcm","clk":"7618191568","pt":1539179071517,"mc":[{"id":"1.149319376","rc":[{"ltp":5.0,"id":5224080},{"ltp":1.25,"id":8842295}]}]}
+{"op":"mcm","clk":"7618199973","pt":1539179130094,"mc":[{"id":"1.149319376","rc":[{"ltp":4.8,"id":5224080},{"ltp":1.26,"id":8842295}]}]}
+{"op":"mcm","clk":"7618216598","pt":1539179252296,"mc":[{"id":"1.149319376","rc":[{"ltp":3.95,"id":5224080},{"ltp":1.29,"id":8842295}]}]}
+{"op":"mcm","clk":"7618223712","pt":1539179312508,"mc":[{"id":"1.149319376","rc":[{"ltp":5.6,"id":5224080},{"ltp":1.21,"id":8842295}]}]}
+{"op":"mcm","clk":"7618230505","pt":1539179372539,"mc":[{"id":"1.149319376","rc":[{"ltp":5.3,"id":5224080},{"ltp":1.25,"id":8842295}]}]}
+{"op":"mcm","clk":"7618237680","pt":1539179431809,"mc":[{"id":"1.149319376","rc":[{"ltp":4.7,"id":5224080},{"ltp":1.28,"id":8842295}]}]}
+{"op":"mcm","clk":"7618244959","pt":1539179490834,"mc":[{"id":"1.149319376","rc":[{"ltp":1.29,"id":8842295}]}]}
+{"op":"mcm","clk":"7618260852","pt":1539179552421,"mc":[{"id":"1.149319376","rc":[{"ltp":3.95,"id":5224080},{"ltp":1.27,"id":8842295}]}]}
+{"op":"mcm","clk":"7618268089","pt":1539179612562,"mc":[{"id":"1.149319376","rc":[{"ltp":8.6,"id":5224080},{"ltp":1.14,"id":8842295}]}]}
+{"op":"mcm","clk":"7618275920","pt":1539179671795,"mc":[{"id":"1.149319376","rc":[{"ltp":9.0,"id":5224080},{"ltp":1.1,"id":8842295}]}]}
+{"op":"mcm","clk":"7618283875","pt":1539179732455,"mc":[{"id":"1.149319376","rc":[{"ltp":15.0,"id":5224080},{"ltp":1.08,"id":8842295}]}]}
+{"op":"mcm","clk":"7618291077","pt":1539179791265,"mc":[{"id":"1.149319376","rc":[{"ltp":34.0,"id":5224080},{"ltp":1.04,"id":8842295}]}]}
+{"op":"mcm","clk":"7618298581","pt":1539179851814,"mc":[{"id":"1.149319376","rc":[{"ltp":50.0,"id":5224080},{"ltp":1.09,"id":8842295}]}]}
+{"op":"mcm","clk":"7618306506","pt":1539179912425,"mc":[{"id":"1.149319376","rc":[{"ltp":12.5,"id":5224080},{"ltp":1.06,"id":8842295}]}]}
+{"op":"mcm","clk":"7618314245","pt":1539179972093,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:26:00.000Z","suspendTime":"2018-10-10T12:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"ACTIVE","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:26:00.000Z","version":2448571511,"name":"Match Odds","eventName":"Barrere v Pavic"},"rc":[{"ltp":21.0,"id":5224080},{"ltp":1.05,"id":8842295}]}]}
+{"op":"mcm","clk":"7618319289","pt":1539180009681,"mc":[{"id":"1.149319376","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948105","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T12:26:00.000Z","suspendTime":"2018-10-10T12:26:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T14:00:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8842295,"name":"Gregoire Barrere"},{"status":"LOSER","sortPriority":2,"id":5224080,"name":"Ante Pavic"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T12:26:00.000Z","version":2448573929,"name":"Match Odds","eventName":"Barrere v Pavic"}}]}

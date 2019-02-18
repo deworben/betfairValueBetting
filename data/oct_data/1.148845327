@@ -1,0 +1,62 @@
+{"op":"mcm","clk":"7515190991","pt":1538207436696,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-09-30T02:00:00.000Z","suspendTime":"2018-09-30T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923247,"name":"Ryan Harrison"},{"status":"ACTIVE","sortPriority":2,"id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-09-30T02:00:00.000Z","version":2426249077,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}
+{"op":"mcm","clk":"7520724708","pt":1538234625783,"mc":[{"id":"1.148845327","rc":[{"ltp":1.5,"id":3120169}]}]}
+{"op":"mcm","clk":"7521964201","pt":1538239587797,"mc":[{"id":"1.148845327","rc":[{"ltp":1.47,"id":3120169}]}]}
+{"op":"mcm","clk":"7524254962","pt":1538251842527,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7525783181","pt":1538266775452,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T02:00:00.000Z","suspendTime":"2018-10-01T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923247,"name":"Ryan Harrison"},{"status":"ACTIVE","sortPriority":2,"id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T02:00:00.000Z","version":2429204743,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}
+{"op":"mcm","clk":"7528577285","pt":1538302212537,"mc":[{"id":"1.148845327","rc":[{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7529524038","pt":1538308092697,"mc":[{"id":"1.148845327","rc":[{"ltp":2.96,"id":2923247},{"ltp":1.52,"id":3120169}]}]}
+{"op":"mcm","clk":"7529864940","pt":1538310106490,"mc":[{"id":"1.148845327","rc":[{"ltp":3.0,"id":2923247},{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7529888273","pt":1538310165898,"mc":[{"id":"1.148845327","rc":[{"ltp":3.05,"id":2923247}]}]}
+{"op":"mcm","clk":"7531383092","pt":1538317205705,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T01:00:00.000Z","suspendTime":"2018-10-01T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923247,"name":"Ryan Harrison"},{"status":"ACTIVE","sortPriority":2,"id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"Europe/London","openDate":"2018-10-01T01:00:00.000Z","version":2430704452,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}
+{"op":"mcm","clk":"7532092429","pt":1538320713696,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7533464609","pt":1538327265121,"mc":[{"id":"1.148845327","rc":[{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7534337650","pt":1538333191524,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7535215650","pt":1538341950594,"mc":[{"id":"1.148845327","rc":[{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7535902597","pt":1538351022973,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7535950576","pt":1538351984008,"mc":[{"id":"1.148845327","rc":[{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7535965604","pt":1538352323909,"mc":[{"id":"1.148845327","rc":[{"ltp":3.0,"id":2923247}]}]}
+{"op":"mcm","clk":"7536015500","pt":1538353187241,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T02:00:00.000Z","suspendTime":"2018-10-02T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923247,"name":"Ryan Harrison"},{"status":"ACTIVE","sortPriority":2,"id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T02:00:00.000Z","version":2432451454,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}
+{"op":"mcm","clk":"7536139366","pt":1538355404444,"mc":[{"id":"1.148845327","rc":[{"ltp":1.51,"id":3120169}]}]}
+{"op":"mcm","clk":"7536291216","pt":1538358466916,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7538121655","pt":1538388574822,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T06:30:00.000Z","suspendTime":"2018-10-02T06:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2923247,"name":"Ryan Harrison"},{"status":"ACTIVE","sortPriority":2,"id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T06:30:00.000Z","version":2432706973,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}
+{"op":"mcm","clk":"7538132810","pt":1538388700193,"mc":[{"id":"1.148845327","rc":[{"ltp":1.47,"id":3120169}]}]}
+{"op":"mcm","clk":"7538285500","pt":1538390203371,"mc":[{"id":"1.148845327","rc":[{"ltp":1.5,"id":3120169}]}]}
+{"op":"mcm","clk":"7538401553","pt":1538391212599,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7538492529","pt":1538392181694,"mc":[{"id":"1.148845327","rc":[{"ltp":1.49,"id":3120169}]}]}
+{"op":"mcm","clk":"7538718274","pt":1538394559203,"mc":[{"id":"1.148845327","rc":[{"ltp":1.48,"id":3120169}]}]}
+{"op":"mcm","clk":"7539740186","pt":1538402387267,"mc":[{"id":"1.148845327","rc":[{"ltp":1.47,"id":3120169}]}]}
+{"op":"mcm","clk":"7539921941","pt":1538403766701,"mc":[{"id":"1.148845327","rc":[{"ltp":3.2,"id":2923247},{"ltp":1.44,"id":3120169}]}]}
+{"op":"mcm","clk":"7540024513","pt":1538404691580,"mc":[{"id":"1.148845327","rc":[{"ltp":3.35,"id":2923247}]}]}
+{"op":"mcm","clk":"7540303632","pt":1538407546687,"mc":[{"id":"1.148845327","rc":[{"ltp":1.42,"id":3120169}]}]}
+{"op":"mcm","clk":"7540309000","pt":1538407596399,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7540464317","pt":1538409101089,"mc":[{"id":"1.148845327","rc":[{"ltp":1.41,"id":3120169}]}]}
+{"op":"mcm","clk":"7541100981","pt":1538414561795,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7541282457","pt":1538416006373,"mc":[{"id":"1.148845327","rc":[{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7542150376","pt":1538422715616,"mc":[{"id":"1.148845327","rc":[{"ltp":1.41,"id":3120169}]}]}
+{"op":"mcm","clk":"7542218541","pt":1538423378098,"mc":[{"id":"1.148845327","rc":[{"ltp":3.6,"id":2923247},{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7542286229","pt":1538423986279,"mc":[{"id":"1.148845327","rc":[{"ltp":3.5,"id":2923247},{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7542522620","pt":1538426494174,"mc":[{"id":"1.148845327","rc":[{"ltp":3.35,"id":2923247}]}]}
+{"op":"mcm","clk":"7542526061","pt":1538426555351,"mc":[{"id":"1.148845327","rc":[{"ltp":1.42,"id":3120169}]}]}
+{"op":"mcm","clk":"7542581286","pt":1538427534544,"mc":[{"id":"1.148845327","rc":[{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7542639295","pt":1538428559962,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7542754481","pt":1538430586953,"mc":[{"id":"1.148845327","rc":[{"ltp":3.9,"id":2923247},{"ltp":1.35,"id":3120169}]}]}
+{"op":"mcm","clk":"7542760294","pt":1538430706516,"mc":[{"id":"1.148845327","rc":[{"ltp":3.5,"id":2923247},{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7542783960","pt":1538430991560,"mc":[{"id":"1.148845327","rc":[{"ltp":3.4,"id":2923247},{"ltp":1.42,"id":3120169}]}]}
+{"op":"mcm","clk":"7542786247","pt":1538431044092,"mc":[{"id":"1.148845327","rc":[{"ltp":1.41,"id":3120169}]}]}
+{"op":"mcm","clk":"7542828677","pt":1538431705831,"mc":[{"id":"1.148845327","rc":[{"ltp":3.35,"id":2923247}]}]}
+{"op":"mcm","clk":"7542854121","pt":1538432200706,"mc":[{"id":"1.148845327","rc":[{"ltp":3.45,"id":2923247}]}]}
+{"op":"mcm","clk":"7542860993","pt":1538432344501,"mc":[{"id":"1.148845327","rc":[{"ltp":3.6,"id":2923247},{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7543021394","pt":1538435007759,"mc":[{"id":"1.148845327","rc":[{"ltp":1.38,"id":3120169}]}]}
+{"op":"mcm","clk":"7543050599","pt":1538435321593,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7543053759","pt":1538435372599,"mc":[{"id":"1.148845327","rc":[{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7543145389","pt":1538436759859,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7543239721","pt":1538438251719,"mc":[{"id":"1.148845327","rc":[{"ltp":1.37,"id":3120169}]}]}
+{"op":"mcm","clk":"7543310514","pt":1538439587414,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7543314461","pt":1538439688557,"mc":[{"id":"1.148845327","rc":[{"ltp":3.5,"id":2923247},{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7543598463","pt":1538445549984,"mc":[{"id":"1.148845327","rc":[{"ltp":1.39,"id":3120169}]}]}
+{"op":"mcm","clk":"7543667210","pt":1538447075822,"mc":[{"id":"1.148845327","rc":[{"ltp":3.45,"id":2923247}]}]}
+{"op":"mcm","clk":"7543745666","pt":1538449335247,"mc":[{"id":"1.148845327","rc":[{"ltp":3.5,"id":2923247},{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7543748489","pt":1538449456473,"mc":[{"id":"1.148845327","rc":[{"ltp":1.41,"id":3120169}]}]}
+{"op":"mcm","clk":"7543778259","pt":1538450139497,"mc":[{"id":"1.148845327","rc":[{"ltp":3.45,"id":2923247}]}]}
+{"op":"mcm","clk":"7543834401","pt":1538451749825,"mc":[{"id":"1.148845327","rc":[{"ltp":3.5,"id":2923247},{"ltp":1.4,"id":3120169}]}]}
+{"op":"mcm","clk":"7543892190","pt":1538453376756,"mc":[{"id":"1.148845327","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28929658","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-02T06:30:00.000Z","suspendTime":"2018-10-02T06:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":0,"status":"CLOSED","settledTime":"2018-10-02T04:09:29.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-02T04:09:29.000Z","id":2923247,"name":"Ryan Harrison"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-02T04:09:29.000Z","id":3120169,"name":"Grigor Dimitrov"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-02T06:30:00.000Z","version":2433690046,"name":"Match Odds","eventName":"R Harrison v Dimitrov"}}]}

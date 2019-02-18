@@ -1,0 +1,174 @@
+{"op":"mcm","clk":"7588511301","pt":1538866176209,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442523382,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7588549535","pt":1538866455490,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442523382,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7589053990","pt":1538871605695,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T18:00:00.000Z","suspendTime":"2018-10-08T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T18:00:00.000Z","version":2442731190,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7601934669","pt":1538958025404,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T18:00:00.000Z","suspendTime":"2018-10-09T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T18:00:00.000Z","version":2445883522,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7602221330","pt":1538964991599,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7602222607","pt":1538965052797,"mc":[{"id":"1.149209089","rc":[{"ltp":2.18,"id":8243874},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7603704723","pt":1538995903066,"mc":[{"id":"1.149209089","rc":[{"ltp":1.72,"id":7593723}]}]}
+{"op":"mcm","clk":"7605782478","pt":1539017852530,"mc":[{"id":"1.149209089","rc":[{"ltp":1.73,"id":7593723}]}]}
+{"op":"mcm","clk":"7605786665","pt":1539017902946,"mc":[{"id":"1.149209089","rc":[{"ltp":1.7,"id":7593723}]}]}
+{"op":"mcm","clk":"7605791720","pt":1539017964713,"mc":[{"id":"1.149209089","rc":[{"ltp":1.67,"id":7593723}]}]}
+{"op":"mcm","clk":"7605797636","pt":1539018031297,"mc":[{"id":"1.149209089","rc":[{"ltp":1.66,"id":7593723}]}]}
+{"op":"mcm","clk":"7605801139","pt":1539018068911,"mc":[{"id":"1.149209089","rc":[{"ltp":1.65,"id":7593723}]}]}
+{"op":"mcm","clk":"7605808481","pt":1539018144133,"mc":[{"id":"1.149209089","rc":[{"ltp":1.59,"id":7593723}]}]}
+{"op":"mcm","clk":"7605851986","pt":1539018483649,"mc":[{"id":"1.149209089","rc":[{"ltp":2.48,"id":8243874},{"ltp":1.68,"id":7593723}]}]}
+{"op":"mcm","clk":"7605874486","pt":1539018702957,"mc":[{"id":"1.149209089","rc":[{"ltp":1.53,"id":7593723}]}]}
+{"op":"mcm","clk":"7606204735","pt":1539021334534,"mc":[{"id":"1.149209089","rc":[{"ltp":2.9,"id":8243874}]}]}
+{"op":"mcm","clk":"7606509008","pt":1539023485724,"mc":[{"id":"1.149209089","rc":[{"ltp":2.42,"id":8243874},{"ltp":1.71,"id":7593723}]}]}
+{"op":"mcm","clk":"7606516359","pt":1539023539530,"mc":[{"id":"1.149209089","rc":[{"ltp":2.32,"id":8243874},{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7606535306","pt":1539023663394,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7606625701","pt":1539024185213,"mc":[{"id":"1.149209089","rc":[{"ltp":2.28,"id":8243874}]}]}
+{"op":"mcm","clk":"7608229023","pt":1539039570494,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:00:00.000Z","suspendTime":"2018-10-09T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T18:00:00.000Z","version":2446877168,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7608232717","pt":1539039622726,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:00:00.000Z","suspendTime":"2018-10-09T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:00:00.000Z","version":2446877168,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7608246585","pt":1539039867973,"mc":[{"id":"1.149209089","rc":[{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7610351838","pt":1539079041581,"mc":[{"id":"1.149209089","rc":[{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7610803569","pt":1539084651962,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7611038130","pt":1539087688014,"mc":[{"id":"1.149209089","rc":[{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7611636980","pt":1539095613708,"mc":[{"id":"1.149209089","rc":[{"ltp":2.28,"id":8243874}]}]}
+{"op":"mcm","clk":"7611773883","pt":1539097384042,"mc":[{"id":"1.149209089","rc":[{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7612116115","pt":1539102152598,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7612729670","pt":1539109288321,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7613033276","pt":1539111571929,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:15:00.000Z","suspendTime":"2018-10-09T21:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:15:00.000Z","version":2447740305,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7613056273","pt":1539111736851,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874}]}]}
+{"op":"mcm","clk":"7613059895","pt":1539111761224,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874}]}]}
+{"op":"mcm","clk":"7613075381","pt":1539111871141,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:02:00.000Z","suspendTime":"2018-10-09T21:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:02:00.000Z","version":2447755287,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7613134417","pt":1539112220276,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7613143640","pt":1539112283265,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7613153509","pt":1539112352658,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874},{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7613255812","pt":1539113059640,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7613264764","pt":1539113131510,"mc":[{"id":"1.149209089","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7613346485","pt":1539113777811,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874}]}]}
+{"op":"mcm","clk":"7613376557","pt":1539113972222,"mc":[{"id":"1.149209089","rc":[{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7613498232","pt":1539114868000,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7613513917","pt":1539114973243,"mc":[{"id":"1.149209089","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7613551534","pt":1539115231698,"mc":[{"id":"1.149209089","rc":[{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7613578949","pt":1539115412124,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874}]}]}
+{"op":"mcm","clk":"7613825997","pt":1539117295603,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874}]}]}
+{"op":"mcm","clk":"7613856184","pt":1539117632860,"mc":[{"id":"1.149209089","rc":[{"ltp":2.14,"id":8243874},{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7613871944","pt":1539118053140,"mc":[{"id":"1.149209089","rc":[{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7613873634","pt":1539118102586,"mc":[{"id":"1.149209089","rc":[{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7613875740","pt":1539118161533,"mc":[{"id":"1.149209089","rc":[{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7613880093","pt":1539118293172,"mc":[{"id":"1.149209089","rc":[{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7613899064","pt":1539118646251,"mc":[{"id":"1.149209089","rc":[{"ltp":2.24,"id":8243874},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7613901182","pt":1539118707291,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874}]}]}
+{"op":"mcm","clk":"7613910557","pt":1539119001672,"mc":[{"id":"1.149209089","rc":[{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7613912659","pt":1539119071353,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:17:00.000Z","suspendTime":"2018-10-09T21:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:17:00.000Z","version":2447961925,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7613947093","pt":1539119886972,"mc":[{"id":"1.149209089","rc":[{"ltp":2.24,"id":8243874},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7613949821","pt":1539119970477,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:32:00.000Z","suspendTime":"2018-10-09T21:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:32:00.000Z","version":2447966818,"name":"Match Odds","eventName":"Fratangelo v J Smith"},"rc":[{"ltp":2.14,"id":8243874},{"ltp":1.87,"id":7593723}]}]}
+{"op":"mcm","clk":"7613967910","pt":1539120272910,"mc":[{"id":"1.149209089","rc":[{"ltp":1.85,"id":7593723}]}]}
+{"op":"mcm","clk":"7613969600","pt":1539120322054,"mc":[{"id":"1.149209089","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7613970254","pt":1539120345299,"mc":[{"id":"1.149209089","rc":[{"ltp":1.88,"id":7593723}]}]}
+{"op":"mcm","clk":"7613972493","pt":1539120416695,"mc":[{"id":"1.149209089","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7613973884","pt":1539120459454,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7613987662","pt":1539120871556,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:47:00.000Z","suspendTime":"2018-10-09T21:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:47:00.000Z","version":2447968290,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7614022712","pt":1539121770045,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T22:02:00.000Z","suspendTime":"2018-10-09T22:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T22:02:00.000Z","version":2447970733,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}
+{"op":"mcm","clk":"7614025150","pt":1539121866779,"mc":[{"id":"1.149209089","rc":[{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7614034950","pt":1539121951957,"mc":[{"id":"1.149209089","rc":[{"ltp":1.82,"id":7593723}]}]}
+{"op":"mcm","clk":"7614037805","pt":1539122071912,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:51:00.000Z","suspendTime":"2018-10-09T21:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:51:00.000Z","version":2447971367,"name":"Match Odds","eventName":"Fratangelo v J Smith"},"rc":[{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7614039156","pt":1539122130365,"mc":[{"id":"1.149209089","rc":[{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7614040745","pt":1539122187152,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7614043692","pt":1539122303258,"mc":[{"id":"1.149209089","rc":[{"ltp":2.26,"id":8243874},{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7614047683","pt":1539122427976,"mc":[{"id":"1.149209089","rc":[{"ltp":2.28,"id":8243874},{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7614049739","pt":1539122485502,"mc":[{"id":"1.149209089","rc":[{"ltp":1.73,"id":7593723}]}]}
+{"op":"mcm","clk":"7614051557","pt":1539122541406,"mc":[{"id":"1.149209089","rc":[{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7614054094","pt":1539122612838,"mc":[{"id":"1.149209089","rc":[{"ltp":1.79,"id":7593723}]}]}
+{"op":"mcm","clk":"7614057479","pt":1539122732769,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:51:00.000Z","suspendTime":"2018-10-09T21:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:51:00.000Z","version":2447974327,"name":"Match Odds","eventName":"Fratangelo v J Smith"},"rc":[{"ltp":1.65,"id":7593723}]}]}
+{"op":"mcm","clk":"7614059286","pt":1539122791809,"mc":[{"id":"1.149209089","rc":[{"ltp":2.58,"id":8243874},{"ltp":1.63,"id":7593723}]}]}
+{"op":"mcm","clk":"7614068761","pt":1539122850127,"mc":[{"id":"1.149209089","rc":[{"ltp":2.4,"id":8243874},{"ltp":1.71,"id":7593723}]}]}
+{"op":"mcm","clk":"7614070506","pt":1539122912301,"mc":[{"id":"1.149209089","rc":[{"ltp":2.5,"id":8243874},{"ltp":1.66,"id":7593723}]}]}
+{"op":"mcm","clk":"7614072378","pt":1539122971122,"mc":[{"id":"1.149209089","rc":[{"ltp":2.44,"id":8243874}]}]}
+{"op":"mcm","clk":"7614074144","pt":1539123032606,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7614075888","pt":1539123092014,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.78,"id":7593723}]}]}
+{"op":"mcm","clk":"7614077846","pt":1539123152280,"mc":[{"id":"1.149209089","rc":[{"ltp":2.0,"id":8243874},{"ltp":1.94,"id":7593723}]}]}
+{"op":"mcm","clk":"7614079480","pt":1539123213006,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.72,"id":7593723}]}]}
+{"op":"mcm","clk":"7614081370","pt":1539123273042,"mc":[{"id":"1.149209089","rc":[{"ltp":1.95,"id":8243874},{"ltp":1.89,"id":7593723}]}]}
+{"op":"mcm","clk":"7614083295","pt":1539123332910,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.75,"id":7593723}]}]}
+{"op":"mcm","clk":"7614085206","pt":1539123392827,"mc":[{"id":"1.149209089","rc":[{"ltp":2.4,"id":8243874},{"ltp":1.72,"id":7593723}]}]}
+{"op":"mcm","clk":"7614087168","pt":1539123452878,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.77,"id":7593723}]}]}
+{"op":"mcm","clk":"7614089078","pt":1539123512403,"mc":[{"id":"1.149209089","rc":[{"ltp":2.22,"id":8243874}]}]}
+{"op":"mcm","clk":"7614091431","pt":1539123573071,"mc":[{"id":"1.149209089","rc":[{"ltp":2.08,"id":8243874},{"ltp":1.88,"id":7593723}]}]}
+{"op":"mcm","clk":"7614093554","pt":1539123633054,"mc":[{"id":"1.149209089","rc":[{"ltp":2.24,"id":8243874},{"ltp":1.84,"id":7593723}]}]}
+{"op":"mcm","clk":"7614095708","pt":1539123692605,"mc":[{"id":"1.149209089","rc":[{"ltp":1.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7614105299","pt":1539123753189,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7614106962","pt":1539123812861,"mc":[{"id":"1.149209089","rc":[{"ltp":2.4,"id":8243874},{"ltp":1.71,"id":7593723}]}]}
+{"op":"mcm","clk":"7614108779","pt":1539123872598,"mc":[{"id":"1.149209089","rc":[{"ltp":2.34,"id":8243874},{"ltp":1.74,"id":7593723}]}]}
+{"op":"mcm","clk":"7614110351","pt":1539123932993,"mc":[{"id":"1.149209089","rc":[{"ltp":2.42,"id":8243874},{"ltp":1.72,"id":7593723}]}]}
+{"op":"mcm","clk":"7614111930","pt":1539123992343,"mc":[{"id":"1.149209089","rc":[{"ltp":2.46,"id":8243874},{"ltp":1.66,"id":7593723}]}]}
+{"op":"mcm","clk":"7614113800","pt":1539124053065,"mc":[{"id":"1.149209089","rc":[{"ltp":2.2,"id":8243874},{"ltp":1.81,"id":7593723}]}]}
+{"op":"mcm","clk":"7614115845","pt":1539124113153,"mc":[{"id":"1.149209089","rc":[{"ltp":2.04,"id":8243874},{"ltp":1.98,"id":7593723}]}]}
+{"op":"mcm","clk":"7614118174","pt":1539124173154,"mc":[{"id":"1.149209089","rc":[{"ltp":1.62,"id":8243874},{"ltp":2.68,"id":7593723}]}]}
+{"op":"mcm","clk":"7614119970","pt":1539124232988,"mc":[{"id":"1.149209089","rc":[{"ltp":1.5,"id":8243874},{"ltp":3.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7614121773","pt":1539124292963,"mc":[{"id":"1.149209089","rc":[{"ltp":1.48,"id":8243874},{"ltp":3.05,"id":7593723}]}]}
+{"op":"mcm","clk":"7614123704","pt":1539124353003,"mc":[{"id":"1.149209089","rc":[{"ltp":1.4,"id":8243874},{"ltp":3.15,"id":7593723}]}]}
+{"op":"mcm","clk":"7614125521","pt":1539124412681,"mc":[{"id":"1.149209089","rc":[{"ltp":1.41,"id":8243874},{"ltp":3.35,"id":7593723}]}]}
+{"op":"mcm","clk":"7614127249","pt":1539124473189,"mc":[{"id":"1.149209089","rc":[{"ltp":3.4,"id":7593723}]}]}
+{"op":"mcm","clk":"7614129009","pt":1539124532908,"mc":[{"id":"1.149209089","rc":[{"ltp":1.4,"id":8243874},{"ltp":3.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7614130886","pt":1539124593084,"mc":[{"id":"1.149209089","rc":[{"ltp":1.36,"id":8243874},{"ltp":3.8,"id":7593723}]}]}
+{"op":"mcm","clk":"7614140735","pt":1539124652935,"mc":[{"id":"1.149209089","rc":[{"ltp":1.34,"id":8243874},{"ltp":4.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7614142696","pt":1539124712823,"mc":[{"id":"1.149209089","rc":[{"ltp":1.37,"id":8243874},{"ltp":3.55,"id":7593723}]}]}
+{"op":"mcm","clk":"7614144582","pt":1539124772820,"mc":[{"id":"1.149209089","rc":[{"ltp":1.28,"id":8243874},{"ltp":4.4,"id":7593723}]}]}
+{"op":"mcm","clk":"7614146311","pt":1539124832338,"mc":[{"id":"1.149209089","rc":[{"ltp":1.29,"id":8243874},{"ltp":4.3,"id":7593723}]}]}
+{"op":"mcm","clk":"7614148004","pt":1539124893098,"mc":[{"id":"1.149209089","rc":[{"ltp":1.33,"id":8243874},{"ltp":4.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614149785","pt":1539124952665,"mc":[{"id":"1.149209089","rc":[{"ltp":1.34,"id":8243874},{"ltp":3.7,"id":7593723}]}]}
+{"op":"mcm","clk":"7614151767","pt":1539125013121,"mc":[{"id":"1.149209089","rc":[{"ltp":1.29,"id":8243874},{"ltp":4.3,"id":7593723}]}]}
+{"op":"mcm","clk":"7614153884","pt":1539125072973,"mc":[{"id":"1.149209089","rc":[{"ltp":1.25,"id":8243874},{"ltp":5.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7614155847","pt":1539125132906,"mc":[{"id":"1.149209089","rc":[{"ltp":1.19,"id":8243874},{"ltp":6.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7614157654","pt":1539125192145,"mc":[{"id":"1.149209089","rc":[{"ltp":1.2,"id":8243874},{"ltp":6.4,"id":7593723}]}]}
+{"op":"mcm","clk":"7614159528","pt":1539125253118,"mc":[{"id":"1.149209089","rc":[{"ltp":1.32,"id":8243874},{"ltp":4.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614161734","pt":1539125312634,"mc":[{"id":"1.149209089","rc":[{"ltp":1.45,"id":8243874},{"ltp":3.0,"id":7593723}]}]}
+{"op":"mcm","clk":"7614164072","pt":1539125373129,"mc":[{"id":"1.149209089","rc":[{"ltp":1.63,"id":8243874},{"ltp":2.6,"id":7593723}]}]}
+{"op":"mcm","clk":"7614166381","pt":1539125433162,"mc":[{"id":"1.149209089","rc":[{"ltp":1.73,"id":8243874},{"ltp":2.4,"id":7593723}]}]}
+{"op":"mcm","clk":"7614168979","pt":1539125493104,"mc":[{"id":"1.149209089","rc":[{"ltp":1.65,"id":8243874},{"ltp":2.44,"id":7593723}]}]}
+{"op":"mcm","clk":"7614178994","pt":1539125553051,"mc":[{"id":"1.149209089","rc":[{"ltp":1.64,"id":8243874},{"ltp":2.54,"id":7593723}]}]}
+{"op":"mcm","clk":"7614181095","pt":1539125612197,"mc":[{"id":"1.149209089","rc":[{"ltp":1.66,"id":8243874},{"ltp":2.5,"id":7593723}]}]}
+{"op":"mcm","clk":"7614183556","pt":1539125672650,"mc":[{"id":"1.149209089","rc":[{"ltp":1.8,"id":8243874},{"ltp":2.36,"id":7593723}]}]}
+{"op":"mcm","clk":"7614185681","pt":1539125732959,"mc":[{"id":"1.149209089","rc":[{"ltp":1.84,"id":8243874},{"ltp":2.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7614187456","pt":1539125793161,"mc":[{"id":"1.149209089","rc":[{"ltp":1.9,"id":8243874},{"ltp":2.14,"id":7593723}]}]}
+{"op":"mcm","clk":"7614189390","pt":1539125853058,"mc":[{"id":"1.149209089","rc":[{"ltp":2.08,"id":7593723}]}]}
+{"op":"mcm","clk":"7614191433","pt":1539125913017,"mc":[{"id":"1.149209089","rc":[{"ltp":2.24,"id":8243874},{"ltp":1.83,"id":7593723}]}]}
+{"op":"mcm","clk":"7614193579","pt":1539125973002,"mc":[{"id":"1.149209089","rc":[{"ltp":2.3,"id":8243874},{"ltp":1.76,"id":7593723}]}]}
+{"op":"mcm","clk":"7614195471","pt":1539126032736,"mc":[{"id":"1.149209089","rc":[{"ltp":2.42,"id":8243874},{"ltp":1.68,"id":7593723}]}]}
+{"op":"mcm","clk":"7614197128","pt":1539126092369,"mc":[{"id":"1.149209089","rc":[{"ltp":2.72,"id":8243874},{"ltp":1.58,"id":7593723}]}]}
+{"op":"mcm","clk":"7614199023","pt":1539126152679,"mc":[{"id":"1.149209089","rc":[{"ltp":2.74,"id":8243874},{"ltp":1.57,"id":7593723}]}]}
+{"op":"mcm","clk":"7614200883","pt":1539126213143,"mc":[{"id":"1.149209089","rc":[{"ltp":2.66,"id":8243874},{"ltp":1.59,"id":7593723}]}]}
+{"op":"mcm","clk":"7614202664","pt":1539126272932,"mc":[{"id":"1.149209089","rc":[{"ltp":2.7,"id":8243874},{"ltp":1.58,"id":7593723}]}]}
+{"op":"mcm","clk":"7614204507","pt":1539126333112,"mc":[{"id":"1.149209089","rc":[{"ltp":2.74,"id":8243874},{"ltp":1.57,"id":7593723}]}]}
+{"op":"mcm","clk":"7614206337","pt":1539126393168,"mc":[{"id":"1.149209089","rc":[{"ltp":2.82,"id":8243874}]}]}
+{"op":"mcm","clk":"7614216022","pt":1539126453156,"mc":[{"id":"1.149209089","rc":[{"ltp":2.88,"id":8243874},{"ltp":1.52,"id":7593723}]}]}
+{"op":"mcm","clk":"7614217830","pt":1539126511734,"mc":[{"id":"1.149209089","rc":[{"ltp":2.98,"id":8243874}]}]}
+{"op":"mcm","clk":"7614219856","pt":1539126572928,"mc":[{"id":"1.149209089","rc":[{"ltp":3.5,"id":8243874},{"ltp":1.37,"id":7593723}]}]}
+{"op":"mcm","clk":"7614222136","pt":1539126633033,"mc":[{"id":"1.149209089","rc":[{"ltp":3.9,"id":8243874},{"ltp":1.35,"id":7593723}]}]}
+{"op":"mcm","clk":"7614224601","pt":1539126693015,"mc":[{"id":"1.149209089","rc":[{"ltp":3.3,"id":8243874},{"ltp":1.44,"id":7593723}]}]}
+{"op":"mcm","clk":"7614226881","pt":1539126753023,"mc":[{"id":"1.149209089","rc":[{"ltp":4.1,"id":8243874},{"ltp":1.3,"id":7593723}]}]}
+{"op":"mcm","clk":"7614229132","pt":1539126813146,"mc":[{"id":"1.149209089","rc":[{"ltp":4.4,"id":8243874},{"ltp":1.31,"id":7593723}]}]}
+{"op":"mcm","clk":"7614231363","pt":1539126872889,"mc":[{"id":"1.149209089","rc":[{"ltp":7.2,"id":8243874},{"ltp":1.12,"id":7593723}]}]}
+{"op":"mcm","clk":"7614233613","pt":1539126932888,"mc":[{"id":"1.149209089","rc":[{"ltp":7.8,"id":8243874},{"ltp":1.24,"id":7593723}]}]}
+{"op":"mcm","clk":"7614236022","pt":1539126992984,"mc":[{"id":"1.149209089","rc":[{"ltp":8.2,"id":8243874},{"ltp":1.14,"id":7593723}]}]}
+{"op":"mcm","clk":"7614238600","pt":1539127053091,"mc":[{"id":"1.149209089","rc":[{"ltp":9.2,"id":8243874}]}]}
+{"op":"mcm","clk":"7614241114","pt":1539127113133,"mc":[{"id":"1.149209089","rc":[{"ltp":6.2,"id":8243874},{"ltp":1.19,"id":7593723}]}]}
+{"op":"mcm","clk":"7614243608","pt":1539127172928,"mc":[{"id":"1.149209089","rc":[{"ltp":1.18,"id":7593723}]}]}
+{"op":"mcm","clk":"7614245926","pt":1539127232615,"mc":[{"id":"1.149209089","rc":[{"ltp":9.2,"id":8243874},{"ltp":1.12,"id":7593723}]}]}
+{"op":"mcm","clk":"7614248086","pt":1539127289783,"mc":[{"id":"1.149209089","rc":[{"ltp":8.0,"id":8243874}]}]}
+{"op":"mcm","clk":"7614258154","pt":1539127352866,"mc":[{"id":"1.149209089","rc":[{"ltp":12.0,"id":8243874},{"ltp":1.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614260230","pt":1539127412269,"mc":[{"id":"1.149209089","rc":[{"ltp":8.0,"id":8243874},{"ltp":1.13,"id":7593723}]}]}
+{"op":"mcm","clk":"7614262669","pt":1539127473023,"mc":[{"id":"1.149209089","rc":[{"ltp":1.06,"id":7593723}]}]}
+{"op":"mcm","clk":"7614265087","pt":1539127532790,"mc":[{"id":"1.149209089","rc":[{"ltp":50.0,"id":8243874},{"ltp":1.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7614270350","pt":1539127652687,"mc":[{"id":"1.149209089","rc":[{"ltp":30.0,"id":8243874},{"ltp":1.03,"id":7593723}]}]}
+{"op":"mcm","clk":"7614273034","pt":1539127712775,"mc":[{"id":"1.149209089","rc":[{"ltp":17.5,"id":8243874},{"ltp":1.06,"id":7593723}]}]}
+{"op":"mcm","clk":"7614275661","pt":1539127772538,"mc":[{"id":"1.149209089","rc":[{"ltp":10.5,"id":8243874},{"ltp":1.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614278034","pt":1539127833092,"mc":[{"id":"1.149209089","rc":[{"ltp":11.0,"id":8243874}]}]}
+{"op":"mcm","clk":"7614280390","pt":1539127892490,"mc":[{"id":"1.149209089","rc":[{"ltp":9.8,"id":8243874},{"ltp":1.13,"id":7593723}]}]}
+{"op":"mcm","clk":"7614282835","pt":1539127952707,"mc":[{"id":"1.149209089","rc":[{"ltp":8.0,"id":8243874},{"ltp":1.14,"id":7593723}]}]}
+{"op":"mcm","clk":"7614285264","pt":1539128013033,"mc":[{"id":"1.149209089","rc":[{"ltp":6.6,"id":8243874},{"ltp":1.2,"id":7593723}]}]}
+{"op":"mcm","clk":"7614287783","pt":1539128073011,"mc":[{"id":"1.149209089","rc":[{"ltp":8.0,"id":8243874},{"ltp":1.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614290074","pt":1539128133182,"mc":[{"id":"1.149209089","rc":[{"ltp":1.16,"id":7593723}]}]}
+{"op":"mcm","clk":"7614292177","pt":1539128193111,"mc":[{"id":"1.149209089","rc":[{"ltp":6.4,"id":8243874},{"ltp":1.17,"id":7593723}]}]}
+{"op":"mcm","clk":"7614302239","pt":1539128252102,"mc":[{"id":"1.149209089","rc":[{"ltp":10.0,"id":8243874},{"ltp":1.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614304280","pt":1539128311806,"mc":[{"id":"1.149209089","rc":[{"ltp":17.0,"id":8243874},{"ltp":1.08,"id":7593723}]}]}
+{"op":"mcm","clk":"7614306877","pt":1539128371565,"mc":[{"id":"1.149209089","rc":[{"ltp":13.5,"id":8243874}]}]}
+{"op":"mcm","clk":"7614309329","pt":1539128431768,"mc":[{"id":"1.149209089","rc":[{"ltp":12.0,"id":8243874},{"ltp":1.1,"id":7593723}]}]}
+{"op":"mcm","clk":"7614311893","pt":1539128493166,"mc":[{"id":"1.149209089","rc":[{"ltp":6.8,"id":8243874},{"ltp":1.17,"id":7593723}]}]}
+{"op":"mcm","clk":"7614314366","pt":1539128553083,"mc":[{"id":"1.149209089","rc":[{"ltp":13.5,"id":8243874},{"ltp":1.09,"id":7593723}]}]}
+{"op":"mcm","clk":"7614317137","pt":1539128613050,"mc":[{"id":"1.149209089","rc":[{"ltp":1.02,"id":7593723}]}]}
+{"op":"mcm","clk":"7614319582","pt":1539128668829,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:51:00.000Z","suspendTime":"2018-10-09T21:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"ACTIVE","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:51:00.000Z","version":2448009541,"name":"Match Odds","eventName":"Fratangelo v J Smith"},"rc":[{"ltp":50.0,"id":8243874}]}]}
+{"op":"mcm","clk":"7614320536","pt":1539128689847,"mc":[{"id":"1.149209089","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943521","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T21:51:00.000Z","suspendTime":"2018-10-09T21:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T23:44:34.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":7593723,"name":"Bjorn Fratangelo"},{"status":"LOSER","sortPriority":2,"id":8243874,"name":"John-Patrick Smith"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T21:51:00.000Z","version":2448010443,"name":"Match Odds","eventName":"Fratangelo v J Smith"}}]}

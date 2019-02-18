@@ -1,0 +1,57 @@
+{"op":"mcm","clk":"7643756831","pt":1539449418331,"mc":[{"id":"1.149553672","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955725","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3588868,"name":"Bernard Tomic"},{"status":"ACTIVE","sortPriority":2,"id":9624731,"name":"Oscar Otte"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453620496,"name":"Match Odds","eventName":"Tomic v Otte"}}]}
+{"op":"mcm","clk":"7643799008","pt":1539449790074,"mc":[{"id":"1.149553672","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955725","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3588868,"name":"Bernard Tomic"},{"status":"ACTIVE","sortPriority":2,"id":9624731,"name":"Oscar Otte"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453620496,"name":"Match Odds","eventName":"Tomic v Otte"}}]}
+{"op":"mcm","clk":"7648693951","pt":1539498801224,"mc":[{"id":"1.149553672","rc":[{"ltp":1.4,"id":3588868},{"ltp":3.55,"id":9624731}]}]}
+{"op":"mcm","clk":"7648732378","pt":1539499207410,"mc":[{"id":"1.149553672","rc":[{"ltp":3.3,"id":9624731}]}]}
+{"op":"mcm","clk":"7648829372","pt":1539500337142,"mc":[{"id":"1.149553672","rc":[{"ltp":1.32,"id":3588868}]}]}
+{"op":"mcm","clk":"7648936265","pt":1539501598467,"mc":[{"id":"1.149553672","rc":[{"ltp":1.35,"id":3588868}]}]}
+{"op":"mcm","clk":"7649012313","pt":1539502449144,"mc":[{"id":"1.149553672","rc":[{"ltp":1.4,"id":3588868},{"ltp":3.5,"id":9624731}]}]}
+{"op":"mcm","clk":"7649096571","pt":1539503362245,"mc":[{"id":"1.149553672","rc":[{"ltp":1.31,"id":3588868}]}]}
+{"op":"mcm","clk":"7649457647","pt":1539506982662,"mc":[{"id":"1.149553672","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955725","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:48:00.000Z","suspendTime":"2018-10-14T08:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3588868,"name":"Bernard Tomic"},{"status":"ACTIVE","sortPriority":2,"id":9624731,"name":"Oscar Otte"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:48:00.000Z","version":2454965851,"name":"Match Odds","eventName":"Tomic v Otte"}}]}
+{"op":"mcm","clk":"7649468327","pt":1539507083262,"mc":[{"id":"1.149553672","rc":[{"ltp":3.85,"id":9624731}]}]}
+{"op":"mcm","clk":"7649509102","pt":1539507355911,"mc":[{"id":"1.149553672","rc":[{"ltp":1.35,"id":3588868}]}]}
+{"op":"mcm","clk":"7649532275","pt":1539507551267,"mc":[{"id":"1.149553672","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955725","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:48:00.000Z","suspendTime":"2018-10-14T08:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3588868,"name":"Bernard Tomic"},{"status":"ACTIVE","sortPriority":2,"id":9624731,"name":"Oscar Otte"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:48:00.000Z","version":2454976539,"name":"Match Odds","eventName":"Tomic v Otte"}}]}
+{"op":"mcm","clk":"7649605043","pt":1539508045111,"mc":[{"id":"1.149553672","rc":[{"ltp":1.36,"id":3588868},{"ltp":4.1,"id":9624731}]}]}
+{"op":"mcm","clk":"7649611192","pt":1539508101824,"mc":[{"id":"1.149553672","rc":[{"ltp":1.29,"id":3588868}]}]}
+{"op":"mcm","clk":"7649617831","pt":1539508162630,"mc":[{"id":"1.149553672","rc":[{"ltp":1.32,"id":3588868},{"ltp":3.95,"id":9624731}]}]}
+{"op":"mcm","clk":"7649624529","pt":1539508222740,"mc":[{"id":"1.149553672","rc":[{"ltp":1.38,"id":3588868},{"ltp":3.6,"id":9624731}]}]}
+{"op":"mcm","clk":"7649631721","pt":1539508282580,"mc":[{"id":"1.149553672","rc":[{"ltp":1.4,"id":3588868},{"ltp":3.5,"id":9624731}]}]}
+{"op":"mcm","clk":"7649639090","pt":1539508344797,"mc":[{"id":"1.149553672","rc":[{"ltp":1.33,"id":3588868}]}]}
+{"op":"mcm","clk":"7649646129","pt":1539508405101,"mc":[{"id":"1.149553672","rc":[{"ltp":1.36,"id":3588868},{"ltp":3.75,"id":9624731}]}]}
+{"op":"mcm","clk":"7649660941","pt":1539508524402,"mc":[{"id":"1.149553672","rc":[{"ltp":1.4,"id":3588868},{"ltp":3.4,"id":9624731}]}]}
+{"op":"mcm","clk":"7649668133","pt":1539508583907,"mc":[{"id":"1.149553672","rc":[{"ltp":1.43,"id":3588868}]}]}
+{"op":"mcm","clk":"7649675431","pt":1539508645108,"mc":[{"id":"1.149553672","rc":[{"ltp":1.42,"id":3588868}]}]}
+{"op":"mcm","clk":"7649682271","pt":1539508704241,"mc":[{"id":"1.149553672","rc":[{"ltp":1.49,"id":3588868},{"ltp":3.0,"id":9624731}]}]}
+{"op":"mcm","clk":"7649689628","pt":1539508765053,"mc":[{"id":"1.149553672","rc":[{"ltp":3.05,"id":9624731}]}]}
+{"op":"mcm","clk":"7649695955","pt":1539508814880,"mc":[{"id":"1.149553672","rc":[{"ltp":1.41,"id":3588868},{"ltp":3.55,"id":9624731}]}]}
+{"op":"mcm","clk":"7649704661","pt":1539508884412,"mc":[{"id":"1.149553672","rc":[{"ltp":1.43,"id":3588868},{"ltp":3.35,"id":9624731}]}]}
+{"op":"mcm","clk":"7649722024","pt":1539508944236,"mc":[{"id":"1.149553672","rc":[{"ltp":1.39,"id":3588868},{"ltp":3.5,"id":9624731}]}]}
+{"op":"mcm","clk":"7649728753","pt":1539509003822,"mc":[{"id":"1.149553672","rc":[{"ltp":1.47,"id":3588868},{"ltp":3.05,"id":9624731}]}]}
+{"op":"mcm","clk":"7649735864","pt":1539509063711,"mc":[{"id":"1.149553672","rc":[{"ltp":1.45,"id":3588868},{"ltp":3.1,"id":9624731}]}]}
+{"op":"mcm","clk":"7649742862","pt":1539509121390,"mc":[{"id":"1.149553672","rc":[{"ltp":1.44,"id":3588868},{"ltp":3.3,"id":9624731}]}]}
+{"op":"mcm","clk":"7649748913","pt":1539509171540,"mc":[{"id":"1.149553672","rc":[{"ltp":1.41,"id":3588868}]}]}
+{"op":"mcm","clk":"7649757632","pt":1539509244391,"mc":[{"id":"1.149553672","rc":[{"ltp":1.43,"id":3588868}]}]}
+{"op":"mcm","clk":"7649764602","pt":1539509302577,"mc":[{"id":"1.149553672","rc":[{"ltp":1.44,"id":3588868}]}]}
+{"op":"mcm","clk":"7649772248","pt":1539509364373,"mc":[{"id":"1.149553672","rc":[{"ltp":1.42,"id":3588868},{"ltp":3.5,"id":9624731}]}]}
+{"op":"mcm","clk":"7649780025","pt":1539509423477,"mc":[{"id":"1.149553672","rc":[{"ltp":1.45,"id":3588868},{"ltp":3.8,"id":9624731}]}]}
+{"op":"mcm","clk":"7649787510","pt":1539509484309,"mc":[{"id":"1.149553672","rc":[{"ltp":1.48,"id":3588868},{"ltp":3.15,"id":9624731}]}]}
+{"op":"mcm","clk":"7649794878","pt":1539509544600,"mc":[{"id":"1.149553672","rc":[{"ltp":1.56,"id":3588868},{"ltp":2.78,"id":9624731}]}]}
+{"op":"mcm","clk":"7649803226","pt":1539509603942,"mc":[{"id":"1.149553672","rc":[{"ltp":1.42,"id":3588868},{"ltp":3.4,"id":9624731}]}]}
+{"op":"mcm","clk":"7649812212","pt":1539509664775,"mc":[{"id":"1.149553672","rc":[{"ltp":1.52,"id":3588868},{"ltp":2.88,"id":9624731}]}]}
+{"op":"mcm","clk":"7649821174","pt":1539509724016,"mc":[{"id":"1.149553672","rc":[{"ltp":1.62,"id":3588868},{"ltp":2.92,"id":9624731}]}]}
+{"op":"mcm","clk":"7649830416","pt":1539509784925,"mc":[{"id":"1.149553672","rc":[{"ltp":1.58,"id":3588868},{"ltp":3.15,"id":9624731}]}]}
+{"op":"mcm","clk":"7649849196","pt":1539509844910,"mc":[{"id":"1.149553672","rc":[{"ltp":1.77,"id":3588868}]}]}
+{"op":"mcm","clk":"7649857391","pt":1539509901237,"mc":[{"id":"1.149553672","rc":[{"ltp":2.98,"id":3588868},{"ltp":1.72,"id":9624731}]}]}
+{"op":"mcm","clk":"7649866226","pt":1539509963171,"mc":[{"id":"1.149553672","rc":[{"ltp":2.42,"id":3588868},{"ltp":1.7,"id":9624731}]}]}
+{"op":"mcm","clk":"7649875245","pt":1539510025076,"mc":[{"id":"1.149553672","rc":[{"ltp":3.0,"id":3588868},{"ltp":1.5,"id":9624731}]}]}
+{"op":"mcm","clk":"7649883911","pt":1539510083550,"mc":[{"id":"1.149553672","rc":[{"ltp":3.1,"id":3588868},{"ltp":1.47,"id":9624731}]}]}
+{"op":"mcm","clk":"7649893077","pt":1539510142409,"mc":[{"id":"1.149553672","rc":[{"ltp":2.88,"id":3588868},{"ltp":1.53,"id":9624731}]}]}
+{"op":"mcm","clk":"7649902639","pt":1539510204343,"mc":[{"id":"1.149553672","rc":[{"ltp":3.35,"id":3588868},{"ltp":1.42,"id":9624731}]}]}
+{"op":"mcm","clk":"7649911473","pt":1539510264317,"mc":[{"id":"1.149553672","rc":[{"ltp":2.72,"id":3588868},{"ltp":1.56,"id":9624731}]}]}
+{"op":"mcm","clk":"7649920626","pt":1539510324406,"mc":[{"id":"1.149553672","rc":[{"ltp":2.84,"id":3588868},{"ltp":1.49,"id":9624731}]}]}
+{"op":"mcm","clk":"7649929481","pt":1539510384944,"mc":[{"id":"1.149553672","rc":[{"ltp":2.66,"id":3588868},{"ltp":1.61,"id":9624731}]}]}
+{"op":"mcm","clk":"7649938646","pt":1539510445039,"mc":[{"id":"1.149553672","rc":[{"ltp":1.6,"id":9624731}]}]}
+{"op":"mcm","clk":"7649947603","pt":1539510505058,"mc":[{"id":"1.149553672","rc":[{"ltp":2.24,"id":3588868},{"ltp":1.8,"id":9624731}]}]}
+{"op":"mcm","clk":"7649956453","pt":1539510565000,"mc":[{"id":"1.149553672","rc":[{"ltp":2.9,"id":3588868},{"ltp":1.53,"id":9624731}]}]}
+{"op":"mcm","clk":"7649965602","pt":1539510625138,"mc":[{"id":"1.149553672","rc":[{"ltp":2.5,"id":3588868},{"ltp":1.66,"id":9624731}]}]}
+{"op":"mcm","clk":"7649974381","pt":1539510684314,"mc":[{"id":"1.149553672","rc":[{"ltp":2.62,"id":3588868},{"ltp":1.61,"id":9624731}]}]}
+{"op":"mcm","clk":"7649992857","pt":1539510741795,"mc":[{"id":"1.149553672","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955725","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:48:00.000Z","suspendTime":"2018-10-14T08:48:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T09:52:17.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":3588868,"name":"Bernard Tomic"},{"status":"WINNER","sortPriority":2,"id":9624731,"name":"Oscar Otte"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:48:00.000Z","version":2455044251,"name":"Match Odds","eventName":"Tomic v Otte"}}]}

@@ -1,0 +1,75 @@
+{"op":"mcm","clk":"7760477165","pt":1540645170381,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2478425863,"name":"Match Odds","eventName":"18744418"}}]}
+{"op":"mcm","clk":"7760618826","pt":1540645745915,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2478425863,"name":"Match Odds","eventName":"18744418"}}]}
+{"op":"mcm","clk":"7763031941","pt":1540655033534,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T10:00:00.000Z","suspendTime":"2018-10-28T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T10:00:00.000Z","version":2479304979,"name":"Match Odds","eventName":"18744418"}}]}
+{"op":"mcm","clk":"7768573806","pt":1540699810755,"mc":[{"id":"1.150316648","rc":[{"ltp":1.41,"id":8907933},{"ltp":3.45,"id":10109468}]}]}
+{"op":"mcm","clk":"7768732260","pt":1540702141433,"mc":[{"id":"1.150316648","rc":[{"ltp":1.4,"id":8907933}]}]}
+{"op":"mcm","clk":"7768771232","pt":1540702579280,"mc":[{"id":"1.150316648","rc":[{"ltp":1.39,"id":8907933}]}]}
+{"op":"mcm","clk":"7769748811","pt":1540712516272,"mc":[{"id":"1.150316648","rc":[{"ltp":1.4,"id":8907933},{"ltp":3.5,"id":10109468}]}]}
+{"op":"mcm","clk":"7770044789","pt":1540715814785,"mc":[{"id":"1.150316648","rc":[{"ltp":1.39,"id":8907933}]}]}
+{"op":"mcm","clk":"7770604902","pt":1540720433256,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:49:00.000Z","suspendTime":"2018-10-28T09:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:49:00.000Z","version":2481459061,"name":"Match Odds","eventName":"18744418"}}]}
+{"op":"mcm","clk":"7770619316","pt":1540720540221,"mc":[{"id":"1.150316648","rc":[{"ltp":1.43,"id":8907933}]}]}
+{"op":"mcm","clk":"7770625181","pt":1540720587210,"mc":[{"id":"1.150316648","rc":[{"ltp":3.4,"id":10109468}]}]}
+{"op":"mcm","clk":"7770655519","pt":1540720821134,"mc":[{"id":"1.150316648","rc":[{"ltp":1.33,"id":8907933}]}]}
+{"op":"mcm","clk":"7770667207","pt":1540720901335,"mc":[{"id":"1.150316648","rc":[{"ltp":1.32,"id":8907933}]}]}
+{"op":"mcm","clk":"7770690606","pt":1540721073017,"mc":[{"id":"1.150316648","rc":[{"ltp":1.31,"id":8907933}]}]}
+{"op":"mcm","clk":"7770772814","pt":1540721562668,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:49:00.000Z","suspendTime":"2018-10-28T09:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:49:00.000Z","version":2481495021,"name":"Match Odds","eventName":"18744418"},"rc":[{"ltp":1.39,"id":8907933}]}]}
+{"op":"mcm","clk":"7770781509","pt":1540721621822,"mc":[{"id":"1.150316648","rc":[{"ltp":1.48,"id":8907933},{"ltp":3.1,"id":10109468}]}]}
+{"op":"mcm","clk":"7770789864","pt":1540721681795,"mc":[{"id":"1.150316648","rc":[{"ltp":1.5,"id":8907933}]}]}
+{"op":"mcm","clk":"7770796642","pt":1540721733471,"mc":[{"id":"1.150316648","rc":[{"ltp":3.2,"id":10109468}]}]}
+{"op":"mcm","clk":"7770805877","pt":1540721798120,"mc":[{"id":"1.150316648","rc":[{"ltp":1.54,"id":8907933},{"ltp":2.84,"id":10109468}]}]}
+{"op":"mcm","clk":"7770831007","pt":1540721979643,"mc":[{"id":"1.150316648","rc":[{"ltp":1.58,"id":8907933},{"ltp":2.74,"id":10109468}]}]}
+{"op":"mcm","clk":"7770849133","pt":1540722102747,"mc":[{"id":"1.150316648","rc":[{"ltp":2.72,"id":10109468}]}]}
+{"op":"mcm","clk":"7770869808","pt":1540722155065,"mc":[{"id":"1.150316648","rc":[{"ltp":1.46,"id":8907933}]}]}
+{"op":"mcm","clk":"7770880026","pt":1540722221246,"mc":[{"id":"1.150316648","rc":[{"ltp":1.54,"id":8907933},{"ltp":2.84,"id":10109468}]}]}
+{"op":"mcm","clk":"7770887855","pt":1540722273682,"mc":[{"id":"1.150316648","rc":[{"ltp":1.59,"id":8907933},{"ltp":2.6,"id":10109468}]}]}
+{"op":"mcm","clk":"7770917619","pt":1540722462617,"mc":[{"id":"1.150316648","rc":[{"ltp":1.56,"id":8907933},{"ltp":2.78,"id":10109468}]}]}
+{"op":"mcm","clk":"7770925795","pt":1540722521230,"mc":[{"id":"1.150316648","rc":[{"ltp":1.83,"id":8907933}]}]}
+{"op":"mcm","clk":"7770932820","pt":1540722576902,"mc":[{"id":"1.150316648","rc":[{"ltp":1.52,"id":8907933},{"ltp":2.72,"id":10109468}]}]}
+{"op":"mcm","clk":"7770941671","pt":1540722638234,"mc":[{"id":"1.150316648","rc":[{"ltp":1.47,"id":8907933},{"ltp":2.96,"id":10109468}]}]}
+{"op":"mcm","clk":"7770950123","pt":1540722698999,"mc":[{"id":"1.150316648","rc":[{"ltp":1.58,"id":8907933},{"ltp":2.72,"id":10109468}]}]}
+{"op":"mcm","clk":"7770959301","pt":1540722762249,"mc":[{"id":"1.150316648","rc":[{"ltp":1.5,"id":8907933},{"ltp":3.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7770966929","pt":1540722806270,"mc":[{"id":"1.150316648","rc":[{"ltp":1.64,"id":8907933},{"ltp":2.56,"id":10109468}]}]}
+{"op":"mcm","clk":"7770978264","pt":1540722878021,"mc":[{"id":"1.150316648","rc":[{"ltp":2.74,"id":10109468}]}]}
+{"op":"mcm","clk":"7771017130","pt":1540723054453,"mc":[{"id":"1.150316648","rc":[{"ltp":2.72,"id":10109468}]}]}
+{"op":"mcm","clk":"7771027134","pt":1540723119820,"mc":[{"id":"1.150316648","rc":[{"ltp":1.66,"id":8907933},{"ltp":2.5,"id":10109468}]}]}
+{"op":"mcm","clk":"7771036743","pt":1540723180066,"mc":[{"id":"1.150316648","rc":[{"ltp":2.48,"id":10109468}]}]}
+{"op":"mcm","clk":"7771046583","pt":1540723240530,"mc":[{"id":"1.150316648","rc":[{"ltp":1.74,"id":8907933},{"ltp":2.42,"id":10109468}]}]}
+{"op":"mcm","clk":"7771056540","pt":1540723300451,"mc":[{"id":"1.150316648","rc":[{"ltp":1.51,"id":8907933},{"ltp":2.96,"id":10109468}]}]}
+{"op":"mcm","clk":"7771065869","pt":1540723357033,"mc":[{"id":"1.150316648","rc":[{"ltp":2.88,"id":10109468}]}]}
+{"op":"mcm","clk":"7771076768","pt":1540723422134,"mc":[{"id":"1.150316648","rc":[{"ltp":1.7,"id":8907933},{"ltp":2.42,"id":10109468}]}]}
+{"op":"mcm","clk":"7771086341","pt":1540723480289,"mc":[{"id":"1.150316648","rc":[{"ltp":1.74,"id":8907933}]}]}
+{"op":"mcm","clk":"7771096808","pt":1540723542747,"mc":[{"id":"1.150316648","rc":[{"ltp":1.64,"id":8907933},{"ltp":2.56,"id":10109468}]}]}
+{"op":"mcm","clk":"7771105087","pt":1540723594231,"mc":[{"id":"1.150316648","rc":[{"ltp":1.62,"id":8907933},{"ltp":2.46,"id":10109468}]}]}
+{"op":"mcm","clk":"7771115389","pt":1540723660204,"mc":[{"id":"1.150316648","rc":[{"ltp":1.63,"id":8907933},{"ltp":2.58,"id":10109468}]}]}
+{"op":"mcm","clk":"7771124482","pt":1540723720142,"mc":[{"id":"1.150316648","rc":[{"ltp":1.76,"id":8907933},{"ltp":1.96,"id":10109468}]}]}
+{"op":"mcm","clk":"7771132751","pt":1540723782083,"mc":[{"id":"1.150316648","rc":[{"ltp":2.06,"id":8907933},{"ltp":1.92,"id":10109468}]}]}
+{"op":"mcm","clk":"7771142101","pt":1540723842482,"mc":[{"id":"1.150316648","rc":[{"ltp":1.92,"id":8907933}]}]}
+{"op":"mcm","clk":"7771150966","pt":1540723902562,"mc":[{"id":"1.150316648","rc":[{"ltp":2.1,"id":10109468}]}]}
+{"op":"mcm","clk":"7771171596","pt":1540723960560,"mc":[{"id":"1.150316648","rc":[{"ltp":1.64,"id":8907933},{"ltp":2.56,"id":10109468}]}]}
+{"op":"mcm","clk":"7771179359","pt":1540724014854,"mc":[{"id":"1.150316648","rc":[{"ltp":1.46,"id":8907933},{"ltp":3.4,"id":10109468}]}]}
+{"op":"mcm","clk":"7771189401","pt":1540724082734,"mc":[{"id":"1.150316648","rc":[{"ltp":1.3,"id":8907933},{"ltp":4.3,"id":10109468}]}]}
+{"op":"mcm","clk":"7771198126","pt":1540724141385,"mc":[{"id":"1.150316648","rc":[{"ltp":1.21,"id":8907933},{"ltp":5.9,"id":10109468}]}]}
+{"op":"mcm","clk":"7771207568","pt":1540724202032,"mc":[{"id":"1.150316648","rc":[{"ltp":1.2,"id":8907933},{"ltp":6.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771226248","pt":1540724322316,"mc":[{"id":"1.150316648","rc":[{"ltp":1.26,"id":8907933},{"ltp":4.8,"id":10109468}]}]}
+{"op":"mcm","clk":"7771235525","pt":1540724381645,"mc":[{"id":"1.150316648","rc":[{"ltp":1.15,"id":8907933},{"ltp":7.6,"id":10109468}]}]}
+{"op":"mcm","clk":"7771245636","pt":1540724439683,"mc":[{"id":"1.150316648","rc":[{"ltp":1.16,"id":8907933},{"ltp":7.2,"id":10109468}]}]}
+{"op":"mcm","clk":"7771256486","pt":1540724498851,"mc":[{"id":"1.150316648","rc":[{"ltp":5.6,"id":10109468}]}]}
+{"op":"mcm","clk":"7771267623","pt":1540724561223,"mc":[{"id":"1.150316648","rc":[{"ltp":1.18,"id":8907933},{"ltp":5.7,"id":10109468}]}]}
+{"op":"mcm","clk":"7771277585","pt":1540724614877,"mc":[{"id":"1.150316648","rc":[{"ltp":1.15,"id":8907933},{"ltp":7.2,"id":10109468}]}]}
+{"op":"mcm","clk":"7771288525","pt":1540724674822,"mc":[{"id":"1.150316648","rc":[{"ltp":1.17,"id":8907933},{"ltp":6.8,"id":10109468}]}]}
+{"op":"mcm","clk":"7771311955","pt":1540724800015,"mc":[{"id":"1.150316648","rc":[{"ltp":1.08,"id":8907933},{"ltp":8.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771336197","pt":1540724861700,"mc":[{"id":"1.150316648","rc":[{"ltp":1.04,"id":8907933},{"ltp":21.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771349023","pt":1540724921565,"mc":[{"id":"1.150316648","rc":[{"ltp":26.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771370641","pt":1540725041309,"mc":[{"id":"1.150316648","rc":[{"ltp":1.03,"id":8907933}]}]}
+{"op":"mcm","clk":"7771392400","pt":1540725162286,"mc":[{"id":"1.150316648","rc":[{"ltp":1.02,"id":8907933}]}]}
+{"op":"mcm","clk":"7771437034","pt":1540725399963,"mc":[{"id":"1.150316648","rc":[{"ltp":1.03,"id":8907933},{"ltp":34.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771447666","pt":1540725459893,"mc":[{"id":"1.150316648","rc":[{"ltp":1.04,"id":8907933},{"ltp":26.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771458514","pt":1540725521226,"mc":[{"id":"1.150316648","rc":[{"ltp":1.07,"id":8907933},{"ltp":34.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771469169","pt":1540725582578,"mc":[{"id":"1.150316648","rc":[{"ltp":1.03,"id":8907933}]}]}
+{"op":"mcm","clk":"7771478284","pt":1540725632251,"mc":[{"id":"1.150316648","rc":[{"ltp":1.04,"id":8907933}]}]}
+{"op":"mcm","clk":"7771491461","pt":1540725701750,"mc":[{"id":"1.150316648","rc":[{"ltp":1.02,"id":8907933},{"ltp":26.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771514685","pt":1540725762743,"mc":[{"id":"1.150316648","rc":[{"ltp":50.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771536737","pt":1540725881755,"mc":[{"id":"1.150316648","rc":[{"ltp":1.03,"id":8907933},{"ltp":34.0,"id":10109468}]}]}
+{"op":"mcm","clk":"7771546550","pt":1540725934753,"mc":[{"id":"1.150316648","rc":[{"ltp":1.01,"id":8907933}]}]}
+{"op":"mcm","clk":"7771555820","pt":1540725986147,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:49:00.000Z","suspendTime":"2018-10-28T09:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"ACTIVE","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:49:00.000Z","version":2481676878,"name":"Match Odds","eventName":"18744418"}}]}
+{"op":"mcm","clk":"7771562318","pt":1540726023625,"mc":[{"id":"1.150316648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979557","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:49:00.000Z","suspendTime":"2018-10-28T09:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-28T11:26:58.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8907933,"name":"Alexander Bublik"},{"status":"LOSER","sortPriority":2,"id":10109468,"name":"Patrik Niklas-salminen"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:49:00.000Z","version":2481679153,"name":"Match Odds","eventName":"18744418"}}]}

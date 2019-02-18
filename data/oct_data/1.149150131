@@ -1,0 +1,112 @@
+{"op":"mcm","clk":"7647580076","pt":1538756434451,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T09:00:00.000Z","suspendTime":"2018-10-06T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T09:00:00.000Z","version":2438229393,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7647750939","pt":1538757477884,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T09:00:00.000Z","suspendTime":"2018-10-06T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T09:00:00.000Z","version":2438229393,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7648122863","pt":1538759660894,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T11:00:00.000Z","suspendTime":"2018-10-06T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T11:00:00.000Z","version":2438373805,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7656088605","pt":1538822360241,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T10:38:00.000Z","suspendTime":"2018-10-06T10:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T10:38:00.000Z","version":2439805232,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7656262473","pt":1538823389745,"mc":[{"id":"1.149150131","rc":[{"ltp":2.16,"id":20337230},{"ltp":1.77,"id":18349914}]}]}
+{"op":"mcm","clk":"7656446428","pt":1538824413996,"mc":[{"id":"1.149150131","rc":[{"ltp":2.12,"id":20337230}]}]}
+{"op":"mcm","clk":"7656456593","pt":1538824474320,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T10:38:00.000Z","suspendTime":"2018-10-06T10:38:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T10:38:00.000Z","version":2439899339,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"},"rc":[{"ltp":1.89,"id":18349914},{"ltp":2.24,"id":20337230}]}]}
+{"op":"mcm","clk":"7656465704","pt":1538824525285,"mc":[{"id":"1.149150131","rc":[{"ltp":1.86,"id":18349914},{"ltp":2.2,"id":20337230}]}]}
+{"op":"mcm","clk":"7656478446","pt":1538824593198,"mc":[{"id":"1.149150131","rc":[{"ltp":1.8,"id":18349914},{"ltp":2.26,"id":20337230}]}]}
+{"op":"mcm","clk":"7656517200","pt":1538824710496,"mc":[{"id":"1.149150131","rc":[{"ltp":1.58,"id":18349914},{"ltp":2.78,"id":20337230}]}]}
+{"op":"mcm","clk":"7656527918","pt":1538824765921,"mc":[{"id":"1.149150131","rc":[{"ltp":1.45,"id":18349914},{"ltp":3.2,"id":20337230}]}]}
+{"op":"mcm","clk":"7656540437","pt":1538824831351,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914},{"ltp":2.52,"id":20337230}]}]}
+{"op":"mcm","clk":"7656552843","pt":1538824893107,"mc":[{"id":"1.149150131","rc":[{"ltp":1.9,"id":18349914},{"ltp":2.1,"id":20337230}]}]}
+{"op":"mcm","clk":"7656598162","pt":1538825127741,"mc":[{"id":"1.149150131","rc":[{"ltp":1.74,"id":18349914}]}]}
+{"op":"mcm","clk":"7656611416","pt":1538825192621,"mc":[{"id":"1.149150131","rc":[{"ltp":1.62,"id":18349914},{"ltp":2.64,"id":20337230}]}]}
+{"op":"mcm","clk":"7656635896","pt":1538825312226,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914}]}]}
+{"op":"mcm","clk":"7656745831","pt":1538825788287,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7656791249","pt":1538826015509,"mc":[{"id":"1.149150131","rc":[{"ltp":2.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7656860578","pt":1538826334241,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7656911708","pt":1538826514220,"mc":[{"id":"1.149150131","rc":[{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7656936857","pt":1538826660447,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7657000935","pt":1538827047416,"mc":[{"id":"1.149150131","rc":[{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7657240654","pt":1538828137001,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914}]}]}
+{"op":"mcm","clk":"7657947233","pt":1538831360596,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7658319371","pt":1538833014041,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7659726343","pt":1538837838373,"mc":[{"id":"1.149150131","rc":[{"ltp":2.42,"id":20337230}]}]}
+{"op":"mcm","clk":"7659886936","pt":1538838380107,"mc":[{"id":"1.149150131","rc":[{"ltp":2.52,"id":20337230}]}]}
+{"op":"mcm","clk":"7660196817","pt":1538839226445,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914},{"ltp":2.46,"id":20337230}]}]}
+{"op":"mcm","clk":"7660511566","pt":1538840125869,"mc":[{"id":"1.149150131","rc":[{"ltp":2.5,"id":20337230},{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7660547213","pt":1538840230467,"mc":[{"id":"1.149150131","rc":[{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7660919754","pt":1538841721437,"mc":[{"id":"1.149150131","rc":[{"ltp":2.42,"id":20337230}]}]}
+{"op":"mcm","clk":"7661151638","pt":1538842760359,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:00:00.000Z","suspendTime":"2018-10-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:00:00.000Z","version":2441400985,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7661462883","pt":1538844208468,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914},{"ltp":2.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7661474643","pt":1538844271458,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7661574005","pt":1538844748531,"mc":[{"id":"1.149150131","rc":[{"ltp":1.71,"id":18349914}]}]}
+{"op":"mcm","clk":"7661592697","pt":1538844855648,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914},{"ltp":2.46,"id":20337230}]}]}
+{"op":"mcm","clk":"7661605313","pt":1538844931960,"mc":[{"id":"1.149150131","rc":[{"ltp":1.71,"id":18349914}]}]}
+{"op":"mcm","clk":"7661611087","pt":1538844967247,"mc":[{"id":"1.149150131","rc":[{"ltp":2.4,"id":20337230}]}]}
+{"op":"mcm","clk":"7662023434","pt":1538847090307,"mc":[{"id":"1.149150131","rc":[{"ltp":1.72,"id":18349914}]}]}
+{"op":"mcm","clk":"7662166611","pt":1538847742483,"mc":[{"id":"1.149150131","rc":[{"ltp":1.71,"id":18349914},{"ltp":2.42,"id":20337230}]}]}
+{"op":"mcm","clk":"7662735650","pt":1538850448786,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914},{"ltp":2.46,"id":20337230}]}]}
+{"op":"mcm","clk":"7662760538","pt":1538850569511,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914},{"ltp":2.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7662811788","pt":1538850741676,"mc":[{"id":"1.149150131","rc":[{"ltp":1.72,"id":18349914}]}]}
+{"op":"mcm","clk":"7662893074","pt":1538851108072,"mc":[{"id":"1.149150131","rc":[{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7662986052","pt":1538851510663,"mc":[{"id":"1.149150131","rc":[{"ltp":1.72,"id":18349914}]}]}
+{"op":"mcm","clk":"7664051593","pt":1538856479722,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914},{"ltp":2.46,"id":20337230}]}]}
+{"op":"mcm","clk":"7664397572","pt":1538858635170,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914}]}]}
+{"op":"mcm","clk":"7664550221","pt":1538859805246,"mc":[{"id":"1.149150131","rc":[{"ltp":1.72,"id":18349914}]}]}
+{"op":"mcm","clk":"7664591884","pt":1538860250785,"mc":[{"id":"1.149150131","rc":[{"ltp":1.71,"id":18349914}]}]}
+{"op":"mcm","clk":"7664877909","pt":1538863052532,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7664881806","pt":1538863098793,"mc":[{"id":"1.149150131","rc":[{"ltp":2.5,"id":20337230},{"ltp":1.65,"id":18349914}]}]}
+{"op":"mcm","clk":"7665363594","pt":1538868144800,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7665366739","pt":1538868179371,"mc":[{"id":"1.149150131","rc":[{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7665533112","pt":1538870008086,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7665546359","pt":1538870217708,"mc":[{"id":"1.149150131","rc":[{"ltp":1.64,"id":18349914}]}]}
+{"op":"mcm","clk":"7665824166","pt":1538873191362,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7665950506","pt":1538874453544,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914}]}]}
+{"op":"mcm","clk":"7666037898","pt":1538875442199,"mc":[{"id":"1.149150131","rc":[{"ltp":2.56,"id":20337230}]}]}
+{"op":"mcm","clk":"7666074412","pt":1538875922140,"mc":[{"id":"1.149150131","rc":[{"ltp":1.64,"id":18349914}]}]}
+{"op":"mcm","clk":"7666218178","pt":1538877453277,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914},{"ltp":2.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7666219370","pt":1538877468070,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914},{"ltp":2.48,"id":20337230}]}]}
+{"op":"mcm","clk":"7666601846","pt":1538881794682,"mc":[{"id":"1.149150131","rc":[{"ltp":1.65,"id":18349914}]}]}
+{"op":"mcm","clk":"7667305480","pt":1538890630194,"mc":[{"id":"1.149150131","rc":[{"ltp":2.56,"id":20337230}]}]}
+{"op":"mcm","clk":"7667341197","pt":1538891064735,"mc":[{"id":"1.149150131","rc":[{"ltp":1.67,"id":18349914}]}]}
+{"op":"mcm","clk":"7667561775","pt":1538893507092,"mc":[{"id":"1.149150131","rc":[{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7667573752","pt":1538893654495,"mc":[{"id":"1.149150131","rc":[{"ltp":1.64,"id":18349914}]}]}
+{"op":"mcm","clk":"7667788828","pt":1538895776012,"mc":[{"id":"1.149150131","rc":[{"ltp":1.62,"id":18349914}]}]}
+{"op":"mcm","clk":"7668139811","pt":1538899590970,"mc":[{"id":"1.149150131","rc":[{"ltp":2.6,"id":20337230}]}]}
+{"op":"mcm","clk":"7668231967","pt":1538900675764,"mc":[{"id":"1.149150131","rc":[{"ltp":1.66,"id":18349914},{"ltp":2.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7668248854","pt":1538900948448,"mc":[{"id":"1.149150131","rc":[{"ltp":1.64,"id":18349914}]}]}
+{"op":"mcm","clk":"7668402216","pt":1538902763316,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:15:00.000Z","suspendTime":"2018-10-07T09:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:15:00.000Z","version":2443258946,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7668442320","pt":1538903065560,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:02:00.000Z","suspendTime":"2018-10-07T09:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:02:00.000Z","version":2443275605,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}
+{"op":"mcm","clk":"7668474134","pt":1538903427932,"mc":[{"id":"1.149150131","rc":[{"ltp":1.61,"id":18349914}]}]}
+{"op":"mcm","clk":"7668486838","pt":1538903550170,"mc":[{"id":"1.149150131","rc":[{"ltp":3.5,"id":20337230},{"ltp":1.4,"id":18349914}]}]}
+{"op":"mcm","clk":"7668494374","pt":1538903612500,"mc":[{"id":"1.149150131","rc":[{"ltp":3.35,"id":20337230}]}]}
+{"op":"mcm","clk":"7668501330","pt":1538903669452,"mc":[{"id":"1.149150131","rc":[{"ltp":3.5,"id":20337230}]}]}
+{"op":"mcm","clk":"7668538093","pt":1538903912573,"mc":[{"id":"1.149150131","rc":[{"ltp":1.62,"id":18349914}]}]}
+{"op":"mcm","clk":"7668556356","pt":1538904093782,"mc":[{"id":"1.149150131","rc":[{"ltp":2.26,"id":20337230},{"ltp":1.81,"id":18349914}]}]}
+{"op":"mcm","clk":"7668562607","pt":1538904154262,"mc":[{"id":"1.149150131","rc":[{"ltp":2.22,"id":20337230},{"ltp":1.87,"id":18349914}]}]}
+{"op":"mcm","clk":"7668566028","pt":1538904188342,"mc":[{"id":"1.149150131","rc":[{"ltp":1.75,"id":18349914}]}]}
+{"op":"mcm","clk":"7668574804","pt":1538904272940,"mc":[{"id":"1.149150131","rc":[{"ltp":2.0,"id":20337230},{"ltp":1.98,"id":18349914}]}]}
+{"op":"mcm","clk":"7668598965","pt":1538904509357,"mc":[{"id":"1.149150131","rc":[{"ltp":1.99,"id":20337230},{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7668619589","pt":1538904693192,"mc":[{"id":"1.149150131","rc":[{"ltp":2.06,"id":20337230},{"ltp":1.93,"id":18349914}]}]}
+{"op":"mcm","clk":"7668638196","pt":1538904754154,"mc":[{"id":"1.149150131","rc":[{"ltp":2.04,"id":20337230},{"ltp":1.96,"id":18349914}]}]}
+{"op":"mcm","clk":"7668644906","pt":1538904807734,"mc":[{"id":"1.149150131","rc":[{"ltp":2.26,"id":18349914}]}]}
+{"op":"mcm","clk":"7668653660","pt":1538904868357,"mc":[{"id":"1.149150131","rc":[{"ltp":2.02,"id":18349914}]}]}
+{"op":"mcm","clk":"7668661808","pt":1538904931123,"mc":[{"id":"1.149150131","rc":[{"ltp":2.36,"id":20337230},{"ltp":1.74,"id":18349914}]}]}
+{"op":"mcm","clk":"7668669574","pt":1538904991514,"mc":[{"id":"1.149150131","rc":[{"ltp":1.6,"id":18349914}]}]}
+{"op":"mcm","clk":"7668677145","pt":1538905051156,"mc":[{"id":"1.149150131","rc":[{"ltp":2.46,"id":20337230},{"ltp":1.68,"id":18349914}]}]}
+{"op":"mcm","clk":"7668685662","pt":1538905114036,"mc":[{"id":"1.149150131","rc":[{"ltp":3.15,"id":20337230},{"ltp":1.47,"id":18349914}]}]}
+{"op":"mcm","clk":"7668690082","pt":1538905151164,"mc":[{"id":"1.149150131","rc":[{"ltp":4.7,"id":20337230}]}]}
+{"op":"mcm","clk":"7668747381","pt":1538905589621,"mc":[{"id":"1.149150131","rc":[{"ltp":1.27,"id":18349914}]}]}
+{"op":"mcm","clk":"7668791881","pt":1538905891605,"mc":[{"id":"1.149150131","rc":[{"ltp":1.21,"id":18349914}]}]}
+{"op":"mcm","clk":"7668811758","pt":1538906072767,"mc":[{"id":"1.149150131","rc":[{"ltp":1.27,"id":18349914}]}]}
+{"op":"mcm","clk":"7668831685","pt":1538906249955,"mc":[{"id":"1.149150131","rc":[{"ltp":1.48,"id":18349914}]}]}
+{"op":"mcm","clk":"7668922252","pt":1538906791568,"mc":[{"id":"1.149150131","rc":[{"ltp":2.4,"id":20337230},{"ltp":1.7,"id":18349914}]}]}
+{"op":"mcm","clk":"7668931980","pt":1538906842596,"mc":[{"id":"1.149150131","rc":[{"ltp":2.22,"id":20337230},{"ltp":1.81,"id":18349914}]}]}
+{"op":"mcm","clk":"7668941647","pt":1538906908263,"mc":[{"id":"1.149150131","rc":[{"ltp":2.56,"id":20337230},{"ltp":1.66,"id":18349914}]}]}
+{"op":"mcm","clk":"7668950326","pt":1538906967789,"mc":[{"id":"1.149150131","rc":[{"ltp":2.3,"id":20337230},{"ltp":1.77,"id":18349914}]}]}
+{"op":"mcm","clk":"7668960515","pt":1538907032818,"mc":[{"id":"1.149150131","rc":[{"ltp":2.28,"id":20337230},{"ltp":1.8,"id":18349914}]}]}
+{"op":"mcm","clk":"7668987028","pt":1538907210751,"mc":[{"id":"1.149150131","rc":[{"ltp":2.12,"id":20337230},{"ltp":2.12,"id":18349914}]}]}
+{"op":"mcm","clk":"7669006872","pt":1538907334567,"mc":[{"id":"1.149150131","rc":[{"ltp":2.16,"id":18349914}]}]}
+{"op":"mcm","clk":"7669016482","pt":1538907393219,"mc":[{"id":"1.149150131","rc":[{"ltp":1.86,"id":20337230}]}]}
+{"op":"mcm","clk":"7669036602","pt":1538907453309,"mc":[{"id":"1.149150131","rc":[{"ltp":2.16,"id":20337230},{"ltp":1.86,"id":18349914}]}]}
+{"op":"mcm","clk":"7669046221","pt":1538907513931,"mc":[{"id":"1.149150131","rc":[{"ltp":5.1,"id":20337230},{"ltp":1.25,"id":18349914}]}]}
+{"op":"mcm","clk":"7669072889","pt":1538907683353,"mc":[{"id":"1.149150131","rc":[{"ltp":3.55,"id":20337230},{"ltp":1.3,"id":18349914}]}]}
+{"op":"mcm","clk":"7669080663","pt":1538907735934,"mc":[{"id":"1.149150131","rc":[{"ltp":1.36,"id":18349914}]}]}
+{"op":"mcm","clk":"7669091590","pt":1538907808808,"mc":[{"id":"1.149150131","rc":[{"ltp":4.4,"id":20337230}]}]}
+{"op":"mcm","clk":"7669100534","pt":1538907866823,"mc":[{"id":"1.149150131","rc":[{"ltp":2.72,"id":20337230},{"ltp":1.58,"id":18349914}]}]}
+{"op":"mcm","clk":"7669117927","pt":1538907983991,"mc":[{"id":"1.149150131","rc":[{"ltp":11.0,"id":20337230},{"ltp":1.1,"id":18349914}]}]}
+{"op":"mcm","clk":"7669126491","pt":1538908039114,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:02:00.000Z","suspendTime":"2018-10-07T09:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"ACTIVE","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:02:00.000Z","version":2443432399,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"},"rc":[{"ltp":8.0,"id":20337230},{"ltp":1.14,"id":18349914}]}]}
+{"op":"mcm","clk":"7669132762","pt":1538908080928,"mc":[{"id":"1.149150131","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28940757","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T09:02:00.000Z","suspendTime":"2018-10-07T09:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T10:27:56.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":18349914,"name":"Junaid/Pel"},{"status":"LOSER","sortPriority":2,"id":20337230,"name":"Baldi/Caruso"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T09:02:00.000Z","version":2443433378,"name":"Match Odds","eventName":"Junaid/Pel v Baldi/Caruso"}}]}

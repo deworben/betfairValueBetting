@@ -1,0 +1,54 @@
+{"op":"mcm","clk":"7639831634","pt":1538834488978,"mc":[{"id":"1.149183353","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942232","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T14:00:00.000Z","suspendTime":"2018-10-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628765,"name":"J Paolini"},{"status":"ACTIVE","sortPriority":2,"id":9952749,"name":"A Anshba"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T14:00:00.000Z","version":2440452810,"name":"Match Odds","eventName":"J Paolini v A Anshba"}}]}
+{"op":"mcm","clk":"7639927882","pt":1538834868668,"mc":[{"id":"1.149183353","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942232","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T14:00:00.000Z","suspendTime":"2018-10-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628765,"name":"J Paolini"},{"status":"ACTIVE","sortPriority":2,"id":9952749,"name":"A Anshba"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T14:00:00.000Z","version":2440541251,"name":"Match Odds","eventName":"J Paolini v A Anshba"}}]}
+{"op":"mcm","clk":"7639942131","pt":1538834920440,"mc":[{"id":"1.149183353","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942232","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T14:00:00.000Z","suspendTime":"2018-10-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628765,"name":"J Paolini"},{"status":"ACTIVE","sortPriority":2,"id":9952749,"name":"A Anshba"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T14:08:37.000Z","version":2440546585,"name":"Match Odds","eventName":"J Paolini v A Anshba"}}]}
+{"op":"mcm","clk":"7640039536","pt":1538835209146,"mc":[{"id":"1.149183353","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942232","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T14:00:00.000Z","suspendTime":"2018-10-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628765,"name":"J Paolini"},{"status":"ACTIVE","sortPriority":2,"id":9952749,"name":"A Anshba"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T14:08:37.000Z","version":2440546585,"name":"Match Odds","eventName":"J Paolini v A Anshba"}}]}
+{"op":"mcm","clk":"7640260663","pt":1538835991667,"mc":[{"id":"1.149183353","rc":[{"ltp":2.5,"id":9952749},{"ltp":1.66,"id":9628765}]}]}
+{"op":"mcm","clk":"7640432137","pt":1538836592193,"mc":[{"id":"1.149183353","rc":[{"ltp":1.29,"id":9628765}]}]}
+{"op":"mcm","clk":"7640512854","pt":1538836889188,"mc":[{"id":"1.149183353","rc":[{"ltp":1.2,"id":9628765}]}]}
+{"op":"mcm","clk":"7640547218","pt":1538836953326,"mc":[{"id":"1.149183353","rc":[{"ltp":1.25,"id":9628765}]}]}
+{"op":"mcm","clk":"7640812078","pt":1538838028936,"mc":[{"id":"1.149183353","rc":[{"ltp":1.35,"id":9628765}]}]}
+{"op":"mcm","clk":"7640826302","pt":1538838093814,"mc":[{"id":"1.149183353","rc":[{"ltp":2.92,"id":9952749},{"ltp":1.52,"id":9628765}]}]}
+{"op":"mcm","clk":"7640850214","pt":1538838212215,"mc":[{"id":"1.149183353","rc":[{"ltp":1.3,"id":9628765}]}]}
+{"op":"mcm","clk":"7640993225","pt":1538838752655,"mc":[{"id":"1.149183353","rc":[{"ltp":3.3,"id":9952749},{"ltp":1.43,"id":9628765}]}]}
+{"op":"mcm","clk":"7641024764","pt":1538838867785,"mc":[{"id":"1.149183353","rc":[{"ltp":4.0,"id":9952749},{"ltp":1.29,"id":9628765}]}]}
+{"op":"mcm","clk":"7641055508","pt":1538838982507,"mc":[{"id":"1.149183353","rc":[{"ltp":1.17,"id":9628765}]}]}
+{"op":"mcm","clk":"7641102734","pt":1538839163215,"mc":[{"id":"1.149183353","rc":[{"ltp":7.6,"id":9952749},{"ltp":1.14,"id":9628765}]}]}
+{"op":"mcm","clk":"7641178867","pt":1538839472413,"mc":[{"id":"1.149183353","rc":[{"ltp":1.13,"id":9628765}]}]}
+{"op":"mcm","clk":"7641192267","pt":1538839526101,"mc":[{"id":"1.149183353","rc":[{"ltp":1.21,"id":9628765}]}]}
+{"op":"mcm","clk":"7641206968","pt":1538839587226,"mc":[{"id":"1.149183353","rc":[{"ltp":1.22,"id":9628765}]}]}
+{"op":"mcm","clk":"7641268194","pt":1538839773176,"mc":[{"id":"1.149183353","rc":[{"ltp":1.25,"id":9628765}]}]}
+{"op":"mcm","clk":"7641298416","pt":1538839892123,"mc":[{"id":"1.149183353","rc":[{"ltp":1.35,"id":9628765}]}]}
+{"op":"mcm","clk":"7641313230","pt":1538839949541,"mc":[{"id":"1.149183353","rc":[{"ltp":4.6,"id":9952749},{"ltp":1.28,"id":9628765}]}]}
+{"op":"mcm","clk":"7641347182","pt":1538840072767,"mc":[{"id":"1.149183353","rc":[{"ltp":1.27,"id":9628765}]}]}
+{"op":"mcm","clk":"7641395237","pt":1538840251440,"mc":[{"id":"1.149183353","rc":[{"ltp":1.21,"id":9628765}]}]}
+{"op":"mcm","clk":"7641410124","pt":1538840308740,"mc":[{"id":"1.149183353","rc":[{"ltp":1.2,"id":9628765}]}]}
+{"op":"mcm","clk":"7641519649","pt":1538840673878,"mc":[{"id":"1.149183353","rc":[{"ltp":3.25,"id":9952749},{"ltp":1.26,"id":9628765}]}]}
+{"op":"mcm","clk":"7641557211","pt":1538840847274,"mc":[{"id":"1.149183353","rc":[{"ltp":1.49,"id":9628765}]}]}
+{"op":"mcm","clk":"7641607289","pt":1538841092072,"mc":[{"id":"1.149183353","rc":[{"ltp":1.55,"id":9628765}]}]}
+{"op":"mcm","clk":"7641618838","pt":1538841150055,"mc":[{"id":"1.149183353","rc":[{"ltp":2.28,"id":9952749},{"ltp":1.77,"id":9628765}]}]}
+{"op":"mcm","clk":"7641629235","pt":1538841210970,"mc":[{"id":"1.149183353","rc":[{"ltp":1.74,"id":9628765}]}]}
+{"op":"mcm","clk":"7641639644","pt":1538841273848,"mc":[{"id":"1.149183353","rc":[{"ltp":2.22,"id":9952749},{"ltp":1.81,"id":9628765}]}]}
+{"op":"mcm","clk":"7641649324","pt":1538841330626,"mc":[{"id":"1.149183353","rc":[{"ltp":2.28,"id":9952749},{"ltp":1.77,"id":9628765}]}]}
+{"op":"mcm","clk":"7641692752","pt":1538841509311,"mc":[{"id":"1.149183353","rc":[{"ltp":1.61,"id":9628765}]}]}
+{"op":"mcm","clk":"7641712164","pt":1538841633225,"mc":[{"id":"1.149183353","rc":[{"ltp":2.2,"id":9952749},{"ltp":1.82,"id":9628765}]}]}
+{"op":"mcm","clk":"7641722550","pt":1538841692853,"mc":[{"id":"1.149183353","rc":[{"ltp":1.88,"id":9628765}]}]}
+{"op":"mcm","clk":"7641740397","pt":1538841791345,"mc":[{"id":"1.149183353","rc":[{"ltp":2.16,"id":9952749},{"ltp":1.86,"id":9628765}]}]}
+{"op":"mcm","clk":"7641766142","pt":1538841925892,"mc":[{"id":"1.149183353","rc":[{"ltp":1.96,"id":9952749},{"ltp":2.04,"id":9628765}]}]}
+{"op":"mcm","clk":"7641779798","pt":1538841993251,"mc":[{"id":"1.149183353","rc":[{"ltp":1.8,"id":9628765}]}]}
+{"op":"mcm","clk":"7641821354","pt":1538842210879,"mc":[{"id":"1.149183353","rc":[{"ltp":2.0,"id":9952749},{"ltp":2.0,"id":9628765}]}]}
+{"op":"mcm","clk":"7641900509","pt":1538842527652,"mc":[{"id":"1.149183353","rc":[{"ltp":3.1,"id":9952749},{"ltp":1.31,"id":9628765}]}]}
+{"op":"mcm","clk":"7641913891","pt":1538842592305,"mc":[{"id":"1.149183353","rc":[{"ltp":6.0,"id":9952749},{"ltp":1.23,"id":9628765}]}]}
+{"op":"mcm","clk":"7641925968","pt":1538842652237,"mc":[{"id":"1.149183353","rc":[{"ltp":4.2,"id":9952749},{"ltp":1.31,"id":9628765}]}]}
+{"op":"mcm","clk":"7641938422","pt":1538842713640,"mc":[{"id":"1.149183353","rc":[{"ltp":1.48,"id":9628765}]}]}
+{"op":"mcm","clk":"7641957299","pt":1538842806397,"mc":[{"id":"1.149183353","rc":[{"ltp":1.37,"id":9628765}]}]}
+{"op":"mcm","clk":"7641973283","pt":1538842888385,"mc":[{"id":"1.149183353","rc":[{"ltp":1.39,"id":9628765}]}]}
+{"op":"mcm","clk":"7641984669","pt":1538842949126,"mc":[{"id":"1.149183353","rc":[{"ltp":1.29,"id":9628765}]}]}
+{"op":"mcm","clk":"7642009176","pt":1538843065355,"mc":[{"id":"1.149183353","rc":[{"ltp":1.23,"id":9628765}]}]}
+{"op":"mcm","clk":"7642035569","pt":1538843193040,"mc":[{"id":"1.149183353","rc":[{"ltp":1.31,"id":9628765}]}]}
+{"op":"mcm","clk":"7642061237","pt":1538843253860,"mc":[{"id":"1.149183353","rc":[{"ltp":1.21,"id":9628765}]}]}
+{"op":"mcm","clk":"7642072394","pt":1538843309826,"mc":[{"id":"1.149183353","rc":[{"ltp":1.14,"id":9628765}]}]}
+{"op":"mcm","clk":"7642098305","pt":1538843432897,"mc":[{"id":"1.149183353","rc":[{"ltp":1.1,"id":9628765}]}]}
+{"op":"mcm","clk":"7642110149","pt":1538843492366,"mc":[{"id":"1.149183353","rc":[{"ltp":1.11,"id":9628765}]}]}
+{"op":"mcm","clk":"7642121758","pt":1538843551575,"mc":[{"id":"1.149183353","rc":[{"ltp":1.03,"id":9628765}]}]}
+{"op":"mcm","clk":"7642158127","pt":1538843724915,"mc":[{"id":"1.149183353","rc":[{"ltp":1.01,"id":9628765}]}]}
+{"op":"mcm","clk":"7642226038","pt":1538844071660,"mc":[{"id":"1.149183353","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942232","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T14:00:00.000Z","suspendTime":"2018-10-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T16:41:08.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9628765,"name":"J Paolini"},{"status":"LOSER","sortPriority":2,"id":9952749,"name":"A Anshba"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-06T14:08:37.000Z","version":2441485251,"name":"Match Odds","eventName":"J Paolini v A Anshba"}}]}

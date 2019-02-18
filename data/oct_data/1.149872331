@@ -1,0 +1,95 @@
+{"op":"mcm","clk":"7691800064","pt":1539972238544,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:00:00.000Z","suspendTime":"2018-10-20T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:00:00.000Z","version":2462161506,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7691944491","pt":1539972872816,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:00:00.000Z","suspendTime":"2018-10-20T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:00:00.000Z","version":2462161506,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7694044719","pt":1539988334471,"mc":[{"id":"1.149872331","rc":[{"ltp":3.3,"id":8575032}]}]}
+{"op":"mcm","clk":"7694912658","pt":1539997900351,"mc":[{"id":"1.149872331","rc":[{"ltp":2.88,"id":8575032}]}]}
+{"op":"mcm","clk":"7696734900","pt":1540017033706,"mc":[{"id":"1.149872331","rc":[{"ltp":2.74,"id":8575032},{"ltp":2.4,"id":8284520}]}]}
+{"op":"mcm","clk":"7696770034","pt":1540017352449,"mc":[{"id":"1.149872331","rc":[{"ltp":1.51,"id":8284520}]}]}
+{"op":"mcm","clk":"7696804518","pt":1540017524346,"mc":[{"id":"1.149872331","rc":[{"ltp":1.5,"id":8284520}]}]}
+{"op":"mcm","clk":"7696862407","pt":1540018134077,"mc":[{"id":"1.149872331","rc":[{"ltp":1.47,"id":8284520}]}]}
+{"op":"mcm","clk":"7696865650","pt":1540018168367,"mc":[{"id":"1.149872331","rc":[{"ltp":1.48,"id":8284520}]}]}
+{"op":"mcm","clk":"7697735521","pt":1540024966040,"mc":[{"id":"1.149872331","rc":[{"ltp":1.49,"id":8284520}]}]}
+{"op":"mcm","clk":"7698252238","pt":1540027851708,"mc":[{"id":"1.149872331","rc":[{"ltp":1.51,"id":8284520}]}]}
+{"op":"mcm","clk":"7698262894","pt":1540027913318,"mc":[{"id":"1.149872331","rc":[{"ltp":3.0,"id":8575032},{"ltp":1.5,"id":8284520}]}]}
+{"op":"mcm","clk":"7698897243","pt":1540031146636,"mc":[{"id":"1.149872331","rc":[{"ltp":2.86,"id":8575032}]}]}
+{"op":"mcm","clk":"7699121742","pt":1540032341006,"mc":[{"id":"1.149872331","rc":[{"ltp":1.53,"id":8284520}]}]}
+{"op":"mcm","clk":"7699365919","pt":1540033568519,"mc":[{"id":"1.149872331","rc":[{"ltp":1.51,"id":8284520}]}]}
+{"op":"mcm","clk":"7700358184","pt":1540037931825,"mc":[{"id":"1.149872331","rc":[{"ltp":1.52,"id":8284520}]}]}
+{"op":"mcm","clk":"7700941372","pt":1540040333042,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:15:00.000Z","suspendTime":"2018-10-20T15:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:15:00.000Z","version":2464042820,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7701167096","pt":1540041234074,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:08:00.000Z","suspendTime":"2018-10-20T15:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:08:00.000Z","version":2464118261,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7701407497","pt":1540042252858,"mc":[{"id":"1.149872331","rc":[{"ltp":1.53,"id":8284520}]}]}
+{"op":"mcm","clk":"7701612189","pt":1540043035514,"mc":[{"id":"1.149872331","rc":[{"ltp":1.55,"id":8284520}]}]}
+{"op":"mcm","clk":"7701779980","pt":1540043695126,"mc":[{"id":"1.149872331","rc":[{"ltp":2.54,"id":8575032},{"ltp":1.56,"id":8284520}]}]}
+{"op":"mcm","clk":"7702358635","pt":1540045613776,"mc":[{"id":"1.149872331","rc":[{"ltp":2.74,"id":8575032},{"ltp":1.58,"id":8284520}]}]}
+{"op":"mcm","clk":"7702449628","pt":1540045906490,"mc":[{"id":"1.149872331","rc":[{"ltp":1.57,"id":8284520}]}]}
+{"op":"mcm","clk":"7702724340","pt":1540046753654,"mc":[{"id":"1.149872331","rc":[{"ltp":1.59,"id":8284520}]}]}
+{"op":"mcm","clk":"7702789215","pt":1540046993489,"mc":[{"id":"1.149872331","rc":[{"ltp":2.82,"id":8575032},{"ltp":1.55,"id":8284520}]}]}
+{"op":"mcm","clk":"7702937571","pt":1540047595362,"mc":[{"id":"1.149872331","rc":[{"ltp":2.8,"id":8575032}]}]}
+{"op":"mcm","clk":"7702949884","pt":1540047653951,"mc":[{"id":"1.149872331","rc":[{"ltp":2.76,"id":8575032},{"ltp":1.57,"id":8284520}]}]}
+{"op":"mcm","clk":"7702991888","pt":1540047832495,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:19:00.000Z","suspendTime":"2018-10-20T15:19:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:19:00.000Z","version":2464764939,"name":"Match Odds","eventName":"Haerteis v Sakharov"},"rc":[{"ltp":2.66,"id":8575032},{"ltp":1.61,"id":8284520}]}]}
+{"op":"mcm","clk":"7703069286","pt":1540048072590,"mc":[{"id":"1.149872331","rc":[{"ltp":1.56,"id":8284520}]}]}
+{"op":"mcm","clk":"7703085999","pt":1540048131228,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:06:00.000Z","suspendTime":"2018-10-20T15:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:06:00.000Z","version":2464785034,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7703142701","pt":1540048314301,"mc":[{"id":"1.149872331","rc":[{"ltp":1.58,"id":8284520}]}]}
+{"op":"mcm","clk":"7703153176","pt":1540048348130,"mc":[{"id":"1.149872331","rc":[{"ltp":2.6,"id":8575032}]}]}
+{"op":"mcm","clk":"7703177470","pt":1540048428488,"mc":[{"id":"1.149872331","rc":[{"ltp":1.64,"id":8284520}]}]}
+{"op":"mcm","clk":"7703227957","pt":1540048591275,"mc":[{"id":"1.149872331","rc":[{"ltp":2.58,"id":8575032}]}]}
+{"op":"mcm","clk":"7703252011","pt":1540048667567,"mc":[{"id":"1.149872331","rc":[{"ltp":2.6,"id":8575032}]}]}
+{"op":"mcm","clk":"7703330313","pt":1540048915046,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:06:00.000Z","suspendTime":"2018-10-20T15:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:06:00.000Z","version":2464863288,"name":"Match Odds","eventName":"Haerteis v Sakharov"},"rc":[{"ltp":2.96,"id":8575032},{"ltp":1.59,"id":8284520}]}]}
+{"op":"mcm","clk":"7703365051","pt":1540048974757,"mc":[{"id":"1.149872331","rc":[{"ltp":1.48,"id":8284520}]}]}
+{"op":"mcm","clk":"7703383178","pt":1540049032881,"mc":[{"id":"1.149872331","rc":[{"ltp":2.5,"id":8575032},{"ltp":1.66,"id":8284520}]}]}
+{"op":"mcm","clk":"7703403985","pt":1540049095371,"mc":[{"id":"1.149872331","rc":[{"ltp":1.62,"id":8284520}]}]}
+{"op":"mcm","clk":"7703425433","pt":1540049154690,"mc":[{"id":"1.149872331","rc":[{"ltp":2.46,"id":8575032},{"ltp":1.7,"id":8284520}]}]}
+{"op":"mcm","clk":"7703443789","pt":1540049214351,"mc":[{"id":"1.149872331","rc":[{"ltp":2.64,"id":8575032},{"ltp":1.6,"id":8284520}]}]}
+{"op":"mcm","clk":"7703461695","pt":1540049274624,"mc":[{"id":"1.149872331","rc":[{"ltp":2.58,"id":8575032},{"ltp":1.63,"id":8284520}]}]}
+{"op":"mcm","clk":"7703479542","pt":1540049334377,"mc":[{"id":"1.149872331","rc":[{"ltp":2.52,"id":8575032},{"ltp":1.64,"id":8284520}]}]}
+{"op":"mcm","clk":"7703499810","pt":1540049395445,"mc":[{"id":"1.149872331","rc":[{"ltp":2.62,"id":8575032},{"ltp":1.62,"id":8284520}]}]}
+{"op":"mcm","clk":"7703519786","pt":1540049454238,"mc":[{"id":"1.149872331","rc":[{"ltp":2.56,"id":8575032},{"ltp":1.64,"id":8284520}]}]}
+{"op":"mcm","clk":"7703557386","pt":1540049574447,"mc":[{"id":"1.149872331","rc":[{"ltp":1.63,"id":8284520}]}]}
+{"op":"mcm","clk":"7703576218","pt":1540049635012,"mc":[{"id":"1.149872331","rc":[{"ltp":2.7,"id":8575032},{"ltp":1.58,"id":8284520}]}]}
+{"op":"mcm","clk":"7703594936","pt":1540049694924,"mc":[{"id":"1.149872331","rc":[{"ltp":2.76,"id":8575032},{"ltp":1.59,"id":8284520}]}]}
+{"op":"mcm","clk":"7703613878","pt":1540049754988,"mc":[{"id":"1.149872331","rc":[{"ltp":2.54,"id":8575032},{"ltp":1.65,"id":8284520}]}]}
+{"op":"mcm","clk":"7703631991","pt":1540049813477,"mc":[{"id":"1.149872331","rc":[{"ltp":2.76,"id":8575032},{"ltp":1.61,"id":8284520}]}]}
+{"op":"mcm","clk":"7703666596","pt":1540049873939,"mc":[{"id":"1.149872331","rc":[{"ltp":2.56,"id":8575032},{"ltp":1.64,"id":8284520}]}]}
+{"op":"mcm","clk":"7703685124","pt":1540049935254,"mc":[{"id":"1.149872331","rc":[{"ltp":2.72,"id":8575032},{"ltp":1.57,"id":8284520}]}]}
+{"op":"mcm","clk":"7703703275","pt":1540049994697,"mc":[{"id":"1.149872331","rc":[{"ltp":2.5,"id":8575032},{"ltp":1.62,"id":8284520}]}]}
+{"op":"mcm","clk":"7703722374","pt":1540050054959,"mc":[{"id":"1.149872331","rc":[{"ltp":2.44,"id":8575032},{"ltp":1.61,"id":8284520}]}]}
+{"op":"mcm","clk":"7703741206","pt":1540050115172,"mc":[{"id":"1.149872331","rc":[{"ltp":2.4,"id":8575032},{"ltp":1.64,"id":8284520}]}]}
+{"op":"mcm","clk":"7703758984","pt":1540050175181,"mc":[{"id":"1.149872331","rc":[{"ltp":2.66,"id":8575032},{"ltp":1.65,"id":8284520}]}]}
+{"op":"mcm","clk":"7703776817","pt":1540050234171,"mc":[{"id":"1.149872331","rc":[{"ltp":2.48,"id":8575032}]}]}
+{"op":"mcm","clk":"7703794185","pt":1540050294322,"mc":[{"id":"1.149872331","rc":[{"ltp":2.6,"id":8575032},{"ltp":1.63,"id":8284520}]}]}
+{"op":"mcm","clk":"7703811446","pt":1540050354077,"mc":[{"id":"1.149872331","rc":[{"ltp":2.66,"id":8575032},{"ltp":1.59,"id":8284520}]}]}
+{"op":"mcm","clk":"7703827986","pt":1540050415234,"mc":[{"id":"1.149872331","rc":[{"ltp":1.66,"id":8284520}]}]}
+{"op":"mcm","clk":"7703843620","pt":1540050475528,"mc":[{"id":"1.149872331","rc":[{"ltp":2.6,"id":8575032},{"ltp":1.63,"id":8284520}]}]}
+{"op":"mcm","clk":"7703857991","pt":1540050532251,"mc":[{"id":"1.149872331","rc":[{"ltp":2.42,"id":8575032},{"ltp":1.7,"id":8284520}]}]}
+{"op":"mcm","clk":"7703873106","pt":1540050594320,"mc":[{"id":"1.149872331","rc":[{"ltp":1.62,"id":8284520}]}]}
+{"op":"mcm","clk":"7703887031","pt":1540050654143,"mc":[{"id":"1.149872331","rc":[{"ltp":2.78,"id":8575032},{"ltp":1.57,"id":8284520}]}]}
+{"op":"mcm","clk":"7703900186","pt":1540050714771,"mc":[{"id":"1.149872331","rc":[{"ltp":3.15,"id":8575032},{"ltp":1.46,"id":8284520}]}]}
+{"op":"mcm","clk":"7703929874","pt":1540050773805,"mc":[{"id":"1.149872331","rc":[{"ltp":2.88,"id":8575032},{"ltp":1.53,"id":8284520}]}]}
+{"op":"mcm","clk":"7703943656","pt":1540050835422,"mc":[{"id":"1.149872331","rc":[{"ltp":3.35,"id":8575032},{"ltp":1.4,"id":8284520}]}]}
+{"op":"mcm","clk":"7703956025","pt":1540050894017,"mc":[{"id":"1.149872331","rc":[{"ltp":4.3,"id":8575032},{"ltp":1.22,"id":8284520}]}]}
+{"op":"mcm","clk":"7703967238","pt":1540050953066,"mc":[{"id":"1.149872331","rc":[{"ltp":6.2,"id":8575032},{"ltp":1.2,"id":8284520}]}]}
+{"op":"mcm","clk":"7703978345","pt":1540051015423,"mc":[{"id":"1.149872331","rc":[{"ltp":6.4,"id":8575032},{"ltp":1.19,"id":8284520}]}]}
+{"op":"mcm","clk":"7703988591","pt":1540051075052,"mc":[{"id":"1.149872331","rc":[{"ltp":1.22,"id":8284520}]}]}
+{"op":"mcm","clk":"7703998700","pt":1540051132429,"mc":[{"id":"1.149872331","rc":[{"ltp":1.18,"id":8284520}]}]}
+{"op":"mcm","clk":"7704010331","pt":1540051195375,"mc":[{"id":"1.149872331","rc":[{"ltp":1.16,"id":8284520}]}]}
+{"op":"mcm","clk":"7704022534","pt":1540051255320,"mc":[{"id":"1.149872331","rc":[{"ltp":8.2,"id":8575032},{"ltp":1.15,"id":8284520}]}]}
+{"op":"mcm","clk":"7704034328","pt":1540051314114,"mc":[{"id":"1.149872331","rc":[{"ltp":7.2,"id":8575032},{"ltp":1.16,"id":8284520}]}]}
+{"op":"mcm","clk":"7704046507","pt":1540051373738,"mc":[{"id":"1.149872331","rc":[{"ltp":1.14,"id":8284520}]}]}
+{"op":"mcm","clk":"7704061582","pt":1540051434253,"mc":[{"id":"1.149872331","rc":[{"ltp":8.6,"id":8575032},{"ltp":1.13,"id":8284520}]}]}
+{"op":"mcm","clk":"7704075190","pt":1540051494506,"mc":[{"id":"1.149872331","rc":[{"ltp":13.5,"id":8575032},{"ltp":1.08,"id":8284520}]}]}
+{"op":"mcm","clk":"7704088876","pt":1540051555513,"mc":[{"id":"1.149872331","rc":[{"ltp":9.2,"id":8575032},{"ltp":1.17,"id":8284520}]}]}
+{"op":"mcm","clk":"7704101767","pt":1540051615035,"mc":[{"id":"1.149872331","rc":[{"ltp":8.8,"id":8575032},{"ltp":1.11,"id":8284520}]}]}
+{"op":"mcm","clk":"7704131557","pt":1540051672103,"mc":[{"id":"1.149872331","rc":[{"ltp":17.5,"id":8575032},{"ltp":1.06,"id":8284520}]}]}
+{"op":"mcm","clk":"7704171524","pt":1540051854283,"mc":[{"id":"1.149872331","rc":[{"ltp":21.0,"id":8575032}]}]}
+{"op":"mcm","clk":"7704184499","pt":1540051914389,"mc":[{"id":"1.149872331","rc":[{"ltp":26.0,"id":8575032}]}]}
+{"op":"mcm","clk":"7704196511","pt":1540051974407,"mc":[{"id":"1.149872331","rc":[{"ltp":1.05,"id":8284520}]}]}
+{"op":"mcm","clk":"7704209115","pt":1540052033863,"mc":[{"id":"1.149872331","rc":[{"ltp":21.0,"id":8575032},{"ltp":1.04,"id":8284520}]}]}
+{"op":"mcm","clk":"7704222715","pt":1540052095177,"mc":[{"id":"1.149872331","rc":[{"ltp":1.05,"id":8284520}]}]}
+{"op":"mcm","clk":"7704235779","pt":1540052154172,"mc":[{"id":"1.149872331","rc":[{"ltp":1.06,"id":8284520}]}]}
+{"op":"mcm","clk":"7704249151","pt":1540052215538,"mc":[{"id":"1.149872331","rc":[{"ltp":1.05,"id":8284520}]}]}
+{"op":"mcm","clk":"7704261282","pt":1540052275217,"mc":[{"id":"1.149872331","rc":[{"ltp":1.06,"id":8284520}]}]}
+{"op":"mcm","clk":"7704273649","pt":1540052335378,"mc":[{"id":"1.149872331","rc":[{"ltp":1.04,"id":8284520}]}]}
+{"op":"mcm","clk":"7704286465","pt":1540052394734,"mc":[{"id":"1.149872331","rc":[{"ltp":26.0,"id":8575032}]}]}
+{"op":"mcm","clk":"7704312054","pt":1540052514884,"mc":[{"id":"1.149872331","rc":[{"ltp":34.0,"id":8575032},{"ltp":1.03,"id":8284520}]}]}
+{"op":"mcm","clk":"7704339672","pt":1540052574387,"mc":[{"id":"1.149872331","rc":[{"ltp":50.0,"id":8575032},{"ltp":1.01,"id":8284520}]}]}
+{"op":"mcm","clk":"7704458001","pt":1540053113806,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:06:00.000Z","suspendTime":"2018-10-20T15:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"ACTIVE","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:06:00.000Z","version":2465385383,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}
+{"op":"mcm","clk":"7704462243","pt":1540053133900,"mc":[{"id":"1.149872331","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28965277","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-20T15:06:00.000Z","suspendTime":"2018-10-20T15:06:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T16:32:06.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8575032,"name":"Johannes Haerteis"},{"status":"WINNER","sortPriority":2,"id":8284520,"name":"Gleb Sakharov"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-20T15:06:00.000Z","version":2465394110,"name":"Match Odds","eventName":"Haerteis v Sakharov"}}]}

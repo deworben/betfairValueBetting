@@ -1,0 +1,91 @@
+{"op":"mcm","clk":"7620221777","pt":1538678964357,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T13:00:00.000Z","suspendTime":"2018-10-05T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T13:00:00.000Z","version":2437225744,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7620407710","pt":1538680159884,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T13:00:00.000Z","suspendTime":"2018-10-05T13:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T13:00:00.000Z","version":2437225744,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7621645186","pt":1538691260770,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T15:00:00.000Z","suspendTime":"2018-10-05T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T13:00:00.000Z","version":2437425818,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7621645325","pt":1538691262789,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T15:00:00.000Z","suspendTime":"2018-10-05T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T15:00:00.000Z","version":2437425818,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7622624026","pt":1538703431007,"mc":[{"id":"1.149110713","rc":[{"ltp":1.26,"id":6670624}]}]}
+{"op":"mcm","clk":"7624456766","pt":1538728298119,"mc":[{"id":"1.149110713","rc":[{"ltp":1.3,"id":6670624}]}]}
+{"op":"mcm","clk":"7624462754","pt":1538728357318,"mc":[{"id":"1.149110713","rc":[{"ltp":1.29,"id":6670624}]}]}
+{"op":"mcm","clk":"7626662006","pt":1538744955202,"mc":[{"id":"1.149110713","rc":[{"ltp":4.5,"id":8326736}]}]}
+{"op":"mcm","clk":"7626900763","pt":1538746137731,"mc":[{"id":"1.149110713","rc":[{"ltp":1.31,"id":6670624},{"ltp":4.3,"id":8326736}]}]}
+{"op":"mcm","clk":"7626911332","pt":1538746199029,"mc":[{"id":"1.149110713","rc":[{"ltp":1.28,"id":6670624},{"ltp":4.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7626999495","pt":1538746700721,"mc":[{"id":"1.149110713","rc":[{"ltp":1.3,"id":6670624}]}]}
+{"op":"mcm","clk":"7627088755","pt":1538747154942,"mc":[{"id":"1.149110713","rc":[{"ltp":1.32,"id":6670624}]}]}
+{"op":"mcm","clk":"7627156364","pt":1538747721064,"mc":[{"id":"1.149110713","rc":[{"ltp":1.28,"id":6670624}]}]}
+{"op":"mcm","clk":"7627184948","pt":1538747836092,"mc":[{"id":"1.149110713","rc":[{"ltp":4.3,"id":8326736}]}]}
+{"op":"mcm","clk":"7627209260","pt":1538748049733,"mc":[{"id":"1.149110713","rc":[{"ltp":1.31,"id":6670624}]}]}
+{"op":"mcm","clk":"7627475445","pt":1538749745636,"mc":[{"id":"1.149110713","rc":[{"ltp":1.3,"id":6670624}]}]}
+{"op":"mcm","clk":"7627581666","pt":1538750412891,"mc":[{"id":"1.149110713","rc":[{"ltp":1.32,"id":6670624}]}]}
+{"op":"mcm","clk":"7627674925","pt":1538750898898,"mc":[{"id":"1.149110713","rc":[{"ltp":1.34,"id":6670624},{"ltp":4.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7627703685","pt":1538751122993,"mc":[{"id":"1.149110713","rc":[{"ltp":1.36,"id":6670624},{"ltp":3.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7627736282","pt":1538751380626,"mc":[{"id":"1.149110713","rc":[{"ltp":1.37,"id":6670624},{"ltp":3.75,"id":8326736}]}]}
+{"op":"mcm","clk":"7627774476","pt":1538751559491,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T14:54:00.000Z","suspendTime":"2018-10-05T14:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T15:00:00.000Z","version":2438095614,"name":"Match Odds","eventName":"M Cuevas v Garin"},"rc":[{"ltp":1.33,"id":6670624}]}]}
+{"op":"mcm","clk":"7627781933","pt":1538751620098,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T14:54:00.000Z","suspendTime":"2018-10-05T14:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T14:54:00.000Z","version":2438095614,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7627784705","pt":1538751645449,"mc":[{"id":"1.149110713","rc":[{"ltp":1.34,"id":6670624}]}]}
+{"op":"mcm","clk":"7627810725","pt":1538751837618,"mc":[{"id":"1.149110713","rc":[{"ltp":1.33,"id":6670624}]}]}
+{"op":"mcm","clk":"7627821872","pt":1538751912862,"mc":[{"id":"1.149110713","rc":[{"ltp":1.32,"id":6670624}]}]}
+{"op":"mcm","clk":"7627830156","pt":1538751972121,"mc":[{"id":"1.149110713","rc":[{"ltp":3.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7627839961","pt":1538752038503,"mc":[{"id":"1.149110713","rc":[{"ltp":1.36,"id":6670624}]}]}
+{"op":"mcm","clk":"7627847559","pt":1538752089661,"mc":[{"id":"1.149110713","rc":[{"ltp":1.33,"id":6670624},{"ltp":3.85,"id":8326736}]}]}
+{"op":"mcm","clk":"7627858105","pt":1538752159428,"mc":[{"id":"1.149110713","rc":[{"ltp":1.32,"id":6670624}]}]}
+{"op":"mcm","clk":"7627874640","pt":1538752280775,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T14:54:00.000Z","suspendTime":"2018-10-05T14:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T14:54:00.000Z","version":2438122203,"name":"Match Odds","eventName":"M Cuevas v Garin"},"rc":[{"ltp":1.31,"id":6670624},{"ltp":4.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7627901337","pt":1538752340255,"mc":[{"id":"1.149110713","rc":[{"ltp":1.19,"id":6670624},{"ltp":5.1,"id":8326736}]}]}
+{"op":"mcm","clk":"7627910197","pt":1538752400226,"mc":[{"id":"1.149110713","rc":[{"ltp":1.18,"id":6670624},{"ltp":6.4,"id":8326736}]}]}
+{"op":"mcm","clk":"7627919349","pt":1538752460852,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624}]}]}
+{"op":"mcm","clk":"7627927952","pt":1538752520443,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624},{"ltp":6.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7627937102","pt":1538752580511,"mc":[{"id":"1.149110713","rc":[{"ltp":1.19,"id":6670624},{"ltp":6.4,"id":8326736}]}]}
+{"op":"mcm","clk":"7627945521","pt":1538752641087,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624}]}]}
+{"op":"mcm","clk":"7627953359","pt":1538752700545,"mc":[{"id":"1.149110713","rc":[{"ltp":1.18,"id":6670624}]}]}
+{"op":"mcm","clk":"7627961530","pt":1538752760308,"mc":[{"id":"1.149110713","rc":[{"ltp":1.19,"id":6670624},{"ltp":6.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7627974421","pt":1538752820890,"mc":[{"id":"1.149110713","rc":[{"ltp":1.2,"id":6670624}]}]}
+{"op":"mcm","clk":"7627983925","pt":1538752880434,"mc":[{"id":"1.149110713","rc":[{"ltp":1.23,"id":6670624}]}]}
+{"op":"mcm","clk":"7627992820","pt":1538752940967,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624},{"ltp":6.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628001129","pt":1538753000621,"mc":[{"id":"1.149110713","rc":[{"ltp":1.15,"id":6670624},{"ltp":7.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628009902","pt":1538753060749,"mc":[{"id":"1.149110713","rc":[{"ltp":1.18,"id":6670624},{"ltp":8.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628018829","pt":1538753120476,"mc":[{"id":"1.149110713","rc":[{"ltp":1.19,"id":6670624},{"ltp":6.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628027474","pt":1538753181175,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624}]}]}
+{"op":"mcm","clk":"7628054652","pt":1538753240643,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624},{"ltp":6.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7628071980","pt":1538753360530,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624},{"ltp":7.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628079961","pt":1538753420830,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624}]}]}
+{"op":"mcm","clk":"7628088305","pt":1538753481220,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624},{"ltp":6.2,"id":8326736}]}]}
+{"op":"mcm","clk":"7628096124","pt":1538753540880,"mc":[{"id":"1.149110713","rc":[{"ltp":6.4,"id":8326736}]}]}
+{"op":"mcm","clk":"7628102965","pt":1538753596738,"mc":[{"id":"1.149110713","rc":[{"ltp":1.18,"id":6670624},{"ltp":7.2,"id":8326736}]}]}
+{"op":"mcm","clk":"7628111088","pt":1538753660121,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624},{"ltp":7.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628119684","pt":1538753720397,"mc":[{"id":"1.149110713","rc":[{"ltp":1.13,"id":6670624},{"ltp":8.4,"id":8326736}]}]}
+{"op":"mcm","clk":"7628136294","pt":1538753840733,"mc":[{"id":"1.149110713","rc":[{"ltp":1.15,"id":6670624},{"ltp":7.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628144499","pt":1538753899486,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624},{"ltp":8.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628152560","pt":1538753959355,"mc":[{"id":"1.149110713","rc":[{"ltp":1.11,"id":6670624}]}]}
+{"op":"mcm","clk":"7628161492","pt":1538754020817,"mc":[{"id":"1.149110713","rc":[{"ltp":10.5,"id":8326736}]}]}
+{"op":"mcm","clk":"7628170073","pt":1538754080374,"mc":[{"id":"1.149110713","rc":[{"ltp":1.1,"id":6670624},{"ltp":12.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628196383","pt":1538754139711,"mc":[{"id":"1.149110713","rc":[{"ltp":1.11,"id":6670624},{"ltp":11.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628204384","pt":1538754200412,"mc":[{"id":"1.149110713","rc":[{"ltp":10.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628231298","pt":1538754380884,"mc":[{"id":"1.149110713","rc":[{"ltp":1.13,"id":6670624},{"ltp":8.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628239244","pt":1538754440582,"mc":[{"id":"1.149110713","rc":[{"ltp":1.12,"id":6670624},{"ltp":9.2,"id":8326736}]}]}
+{"op":"mcm","clk":"7628247766","pt":1538754500529,"mc":[{"id":"1.149110713","rc":[{"ltp":1.11,"id":6670624}]}]}
+{"op":"mcm","clk":"7628255055","pt":1538754561134,"mc":[{"id":"1.149110713","rc":[{"ltp":1.13,"id":6670624}]}]}
+{"op":"mcm","clk":"7628262559","pt":1538754619907,"mc":[{"id":"1.149110713","rc":[{"ltp":8.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628270496","pt":1538754679047,"mc":[{"id":"1.149110713","rc":[{"ltp":1.12,"id":6670624}]}]}
+{"op":"mcm","clk":"7628281968","pt":1538754741066,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624},{"ltp":7.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7628291628","pt":1538754801130,"mc":[{"id":"1.149110713","rc":[{"ltp":7.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628301345","pt":1538754858397,"mc":[{"id":"1.149110713","rc":[{"ltp":1.13,"id":6670624},{"ltp":8.6,"id":8326736}]}]}
+{"op":"mcm","clk":"7628319667","pt":1538754981151,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624},{"ltp":8.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628346399","pt":1538755041128,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624},{"ltp":7.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628354863","pt":1538755099406,"mc":[{"id":"1.149110713","rc":[{"ltp":1.17,"id":6670624},{"ltp":6.8,"id":8326736}]}]}
+{"op":"mcm","clk":"7628364010","pt":1538755160956,"mc":[{"id":"1.149110713","rc":[{"ltp":1.16,"id":6670624},{"ltp":7.2,"id":8326736}]}]}
+{"op":"mcm","clk":"7628377373","pt":1538755221241,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624}]}]}
+{"op":"mcm","clk":"7628387182","pt":1538755280706,"mc":[{"id":"1.149110713","rc":[{"ltp":1.12,"id":6670624},{"ltp":8.2,"id":8326736}]}]}
+{"op":"mcm","clk":"7628397072","pt":1538755341060,"mc":[{"id":"1.149110713","rc":[{"ltp":1.14,"id":6670624},{"ltp":9.4,"id":8326736}]}]}
+{"op":"mcm","clk":"7628408305","pt":1538755400996,"mc":[{"id":"1.149110713","rc":[{"ltp":1.07,"id":6670624},{"ltp":15.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628419984","pt":1538755461189,"mc":[{"id":"1.149110713","rc":[{"ltp":1.04,"id":6670624},{"ltp":26.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628432724","pt":1538755521052,"mc":[{"id":"1.149110713","rc":[{"ltp":22.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628444706","pt":1538755580887,"mc":[{"id":"1.149110713","rc":[{"ltp":1.03,"id":6670624},{"ltp":50.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628456576","pt":1538755641086,"mc":[{"id":"1.149110713","rc":[{"ltp":1.02,"id":6670624},{"ltp":34.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628479500","pt":1538755758646,"mc":[{"id":"1.149110713","rc":[{"ltp":1.03,"id":6670624}]}]}
+{"op":"mcm","clk":"7628490818","pt":1538755821127,"mc":[{"id":"1.149110713","rc":[{"ltp":29.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628501202","pt":1538755880292,"mc":[{"id":"1.149110713","rc":[{"ltp":1.02,"id":6670624},{"ltp":34.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628530457","pt":1538755940410,"mc":[{"id":"1.149110713","rc":[{"ltp":1.04,"id":6670624},{"ltp":26.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628541513","pt":1538755998579,"mc":[{"id":"1.149110713","rc":[{"ltp":1.03,"id":6670624}]}]}
+{"op":"mcm","clk":"7628552556","pt":1538756059238,"mc":[{"id":"1.149110713","rc":[{"ltp":1.02,"id":6670624}]}]}
+{"op":"mcm","clk":"7628563636","pt":1538756121019,"mc":[{"id":"1.149110713","rc":[{"ltp":50.0,"id":8326736}]}]}
+{"op":"mcm","clk":"7628595726","pt":1538756300578,"mc":[{"id":"1.149110713","rc":[{"ltp":1.01,"id":6670624}]}]}
+{"op":"mcm","clk":"7628603826","pt":1538756347524,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T14:54:00.000Z","suspendTime":"2018-10-05T14:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"ACTIVE","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T14:54:00.000Z","version":2438228844,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}
+{"op":"mcm","clk":"7628608613","pt":1538756373624,"mc":[{"id":"1.149110713","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28939211","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T14:54:00.000Z","suspendTime":"2018-10-05T14:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-05T16:19:25.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8326736,"name":"Martin Cuevas"},{"status":"WINNER","sortPriority":2,"id":6670624,"name":"Christian Garin"}],"regulators":["MR_INT"],"countryCode":"BR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T14:54:00.000Z","version":2438229389,"name":"Match Odds","eventName":"M Cuevas v Garin"}}]}

@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7858388054","pt":1540842098645,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T14:00:00.000Z","suspendTime":"2018-10-30T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T14:00:00.000Z","version":2485049897,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"}}]}
+{"op":"mcm","clk":"7858475116","pt":1540842745097,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T14:00:00.000Z","suspendTime":"2018-10-30T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T14:00:00.000Z","version":2485049897,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"}}]}
+{"op":"mcm","clk":"7860743833","pt":1540876598622,"mc":[{"id":"1.150441414","rc":[{"ltp":1.19,"id":11313212}]}]}
+{"op":"mcm","clk":"7861689414","pt":1540891200876,"mc":[{"id":"1.150441414","rc":[{"ltp":1.2,"id":11313212}]}]}
+{"op":"mcm","clk":"7862060429","pt":1540895197307,"mc":[{"id":"1.150441414","rc":[{"ltp":1.18,"id":11313212}]}]}
+{"op":"mcm","clk":"7862766678","pt":1540902160417,"mc":[{"id":"1.150441414","rc":[{"ltp":6.4,"id":9630009}]}]}
+{"op":"mcm","clk":"7862840284","pt":1540902982920,"mc":[{"id":"1.150441414","rc":[{"ltp":1.23,"id":11313212}]}]}
+{"op":"mcm","clk":"7862854905","pt":1540903177858,"mc":[{"id":"1.150441414","rc":[{"ltp":1.18,"id":11313212}]}]}
+{"op":"mcm","clk":"7863023971","pt":1540905088388,"mc":[{"id":"1.150441414","rc":[{"ltp":5.5,"id":9630009}]}]}
+{"op":"mcm","clk":"7863108214","pt":1540905934376,"mc":[{"id":"1.150441414","rc":[{"ltp":5.2,"id":9630009}]}]}
+{"op":"mcm","clk":"7863210320","pt":1540907020075,"mc":[{"id":"1.150441414","rc":[{"ltp":1.23,"id":11313212}]}]}
+{"op":"mcm","clk":"7863249483","pt":1540907321826,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T13:47:00.000Z","suspendTime":"2018-10-30T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T14:00:00.000Z","version":2485852005,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"}}]}
+{"op":"mcm","clk":"7863254734","pt":1540907382194,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T13:47:00.000Z","suspendTime":"2018-10-30T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T13:47:00.000Z","version":2485852005,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"},"rc":[{"ltp":1.2,"id":11313212}]}]}
+{"op":"mcm","clk":"7863272636","pt":1540907598178,"mc":[{"id":"1.150441414","rc":[{"ltp":5.4,"id":9630009}]}]}
+{"op":"mcm","clk":"7863285023","pt":1540907731242,"mc":[{"id":"1.150441414","rc":[{"ltp":1.23,"id":11313212}]}]}
+{"op":"mcm","clk":"7863297007","pt":1540907865969,"mc":[{"id":"1.150441414","rc":[{"ltp":5.3,"id":9630009}]}]}
+{"op":"mcm","clk":"7863399537","pt":1540908942989,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T13:47:00.000Z","suspendTime":"2018-10-30T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T13:47:00.000Z","version":2485882044,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"}}]}
+{"op":"mcm","clk":"7863420223","pt":1540909057287,"mc":[{"id":"1.150441414","rc":[{"ltp":1.29,"id":11313212}]}]}
+{"op":"mcm","clk":"7863424473","pt":1540909122569,"mc":[{"id":"1.150441414","rc":[{"ltp":4.4,"id":9630009}]}]}
+{"op":"mcm","clk":"7863428668","pt":1540909180928,"mc":[{"id":"1.150441414","rc":[{"ltp":1.3,"id":11313212}]}]}
+{"op":"mcm","clk":"7863433191","pt":1540909242878,"mc":[{"id":"1.150441414","rc":[{"ltp":1.55,"id":11313212}]}]}
+{"op":"mcm","clk":"7863437464","pt":1540909293947,"mc":[{"id":"1.150441414","rc":[{"ltp":1.6,"id":11313212},{"ltp":2.6,"id":9630009}]}]}
+{"op":"mcm","clk":"7863442996","pt":1540909362531,"mc":[{"id":"1.150441414","rc":[{"ltp":1.52,"id":11313212}]}]}
+{"op":"mcm","clk":"7863452099","pt":1540909481678,"mc":[{"id":"1.150441414","rc":[{"ltp":1.43,"id":11313212},{"ltp":3.5,"id":9630009}]}]}
+{"op":"mcm","clk":"7863460267","pt":1540909598371,"mc":[{"id":"1.150441414","rc":[{"ltp":1.62,"id":11313212}]}]}
+{"op":"mcm","clk":"7863465208","pt":1540909662585,"mc":[{"id":"1.150441414","rc":[{"ltp":1.64,"id":11313212},{"ltp":2.56,"id":9630009}]}]}
+{"op":"mcm","clk":"7863469661","pt":1540909723087,"mc":[{"id":"1.150441414","rc":[{"ltp":2.0,"id":11313212},{"ltp":2.0,"id":9630009}]}]}
+{"op":"mcm","clk":"7863474224","pt":1540909783002,"mc":[{"id":"1.150441414","rc":[{"ltp":1.87,"id":11313212},{"ltp":2.24,"id":9630009}]}]}
+{"op":"mcm","clk":"7863478315","pt":1540909842989,"mc":[{"id":"1.150441414","rc":[{"ltp":1.9,"id":11313212},{"ltp":1.99,"id":9630009}]}]}
+{"op":"mcm","clk":"7863483359","pt":1540909902859,"mc":[{"id":"1.150441414","rc":[{"ltp":2.0,"id":11313212},{"ltp":2.02,"id":9630009}]}]}
+{"op":"mcm","clk":"7863500387","pt":1540909963050,"mc":[{"id":"1.150441414","rc":[{"ltp":2.12,"id":11313212},{"ltp":1.88,"id":9630009}]}]}
+{"op":"mcm","clk":"7863504914","pt":1540910019265,"mc":[{"id":"1.150441414","rc":[{"ltp":2.2,"id":11313212},{"ltp":1.87,"id":9630009}]}]}
+{"op":"mcm","clk":"7863509718","pt":1540910080193,"mc":[{"id":"1.150441414","rc":[{"ltp":2.08,"id":11313212},{"ltp":1.86,"id":9630009}]}]}
+{"op":"mcm","clk":"7863514632","pt":1540910142700,"mc":[{"id":"1.150441414","rc":[{"ltp":2.18,"id":11313212},{"ltp":1.84,"id":9630009}]}]}
+{"op":"mcm","clk":"7863518955","pt":1540910202535,"mc":[{"id":"1.150441414","rc":[{"ltp":2.24,"id":11313212},{"ltp":1.82,"id":9630009}]}]}
+{"op":"mcm","clk":"7863523909","pt":1540910262469,"mc":[{"id":"1.150441414","rc":[{"ltp":1.81,"id":9630009}]}]}
+{"op":"mcm","clk":"7863528455","pt":1540910322037,"mc":[{"id":"1.150441414","rc":[{"ltp":1.99,"id":11313212},{"ltp":1.97,"id":9630009}]}]}
+{"op":"mcm","clk":"7863533293","pt":1540910382206,"mc":[{"id":"1.150441414","rc":[{"ltp":1.98,"id":11313212},{"ltp":2.06,"id":9630009}]}]}
+{"op":"mcm","clk":"7863538125","pt":1540910439546,"mc":[{"id":"1.150441414","rc":[{"ltp":2.16,"id":11313212},{"ltp":1.87,"id":9630009}]}]}
+{"op":"mcm","clk":"7863543769","pt":1540910500834,"mc":[{"id":"1.150441414","rc":[{"ltp":1.86,"id":9630009}]}]}
+{"op":"mcm","clk":"7863548405","pt":1540910561994,"mc":[{"id":"1.150441414","rc":[{"ltp":2.2,"id":11313212},{"ltp":1.82,"id":9630009}]}]}
+{"op":"mcm","clk":"7863552821","pt":1540910622790,"mc":[{"id":"1.150441414","rc":[{"ltp":2.46,"id":11313212},{"ltp":1.68,"id":9630009}]}]}
+{"op":"mcm","clk":"7863557216","pt":1540910680508,"mc":[{"id":"1.150441414","rc":[{"ltp":2.44,"id":11313212},{"ltp":1.6,"id":9630009}]}]}
+{"op":"mcm","clk":"7863562285","pt":1540910742669,"mc":[{"id":"1.150441414","rc":[{"ltp":2.2,"id":11313212},{"ltp":1.89,"id":9630009}]}]}
+{"op":"mcm","clk":"7863567303","pt":1540910801997,"mc":[{"id":"1.150441414","rc":[{"ltp":1.98,"id":11313212},{"ltp":2.02,"id":9630009}]}]}
+{"op":"mcm","clk":"7863585290","pt":1540910863082,"mc":[{"id":"1.150441414","rc":[{"ltp":1.7,"id":11313212},{"ltp":2.38,"id":9630009}]}]}
+{"op":"mcm","clk":"7863590994","pt":1540910922949,"mc":[{"id":"1.150441414","rc":[{"ltp":1.68,"id":11313212},{"ltp":2.16,"id":9630009}]}]}
+{"op":"mcm","clk":"7863596207","pt":1540910982896,"mc":[{"id":"1.150441414","rc":[{"ltp":1.55,"id":11313212},{"ltp":2.88,"id":9630009}]}]}
+{"op":"mcm","clk":"7863601225","pt":1540911042206,"mc":[{"id":"1.150441414","rc":[{"ltp":2.66,"id":9630009}]}]}
+{"op":"mcm","clk":"7863606852","pt":1540911102639,"mc":[{"id":"1.150441414","rc":[{"ltp":1.69,"id":11313212},{"ltp":2.44,"id":9630009}]}]}
+{"op":"mcm","clk":"7863612416","pt":1540911162072,"mc":[{"id":"1.150441414","rc":[{"ltp":1.53,"id":11313212},{"ltp":2.76,"id":9630009}]}]}
+{"op":"mcm","clk":"7863617444","pt":1540911223079,"mc":[{"id":"1.150441414","rc":[{"ltp":1.74,"id":11313212},{"ltp":2.72,"id":9630009}]}]}
+{"op":"mcm","clk":"7863621307","pt":1540911274392,"mc":[{"id":"1.150441414","rc":[{"ltp":1.98,"id":11313212},{"ltp":1.99,"id":9630009}]}]}
+{"op":"mcm","clk":"7863626534","pt":1540911341727,"mc":[{"id":"1.150441414","rc":[{"ltp":1.82,"id":11313212},{"ltp":2.16,"id":9630009}]}]}
+{"op":"mcm","clk":"7863631437","pt":1540911401880,"mc":[{"id":"1.150441414","rc":[{"ltp":1.7,"id":11313212},{"ltp":2.42,"id":9630009}]}]}
+{"op":"mcm","clk":"7863636472","pt":1540911463043,"mc":[{"id":"1.150441414","rc":[{"ltp":1.79,"id":11313212},{"ltp":2.26,"id":9630009}]}]}
+{"op":"mcm","clk":"7863641392","pt":1540911523054,"mc":[{"id":"1.150441414","rc":[{"ltp":1.9,"id":11313212},{"ltp":2.3,"id":9630009}]}]}
+{"op":"mcm","clk":"7863647042","pt":1540911582863,"mc":[{"id":"1.150441414","rc":[{"ltp":1.96,"id":11313212},{"ltp":2.06,"id":9630009}]}]}
+{"op":"mcm","clk":"7863653028","pt":1540911642505,"mc":[{"id":"1.150441414","rc":[{"ltp":2.18,"id":11313212},{"ltp":1.84,"id":9630009}]}]}
+{"op":"mcm","clk":"7863659193","pt":1540911703014,"mc":[{"id":"1.150441414","rc":[{"ltp":2.1,"id":11313212},{"ltp":1.9,"id":9630009}]}]}
+{"op":"mcm","clk":"7863677676","pt":1540911762904,"mc":[{"id":"1.150441414","rc":[{"ltp":2.34,"id":11313212},{"ltp":1.75,"id":9630009}]}]}
+{"op":"mcm","clk":"7863683022","pt":1540911822910,"mc":[{"id":"1.150441414","rc":[{"ltp":2.4,"id":11313212},{"ltp":1.93,"id":9630009}]}]}
+{"op":"mcm","clk":"7863687891","pt":1540911883059,"mc":[{"id":"1.150441414","rc":[{"ltp":2.0,"id":11313212},{"ltp":2.0,"id":9630009}]}]}
+{"op":"mcm","clk":"7863693024","pt":1540911942923,"mc":[{"id":"1.150441414","rc":[{"ltp":1.9,"id":9630009}]}]}
+{"op":"mcm","clk":"7863697959","pt":1540912002847,"mc":[{"id":"1.150441414","rc":[{"ltp":2.18,"id":11313212},{"ltp":1.84,"id":9630009}]}]}
+{"op":"mcm","clk":"7863702843","pt":1540912062554,"mc":[{"id":"1.150441414","rc":[{"ltp":2.14,"id":11313212},{"ltp":1.83,"id":9630009}]}]}
+{"op":"mcm","clk":"7863707978","pt":1540912122967,"mc":[{"id":"1.150441414","rc":[{"ltp":1.98,"id":11313212},{"ltp":2.02,"id":9630009}]}]}
+{"op":"mcm","clk":"7863713054","pt":1540912183069,"mc":[{"id":"1.150441414","rc":[{"ltp":2.34,"id":11313212},{"ltp":1.65,"id":9630009}]}]}
+{"op":"mcm","clk":"7863718133","pt":1540912242771,"mc":[{"id":"1.150441414","rc":[{"ltp":2.12,"id":11313212},{"ltp":1.89,"id":9630009}]}]}
+{"op":"mcm","clk":"7863723832","pt":1540912302857,"mc":[{"id":"1.150441414","rc":[{"ltp":2.98,"id":11313212},{"ltp":1.48,"id":9630009}]}]}
+{"op":"mcm","clk":"7863729131","pt":1540912363079,"mc":[{"id":"1.150441414","rc":[{"ltp":5.1,"id":11313212},{"ltp":1.24,"id":9630009}]}]}
+{"op":"mcm","clk":"7863734029","pt":1540912422973,"mc":[{"id":"1.150441414","rc":[{"ltp":7.0,"id":11313212},{"ltp":1.18,"id":9630009}]}]}
+{"op":"mcm","clk":"7863739384","pt":1540912482979,"mc":[{"id":"1.150441414","rc":[{"ltp":8.8,"id":11313212},{"ltp":1.1,"id":9630009}]}]}
+{"op":"mcm","clk":"7863744756","pt":1540912543055,"mc":[{"id":"1.150441414","rc":[{"ltp":1.12,"id":9630009}]}]}
+{"op":"mcm","clk":"7863750372","pt":1540912602748,"mc":[{"id":"1.150441414","rc":[{"ltp":12.0,"id":11313212},{"ltp":1.06,"id":9630009}]}]}
+{"op":"mcm","clk":"7863766226","pt":1540912638120,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T13:47:00.000Z","suspendTime":"2018-10-30T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"ACTIVE","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T13:47:00.000Z","version":2485937385,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"},"rc":[{"ltp":1.03,"id":9630009}]}]}
+{"op":"mcm","clk":"7863769458","pt":1540912676690,"mc":[{"id":"1.150441414","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28983744","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T13:47:00.000Z","suspendTime":"2018-10-30T13:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T15:17:51.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9630009,"name":"Petros Chrysochos"},{"status":"LOSER","sortPriority":2,"id":11313212,"name":"Lloyd Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-30T13:47:00.000Z","version":2485937797,"name":"Match Odds","eventName":"Pet Chrysochos v L Harris"}}]}

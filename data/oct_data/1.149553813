@@ -1,0 +1,77 @@
+{"op":"mcm","clk":"7715528657","pt":1539449419257,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"ACTIVE","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453620714,"name":"Match Odds","eventName":"Donati v Zopp"}}]}
+{"op":"mcm","clk":"7715576227","pt":1539449790074,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"ACTIVE","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453620714,"name":"Match Odds","eventName":"Donati v Zopp"}}]}
+{"op":"mcm","clk":"7719432614","pt":1539490417661,"mc":[{"id":"1.149553813","rc":[{"ltp":1.54,"id":5223695}]}]}
+{"op":"mcm","clk":"7719773936","pt":1539495623898,"mc":[{"id":"1.149553813","rc":[{"ltp":2.48,"id":8285864}]}]}
+{"op":"mcm","clk":"7720119347","pt":1539500552835,"mc":[{"id":"1.149553813","rc":[{"ltp":1.56,"id":5223695}]}]}
+{"op":"mcm","clk":"7720317820","pt":1539504512135,"mc":[{"id":"1.149553813","rc":[{"ltp":1.52,"id":5223695}]}]}
+{"op":"mcm","clk":"7720359629","pt":1539505354184,"mc":[{"id":"1.149553813","rc":[{"ltp":1.58,"id":5223695},{"ltp":2.74,"id":8285864}]}]}
+{"op":"mcm","clk":"7720370639","pt":1539505650792,"mc":[{"id":"1.149553813","rc":[{"ltp":1.51,"id":5223695},{"ltp":2.96,"id":8285864}]}]}
+{"op":"mcm","clk":"7720375018","pt":1539505760486,"mc":[{"id":"1.149553813","rc":[{"ltp":1.46,"id":5223695}]}]}
+{"op":"mcm","clk":"7720412310","pt":1539506355609,"mc":[{"id":"1.149553813","rc":[{"ltp":1.48,"id":5223695}]}]}
+{"op":"mcm","clk":"7720458566","pt":1539507220733,"mc":[{"id":"1.149553813","rc":[{"ltp":1.49,"id":5223695}]}]}
+{"op":"mcm","clk":"7720463825","pt":1539507327185,"mc":[{"id":"1.149553813","rc":[{"ltp":1.58,"id":5223695}]}]}
+{"op":"mcm","clk":"7720465533","pt":1539507374937,"mc":[{"id":"1.149553813","rc":[{"ltp":2.74,"id":8285864}]}]}
+{"op":"mcm","clk":"7720473662","pt":1539507566642,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:15:00.000Z","suspendTime":"2018-10-14T09:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"ACTIVE","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:15:00.000Z","version":2454977893,"name":"Match Odds","eventName":"Donati v Zopp"}}]}
+{"op":"mcm","clk":"7720493380","pt":1539507801853,"mc":[{"id":"1.149553813","rc":[{"ltp":1.48,"id":5223695}]}]}
+{"op":"mcm","clk":"7720496547","pt":1539507871060,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:59:00.000Z","suspendTime":"2018-10-14T08:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"ACTIVE","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:59:00.000Z","version":2454985177,"name":"Match Odds","eventName":"Donati v Zopp"}}]}
+{"op":"mcm","clk":"7720504388","pt":1539508045990,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:59:00.000Z","suspendTime":"2018-10-14T08:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"ACTIVE","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:59:00.000Z","version":2454989575,"name":"Match Odds","eventName":"Donati v Zopp"}}]}
+{"op":"mcm","clk":"7720507042","pt":1539508108399,"mc":[{"id":"1.149553813","rc":[{"ltp":1.52,"id":5223695},{"ltp":2.92,"id":8285864}]}]}
+{"op":"mcm","clk":"7720510291","pt":1539508175132,"mc":[{"id":"1.149553813","rc":[{"ltp":1.56,"id":5223695},{"ltp":2.66,"id":8285864}]}]}
+{"op":"mcm","clk":"7720513437","pt":1539508233954,"mc":[{"id":"1.149553813","rc":[{"ltp":1.58,"id":5223695},{"ltp":2.72,"id":8285864}]}]}
+{"op":"mcm","clk":"7720516879","pt":1539508295131,"mc":[{"id":"1.149553813","rc":[{"ltp":1.49,"id":5223695},{"ltp":3.05,"id":8285864}]}]}
+{"op":"mcm","clk":"7720520308","pt":1539508353290,"mc":[{"id":"1.149553813","rc":[{"ltp":1.48,"id":5223695},{"ltp":3.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720523952","pt":1539508414924,"mc":[{"id":"1.149553813","rc":[{"ltp":1.36,"id":5223695}]}]}
+{"op":"mcm","clk":"7720534555","pt":1539508594083,"mc":[{"id":"1.149553813","rc":[{"ltp":1.54,"id":5223695}]}]}
+{"op":"mcm","clk":"7720546552","pt":1539508654273,"mc":[{"id":"1.149553813","rc":[{"ltp":1.51,"id":5223695}]}]}
+{"op":"mcm","clk":"7720550200","pt":1539508714794,"mc":[{"id":"1.149553813","rc":[{"ltp":1.48,"id":5223695}]}]}
+{"op":"mcm","clk":"7720553714","pt":1539508775120,"mc":[{"id":"1.149553813","rc":[{"ltp":1.53,"id":5223695},{"ltp":3.2,"id":8285864}]}]}
+{"op":"mcm","clk":"7720557671","pt":1539508834968,"mc":[{"id":"1.149553813","rc":[{"ltp":1.5,"id":5223695},{"ltp":3.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720561822","pt":1539508894605,"mc":[{"id":"1.149553813","rc":[{"ltp":1.61,"id":5223695}]}]}
+{"op":"mcm","clk":"7720566422","pt":1539508955136,"mc":[{"id":"1.149553813","rc":[{"ltp":1.6,"id":5223695}]}]}
+{"op":"mcm","clk":"7720570965","pt":1539509014553,"mc":[{"id":"1.149553813","rc":[{"ltp":1.52,"id":5223695}]}]}
+{"op":"mcm","clk":"7720575797","pt":1539509071956,"mc":[{"id":"1.149553813","rc":[{"ltp":1.51,"id":5223695},{"ltp":2.96,"id":8285864}]}]}
+{"op":"mcm","clk":"7720580142","pt":1539509134512,"mc":[{"id":"1.149553813","rc":[{"ltp":1.6,"id":5223695},{"ltp":2.66,"id":8285864}]}]}
+{"op":"mcm","clk":"7720584075","pt":1539509191539,"mc":[{"id":"1.149553813","rc":[{"ltp":1.62,"id":5223695}]}]}
+{"op":"mcm","clk":"7720592074","pt":1539509313836,"mc":[{"id":"1.149553813","rc":[{"ltp":1.58,"id":5223695},{"ltp":2.74,"id":8285864}]}]}
+{"op":"mcm","clk":"7720596201","pt":1539509375076,"mc":[{"id":"1.149553813","rc":[{"ltp":2.72,"id":8285864}]}]}
+{"op":"mcm","clk":"7720599883","pt":1539509433283,"mc":[{"id":"1.149553813","rc":[{"ltp":1.55,"id":5223695},{"ltp":2.8,"id":8285864}]}]}
+{"op":"mcm","clk":"7720602940","pt":1539509490000,"mc":[{"id":"1.149553813","rc":[{"ltp":1.52,"id":5223695}]}]}
+{"op":"mcm","clk":"7720615436","pt":1539509551802,"mc":[{"id":"1.149553813","rc":[{"ltp":1.42,"id":5223695},{"ltp":3.35,"id":8285864}]}]}
+{"op":"mcm","clk":"7720619519","pt":1539509614570,"mc":[{"id":"1.149553813","rc":[{"ltp":1.56,"id":5223695},{"ltp":3.1,"id":8285864}]}]}
+{"op":"mcm","clk":"7720623836","pt":1539509674447,"mc":[{"id":"1.149553813","rc":[{"ltp":1.58,"id":5223695}]}]}
+{"op":"mcm","clk":"7720629205","pt":1539509765754,"mc":[{"id":"1.149553813","rc":[{"ltp":1.18,"id":5223695}]}]}
+{"op":"mcm","clk":"7720634646","pt":1539509854090,"mc":[{"id":"1.149553813","rc":[{"ltp":1.32,"id":5223695},{"ltp":4.1,"id":8285864}]}]}
+{"op":"mcm","clk":"7720639242","pt":1539509915130,"mc":[{"id":"1.149553813","rc":[{"ltp":1.19,"id":5223695}]}]}
+{"op":"mcm","clk":"7720642218","pt":1539509953511,"mc":[{"id":"1.149553813","rc":[{"ltp":1.15,"id":5223695}]}]}
+{"op":"mcm","clk":"7720647729","pt":1539510030238,"mc":[{"id":"1.149553813","rc":[{"ltp":1.16,"id":5223695},{"ltp":7.6,"id":8285864}]}]}
+{"op":"mcm","clk":"7720652711","pt":1539510095162,"mc":[{"id":"1.149553813","rc":[{"ltp":1.15,"id":5223695}]}]}
+{"op":"mcm","clk":"7720656927","pt":1539510153800,"mc":[{"id":"1.149553813","rc":[{"ltp":1.21,"id":5223695}]}]}
+{"op":"mcm","clk":"7720661721","pt":1539510213685,"mc":[{"id":"1.149553813","rc":[{"ltp":5.5,"id":8285864}]}]}
+{"op":"mcm","clk":"7720666683","pt":1539510274404,"mc":[{"id":"1.149553813","rc":[{"ltp":1.31,"id":5223695}]}]}
+{"op":"mcm","clk":"7720671730","pt":1539510333923,"mc":[{"id":"1.149553813","rc":[{"ltp":1.19,"id":5223695},{"ltp":6.2,"id":8285864}]}]}
+{"op":"mcm","clk":"7720677000","pt":1539510393613,"mc":[{"id":"1.149553813","rc":[{"ltp":1.16,"id":5223695},{"ltp":7.2,"id":8285864}]}]}
+{"op":"mcm","clk":"7720689989","pt":1539510454544,"mc":[{"id":"1.149553813","rc":[{"ltp":1.15,"id":5223695},{"ltp":9.2,"id":8285864}]}]}
+{"op":"mcm","clk":"7720694783","pt":1539510514851,"mc":[{"id":"1.149553813","rc":[{"ltp":1.1,"id":5223695}]}]}
+{"op":"mcm","clk":"7720699379","pt":1539510573587,"mc":[{"id":"1.149553813","rc":[{"ltp":1.17,"id":5223695},{"ltp":6.8,"id":8285864}]}]}
+{"op":"mcm","clk":"7720703639","pt":1539510632938,"mc":[{"id":"1.149553813","rc":[{"ltp":1.23,"id":5223695},{"ltp":5.5,"id":8285864}]}]}
+{"op":"mcm","clk":"7720713863","pt":1539510754815,"mc":[{"id":"1.149553813","rc":[{"ltp":1.21,"id":5223695}]}]}
+{"op":"mcm","clk":"7720718898","pt":1539510815065,"mc":[{"id":"1.149553813","rc":[{"ltp":1.18,"id":5223695}]}]}
+{"op":"mcm","clk":"7720723458","pt":1539510874872,"mc":[{"id":"1.149553813","rc":[{"ltp":1.13,"id":5223695},{"ltp":10.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720727995","pt":1539510934994,"mc":[{"id":"1.149553813","rc":[{"ltp":1.15,"id":5223695},{"ltp":7.6,"id":8285864}]}]}
+{"op":"mcm","clk":"7720732067","pt":1539510995027,"mc":[{"id":"1.149553813","rc":[{"ltp":1.21,"id":5223695},{"ltp":6.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720736182","pt":1539511054856,"mc":[{"id":"1.149553813","rc":[{"ltp":1.2,"id":5223695}]}]}
+{"op":"mcm","clk":"7720751401","pt":1539511234917,"mc":[{"id":"1.149553813","rc":[{"ltp":1.15,"id":5223695}]}]}
+{"op":"mcm","clk":"7720757635","pt":1539511293045,"mc":[{"id":"1.149553813","rc":[{"ltp":1.14,"id":5223695}]}]}
+{"op":"mcm","clk":"7720773309","pt":1539511355143,"mc":[{"id":"1.149553813","rc":[{"ltp":1.11,"id":5223695}]}]}
+{"op":"mcm","clk":"7720779997","pt":1539511409539,"mc":[{"id":"1.149553813","rc":[{"ltp":1.04,"id":5223695}]}]}
+{"op":"mcm","clk":"7720788406","pt":1539511474545,"mc":[{"id":"1.149553813","rc":[{"ltp":1.05,"id":5223695},{"ltp":21.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720796067","pt":1539511534976,"mc":[{"id":"1.149553813","rc":[{"ltp":1.03,"id":5223695},{"ltp":13.5,"id":8285864}]}]}
+{"op":"mcm","clk":"7720803530","pt":1539511592398,"mc":[{"id":"1.149553813","rc":[{"ltp":1.02,"id":5223695}]}]}
+{"op":"mcm","clk":"7720811418","pt":1539511653831,"mc":[{"id":"1.149553813","rc":[{"ltp":1.01,"id":5223695}]}]}
+{"op":"mcm","clk":"7720819088","pt":1539511715069,"mc":[{"id":"1.149553813","rc":[{"ltp":1.02,"id":5223695}]}]}
+{"op":"mcm","clk":"7720826177","pt":1539511774901,"mc":[{"id":"1.149553813","rc":[{"ltp":1.01,"id":5223695}]}]}
+{"op":"mcm","clk":"7720833836","pt":1539511833539,"mc":[{"id":"1.149553813","rc":[{"ltp":1.02,"id":5223695}]}]}
+{"op":"mcm","clk":"7720847061","pt":1539511935636,"mc":[{"id":"1.149553813","rc":[{"ltp":50.0,"id":8285864}]}]}
+{"op":"mcm","clk":"7720857452","pt":1539512012963,"mc":[{"id":"1.149553813","rc":[{"ltp":1.05,"id":5223695}]}]}
+{"op":"mcm","clk":"7720866252","pt":1539512075130,"mc":[{"id":"1.149553813","rc":[{"ltp":1.01,"id":5223695}]}]}
+{"op":"mcm","clk":"7720880608","pt":1539512182085,"mc":[{"id":"1.149553813","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955736","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T08:59:00.000Z","suspendTime":"2018-10-14T08:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T10:16:17.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8285864,"name":"Matteo Donati"},{"status":"WINNER","sortPriority":2,"id":5223695,"name":"Jurgen Zopp"}],"regulators":["MR_INT"],"countryCode":"SE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T08:59:00.000Z","version":2455104657,"name":"Match Odds","eventName":"Donati v Zopp"}}]}

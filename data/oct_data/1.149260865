@@ -1,0 +1,80 @@
+{"op":"mcm","clk":"7604242301","pt":1539001233368,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2446219782,"name":"Match Odds","eventName":"T Simon v Berankis"}}]}
+{"op":"mcm","clk":"7604304504","pt":1539001909146,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2446219782,"name":"Match Odds","eventName":"T Simon v Berankis"}}]}
+{"op":"mcm","clk":"7604824017","pt":1539007471121,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T08:30:00.000Z","suspendTime":"2018-10-09T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T08:30:00.000Z","version":2446352752,"name":"Match Odds","eventName":"T Simon v Berankis"}}]}
+{"op":"mcm","clk":"7605207629","pt":1539011600166,"mc":[{"id":"1.149260865","rc":[{"ltp":1.39,"id":19924827}]}]}
+{"op":"mcm","clk":"7608153701","pt":1539038502635,"mc":[{"id":"1.149260865","rc":[{"ltp":1.4,"id":19924827}]}]}
+{"op":"mcm","clk":"7608641272","pt":1539047005181,"mc":[{"id":"1.149260865","rc":[{"ltp":1.41,"id":19924827}]}]}
+{"op":"mcm","clk":"7608692607","pt":1539048101315,"mc":[{"id":"1.149260865","rc":[{"ltp":3.15,"id":7234177}]}]}
+{"op":"mcm","clk":"7608979480","pt":1539054215677,"mc":[{"id":"1.149260865","rc":[{"ltp":3.1,"id":7234177}]}]}
+{"op":"mcm","clk":"7609214473","pt":1539059682545,"mc":[{"id":"1.149260865","rc":[{"ltp":1.44,"id":19924827}]}]}
+{"op":"mcm","clk":"7609331365","pt":1539061946647,"mc":[{"id":"1.149260865","rc":[{"ltp":1.52,"id":19924827}]}]}
+{"op":"mcm","clk":"7609553921","pt":1539066327622,"mc":[{"id":"1.149260865","rc":[{"ltp":2.92,"id":7234177}]}]}
+{"op":"mcm","clk":"7609678841","pt":1539068665407,"mc":[{"id":"1.149260865","rc":[{"ltp":1.45,"id":19924827}]}]}
+{"op":"mcm","clk":"7609696419","pt":1539068861152,"mc":[{"id":"1.149260865","rc":[{"ltp":1.44,"id":19924827}]}]}
+{"op":"mcm","clk":"7609958010","pt":1539073469682,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T08:21:00.000Z","suspendTime":"2018-10-09T08:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T08:21:00.000Z","version":2447140226,"name":"Match Odds","eventName":"T Simon v Berankis"}}]}
+{"op":"mcm","clk":"7609961440","pt":1539073538258,"mc":[{"id":"1.149260865","rc":[{"ltp":3.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7609970019","pt":1539073714492,"mc":[{"id":"1.149260865","rc":[{"ltp":3.2,"id":7234177}]}]}
+{"op":"mcm","clk":"7610010965","pt":1539074381949,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T08:21:00.000Z","suspendTime":"2018-10-09T08:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T08:21:00.000Z","version":2447145688,"name":"Match Odds","eventName":"T Simon v Berankis"},"rc":[{"ltp":3.25,"id":7234177}]}]}
+{"op":"mcm","clk":"7610020913","pt":1539074562819,"mc":[{"id":"1.149260865","rc":[{"ltp":1.41,"id":19924827}]}]}
+{"op":"mcm","clk":"7610024117","pt":1539074621246,"mc":[{"id":"1.149260865","rc":[{"ltp":1.48,"id":19924827}]}]}
+{"op":"mcm","clk":"7610030598","pt":1539074742486,"mc":[{"id":"1.149260865","rc":[{"ltp":1.44,"id":19924827},{"ltp":3.2,"id":7234177}]}]}
+{"op":"mcm","clk":"7610033803","pt":1539074802798,"mc":[{"id":"1.149260865","rc":[{"ltp":1.46,"id":19924827},{"ltp":3.05,"id":7234177}]}]}
+{"op":"mcm","clk":"7610037414","pt":1539074861948,"mc":[{"id":"1.149260865","rc":[{"ltp":1.74,"id":19924827}]}]}
+{"op":"mcm","clk":"7610041005","pt":1539074920680,"mc":[{"id":"1.149260865","rc":[{"ltp":1.6,"id":19924827}]}]}
+{"op":"mcm","clk":"7610049213","pt":1539075041492,"mc":[{"id":"1.149260865","rc":[{"ltp":1.44,"id":19924827}]}]}
+{"op":"mcm","clk":"7610067097","pt":1539075218033,"mc":[{"id":"1.149260865","rc":[{"ltp":1.5,"id":19924827},{"ltp":2.96,"id":7234177}]}]}
+{"op":"mcm","clk":"7610074221","pt":1539075342514,"mc":[{"id":"1.149260865","rc":[{"ltp":1.45,"id":19924827}]}]}
+{"op":"mcm","clk":"7610077161","pt":1539075400153,"mc":[{"id":"1.149260865","rc":[{"ltp":1.43,"id":19924827},{"ltp":3.15,"id":7234177}]}]}
+{"op":"mcm","clk":"7610080275","pt":1539075459349,"mc":[{"id":"1.149260865","rc":[{"ltp":1.46,"id":19924827}]}]}
+{"op":"mcm","clk":"7610083558","pt":1539075522694,"mc":[{"id":"1.149260865","rc":[{"ltp":1.54,"id":19924827}]}]}
+{"op":"mcm","clk":"7610089980","pt":1539075640645,"mc":[{"id":"1.149260865","rc":[{"ltp":1.53,"id":19924827},{"ltp":2.88,"id":7234177}]}]}
+{"op":"mcm","clk":"7610093393","pt":1539075700396,"mc":[{"id":"1.149260865","rc":[{"ltp":1.52,"id":19924827}]}]}
+{"op":"mcm","clk":"7610098163","pt":1539075758720,"mc":[{"id":"1.149260865","rc":[{"ltp":1.5,"id":19924827},{"ltp":3.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610103896","pt":1539075822471,"mc":[{"id":"1.149260865","rc":[{"ltp":1.52,"id":19924827}]}]}
+{"op":"mcm","clk":"7610108462","pt":1539075882043,"mc":[{"id":"1.149260865","rc":[{"ltp":1.54,"id":19924827},{"ltp":2.86,"id":7234177}]}]}
+{"op":"mcm","clk":"7610113051","pt":1539075941212,"mc":[{"id":"1.149260865","rc":[{"ltp":1.56,"id":19924827},{"ltp":2.66,"id":7234177}]}]}
+{"op":"mcm","clk":"7610117445","pt":1539076001737,"mc":[{"id":"1.149260865","rc":[{"ltp":1.58,"id":19924827},{"ltp":2.72,"id":7234177}]}]}
+{"op":"mcm","clk":"7610136864","pt":1539076182523,"mc":[{"id":"1.149260865","rc":[{"ltp":1.67,"id":19924827},{"ltp":2.5,"id":7234177}]}]}
+{"op":"mcm","clk":"7610140884","pt":1539076242799,"mc":[{"id":"1.149260865","rc":[{"ltp":1.51,"id":19924827},{"ltp":2.98,"id":7234177}]}]}
+{"op":"mcm","clk":"7610145225","pt":1539076299939,"mc":[{"id":"1.149260865","rc":[{"ltp":1.61,"id":19924827},{"ltp":2.64,"id":7234177}]}]}
+{"op":"mcm","clk":"7610149501","pt":1539076361788,"mc":[{"id":"1.149260865","rc":[{"ltp":1.64,"id":19924827},{"ltp":2.52,"id":7234177}]}]}
+{"op":"mcm","clk":"7610153137","pt":1539076422804,"mc":[{"id":"1.149260865","rc":[{"ltp":1.58,"id":19924827},{"ltp":2.78,"id":7234177}]}]}
+{"op":"mcm","clk":"7610157229","pt":1539076481780,"mc":[{"id":"1.149260865","rc":[{"ltp":1.56,"id":19924827},{"ltp":2.8,"id":7234177}]}]}
+{"op":"mcm","clk":"7610160459","pt":1539076538786,"mc":[{"id":"1.149260865","rc":[{"ltp":1.47,"id":19924827},{"ltp":3.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610164163","pt":1539076602570,"mc":[{"id":"1.149260865","rc":[{"ltp":1.54,"id":19924827},{"ltp":2.6,"id":7234177}]}]}
+{"op":"mcm","clk":"7610167734","pt":1539076662214,"mc":[{"id":"1.149260865","rc":[{"ltp":1.66,"id":19924827},{"ltp":2.56,"id":7234177}]}]}
+{"op":"mcm","clk":"7610171361","pt":1539076722204,"mc":[{"id":"1.149260865","rc":[{"ltp":1.62,"id":19924827},{"ltp":2.92,"id":7234177}]}]}
+{"op":"mcm","clk":"7610175120","pt":1539076781852,"mc":[{"id":"1.149260865","rc":[{"ltp":1.65,"id":19924827},{"ltp":2.22,"id":7234177}]}]}
+{"op":"mcm","clk":"7610178737","pt":1539076841326,"mc":[{"id":"1.149260865","rc":[{"ltp":1.51,"id":19924827},{"ltp":2.88,"id":7234177}]}]}
+{"op":"mcm","clk":"7610182327","pt":1539076901897,"mc":[{"id":"1.149260865","rc":[{"ltp":1.34,"id":19924827},{"ltp":4.1,"id":7234177}]}]}
+{"op":"mcm","clk":"7610194008","pt":1539076961917,"mc":[{"id":"1.149260865","rc":[{"ltp":1.41,"id":19924827},{"ltp":3.5,"id":7234177}]}]}
+{"op":"mcm","clk":"7610197922","pt":1539077022500,"mc":[{"id":"1.149260865","rc":[{"ltp":1.25,"id":19924827},{"ltp":5.1,"id":7234177}]}]}
+{"op":"mcm","clk":"7610201551","pt":1539077080584,"mc":[{"id":"1.149260865","rc":[{"ltp":1.32,"id":19924827},{"ltp":4.1,"id":7234177}]}]}
+{"op":"mcm","clk":"7610205740","pt":1539077141730,"mc":[{"id":"1.149260865","rc":[{"ltp":1.22,"id":19924827},{"ltp":5.5,"id":7234177}]}]}
+{"op":"mcm","clk":"7610210042","pt":1539077202605,"mc":[{"id":"1.149260865","rc":[{"ltp":1.23,"id":19924827}]}]}
+{"op":"mcm","clk":"7610214212","pt":1539077262161,"mc":[{"id":"1.149260865","rc":[{"ltp":1.15,"id":19924827},{"ltp":7.8,"id":7234177}]}]}
+{"op":"mcm","clk":"7610218881","pt":1539077321893,"mc":[{"id":"1.149260865","rc":[{"ltp":1.14,"id":19924827}]}]}
+{"op":"mcm","clk":"7610223894","pt":1539077381368,"mc":[{"id":"1.149260865","rc":[{"ltp":1.07,"id":19924827},{"ltp":8.4,"id":7234177}]}]}
+{"op":"mcm","clk":"7610228183","pt":1539077441246,"mc":[{"id":"1.149260865","rc":[{"ltp":1.06,"id":19924827},{"ltp":15.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610231861","pt":1539077501896,"mc":[{"id":"1.149260865","rc":[{"ltp":1.04,"id":19924827}]}]}
+{"op":"mcm","clk":"7610235907","pt":1539077562251,"mc":[{"id":"1.149260865","rc":[{"ltp":1.05,"id":19924827},{"ltp":21.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610239930","pt":1539077622799,"mc":[{"id":"1.149260865","rc":[{"ltp":1.06,"id":19924827},{"ltp":15.5,"id":7234177}]}]}
+{"op":"mcm","clk":"7610248314","pt":1539077736425,"mc":[{"id":"1.149260865","rc":[{"ltp":19.5,"id":7234177}]}]}
+{"op":"mcm","clk":"7610252424","pt":1539077801494,"mc":[{"id":"1.149260865","rc":[{"ltp":1.04,"id":19924827}]}]}
+{"op":"mcm","clk":"7610270994","pt":1539077967033,"mc":[{"id":"1.149260865","rc":[{"ltp":1.05,"id":19924827},{"ltp":21.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610275825","pt":1539078042547,"mc":[{"id":"1.149260865","rc":[{"ltp":1.04,"id":19924827},{"ltp":22.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610280103","pt":1539078102695,"mc":[{"id":"1.149260865","rc":[{"ltp":26.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610284667","pt":1539078161766,"mc":[{"id":"1.149260865","rc":[{"ltp":1.03,"id":19924827}]}]}
+{"op":"mcm","clk":"7610288487","pt":1539078220320,"mc":[{"id":"1.149260865","rc":[{"ltp":1.01,"id":19924827}]}]}
+{"op":"mcm","clk":"7610292920","pt":1539078282681,"mc":[{"id":"1.149260865","rc":[{"ltp":1.03,"id":19924827},{"ltp":50.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610300754","pt":1539078389186,"mc":[{"id":"1.149260865","rc":[{"ltp":1.04,"id":19924827},{"ltp":29.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610305897","pt":1539078462561,"mc":[{"id":"1.149260865","rc":[{"ltp":1.03,"id":19924827}]}]}
+{"op":"mcm","clk":"7610310242","pt":1539078522043,"mc":[{"id":"1.149260865","rc":[{"ltp":1.02,"id":19924827},{"ltp":46.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610314412","pt":1539078581076,"mc":[{"id":"1.149260865","rc":[{"ltp":34.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610318677","pt":1539078642222,"mc":[{"id":"1.149260865","rc":[{"ltp":1.03,"id":19924827},{"ltp":21.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610322271","pt":1539078696718,"mc":[{"id":"1.149260865","rc":[{"ltp":1.02,"id":19924827}]}]}
+{"op":"mcm","clk":"7610338021","pt":1539078822354,"mc":[{"id":"1.149260865","rc":[{"ltp":34.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610341428","pt":1539078881436,"mc":[{"id":"1.149260865","rc":[{"ltp":1.01,"id":19924827}]}]}
+{"op":"mcm","clk":"7610345480","pt":1539078942679,"mc":[{"id":"1.149260865","rc":[{"ltp":290.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610348698","pt":1539078991346,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T08:21:00.000Z","suspendTime":"2018-10-09T08:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"ACTIVE","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T08:21:00.000Z","version":2447202653,"name":"Match Odds","eventName":"T Simon v Berankis"},"rc":[{"ltp":190.0,"id":7234177}]}]}
+{"op":"mcm","clk":"7610352388","pt":1539079051527,"mc":[{"id":"1.149260865","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946314","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T08:21:00.000Z","suspendTime":"2018-10-09T08:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T09:57:25.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":7234177,"name":"Tobias Simon"},{"status":"WINNER","sortPriority":2,"id":19924827,"name":"Ricardas Berankis"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T08:21:00.000Z","version":2447203384,"name":"Match Odds","eventName":"T Simon v Berankis"}}]}

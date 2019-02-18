@@ -1,0 +1,106 @@
+{"op":"mcm","clk":"7661901247","pt":1538846429133,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T14:00:00.000Z","suspendTime":"2018-10-07T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T14:00:00.000Z","version":2441636669,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7661929659","pt":1538846584154,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T14:00:00.000Z","suspendTime":"2018-10-07T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T14:00:00.000Z","version":2441636669,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7665676400","pt":1538871566287,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T14:00:00.000Z","suspendTime":"2018-10-08T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T14:00:00.000Z","version":2442721181,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7675051573","pt":1538943561150,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:00:00.000Z","suspendTime":"2018-10-08T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:00:00.000Z","version":2445567211,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7676627590","pt":1538969257255,"mc":[{"id":"1.149195961","rc":[{"ltp":1.47,"id":2301068}]}]}
+{"op":"mcm","clk":"7676632565","pt":1538969434859,"mc":[{"id":"1.149195961","rc":[{"ltp":1.46,"id":2301068}]}]}
+{"op":"mcm","clk":"7677855151","pt":1538996076194,"mc":[{"id":"1.149195961","rc":[{"ltp":1.47,"id":2301068}]}]}
+{"op":"mcm","clk":"7678144254","pt":1538999561036,"mc":[{"id":"1.149195961","rc":[{"ltp":3.15,"id":7839746},{"ltp":1.46,"id":2301068}]}]}
+{"op":"mcm","clk":"7678393266","pt":1539002425454,"mc":[{"id":"1.149195961","rc":[{"ltp":1.44,"id":2301068}]}]}
+{"op":"mcm","clk":"7678536451","pt":1539003965974,"mc":[{"id":"1.149195961","rc":[{"ltp":3.0,"id":7839746},{"ltp":1.5,"id":2301068}]}]}
+{"op":"mcm","clk":"7678992174","pt":1539008977427,"mc":[{"id":"1.149195961","rc":[{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679124565","pt":1539010474893,"mc":[{"id":"1.149195961","rc":[{"ltp":1.48,"id":2301068}]}]}
+{"op":"mcm","clk":"7679148567","pt":1539010809175,"mc":[{"id":"1.149195961","rc":[{"ltp":1.46,"id":2301068}]}]}
+{"op":"mcm","clk":"7679305671","pt":1539012746873,"mc":[{"id":"1.149195961","rc":[{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679309097","pt":1539012801727,"mc":[{"id":"1.149195961","rc":[{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679318076","pt":1539012937609,"mc":[{"id":"1.149195961","rc":[{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679350418","pt":1539013408676,"mc":[{"id":"1.149195961","rc":[{"ltp":1.44,"id":2301068}]}]}
+{"op":"mcm","clk":"7679436075","pt":1539014556052,"mc":[{"id":"1.149195961","rc":[{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679605866","pt":1539016840919,"mc":[{"id":"1.149195961","rc":[{"ltp":3.2,"id":7839746},{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679620355","pt":1539017079272,"mc":[{"id":"1.149195961","rc":[{"ltp":1.44,"id":2301068}]}]}
+{"op":"mcm","clk":"7679639922","pt":1539017320064,"mc":[{"id":"1.149195961","rc":[{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679671144","pt":1539017801002,"mc":[{"id":"1.149195961","rc":[{"ltp":3.35,"id":7839746},{"ltp":1.42,"id":2301068}]}]}
+{"op":"mcm","clk":"7679680572","pt":1539017959427,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:15:00.000Z","suspendTime":"2018-10-08T17:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:15:00.000Z","version":2446498397,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"},"rc":[{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679703358","pt":1539018160924,"mc":[{"id":"1.149195961","rc":[{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679712718","pt":1539018265817,"mc":[{"id":"1.149195961","rc":[{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679764223","pt":1539018859526,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:30:00.000Z","suspendTime":"2018-10-08T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:30:00.000Z","version":2446525104,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7679771079","pt":1539018939214,"mc":[{"id":"1.149195961","rc":[{"ltp":1.44,"id":2301068}]}]}
+{"op":"mcm","clk":"7679823329","pt":1539019474379,"mc":[{"id":"1.149195961","rc":[{"ltp":1.48,"id":2301068}]}]}
+{"op":"mcm","clk":"7679846854","pt":1539019756581,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:25:00.000Z","suspendTime":"2018-10-08T17:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:25:00.000Z","version":2446536674,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7679858577","pt":1539019894205,"mc":[{"id":"1.149195961","rc":[{"ltp":3.15,"id":7839746},{"ltp":1.46,"id":2301068}]}]}
+{"op":"mcm","clk":"7679885090","pt":1539020136403,"mc":[{"id":"1.149195961","rc":[{"ltp":1.44,"id":2301068}]}]}
+{"op":"mcm","clk":"7679926399","pt":1539020560973,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:25:00.000Z","suspendTime":"2018-10-08T17:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:25:00.000Z","version":2446555467,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"},"rc":[{"ltp":3.25,"id":7839746},{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679932285","pt":1539020618206,"mc":[{"id":"1.149195961","rc":[{"ltp":3.4,"id":7839746},{"ltp":1.41,"id":2301068}]}]}
+{"op":"mcm","clk":"7679938882","pt":1539020680487,"mc":[{"id":"1.149195961","rc":[{"ltp":3.2,"id":7839746},{"ltp":1.45,"id":2301068}]}]}
+{"op":"mcm","clk":"7679944953","pt":1539020738274,"mc":[{"id":"1.149195961","rc":[{"ltp":1.42,"id":2301068}]}]}
+{"op":"mcm","clk":"7679950798","pt":1539020800293,"mc":[{"id":"1.149195961","rc":[{"ltp":1.43,"id":2301068}]}]}
+{"op":"mcm","clk":"7679963455","pt":1539020859570,"mc":[{"id":"1.149195961","rc":[{"ltp":3.6,"id":7839746},{"ltp":1.39,"id":2301068}]}]}
+{"op":"mcm","clk":"7679975031","pt":1539020977061,"mc":[{"id":"1.149195961","rc":[{"ltp":1.23,"id":2301068}]}]}
+{"op":"mcm","clk":"7679980497","pt":1539021038837,"mc":[{"id":"1.149195961","rc":[{"ltp":5.1,"id":7839746},{"ltp":1.24,"id":2301068}]}]}
+{"op":"mcm","clk":"7679985531","pt":1539021099895,"mc":[{"id":"1.149195961","rc":[{"ltp":1.26,"id":2301068}]}]}
+{"op":"mcm","clk":"7679990136","pt":1539021160494,"mc":[{"id":"1.149195961","rc":[{"ltp":5.5,"id":7839746},{"ltp":1.22,"id":2301068}]}]}
+{"op":"mcm","clk":"7679994669","pt":1539021216447,"mc":[{"id":"1.149195961","rc":[{"ltp":6.0,"id":7839746},{"ltp":1.2,"id":2301068}]}]}
+{"op":"mcm","clk":"7679999872","pt":1539021280576,"mc":[{"id":"1.149195961","rc":[{"ltp":1.18,"id":2301068}]}]}
+{"op":"mcm","clk":"7680005008","pt":1539021340173,"mc":[{"id":"1.149195961","rc":[{"ltp":5.8,"id":7839746},{"ltp":1.21,"id":2301068}]}]}
+{"op":"mcm","clk":"7680010044","pt":1539021400965,"mc":[{"id":"1.149195961","rc":[{"ltp":1.2,"id":2301068}]}]}
+{"op":"mcm","clk":"7680015128","pt":1539021460209,"mc":[{"id":"1.149195961","rc":[{"ltp":5.7,"id":7839746}]}]}
+{"op":"mcm","clk":"7680025767","pt":1539021580547,"mc":[{"id":"1.149195961","rc":[{"ltp":6.2,"id":7839746}]}]}
+{"op":"mcm","clk":"7680031854","pt":1539021640298,"mc":[{"id":"1.149195961","rc":[{"ltp":6.0,"id":7839746},{"ltp":1.18,"id":2301068}]}]}
+{"op":"mcm","clk":"7680037831","pt":1539021700048,"mc":[{"id":"1.149195961","rc":[{"ltp":7.2,"id":7839746},{"ltp":1.15,"id":2301068}]}]}
+{"op":"mcm","clk":"7680051668","pt":1539021760924,"mc":[{"id":"1.149195961","rc":[{"ltp":9.2,"id":7839746},{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680058206","pt":1539021819992,"mc":[{"id":"1.149195961","rc":[{"ltp":1.12,"id":2301068}]}]}
+{"op":"mcm","clk":"7680064515","pt":1539021880490,"mc":[{"id":"1.149195961","rc":[{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680070808","pt":1539021940792,"mc":[{"id":"1.149195961","rc":[{"ltp":7.2,"id":7839746},{"ltp":1.16,"id":2301068}]}]}
+{"op":"mcm","clk":"7680077639","pt":1539022000664,"mc":[{"id":"1.149195961","rc":[{"ltp":9.2,"id":7839746},{"ltp":1.12,"id":2301068}]}]}
+{"op":"mcm","clk":"7680090272","pt":1539022120945,"mc":[{"id":"1.149195961","rc":[{"ltp":10.0,"id":7839746},{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680103362","pt":1539022240770,"mc":[{"id":"1.149195961","rc":[{"ltp":8.8,"id":7839746},{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680109739","pt":1539022298198,"mc":[{"id":"1.149195961","rc":[{"ltp":1.12,"id":2301068}]}]}
+{"op":"mcm","clk":"7680116791","pt":1539022358895,"mc":[{"id":"1.149195961","rc":[{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680123266","pt":1539022415637,"mc":[{"id":"1.149195961","rc":[{"ltp":9.2,"id":7839746}]}]}
+{"op":"mcm","clk":"7680131110","pt":1539022480036,"mc":[{"id":"1.149195961","rc":[{"ltp":1.12,"id":2301068}]}]}
+{"op":"mcm","clk":"7680145933","pt":1539022599529,"mc":[{"id":"1.149195961","rc":[{"ltp":10.0,"id":7839746},{"ltp":1.1,"id":2301068}]}]}
+{"op":"mcm","clk":"7680160479","pt":1539022657609,"mc":[{"id":"1.149195961","rc":[{"ltp":11.0,"id":7839746}]}]}
+{"op":"mcm","clk":"7680167029","pt":1539022709080,"mc":[{"id":"1.149195961","rc":[{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680189921","pt":1539022899174,"mc":[{"id":"1.149195961","rc":[{"ltp":12.0,"id":7839746},{"ltp":1.1,"id":2301068}]}]}
+{"op":"mcm","clk":"7680196968","pt":1539022960884,"mc":[{"id":"1.149195961","rc":[{"ltp":8.8,"id":7839746},{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680203638","pt":1539023020138,"mc":[{"id":"1.149195961","rc":[{"ltp":1.1,"id":2301068}]}]}
+{"op":"mcm","clk":"7680209915","pt":1539023078859,"mc":[{"id":"1.149195961","rc":[{"ltp":1.14,"id":2301068}]}]}
+{"op":"mcm","clk":"7680216424","pt":1539023139506,"mc":[{"id":"1.149195961","rc":[{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680222531","pt":1539023197253,"mc":[{"id":"1.149195961","rc":[{"ltp":1.15,"id":2301068}]}]}
+{"op":"mcm","clk":"7680229371","pt":1539023257891,"mc":[{"id":"1.149195961","rc":[{"ltp":6.8,"id":7839746},{"ltp":1.19,"id":2301068}]}]}
+{"op":"mcm","clk":"7680236350","pt":1539023320345,"mc":[{"id":"1.149195961","rc":[{"ltp":6.0,"id":7839746},{"ltp":1.2,"id":2301068}]}]}
+{"op":"mcm","clk":"7680243482","pt":1539023380563,"mc":[{"id":"1.149195961","rc":[{"ltp":7.6,"id":7839746},{"ltp":1.13,"id":2301068}]}]}
+{"op":"mcm","clk":"7680250002","pt":1539023438199,"mc":[{"id":"1.149195961","rc":[{"ltp":10.5,"id":7839746},{"ltp":1.12,"id":2301068}]}]}
+{"op":"mcm","clk":"7680256933","pt":1539023500586,"mc":[{"id":"1.149195961","rc":[{"ltp":8.2,"id":7839746},{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680270872","pt":1539023560434,"mc":[{"id":"1.149195961","rc":[{"ltp":12.0,"id":7839746},{"ltp":1.06,"id":2301068}]}]}
+{"op":"mcm","clk":"7680277687","pt":1539023619788,"mc":[{"id":"1.149195961","rc":[{"ltp":17.5,"id":7839746},{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680284542","pt":1539023681020,"mc":[{"id":"1.149195961","rc":[{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680290998","pt":1539023739375,"mc":[{"id":"1.149195961","rc":[{"ltp":26.0,"id":7839746}]}]}
+{"op":"mcm","clk":"7680297681","pt":1539023800186,"mc":[{"id":"1.149195961","rc":[{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680304823","pt":1539023860965,"mc":[{"id":"1.149195961","rc":[{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680310074","pt":1539023909652,"mc":[{"id":"1.149195961","rc":[{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680317961","pt":1539023980415,"mc":[{"id":"1.149195961","rc":[{"ltp":21.0,"id":7839746},{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680324600","pt":1539024040272,"mc":[{"id":"1.149195961","rc":[{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680331405","pt":1539024100550,"mc":[{"id":"1.149195961","rc":[{"ltp":34.0,"id":7839746},{"ltp":1.02,"id":2301068}]}]}
+{"op":"mcm","clk":"7680338143","pt":1539024160499,"mc":[{"id":"1.149195961","rc":[{"ltp":26.0,"id":7839746},{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680343885","pt":1539024211626,"mc":[{"id":"1.149195961","rc":[{"ltp":21.0,"id":7839746},{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680351857","pt":1539024279539,"mc":[{"id":"1.149195961","rc":[{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680359503","pt":1539024339946,"mc":[{"id":"1.149195961","rc":[{"ltp":1.02,"id":2301068}]}]}
+{"op":"mcm","clk":"7680366924","pt":1539024401015,"mc":[{"id":"1.149195961","rc":[{"ltp":1.03,"id":2301068}]}]}
+{"op":"mcm","clk":"7680381492","pt":1539024460700,"mc":[{"id":"1.149195961","rc":[{"ltp":26.0,"id":7839746}]}]}
+{"op":"mcm","clk":"7680388252","pt":1539024515131,"mc":[{"id":"1.149195961","rc":[{"ltp":21.0,"id":7839746},{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680395725","pt":1539024578595,"mc":[{"id":"1.149195961","rc":[{"ltp":26.0,"id":7839746},{"ltp":1.04,"id":2301068}]}]}
+{"op":"mcm","clk":"7680402551","pt":1539024641014,"mc":[{"id":"1.149195961","rc":[{"ltp":11.0,"id":7839746},{"ltp":1.08,"id":2301068}]}]}
+{"op":"mcm","clk":"7680408834","pt":1539024700759,"mc":[{"id":"1.149195961","rc":[{"ltp":12.5,"id":7839746},{"ltp":1.11,"id":2301068}]}]}
+{"op":"mcm","clk":"7680415166","pt":1539024761010,"mc":[{"id":"1.149195961","rc":[{"ltp":11.0,"id":7839746},{"ltp":1.1,"id":2301068}]}]}
+{"op":"mcm","clk":"7680421009","pt":1539024818081,"mc":[{"id":"1.149195961","rc":[{"ltp":1.06,"id":2301068}]}]}
+{"op":"mcm","clk":"7680427331","pt":1539024880841,"mc":[{"id":"1.149195961","rc":[{"ltp":21.0,"id":7839746}]}]}
+{"op":"mcm","clk":"7680432825","pt":1539024938836,"mc":[{"id":"1.149195961","rc":[{"ltp":12.0,"id":7839746},{"ltp":1.09,"id":2301068}]}]}
+{"op":"mcm","clk":"7680438219","pt":1539024997304,"mc":[{"id":"1.149195961","rc":[{"ltp":21.0,"id":7839746},{"ltp":1.05,"id":2301068}]}]}
+{"op":"mcm","clk":"7680444051","pt":1539025060307,"mc":[{"id":"1.149195961","rc":[{"ltp":18.0,"id":7839746},{"ltp":1.03,"id":2301068}]}]}
+{"op":"mcm","clk":"7680449597","pt":1539025118886,"mc":[{"id":"1.149195961","rc":[{"ltp":36.0,"id":7839746},{"ltp":1.02,"id":2301068}]}]}
+{"op":"mcm","clk":"7680455514","pt":1539025180859,"mc":[{"id":"1.149195961","rc":[{"ltp":34.0,"id":7839746},{"ltp":1.03,"id":2301068}]}]}
+{"op":"mcm","clk":"7680461088","pt":1539025238157,"mc":[{"id":"1.149195961","rc":[{"ltp":1.02,"id":2301068}]}]}
+{"op":"mcm","clk":"7680480685","pt":1539025359157,"mc":[{"id":"1.149195961","rc":[{"ltp":1.01,"id":2301068}]}]}
+{"op":"mcm","clk":"7680485606","pt":1539025408709,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:25:00.000Z","suspendTime":"2018-10-08T17:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"ACTIVE","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:25:00.000Z","version":2446692926,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}
+{"op":"mcm","clk":"7680490135","pt":1539025450997,"mc":[{"id":"1.149195961","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28942797","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T17:25:00.000Z","suspendTime":"2018-10-08T17:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-08T19:04:03.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":7839746,"name":"Mario Vilella Martinez"},{"status":"WINNER","sortPriority":2,"id":2301068,"name":"Rogerio Dutra Silva"}],"regulators":["MR_INT"],"countryCode":"DO","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T17:25:00.000Z","version":2446693695,"name":"Match Odds","eventName":"Vilella Martinez v Dutra Silva"}}]}

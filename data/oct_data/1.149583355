@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7721359596","pt":1539516013087,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455202530,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7721471560","pt":1539516958138,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455202530,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7725746053","pt":1539562793091,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2456817407,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7726891165","pt":1539593403140,"mc":[{"id":"1.149583355","rc":[{"ltp":1.26,"id":10847581}]}]}
+{"op":"mcm","clk":"7730120489","pt":1539642014161,"mc":[{"id":"1.149583355","rc":[{"ltp":5.0,"id":21143601}]}]}
+{"op":"mcm","clk":"7730404118","pt":1539649732868,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T09:00:00.000Z","suspendTime":"2018-10-17T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T09:00:00.000Z","version":2457700634,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7731858819","pt":1539681025397,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7731867005","pt":1539681213228,"mc":[{"id":"1.149583355","rc":[{"ltp":1.25,"id":10847581}]}]}
+{"op":"mcm","clk":"7734806971","pt":1539712727742,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2458486408,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7734838921","pt":1539712934522,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7734848580","pt":1539713019926,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:34:00.000Z","suspendTime":"2018-10-16T15:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10847581,"name":"Gasparyan/Niculescu"},{"status":"ACTIVE","sortPriority":2,"id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:34:00.000Z","version":2458499834,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}
+{"op":"mcm","clk":"7735050666","pt":1539714691038,"mc":[{"id":"1.149583355","rc":[{"ltp":1.24,"id":10847581}]}]}
+{"op":"mcm","clk":"7735097016","pt":1539714996976,"mc":[{"id":"1.149583355","rc":[{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7735381529","pt":1539717319341,"mc":[{"id":"1.149583355","rc":[{"ltp":1.21,"id":10847581}]}]}
+{"op":"mcm","clk":"7735477184","pt":1539718144811,"mc":[{"id":"1.149583355","rc":[{"ltp":6.4,"id":21143601}]}]}
+{"op":"mcm","clk":"7735485049","pt":1539718230687,"mc":[{"id":"1.149583355","rc":[{"ltp":5.8,"id":21143601},{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7735490908","pt":1539718294604,"mc":[{"id":"1.149583355","rc":[{"ltp":1.21,"id":10847581}]}]}
+{"op":"mcm","clk":"7735551645","pt":1539718825326,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7735585587","pt":1539719189029,"mc":[{"id":"1.149583355","rc":[{"ltp":1.21,"id":10847581}]}]}
+{"op":"mcm","clk":"7735908150","pt":1539722492748,"mc":[{"id":"1.149583355","rc":[{"ltp":5.0,"id":21143601}]}]}
+{"op":"mcm","clk":"7735968415","pt":1539723498878,"mc":[{"id":"1.149583355","rc":[{"ltp":1.25,"id":10847581}]}]}
+{"op":"mcm","clk":"7736006036","pt":1539724114586,"mc":[{"id":"1.149583355","rc":[{"ltp":5.1,"id":21143601},{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7736012499","pt":1539724259593,"mc":[{"id":"1.149583355","rc":[{"ltp":1.24,"id":10847581}]}]}
+{"op":"mcm","clk":"7736016342","pt":1539724341422,"mc":[{"id":"1.149583355","rc":[{"ltp":5.0,"id":21143601},{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7736019319","pt":1539724404249,"mc":[{"id":"1.149583355","rc":[{"ltp":5.1,"id":21143601}]}]}
+{"op":"mcm","clk":"7736025716","pt":1539724536877,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7736046869","pt":1539724811243,"mc":[{"id":"1.149583355","rc":[{"ltp":1.22,"id":10847581}]}]}
+{"op":"mcm","clk":"7736063595","pt":1539725160836,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7736072542","pt":1539725354571,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7736090056","pt":1539725547200,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7736099103","pt":1539725735372,"mc":[{"id":"1.149583355","rc":[{"ltp":1.25,"id":10847581}]}]}
+{"op":"mcm","clk":"7736105614","pt":1539725889138,"mc":[{"id":"1.149583355","rc":[{"ltp":6.6,"id":21143601},{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7736109312","pt":1539725977378,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7736163209","pt":1539727025502,"mc":[{"id":"1.149583355","rc":[{"ltp":5.1,"id":21143601},{"ltp":1.24,"id":10847581}]}]}
+{"op":"mcm","clk":"7736262520","pt":1539728917029,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7736380144","pt":1539730765828,"mc":[{"id":"1.149583355","rc":[{"ltp":1.25,"id":10847581}]}]}
+{"op":"mcm","clk":"7736426674","pt":1539731436389,"mc":[{"id":"1.149583355","rc":[{"ltp":4.8,"id":21143601}]}]}
+{"op":"mcm","clk":"7736433875","pt":1539731555969,"mc":[{"id":"1.149583355","rc":[{"ltp":1.22,"id":10847581}]}]}
+{"op":"mcm","clk":"7736480116","pt":1539732187315,"mc":[{"id":"1.149583355","rc":[{"ltp":1.26,"id":10847581}]}]}
+{"op":"mcm","clk":"7736519104","pt":1539732753995,"mc":[{"id":"1.149583355","rc":[{"ltp":1.22,"id":10847581}]}]}
+{"op":"mcm","clk":"7736567660","pt":1539733537117,"mc":[{"id":"1.149583355","rc":[{"ltp":1.27,"id":10847581}]}]}
+{"op":"mcm","clk":"7736583524","pt":1539733643214,"mc":[{"id":"1.149583355","rc":[{"ltp":5.9,"id":21143601},{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7736641858","pt":1539734554140,"mc":[{"id":"1.149583355","rc":[{"ltp":4.8,"id":21143601}]}]}
+{"op":"mcm","clk":"7736821149","pt":1539737346533,"mc":[{"id":"1.149583355","rc":[{"ltp":5.3,"id":21143601}]}]}
+{"op":"mcm","clk":"7736953682","pt":1539739912811,"mc":[{"id":"1.149583355","rc":[{"ltp":5.5,"id":21143601},{"ltp":1.23,"id":10847581}]}]}
+{"op":"mcm","clk":"7737002914","pt":1539740606066,"mc":[{"id":"1.149583355","rc":[{"ltp":5.9,"id":21143601},{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7737136709","pt":1539743232164,"mc":[{"id":"1.149583355","rc":[{"ltp":5.5,"id":21143601},{"ltp":1.23,"id":10847581}]}]}
+{"op":"mcm","clk":"7737203872","pt":1539744737506,"mc":[{"id":"1.149583355","rc":[{"ltp":5.9,"id":21143601},{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7737341561","pt":1539748527338,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7737572723","pt":1539754127063,"mc":[{"id":"1.149583355","rc":[{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7737673569","pt":1539756216330,"mc":[{"id":"1.149583355","rc":[{"ltp":1.25,"id":10847581}]}]}
+{"op":"mcm","clk":"7737695300","pt":1539756694604,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7737723911","pt":1539757229446,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7737746367","pt":1539757803057,"mc":[{"id":"1.149583355","rc":[{"ltp":1.16,"id":10847581}]}]}
+{"op":"mcm","clk":"7737788724","pt":1539758715469,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7737809860","pt":1539759015690,"mc":[{"id":"1.149583355","rc":[{"ltp":1.2,"id":10847581}]}]}
+{"op":"mcm","clk":"7737817160","pt":1539759204623,"mc":[{"id":"1.149583355","rc":[{"ltp":1.15,"id":10847581}]}]}
+{"op":"mcm","clk":"7737860030","pt":1539760073969,"mc":[{"id":"1.149583355","rc":[{"ltp":1.24,"id":10847581}]}]}
+{"op":"mcm","clk":"7738010978","pt":1539762816159,"mc":[{"id":"1.149583355","rc":[{"ltp":1.18,"id":10847581}]}]}
+{"op":"mcm","clk":"7738018138","pt":1539762997268,"mc":[{"id":"1.149583355","rc":[{"ltp":1.13,"id":10847581}]}]}
+{"op":"mcm","clk":"7738057753","pt":1539763654991,"mc":[{"id":"1.149583355","rc":[{"ltp":1.23,"id":10847581}]}]}
+{"op":"mcm","clk":"7738117003","pt":1539764643881,"mc":[{"id":"1.149583355","rc":[{"ltp":1.15,"id":10847581}]}]}
+{"op":"mcm","clk":"7738183073","pt":1539765831045,"mc":[{"id":"1.149583355","rc":[{"ltp":1.17,"id":10847581}]}]}
+{"op":"mcm","clk":"7738206342","pt":1539766110204,"mc":[{"id":"1.149583355","rc":[{"ltp":1.19,"id":10847581}]}]}
+{"op":"mcm","clk":"7738230126","pt":1539766591557,"mc":[{"id":"1.149583355","rc":[{"ltp":1.17,"id":10847581}]}]}
+{"op":"mcm","clk":"7738241008","pt":1539766837228,"mc":[{"id":"1.149583355","rc":[{"ltp":1.13,"id":10847581}]}]}
+{"op":"mcm","clk":"7738264373","pt":1539767134407,"mc":[{"id":"1.149583355","rc":[{"ltp":1.17,"id":10847581}]}]}
+{"op":"mcm","clk":"7738671512","pt":1539773549161,"mc":[{"id":"1.149583355","rc":[{"ltp":1.16,"id":10847581}]}]}
+{"op":"mcm","clk":"7738763119","pt":1539774766736,"mc":[{"id":"1.149583355","rc":[{"ltp":1.13,"id":10847581}]}]}
+{"op":"mcm","clk":"7738769157","pt":1539774862300,"mc":[{"id":"1.149583355","rc":[{"ltp":1.16,"id":10847581}]}]}
+{"op":"mcm","clk":"7738817329","pt":1539775405196,"mc":[{"id":"1.149583355","rc":[{"ltp":1.17,"id":10847581}]}]}
+{"op":"mcm","clk":"7738843521","pt":1539775772789,"mc":[{"id":"1.149583355","rc":[{"ltp":1.15,"id":10847581}]}]}
+{"op":"mcm","clk":"7738875110","pt":1539776061512,"mc":[{"id":"1.149583355","rc":[{"ltp":1.13,"id":10847581}]}]}
+{"op":"mcm","clk":"7738877169","pt":1539776089757,"mc":[{"id":"1.149583355","rc":[{"ltp":1.16,"id":10847581}]}]}
+{"op":"mcm","clk":"7738883135","pt":1539776166469,"mc":[{"id":"1.149583355","rc":[{"ltp":1.17,"id":10847581}]}]}
+{"op":"mcm","clk":"7739125645","pt":1539778808567,"mc":[{"id":"1.149583355","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956903","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:34:00.000Z","suspendTime":"2018-10-16T15:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":0,"status":"CLOSED","settledTime":"2018-10-17T12:20:05.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-17T12:20:05.000Z","id":10847581,"name":"Gasparyan/Niculescu"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-17T12:20:05.000Z","id":21143601,"name":"Serban/Shinikova"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:34:00.000Z","version":2459270628,"name":"Match Odds","eventName":"Gasparyan/Niculescu v Serban/Shinikova"}}]}

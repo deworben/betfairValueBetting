@@ -1,0 +1,100 @@
+{"op":"mcm","clk":"7794362983","pt":1540241978384,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:00:00.000Z","suspendTime":"2018-10-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2471241911,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7794379520","pt":1540242130591,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T18:00:00.000Z","suspendTime":"2018-10-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T18:00:00.000Z","version":2471241911,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7794435587","pt":1540243424188,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T20:00:00.000Z","suspendTime":"2018-10-23T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T20:00:00.000Z","version":2471244751,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7798517327","pt":1540301623757,"mc":[{"id":"1.150035359","rc":[{"ltp":2.32,"id":3705838}]}]}
+{"op":"mcm","clk":"7800493566","pt":1540317525761,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:54:00.000Z","suspendTime":"2018-10-23T19:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:54:00.000Z","version":2472064936,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7800565111","pt":1540318037946,"mc":[{"id":"1.150035359","rc":[{"ltp":1.63,"id":2257298}]}]}
+{"op":"mcm","clk":"7800874845","pt":1540320347171,"mc":[{"id":"1.150035359","rc":[{"ltp":1.74,"id":2257298}]}]}
+{"op":"mcm","clk":"7801058677","pt":1540321347381,"mc":[{"id":"1.150035359","rc":[{"ltp":1.62,"id":2257298}]}]}
+{"op":"mcm","clk":"7801122241","pt":1540321720178,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:13:00.000Z","suspendTime":"2018-10-23T19:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:13:00.000Z","version":2472248955,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7801154717","pt":1540321907355,"mc":[{"id":"1.150035359","rc":[{"ltp":1.67,"id":2257298}]}]}
+{"op":"mcm","clk":"7801163973","pt":1540321960967,"mc":[{"id":"1.150035359","rc":[{"ltp":2.34,"id":3705838}]}]}
+{"op":"mcm","clk":"7801174747","pt":1540322022932,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:09:00.000Z","suspendTime":"2018-10-23T19:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:09:00.000Z","version":2472262187,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7801303922","pt":1540322748615,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:09:00.000Z","suspendTime":"2018-10-23T19:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:09:00.000Z","version":2472287943,"name":"Match Odds","eventName":"E King v Robredo"}}]}
+{"op":"mcm","clk":"7801312827","pt":1540322802391,"mc":[{"id":"1.150035359","rc":[{"ltp":1.72,"id":2257298}]}]}
+{"op":"mcm","clk":"7801323611","pt":1540322868930,"mc":[{"id":"1.150035359","rc":[{"ltp":1.85,"id":2257298},{"ltp":2.18,"id":3705838}]}]}
+{"op":"mcm","clk":"7801332692","pt":1540322927457,"mc":[{"id":"1.150035359","rc":[{"ltp":1.66,"id":2257298},{"ltp":2.32,"id":3705838}]}]}
+{"op":"mcm","clk":"7801340976","pt":1540322982040,"mc":[{"id":"1.150035359","rc":[{"ltp":1.8,"id":2257298},{"ltp":2.26,"id":3705838}]}]}
+{"op":"mcm","clk":"7801350808","pt":1540323047479,"mc":[{"id":"1.150035359","rc":[{"ltp":1.63,"id":2257298}]}]}
+{"op":"mcm","clk":"7801360344","pt":1540323108555,"mc":[{"id":"1.150035359","rc":[{"ltp":2.6,"id":3705838}]}]}
+{"op":"mcm","clk":"7801380919","pt":1540323165515,"mc":[{"id":"1.150035359","rc":[{"ltp":1.7,"id":2257298}]}]}
+{"op":"mcm","clk":"7801400334","pt":1540323285450,"mc":[{"id":"1.150035359","rc":[{"ltp":2.02,"id":2257298}]}]}
+{"op":"mcm","clk":"7801409096","pt":1540323347855,"mc":[{"id":"1.150035359","rc":[{"ltp":1.9,"id":2257298},{"ltp":2.1,"id":3705838}]}]}
+{"op":"mcm","clk":"7801416982","pt":1540323407785,"mc":[{"id":"1.150035359","rc":[{"ltp":2.02,"id":2257298},{"ltp":1.98,"id":3705838}]}]}
+{"op":"mcm","clk":"7801423371","pt":1540323456379,"mc":[{"id":"1.150035359","rc":[{"ltp":1.68,"id":3705838}]}]}
+{"op":"mcm","clk":"7801431739","pt":1540323525720,"mc":[{"id":"1.150035359","rc":[{"ltp":2.42,"id":2257298},{"ltp":1.7,"id":3705838}]}]}
+{"op":"mcm","clk":"7801439915","pt":1540323587847,"mc":[{"id":"1.150035359","rc":[{"ltp":2.04,"id":2257298},{"ltp":1.96,"id":3705838}]}]}
+{"op":"mcm","clk":"7801447193","pt":1540323647803,"mc":[{"id":"1.150035359","rc":[{"ltp":2.12,"id":2257298},{"ltp":1.81,"id":3705838}]}]}
+{"op":"mcm","clk":"7801453976","pt":1540323701438,"mc":[{"id":"1.150035359","rc":[{"ltp":2.62,"id":2257298},{"ltp":1.68,"id":3705838}]}]}
+{"op":"mcm","clk":"7801469868","pt":1540323823884,"mc":[{"id":"1.150035359","rc":[{"ltp":2.74,"id":2257298},{"ltp":1.59,"id":3705838}]}]}
+{"op":"mcm","clk":"7801484374","pt":1540323944514,"mc":[{"id":"1.150035359","rc":[{"ltp":2.48,"id":2257298},{"ltp":1.67,"id":3705838}]}]}
+{"op":"mcm","clk":"7801492057","pt":1540324004057,"mc":[{"id":"1.150035359","rc":[{"ltp":1.64,"id":3705838}]}]}
+{"op":"mcm","clk":"7801512048","pt":1540324067271,"mc":[{"id":"1.150035359","rc":[{"ltp":2.32,"id":2257298},{"ltp":1.76,"id":3705838}]}]}
+{"op":"mcm","clk":"7801520750","pt":1540324128401,"mc":[{"id":"1.150035359","rc":[{"ltp":2.02,"id":2257298},{"ltp":1.85,"id":3705838}]}]}
+{"op":"mcm","clk":"7801530202","pt":1540324186716,"mc":[{"id":"1.150035359","rc":[{"ltp":2.06,"id":2257298},{"ltp":1.94,"id":3705838}]}]}
+{"op":"mcm","clk":"7801540737","pt":1540324248899,"mc":[{"id":"1.150035359","rc":[{"ltp":2.58,"id":2257298},{"ltp":1.64,"id":3705838}]}]}
+{"op":"mcm","clk":"7801550965","pt":1540324308585,"mc":[{"id":"1.150035359","rc":[{"ltp":2.94,"id":2257298},{"ltp":1.52,"id":3705838}]}]}
+{"op":"mcm","clk":"7801560677","pt":1540324367606,"mc":[{"id":"1.150035359","rc":[{"ltp":3.3,"id":2257298},{"ltp":1.38,"id":3705838}]}]}
+{"op":"mcm","clk":"7801570229","pt":1540324429074,"mc":[{"id":"1.150035359","rc":[{"ltp":3.5,"id":2257298},{"ltp":1.4,"id":3705838}]}]}
+{"op":"mcm","clk":"7801579682","pt":1540324489065,"mc":[{"id":"1.150035359","rc":[{"ltp":3.05,"id":2257298},{"ltp":1.51,"id":3705838}]}]}
+{"op":"mcm","clk":"7801589001","pt":1540324547462,"mc":[{"id":"1.150035359","rc":[{"ltp":3.0,"id":2257298},{"ltp":1.54,"id":3705838}]}]}
+{"op":"mcm","clk":"7801598320","pt":1540324607960,"mc":[{"id":"1.150035359","rc":[{"ltp":3.15,"id":2257298},{"ltp":1.46,"id":3705838}]}]}
+{"op":"mcm","clk":"7801607887","pt":1540324668766,"mc":[{"id":"1.150035359","rc":[{"ltp":3.0,"id":2257298},{"ltp":1.54,"id":3705838}]}]}
+{"op":"mcm","clk":"7801617713","pt":1540324729137,"mc":[{"id":"1.150035359","rc":[{"ltp":2.9,"id":2257298},{"ltp":1.55,"id":3705838}]}]}
+{"op":"mcm","clk":"7801627646","pt":1540324788304,"mc":[{"id":"1.150035359","rc":[{"ltp":3.0,"id":2257298},{"ltp":1.54,"id":3705838}]}]}
+{"op":"mcm","clk":"7801637561","pt":1540324848529,"mc":[{"id":"1.150035359","rc":[{"ltp":1.49,"id":3705838}]}]}
+{"op":"mcm","clk":"7801647528","pt":1540324907802,"mc":[{"id":"1.150035359","rc":[{"ltp":3.25,"id":2257298},{"ltp":1.42,"id":3705838}]}]}
+{"op":"mcm","clk":"7801669769","pt":1540324968497,"mc":[{"id":"1.150035359","rc":[{"ltp":3.0,"id":2257298},{"ltp":1.5,"id":3705838}]}]}
+{"op":"mcm","clk":"7801679819","pt":1540325028908,"mc":[{"id":"1.150035359","rc":[{"ltp":2.7,"id":2257298},{"ltp":1.58,"id":3705838}]}]}
+{"op":"mcm","clk":"7801689871","pt":1540325085463,"mc":[{"id":"1.150035359","rc":[{"ltp":2.72,"id":2257298}]}]}
+{"op":"mcm","clk":"7801711045","pt":1540325208985,"mc":[{"id":"1.150035359","rc":[{"ltp":2.88,"id":2257298},{"ltp":1.53,"id":3705838}]}]}
+{"op":"mcm","clk":"7801720625","pt":1540325267683,"mc":[{"id":"1.150035359","rc":[{"ltp":3.35,"id":2257298},{"ltp":1.42,"id":3705838}]}]}
+{"op":"mcm","clk":"7801730980","pt":1540325328936,"mc":[{"id":"1.150035359","rc":[{"ltp":3.25,"id":2257298},{"ltp":1.45,"id":3705838}]}]}
+{"op":"mcm","clk":"7801740717","pt":1540325388335,"mc":[{"id":"1.150035359","rc":[{"ltp":4.1,"id":2257298},{"ltp":1.32,"id":3705838}]}]}
+{"op":"mcm","clk":"7801752060","pt":1540325449064,"mc":[{"id":"1.150035359","rc":[{"ltp":4.3,"id":2257298},{"ltp":1.31,"id":3705838}]}]}
+{"op":"mcm","clk":"7801773640","pt":1540325568304,"mc":[{"id":"1.150035359","rc":[{"ltp":4.1,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7801783958","pt":1540325626651,"mc":[{"id":"1.150035359","rc":[{"ltp":5.3,"id":2257298},{"ltp":1.23,"id":3705838}]}]}
+{"op":"mcm","clk":"7801794713","pt":1540325689130,"mc":[{"id":"1.150035359","rc":[{"ltp":5.1,"id":2257298},{"ltp":1.25,"id":3705838}]}]}
+{"op":"mcm","clk":"7801804488","pt":1540325748017,"mc":[{"id":"1.150035359","rc":[{"ltp":5.0,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7801813800","pt":1540325808830,"mc":[{"id":"1.150035359","rc":[{"ltp":4.3,"id":2257298},{"ltp":1.29,"id":3705838}]}]}
+{"op":"mcm","clk":"7801834635","pt":1540325869040,"mc":[{"id":"1.150035359","rc":[{"ltp":5.3,"id":2257298},{"ltp":1.23,"id":3705838}]}]}
+{"op":"mcm","clk":"7801844211","pt":1540325926816,"mc":[{"id":"1.150035359","rc":[{"ltp":4.6,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7801854224","pt":1540325988978,"mc":[{"id":"1.150035359","rc":[{"ltp":4.3,"id":2257298},{"ltp":1.31,"id":3705838}]}]}
+{"op":"mcm","clk":"7801863255","pt":1540326047846,"mc":[{"id":"1.150035359","rc":[{"ltp":3.65,"id":2257298},{"ltp":1.42,"id":3705838}]}]}
+{"op":"mcm","clk":"7801872669","pt":1540326109085,"mc":[{"id":"1.150035359","rc":[{"ltp":3.0,"id":2257298},{"ltp":1.5,"id":3705838}]}]}
+{"op":"mcm","clk":"7801881222","pt":1540326169075,"mc":[{"id":"1.150035359","rc":[{"ltp":3.75,"id":2257298},{"ltp":1.36,"id":3705838}]}]}
+{"op":"mcm","clk":"7801889904","pt":1540326228822,"mc":[{"id":"1.150035359","rc":[{"ltp":4.5,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7801897664","pt":1540326285875,"mc":[{"id":"1.150035359","rc":[{"ltp":4.8,"id":2257298}]}]}
+{"op":"mcm","clk":"7801906037","pt":1540326348884,"mc":[{"id":"1.150035359","rc":[{"ltp":4.2,"id":2257298},{"ltp":1.31,"id":3705838}]}]}
+{"op":"mcm","clk":"7801913965","pt":1540326409138,"mc":[{"id":"1.150035359","rc":[{"ltp":3.8,"id":2257298},{"ltp":1.36,"id":3705838}]}]}
+{"op":"mcm","clk":"7801921872","pt":1540326469067,"mc":[{"id":"1.150035359","rc":[{"ltp":3.9,"id":2257298},{"ltp":1.33,"id":3705838}]}]}
+{"op":"mcm","clk":"7801929601","pt":1540326528584,"mc":[{"id":"1.150035359","rc":[{"ltp":1.29,"id":3705838}]}]}
+{"op":"mcm","clk":"7801937925","pt":1540326587087,"mc":[{"id":"1.150035359","rc":[{"ltp":4.5,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7801946609","pt":1540326648907,"mc":[{"id":"1.150035359","rc":[{"ltp":4.3,"id":2257298},{"ltp":1.3,"id":3705838}]}]}
+{"op":"mcm","clk":"7801954955","pt":1540326708861,"mc":[{"id":"1.150035359","rc":[{"ltp":4.1,"id":2257298},{"ltp":1.32,"id":3705838}]}]}
+{"op":"mcm","clk":"7801973875","pt":1540326768064,"mc":[{"id":"1.150035359","rc":[{"ltp":3.85,"id":2257298}]}]}
+{"op":"mcm","clk":"7801981522","pt":1540326828964,"mc":[{"id":"1.150035359","rc":[{"ltp":5.0,"id":2257298},{"ltp":1.24,"id":3705838}]}]}
+{"op":"mcm","clk":"7801988941","pt":1540326889052,"mc":[{"id":"1.150035359","rc":[{"ltp":1.17,"id":3705838}]}]}
+{"op":"mcm","clk":"7801995810","pt":1540326949138,"mc":[{"id":"1.150035359","rc":[{"ltp":7.6,"id":2257298},{"ltp":1.15,"id":3705838}]}]}
+{"op":"mcm","clk":"7802002415","pt":1540327008791,"mc":[{"id":"1.150035359","rc":[{"ltp":13.5,"id":2257298},{"ltp":1.08,"id":3705838}]}]}
+{"op":"mcm","clk":"7802010231","pt":1540327068114,"mc":[{"id":"1.150035359","rc":[{"ltp":7.6,"id":2257298},{"ltp":1.15,"id":3705838}]}]}
+{"op":"mcm","clk":"7802017505","pt":1540327128215,"mc":[{"id":"1.150035359","rc":[{"ltp":6.2,"id":2257298},{"ltp":1.19,"id":3705838}]}]}
+{"op":"mcm","clk":"7802024268","pt":1540327188002,"mc":[{"id":"1.150035359","rc":[{"ltp":5.5,"id":2257298},{"ltp":1.22,"id":3705838}]}]}
+{"op":"mcm","clk":"7802029566","pt":1540327242552,"mc":[{"id":"1.150035359","rc":[{"ltp":4.7,"id":2257298},{"ltp":1.28,"id":3705838}]}]}
+{"op":"mcm","clk":"7802035429","pt":1540327307898,"mc":[{"id":"1.150035359","rc":[{"ltp":1.29,"id":3705838}]}]}
+{"op":"mcm","clk":"7802040288","pt":1540327367188,"mc":[{"id":"1.150035359","rc":[{"ltp":5.5,"id":2257298},{"ltp":1.25,"id":3705838}]}]}
+{"op":"mcm","clk":"7802045623","pt":1540327428059,"mc":[{"id":"1.150035359","rc":[{"ltp":6.8,"id":2257298},{"ltp":1.23,"id":3705838}]}]}
+{"op":"mcm","clk":"7802050767","pt":1540327488469,"mc":[{"id":"1.150035359","rc":[{"ltp":5.3,"id":2257298},{"ltp":1.24,"id":3705838}]}]}
+{"op":"mcm","clk":"7802055819","pt":1540327547797,"mc":[{"id":"1.150035359","rc":[{"ltp":8.0,"id":2257298},{"ltp":1.22,"id":3705838}]}]}
+{"op":"mcm","clk":"7802061534","pt":1540327608632,"mc":[{"id":"1.150035359","rc":[{"ltp":4.5,"id":2257298},{"ltp":1.3,"id":3705838}]}]}
+{"op":"mcm","clk":"7802077767","pt":1540327669111,"mc":[{"id":"1.150035359","rc":[{"ltp":3.85,"id":2257298},{"ltp":1.31,"id":3705838}]}]}
+{"op":"mcm","clk":"7802082405","pt":1540327727221,"mc":[{"id":"1.150035359","rc":[{"ltp":4.9,"id":2257298},{"ltp":1.27,"id":3705838}]}]}
+{"op":"mcm","clk":"7802087348","pt":1540327788120,"mc":[{"id":"1.150035359","rc":[{"ltp":3.6,"id":2257298},{"ltp":1.39,"id":3705838}]}]}
+{"op":"mcm","clk":"7802091681","pt":1540327848361,"mc":[{"id":"1.150035359","rc":[{"ltp":5.0,"id":2257298},{"ltp":1.25,"id":3705838}]}]}
+{"op":"mcm","clk":"7802096019","pt":1540327906967,"mc":[{"id":"1.150035359","rc":[{"ltp":1.26,"id":3705838}]}]}
+{"op":"mcm","clk":"7802099385","pt":1540327965781,"mc":[{"id":"1.150035359","rc":[{"ltp":1.25,"id":3705838}]}]}
+{"op":"mcm","clk":"7802102378","pt":1540328028117,"mc":[{"id":"1.150035359","rc":[{"ltp":21.0,"id":2257298},{"ltp":1.03,"id":3705838}]}]}
+{"op":"mcm","clk":"7802105942","pt":1540328088513,"mc":[{"id":"1.150035359","rc":[{"ltp":9.2,"id":2257298},{"ltp":1.12,"id":3705838}]}]}
+{"op":"mcm","clk":"7802109416","pt":1540328148539,"mc":[{"id":"1.150035359","rc":[{"ltp":4.1,"id":2257298},{"ltp":1.13,"id":3705838}]}]}
+{"op":"mcm","clk":"7802113607","pt":1540328208924,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:09:00.000Z","suspendTime":"2018-10-23T19:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"ACTIVE","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:09:00.000Z","version":2472543093,"name":"Match Odds","eventName":"E King v Robredo"},"rc":[{"ltp":10.0,"id":2257298},{"ltp":1.14,"id":3705838}]}]}
+{"op":"mcm","clk":"7802114712","pt":1540328222989,"mc":[{"id":"1.150035359","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28970940","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T19:09:00.000Z","suspendTime":"2018-10-23T19:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-23T20:56:57.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":3705838,"name":"Evan King"},{"status":"LOSER","sortPriority":2,"id":2257298,"name":"Tommy Robredo"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T19:09:00.000Z","version":2472545151,"name":"Match Odds","eventName":"E King v Robredo"}}]}

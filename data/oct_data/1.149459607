@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7700750128","pt":1539326140126,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:45:00.000Z","version":2450436578,"name":"Match Odds","eventName":"A Anshba v D Kovinic"}}]}
+{"op":"mcm","clk":"7700755418","pt":1539326245068,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:45:00.000Z","version":2450436578,"name":"Match Odds","eventName":"A Anshba v D Kovinic"},"rc":[{"ltp":1.58,"id":9627264}]}]}
+{"op":"mcm","clk":"7701332292","pt":1539334374972,"mc":[{"id":"1.149459607","rc":[{"ltp":1.68,"id":9627264}]}]}
+{"op":"mcm","clk":"7702037517","pt":1539340613625,"mc":[{"id":"1.149459607","rc":[{"ltp":2.1,"id":9952749}]}]}
+{"op":"mcm","clk":"7702064250","pt":1539340829924,"mc":[{"id":"1.149459607","rc":[{"ltp":2.02,"id":9952749},{"ltp":1.71,"id":9627264}]}]}
+{"op":"mcm","clk":"7702096074","pt":1539341072088,"mc":[{"id":"1.149459607","rc":[{"ltp":1.99,"id":9627264}]}]}
+{"op":"mcm","clk":"7702105443","pt":1539341146264,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:45:00.000Z","version":2450625695,"name":"Match Odds","eventName":"A Anshba v D Kovinic"}}]}
+{"op":"mcm","clk":"7702155454","pt":1539341518187,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:51:53.000Z","version":2450630850,"name":"Match Odds","eventName":"A Anshba v D Kovinic"}}]}
+{"op":"mcm","clk":"7702179185","pt":1539341751456,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:51:53.000Z","version":2450634419,"name":"Match Odds","eventName":"A Anshba v D Kovinic"}}]}
+{"op":"mcm","clk":"7702205298","pt":1539341993795,"mc":[{"id":"1.149459607","rc":[{"ltp":1.58,"id":9952749},{"ltp":2.52,"id":9627264}]}]}
+{"op":"mcm","clk":"7702218342","pt":1539342104917,"mc":[{"id":"1.149459607","rc":[{"ltp":1.69,"id":9952749}]}]}
+{"op":"mcm","clk":"7702234012","pt":1539342155749,"mc":[{"id":"1.149459607","rc":[{"ltp":1.58,"id":9952749}]}]}
+{"op":"mcm","clk":"7702255932","pt":1539342349174,"mc":[{"id":"1.149459607","rc":[{"ltp":1.57,"id":9952749},{"ltp":2.76,"id":9627264}]}]}
+{"op":"mcm","clk":"7702262721","pt":1539342411135,"mc":[{"id":"1.149459607","rc":[{"ltp":1.52,"id":9952749}]}]}
+{"op":"mcm","clk":"7702266703","pt":1539342447248,"mc":[{"id":"1.149459607","rc":[{"ltp":1.43,"id":9952749}]}]}
+{"op":"mcm","clk":"7702312164","pt":1539342824767,"mc":[{"id":"1.149459607","rc":[{"ltp":1.42,"id":9952749}]}]}
+{"op":"mcm","clk":"7702378831","pt":1539343314428,"mc":[{"id":"1.149459607","rc":[{"ltp":1.61,"id":9952749},{"ltp":2.64,"id":9627264}]}]}
+{"op":"mcm","clk":"7702390280","pt":1539343432589,"mc":[{"id":"1.149459607","rc":[{"ltp":1.5,"id":9952749}]}]}
+{"op":"mcm","clk":"7702415504","pt":1539343673778,"mc":[{"id":"1.149459607","rc":[{"ltp":1.84,"id":9952749},{"ltp":2.18,"id":9627264}]}]}
+{"op":"mcm","clk":"7702421852","pt":1539343734205,"mc":[{"id":"1.149459607","rc":[{"ltp":1.58,"id":9952749}]}]}
+{"op":"mcm","clk":"7702440458","pt":1539343905497,"mc":[{"id":"1.149459607","rc":[{"ltp":2.26,"id":9627264}]}]}
+{"op":"mcm","clk":"7702488668","pt":1539344273935,"mc":[{"id":"1.149459607","rc":[{"ltp":2.02,"id":9627264}]}]}
+{"op":"mcm","clk":"7702493852","pt":1539344326290,"mc":[{"id":"1.149459607","rc":[{"ltp":1.71,"id":9627264}]}]}
+{"op":"mcm","clk":"7702513084","pt":1539344511323,"mc":[{"id":"1.149459607","rc":[{"ltp":1.95,"id":9627264}]}]}
+{"op":"mcm","clk":"7702519506","pt":1539344569411,"mc":[{"id":"1.149459607","rc":[{"ltp":1.79,"id":9952749}]}]}
+{"op":"mcm","clk":"7702525939","pt":1539344623645,"mc":[{"id":"1.149459607","rc":[{"ltp":1.7,"id":9952749}]}]}
+{"op":"mcm","clk":"7702538312","pt":1539344733932,"mc":[{"id":"1.149459607","rc":[{"ltp":1.74,"id":9952749},{"ltp":2.22,"id":9627264}]}]}
+{"op":"mcm","clk":"7702546311","pt":1539344809255,"mc":[{"id":"1.149459607","rc":[{"ltp":1.82,"id":9952749}]}]}
+{"op":"mcm","clk":"7702573313","pt":1539344994921,"mc":[{"id":"1.149459607","rc":[{"ltp":1.76,"id":9627264}]}]}
+{"op":"mcm","clk":"7702578986","pt":1539345054695,"mc":[{"id":"1.149459607","rc":[{"ltp":1.64,"id":9627264}]}]}
+{"op":"mcm","clk":"7702584711","pt":1539345114987,"mc":[{"id":"1.149459607","rc":[{"ltp":2.42,"id":9952749},{"ltp":1.71,"id":9627264}]}]}
+{"op":"mcm","clk":"7702595443","pt":1539345234674,"mc":[{"id":"1.149459607","rc":[{"ltp":2.54,"id":9952749},{"ltp":1.75,"id":9627264}]}]}
+{"op":"mcm","clk":"7702606239","pt":1539345354448,"mc":[{"id":"1.149459607","rc":[{"ltp":1.56,"id":9627264}]}]}
+{"op":"mcm","clk":"7702611679","pt":1539345413455,"mc":[{"id":"1.149459607","rc":[{"ltp":2.32,"id":9952749},{"ltp":1.75,"id":9627264}]}]}
+{"op":"mcm","clk":"7702616943","pt":1539345469088,"mc":[{"id":"1.149459607","rc":[{"ltp":1.54,"id":9627264}]}]}
+{"op":"mcm","clk":"7702623103","pt":1539345534021,"mc":[{"id":"1.149459607","rc":[{"ltp":1.35,"id":9627264}]}]}
+{"op":"mcm","clk":"7702628130","pt":1539345594774,"mc":[{"id":"1.149459607","rc":[{"ltp":1.31,"id":9627264}]}]}
+{"op":"mcm","clk":"7702632704","pt":1539345647655,"mc":[{"id":"1.149459607","rc":[{"ltp":5.0,"id":9952749},{"ltp":1.25,"id":9627264}]}]}
+{"op":"mcm","clk":"7702638846","pt":1539345714122,"mc":[{"id":"1.149459607","rc":[{"ltp":1.22,"id":9627264}]}]}
+{"op":"mcm","clk":"7702650429","pt":1539345738623,"mc":[{"id":"1.149459607","rc":[{"ltp":1.24,"id":9627264}]}]}
+{"op":"mcm","clk":"7702658925","pt":1539345819448,"mc":[{"id":"1.149459607","rc":[{"ltp":5.1,"id":9952749}]}]}
+{"op":"mcm","clk":"7702726483","pt":1539346374552,"mc":[{"id":"1.149459607","rc":[{"ltp":5.6,"id":9952749}]}]}
+{"op":"mcm","clk":"7702734269","pt":1539346432344,"mc":[{"id":"1.149459607","rc":[{"ltp":1.22,"id":9627264}]}]}
+{"op":"mcm","clk":"7702742200","pt":1539346494301,"mc":[{"id":"1.149459607","rc":[{"ltp":1.2,"id":9627264}]}]}
+{"op":"mcm","clk":"7702780807","pt":1539346726606,"mc":[{"id":"1.149459607","rc":[{"ltp":1.07,"id":9627264}]}]}
+{"op":"mcm","clk":"7702786477","pt":1539346778160,"mc":[{"id":"1.149459607","rc":[{"ltp":1.04,"id":9627264}]}]}
+{"op":"mcm","clk":"7702794783","pt":1539346853118,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702800685","pt":1539346905074,"mc":[{"id":"1.149459607","rc":[{"ltp":1.04,"id":9627264}]}]}
+{"op":"mcm","clk":"7702807687","pt":1539346973668,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702826951","pt":1539347154182,"mc":[{"id":"1.149459607","rc":[{"ltp":1.06,"id":9627264}]}]}
+{"op":"mcm","clk":"7702846222","pt":1539347333007,"mc":[{"id":"1.149459607","rc":[{"ltp":1.1,"id":9627264}]}]}
+{"op":"mcm","clk":"7702851656","pt":1539347394337,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702879415","pt":1539347560597,"mc":[{"id":"1.149459607","rc":[{"ltp":1.08,"id":9627264}]}]}
+{"op":"mcm","clk":"7702888007","pt":1539347634748,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702894409","pt":1539347694758,"mc":[{"id":"1.149459607","rc":[{"ltp":1.02,"id":9627264}]}]}
+{"op":"mcm","clk":"7702900762","pt":1539347754767,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702907520","pt":1539347814928,"mc":[{"id":"1.149459607","rc":[{"ltp":1.02,"id":9627264}]}]}
+{"op":"mcm","clk":"7702912556","pt":1539347861189,"mc":[{"id":"1.149459607","rc":[{"ltp":1.01,"id":9627264}]}]}
+{"op":"mcm","clk":"7702957560","pt":1539348293766,"mc":[{"id":"1.149459607","rc":[{"ltp":65.0,"id":9952749},{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702963810","pt":1539348350846,"mc":[{"id":"1.149459607","rc":[{"ltp":1.04,"id":9627264}]}]}
+{"op":"mcm","clk":"7702970477","pt":1539348414762,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7702985081","pt":1539348474887,"mc":[{"id":"1.149459607","rc":[{"ltp":1.02,"id":9627264}]}]}
+{"op":"mcm","clk":"7702990165","pt":1539348530481,"mc":[{"id":"1.149459607","rc":[{"ltp":1.03,"id":9627264}]}]}
+{"op":"mcm","clk":"7703010515","pt":1539348774861,"mc":[{"id":"1.149459607","rc":[{"ltp":1.05,"id":9627264}]}]}
+{"op":"mcm","clk":"7703020392","pt":1539348894644,"mc":[{"id":"1.149459607","rc":[{"ltp":1.02,"id":9627264}]}]}
+{"op":"mcm","clk":"7703024983","pt":1539348949940,"mc":[{"id":"1.149459607","rc":[{"ltp":1.01,"id":9627264}]}]}
+{"op":"mcm","clk":"7703082960","pt":1539349478432,"mc":[{"id":"1.149459607","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952061","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T10:45:00.000Z","suspendTime":"2018-10-12T10:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T13:04:34.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9952749,"name":"A Anshba"},{"status":"WINNER","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T10:51:53.000Z","version":2450798890,"name":"Match Odds","eventName":"A Anshba v D Kovinic"}}]}

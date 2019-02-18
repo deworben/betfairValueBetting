@@ -1,0 +1,72 @@
+{"op":"mcm","clk":"7632842642","pt":1539354148072,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:00:00.000Z","version":2450891443,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7632874098","pt":1539354424933,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:00:00.000Z","version":2450891443,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7633078791","pt":1539356290390,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:05:00.000Z","version":2450939351,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7633121943","pt":1539356695237,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:05:00.000Z","version":2450950502,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7633184457","pt":1539357176403,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:12:11.000Z","version":2450959538,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7633202074","pt":1539357355813,"mc":[{"id":"1.149484942","rc":[{"ltp":1.71,"id":9628613},{"ltp":2.38,"id":9627264}]}]}
+{"op":"mcm","clk":"7633218003","pt":1539357522467,"mc":[{"id":"1.149484942","rc":[{"ltp":1.51,"id":9628613}]}]}
+{"op":"mcm","clk":"7633231557","pt":1539357653649,"mc":[{"id":"1.149484942","rc":[{"ltp":1.44,"id":9628613},{"ltp":3.25,"id":9627264}]}]}
+{"op":"mcm","clk":"7633237437","pt":1539357714719,"mc":[{"id":"1.149484942","rc":[{"ltp":1.41,"id":9628613}]}]}
+{"op":"mcm","clk":"7633260939","pt":1539357834704,"mc":[{"id":"1.149484942","rc":[{"ltp":1.46,"id":9628613},{"ltp":3.2,"id":9627264}]}]}
+{"op":"mcm","clk":"7633281378","pt":1539358014457,"mc":[{"id":"1.149484942","rc":[{"ltp":1.45,"id":9628613}]}]}
+{"op":"mcm","clk":"7633295111","pt":1539358135326,"mc":[{"id":"1.149484942","rc":[{"ltp":1.36,"id":9628613}]}]}
+{"op":"mcm","clk":"7633301745","pt":1539358194911,"mc":[{"id":"1.149484942","rc":[{"ltp":1.33,"id":9628613},{"ltp":4.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633307849","pt":1539358255336,"mc":[{"id":"1.149484942","rc":[{"ltp":1.28,"id":9628613},{"ltp":4.6,"id":9627264}]}]}
+{"op":"mcm","clk":"7633314277","pt":1539358316827,"mc":[{"id":"1.149484942","rc":[{"ltp":1.31,"id":9628613}]}]}
+{"op":"mcm","clk":"7633319766","pt":1539358367138,"mc":[{"id":"1.149484942","rc":[{"ltp":1.28,"id":9628613},{"ltp":4.5,"id":9627264}]}]}
+{"op":"mcm","clk":"7633326456","pt":1539358431042,"mc":[{"id":"1.149484942","rc":[{"ltp":1.25,"id":9628613},{"ltp":5.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633333130","pt":1539358495785,"mc":[{"id":"1.149484942","rc":[{"ltp":1.23,"id":9628613}]}]}
+{"op":"mcm","clk":"7633339402","pt":1539358556257,"mc":[{"id":"1.149484942","rc":[{"ltp":5.4,"id":9627264}]}]}
+{"op":"mcm","clk":"7633345097","pt":1539358612164,"mc":[{"id":"1.149484942","rc":[{"ltp":1.2,"id":9628613}]}]}
+{"op":"mcm","clk":"7633360965","pt":1539358664688,"mc":[{"id":"1.149484942","rc":[{"ltp":1.21,"id":9628613}]}]}
+{"op":"mcm","clk":"7633368731","pt":1539358730315,"mc":[{"id":"1.149484942","rc":[{"ltp":5.8,"id":9627264}]}]}
+{"op":"mcm","clk":"7633383739","pt":1539358852729,"mc":[{"id":"1.149484942","rc":[{"ltp":1.2,"id":9628613},{"ltp":6.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633391539","pt":1539358915728,"mc":[{"id":"1.149484942","rc":[{"ltp":1.18,"id":9628613}]}]}
+{"op":"mcm","clk":"7633399147","pt":1539358975855,"mc":[{"id":"1.149484942","rc":[{"ltp":1.2,"id":9628613}]}]}
+{"op":"mcm","clk":"7633406359","pt":1539359036234,"mc":[{"id":"1.149484942","rc":[{"ltp":1.28,"id":9628613},{"ltp":4.6,"id":9627264}]}]}
+{"op":"mcm","clk":"7633413119","pt":1539359093675,"mc":[{"id":"1.149484942","rc":[{"ltp":1.27,"id":9628613},{"ltp":4.9,"id":9627264}]}]}
+{"op":"mcm","clk":"7633420266","pt":1539359152568,"mc":[{"id":"1.149484942","rc":[{"ltp":1.23,"id":9628613},{"ltp":5.4,"id":9627264}]}]}
+{"op":"mcm","clk":"7633428186","pt":1539359215448,"mc":[{"id":"1.149484942","rc":[{"ltp":1.27,"id":9628613},{"ltp":5.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633435394","pt":1539359276810,"mc":[{"id":"1.149484942","rc":[{"ltp":1.31,"id":9628613},{"ltp":4.3,"id":9627264}]}]}
+{"op":"mcm","clk":"7633441470","pt":1539359333500,"mc":[{"id":"1.149484942","rc":[{"ltp":1.29,"id":9628613},{"ltp":4.5,"id":9627264}]}]}
+{"op":"mcm","clk":"7633448320","pt":1539359395691,"mc":[{"id":"1.149484942","rc":[{"ltp":1.33,"id":9628613},{"ltp":4.1,"id":9627264}]}]}
+{"op":"mcm","clk":"7633454307","pt":1539359448815,"mc":[{"id":"1.149484942","rc":[{"ltp":3.9,"id":9627264}]}]}
+{"op":"mcm","clk":"7633461165","pt":1539359516054,"mc":[{"id":"1.149484942","rc":[{"ltp":1.38,"id":9628613}]}]}
+{"op":"mcm","clk":"7633477192","pt":1539359576334,"mc":[{"id":"1.149484942","rc":[{"ltp":1.41,"id":9628613}]}]}
+{"op":"mcm","clk":"7633482085","pt":1539359635869,"mc":[{"id":"1.149484942","rc":[{"ltp":1.47,"id":9628613},{"ltp":3.15,"id":9627264}]}]}
+{"op":"mcm","clk":"7633488124","pt":1539359694945,"mc":[{"id":"1.149484942","rc":[{"ltp":1.51,"id":9628613},{"ltp":2.84,"id":9627264}]}]}
+{"op":"mcm","clk":"7633493766","pt":1539359749670,"mc":[{"id":"1.149484942","rc":[{"ltp":1.47,"id":9628613},{"ltp":3.15,"id":9627264}]}]}
+{"op":"mcm","clk":"7633500456","pt":1539359816018,"mc":[{"id":"1.149484942","rc":[{"ltp":1.5,"id":9628613},{"ltp":3.2,"id":9627264}]}]}
+{"op":"mcm","clk":"7633506675","pt":1539359876815,"mc":[{"id":"1.149484942","rc":[{"ltp":1.49,"id":9628613},{"ltp":2.98,"id":9627264}]}]}
+{"op":"mcm","clk":"7633513092","pt":1539359936685,"mc":[{"id":"1.149484942","rc":[{"ltp":1.59,"id":9628613},{"ltp":3.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633520687","pt":1539359996048,"mc":[{"id":"1.149484942","rc":[{"ltp":1.58,"id":9628613},{"ltp":2.68,"id":9627264}]}]}
+{"op":"mcm","clk":"7633529546","pt":1539360056576,"mc":[{"id":"1.149484942","rc":[{"ltp":1.52,"id":9628613}]}]}
+{"op":"mcm","clk":"7633538181","pt":1539360116583,"mc":[{"id":"1.149484942","rc":[{"ltp":1.44,"id":9628613}]}]}
+{"op":"mcm","clk":"7633546839","pt":1539360175735,"mc":[{"id":"1.149484942","rc":[{"ltp":1.38,"id":9628613},{"ltp":3.55,"id":9627264}]}]}
+{"op":"mcm","clk":"7633556390","pt":1539360235732,"mc":[{"id":"1.149484942","rc":[{"ltp":1.33,"id":9628613},{"ltp":4.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633566103","pt":1539360296599,"mc":[{"id":"1.149484942","rc":[{"ltp":1.38,"id":9628613},{"ltp":3.65,"id":9627264}]}]}
+{"op":"mcm","clk":"7633574857","pt":1539360352538,"mc":[{"id":"1.149484942","rc":[{"ltp":1.26,"id":9628613},{"ltp":4.9,"id":9627264}]}]}
+{"op":"mcm","clk":"7633584768","pt":1539360415736,"mc":[{"id":"1.149484942","rc":[{"ltp":1.28,"id":9628613}]}]}
+{"op":"mcm","clk":"7633603635","pt":1539360468293,"mc":[{"id":"1.149484942","rc":[{"ltp":1.25,"id":9628613},{"ltp":4.5,"id":9627264}]}]}
+{"op":"mcm","clk":"7633614509","pt":1539360534640,"mc":[{"id":"1.149484942","rc":[{"ltp":1.24,"id":9628613},{"ltp":5.1,"id":9627264}]}]}
+{"op":"mcm","clk":"7633623906","pt":1539360595379,"mc":[{"id":"1.149484942","rc":[{"ltp":1.2,"id":9628613}]}]}
+{"op":"mcm","clk":"7633633358","pt":1539360656837,"mc":[{"id":"1.149484942","rc":[{"ltp":6.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633642514","pt":1539360716050,"mc":[{"id":"1.149484942","rc":[{"ltp":1.14,"id":9628613},{"ltp":8.2,"id":9627264}]}]}
+{"op":"mcm","clk":"7633651791","pt":1539360775893,"mc":[{"id":"1.149484942","rc":[{"ltp":1.17,"id":9628613}]}]}
+{"op":"mcm","clk":"7633661064","pt":1539360835377,"mc":[{"id":"1.149484942","rc":[{"ltp":1.15,"id":9628613}]}]}
+{"op":"mcm","clk":"7633670636","pt":1539360896112,"mc":[{"id":"1.149484942","rc":[{"ltp":1.13,"id":9628613}]}]}
+{"op":"mcm","clk":"7633680203","pt":1539360956714,"mc":[{"id":"1.149484942","rc":[{"ltp":1.17,"id":9628613},{"ltp":9.4,"id":9627264}]}]}
+{"op":"mcm","clk":"7633689599","pt":1539361015678,"mc":[{"id":"1.149484942","rc":[{"ltp":1.22,"id":9628613}]}]}
+{"op":"mcm","clk":"7633698853","pt":1539361076648,"mc":[{"id":"1.149484942","rc":[{"ltp":1.12,"id":9628613},{"ltp":8.6,"id":9627264}]}]}
+{"op":"mcm","clk":"7633707205","pt":1539361134400,"mc":[{"id":"1.149484942","rc":[{"ltp":1.08,"id":9628613}]}]}
+{"op":"mcm","clk":"7633716015","pt":1539361196327,"mc":[{"id":"1.149484942","rc":[{"ltp":13.5,"id":9627264}]}]}
+{"op":"mcm","clk":"7633724905","pt":1539361256786,"mc":[{"id":"1.149484942","rc":[{"ltp":1.09,"id":9628613}]}]}
+{"op":"mcm","clk":"7633733442","pt":1539361314364,"mc":[{"id":"1.149484942","rc":[{"ltp":1.06,"id":9628613},{"ltp":17.5,"id":9627264}]}]}
+{"op":"mcm","clk":"7633752582","pt":1539361376216,"mc":[{"id":"1.149484942","rc":[{"ltp":1.03,"id":9628613}]}]}
+{"op":"mcm","clk":"7633769634","pt":1539361493294,"mc":[{"id":"1.149484942","rc":[{"ltp":1.04,"id":9628613},{"ltp":26.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633779017","pt":1539361555504,"mc":[{"id":"1.149484942","rc":[{"ltp":1.05,"id":9628613},{"ltp":21.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633788025","pt":1539361615980,"mc":[{"id":"1.149484942","rc":[{"ltp":20.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633796661","pt":1539361674694,"mc":[{"id":"1.149484942","rc":[{"ltp":1.02,"id":9628613},{"ltp":50.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633805502","pt":1539361730890,"mc":[{"id":"1.149484942","rc":[{"ltp":1.01,"id":9628613},{"ltp":1000.0,"id":9627264}]}]}
+{"op":"mcm","clk":"7633812728","pt":1539361778951,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"ACTIVE","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:12:11.000Z","version":2451091898,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}
+{"op":"mcm","clk":"7633817456","pt":1539361809137,"mc":[{"id":"1.149484942","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28952968","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-12T15:00:00.000Z","suspendTime":"2018-10-12T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-12T16:30:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9628613,"name":"R Jani"},{"status":"LOSER","sortPriority":2,"id":9627264,"name":"D Kovinic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-12T15:12:11.000Z","version":2451092226,"name":"Match Odds","eventName":"R Jani v D Kovinic"}}]}

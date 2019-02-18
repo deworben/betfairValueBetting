@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"7688078717","pt":1539156771432,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"ACTIVE","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:00:00.000Z","version":2448215525,"name":"Match Odds","eventName":"C Giovine v N Kostic"}}]}
+{"op":"mcm","clk":"7688083813","pt":1539156871720,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"ACTIVE","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:00:00.000Z","version":2448215525,"name":"Match Odds","eventName":"C Giovine v N Kostic"}}]}
+{"op":"mcm","clk":"7688558427","pt":1539164552366,"mc":[{"id":"1.149339320","rc":[{"ltp":1.56,"id":9626664}]}]}
+{"op":"mcm","clk":"7688606941","pt":1539165320529,"mc":[{"id":"1.149339320","rc":[{"ltp":1.59,"id":9626664},{"ltp":2.68,"id":9627416}]}]}
+{"op":"mcm","clk":"7688641153","pt":1539165755450,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"ACTIVE","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:00:00.000Z","version":2448312624,"name":"Match Odds","eventName":"C Giovine v N Kostic"}}]}
+{"op":"mcm","clk":"7688668684","pt":1539166161335,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"ACTIVE","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:09:17.000Z","version":2448319293,"name":"Match Odds","eventName":"C Giovine v N Kostic"}}]}
+{"op":"mcm","clk":"7688744217","pt":1539167282000,"mc":[{"id":"1.149339320","rc":[{"ltp":1.84,"id":9626664}]}]}
+{"op":"mcm","clk":"7688749039","pt":1539167346056,"mc":[{"id":"1.149339320","rc":[{"ltp":1.63,"id":9626664},{"ltp":2.6,"id":9627416}]}]}
+{"op":"mcm","clk":"7688753503","pt":1539167403107,"mc":[{"id":"1.149339320","rc":[{"ltp":1.67,"id":9626664},{"ltp":2.5,"id":9627416}]}]}
+{"op":"mcm","clk":"7688758551","pt":1539167462714,"mc":[{"id":"1.149339320","rc":[{"ltp":1.73,"id":9626664},{"ltp":2.38,"id":9627416}]}]}
+{"op":"mcm","clk":"7688764212","pt":1539167523087,"mc":[{"id":"1.149339320","rc":[{"ltp":1.66,"id":9626664},{"ltp":2.52,"id":9627416}]}]}
+{"op":"mcm","clk":"7688773975","pt":1539167541241,"mc":[{"id":"1.149339320","rc":[{"ltp":1.71,"id":9626664},{"ltp":2.42,"id":9627416}]}]}
+{"op":"mcm","clk":"7688798337","pt":1539167825585,"mc":[{"id":"1.149339320","rc":[{"ltp":1.84,"id":9627416}]}]}
+{"op":"mcm","clk":"7688807543","pt":1539167944031,"mc":[{"id":"1.149339320","rc":[{"ltp":1.67,"id":9627416}]}]}
+{"op":"mcm","clk":"7688816115","pt":1539168064208,"mc":[{"id":"1.149339320","rc":[{"ltp":1.68,"id":9627416}]}]}
+{"op":"mcm","clk":"7688820548","pt":1539168124896,"mc":[{"id":"1.149339320","rc":[{"ltp":1.56,"id":9627416}]}]}
+{"op":"mcm","clk":"7688834135","pt":1539168303862,"mc":[{"id":"1.149339320","rc":[{"ltp":1.59,"id":9627416}]}]}
+{"op":"mcm","clk":"7688867476","pt":1539168655512,"mc":[{"id":"1.149339320","rc":[{"ltp":1.41,"id":9627416}]}]}
+{"op":"mcm","clk":"7688892990","pt":1539168964612,"mc":[{"id":"1.149339320","rc":[{"ltp":1.84,"id":9627416}]}]}
+{"op":"mcm","clk":"7688897689","pt":1539169023027,"mc":[{"id":"1.149339320","rc":[{"ltp":1.89,"id":9627416}]}]}
+{"op":"mcm","clk":"7688913664","pt":1539169202053,"mc":[{"id":"1.149339320","rc":[{"ltp":1.92,"id":9627416}]}]}
+{"op":"mcm","clk":"7688938497","pt":1539169380710,"mc":[{"id":"1.149339320","rc":[{"ltp":2.36,"id":9626664},{"ltp":1.73,"id":9627416}]}]}
+{"op":"mcm","clk":"7688949207","pt":1539169504913,"mc":[{"id":"1.149339320","rc":[{"ltp":2.4,"id":9626664},{"ltp":1.72,"id":9627416}]}]}
+{"op":"mcm","clk":"7689090886","pt":1539171057294,"mc":[{"id":"1.149339320","rc":[{"ltp":1.92,"id":9626664}]}]}
+{"op":"mcm","clk":"7689109337","pt":1539171165100,"mc":[{"id":"1.149339320","rc":[{"ltp":2.12,"id":9626664}]}]}
+{"op":"mcm","clk":"7689129270","pt":1539171398634,"mc":[{"id":"1.149339320","rc":[{"ltp":1.84,"id":9626664}]}]}
+{"op":"mcm","clk":"7689147863","pt":1539171606150,"mc":[{"id":"1.149339320","rc":[{"ltp":2.1,"id":9626664}]}]}
+{"op":"mcm","clk":"7689153042","pt":1539171661809,"mc":[{"id":"1.149339320","rc":[{"ltp":1.97,"id":9626664}]}]}
+{"op":"mcm","clk":"7689158429","pt":1539171724482,"mc":[{"id":"1.149339320","rc":[{"ltp":1.82,"id":9627416},{"ltp":2.22,"id":9626664}]}]}
+{"op":"mcm","clk":"7689167498","pt":1539171840769,"mc":[{"id":"1.149339320","rc":[{"ltp":1.69,"id":9627416}]}]}
+{"op":"mcm","clk":"7689172782","pt":1539171903958,"mc":[{"id":"1.149339320","rc":[{"ltp":1.51,"id":9627416},{"ltp":2.9,"id":9626664}]}]}
+{"op":"mcm","clk":"7689190680","pt":1539172025709,"mc":[{"id":"1.149339320","rc":[{"ltp":1.23,"id":9627416}]}]}
+{"op":"mcm","clk":"7689200910","pt":1539172145503,"mc":[{"id":"1.149339320","rc":[{"ltp":1.19,"id":9627416}]}]}
+{"op":"mcm","clk":"7689221084","pt":1539172385593,"mc":[{"id":"1.149339320","rc":[{"ltp":1.06,"id":9627416}]}]}
+{"op":"mcm","clk":"7689226104","pt":1539172446250,"mc":[{"id":"1.149339320","rc":[{"ltp":1.05,"id":9627416}]}]}
+{"op":"mcm","clk":"7689230686","pt":1539172503340,"mc":[{"id":"1.149339320","rc":[{"ltp":7.0,"id":9626664},{"ltp":1.17,"id":9627416}]}]}
+{"op":"mcm","clk":"7689240705","pt":1539172624118,"mc":[{"id":"1.149339320","rc":[{"ltp":1.05,"id":9627416}]}]}
+{"op":"mcm","clk":"7689245624","pt":1539172686204,"mc":[{"id":"1.149339320","rc":[{"ltp":1.08,"id":9627416}]}]}
+{"op":"mcm","clk":"7689256253","pt":1539172806170,"mc":[{"id":"1.149339320","rc":[{"ltp":8.6,"id":9626664},{"ltp":1.14,"id":9627416}]}]}
+{"op":"mcm","clk":"7689258557","pt":1539172828258,"mc":[{"id":"1.149339320","rc":[{"ltp":1.15,"id":9627416}]}]}
+{"op":"mcm","clk":"7689268084","pt":1539172919725,"mc":[{"id":"1.149339320","rc":[{"ltp":1.19,"id":9627416}]}]}
+{"op":"mcm","clk":"7689282838","pt":1539172983600,"mc":[{"id":"1.149339320","rc":[{"ltp":1.22,"id":9627416},{"ltp":5.6,"id":9626664}]}]}
+{"op":"mcm","clk":"7689289061","pt":1539173040921,"mc":[{"id":"1.149339320","rc":[{"ltp":1.26,"id":9627416},{"ltp":5.1,"id":9626664}]}]}
+{"op":"mcm","clk":"7689302707","pt":1539173164615,"mc":[{"id":"1.149339320","rc":[{"ltp":1.28,"id":9627416}]}]}
+{"op":"mcm","clk":"7689309771","pt":1539173225849,"mc":[{"id":"1.149339320","rc":[{"ltp":1.59,"id":9627416},{"ltp":2.7,"id":9626664}]}]}
+{"op":"mcm","clk":"7689316686","pt":1539173284740,"mc":[{"id":"1.149339320","rc":[{"ltp":1.66,"id":9627416},{"ltp":2.52,"id":9626664}]}]}
+{"op":"mcm","clk":"7689322812","pt":1539173341521,"mc":[{"id":"1.149339320","rc":[{"ltp":1.77,"id":9627416},{"ltp":2.3,"id":9626664}]}]}
+{"op":"mcm","clk":"7689335074","pt":1539173463860,"mc":[{"id":"1.149339320","rc":[{"ltp":1.57,"id":9627416},{"ltp":2.4,"id":9626664}]}]}
+{"op":"mcm","clk":"7689341127","pt":1539173524274,"mc":[{"id":"1.149339320","rc":[{"ltp":1.72,"id":9627416}]}]}
+{"op":"mcm","clk":"7689348028","pt":1539173586085,"mc":[{"id":"1.149339320","rc":[{"ltp":1.32,"id":9627416},{"ltp":4.1,"id":9626664}]}]}
+{"op":"mcm","clk":"7689354416","pt":1539173645065,"mc":[{"id":"1.149339320","rc":[{"ltp":1.24,"id":9627416},{"ltp":6.2,"id":9626664}]}]}
+{"op":"mcm","clk":"7689361078","pt":1539173704711,"mc":[{"id":"1.149339320","rc":[{"ltp":1.4,"id":9627416},{"ltp":3.5,"id":9626664}]}]}
+{"op":"mcm","clk":"7689368316","pt":1539173765359,"mc":[{"id":"1.149339320","rc":[{"ltp":1.45,"id":9627416},{"ltp":3.25,"id":9626664}]}]}
+{"op":"mcm","clk":"7689374399","pt":1539173820218,"mc":[{"id":"1.149339320","rc":[{"ltp":1.57,"id":9627416},{"ltp":2.76,"id":9626664}]}]}
+{"op":"mcm","clk":"7689390154","pt":1539173885416,"mc":[{"id":"1.149339320","rc":[{"ltp":1.53,"id":9627416},{"ltp":2.9,"id":9626664}]}]}
+{"op":"mcm","clk":"7689397522","pt":1539173943329,"mc":[{"id":"1.149339320","rc":[{"ltp":1.33,"id":9627416},{"ltp":4.1,"id":9626664}]}]}
+{"op":"mcm","clk":"7689405594","pt":1539174005791,"mc":[{"id":"1.149339320","rc":[{"ltp":1.78,"id":9627416},{"ltp":2.28,"id":9626664}]}]}
+{"op":"mcm","clk":"7689411979","pt":1539174064800,"mc":[{"id":"1.149339320","rc":[{"ltp":2.12,"id":9627416},{"ltp":1.9,"id":9626664}]}]}
+{"op":"mcm","clk":"7689418367","pt":1539174125752,"mc":[{"id":"1.149339320","rc":[{"ltp":2.14,"id":9627416},{"ltp":1.88,"id":9626664}]}]}
+{"op":"mcm","clk":"7689423835","pt":1539174184188,"mc":[{"id":"1.149339320","rc":[{"ltp":1.78,"id":9627416},{"ltp":2.26,"id":9626664}]}]}
+{"op":"mcm","clk":"7689429172","pt":1539174242684,"mc":[{"id":"1.149339320","rc":[{"ltp":1.58,"id":9627416},{"ltp":2.86,"id":9626664}]}]}
+{"op":"mcm","clk":"7689439379","pt":1539174363967,"mc":[{"id":"1.149339320","rc":[{"ltp":1.72,"id":9627416}]}]}
+{"op":"mcm","clk":"7689444495","pt":1539174425550,"mc":[{"id":"1.149339320","rc":[{"ltp":1.56,"id":9627416},{"ltp":2.8,"id":9626664}]}]}
+{"op":"mcm","clk":"7689449737","pt":1539174484128,"mc":[{"id":"1.149339320","rc":[{"ltp":1.28,"id":9627416},{"ltp":4.6,"id":9626664}]}]}
+{"op":"mcm","clk":"7689455231","pt":1539174544632,"mc":[{"id":"1.149339320","rc":[{"ltp":1.22,"id":9627416},{"ltp":5.6,"id":9626664}]}]}
+{"op":"mcm","clk":"7689460331","pt":1539174599882,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"ACTIVE","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:09:17.000Z","version":2448449318,"name":"Match Odds","eventName":"C Giovine v N Kostic"},"rc":[{"ltp":1.01,"id":9627416}]}]}
+{"op":"mcm","clk":"7689462796","pt":1539174623966,"mc":[{"id":"1.149339320","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28948353","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T12:30:21.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9626664,"name":"C Giovine"},{"status":"WINNER","sortPriority":2,"id":9627416,"name":"N Kostic"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-10T10:09:17.000Z","version":2448450377,"name":"Match Odds","eventName":"C Giovine v N Kostic"}}]}

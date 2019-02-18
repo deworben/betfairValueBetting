@@ -1,0 +1,110 @@
+{"op":"mcm","clk":"7640450587","pt":1539429629116,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2452501180,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7640514636","pt":1539430029646,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2452501180,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7647270223","pt":1539476388468,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2454593034,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7657615545","pt":1539562774986,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2456812863,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7659825340","pt":1539600964565,"mc":[{"id":"1.149539530","rc":[{"ltp":1.99,"id":5707016}]}]}
+{"op":"mcm","clk":"7660106389","pt":1539605675751,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:30:00.000Z","suspendTime":"2018-10-16T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:30:00.000Z","version":2457055422,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7661936085","pt":1539625768944,"mc":[{"id":"1.149539530","rc":[{"ltp":1.85,"id":4061310},{"ltp":2.18,"id":5707016}]}]}
+{"op":"mcm","clk":"7663574679","pt":1539638490922,"mc":[{"id":"1.149539530","rc":[{"ltp":1.8,"id":4061310},{"ltp":2.24,"id":5707016}]}]}
+{"op":"mcm","clk":"7665888101","pt":1539681844320,"mc":[{"id":"1.149539530","rc":[{"ltp":1.75,"id":4061310}]}]}
+{"op":"mcm","clk":"7665906832","pt":1539682103731,"mc":[{"id":"1.149539530","rc":[{"ltp":1.78,"id":4061310}]}]}
+{"op":"mcm","clk":"7666863713","pt":1539691639954,"mc":[{"id":"1.149539530","rc":[{"ltp":1.8,"id":4061310}]}]}
+{"op":"mcm","clk":"7666892736","pt":1539691896122,"mc":[{"id":"1.149539530","rc":[{"ltp":1.87,"id":4061310}]}]}
+{"op":"mcm","clk":"7666898877","pt":1539691951313,"mc":[{"id":"1.149539530","rc":[{"ltp":1.86,"id":4061310},{"ltp":2.12,"id":5707016}]}]}
+{"op":"mcm","clk":"7667220549","pt":1539694407386,"mc":[{"id":"1.149539530","rc":[{"ltp":1.81,"id":4061310}]}]}
+{"op":"mcm","clk":"7667454415","pt":1539696232541,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:21:00.000Z","suspendTime":"2018-10-16T15:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:21:00.000Z","version":2458046852,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7667613485","pt":1539697413877,"mc":[{"id":"1.149539530","rc":[{"ltp":1.8,"id":4061310},{"ltp":2.24,"id":5707016}]}]}
+{"op":"mcm","clk":"7667681092","pt":1539697915222,"mc":[{"id":"1.149539530","rc":[{"ltp":1.78,"id":4061310}]}]}
+{"op":"mcm","clk":"7667710547","pt":1539698075405,"mc":[{"id":"1.149539530","rc":[{"ltp":1.77,"id":4061310}]}]}
+{"op":"mcm","clk":"7667743373","pt":1539698376321,"mc":[{"id":"1.149539530","rc":[{"ltp":1.75,"id":4061310}]}]}
+{"op":"mcm","clk":"7667748736","pt":1539698423030,"mc":[{"id":"1.149539530","rc":[{"ltp":1.77,"id":4061310}]}]}
+{"op":"mcm","clk":"7667788745","pt":1539698732862,"mc":[{"id":"1.149539530","rc":[{"ltp":1.78,"id":4061310},{"ltp":2.22,"id":5707016}]}]}
+{"op":"mcm","clk":"7668050558","pt":1539700595790,"mc":[{"id":"1.149539530","rc":[{"ltp":1.81,"id":4061310}]}]}
+{"op":"mcm","clk":"7668073366","pt":1539700707303,"mc":[{"id":"1.149539530","rc":[{"ltp":1.76,"id":4061310}]}]}
+{"op":"mcm","clk":"7668233307","pt":1539702036262,"mc":[{"id":"1.149539530","rc":[{"ltp":1.79,"id":4061310},{"ltp":2.28,"id":5707016}]}]}
+{"op":"mcm","clk":"7668297220","pt":1539702470964,"mc":[{"id":"1.149539530","rc":[{"ltp":1.81,"id":4061310}]}]}
+{"op":"mcm","clk":"7668351591","pt":1539702868389,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:12:00.000Z","suspendTime":"2018-10-16T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:12:00.000Z","version":2458192001,"name":"Match Odds","eventName":"Grigelis v Krawietz"},"rc":[{"ltp":1.78,"id":4061310}]}]}
+{"op":"mcm","clk":"7668357428","pt":1539702908661,"mc":[{"id":"1.149539530","rc":[{"ltp":1.81,"id":4061310}]}]}
+{"op":"mcm","clk":"7668369290","pt":1539702993901,"mc":[{"id":"1.149539530","rc":[{"ltp":2.22,"id":5707016}]}]}
+{"op":"mcm","clk":"7668403051","pt":1539703231430,"mc":[{"id":"1.149539530","rc":[{"ltp":1.78,"id":4061310}]}]}
+{"op":"mcm","clk":"7668430061","pt":1539703356225,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:12:00.000Z","suspendTime":"2018-10-16T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:12:00.000Z","version":2458203055,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}
+{"op":"mcm","clk":"7668438439","pt":1539703416244,"mc":[{"id":"1.149539530","rc":[{"ltp":1.83,"id":4061310},{"ltp":2.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7668455709","pt":1539703536202,"mc":[{"id":"1.149539530","rc":[{"ltp":1.96,"id":4061310},{"ltp":2.04,"id":5707016}]}]}
+{"op":"mcm","clk":"7668463945","pt":1539703596730,"mc":[{"id":"1.149539530","rc":[{"ltp":1.94,"id":4061310}]}]}
+{"op":"mcm","clk":"7668472235","pt":1539703653935,"mc":[{"id":"1.149539530","rc":[{"ltp":2.02,"id":4061310},{"ltp":1.98,"id":5707016}]}]}
+{"op":"mcm","clk":"7668481598","pt":1539703716160,"mc":[{"id":"1.149539530","rc":[{"ltp":1.86,"id":4061310},{"ltp":2.16,"id":5707016}]}]}
+{"op":"mcm","clk":"7668490410","pt":1539703776686,"mc":[{"id":"1.149539530","rc":[{"ltp":1.94,"id":4061310}]}]}
+{"op":"mcm","clk":"7668498065","pt":1539703833000,"mc":[{"id":"1.149539530","rc":[{"ltp":1.93,"id":4061310}]}]}
+{"op":"mcm","clk":"7668506200","pt":1539703893553,"mc":[{"id":"1.149539530","rc":[{"ltp":1.73,"id":4061310},{"ltp":2.32,"id":5707016}]}]}
+{"op":"mcm","clk":"7668514740","pt":1539703956192,"mc":[{"id":"1.149539530","rc":[{"ltp":1.42,"id":4061310},{"ltp":3.35,"id":5707016}]}]}
+{"op":"mcm","clk":"7668522501","pt":1539704015679,"mc":[{"id":"1.149539530","rc":[{"ltp":1.4,"id":4061310},{"ltp":3.5,"id":5707016}]}]}
+{"op":"mcm","clk":"7668530289","pt":1539704073966,"mc":[{"id":"1.149539530","rc":[{"ltp":1.36,"id":4061310},{"ltp":3.85,"id":5707016}]}]}
+{"op":"mcm","clk":"7668538607","pt":1539704136193,"mc":[{"id":"1.149539530","rc":[{"ltp":1.37,"id":4061310}]}]}
+{"op":"mcm","clk":"7668546951","pt":1539704196398,"mc":[{"id":"1.149539530","rc":[{"ltp":1.33,"id":4061310},{"ltp":4.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7668565177","pt":1539704256551,"mc":[{"id":"1.149539530","rc":[{"ltp":1.26,"id":4061310},{"ltp":4.9,"id":5707016}]}]}
+{"op":"mcm","clk":"7668573603","pt":1539704315476,"mc":[{"id":"1.149539530","rc":[{"ltp":1.24,"id":4061310},{"ltp":5.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7668581672","pt":1539704376351,"mc":[{"id":"1.149539530","rc":[{"ltp":1.25,"id":4061310},{"ltp":5.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7668589583","pt":1539704435686,"mc":[{"id":"1.149539530","rc":[{"ltp":1.31,"id":4061310},{"ltp":4.3,"id":5707016}]}]}
+{"op":"mcm","clk":"7668597406","pt":1539704496407,"mc":[{"id":"1.149539530","rc":[{"ltp":1.38,"id":4061310},{"ltp":3.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7668604766","pt":1539704554755,"mc":[{"id":"1.149539530","rc":[{"ltp":1.36,"id":4061310}]}]}
+{"op":"mcm","clk":"7668613116","pt":1539704616726,"mc":[{"id":"1.149539530","rc":[{"ltp":1.37,"id":4061310},{"ltp":3.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7668621638","pt":1539704676001,"mc":[{"id":"1.149539530","rc":[{"ltp":1.31,"id":4061310},{"ltp":3.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7668629923","pt":1539704736242,"mc":[{"id":"1.149539530","rc":[{"ltp":4.3,"id":5707016}]}]}
+{"op":"mcm","clk":"7668637753","pt":1539704796681,"mc":[{"id":"1.149539530","rc":[{"ltp":1.33,"id":4061310}]}]}
+{"op":"mcm","clk":"7668645509","pt":1539704855681,"mc":[{"id":"1.149539530","rc":[{"ltp":1.34,"id":4061310},{"ltp":3.95,"id":5707016}]}]}
+{"op":"mcm","clk":"7668660495","pt":1539704976663,"mc":[{"id":"1.149539530","rc":[{"ltp":1.28,"id":4061310},{"ltp":4.3,"id":5707016}]}]}
+{"op":"mcm","clk":"7668667049","pt":1539705036515,"mc":[{"id":"1.149539530","rc":[{"ltp":1.26,"id":4061310},{"ltp":4.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7668674002","pt":1539705096155,"mc":[{"id":"1.149539530","rc":[{"ltp":1.28,"id":4061310},{"ltp":4.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7668690223","pt":1539705156754,"mc":[{"id":"1.149539530","rc":[{"ltp":1.27,"id":4061310},{"ltp":4.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7668697505","pt":1539705216665,"mc":[{"id":"1.149539530","rc":[{"ltp":1.26,"id":4061310}]}]}
+{"op":"mcm","clk":"7668704540","pt":1539705276740,"mc":[{"id":"1.149539530","rc":[{"ltp":1.31,"id":4061310},{"ltp":4.3,"id":5707016}]}]}
+{"op":"mcm","clk":"7668711041","pt":1539705336073,"mc":[{"id":"1.149539530","rc":[{"ltp":1.23,"id":4061310}]}]}
+{"op":"mcm","clk":"7668717095","pt":1539705395407,"mc":[{"id":"1.149539530","rc":[{"ltp":1.2,"id":4061310},{"ltp":6.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668722726","pt":1539705456002,"mc":[{"id":"1.149539530","rc":[{"ltp":1.21,"id":4061310},{"ltp":5.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7668728390","pt":1539705516231,"mc":[{"id":"1.149539530","rc":[{"ltp":1.22,"id":4061310}]}]}
+{"op":"mcm","clk":"7668733756","pt":1539705576704,"mc":[{"id":"1.149539530","rc":[{"ltp":6.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7668739234","pt":1539705633927,"mc":[{"id":"1.149539530","rc":[{"ltp":1.17,"id":4061310},{"ltp":6.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668745373","pt":1539705696079,"mc":[{"id":"1.149539530","rc":[{"ltp":1.14,"id":4061310},{"ltp":8.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7668750918","pt":1539705755230,"mc":[{"id":"1.149539530","rc":[{"ltp":1.18,"id":4061310}]}]}
+{"op":"mcm","clk":"7668756911","pt":1539705816688,"mc":[{"id":"1.149539530","rc":[{"ltp":1.2,"id":4061310},{"ltp":8.6,"id":5707016}]}]}
+{"op":"mcm","clk":"7668770196","pt":1539705933543,"mc":[{"id":"1.149539530","rc":[{"ltp":1.08,"id":4061310},{"ltp":15.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668777736","pt":1539705996555,"mc":[{"id":"1.149539530","rc":[{"ltp":1.06,"id":4061310},{"ltp":14.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668794878","pt":1539706055431,"mc":[{"id":"1.149539530","rc":[{"ltp":1.05,"id":4061310},{"ltp":21.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668802163","pt":1539706114252,"mc":[{"id":"1.149539530","rc":[{"ltp":1.07,"id":4061310}]}]}
+{"op":"mcm","clk":"7668808578","pt":1539706174190,"mc":[{"id":"1.149539530","rc":[{"ltp":15.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668829325","pt":1539706356487,"mc":[{"id":"1.149539530","rc":[{"ltp":1.05,"id":4061310},{"ltp":14.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668843107","pt":1539706473198,"mc":[{"id":"1.149539530","rc":[{"ltp":20.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668850869","pt":1539706535594,"mc":[{"id":"1.149539530","rc":[{"ltp":21.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668857875","pt":1539706594299,"mc":[{"id":"1.149539530","rc":[{"ltp":1.07,"id":4061310},{"ltp":18.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668864948","pt":1539706656071,"mc":[{"id":"1.149539530","rc":[{"ltp":1.13,"id":4061310},{"ltp":8.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7668871693","pt":1539706714658,"mc":[{"id":"1.149539530","rc":[{"ltp":1.16,"id":4061310},{"ltp":9.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7668878843","pt":1539706776757,"mc":[{"id":"1.149539530","rc":[{"ltp":1.06,"id":4061310}]}]}
+{"op":"mcm","clk":"7668886043","pt":1539706836521,"mc":[{"id":"1.149539530","rc":[{"ltp":1.09,"id":4061310}]}]}
+{"op":"mcm","clk":"7668893308","pt":1539706895598,"mc":[{"id":"1.149539530","rc":[{"ltp":1.05,"id":4061310},{"ltp":8.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7668910078","pt":1539706956191,"mc":[{"id":"1.149539530","rc":[{"ltp":26.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668917275","pt":1539707015919,"mc":[{"id":"1.149539530","rc":[{"ltp":17.5,"id":5707016}]}]}
+{"op":"mcm","clk":"7668924094","pt":1539707072566,"mc":[{"id":"1.149539530","rc":[{"ltp":21.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668932436","pt":1539707136755,"mc":[{"id":"1.149539530","rc":[{"ltp":1.07,"id":4061310},{"ltp":15.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668939984","pt":1539707196002,"mc":[{"id":"1.149539530","rc":[{"ltp":1.1,"id":4061310}]}]}
+{"op":"mcm","clk":"7668947830","pt":1539707256399,"mc":[{"id":"1.149539530","rc":[{"ltp":1.14,"id":4061310},{"ltp":8.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7668955351","pt":1539707315631,"mc":[{"id":"1.149539530","rc":[{"ltp":1.12,"id":4061310},{"ltp":8.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7668962035","pt":1539707375189,"mc":[{"id":"1.149539530","rc":[{"ltp":1.16,"id":4061310}]}]}
+{"op":"mcm","clk":"7668968526","pt":1539707434597,"mc":[{"id":"1.149539530","rc":[{"ltp":1.32,"id":4061310},{"ltp":4.1,"id":5707016}]}]}
+{"op":"mcm","clk":"7668975248","pt":1539707496701,"mc":[{"id":"1.149539530","rc":[{"ltp":1.38,"id":4061310},{"ltp":3.9,"id":5707016}]}]}
+{"op":"mcm","clk":"7668982577","pt":1539707555215,"mc":[{"id":"1.149539530","rc":[{"ltp":3.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7668990686","pt":1539707616038,"mc":[{"id":"1.149539530","rc":[{"ltp":1.47,"id":4061310},{"ltp":3.15,"id":5707016}]}]}
+{"op":"mcm","clk":"7668998925","pt":1539707676117,"mc":[{"id":"1.149539530","rc":[{"ltp":1.45,"id":4061310},{"ltp":2.56,"id":5707016}]}]}
+{"op":"mcm","clk":"7669006828","pt":1539707736599,"mc":[{"id":"1.149539530","rc":[{"ltp":1.32,"id":4061310},{"ltp":4.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7669014225","pt":1539707796656,"mc":[{"id":"1.149539530","rc":[{"ltp":1.18,"id":4061310},{"ltp":4.8,"id":5707016}]}]}
+{"op":"mcm","clk":"7669031650","pt":1539707855722,"mc":[{"id":"1.149539530","rc":[{"ltp":1.28,"id":4061310},{"ltp":5.1,"id":5707016}]}]}
+{"op":"mcm","clk":"7669039478","pt":1539707916724,"mc":[{"id":"1.149539530","rc":[{"ltp":1.39,"id":4061310},{"ltp":3.5,"id":5707016}]}]}
+{"op":"mcm","clk":"7669047561","pt":1539707976502,"mc":[{"id":"1.149539530","rc":[{"ltp":1.37,"id":4061310},{"ltp":3.7,"id":5707016}]}]}
+{"op":"mcm","clk":"7669055803","pt":1539708035689,"mc":[{"id":"1.149539530","rc":[{"ltp":1.41,"id":4061310},{"ltp":3.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7669063919","pt":1539708095622,"mc":[{"id":"1.149539530","rc":[{"ltp":1.3,"id":4061310},{"ltp":4.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7669072163","pt":1539708154404,"mc":[{"id":"1.149539530","rc":[{"ltp":1.41,"id":4061310},{"ltp":3.65,"id":5707016}]}]}
+{"op":"mcm","clk":"7669080327","pt":1539708215453,"mc":[{"id":"1.149539530","rc":[{"ltp":1.23,"id":4061310},{"ltp":5.4,"id":5707016}]}]}
+{"op":"mcm","clk":"7669088217","pt":1539708276142,"mc":[{"id":"1.149539530","rc":[{"ltp":1.32,"id":4061310},{"ltp":3.5,"id":5707016}]}]}
+{"op":"mcm","clk":"7669094981","pt":1539708336160,"mc":[{"id":"1.149539530","rc":[{"ltp":1.2,"id":4061310},{"ltp":6.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7669101945","pt":1539708396726,"mc":[{"id":"1.149539530","rc":[{"ltp":1.28,"id":4061310},{"ltp":4.2,"id":5707016}]}]}
+{"op":"mcm","clk":"7669108676","pt":1539708455224,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:12:00.000Z","suspendTime":"2018-10-16T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"ACTIVE","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:12:00.000Z","version":2458336419,"name":"Match Odds","eventName":"Grigelis v Krawietz"},"rc":[{"ltp":1.05,"id":4061310},{"ltp":26.0,"id":5707016}]}]}
+{"op":"mcm","clk":"7669113273","pt":1539708494876,"mc":[{"id":"1.149539530","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28954645","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T15:12:00.000Z","suspendTime":"2018-10-16T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-16T16:48:09.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":5707016,"name":"Laurynas Grigelis"},{"status":"WINNER","sortPriority":2,"id":4061310,"name":"Kevin Krawietz"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T15:12:00.000Z","version":2458339076,"name":"Match Odds","eventName":"Grigelis v Krawietz"}}]}

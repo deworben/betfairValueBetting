@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7614518868","pt":1538614222320,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T23:00:00.000Z","version":2436355543,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7614548333","pt":1538614575163,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-04T23:00:00.000Z","suspendTime":"2018-10-04T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-04T23:00:00.000Z","version":2436355543,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7621042074","pt":1538684511650,"mc":[{"id":"1.149058126","rc":[{"ltp":1.79,"id":13254793}]}]}
+{"op":"mcm","clk":"7621249308","pt":1538686405714,"mc":[{"id":"1.149058126","rc":[{"ltp":1.67,"id":13254793}]}]}
+{"op":"mcm","clk":"7621582808","pt":1538690410065,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7621606300","pt":1538690834730,"mc":[{"id":"1.149058126","rc":[{"ltp":2.48,"id":20927860}]}]}
+{"op":"mcm","clk":"7621610581","pt":1538690905512,"mc":[{"id":"1.149058126","rc":[{"ltp":1.8,"id":13254793},{"ltp":2.24,"id":20927860}]}]}
+{"op":"mcm","clk":"7621613134","pt":1538690956249,"mc":[{"id":"1.149058126","rc":[{"ltp":1.68,"id":13254793},{"ltp":2.26,"id":20927860}]}]}
+{"op":"mcm","clk":"7621616585","pt":1538691021762,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7621620030","pt":1538691086613,"mc":[{"id":"1.149058126","rc":[{"ltp":1.78,"id":13254793}]}]}
+{"op":"mcm","clk":"7621638807","pt":1538691146266,"mc":[{"id":"1.149058126","rc":[{"ltp":2.48,"id":20927860}]}]}
+{"op":"mcm","clk":"7621641690","pt":1538691198458,"mc":[{"id":"1.149058126","rc":[{"ltp":1.8,"id":13254793},{"ltp":2.24,"id":20927860}]}]}
+{"op":"mcm","clk":"7621645356","pt":1538691263247,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.22,"id":20927860}]}]}
+{"op":"mcm","clk":"7621648629","pt":1538691326310,"mc":[{"id":"1.149058126","rc":[{"ltp":1.8,"id":13254793}]}]}
+{"op":"mcm","clk":"7621651843","pt":1538691384277,"mc":[{"id":"1.149058126","rc":[{"ltp":2.24,"id":20927860}]}]}
+{"op":"mcm","clk":"7621734740","pt":1538692633604,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7621749041","pt":1538692856039,"mc":[{"id":"1.149058126","rc":[{"ltp":1.66,"id":13254793},{"ltp":2.52,"id":20927860}]}]}
+{"op":"mcm","clk":"7621812783","pt":1538693710933,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7621842455","pt":1538693965759,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T00:45:00.000Z","suspendTime":"2018-10-05T00:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T00:45:00.000Z","version":2437434647,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7621844304","pt":1538693999155,"mc":[{"id":"1.149058126","rc":[{"ltp":1.68,"id":13254793}]}]}
+{"op":"mcm","clk":"7622322436","pt":1538699665140,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T00:34:00.000Z","suspendTime":"2018-10-05T00:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T00:34:00.000Z","version":2437488254,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7622332507","pt":1538699822924,"mc":[{"id":"1.149058126","rc":[{"ltp":1.72,"id":13254793}]}]}
+{"op":"mcm","clk":"7622378846","pt":1538700297966,"mc":[{"id":"1.149058126","rc":[{"ltp":1.71,"id":13254793}]}]}
+{"op":"mcm","clk":"7622450095","pt":1538701104460,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T00:34:00.000Z","suspendTime":"2018-10-05T00:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T00:34:00.000Z","version":2437495478,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"},"rc":[{"ltp":1.7,"id":13254793}]}]}
+{"op":"mcm","clk":"7622458722","pt":1538701225727,"mc":[{"id":"1.149058126","rc":[{"ltp":1.62,"id":13254793}]}]}
+{"op":"mcm","clk":"7622470779","pt":1538701405842,"mc":[{"id":"1.149058126","rc":[{"ltp":1.74,"id":13254793}]}]}
+{"op":"mcm","clk":"7622484960","pt":1538701641138,"mc":[{"id":"1.149058126","rc":[{"ltp":2.5,"id":13254793},{"ltp":1.66,"id":20927860}]}]}
+{"op":"mcm","clk":"7622494154","pt":1538701817474,"mc":[{"id":"1.149058126","rc":[{"ltp":2.6,"id":13254793}]}]}
+{"op":"mcm","clk":"7622497421","pt":1538701879267,"mc":[{"id":"1.149058126","rc":[{"ltp":2.74,"id":13254793},{"ltp":1.57,"id":20927860}]}]}
+{"op":"mcm","clk":"7622533962","pt":1538702245490,"mc":[{"id":"1.149058126","rc":[{"ltp":3.4,"id":13254793}]}]}
+{"op":"mcm","clk":"7622537355","pt":1538702305531,"mc":[{"id":"1.149058126","rc":[{"ltp":3.35,"id":13254793},{"ltp":1.45,"id":20927860}]}]}
+{"op":"mcm","clk":"7622540047","pt":1538702358275,"mc":[{"id":"1.149058126","rc":[{"ltp":3.85,"id":13254793},{"ltp":1.35,"id":20927860}]}]}
+{"op":"mcm","clk":"7622546675","pt":1538702478864,"mc":[{"id":"1.149058126","rc":[{"ltp":3.0,"id":13254793},{"ltp":1.5,"id":20927860}]}]}
+{"op":"mcm","clk":"7622556969","pt":1538702664872,"mc":[{"id":"1.149058126","rc":[{"ltp":2.86,"id":13254793}]}]}
+{"op":"mcm","clk":"7622564572","pt":1538702786640,"mc":[{"id":"1.149058126","rc":[{"ltp":2.66,"id":13254793},{"ltp":1.6,"id":20927860}]}]}
+{"op":"mcm","clk":"7622587755","pt":1538702906279,"mc":[{"id":"1.149058126","rc":[{"ltp":3.3,"id":13254793},{"ltp":1.43,"id":20927860}]}]}
+{"op":"mcm","clk":"7622590986","pt":1538702957858,"mc":[{"id":"1.149058126","rc":[{"ltp":3.35,"id":13254793}]}]}
+{"op":"mcm","clk":"7622595420","pt":1538703023706,"mc":[{"id":"1.149058126","rc":[{"ltp":3.25,"id":13254793},{"ltp":1.44,"id":20927860}]}]}
+{"op":"mcm","clk":"7622599113","pt":1538703083201,"mc":[{"id":"1.149058126","rc":[{"ltp":2.96,"id":13254793},{"ltp":1.51,"id":20927860}]}]}
+{"op":"mcm","clk":"7622603287","pt":1538703145166,"mc":[{"id":"1.149058126","rc":[{"ltp":2.78,"id":13254793},{"ltp":1.56,"id":20927860}]}]}
+{"op":"mcm","clk":"7622607782","pt":1538703205785,"mc":[{"id":"1.149058126","rc":[{"ltp":2.56,"id":13254793},{"ltp":1.64,"id":20927860}]}]}
+{"op":"mcm","clk":"7622612358","pt":1538703264321,"mc":[{"id":"1.149058126","rc":[{"ltp":2.34,"id":13254793},{"ltp":1.74,"id":20927860}]}]}
+{"op":"mcm","clk":"7622616619","pt":1538703325157,"mc":[{"id":"1.149058126","rc":[{"ltp":2.6,"id":13254793},{"ltp":1.62,"id":20927860}]}]}
+{"op":"mcm","clk":"7622620829","pt":1538703383841,"mc":[{"id":"1.149058126","rc":[{"ltp":2.06,"id":13254793},{"ltp":1.94,"id":20927860}]}]}
+{"op":"mcm","clk":"7622625103","pt":1538703446619,"mc":[{"id":"1.149058126","rc":[{"ltp":2.16,"id":13254793},{"ltp":1.79,"id":20927860}]}]}
+{"op":"mcm","clk":"7622628436","pt":1538703505990,"mc":[{"id":"1.149058126","rc":[{"ltp":2.0,"id":13254793},{"ltp":1.97,"id":20927860}]}]}
+{"op":"mcm","clk":"7622631834","pt":1538703564139,"mc":[{"id":"1.149058126","rc":[{"ltp":1.92,"id":13254793},{"ltp":2.08,"id":20927860}]}]}
+{"op":"mcm","clk":"7622635681","pt":1538703626215,"mc":[{"id":"1.149058126","rc":[{"ltp":2.0,"id":20927860}]}]}
+{"op":"mcm","clk":"7622639218","pt":1538703685697,"mc":[{"id":"1.149058126","rc":[{"ltp":2.04,"id":13254793},{"ltp":1.98,"id":20927860}]}]}
+{"op":"mcm","clk":"7622658348","pt":1538703743487,"mc":[{"id":"1.149058126","rc":[{"ltp":1.95,"id":13254793},{"ltp":1.92,"id":20927860}]}]}
+{"op":"mcm","clk":"7622661232","pt":1538703806627,"mc":[{"id":"1.149058126","rc":[{"ltp":2.08,"id":13254793}]}]}
+{"op":"mcm","clk":"7622663480","pt":1538703864843,"mc":[{"id":"1.149058126","rc":[{"ltp":2.0,"id":13254793},{"ltp":2.0,"id":20927860}]}]}
+{"op":"mcm","clk":"7622665841","pt":1538703921288,"mc":[{"id":"1.149058126","rc":[{"ltp":1.92,"id":13254793},{"ltp":2.08,"id":20927860}]}]}
+{"op":"mcm","clk":"7622668604","pt":1538703986194,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793},{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7622671495","pt":1538704046653,"mc":[{"id":"1.149058126","rc":[{"ltp":1.84,"id":13254793},{"ltp":2.18,"id":20927860}]}]}
+{"op":"mcm","clk":"7622673980","pt":1538704105105,"mc":[{"id":"1.149058126","rc":[{"ltp":1.96,"id":13254793},{"ltp":2.04,"id":20927860}]}]}
+{"op":"mcm","clk":"7622676529","pt":1538704163880,"mc":[{"id":"1.149058126","rc":[{"ltp":2.08,"id":13254793},{"ltp":1.94,"id":20927860}]}]}
+{"op":"mcm","clk":"7622679387","pt":1538704223959,"mc":[{"id":"1.149058126","rc":[{"ltp":2.06,"id":13254793},{"ltp":1.99,"id":20927860}]}]}
+{"op":"mcm","clk":"7622684903","pt":1538704344495,"mc":[{"id":"1.149058126","rc":[{"ltp":1.87,"id":13254793},{"ltp":2.12,"id":20927860}]}]}
+{"op":"mcm","clk":"7622687589","pt":1538704406596,"mc":[{"id":"1.149058126","rc":[{"ltp":1.73,"id":13254793},{"ltp":2.38,"id":20927860}]}]}
+{"op":"mcm","clk":"7622690459","pt":1538704465243,"mc":[{"id":"1.149058126","rc":[{"ltp":1.8,"id":13254793},{"ltp":2.24,"id":20927860}]}]}
+{"op":"mcm","clk":"7622693501","pt":1538704525605,"mc":[{"id":"1.149058126","rc":[{"ltp":1.87,"id":13254793},{"ltp":2.14,"id":20927860}]}]}
+{"op":"mcm","clk":"7622696520","pt":1538704583354,"mc":[{"id":"1.149058126","rc":[{"ltp":1.89,"id":13254793},{"ltp":2.16,"id":20927860}]}]}
+{"op":"mcm","clk":"7622715742","pt":1538704646548,"mc":[{"id":"1.149058126","rc":[{"ltp":1.76,"id":13254793},{"ltp":2.32,"id":20927860}]}]}
+{"op":"mcm","clk":"7622719018","pt":1538704704491,"mc":[{"id":"1.149058126","rc":[{"ltp":1.74,"id":13254793}]}]}
+{"op":"mcm","clk":"7622722167","pt":1538704763285,"mc":[{"id":"1.149058126","rc":[{"ltp":1.8,"id":13254793},{"ltp":2.26,"id":20927860}]}]}
+{"op":"mcm","clk":"7622728172","pt":1538704879127,"mc":[{"id":"1.149058126","rc":[{"ltp":1.83,"id":13254793}]}]}
+{"op":"mcm","clk":"7622729796","pt":1538704911332,"mc":[{"id":"1.149058126","rc":[{"ltp":2.2,"id":20927860}]}]}
+{"op":"mcm","clk":"7622734201","pt":1538705004963,"mc":[{"id":"1.149058126","rc":[{"ltp":1.99,"id":13254793},{"ltp":1.94,"id":20927860}]}]}
+{"op":"mcm","clk":"7622737715","pt":1538705066159,"mc":[{"id":"1.149058126","rc":[{"ltp":2.38,"id":13254793},{"ltp":1.59,"id":20927860}]}]}
+{"op":"mcm","clk":"7622741487","pt":1538705125473,"mc":[{"id":"1.149058126","rc":[{"ltp":2.92,"id":13254793},{"ltp":1.36,"id":20927860}]}]}
+{"op":"mcm","clk":"7622744307","pt":1538705186468,"mc":[{"id":"1.149058126","rc":[{"ltp":6.8,"id":13254793},{"ltp":1.18,"id":20927860}]}]}
+{"op":"mcm","clk":"7622747128","pt":1538705246250,"mc":[{"id":"1.149058126","rc":[{"ltp":15.0,"id":13254793},{"ltp":1.03,"id":20927860}]}]}
+{"op":"mcm","clk":"7622750284","pt":1538705306048,"mc":[{"id":"1.149058126","rc":[{"ltp":30.0,"id":13254793},{"ltp":1.02,"id":20927860}]}]}
+{"op":"mcm","clk":"7622753575","pt":1538705366194,"mc":[{"id":"1.149058126","rc":[{"ltp":100.0,"id":13254793},{"ltp":1.01,"id":20927860}]}]}
+{"op":"mcm","clk":"7622756784","pt":1538705426418,"mc":[{"id":"1.149058126","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28937423","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-05T00:34:00.000Z","suspendTime":"2018-10-05T00:34:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-05T02:10:21.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":20927860,"name":"Begemann/Polasek"},{"status":"LOSER","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"MX","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-05T00:34:00.000Z","version":2437521742,"name":"Match Odds","eventName":"Begemann/Polasek v Granollers/Granollers"}}]}

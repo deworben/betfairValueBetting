@@ -1,0 +1,112 @@
+{"op":"mcm","clk":"7794834533","pt":1540250972902,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T15:00:00.000Z","version":2471295263,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7794879476","pt":1540251643714,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-23T15:00:00.000Z","suspendTime":"2018-10-23T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-23T15:00:00.000Z","version":2471295263,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7795079120","pt":1540254543191,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T15:00:00.000Z","suspendTime":"2018-10-24T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T15:00:00.000Z","version":2471374137,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7802922344","pt":1540340935808,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T15:00:00.000Z","suspendTime":"2018-10-25T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2472642324,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7810707387","pt":1540423128855,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T21:00:00.000Z","suspendTime":"2018-10-25T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T15:00:00.000Z","version":2474457371,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7810707668","pt":1540423132874,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T21:00:00.000Z","suspendTime":"2018-10-25T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T21:00:00.000Z","version":2474457371,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7812400648","pt":1540449885383,"mc":[{"id":"1.150036539","rc":[{"ltp":1.86,"id":12075168}]}]}
+{"op":"mcm","clk":"7812990602","pt":1540460546146,"mc":[{"id":"1.150036539","rc":[{"ltp":1.68,"id":12075168}]}]}
+{"op":"mcm","clk":"7814497431","pt":1540479305847,"mc":[{"id":"1.150036539","rc":[{"ltp":1.81,"id":12075168}]}]}
+{"op":"mcm","clk":"7814743265","pt":1540482339478,"mc":[{"id":"1.150036539","rc":[{"ltp":1.86,"id":12075168}]}]}
+{"op":"mcm","clk":"7814746852","pt":1540482389384,"mc":[{"id":"1.150036539","rc":[{"ltp":1.82,"id":15994810},{"ltp":2.22,"id":12075168}]}]}
+{"op":"mcm","clk":"7814803364","pt":1540483039445,"mc":[{"id":"1.150036539","rc":[{"ltp":1.82,"id":12075168}]}]}
+{"op":"mcm","clk":"7816373532","pt":1540495331100,"mc":[{"id":"1.150036539","rc":[{"ltp":1.83,"id":12075168}]}]}
+{"op":"mcm","clk":"7816764446","pt":1540499639576,"mc":[{"id":"1.150036539","rc":[{"ltp":1.84,"id":12075168}]}]}
+{"op":"mcm","clk":"7816841924","pt":1540500702359,"mc":[{"id":"1.150036539","rc":[{"ltp":2.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7816847193","pt":1540500830783,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:50:00.000Z","suspendTime":"2018-10-25T20:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:50:00.000Z","version":2475552566,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}
+{"op":"mcm","clk":"7816850406","pt":1540500914984,"mc":[{"id":"1.150036539","rc":[{"ltp":1.86,"id":12075168}]}]}
+{"op":"mcm","clk":"7816866298","pt":1540501305983,"mc":[{"id":"1.150036539","rc":[{"ltp":1.84,"id":12075168}]}]}
+{"op":"mcm","clk":"7816884780","pt":1540501350504,"mc":[{"id":"1.150036539","rc":[{"ltp":1.83,"id":12075168}]}]}
+{"op":"mcm","clk":"7816892676","pt":1540501489521,"mc":[{"id":"1.150036539","rc":[{"ltp":1.82,"id":12075168}]}]}
+{"op":"mcm","clk":"7816907926","pt":1540501788857,"mc":[{"id":"1.150036539","rc":[{"ltp":2.02,"id":15994810}]}]}
+{"op":"mcm","clk":"7816911624","pt":1540501844577,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:50:00.000Z","suspendTime":"2018-10-25T20:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:50:00.000Z","version":2475563587,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"},"rc":[{"ltp":2.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7816915347","pt":1540501911019,"mc":[{"id":"1.150036539","rc":[{"ltp":2.22,"id":15994810},{"ltp":1.81,"id":12075168}]}]}
+{"op":"mcm","clk":"7816922592","pt":1540502032270,"mc":[{"id":"1.150036539","rc":[{"ltp":2.36,"id":15994810},{"ltp":1.74,"id":12075168}]}]}
+{"op":"mcm","clk":"7816925465","pt":1540502090792,"mc":[{"id":"1.150036539","rc":[{"ltp":2.1,"id":15994810},{"ltp":1.91,"id":12075168}]}]}
+{"op":"mcm","clk":"7816928230","pt":1540502151195,"mc":[{"id":"1.150036539","rc":[{"ltp":1.8,"id":15994810},{"ltp":2.12,"id":12075168}]}]}
+{"op":"mcm","clk":"7816930652","pt":1540502211358,"mc":[{"id":"1.150036539","rc":[{"ltp":2.08,"id":15994810},{"ltp":1.94,"id":12075168}]}]}
+{"op":"mcm","clk":"7816949226","pt":1540502271882,"mc":[{"id":"1.150036539","rc":[{"ltp":1.78,"id":15994810},{"ltp":2.28,"id":12075168}]}]}
+{"op":"mcm","clk":"7816952647","pt":1540502332364,"mc":[{"id":"1.150036539","rc":[{"ltp":1.6,"id":15994810},{"ltp":2.62,"id":12075168}]}]}
+{"op":"mcm","clk":"7816955275","pt":1540502392650,"mc":[{"id":"1.150036539","rc":[{"ltp":1.73,"id":15994810},{"ltp":2.38,"id":12075168}]}]}
+{"op":"mcm","clk":"7816957983","pt":1540502450964,"mc":[{"id":"1.150036539","rc":[{"ltp":1.68,"id":15994810},{"ltp":2.46,"id":12075168}]}]}
+{"op":"mcm","clk":"7816960502","pt":1540502512597,"mc":[{"id":"1.150036539","rc":[{"ltp":1.66,"id":15994810},{"ltp":2.52,"id":12075168}]}]}
+{"op":"mcm","clk":"7816963441","pt":1540502571484,"mc":[{"id":"1.150036539","rc":[{"ltp":1.73,"id":15994810},{"ltp":2.38,"id":12075168}]}]}
+{"op":"mcm","clk":"7816966191","pt":1540502632146,"mc":[{"id":"1.150036539","rc":[{"ltp":1.69,"id":15994810},{"ltp":2.42,"id":12075168}]}]}
+{"op":"mcm","clk":"7816968667","pt":1540502692499,"mc":[{"id":"1.150036539","rc":[{"ltp":1.6,"id":15994810},{"ltp":2.66,"id":12075168}]}]}
+{"op":"mcm","clk":"7816971106","pt":1540502750975,"mc":[{"id":"1.150036539","rc":[{"ltp":1.77,"id":15994810},{"ltp":2.28,"id":12075168}]}]}
+{"op":"mcm","clk":"7816973487","pt":1540502810701,"mc":[{"id":"1.150036539","rc":[{"ltp":1.85,"id":15994810},{"ltp":2.18,"id":12075168}]}]}
+{"op":"mcm","clk":"7816975882","pt":1540502871616,"mc":[{"id":"1.150036539","rc":[{"ltp":1.76,"id":15994810},{"ltp":2.32,"id":12075168}]}]}
+{"op":"mcm","clk":"7816978537","pt":1540502930612,"mc":[{"id":"1.150036539","rc":[{"ltp":1.64,"id":15994810},{"ltp":2.54,"id":12075168}]}]}
+{"op":"mcm","clk":"7816981247","pt":1540502989270,"mc":[{"id":"1.150036539","rc":[{"ltp":1.65,"id":15994810}]}]}
+{"op":"mcm","clk":"7816983931","pt":1540503052347,"mc":[{"id":"1.150036539","rc":[{"ltp":1.57,"id":15994810},{"ltp":2.76,"id":12075168}]}]}
+{"op":"mcm","clk":"7816986378","pt":1540503112653,"mc":[{"id":"1.150036539","rc":[{"ltp":1.7,"id":15994810},{"ltp":2.44,"id":12075168}]}]}
+{"op":"mcm","clk":"7817004154","pt":1540503170460,"mc":[{"id":"1.150036539","rc":[{"ltp":1.56,"id":15994810},{"ltp":2.6,"id":12075168}]}]}
+{"op":"mcm","clk":"7817006559","pt":1540503232066,"mc":[{"id":"1.150036539","rc":[{"ltp":1.6,"id":15994810},{"ltp":2.66,"id":12075168}]}]}
+{"op":"mcm","clk":"7817009291","pt":1540503291980,"mc":[{"id":"1.150036539","rc":[{"ltp":1.7,"id":15994810},{"ltp":2.42,"id":12075168}]}]}
+{"op":"mcm","clk":"7817011515","pt":1540503352268,"mc":[{"id":"1.150036539","rc":[{"ltp":1.94,"id":15994810},{"ltp":2.06,"id":12075168}]}]}
+{"op":"mcm","clk":"7817014318","pt":1540503412417,"mc":[{"id":"1.150036539","rc":[{"ltp":2.0,"id":15994810},{"ltp":1.99,"id":12075168}]}]}
+{"op":"mcm","clk":"7817016660","pt":1540503472611,"mc":[{"id":"1.150036539","rc":[{"ltp":1.82,"id":15994810},{"ltp":2.22,"id":12075168}]}]}
+{"op":"mcm","clk":"7817019125","pt":1540503532633,"mc":[{"id":"1.150036539","rc":[{"ltp":1.85,"id":15994810},{"ltp":2.24,"id":12075168}]}]}
+{"op":"mcm","clk":"7817021495","pt":1540503589289,"mc":[{"id":"1.150036539","rc":[{"ltp":1.75,"id":12075168}]}]}
+{"op":"mcm","clk":"7817024709","pt":1540503652218,"mc":[{"id":"1.150036539","rc":[{"ltp":2.38,"id":15994810},{"ltp":1.72,"id":12075168}]}]}
+{"op":"mcm","clk":"7817027338","pt":1540503707966,"mc":[{"id":"1.150036539","rc":[{"ltp":2.16,"id":15994810}]}]}
+{"op":"mcm","clk":"7817030475","pt":1540503771215,"mc":[{"id":"1.150036539","rc":[{"ltp":2.52,"id":15994810},{"ltp":1.6,"id":12075168}]}]}
+{"op":"mcm","clk":"7817032989","pt":1540503830937,"mc":[{"id":"1.150036539","rc":[{"ltp":2.88,"id":15994810},{"ltp":1.53,"id":12075168}]}]}
+{"op":"mcm","clk":"7817035574","pt":1540503891441,"mc":[{"id":"1.150036539","rc":[{"ltp":2.56,"id":15994810},{"ltp":1.64,"id":12075168}]}]}
+{"op":"mcm","clk":"7817037723","pt":1540503949113,"mc":[{"id":"1.150036539","rc":[{"ltp":1.6,"id":12075168}]}]}
+{"op":"mcm","clk":"7817040128","pt":1540504012491,"mc":[{"id":"1.150036539","rc":[{"ltp":2.78,"id":15994810},{"ltp":1.54,"id":12075168}]}]}
+{"op":"mcm","clk":"7817057984","pt":1540504071896,"mc":[{"id":"1.150036539","rc":[{"ltp":4.5,"id":15994810},{"ltp":1.29,"id":12075168}]}]}
+{"op":"mcm","clk":"7817062315","pt":1540504190249,"mc":[{"id":"1.150036539","rc":[{"ltp":1.22,"id":12075168}]}]}
+{"op":"mcm","clk":"7817064641","pt":1540504252012,"mc":[{"id":"1.150036539","rc":[{"ltp":6.4,"id":15994810},{"ltp":1.2,"id":12075168}]}]}
+{"op":"mcm","clk":"7817067135","pt":1540504312220,"mc":[{"id":"1.150036539","rc":[{"ltp":6.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7817069380","pt":1540504370168,"mc":[{"id":"1.150036539","rc":[{"ltp":1.21,"id":12075168}]}]}
+{"op":"mcm","clk":"7817074646","pt":1540504492440,"mc":[{"id":"1.150036539","rc":[{"ltp":5.2,"id":15994810}]}]}
+{"op":"mcm","clk":"7817077532","pt":1540504552071,"mc":[{"id":"1.150036539","rc":[{"ltp":10.0,"id":15994810},{"ltp":1.13,"id":12075168}]}]}
+{"op":"mcm","clk":"7817080086","pt":1540504611773,"mc":[{"id":"1.150036539","rc":[{"ltp":7.0,"id":15994810},{"ltp":1.11,"id":12075168}]}]}
+{"op":"mcm","clk":"7817085010","pt":1540504729830,"mc":[{"id":"1.150036539","rc":[{"ltp":12.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7817088174","pt":1540504790886,"mc":[{"id":"1.150036539","rc":[{"ltp":17.5,"id":15994810},{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817090983","pt":1540504852317,"mc":[{"id":"1.150036539","rc":[{"ltp":1.1,"id":12075168}]}]}
+{"op":"mcm","clk":"7817093983","pt":1540504911935,"mc":[{"id":"1.150036539","rc":[{"ltp":11.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7817113159","pt":1540504972629,"mc":[{"id":"1.150036539","rc":[{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817116681","pt":1540505030570,"mc":[{"id":"1.150036539","rc":[{"ltp":15.0,"id":15994810},{"ltp":1.05,"id":12075168}]}]}
+{"op":"mcm","clk":"7817119492","pt":1540505090045,"mc":[{"id":"1.150036539","rc":[{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817122130","pt":1540505150517,"mc":[{"id":"1.150036539","rc":[{"ltp":13.5,"id":15994810},{"ltp":1.09,"id":12075168}]}]}
+{"op":"mcm","clk":"7817124107","pt":1540505209421,"mc":[{"id":"1.150036539","rc":[{"ltp":11.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7817126599","pt":1540505270154,"mc":[{"id":"1.150036539","rc":[{"ltp":13.5,"id":15994810},{"ltp":1.08,"id":12075168}]}]}
+{"op":"mcm","clk":"7817129137","pt":1540505328653,"mc":[{"id":"1.150036539","rc":[{"ltp":15.0,"id":15994810},{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817132239","pt":1540505388012,"mc":[{"id":"1.150036539","rc":[{"ltp":1.06,"id":12075168}]}]}
+{"op":"mcm","clk":"7817135461","pt":1540505452565,"mc":[{"id":"1.150036539","rc":[{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817138426","pt":1540505511450,"mc":[{"id":"1.150036539","rc":[{"ltp":12.0,"id":15994810}]}]}
+{"op":"mcm","clk":"7817141038","pt":1540505562828,"mc":[{"id":"1.150036539","rc":[{"ltp":1.08,"id":12075168}]}]}
+{"op":"mcm","clk":"7817147070","pt":1540505691962,"mc":[{"id":"1.150036539","rc":[{"ltp":10.0,"id":15994810},{"ltp":1.11,"id":12075168}]}]}
+{"op":"mcm","clk":"7817153724","pt":1540505810177,"mc":[{"id":"1.150036539","rc":[{"ltp":5.7,"id":15994810},{"ltp":1.21,"id":12075168}]}]}
+{"op":"mcm","clk":"7817173062","pt":1540505870652,"mc":[{"id":"1.150036539","rc":[{"ltp":1.25,"id":12075168}]}]}
+{"op":"mcm","clk":"7817176809","pt":1540505932626,"mc":[{"id":"1.150036539","rc":[{"ltp":4.3,"id":15994810},{"ltp":1.26,"id":12075168}]}]}
+{"op":"mcm","clk":"7817180435","pt":1540505992254,"mc":[{"id":"1.150036539","rc":[{"ltp":4.7,"id":15994810},{"ltp":1.27,"id":12075168}]}]}
+{"op":"mcm","clk":"7817183828","pt":1540506051969,"mc":[{"id":"1.150036539","rc":[{"ltp":4.2,"id":15994810},{"ltp":1.31,"id":12075168}]}]}
+{"op":"mcm","clk":"7817187354","pt":1540506112240,"mc":[{"id":"1.150036539","rc":[{"ltp":4.5,"id":15994810},{"ltp":1.26,"id":12075168}]}]}
+{"op":"mcm","clk":"7817190083","pt":1540506172189,"mc":[{"id":"1.150036539","rc":[{"ltp":1.2,"id":12075168}]}]}
+{"op":"mcm","clk":"7817193189","pt":1540506230893,"mc":[{"id":"1.150036539","rc":[{"ltp":5.5,"id":15994810},{"ltp":1.22,"id":12075168}]}]}
+{"op":"mcm","clk":"7817196690","pt":1540506292591,"mc":[{"id":"1.150036539","rc":[{"ltp":7.6,"id":15994810},{"ltp":1.17,"id":12075168}]}]}
+{"op":"mcm","clk":"7817199340","pt":1540506348900,"mc":[{"id":"1.150036539","rc":[{"ltp":5.0,"id":15994810},{"ltp":1.16,"id":12075168}]}]}
+{"op":"mcm","clk":"7817202308","pt":1540506408278,"mc":[{"id":"1.150036539","rc":[{"ltp":1.25,"id":12075168}]}]}
+{"op":"mcm","clk":"7817206133","pt":1540506470097,"mc":[{"id":"1.150036539","rc":[{"ltp":4.3,"id":15994810},{"ltp":1.32,"id":12075168}]}]}
+{"op":"mcm","clk":"7817209672","pt":1540506531924,"mc":[{"id":"1.150036539","rc":[{"ltp":3.9,"id":15994810},{"ltp":1.35,"id":12075168}]}]}
+{"op":"mcm","clk":"7817213112","pt":1540506592528,"mc":[{"id":"1.150036539","rc":[{"ltp":3.1,"id":15994810},{"ltp":1.53,"id":12075168}]}]}
+{"op":"mcm","clk":"7817217612","pt":1540506652556,"mc":[{"id":"1.150036539","rc":[{"ltp":2.42,"id":15994810},{"ltp":1.7,"id":12075168}]}]}
+{"op":"mcm","clk":"7817221878","pt":1540506710981,"mc":[{"id":"1.150036539","rc":[{"ltp":2.36,"id":15994810},{"ltp":1.74,"id":12075168}]}]}
+{"op":"mcm","clk":"7817241588","pt":1540506772204,"mc":[{"id":"1.150036539","rc":[{"ltp":2.28,"id":15994810},{"ltp":1.7,"id":12075168}]}]}
+{"op":"mcm","clk":"7817245720","pt":1540506832228,"mc":[{"id":"1.150036539","rc":[{"ltp":2.2,"id":15994810},{"ltp":1.83,"id":12075168}]}]}
+{"op":"mcm","clk":"7817249516","pt":1540506892395,"mc":[{"id":"1.150036539","rc":[{"ltp":2.06,"id":15994810},{"ltp":1.94,"id":12075168}]}]}
+{"op":"mcm","clk":"7817252600","pt":1540506952523,"mc":[{"id":"1.150036539","rc":[{"ltp":3.1,"id":15994810},{"ltp":1.48,"id":12075168}]}]}
+{"op":"mcm","clk":"7817255593","pt":1540507012514,"mc":[{"id":"1.150036539","rc":[{"ltp":2.32,"id":15994810},{"ltp":1.75,"id":12075168}]}]}
+{"op":"mcm","clk":"7817258589","pt":1540507072581,"mc":[{"id":"1.150036539","rc":[{"ltp":3.3,"id":15994810},{"ltp":1.28,"id":12075168}]}]}
+{"op":"mcm","clk":"7817261230","pt":1540507130238,"mc":[{"id":"1.150036539","rc":[{"ltp":4.2,"id":15994810},{"ltp":1.31,"id":12075168}]}]}
+{"op":"mcm","clk":"7817264168","pt":1540507192287,"mc":[{"id":"1.150036539","rc":[{"ltp":3.2,"id":15994810},{"ltp":1.28,"id":12075168}]}]}
+{"op":"mcm","clk":"7817267810","pt":1540507252322,"mc":[{"id":"1.150036539","rc":[{"ltp":9.2,"id":15994810},{"ltp":1.13,"id":12075168}]}]}
+{"op":"mcm","clk":"7817271183","pt":1540507311084,"mc":[{"id":"1.150036539","rc":[{"ltp":11.0,"id":15994810},{"ltp":1.1,"id":12075168}]}]}
+{"op":"mcm","clk":"7817274259","pt":1540507372343,"mc":[{"id":"1.150036539","rc":[{"ltp":6.2,"id":15994810},{"ltp":1.11,"id":12075168}]}]}
+{"op":"mcm","clk":"7817277437","pt":1540507432443,"mc":[{"id":"1.150036539","rc":[{"ltp":21.0,"id":15994810},{"ltp":1.06,"id":12075168}]}]}
+{"op":"mcm","clk":"7817280827","pt":1540507492270,"mc":[{"id":"1.150036539","rc":[{"ltp":1.07,"id":12075168}]}]}
+{"op":"mcm","clk":"7817283421","pt":1540507548252,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:50:00.000Z","suspendTime":"2018-10-25T20:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"ACTIVE","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:50:00.000Z","version":2475585319,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"},"rc":[{"ltp":1.01,"id":12075168}]}]}
+{"op":"mcm","clk":"7817285659","pt":1540507589126,"mc":[{"id":"1.150036539","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28971042","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-25T20:50:00.000Z","suspendTime":"2018-10-25T20:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-25T22:46:20.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":15994810,"name":"Agamenone/Arguello"},{"status":"WINNER","sortPriority":2,"id":12075168,"name":"Behar/Escobar"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-25T20:50:00.000Z","version":2475585429,"name":"Match Odds","eventName":"Agamenone/Arguello v Behar/Escobar"}}]}

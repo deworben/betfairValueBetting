@@ -1,0 +1,68 @@
+{"op":"mcm","clk":"7576966860","pt":1538797827878,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T02:00:00.000Z","suspendTime":"2018-10-07T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"ACTIVE","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T02:00:00.000Z","version":2439300832,"name":"Match Odds","eventName":"Jabeur v Tomova"}}]}
+{"op":"mcm","clk":"7577015827","pt":1538798350979,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T02:00:00.000Z","suspendTime":"2018-10-07T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"ACTIVE","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T02:00:00.000Z","version":2439300832,"name":"Match Odds","eventName":"Jabeur v Tomova"}}]}
+{"op":"mcm","clk":"7587205154","pt":1538855736054,"mc":[{"id":"1.149169612","rc":[{"ltp":1.29,"id":6161111}]}]}
+{"op":"mcm","clk":"7587336858","pt":1538856697159,"mc":[{"id":"1.149169612","rc":[{"ltp":1.28,"id":6161111}]}]}
+{"op":"mcm","clk":"7587885861","pt":1538860960273,"mc":[{"id":"1.149169612","rc":[{"ltp":1.27,"id":6161111}]}]}
+{"op":"mcm","clk":"7588181046","pt":1538863417336,"mc":[{"id":"1.149169612","rc":[{"ltp":1.28,"id":6161111}]}]}
+{"op":"mcm","clk":"7588226473","pt":1538863766891,"mc":[{"id":"1.149169612","rc":[{"ltp":1.27,"id":6161111}]}]}
+{"op":"mcm","clk":"7588280086","pt":1538864257140,"mc":[{"id":"1.149169612","rc":[{"ltp":1.23,"id":6161111}]}]}
+{"op":"mcm","clk":"7588692026","pt":1538867940529,"mc":[{"id":"1.149169612","rc":[{"ltp":5.3,"id":4597116}]}]}
+{"op":"mcm","clk":"7588904180","pt":1538870054038,"mc":[{"id":"1.149169612","rc":[{"ltp":4.6,"id":4597116}]}]}
+{"op":"mcm","clk":"7588907526","pt":1538870091011,"mc":[{"id":"1.149169612","rc":[{"ltp":5.3,"id":4597116}]}]}
+{"op":"mcm","clk":"7589206365","pt":1538873355628,"mc":[{"id":"1.149169612","rc":[{"ltp":4.9,"id":4597116}]}]}
+{"op":"mcm","clk":"7589386959","pt":1538875400548,"mc":[{"id":"1.149169612","rc":[{"ltp":1.26,"id":6161111},{"ltp":4.8,"id":4597116}]}]}
+{"op":"mcm","clk":"7589395565","pt":1538875526038,"mc":[{"id":"1.149169612","rc":[{"ltp":1.23,"id":6161111}]}]}
+{"op":"mcm","clk":"7589474253","pt":1538876530571,"mc":[{"id":"1.149169612","rc":[{"ltp":1.22,"id":6161111}]}]}
+{"op":"mcm","clk":"7589499994","pt":1538876918485,"mc":[{"id":"1.149169612","rc":[{"ltp":1.24,"id":6161111}]}]}
+{"op":"mcm","clk":"7589534987","pt":1538877237851,"mc":[{"id":"1.149169612","rc":[{"ltp":5.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589542569","pt":1538877333926,"mc":[{"id":"1.149169612","rc":[{"ltp":1.23,"id":6161111}]}]}
+{"op":"mcm","clk":"7589561089","pt":1538877575235,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:54:00.000Z","suspendTime":"2018-10-07T01:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"ACTIVE","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:54:00.000Z","version":2442848739,"name":"Match Odds","eventName":"Jabeur v Tomova"}}]}
+{"op":"mcm","clk":"7589586657","pt":1538877921820,"mc":[{"id":"1.149169612","rc":[{"ltp":1.22,"id":6161111}]}]}
+{"op":"mcm","clk":"7589592156","pt":1538877993969,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:54:00.000Z","suspendTime":"2018-10-07T01:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"ACTIVE","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:54:00.000Z","version":2442855644,"name":"Match Odds","eventName":"Jabeur v Tomova"},"rc":[{"ltp":1.28,"id":6161111},{"ltp":4.5,"id":4597116}]}]}
+{"op":"mcm","clk":"7589609685","pt":1538878058495,"mc":[{"id":"1.149169612","rc":[{"ltp":1.27,"id":6161111},{"ltp":4.7,"id":4597116}]}]}
+{"op":"mcm","clk":"7589613199","pt":1538878104075,"mc":[{"id":"1.149169612","rc":[{"ltp":1.29,"id":6161111}]}]}
+{"op":"mcm","clk":"7589618715","pt":1538878174252,"mc":[{"id":"1.149169612","rc":[{"ltp":1.27,"id":6161111},{"ltp":4.8,"id":4597116}]}]}
+{"op":"mcm","clk":"7589622780","pt":1538878228728,"mc":[{"id":"1.149169612","rc":[{"ltp":1.22,"id":6161111}]}]}
+{"op":"mcm","clk":"7589628345","pt":1538878298054,"mc":[{"id":"1.149169612","rc":[{"ltp":1.24,"id":6161111},{"ltp":5.2,"id":4597116}]}]}
+{"op":"mcm","clk":"7589633021","pt":1538878358223,"mc":[{"id":"1.149169612","rc":[{"ltp":1.16,"id":6161111},{"ltp":6.2,"id":4597116}]}]}
+{"op":"mcm","clk":"7589637886","pt":1538878417582,"mc":[{"id":"1.149169612","rc":[{"ltp":1.18,"id":6161111}]}]}
+{"op":"mcm","clk":"7589642735","pt":1538878478406,"mc":[{"id":"1.149169612","rc":[{"ltp":1.14,"id":6161111}]}]}
+{"op":"mcm","clk":"7589652308","pt":1538878595674,"mc":[{"id":"1.149169612","rc":[{"ltp":1.17,"id":6161111}]}]}
+{"op":"mcm","clk":"7589657398","pt":1538878654460,"mc":[{"id":"1.149169612","rc":[{"ltp":1.12,"id":6161111}]}]}
+{"op":"mcm","clk":"7589662154","pt":1538878717617,"mc":[{"id":"1.149169612","rc":[{"ltp":1.11,"id":6161111}]}]}
+{"op":"mcm","clk":"7589667094","pt":1538878775618,"mc":[{"id":"1.149169612","rc":[{"ltp":1.1,"id":6161111}]}]}
+{"op":"mcm","clk":"7589695527","pt":1538878956622,"mc":[{"id":"1.149169612","rc":[{"ltp":1.08,"id":6161111}]}]}
+{"op":"mcm","clk":"7589710830","pt":1538879138361,"mc":[{"id":"1.149169612","rc":[{"ltp":11.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589714303","pt":1538879183676,"mc":[{"id":"1.149169612","rc":[{"ltp":1.11,"id":6161111}]}]}
+{"op":"mcm","clk":"7589725096","pt":1538879315691,"mc":[{"id":"1.149169612","rc":[{"ltp":1.1,"id":6161111}]}]}
+{"op":"mcm","clk":"7589729684","pt":1538879376232,"mc":[{"id":"1.149169612","rc":[{"ltp":1.12,"id":6161111},{"ltp":9.2,"id":4597116}]}]}
+{"op":"mcm","clk":"7589733839","pt":1538879435894,"mc":[{"id":"1.149169612","rc":[{"ltp":1.1,"id":6161111}]}]}
+{"op":"mcm","clk":"7589738451","pt":1538879497439,"mc":[{"id":"1.149169612","rc":[{"ltp":1.12,"id":6161111}]}]}
+{"op":"mcm","clk":"7589747562","pt":1538879616622,"mc":[{"id":"1.149169612","rc":[{"ltp":1.14,"id":6161111},{"ltp":8.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589751457","pt":1538879675912,"mc":[{"id":"1.149169612","rc":[{"ltp":1.15,"id":6161111}]}]}
+{"op":"mcm","clk":"7589755826","pt":1538879737691,"mc":[{"id":"1.149169612","rc":[{"ltp":1.18,"id":6161111}]}]}
+{"op":"mcm","clk":"7589760446","pt":1538879798261,"mc":[{"id":"1.149169612","rc":[{"ltp":1.14,"id":6161111}]}]}
+{"op":"mcm","clk":"7589776863","pt":1538879851733,"mc":[{"id":"1.149169612","rc":[{"ltp":1.12,"id":6161111}]}]}
+{"op":"mcm","clk":"7589780917","pt":1538879917772,"mc":[{"id":"1.149169612","rc":[{"ltp":1.1,"id":6161111}]}]}
+{"op":"mcm","clk":"7589785952","pt":1538879978180,"mc":[{"id":"1.149169612","rc":[{"ltp":11.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589795665","pt":1538880092610,"mc":[{"id":"1.149169612","rc":[{"ltp":1.09,"id":6161111},{"ltp":12.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589801343","pt":1538880158414,"mc":[{"id":"1.149169612","rc":[{"ltp":1.08,"id":6161111}]}]}
+{"op":"mcm","clk":"7589806661","pt":1538880218423,"mc":[{"id":"1.149169612","rc":[{"ltp":1.04,"id":6161111},{"ltp":17.5,"id":4597116}]}]}
+{"op":"mcm","clk":"7589811685","pt":1538880278491,"mc":[{"id":"1.149169612","rc":[{"ltp":1.06,"id":6161111}]}]}
+{"op":"mcm","clk":"7589816204","pt":1538880334562,"mc":[{"id":"1.149169612","rc":[{"ltp":1.07,"id":6161111}]}]}
+{"op":"mcm","clk":"7589821909","pt":1538880398359,"mc":[{"id":"1.149169612","rc":[{"ltp":1.04,"id":6161111},{"ltp":26.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589832934","pt":1538880518362,"mc":[{"id":"1.149169612","rc":[{"ltp":1.05,"id":6161111},{"ltp":21.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589838726","pt":1538880576843,"mc":[{"id":"1.149169612","rc":[{"ltp":1.03,"id":6161111}]}]}
+{"op":"mcm","clk":"7589844683","pt":1538880632057,"mc":[{"id":"1.149169612","rc":[{"ltp":1.02,"id":6161111}]}]}
+{"op":"mcm","clk":"7589881319","pt":1538880875991,"mc":[{"id":"1.149169612","rc":[{"ltp":1.01,"id":6161111}]}]}
+{"op":"mcm","clk":"7589893269","pt":1538880994465,"mc":[{"id":"1.149169612","rc":[{"ltp":1.02,"id":6161111}]}]}
+{"op":"mcm","clk":"7589904472","pt":1538881112611,"mc":[{"id":"1.149169612","rc":[{"ltp":1.01,"id":6161111}]}]}
+{"op":"mcm","clk":"7589910093","pt":1538881178540,"mc":[{"id":"1.149169612","rc":[{"ltp":1.02,"id":6161111}]}]}
+{"op":"mcm","clk":"7589915537","pt":1538881236386,"mc":[{"id":"1.149169612","rc":[{"ltp":1.03,"id":6161111}]}]}
+{"op":"mcm","clk":"7589920660","pt":1538881295270,"mc":[{"id":"1.149169612","rc":[{"ltp":1.02,"id":6161111},{"ltp":50.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589933353","pt":1538881414687,"mc":[{"id":"1.149169612","rc":[{"ltp":1.01,"id":6161111}]}]}
+{"op":"mcm","clk":"7589940031","pt":1538881478349,"mc":[{"id":"1.149169612","rc":[{"ltp":1.02,"id":6161111}]}]}
+{"op":"mcm","clk":"7589952166","pt":1538881597662,"mc":[{"id":"1.149169612","rc":[{"ltp":1.01,"id":6161111},{"ltp":140.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7589975112","pt":1538881707029,"mc":[{"id":"1.149169612","rc":[{"ltp":490.0,"id":4597116}]}]}
+{"op":"mcm","clk":"7590008066","pt":1538882071870,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:54:00.000Z","suspendTime":"2018-10-07T01:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"ACTIVE","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:54:00.000Z","version":2442924301,"name":"Match Odds","eventName":"Jabeur v Tomova"}}]}
+{"op":"mcm","clk":"7590011620","pt":1538882107871,"mc":[{"id":"1.149169612","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941334","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T01:54:00.000Z","suspendTime":"2018-10-07T01:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-07T03:15:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":6161111,"name":"Ons Jabeur"},{"status":"LOSER","sortPriority":2,"id":4597116,"name":"Viktoriya Tomova"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T01:54:00.000Z","version":2442926539,"name":"Match Odds","eventName":"Jabeur v Tomova"}}]}

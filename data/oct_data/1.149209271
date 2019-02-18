@@ -1,0 +1,111 @@
+{"op":"mcm","clk":"7588517343","pt":1538866233576,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442524410,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7588552188","pt":1538866486621,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-07T18:00:00.000Z","suspendTime":"2018-10-07T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-07T18:00:00.000Z","version":2442524410,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7589053673","pt":1538871602729,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T18:00:00.000Z","suspendTime":"2018-10-08T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T18:00:00.000Z","version":2442730902,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7601891860","pt":1538957379144,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T03:30:00.000Z","suspendTime":"2018-10-09T03:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T03:30:00.000Z","version":2445861838,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7603698571","pt":1538995837015,"mc":[{"id":"1.149209271","rc":[{"ltp":1.36,"id":8859316}]}]}
+{"op":"mcm","clk":"7607651875","pt":1539030741832,"mc":[{"id":"1.149209271","rc":[{"ltp":1.38,"id":8859316}]}]}
+{"op":"mcm","clk":"7608686614","pt":1539047974434,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T03:16:00.000Z","suspendTime":"2018-10-09T03:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T03:16:00.000Z","version":2446961654,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7608689325","pt":1539048030755,"mc":[{"id":"1.149209271","rc":[{"ltp":1.36,"id":8859316}]}]}
+{"op":"mcm","clk":"7608803579","pt":1539050135286,"mc":[{"id":"1.149209271","rc":[{"ltp":1.34,"id":8859316}]}]}
+{"op":"mcm","clk":"7608944564","pt":1539053483994,"mc":[{"id":"1.149209271","rc":[{"ltp":3.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7608969446","pt":1539053971011,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T03:15:00.000Z","suspendTime":"2018-10-09T03:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T03:15:00.000Z","version":2447021333,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7608981739","pt":1539054275976,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T02:59:00.000Z","suspendTime":"2018-10-09T02:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T02:59:00.000Z","version":2447021637,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7608999060","pt":1539054619433,"mc":[{"id":"1.149209271","rc":[{"ltp":1.36,"id":8859316},{"ltp":3.5,"id":7797904}]}]}
+{"op":"mcm","clk":"7609004970","pt":1539054807440,"mc":[{"id":"1.149209271","rc":[{"ltp":1.4,"id":8859316}]}]}
+{"op":"mcm","clk":"7609016135","pt":1539055116532,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T02:59:00.000Z","suspendTime":"2018-10-09T02:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T02:59:00.000Z","version":2447026989,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}
+{"op":"mcm","clk":"7609020182","pt":1539055239121,"mc":[{"id":"1.149209271","rc":[{"ltp":1.37,"id":8859316}]}]}
+{"op":"mcm","clk":"7609022219","pt":1539055298868,"mc":[{"id":"1.149209271","rc":[{"ltp":1.45,"id":8859316},{"ltp":3.35,"id":7797904}]}]}
+{"op":"mcm","clk":"7609032145","pt":1539055358976,"mc":[{"id":"1.149209271","rc":[{"ltp":1.39,"id":8859316}]}]}
+{"op":"mcm","clk":"7609033849","pt":1539055419169,"mc":[{"id":"1.149209271","rc":[{"ltp":3.55,"id":7797904}]}]}
+{"op":"mcm","clk":"7609035460","pt":1539055478826,"mc":[{"id":"1.149209271","rc":[{"ltp":1.42,"id":8859316}]}]}
+{"op":"mcm","clk":"7609037153","pt":1539055537220,"mc":[{"id":"1.149209271","rc":[{"ltp":1.36,"id":8859316}]}]}
+{"op":"mcm","clk":"7609038807","pt":1539055598358,"mc":[{"id":"1.149209271","rc":[{"ltp":1.35,"id":8859316}]}]}
+{"op":"mcm","clk":"7609040630","pt":1539055657719,"mc":[{"id":"1.149209271","rc":[{"ltp":1.41,"id":8859316}]}]}
+{"op":"mcm","clk":"7609042399","pt":1539055718905,"mc":[{"id":"1.149209271","rc":[{"ltp":1.4,"id":8859316},{"ltp":3.5,"id":7797904}]}]}
+{"op":"mcm","clk":"7609044350","pt":1539055778234,"mc":[{"id":"1.149209271","rc":[{"ltp":1.36,"id":8859316},{"ltp":3.75,"id":7797904}]}]}
+{"op":"mcm","clk":"7609046176","pt":1539055839082,"mc":[{"id":"1.149209271","rc":[{"ltp":1.37,"id":8859316},{"ltp":3.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7609048121","pt":1539055899159,"mc":[{"id":"1.149209271","rc":[{"ltp":1.27,"id":8859316},{"ltp":4.3,"id":7797904}]}]}
+{"op":"mcm","clk":"7609050002","pt":1539055958120,"mc":[{"id":"1.149209271","rc":[{"ltp":1.28,"id":8859316},{"ltp":4.8,"id":7797904}]}]}
+{"op":"mcm","clk":"7609053291","pt":1539056018090,"mc":[{"id":"1.149209271","rc":[{"ltp":1.4,"id":8859316},{"ltp":3.5,"id":7797904}]}]}
+{"op":"mcm","clk":"7609055063","pt":1539056077465,"mc":[{"id":"1.149209271","rc":[{"ltp":3.45,"id":7797904}]}]}
+{"op":"mcm","clk":"7609057186","pt":1539056138858,"mc":[{"id":"1.149209271","rc":[{"ltp":1.41,"id":8859316}]}]}
+{"op":"mcm","clk":"7609059284","pt":1539056196335,"mc":[{"id":"1.149209271","rc":[{"ltp":1.35,"id":8859316},{"ltp":3.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7609069228","pt":1539056258984,"mc":[{"id":"1.149209271","rc":[{"ltp":1.38,"id":8859316}]}]}
+{"op":"mcm","clk":"7609071782","pt":1539056319092,"mc":[{"id":"1.149209271","rc":[{"ltp":3.85,"id":7797904}]}]}
+{"op":"mcm","clk":"7609073675","pt":1539056378896,"mc":[{"id":"1.149209271","rc":[{"ltp":1.44,"id":8859316},{"ltp":3.25,"id":7797904}]}]}
+{"op":"mcm","clk":"7609075495","pt":1539056436670,"mc":[{"id":"1.149209271","rc":[{"ltp":1.43,"id":8859316}]}]}
+{"op":"mcm","clk":"7609077242","pt":1539056498955,"mc":[{"id":"1.149209271","rc":[{"ltp":1.38,"id":8859316}]}]}
+{"op":"mcm","clk":"7609079638","pt":1539056558518,"mc":[{"id":"1.149209271","rc":[{"ltp":1.41,"id":8859316}]}]}
+{"op":"mcm","clk":"7609081316","pt":1539056619130,"mc":[{"id":"1.149209271","rc":[{"ltp":1.43,"id":8859316},{"ltp":3.5,"id":7797904}]}]}
+{"op":"mcm","clk":"7609083147","pt":1539056677188,"mc":[{"id":"1.149209271","rc":[{"ltp":1.31,"id":8859316},{"ltp":4.3,"id":7797904}]}]}
+{"op":"mcm","clk":"7609085368","pt":1539056739127,"mc":[{"id":"1.149209271","rc":[{"ltp":1.2,"id":8859316}]}]}
+{"op":"mcm","clk":"7609087548","pt":1539056799167,"mc":[{"id":"1.149209271","rc":[{"ltp":1.37,"id":8859316},{"ltp":5.0,"id":7797904}]}]}
+{"op":"mcm","clk":"7609089714","pt":1539056859126,"mc":[{"id":"1.149209271","rc":[{"ltp":1.4,"id":8859316},{"ltp":3.9,"id":7797904}]}]}
+{"op":"mcm","clk":"7609091988","pt":1539056918587,"mc":[{"id":"1.149209271","rc":[{"ltp":1.43,"id":8859316}]}]}
+{"op":"mcm","clk":"7609094432","pt":1539056979170,"mc":[{"id":"1.149209271","rc":[{"ltp":1.44,"id":8859316},{"ltp":3.4,"id":7797904}]}]}
+{"op":"mcm","clk":"7609096300","pt":1539057039115,"mc":[{"id":"1.149209271","rc":[{"ltp":1.5,"id":8859316},{"ltp":3.0,"id":7797904}]}]}
+{"op":"mcm","clk":"7609098156","pt":1539057097982,"mc":[{"id":"1.149209271","rc":[{"ltp":1.51,"id":8859316}]}]}
+{"op":"mcm","clk":"7609107982","pt":1539057158567,"mc":[{"id":"1.149209271","rc":[{"ltp":1.53,"id":8859316},{"ltp":3.2,"id":7797904}]}]}
+{"op":"mcm","clk":"7609110084","pt":1539057215487,"mc":[{"id":"1.149209271","rc":[{"ltp":1.44,"id":8859316}]}]}
+{"op":"mcm","clk":"7609112309","pt":1539057275904,"mc":[{"id":"1.149209271","rc":[{"ltp":1.37,"id":8859316}]}]}
+{"op":"mcm","clk":"7609114730","pt":1539057337927,"mc":[{"id":"1.149209271","rc":[{"ltp":1.29,"id":8859316}]}]}
+{"op":"mcm","clk":"7609117070","pt":1539057398019,"mc":[{"id":"1.149209271","rc":[{"ltp":1.38,"id":8859316}]}]}
+{"op":"mcm","clk":"7609119566","pt":1539057457209,"mc":[{"id":"1.149209271","rc":[{"ltp":1.51,"id":8859316}]}]}
+{"op":"mcm","clk":"7609121705","pt":1539057516662,"mc":[{"id":"1.149209271","rc":[{"ltp":1.48,"id":8859316},{"ltp":3.05,"id":7797904}]}]}
+{"op":"mcm","clk":"7609124148","pt":1539057579047,"mc":[{"id":"1.149209271","rc":[{"ltp":1.6,"id":8859316}]}]}
+{"op":"mcm","clk":"7609126541","pt":1539057638967,"mc":[{"id":"1.149209271","rc":[{"ltp":1.57,"id":8859316}]}]}
+{"op":"mcm","clk":"7609131395","pt":1539057756886,"mc":[{"id":"1.149209271","rc":[{"ltp":1.45,"id":8859316}]}]}
+{"op":"mcm","clk":"7609134664","pt":1539057819091,"mc":[{"id":"1.149209271","rc":[{"ltp":1.44,"id":8859316},{"ltp":3.15,"id":7797904}]}]}
+{"op":"mcm","clk":"7609136446","pt":1539057877749,"mc":[{"id":"1.149209271","rc":[{"ltp":1.84,"id":8859316},{"ltp":2.4,"id":7797904}]}]}
+{"op":"mcm","clk":"7609138301","pt":1539057939094,"mc":[{"id":"1.149209271","rc":[{"ltp":2.06,"id":8859316},{"ltp":1.93,"id":7797904}]}]}
+{"op":"mcm","clk":"7609140268","pt":1539057999159,"mc":[{"id":"1.149209271","rc":[{"ltp":2.36,"id":8859316},{"ltp":1.73,"id":7797904}]}]}
+{"op":"mcm","clk":"7609149855","pt":1539058058955,"mc":[{"id":"1.149209271","rc":[{"ltp":2.56,"id":8859316},{"ltp":1.63,"id":7797904}]}]}
+{"op":"mcm","clk":"7609151866","pt":1539058119075,"mc":[{"id":"1.149209271","rc":[{"ltp":2.52,"id":8859316},{"ltp":1.66,"id":7797904}]}]}
+{"op":"mcm","clk":"7609153717","pt":1539058178699,"mc":[{"id":"1.149209271","rc":[{"ltp":2.5,"id":8859316},{"ltp":1.67,"id":7797904}]}]}
+{"op":"mcm","clk":"7609155322","pt":1539058238865,"mc":[{"id":"1.149209271","rc":[{"ltp":3.35,"id":8859316},{"ltp":1.58,"id":7797904}]}]}
+{"op":"mcm","clk":"7609156975","pt":1539058299088,"mc":[{"id":"1.149209271","rc":[{"ltp":3.2,"id":8859316}]}]}
+{"op":"mcm","clk":"7609158739","pt":1539058355610,"mc":[{"id":"1.149209271","rc":[{"ltp":3.15,"id":8859316},{"ltp":1.46,"id":7797904}]}]}
+{"op":"mcm","clk":"7609160890","pt":1539058418755,"mc":[{"id":"1.149209271","rc":[{"ltp":2.62,"id":8859316},{"ltp":1.72,"id":7797904}]}]}
+{"op":"mcm","clk":"7609162804","pt":1539058476154,"mc":[{"id":"1.149209271","rc":[{"ltp":2.38,"id":8859316},{"ltp":1.68,"id":7797904}]}]}
+{"op":"mcm","clk":"7609164912","pt":1539058538977,"mc":[{"id":"1.149209271","rc":[{"ltp":2.72,"id":8859316},{"ltp":1.59,"id":7797904}]}]}
+{"op":"mcm","clk":"7609167054","pt":1539058598155,"mc":[{"id":"1.149209271","rc":[{"ltp":2.68,"id":8859316},{"ltp":1.68,"id":7797904}]}]}
+{"op":"mcm","clk":"7609169097","pt":1539058655481,"mc":[{"id":"1.149209271","rc":[{"ltp":2.48,"id":8859316},{"ltp":1.67,"id":7797904}]}]}
+{"op":"mcm","clk":"7609170996","pt":1539058719160,"mc":[{"id":"1.149209271","rc":[{"ltp":2.46,"id":8859316},{"ltp":1.68,"id":7797904}]}]}
+{"op":"mcm","clk":"7609172961","pt":1539058778821,"mc":[{"id":"1.149209271","rc":[{"ltp":2.5,"id":8859316},{"ltp":1.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7609174995","pt":1539058838731,"mc":[{"id":"1.149209271","rc":[{"ltp":2.6,"id":8859316},{"ltp":1.63,"id":7797904}]}]}
+{"op":"mcm","clk":"7609177004","pt":1539058898805,"mc":[{"id":"1.149209271","rc":[{"ltp":3.0,"id":8859316},{"ltp":1.48,"id":7797904}]}]}
+{"op":"mcm","clk":"7609186742","pt":1539058959138,"mc":[{"id":"1.149209271","rc":[{"ltp":2.56,"id":8859316},{"ltp":1.64,"id":7797904}]}]}
+{"op":"mcm","clk":"7609188524","pt":1539059018540,"mc":[{"id":"1.149209271","rc":[{"ltp":2.44,"id":8859316},{"ltp":1.69,"id":7797904}]}]}
+{"op":"mcm","clk":"7609190540","pt":1539059079103,"mc":[{"id":"1.149209271","rc":[{"ltp":2.56,"id":8859316},{"ltp":1.64,"id":7797904}]}]}
+{"op":"mcm","clk":"7609192723","pt":1539059138570,"mc":[{"id":"1.149209271","rc":[{"ltp":1.58,"id":7797904}]}]}
+{"op":"mcm","clk":"7609195355","pt":1539059198560,"mc":[{"id":"1.149209271","rc":[{"ltp":3.0,"id":8859316},{"ltp":1.49,"id":7797904}]}]}
+{"op":"mcm","clk":"7609197903","pt":1539059258862,"mc":[{"id":"1.149209271","rc":[{"ltp":6.0,"id":8859316},{"ltp":1.19,"id":7797904}]}]}
+{"op":"mcm","clk":"7609200021","pt":1539059319124,"mc":[{"id":"1.149209271","rc":[{"ltp":11.0,"id":8859316},{"ltp":1.1,"id":7797904}]}]}
+{"op":"mcm","clk":"7609202119","pt":1539059377847,"mc":[{"id":"1.149209271","rc":[{"ltp":12.0,"id":8859316}]}]}
+{"op":"mcm","clk":"7609204227","pt":1539059438731,"mc":[{"id":"1.149209271","rc":[{"ltp":13.5,"id":8859316},{"ltp":1.08,"id":7797904}]}]}
+{"op":"mcm","clk":"7609206197","pt":1539059498555,"mc":[{"id":"1.149209271","rc":[{"ltp":15.5,"id":8859316},{"ltp":1.13,"id":7797904}]}]}
+{"op":"mcm","clk":"7609212074","pt":1539059619101,"mc":[{"id":"1.149209271","rc":[{"ltp":5.1,"id":8859316},{"ltp":1.62,"id":7797904}]}]}
+{"op":"mcm","clk":"7609214336","pt":1539059678874,"mc":[{"id":"1.149209271","rc":[{"ltp":2.6,"id":8859316},{"ltp":1.6,"id":7797904}]}]}
+{"op":"mcm","clk":"7609216171","pt":1539059738223,"mc":[{"id":"1.149209271","rc":[{"ltp":2.5,"id":8859316},{"ltp":1.66,"id":7797904}]}]}
+{"op":"mcm","clk":"7609228315","pt":1539059857919,"mc":[{"id":"1.149209271","rc":[{"ltp":2.6,"id":8859316},{"ltp":1.52,"id":7797904}]}]}
+{"op":"mcm","clk":"7609230431","pt":1539059918609,"mc":[{"id":"1.149209271","rc":[{"ltp":2.42,"id":8859316},{"ltp":1.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7609232649","pt":1539059978881,"mc":[{"id":"1.149209271","rc":[{"ltp":2.54,"id":8859316},{"ltp":1.65,"id":7797904}]}]}
+{"op":"mcm","clk":"7609234784","pt":1539060039172,"mc":[{"id":"1.149209271","rc":[{"ltp":1.58,"id":7797904}]}]}
+{"op":"mcm","clk":"7609237294","pt":1539060097485,"mc":[{"id":"1.149209271","rc":[{"ltp":2.3,"id":8859316},{"ltp":1.77,"id":7797904}]}]}
+{"op":"mcm","clk":"7609239669","pt":1539060159052,"mc":[{"id":"1.149209271","rc":[{"ltp":2.68,"id":8859316},{"ltp":1.58,"id":7797904}]}]}
+{"op":"mcm","clk":"7609242056","pt":1539060218968,"mc":[{"id":"1.149209271","rc":[{"ltp":3.15,"id":8859316},{"ltp":1.54,"id":7797904}]}]}
+{"op":"mcm","clk":"7609244291","pt":1539060278577,"mc":[{"id":"1.149209271","rc":[{"ltp":2.46,"id":8859316},{"ltp":1.67,"id":7797904}]}]}
+{"op":"mcm","clk":"7609246628","pt":1539060338212,"mc":[{"id":"1.149209271","rc":[{"ltp":2.56,"id":8859316},{"ltp":1.7,"id":7797904}]}]}
+{"op":"mcm","clk":"7609248909","pt":1539060398672,"mc":[{"id":"1.149209271","rc":[{"ltp":2.32,"id":8859316},{"ltp":1.75,"id":7797904}]}]}
+{"op":"mcm","clk":"7609251344","pt":1539060458972,"mc":[{"id":"1.149209271","rc":[{"ltp":2.68,"id":8859316},{"ltp":1.66,"id":7797904}]}]}
+{"op":"mcm","clk":"7609253908","pt":1539060518811,"mc":[{"id":"1.149209271","rc":[{"ltp":2.2,"id":8859316}]}]}
+{"op":"mcm","clk":"7609256867","pt":1539060579120,"mc":[{"id":"1.149209271","rc":[{"ltp":2.62,"id":8859316},{"ltp":1.6,"id":7797904}]}]}
+{"op":"mcm","clk":"7609259597","pt":1539060638657,"mc":[{"id":"1.149209271","rc":[{"ltp":2.28,"id":8859316},{"ltp":1.5,"id":7797904}]}]}
+{"op":"mcm","clk":"7609262433","pt":1539060699046,"mc":[{"id":"1.149209271","rc":[{"ltp":3.2,"id":8859316},{"ltp":1.32,"id":7797904}]}]}
+{"op":"mcm","clk":"7609273022","pt":1539060757288,"mc":[{"id":"1.149209271","rc":[{"ltp":2.76,"id":8859316},{"ltp":1.57,"id":7797904}]}]}
+{"op":"mcm","clk":"7609275441","pt":1539060819178,"mc":[{"id":"1.149209271","rc":[{"ltp":3.35,"id":8859316},{"ltp":1.42,"id":7797904}]}]}
+{"op":"mcm","clk":"7609277827","pt":1539060879035,"mc":[{"id":"1.149209271","rc":[{"ltp":7.2,"id":8859316},{"ltp":1.15,"id":7797904}]}]}
+{"op":"mcm","clk":"7609280243","pt":1539060938899,"mc":[{"id":"1.149209271","rc":[{"ltp":5.1,"id":8859316},{"ltp":1.21,"id":7797904}]}]}
+{"op":"mcm","clk":"7609282701","pt":1539060999127,"mc":[{"id":"1.149209271","rc":[{"ltp":4.2,"id":8859316},{"ltp":1.3,"id":7797904}]}]}
+{"op":"mcm","clk":"7609284950","pt":1539061056792,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T02:59:00.000Z","suspendTime":"2018-10-09T02:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"ACTIVE","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T02:59:00.000Z","version":2447056009,"name":"Match Odds","eventName":"Opelka v Miedler"},"rc":[{"ltp":4.3,"id":8859316},{"ltp":1.28,"id":7797904}]}]}
+{"op":"mcm","clk":"7609288284","pt":1539061148852,"mc":[{"id":"1.149209271","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28943536","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T02:59:00.000Z","suspendTime":"2018-10-09T02:59:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T04:58:59.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8859316,"name":"Reilly Opelka"},{"status":"WINNER","sortPriority":2,"id":7797904,"name":"Lucas Miedler"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T02:59:00.000Z","version":2447057403,"name":"Match Odds","eventName":"Opelka v Miedler"}}]}

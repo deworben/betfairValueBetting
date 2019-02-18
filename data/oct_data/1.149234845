@@ -1,0 +1,161 @@
+{"op":"mcm","clk":"7595218572","pt":1538916627742,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2443833178,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7601230131","pt":1538948244142,"mc":[{"id":"1.149234845","rc":[{"ltp":1.08,"id":5611697}]}]}
+{"op":"mcm","clk":"7601258722","pt":1538948624856,"mc":[{"id":"1.149234845","rc":[{"ltp":13.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7601262553","pt":1538948676702,"mc":[{"id":"1.149234845","rc":[{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7601532652","pt":1538952029146,"mc":[{"id":"1.149234845","rc":[{"ltp":12.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7601933079","pt":1538958009352,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2445880626,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7603199321","pt":1538988969854,"mc":[{"id":"1.149234845","rc":[{"ltp":13.5,"id":6438801},{"ltp":1.08,"id":5611697}]}]}
+{"op":"mcm","clk":"7608040047","pt":1539036859171,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7608508830","pt":1539044382775,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2446939003,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7608879866","pt":1539051726831,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7609395671","pt":1539063219381,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7609602288","pt":1539067259931,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7609612728","pt":1539067476840,"mc":[{"id":"1.149234845","rc":[{"ltp":1.08,"id":5611697}]}]}
+{"op":"mcm","clk":"7610012062","pt":1539074404813,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7610563194","pt":1539081614747,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7610736087","pt":1539083860162,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7611004708","pt":1539087186526,"mc":[{"id":"1.149234845","rc":[{"ltp":12.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7611472912","pt":1539093561233,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T14:00:00.000Z","suspendTime":"2018-10-10T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T14:00:00.000Z","version":2447360028,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7611754946","pt":1539097123109,"mc":[{"id":"1.149234845","rc":[{"ltp":11.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7612116326","pt":1539102156337,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7612833471","pt":1539110162945,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7613670632","pt":1539116011819,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7613976754","pt":1539120549321,"mc":[{"id":"1.149234845","rc":[{"ltp":8.4,"id":6438801}]}]}
+{"op":"mcm","clk":"7614249107","pt":1539127320632,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7615325295","pt":1539146974020,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7615347227","pt":1539147325121,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7615353171","pt":1539147502757,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7615624260","pt":1539152163285,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7615833439","pt":1539155895731,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7616049882","pt":1539159190364,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7616223419","pt":1539161805615,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7616468218","pt":1539164911197,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7616533427","pt":1539165685607,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7616538878","pt":1539165751672,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7616559597","pt":1539165990465,"mc":[{"id":"1.149234845","rc":[{"ltp":9.6,"id":6438801}]}]}
+{"op":"mcm","clk":"7616632274","pt":1539166610605,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7616657140","pt":1539166842948,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7616773324","pt":1539167838996,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7617075604","pt":1539170494468,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7617444668","pt":1539173490547,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7617451182","pt":1539173546701,"mc":[{"id":"1.149234845","rc":[{"ltp":11.5,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7617698971","pt":1539175662259,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7617853789","pt":1539176859811,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7617931965","pt":1539177404248,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7617938875","pt":1539177451372,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618035878","pt":1539178050056,"mc":[{"id":"1.149234845","rc":[{"ltp":12.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7618085601","pt":1539178400164,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618098618","pt":1539178484791,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7618100762","pt":1539178498653,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618107914","pt":1539178546066,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618167225","pt":1539178896461,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618231210","pt":1539179378109,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618264998","pt":1539179587915,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618298348","pt":1539179849864,"mc":[{"id":"1.149234845","rc":[{"ltp":11.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7618314832","pt":1539179976507,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T14:15:00.000Z","suspendTime":"2018-10-10T14:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T14:15:00.000Z","version":2448571523,"name":"Match Odds","eventName":"Haas v Bertens"},"rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7618331660","pt":1539180098162,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618442030","pt":1539180822400,"mc":[{"id":"1.149234845","rc":[{"ltp":11.5,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618450442","pt":1539180883794,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T14:30:00.000Z","suspendTime":"2018-10-10T14:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T14:30:00.000Z","version":2448596112,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618466771","pt":1539181004362,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7618482930","pt":1539181121049,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618488008","pt":1539181160358,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618577459","pt":1539181784036,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T14:45:00.000Z","suspendTime":"2018-10-10T14:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T14:45:00.000Z","version":2448613437,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618670410","pt":1539182444666,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618683316","pt":1539182563630,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618695209","pt":1539182672327,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:00:00.000Z","suspendTime":"2018-10-10T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:00:00.000Z","version":2448629770,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618767006","pt":1539183337457,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7618771088","pt":1539183396571,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618784969","pt":1539183577114,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:15:00.000Z","suspendTime":"2018-10-10T15:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:15:00.000Z","version":2448659174,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618790569","pt":1539183642654,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7618795366","pt":1539183703189,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7618799953","pt":1539183760674,"mc":[{"id":"1.149234845","rc":[{"ltp":9.4,"id":6438801},{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7618804655","pt":1539183815885,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7618810810","pt":1539183884746,"mc":[{"id":"1.149234845","rc":[{"ltp":1.13,"id":5611697}]}]}
+{"op":"mcm","clk":"7618821494","pt":1539183989794,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7618837759","pt":1539184058720,"mc":[{"id":"1.149234845","rc":[{"ltp":9.0,"id":6438801},{"ltp":1.13,"id":5611697}]}]}
+{"op":"mcm","clk":"7618860699","pt":1539184300313,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7618865733","pt":1539184355328,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7618870454","pt":1539184403820,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7618877140","pt":1539184473042,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:30:00.000Z","suspendTime":"2018-10-10T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:30:00.000Z","version":2448688397,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618883677","pt":1539184542175,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7618934877","pt":1539184994547,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7618956773","pt":1539185244843,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7618968872","pt":1539185376431,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:45:00.000Z","suspendTime":"2018-10-10T15:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:45:00.000Z","version":2448704202,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7618991222","pt":1539185607617,"mc":[{"id":"1.149234845","rc":[{"ltp":9.4,"id":6438801}]}]}
+{"op":"mcm","clk":"7619045222","pt":1539186041931,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619070063","pt":1539186283783,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T16:00:00.000Z","suspendTime":"2018-10-10T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T16:00:00.000Z","version":2448735080,"name":"Match Odds","eventName":"Haas v Bertens"},"rc":[{"ltp":11.0,"id":6438801},{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7619082381","pt":1539186400747,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619094800","pt":1539186523528,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619101421","pt":1539186583940,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:46:00.000Z","suspendTime":"2018-10-10T15:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:46:00.000Z","version":2448742909,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7619106927","pt":1539186643760,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7619112572","pt":1539186701787,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619128295","pt":1539186763552,"mc":[{"id":"1.149234845","rc":[{"ltp":9.6,"id":6438801},{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7619134376","pt":1539186823667,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619140131","pt":1539186883590,"mc":[{"id":"1.149234845","rc":[{"ltp":10.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7619151159","pt":1539187003544,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619156840","pt":1539187063605,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619167558","pt":1539187183375,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619173032","pt":1539187243698,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619178827","pt":1539187303992,"mc":[{"id":"1.149234845","rc":[{"ltp":10.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7619184730","pt":1539187364633,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:46:00.000Z","suspendTime":"2018-10-10T15:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:46:00.000Z","version":2448778074,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7619191162","pt":1539187424266,"mc":[{"id":"1.149234845","rc":[{"ltp":8.0,"id":6438801},{"ltp":1.15,"id":5611697}]}]}
+{"op":"mcm","clk":"7619197811","pt":1539187483651,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619204690","pt":1539187544885,"mc":[{"id":"1.149234845","rc":[{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7619210955","pt":1539187604887,"mc":[{"id":"1.149234845","rc":[{"ltp":9.2,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619226267","pt":1539187664583,"mc":[{"id":"1.149234845","rc":[{"ltp":12.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619231990","pt":1539187724696,"mc":[{"id":"1.149234845","rc":[{"ltp":13.5,"id":6438801},{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7619237711","pt":1539187784880,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619243183","pt":1539187843561,"mc":[{"id":"1.149234845","rc":[{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619248536","pt":1539187900261,"mc":[{"id":"1.149234845","rc":[{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619254725","pt":1539187963177,"mc":[{"id":"1.149234845","rc":[{"ltp":1.12,"id":5611697}]}]}
+{"op":"mcm","clk":"7619260720","pt":1539188024815,"mc":[{"id":"1.149234845","rc":[{"ltp":9.4,"id":6438801}]}]}
+{"op":"mcm","clk":"7619267258","pt":1539188084712,"mc":[{"id":"1.149234845","rc":[{"ltp":8.6,"id":6438801},{"ltp":1.11,"id":5611697}]}]}
+{"op":"mcm","clk":"7619273325","pt":1539188144365,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619278810","pt":1539188204535,"mc":[{"id":"1.149234845","rc":[{"ltp":11.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619284230","pt":1539188263051,"mc":[{"id":"1.149234845","rc":[{"ltp":11.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7619289864","pt":1539188324799,"mc":[{"id":"1.149234845","rc":[{"ltp":15.5,"id":6438801},{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619294937","pt":1539188384857,"mc":[{"id":"1.149234845","rc":[{"ltp":13.5,"id":6438801},{"ltp":1.08,"id":5611697}]}]}
+{"op":"mcm","clk":"7619300174","pt":1539188444730,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619305471","pt":1539188504730,"mc":[{"id":"1.149234845","rc":[{"ltp":15.0,"id":6438801},{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619319767","pt":1539188564781,"mc":[{"id":"1.149234845","rc":[{"ltp":18.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619324964","pt":1539188624399,"mc":[{"id":"1.149234845","rc":[{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619330021","pt":1539188684597,"mc":[{"id":"1.149234845","rc":[{"ltp":17.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7619335306","pt":1539188744294,"mc":[{"id":"1.149234845","rc":[{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619340889","pt":1539188804450,"mc":[{"id":"1.149234845","rc":[{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619346301","pt":1539188864832,"mc":[{"id":"1.149234845","rc":[{"ltp":13.5,"id":6438801},{"ltp":1.08,"id":5611697}]}]}
+{"op":"mcm","clk":"7619351583","pt":1539188924799,"mc":[{"id":"1.149234845","rc":[{"ltp":12.5,"id":6438801},{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619356846","pt":1539188984533,"mc":[{"id":"1.149234845","rc":[{"ltp":21.0,"id":6438801},{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619373881","pt":1539189161986,"mc":[{"id":"1.149234845","rc":[{"ltp":20.0,"id":6438801},{"ltp":1.05,"id":5611697}]}]}
+{"op":"mcm","clk":"7619380643","pt":1539189224790,"mc":[{"id":"1.149234845","rc":[{"ltp":21.0,"id":6438801},{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619387193","pt":1539189284574,"mc":[{"id":"1.149234845","rc":[{"ltp":17.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619394031","pt":1539189343167,"mc":[{"id":"1.149234845","rc":[{"ltp":12.5,"id":6438801},{"ltp":1.09,"id":5611697}]}]}
+{"op":"mcm","clk":"7619417879","pt":1539189464829,"mc":[{"id":"1.149234845","rc":[{"ltp":10.0,"id":6438801},{"ltp":1.1,"id":5611697}]}]}
+{"op":"mcm","clk":"7619425251","pt":1539189524741,"mc":[{"id":"1.149234845","rc":[{"ltp":13.5,"id":6438801},{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619440735","pt":1539189644747,"mc":[{"id":"1.149234845","rc":[{"ltp":15.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619456276","pt":1539189764876,"mc":[{"id":"1.149234845","rc":[{"ltp":18.5,"id":6438801},{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619464208","pt":1539189824583,"mc":[{"id":"1.149234845","rc":[{"ltp":17.5,"id":6438801}]}]}
+{"op":"mcm","clk":"7619472052","pt":1539189883920,"mc":[{"id":"1.149234845","rc":[{"ltp":18.0,"id":6438801},{"ltp":1.07,"id":5611697}]}]}
+{"op":"mcm","clk":"7619479678","pt":1539189944112,"mc":[{"id":"1.149234845","rc":[{"ltp":15.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619486972","pt":1539190002301,"mc":[{"id":"1.149234845","rc":[{"ltp":19.5,"id":6438801},{"ltp":1.05,"id":5611697}]}]}
+{"op":"mcm","clk":"7619494936","pt":1539190064704,"mc":[{"id":"1.149234845","rc":[{"ltp":26.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619502062","pt":1539190124760,"mc":[{"id":"1.149234845","rc":[{"ltp":1.04,"id":5611697}]}]}
+{"op":"mcm","clk":"7619508792","pt":1539190184693,"mc":[{"id":"1.149234845","rc":[{"ltp":22.0,"id":6438801},{"ltp":1.05,"id":5611697}]}]}
+{"op":"mcm","clk":"7619515879","pt":1539190243173,"mc":[{"id":"1.149234845","rc":[{"ltp":25.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619523484","pt":1539190304570,"mc":[{"id":"1.149234845","rc":[{"ltp":18.0,"id":6438801},{"ltp":1.06,"id":5611697}]}]}
+{"op":"mcm","clk":"7619539700","pt":1539190362834,"mc":[{"id":"1.149234845","rc":[{"ltp":21.0,"id":6438801},{"ltp":1.05,"id":5611697}]}]}
+{"op":"mcm","clk":"7619546472","pt":1539190423202,"mc":[{"id":"1.149234845","rc":[{"ltp":18.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619553525","pt":1539190484578,"mc":[{"id":"1.149234845","rc":[{"ltp":34.0,"id":6438801},{"ltp":1.04,"id":5611697}]}]}
+{"op":"mcm","clk":"7619560978","pt":1539190544870,"mc":[{"id":"1.149234845","rc":[{"ltp":42.0,"id":6438801},{"ltp":1.03,"id":5611697}]}]}
+{"op":"mcm","clk":"7619567833","pt":1539190603775,"mc":[{"id":"1.149234845","rc":[{"ltp":90.0,"id":6438801},{"ltp":1.02,"id":5611697}]}]}
+{"op":"mcm","clk":"7619574427","pt":1539190664838,"mc":[{"id":"1.149234845","rc":[{"ltp":50.0,"id":6438801},{"ltp":1.03,"id":5611697}]}]}
+{"op":"mcm","clk":"7619580223","pt":1539190724467,"mc":[{"id":"1.149234845","rc":[{"ltp":60.0,"id":6438801},{"ltp":1.02,"id":5611697}]}]}
+{"op":"mcm","clk":"7619593517","pt":1539190844856,"mc":[{"id":"1.149234845","rc":[{"ltp":100.0,"id":6438801},{"ltp":1.01,"id":5611697}]}]}
+{"op":"mcm","clk":"7619600289","pt":1539190904716,"mc":[{"id":"1.149234845","rc":[{"ltp":110.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619613483","pt":1539191024390,"mc":[{"id":"1.149234845","rc":[{"ltp":100.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619635782","pt":1539191204613,"mc":[{"id":"1.149234845","rc":[{"ltp":110.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619657581","pt":1539191310118,"mc":[{"id":"1.149234845","rc":[{"ltp":160.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619674318","pt":1539191444558,"mc":[{"id":"1.149234845","rc":[{"ltp":290.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619695689","pt":1539191617387,"mc":[{"id":"1.149234845","rc":[{"ltp":970.0,"id":6438801}]}]}
+{"op":"mcm","clk":"7619710087","pt":1539191739756,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:46:00.000Z","suspendTime":"2018-10-10T15:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:46:00.000Z","version":2448880939,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7619715190","pt":1539191782368,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:46:00.000Z","suspendTime":"2018-10-10T15:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"ACTIVE","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:46:00.000Z","version":2448882177,"name":"Match Odds","eventName":"Haas v Bertens"}}]}
+{"op":"mcm","clk":"7619746254","pt":1539192036586,"mc":[{"id":"1.149234845","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944625","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T15:46:00.000Z","suspendTime":"2018-10-10T15:46:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T17:20:21.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":6438801,"name":"Barbara Haas"},{"status":"WINNER","sortPriority":2,"id":5611697,"name":"Kiki Bertens"}],"regulators":["MR_INT"],"countryCode":"AT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T15:46:00.000Z","version":2448888771,"name":"Match Odds","eventName":"Haas v Bertens"}}]}

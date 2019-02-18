@@ -1,0 +1,103 @@
+{"op":"mcm","clk":"7679352399","pt":1539845593859,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T12:00:00.000Z","version":2460324056,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7679360642","pt":1539845769630,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T12:00:00.000Z","version":2460324056,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7679939075","pt":1539853190528,"mc":[{"id":"1.149747866","rc":[{"ltp":1.75,"id":9627862}]}]}
+{"op":"mcm","clk":"7680055016","pt":1539854457103,"mc":[{"id":"1.149747866","rc":[{"ltp":1.77,"id":9627862}]}]}
+{"op":"mcm","clk":"7681017422","pt":1539863739381,"mc":[{"id":"1.149747866","rc":[{"ltp":2.28,"id":11120149}]}]}
+{"op":"mcm","clk":"7681034979","pt":1539863946403,"mc":[{"id":"1.149747866","rc":[{"ltp":1.72,"id":9627862}]}]}
+{"op":"mcm","clk":"7681122424","pt":1539864734090,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T14:00:00.000Z","version":2460497542,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7681492154","pt":1539868104637,"mc":[{"id":"1.149747866","rc":[{"ltp":1.7,"id":9627862}]}]}
+{"op":"mcm","clk":"7681700022","pt":1539870252379,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T15:00:00.000Z","version":2460571426,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7681853421","pt":1539871867465,"mc":[{"id":"1.149747866","rc":[{"ltp":1.67,"id":9627862}]}]}
+{"op":"mcm","clk":"7682299462","pt":1539876610264,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-18T15:00:00.000Z","version":2460652586,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7682622716","pt":1539880221763,"mc":[{"id":"1.149747866","rc":[{"ltp":2.12,"id":11120149},{"ltp":1.9,"id":9627862}]}]}
+{"op":"mcm","clk":"7683012374","pt":1539884771189,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:00:00.000Z","version":2460772085,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7683592986","pt":1539890788447,"mc":[{"id":"1.149747866","rc":[{"ltp":1.7,"id":9627862}]}]}
+{"op":"mcm","clk":"7684453215","pt":1539900665539,"mc":[{"id":"1.149747866","rc":[{"ltp":1.89,"id":9627862}]}]}
+{"op":"mcm","clk":"7684458067","pt":1539900734470,"mc":[{"id":"1.149747866","rc":[{"ltp":1.68,"id":9627862}]}]}
+{"op":"mcm","clk":"7684943269","pt":1539906829554,"mc":[{"id":"1.149747866","rc":[{"ltp":1.7,"id":9627862}]}]}
+{"op":"mcm","clk":"7685673085","pt":1539917676798,"mc":[{"id":"1.149747866","rc":[{"ltp":2.14,"id":11120149}]}]}
+{"op":"mcm","clk":"7686776442","pt":1539932863037,"mc":[{"id":"1.149747866","rc":[{"ltp":1.76,"id":9627862}]}]}
+{"op":"mcm","clk":"7686800471","pt":1539933260360,"mc":[{"id":"1.149747866","rc":[{"ltp":1.75,"id":9627862}]}]}
+{"op":"mcm","clk":"7686861149","pt":1539934001996,"mc":[{"id":"1.149747866","rc":[{"ltp":1.76,"id":9627862}]}]}
+{"op":"mcm","clk":"7687141402","pt":1539937482075,"mc":[{"id":"1.149747866","rc":[{"ltp":2.12,"id":11120149}]}]}
+{"op":"mcm","clk":"7687406154","pt":1539940438364,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:13:54.000Z","version":2461279055,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}
+{"op":"mcm","clk":"7687417926","pt":1539940586286,"mc":[{"id":"1.149747866","rc":[{"ltp":1.73,"id":9627862}]}]}
+{"op":"mcm","clk":"7687434296","pt":1539940765353,"mc":[{"id":"1.149747866","rc":[{"ltp":1.76,"id":9627862}]}]}
+{"op":"mcm","clk":"7687466956","pt":1539940944232,"mc":[{"id":"1.149747866","rc":[{"ltp":1.6,"id":9627862}]}]}
+{"op":"mcm","clk":"7687472330","pt":1539941003525,"mc":[{"id":"1.149747866","rc":[{"ltp":1.51,"id":9627862}]}]}
+{"op":"mcm","clk":"7687482999","pt":1539941126522,"mc":[{"id":"1.149747866","rc":[{"ltp":2.64,"id":11120149},{"ltp":1.54,"id":9627862}]}]}
+{"op":"mcm","clk":"7687487753","pt":1539941182958,"mc":[{"id":"1.149747866","rc":[{"ltp":1.51,"id":9627862}]}]}
+{"op":"mcm","clk":"7687497434","pt":1539941246902,"mc":[{"id":"1.149747866","rc":[{"ltp":1.48,"id":9627862}]}]}
+{"op":"mcm","clk":"7687502905","pt":1539941302080,"mc":[{"id":"1.149747866","rc":[{"ltp":3.0,"id":11120149},{"ltp":1.49,"id":9627862}]}]}
+{"op":"mcm","clk":"7687537848","pt":1539941724030,"mc":[{"id":"1.149747866","rc":[{"ltp":1.34,"id":9627862}]}]}
+{"op":"mcm","clk":"7687543120","pt":1539941787713,"mc":[{"id":"1.149747866","rc":[{"ltp":4.1,"id":11120149},{"ltp":1.33,"id":9627862}]}]}
+{"op":"mcm","clk":"7687562845","pt":1539941832110,"mc":[{"id":"1.149747866","rc":[{"ltp":3.8,"id":11120149},{"ltp":1.36,"id":9627862}]}]}
+{"op":"mcm","clk":"7687578274","pt":1539942020007,"mc":[{"id":"1.149747866","rc":[{"ltp":3.3,"id":11120149}]}]}
+{"op":"mcm","clk":"7687582308","pt":1539942062938,"mc":[{"id":"1.149747866","rc":[{"ltp":4.1,"id":11120149},{"ltp":1.33,"id":9627862}]}]}
+{"op":"mcm","clk":"7687617871","pt":1539942504083,"mc":[{"id":"1.149747866","rc":[{"ltp":1.37,"id":9627862}]}]}
+{"op":"mcm","clk":"7687632542","pt":1539942687763,"mc":[{"id":"1.149747866","rc":[{"ltp":1.45,"id":9627862}]}]}
+{"op":"mcm","clk":"7687657492","pt":1539942806062,"mc":[{"id":"1.149747866","rc":[{"ltp":3.55,"id":11120149},{"ltp":1.34,"id":9627862}]}]}
+{"op":"mcm","clk":"7687661906","pt":1539942865777,"mc":[{"id":"1.149747866","rc":[{"ltp":1.26,"id":9627862}]}]}
+{"op":"mcm","clk":"7687689027","pt":1539943205806,"mc":[{"id":"1.149747866","rc":[{"ltp":1.18,"id":9627862}]}]}
+{"op":"mcm","clk":"7687748236","pt":1539943626094,"mc":[{"id":"1.149747866","rc":[{"ltp":1.9,"id":9627862}]}]}
+{"op":"mcm","clk":"7687762464","pt":1539943765823,"mc":[{"id":"1.149747866","rc":[{"ltp":3.45,"id":11120149},{"ltp":1.41,"id":9627862}]}]}
+{"op":"mcm","clk":"7687791498","pt":1539944007296,"mc":[{"id":"1.149747866","rc":[{"ltp":1.58,"id":9627862}]}]}
+{"op":"mcm","clk":"7687803625","pt":1539944123928,"mc":[{"id":"1.149747866","rc":[{"ltp":1.63,"id":9627862}]}]}
+{"op":"mcm","clk":"7687835093","pt":1539944427797,"mc":[{"id":"1.149747866","rc":[{"ltp":1.69,"id":11120149}]}]}
+{"op":"mcm","clk":"7687841228","pt":1539944486966,"mc":[{"id":"1.149747866","rc":[{"ltp":2.44,"id":9627862}]}]}
+{"op":"mcm","clk":"7687863784","pt":1539944547519,"mc":[{"id":"1.149747866","rc":[{"ltp":2.12,"id":11120149},{"ltp":1.9,"id":9627862}]}]}
+{"op":"mcm","clk":"7687869892","pt":1539944606396,"mc":[{"id":"1.149747866","rc":[{"ltp":2.42,"id":11120149}]}]}
+{"op":"mcm","clk":"7687876184","pt":1539944667625,"mc":[{"id":"1.149747866","rc":[{"ltp":2.14,"id":11120149},{"ltp":1.87,"id":9627862}]}]}
+{"op":"mcm","clk":"7687883017","pt":1539944727899,"mc":[{"id":"1.149747866","rc":[{"ltp":2.72,"id":11120149},{"ltp":1.58,"id":9627862}]}]}
+{"op":"mcm","clk":"7687888346","pt":1539944779471,"mc":[{"id":"1.149747866","rc":[{"ltp":3.05,"id":11120149},{"ltp":1.48,"id":9627862}]}]}
+{"op":"mcm","clk":"7687894510","pt":1539944847459,"mc":[{"id":"1.149747866","rc":[{"ltp":3.1,"id":11120149},{"ltp":1.47,"id":9627862}]}]}
+{"op":"mcm","clk":"7687899460","pt":1539944905011,"mc":[{"id":"1.149747866","rc":[{"ltp":1.68,"id":9627862}]}]}
+{"op":"mcm","clk":"7687905334","pt":1539944966657,"mc":[{"id":"1.149747866","rc":[{"ltp":2.18,"id":11120149},{"ltp":1.84,"id":9627862}]}]}
+{"op":"mcm","clk":"7687911124","pt":1539945025666,"mc":[{"id":"1.149747866","rc":[{"ltp":2.02,"id":11120149},{"ltp":1.96,"id":9627862}]}]}
+{"op":"mcm","clk":"7687919180","pt":1539945086361,"mc":[{"id":"1.149747866","rc":[{"ltp":1.9,"id":11120149},{"ltp":2.12,"id":9627862}]}]}
+{"op":"mcm","clk":"7687931955","pt":1539945205432,"mc":[{"id":"1.149747866","rc":[{"ltp":1.85,"id":11120149},{"ltp":2.18,"id":9627862}]}]}
+{"op":"mcm","clk":"7687938988","pt":1539945266759,"mc":[{"id":"1.149747866","rc":[{"ltp":1.7,"id":11120149},{"ltp":2.26,"id":9627862}]}]}
+{"op":"mcm","clk":"7687945585","pt":1539945327727,"mc":[{"id":"1.149747866","rc":[{"ltp":1.72,"id":11120149},{"ltp":2.4,"id":9627862}]}]}
+{"op":"mcm","clk":"7687951760","pt":1539945384422,"mc":[{"id":"1.149747866","rc":[{"ltp":1.77,"id":11120149},{"ltp":2.3,"id":9627862}]}]}
+{"op":"mcm","clk":"7687980570","pt":1539945503766,"mc":[{"id":"1.149747866","rc":[{"ltp":1.98,"id":11120149},{"ltp":2.02,"id":9627862}]}]}
+{"op":"mcm","clk":"7687987223","pt":1539945567644,"mc":[{"id":"1.149747866","rc":[{"ltp":1.77,"id":11120149},{"ltp":2.3,"id":9627862}]}]}
+{"op":"mcm","clk":"7687992833","pt":1539945618307,"mc":[{"id":"1.149747866","rc":[{"ltp":1.61,"id":11120149},{"ltp":2.64,"id":9627862}]}]}
+{"op":"mcm","clk":"7687999770","pt":1539945683341,"mc":[{"id":"1.149747866","rc":[{"ltp":1.57,"id":11120149},{"ltp":2.76,"id":9627862}]}]}
+{"op":"mcm","clk":"7688006160","pt":1539945747301,"mc":[{"id":"1.149747866","rc":[{"ltp":2.24,"id":11120149},{"ltp":1.8,"id":9627862}]}]}
+{"op":"mcm","clk":"7688011764","pt":1539945804425,"mc":[{"id":"1.149747866","rc":[{"ltp":1.74,"id":9627862}]}]}
+{"op":"mcm","clk":"7688017348","pt":1539945866751,"mc":[{"id":"1.149747866","rc":[{"ltp":2.36,"id":11120149}]}]}
+{"op":"mcm","clk":"7688023235","pt":1539945925708,"mc":[{"id":"1.149747866","rc":[{"ltp":2.52,"id":11120149},{"ltp":1.66,"id":9627862}]}]}
+{"op":"mcm","clk":"7688029663","pt":1539945987892,"mc":[{"id":"1.149747866","rc":[{"ltp":3.35,"id":11120149},{"ltp":1.4,"id":9627862}]}]}
+{"op":"mcm","clk":"7688035628","pt":1539946047500,"mc":[{"id":"1.149747866","rc":[{"ltp":3.5,"id":11120149},{"ltp":1.52,"id":9627862}]}]}
+{"op":"mcm","clk":"7688041661","pt":1539946106715,"mc":[{"id":"1.149747866","rc":[{"ltp":3.25,"id":11120149},{"ltp":1.45,"id":9627862}]}]}
+{"op":"mcm","clk":"7688047214","pt":1539946168044,"mc":[{"id":"1.149747866","rc":[{"ltp":3.8,"id":11120149},{"ltp":1.25,"id":9627862}]}]}
+{"op":"mcm","clk":"7688052522","pt":1539946226144,"mc":[{"id":"1.149747866","rc":[{"ltp":6.2,"id":11120149},{"ltp":1.19,"id":9627862}]}]}
+{"op":"mcm","clk":"7688080515","pt":1539946347637,"mc":[{"id":"1.149747866","rc":[{"ltp":1.24,"id":9627862}]}]}
+{"op":"mcm","clk":"7688085798","pt":1539946403600,"mc":[{"id":"1.149747866","rc":[{"ltp":5.1,"id":11120149},{"ltp":1.25,"id":9627862}]}]}
+{"op":"mcm","clk":"7688092322","pt":1539946467998,"mc":[{"id":"1.149747866","rc":[{"ltp":4.9,"id":11120149},{"ltp":1.26,"id":9627862}]}]}
+{"op":"mcm","clk":"7688098872","pt":1539946527283,"mc":[{"id":"1.149747866","rc":[{"ltp":4.6,"id":11120149},{"ltp":1.13,"id":9627862}]}]}
+{"op":"mcm","clk":"7688104022","pt":1539946587853,"mc":[{"id":"1.149747866","rc":[{"ltp":1.2,"id":9627862}]}]}
+{"op":"mcm","clk":"7688109399","pt":1539946647325,"mc":[{"id":"1.149747866","rc":[{"ltp":1.13,"id":9627862}]}]}
+{"op":"mcm","clk":"7688114485","pt":1539946708017,"mc":[{"id":"1.149747866","rc":[{"ltp":11.0,"id":11120149},{"ltp":1.09,"id":9627862}]}]}
+{"op":"mcm","clk":"7688119887","pt":1539946767719,"mc":[{"id":"1.149747866","rc":[{"ltp":1.04,"id":9627862}]}]}
+{"op":"mcm","clk":"7688125378","pt":1539946828045,"mc":[{"id":"1.149747866","rc":[{"ltp":1.06,"id":9627862}]}]}
+{"op":"mcm","clk":"7688130994","pt":1539946885938,"mc":[{"id":"1.149747866","rc":[{"ltp":1.07,"id":9627862}]}]}
+{"op":"mcm","clk":"7688137607","pt":1539946947201,"mc":[{"id":"1.149747866","rc":[{"ltp":1.11,"id":9627862}]}]}
+{"op":"mcm","clk":"7688145562","pt":1539947007940,"mc":[{"id":"1.149747866","rc":[{"ltp":7.4,"id":11120149},{"ltp":1.15,"id":9627862}]}]}
+{"op":"mcm","clk":"7688152345","pt":1539947065537,"mc":[{"id":"1.149747866","rc":[{"ltp":1.16,"id":9627862}]}]}
+{"op":"mcm","clk":"7688159469","pt":1539947127848,"mc":[{"id":"1.149747866","rc":[{"ltp":4.9,"id":11120149},{"ltp":1.26,"id":9627862}]}]}
+{"op":"mcm","clk":"7688166275","pt":1539947187801,"mc":[{"id":"1.149747866","rc":[{"ltp":4.5,"id":11120149},{"ltp":1.31,"id":9627862}]}]}
+{"op":"mcm","clk":"7688189593","pt":1539947247315,"mc":[{"id":"1.149747866","rc":[{"ltp":4.4,"id":11120149},{"ltp":1.29,"id":9627862}]}]}
+{"op":"mcm","clk":"7688196986","pt":1539947307624,"mc":[{"id":"1.149747866","rc":[{"ltp":4.3,"id":11120149},{"ltp":1.31,"id":9627862}]}]}
+{"op":"mcm","clk":"7688204875","pt":1539947368014,"mc":[{"id":"1.149747866","rc":[{"ltp":3.5,"id":11120149},{"ltp":1.48,"id":9627862}]}]}
+{"op":"mcm","clk":"7688213381","pt":1539947426275,"mc":[{"id":"1.149747866","rc":[{"ltp":3.4,"id":11120149},{"ltp":1.41,"id":9627862}]}]}
+{"op":"mcm","clk":"7688219424","pt":1539947487044,"mc":[{"id":"1.149747866","rc":[{"ltp":1.25,"id":9627862}]}]}
+{"op":"mcm","clk":"7688225562","pt":1539947548050,"mc":[{"id":"1.149747866","rc":[{"ltp":1.09,"id":9627862}]}]}
+{"op":"mcm","clk":"7688231986","pt":1539947607771,"mc":[{"id":"1.149747866","rc":[{"ltp":13.5,"id":11120149},{"ltp":1.08,"id":9627862}]}]}
+{"op":"mcm","clk":"7688238298","pt":1539947667851,"mc":[{"id":"1.149747866","rc":[{"ltp":1.07,"id":9627862}]}]}
+{"op":"mcm","clk":"7688245112","pt":1539947728054,"mc":[{"id":"1.149747866","rc":[{"ltp":1.1,"id":9627862}]}]}
+{"op":"mcm","clk":"7688251065","pt":1539947781100,"mc":[{"id":"1.149747866","rc":[{"ltp":1.12,"id":9627862}]}]}
+{"op":"mcm","clk":"7688258240","pt":1539947847453,"mc":[{"id":"1.149747866","rc":[{"ltp":8.6,"id":11120149},{"ltp":1.06,"id":9627862}]}]}
+{"op":"mcm","clk":"7688265080","pt":1539947906683,"mc":[{"id":"1.149747866","rc":[{"ltp":9.4,"id":11120149},{"ltp":1.07,"id":9627862}]}]}
+{"op":"mcm","clk":"7688271584","pt":1539947967700,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"ACTIVE","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:13:54.000Z","version":2461402752,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"},"rc":[{"ltp":1.01,"id":9627862}]}]}
+{"op":"mcm","clk":"7688273240","pt":1539947981805,"mc":[{"id":"1.149747866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962151","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T12:00:00.000Z","suspendTime":"2018-10-18T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T11:19:37.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":11120149,"name":"D Mishina"},{"status":"WINNER","sortPriority":2,"id":9627862,"name":"J Suvrijn"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T09:13:54.000Z","version":2461403284,"name":"Match Odds","eventName":"D Mishina v J Suvrijn"}}]}

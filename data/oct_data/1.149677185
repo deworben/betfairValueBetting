@@ -1,0 +1,85 @@
+{"op":"mcm","clk":"7719437639","pt":1539692977174,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:00:00.000Z","suspendTime":"2018-10-17T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:00:00.000Z","version":2457985614,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"}}]}
+{"op":"mcm","clk":"7719498355","pt":1539693690250,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:00:00.000Z","suspendTime":"2018-10-17T07:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:00:00.000Z","version":2457985614,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"}}]}
+{"op":"mcm","clk":"7720362075","pt":1539701046302,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T08:00:00.000Z","suspendTime":"2018-10-17T08:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T08:00:00.000Z","version":2458161438,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"}}]}
+{"op":"mcm","clk":"7725931051","pt":1539762918493,"mc":[{"id":"1.149677185","rc":[{"ltp":2.4,"id":20217189},{"ltp":1.71,"id":13825854}]}]}
+{"op":"mcm","clk":"7725954222","pt":1539763131348,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:56:00.000Z","suspendTime":"2018-10-17T07:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T08:00:00.000Z","version":2459017737,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"}}]}
+{"op":"mcm","clk":"7725958289","pt":1539763183740,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:56:00.000Z","suspendTime":"2018-10-17T07:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:56:00.000Z","version":2459017737,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"},"rc":[{"ltp":1.66,"id":13825854}]}]}
+{"op":"mcm","clk":"7725968415","pt":1539763312904,"mc":[{"id":"1.149677185","rc":[{"ltp":2.5,"id":20217189},{"ltp":1.57,"id":13825854}]}]}
+{"op":"mcm","clk":"7725999047","pt":1539763733226,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:56:00.000Z","suspendTime":"2018-10-17T07:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"ACTIVE","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:56:00.000Z","version":2459022304,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"},"rc":[{"ltp":2.2,"id":20217189},{"ltp":1.71,"id":13825854}]}]}
+{"op":"mcm","clk":"7726002023","pt":1539763779111,"mc":[{"id":"1.149677185","rc":[{"ltp":2.36,"id":20217189},{"ltp":1.74,"id":13825854}]}]}
+{"op":"mcm","clk":"7726007014","pt":1539763845039,"mc":[{"id":"1.149677185","rc":[{"ltp":1.61,"id":13825854}]}]}
+{"op":"mcm","clk":"7726026323","pt":1539763974172,"mc":[{"id":"1.149677185","rc":[{"ltp":2.5,"id":20217189},{"ltp":1.66,"id":13825854}]}]}
+{"op":"mcm","clk":"7726031003","pt":1539764030420,"mc":[{"id":"1.149677185","rc":[{"ltp":2.2,"id":20217189},{"ltp":1.81,"id":13825854}]}]}
+{"op":"mcm","clk":"7726036021","pt":1539764093240,"mc":[{"id":"1.149677185","rc":[{"ltp":2.02,"id":20217189},{"ltp":1.98,"id":13825854}]}]}
+{"op":"mcm","clk":"7726055038","pt":1539764334306,"mc":[{"id":"1.149677185","rc":[{"ltp":1.74,"id":20217189}]}]}
+{"op":"mcm","clk":"7726059846","pt":1539764394101,"mc":[{"id":"1.149677185","rc":[{"ltp":1.78,"id":20217189},{"ltp":2.28,"id":13825854}]}]}
+{"op":"mcm","clk":"7726113598","pt":1539764931099,"mc":[{"id":"1.149677185","rc":[{"ltp":2.2,"id":20217189},{"ltp":1.83,"id":13825854}]}]}
+{"op":"mcm","clk":"7726127580","pt":1539765106716,"mc":[{"id":"1.149677185","rc":[{"ltp":2.6,"id":20217189}]}]}
+{"op":"mcm","clk":"7726132826","pt":1539765171558,"mc":[{"id":"1.149677185","rc":[{"ltp":2.2,"id":20217189}]}]}
+{"op":"mcm","clk":"7726141505","pt":1539765279642,"mc":[{"id":"1.149677185","rc":[{"ltp":2.0,"id":20217189}]}]}
+{"op":"mcm","clk":"7726161246","pt":1539765534090,"mc":[{"id":"1.149677185","rc":[{"ltp":1.8,"id":20217189},{"ltp":2.5,"id":13825854}]}]}
+{"op":"mcm","clk":"7726166525","pt":1539765594078,"mc":[{"id":"1.149677185","rc":[{"ltp":2.16,"id":20217189},{"ltp":2.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7726170746","pt":1539765640944,"mc":[{"id":"1.149677185","rc":[{"ltp":1.91,"id":13825854}]}]}
+{"op":"mcm","clk":"7726176789","pt":1539765708957,"mc":[{"id":"1.149677185","rc":[{"ltp":2.1,"id":20217189}]}]}
+{"op":"mcm","clk":"7726191019","pt":1539765757793,"mc":[{"id":"1.149677185","rc":[{"ltp":2.12,"id":20217189},{"ltp":1.89,"id":13825854}]}]}
+{"op":"mcm","clk":"7726201975","pt":1539765890537,"mc":[{"id":"1.149677185","rc":[{"ltp":1.92,"id":13825854}]}]}
+{"op":"mcm","clk":"7726206416","pt":1539765954103,"mc":[{"id":"1.149677185","rc":[{"ltp":2.46,"id":20217189}]}]}
+{"op":"mcm","clk":"7726210552","pt":1539766009071,"mc":[{"id":"1.149677185","rc":[{"ltp":2.5,"id":20217189}]}]}
+{"op":"mcm","clk":"7726219343","pt":1539766134262,"mc":[{"id":"1.149677185","rc":[{"ltp":1.79,"id":13825854}]}]}
+{"op":"mcm","clk":"7726231255","pt":1539766312338,"mc":[{"id":"1.149677185","rc":[{"ltp":2.06,"id":13825854}]}]}
+{"op":"mcm","clk":"7726239298","pt":1539766432132,"mc":[{"id":"1.149677185","rc":[{"ltp":1.7,"id":20217189},{"ltp":2.44,"id":13825854}]}]}
+{"op":"mcm","clk":"7726243247","pt":1539766493816,"mc":[{"id":"1.149677185","rc":[{"ltp":1.52,"id":20217189},{"ltp":2.96,"id":13825854}]}]}
+{"op":"mcm","clk":"7726246438","pt":1539766544498,"mc":[{"id":"1.149677185","rc":[{"ltp":1.39,"id":20217189},{"ltp":3.55,"id":13825854}]}]}
+{"op":"mcm","clk":"7726251304","pt":1539766614131,"mc":[{"id":"1.149677185","rc":[{"ltp":1.34,"id":20217189},{"ltp":3.9,"id":13825854}]}]}
+{"op":"mcm","clk":"7726266038","pt":1539766672008,"mc":[{"id":"1.149677185","rc":[{"ltp":1.42,"id":20217189}]}]}
+{"op":"mcm","clk":"7726270304","pt":1539766730622,"mc":[{"id":"1.149677185","rc":[{"ltp":1.51,"id":20217189},{"ltp":3.6,"id":13825854}]}]}
+{"op":"mcm","clk":"7726278682","pt":1539766834401,"mc":[{"id":"1.149677185","rc":[{"ltp":1.33,"id":20217189},{"ltp":4.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7726284807","pt":1539766913404,"mc":[{"id":"1.149677185","rc":[{"ltp":1.27,"id":20217189},{"ltp":4.7,"id":13825854}]}]}
+{"op":"mcm","clk":"7726289192","pt":1539766971324,"mc":[{"id":"1.149677185","rc":[{"ltp":4.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726299023","pt":1539767091713,"mc":[{"id":"1.149677185","rc":[{"ltp":1.47,"id":20217189},{"ltp":3.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726302938","pt":1539767140284,"mc":[{"id":"1.149677185","rc":[{"ltp":1.31,"id":20217189}]}]}
+{"op":"mcm","clk":"7726308658","pt":1539767212909,"mc":[{"id":"1.149677185","rc":[{"ltp":1.56,"id":20217189}]}]}
+{"op":"mcm","clk":"7726312230","pt":1539767259698,"mc":[{"id":"1.149677185","rc":[{"ltp":1.32,"id":20217189}]}]}
+{"op":"mcm","clk":"7726317676","pt":1539767332021,"mc":[{"id":"1.149677185","rc":[{"ltp":1.34,"id":20217189},{"ltp":3.9,"id":13825854}]}]}
+{"op":"mcm","clk":"7726322129","pt":1539767392015,"mc":[{"id":"1.149677185","rc":[{"ltp":1.32,"id":20217189},{"ltp":4.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726325447","pt":1539767436196,"mc":[{"id":"1.149677185","rc":[{"ltp":1.41,"id":20217189},{"ltp":3.4,"id":13825854}]}]}
+{"op":"mcm","clk":"7726330552","pt":1539767503906,"mc":[{"id":"1.149677185","rc":[{"ltp":1.49,"id":20217189},{"ltp":3.05,"id":13825854}]}]}
+{"op":"mcm","clk":"7726350540","pt":1539767633499,"mc":[{"id":"1.149677185","rc":[{"ltp":1.52,"id":20217189},{"ltp":2.9,"id":13825854}]}]}
+{"op":"mcm","clk":"7726354815","pt":1539767691737,"mc":[{"id":"1.149677185","rc":[{"ltp":1.34,"id":20217189},{"ltp":3.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7726367036","pt":1539767870502,"mc":[{"id":"1.149677185","rc":[{"ltp":1.38,"id":20217189},{"ltp":3.6,"id":13825854}]}]}
+{"op":"mcm","clk":"7726371165","pt":1539767933938,"mc":[{"id":"1.149677185","rc":[{"ltp":3.05,"id":13825854}]}]}
+{"op":"mcm","clk":"7726372934","pt":1539767957944,"mc":[{"id":"1.149677185","rc":[{"ltp":1.47,"id":20217189},{"ltp":3.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726376952","pt":1539768017671,"mc":[{"id":"1.149677185","rc":[{"ltp":1.49,"id":20217189},{"ltp":3.05,"id":13825854}]}]}
+{"op":"mcm","clk":"7726387707","pt":1539768174128,"mc":[{"id":"1.149677185","rc":[{"ltp":1.47,"id":20217189}]}]}
+{"op":"mcm","clk":"7726391948","pt":1539768232537,"mc":[{"id":"1.149677185","rc":[{"ltp":1.66,"id":20217189},{"ltp":2.5,"id":13825854}]}]}
+{"op":"mcm","clk":"7726396500","pt":1539768294446,"mc":[{"id":"1.149677185","rc":[{"ltp":1.74,"id":20217189},{"ltp":2.24,"id":13825854}]}]}
+{"op":"mcm","clk":"7726399937","pt":1539768345343,"mc":[{"id":"1.149677185","rc":[{"ltp":1.91,"id":20217189},{"ltp":2.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726404749","pt":1539768414131,"mc":[{"id":"1.149677185","rc":[{"ltp":1.78,"id":20217189},{"ltp":2.28,"id":13825854}]}]}
+{"op":"mcm","clk":"7726423184","pt":1539768530706,"mc":[{"id":"1.149677185","rc":[{"ltp":1.71,"id":20217189},{"ltp":2.4,"id":13825854}]}]}
+{"op":"mcm","clk":"7726427552","pt":1539768594463,"mc":[{"id":"1.149677185","rc":[{"ltp":1.83,"id":20217189}]}]}
+{"op":"mcm","clk":"7726431727","pt":1539768652674,"mc":[{"id":"1.149677185","rc":[{"ltp":2.54,"id":13825854}]}]}
+{"op":"mcm","clk":"7726436191","pt":1539768713991,"mc":[{"id":"1.149677185","rc":[{"ltp":1.48,"id":20217189},{"ltp":3.15,"id":13825854}]}]}
+{"op":"mcm","clk":"7726440850","pt":1539768774359,"mc":[{"id":"1.149677185","rc":[{"ltp":2.96,"id":13825854}]}]}
+{"op":"mcm","clk":"7726445381","pt":1539768831472,"mc":[{"id":"1.149677185","rc":[{"ltp":3.6,"id":13825854}]}]}
+{"op":"mcm","clk":"7726463215","pt":1539769072401,"mc":[{"id":"1.149677185","rc":[{"ltp":1.54,"id":20217189},{"ltp":2.84,"id":13825854}]}]}
+{"op":"mcm","clk":"7726467793","pt":1539769133611,"mc":[{"id":"1.149677185","rc":[{"ltp":2.0,"id":20217189},{"ltp":2.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7726472063","pt":1539769190591,"mc":[{"id":"1.149677185","rc":[{"ltp":1.99,"id":20217189}]}]}
+{"op":"mcm","clk":"7726476907","pt":1539769254432,"mc":[{"id":"1.149677185","rc":[{"ltp":2.0,"id":20217189},{"ltp":1.74,"id":13825854}]}]}
+{"op":"mcm","clk":"7726481461","pt":1539769314337,"mc":[{"id":"1.149677185","rc":[{"ltp":2.46,"id":20217189},{"ltp":1.69,"id":13825854}]}]}
+{"op":"mcm","clk":"7726496316","pt":1539769374505,"mc":[{"id":"1.149677185","rc":[{"ltp":2.36,"id":20217189},{"ltp":1.68,"id":13825854}]}]}
+{"op":"mcm","clk":"7726500678","pt":1539769432297,"mc":[{"id":"1.149677185","rc":[{"ltp":2.4,"id":20217189},{"ltp":1.7,"id":13825854}]}]}
+{"op":"mcm","clk":"7726505333","pt":1539769494470,"mc":[{"id":"1.149677185","rc":[{"ltp":1.98,"id":20217189},{"ltp":1.72,"id":13825854}]}]}
+{"op":"mcm","clk":"7726509625","pt":1539769552345,"mc":[{"id":"1.149677185","rc":[{"ltp":1.62,"id":20217189},{"ltp":1.99,"id":13825854}]}]}
+{"op":"mcm","clk":"7726513913","pt":1539769613597,"mc":[{"id":"1.149677185","rc":[{"ltp":1.58,"id":20217189},{"ltp":2.68,"id":13825854}]}]}
+{"op":"mcm","clk":"7726517913","pt":1539769674084,"mc":[{"id":"1.149677185","rc":[{"ltp":1.55,"id":20217189},{"ltp":1.73,"id":13825854}]}]}
+{"op":"mcm","clk":"7726522334","pt":1539769734123,"mc":[{"id":"1.149677185","rc":[{"ltp":1.28,"id":20217189},{"ltp":5.0,"id":13825854}]}]}
+{"op":"mcm","clk":"7726525727","pt":1539769790039,"mc":[{"id":"1.149677185","rc":[{"ltp":1.45,"id":20217189}]}]}
+{"op":"mcm","clk":"7726529525","pt":1539769853055,"mc":[{"id":"1.149677185","rc":[{"ltp":1.83,"id":20217189},{"ltp":2.18,"id":13825854}]}]}
+{"op":"mcm","clk":"7726533319","pt":1539769913499,"mc":[{"id":"1.149677185","rc":[{"ltp":2.26,"id":20217189}]}]}
+{"op":"mcm","clk":"7726537405","pt":1539769974229,"mc":[{"id":"1.149677185","rc":[{"ltp":2.5,"id":20217189},{"ltp":1.7,"id":13825854}]}]}
+{"op":"mcm","clk":"7726541483","pt":1539770033787,"mc":[{"id":"1.149677185","rc":[{"ltp":2.88,"id":20217189},{"ltp":1.45,"id":13825854}]}]}
+{"op":"mcm","clk":"7726545606","pt":1539770094395,"mc":[{"id":"1.149677185","rc":[{"ltp":1.77,"id":20217189},{"ltp":2.28,"id":13825854}]}]}
+{"op":"mcm","clk":"7726549664","pt":1539770153947,"mc":[{"id":"1.149677185","rc":[{"ltp":2.24,"id":20217189},{"ltp":1.74,"id":13825854}]}]}
+{"op":"mcm","clk":"7726553481","pt":1539770214344,"mc":[{"id":"1.149677185","rc":[{"ltp":1.48,"id":20217189},{"ltp":3.1,"id":13825854}]}]}
+{"op":"mcm","clk":"7726568529","pt":1539770274351,"mc":[{"id":"1.149677185","rc":[{"ltp":1.49,"id":20217189},{"ltp":3.05,"id":13825854}]}]}
+{"op":"mcm","clk":"7726573016","pt":1539770329898,"mc":[{"id":"1.149677185","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28959728","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-17T07:56:00.000Z","suspendTime":"2018-10-17T07:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-17T09:58:45.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":20217189,"name":"Jurak/Olaru"},{"status":"LOSER","sortPriority":2,"id":13825854,"name":"Kichenok/Rodionova"}],"regulators":["MR_INT"],"countryCode":"RU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-17T07:56:00.000Z","version":2459113051,"name":"Match Odds","eventName":"Jurak/Olaru v Kichenok/Rodionova"}}]}

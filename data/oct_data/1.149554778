@@ -1,0 +1,51 @@
+{"op":"mcm","clk":"7715787538","pt":1539451233233,"mc":[{"id":"1.149554778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955784","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634670,"name":"Dayana Yastremska"},{"status":"ACTIVE","sortPriority":2,"id":2264530,"name":"Kirsten Flipkens"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453695871,"name":"Match Odds","eventName":"Yastremska v Flipkens"}}]}
+{"op":"mcm","clk":"7718476210","pt":1539476393523,"mc":[{"id":"1.149554778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955784","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634670,"name":"Dayana Yastremska"},{"status":"ACTIVE","sortPriority":2,"id":2264530,"name":"Kirsten Flipkens"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2454594210,"name":"Match Odds","eventName":"Yastremska v Flipkens"}}]}
+{"op":"mcm","clk":"7720282785","pt":1539503857974,"mc":[{"id":"1.149554778","rc":[{"ltp":2.22,"id":2264530}]}]}
+{"op":"mcm","clk":"7720581940","pt":1539509162287,"mc":[{"id":"1.149554778","rc":[{"ltp":1.74,"id":9634670}]}]}
+{"op":"mcm","clk":"7720641604","pt":1539509945483,"mc":[{"id":"1.149554778","rc":[{"ltp":1.67,"id":9634670}]}]}
+{"op":"mcm","clk":"7720715638","pt":1539510775593,"mc":[{"id":"1.149554778","rc":[{"ltp":1.74,"id":9634670}]}]}
+{"op":"mcm","clk":"7721143208","pt":1539514180748,"mc":[{"id":"1.149554778","rc":[{"ltp":1.76,"id":9634670}]}]}
+{"op":"mcm","clk":"7721147339","pt":1539514227617,"mc":[{"id":"1.149554778","rc":[{"ltp":1.74,"id":9634670}]}]}
+{"op":"mcm","clk":"7721228717","pt":1539514990989,"mc":[{"id":"1.149554778","rc":[{"ltp":1.75,"id":9634670}]}]}
+{"op":"mcm","clk":"7721309809","pt":1539515672570,"mc":[{"id":"1.149554778","rc":[{"ltp":2.12,"id":2264530}]}]}
+{"op":"mcm","clk":"7721355708","pt":1539515979950,"mc":[{"id":"1.149554778","rc":[{"ltp":1.85,"id":9634670}]}]}
+{"op":"mcm","clk":"7721361348","pt":1539516029592,"mc":[{"id":"1.149554778","rc":[{"ltp":2.02,"id":2264530}]}]}
+{"op":"mcm","clk":"7721381042","pt":1539516219265,"mc":[{"id":"1.149554778","rc":[{"ltp":1.89,"id":9634670}]}]}
+{"op":"mcm","clk":"7721403338","pt":1539516424327,"mc":[{"id":"1.149554778","rc":[{"ltp":1.85,"id":9634670}]}]}
+{"op":"mcm","clk":"7721767627","pt":1539519834592,"mc":[{"id":"1.149554778","rc":[{"ltp":2.16,"id":2264530}]}]}
+{"op":"mcm","clk":"7722068722","pt":1539522333789,"mc":[{"id":"1.149554778","rc":[{"ltp":1.88,"id":9634670}]}]}
+{"op":"mcm","clk":"7722105444","pt":1539522581570,"mc":[{"id":"1.149554778","rc":[{"ltp":2.08,"id":2264530}]}]}
+{"op":"mcm","clk":"7722113385","pt":1539522638540,"mc":[{"id":"1.149554778","rc":[{"ltp":1.92,"id":9634670}]}]}
+{"op":"mcm","clk":"7722348548","pt":1539524201448,"mc":[{"id":"1.149554778","rc":[{"ltp":1.95,"id":2264530},{"ltp":2.02,"id":9634670}]}]}
+{"op":"mcm","clk":"7722352891","pt":1539524230727,"mc":[{"id":"1.149554778","rc":[{"ltp":2.0,"id":9634670}]}]}
+{"op":"mcm","clk":"7722466365","pt":1539525041453,"mc":[{"id":"1.149554778","rc":[{"ltp":2.02,"id":2264530},{"ltp":1.99,"id":9634670}]}]}
+{"op":"mcm","clk":"7722511580","pt":1539525440398,"mc":[{"id":"1.149554778","rc":[{"ltp":2.0,"id":2264530}]}]}
+{"op":"mcm","clk":"7722532835","pt":1539525641586,"mc":[{"id":"1.149554778","rc":[{"ltp":2.0,"id":9634670}]}]}
+{"op":"mcm","clk":"7723241992","pt":1539531692719,"mc":[{"id":"1.149554778","rc":[{"ltp":1.95,"id":9634670}]}]}
+{"op":"mcm","clk":"7723691483","pt":1539535411343,"mc":[{"id":"1.149554778","rc":[{"ltp":1.94,"id":9634670}]}]}
+{"op":"mcm","clk":"7723720398","pt":1539535636860,"mc":[{"id":"1.149554778","rc":[{"ltp":2.04,"id":2264530}]}]}
+{"op":"mcm","clk":"7724188386","pt":1539540281478,"mc":[{"id":"1.149554778","rc":[{"ltp":2.06,"id":2264530}]}]}
+{"op":"mcm","clk":"7724297427","pt":1539541690569,"mc":[{"id":"1.149554778","rc":[{"ltp":1.93,"id":9634670}]}]}
+{"op":"mcm","clk":"7724762326","pt":1539546131530,"mc":[{"id":"1.149554778","rc":[{"ltp":2.04,"id":2264530},{"ltp":1.97,"id":9634670}]}]}
+{"op":"mcm","clk":"7724920252","pt":1539547580162,"mc":[{"id":"1.149554778","rc":[{"ltp":1.9,"id":9634670}]}]}
+{"op":"mcm","clk":"7725347866","pt":1539553430189,"mc":[{"id":"1.149554778","rc":[{"ltp":1.91,"id":9634670}]}]}
+{"op":"mcm","clk":"7725376164","pt":1539553922720,"mc":[{"id":"1.149554778","rc":[{"ltp":2.08,"id":2264530}]}]}
+{"op":"mcm","clk":"7725533243","pt":1539557417758,"mc":[{"id":"1.149554778","rc":[{"ltp":1.88,"id":9634670}]}]}
+{"op":"mcm","clk":"7725540811","pt":1539557615121,"mc":[{"id":"1.149554778","rc":[{"ltp":2.14,"id":2264530},{"ltp":1.87,"id":9634670}]}]}
+{"op":"mcm","clk":"7725545439","pt":1539557733572,"mc":[{"id":"1.149554778","rc":[{"ltp":2.12,"id":2264530},{"ltp":1.86,"id":9634670}]}]}
+{"op":"mcm","clk":"7725645945","pt":1539560304915,"mc":[{"id":"1.149554778","rc":[{"ltp":2.1,"id":2264530}]}]}
+{"op":"mcm","clk":"7725748164","pt":1539562833747,"mc":[{"id":"1.149554778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955784","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634670,"name":"Dayana Yastremska"},{"status":"ACTIVE","sortPriority":2,"id":2264530,"name":"Kirsten Flipkens"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2456816559,"name":"Match Odds","eventName":"Yastremska v Flipkens"}}]}
+{"op":"mcm","clk":"7726033241","pt":1539571008226,"mc":[{"id":"1.149554778","rc":[{"ltp":1.87,"id":9634670}]}]}
+{"op":"mcm","clk":"7726465855","pt":1539583540774,"mc":[{"id":"1.149554778","rc":[{"ltp":1.88,"id":9634670}]}]}
+{"op":"mcm","clk":"7726467627","pt":1539583597007,"mc":[{"id":"1.149554778","rc":[{"ltp":1.87,"id":9634670}]}]}
+{"op":"mcm","clk":"7726689754","pt":1539589329481,"mc":[{"id":"1.149554778","rc":[{"ltp":2.16,"id":2264530}]}]}
+{"op":"mcm","clk":"7726787804","pt":1539591511544,"mc":[{"id":"1.149554778","rc":[{"ltp":2.1,"id":2264530},{"ltp":1.91,"id":9634670}]}]}
+{"op":"mcm","clk":"7726810082","pt":1539592044955,"mc":[{"id":"1.149554778","rc":[{"ltp":2.08,"id":2264530}]}]}
+{"op":"mcm","clk":"7726889101","pt":1539593352494,"mc":[{"id":"1.149554778","rc":[{"ltp":2.04,"id":2264530},{"ltp":1.95,"id":9634670}]}]}
+{"op":"mcm","clk":"7726915124","pt":1539593969788,"mc":[{"id":"1.149554778","rc":[{"ltp":2.08,"id":2264530}]}]}
+{"op":"mcm","clk":"7726947917","pt":1539594449204,"mc":[{"id":"1.149554778","rc":[{"ltp":2.1,"id":2264530}]}]}
+{"op":"mcm","clk":"7727014077","pt":1539595539905,"mc":[{"id":"1.149554778","rc":[{"ltp":1.9,"id":9634670}]}]}
+{"op":"mcm","clk":"7727069392","pt":1539596424528,"mc":[{"id":"1.149554778","rc":[{"ltp":2.04,"id":2264530}]}]}
+{"op":"mcm","clk":"7727510136","pt":1539602372075,"mc":[{"id":"1.149554778","rc":[{"ltp":1.93,"id":9634670}]}]}
+{"op":"mcm","clk":"7728157085","pt":1539612014752,"mc":[{"id":"1.149554778","rc":[{"ltp":1.92,"id":9634670}]}]}
+{"op":"mcm","clk":"7728247613","pt":1539613445460,"mc":[{"id":"1.149554778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955784","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":0,"status":"CLOSED","settledTime":"2018-10-15T14:23:59.000Z","runners":[{"status":"REMOVED","sortPriority":1,"removalDate":"2018-10-15T14:23:59.000Z","id":9634670,"name":"Dayana Yastremska"},{"status":"REMOVED","sortPriority":2,"removalDate":"2018-10-15T14:23:59.000Z","id":2264530,"name":"Kirsten Flipkens"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2457139764,"name":"Match Odds","eventName":"Yastremska v Flipkens"}}]}

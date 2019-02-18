@@ -1,0 +1,106 @@
+{"op":"mcm","clk":"7669364049","pt":1538909463468,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2443503079,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7669424096","pt":1538909946696,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-08T09:00:00.000Z","suspendTime":"2018-10-08T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-08T09:00:00.000Z","version":2443503079,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7676180537","pt":1538957983148,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T09:00:00.000Z","suspendTime":"2018-10-09T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T09:00:00.000Z","version":2445875628,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7677796264","pt":1538995201453,"mc":[{"id":"1.149232333","rc":[{"ltp":2.66,"id":2263683}]}]}
+{"op":"mcm","clk":"7677838004","pt":1538995796705,"mc":[{"id":"1.149232333","rc":[{"ltp":2.98,"id":2263683},{"ltp":1.5,"id":4946664}]}]}
+{"op":"mcm","clk":"7681412858","pt":1539044372743,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:00:00.000Z","suspendTime":"2018-10-10T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:00:00.000Z","version":2446937555,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7683308685","pt":1539085202867,"mc":[{"id":"1.149232333","rc":[{"ltp":2.78,"id":2263683}]}]}
+{"op":"mcm","clk":"7683533344","pt":1539088800528,"mc":[{"id":"1.149232333","rc":[{"ltp":2.76,"id":2263683}]}]}
+{"op":"mcm","clk":"7686482288","pt":1539119676648,"mc":[{"id":"1.149232333","rc":[{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7687316210","pt":1539136843049,"mc":[{"id":"1.149232333","rc":[{"ltp":2.82,"id":2263683}]}]}
+{"op":"mcm","clk":"7688059619","pt":1539156568822,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T10:00:00.000Z","suspendTime":"2018-10-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T10:00:00.000Z","version":2448214886,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7688593146","pt":1539165065204,"mc":[{"id":"1.149232333","rc":[{"ltp":1.46,"id":4946664}]}]}
+{"op":"mcm","clk":"7688595997","pt":1539165121767,"mc":[{"id":"1.149232333","rc":[{"ltp":3.3,"id":2263683},{"ltp":1.41,"id":4946664}]}]}
+{"op":"mcm","clk":"7688604409","pt":1539165271243,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:51:00.000Z","suspendTime":"2018-10-10T09:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:51:00.000Z","version":2448305876,"name":"Match Odds","eventName":"Guez v Viola"}}]}
+{"op":"mcm","clk":"7688607269","pt":1539165327949,"mc":[{"id":"1.149232333","rc":[{"ltp":2.98,"id":2263683},{"ltp":1.51,"id":4946664}]}]}
+{"op":"mcm","clk":"7688676263","pt":1539166315073,"mc":[{"id":"1.149232333","rc":[{"ltp":1.44,"id":4946664}]}]}
+{"op":"mcm","clk":"7688679439","pt":1539166371730,"mc":[{"id":"1.149232333","rc":[{"ltp":1.43,"id":4946664}]}]}
+{"op":"mcm","clk":"7688687384","pt":1539166493625,"mc":[{"id":"1.149232333","rc":[{"ltp":1.42,"id":4946664}]}]}
+{"op":"mcm","clk":"7688691716","pt":1539166561622,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:51:00.000Z","suspendTime":"2018-10-10T09:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:51:00.000Z","version":2448328165,"name":"Match Odds","eventName":"Guez v Viola"},"rc":[{"ltp":3.4,"id":2263683}]}]}
+{"op":"mcm","clk":"7688695417","pt":1539166623168,"mc":[{"id":"1.149232333","rc":[{"ltp":3.6,"id":2263683},{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7688706868","pt":1539166684337,"mc":[{"id":"1.149232333","rc":[{"ltp":3.65,"id":2263683},{"ltp":1.38,"id":4946664}]}]}
+{"op":"mcm","clk":"7688710651","pt":1539166743014,"mc":[{"id":"1.149232333","rc":[{"ltp":3.45,"id":2263683},{"ltp":1.41,"id":4946664}]}]}
+{"op":"mcm","clk":"7688718698","pt":1539166864227,"mc":[{"id":"1.149232333","rc":[{"ltp":1.36,"id":4946664}]}]}
+{"op":"mcm","clk":"7688725741","pt":1539166985116,"mc":[{"id":"1.149232333","rc":[{"ltp":3.0,"id":2263683},{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7688729306","pt":1539167044986,"mc":[{"id":"1.149232333","rc":[{"ltp":2.72,"id":2263683},{"ltp":1.57,"id":4946664}]}]}
+{"op":"mcm","clk":"7688736481","pt":1539167164801,"mc":[{"id":"1.149232333","rc":[{"ltp":3.2,"id":2263683}]}]}
+{"op":"mcm","clk":"7688740125","pt":1539167220533,"mc":[{"id":"1.149232333","rc":[{"ltp":3.5,"id":2263683},{"ltp":1.4,"id":4946664}]}]}
+{"op":"mcm","clk":"7688753284","pt":1539167400798,"mc":[{"id":"1.149232333","rc":[{"ltp":1.29,"id":4946664}]}]}
+{"op":"mcm","clk":"7688758626","pt":1539167463592,"mc":[{"id":"1.149232333","rc":[{"ltp":5.2,"id":2263683},{"ltp":1.23,"id":4946664}]}]}
+{"op":"mcm","clk":"7688778620","pt":1539167584247,"mc":[{"id":"1.149232333","rc":[{"ltp":1.22,"id":4946664}]}]}
+{"op":"mcm","clk":"7688782786","pt":1539167635408,"mc":[{"id":"1.149232333","rc":[{"ltp":1.19,"id":4946664}]}]}
+{"op":"mcm","clk":"7688788764","pt":1539167703977,"mc":[{"id":"1.149232333","rc":[{"ltp":1.17,"id":4946664}]}]}
+{"op":"mcm","clk":"7688798161","pt":1539167822914,"mc":[{"id":"1.149232333","rc":[{"ltp":1.18,"id":4946664}]}]}
+{"op":"mcm","clk":"7688802574","pt":1539167884185,"mc":[{"id":"1.149232333","rc":[{"ltp":5.7,"id":2263683},{"ltp":1.26,"id":4946664}]}]}
+{"op":"mcm","clk":"7688805761","pt":1539167922027,"mc":[{"id":"1.149232333","rc":[{"ltp":4.2,"id":2263683},{"ltp":1.31,"id":4946664}]}]}
+{"op":"mcm","clk":"7688812294","pt":1539168005441,"mc":[{"id":"1.149232333","rc":[{"ltp":3.7,"id":2263683},{"ltp":1.4,"id":4946664}]}]}
+{"op":"mcm","clk":"7688815532","pt":1539168055743,"mc":[{"id":"1.149232333","rc":[{"ltp":3.5,"id":2263683},{"ltp":1.41,"id":4946664}]}]}
+{"op":"mcm","clk":"7688824917","pt":1539168182191,"mc":[{"id":"1.149232333","rc":[{"ltp":1.4,"id":4946664}]}]}
+{"op":"mcm","clk":"7688829496","pt":1539168245385,"mc":[{"id":"1.149232333","rc":[{"ltp":3.2,"id":2263683},{"ltp":1.46,"id":4946664}]}]}
+{"op":"mcm","clk":"7688838424","pt":1539168363838,"mc":[{"id":"1.149232333","rc":[{"ltp":4.4,"id":2263683},{"ltp":1.31,"id":4946664}]}]}
+{"op":"mcm","clk":"7688842830","pt":1539168424618,"mc":[{"id":"1.149232333","rc":[{"ltp":3.15,"id":2263683},{"ltp":1.46,"id":4946664}]}]}
+{"op":"mcm","clk":"7688855002","pt":1539168485460,"mc":[{"id":"1.149232333","rc":[{"ltp":1.38,"id":4946664}]}]}
+{"op":"mcm","clk":"7688859306","pt":1539168542603,"mc":[{"id":"1.149232333","rc":[{"ltp":5.8,"id":2263683},{"ltp":1.2,"id":4946664}]}]}
+{"op":"mcm","clk":"7688863559","pt":1539168604880,"mc":[{"id":"1.149232333","rc":[{"ltp":1.25,"id":4946664}]}]}
+{"op":"mcm","clk":"7688872884","pt":1539168723539,"mc":[{"id":"1.149232333","rc":[{"ltp":4.1,"id":2263683},{"ltp":1.29,"id":4946664}]}]}
+{"op":"mcm","clk":"7688877845","pt":1539168784902,"mc":[{"id":"1.149232333","rc":[{"ltp":3.7,"id":2263683},{"ltp":1.37,"id":4946664}]}]}
+{"op":"mcm","clk":"7688888711","pt":1539168905442,"mc":[{"id":"1.149232333","rc":[{"ltp":1.3,"id":4946664}]}]}
+{"op":"mcm","clk":"7688892936","pt":1539168963784,"mc":[{"id":"1.149232333","rc":[{"ltp":4.4,"id":2263683},{"ltp":1.29,"id":4946664}]}]}
+{"op":"mcm","clk":"7688897803","pt":1539169024280,"mc":[{"id":"1.149232333","rc":[{"ltp":2.84,"id":2263683},{"ltp":1.56,"id":4946664}]}]}
+{"op":"mcm","clk":"7688902697","pt":1539169082808,"mc":[{"id":"1.149232333","rc":[{"ltp":2.62,"id":2263683},{"ltp":1.52,"id":4946664}]}]}
+{"op":"mcm","clk":"7688913990","pt":1539169204535,"mc":[{"id":"1.149232333","rc":[{"ltp":3.05,"id":2263683},{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7688925141","pt":1539169325019,"mc":[{"id":"1.149232333","rc":[{"ltp":1.83,"id":2263683},{"ltp":2.38,"id":4946664}]}]}
+{"op":"mcm","clk":"7688938920","pt":1539169385447,"mc":[{"id":"1.149232333","rc":[{"ltp":1.85,"id":2263683},{"ltp":2.1,"id":4946664}]}]}
+{"op":"mcm","clk":"7688944195","pt":1539169445450,"mc":[{"id":"1.149232333","rc":[{"ltp":1.72,"id":2263683},{"ltp":2.18,"id":4946664}]}]}
+{"op":"mcm","clk":"7688949229","pt":1539169505127,"mc":[{"id":"1.149232333","rc":[{"ltp":1.63,"id":2263683}]}]}
+{"op":"mcm","clk":"7688954240","pt":1539169560401,"mc":[{"id":"1.149232333","rc":[{"ltp":1.92,"id":2263683},{"ltp":2.08,"id":4946664}]}]}
+{"op":"mcm","clk":"7688959801","pt":1539169624637,"mc":[{"id":"1.149232333","rc":[{"ltp":1.58,"id":4946664}]}]}
+{"op":"mcm","clk":"7688964579","pt":1539169682481,"mc":[{"id":"1.149232333","rc":[{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7688969834","pt":1539169743777,"mc":[{"id":"1.149232333","rc":[{"ltp":1.75,"id":4946664}]}]}
+{"op":"mcm","clk":"7688975417","pt":1539169805222,"mc":[{"id":"1.149232333","rc":[{"ltp":3.15,"id":2263683},{"ltp":1.47,"id":4946664}]}]}
+{"op":"mcm","clk":"7688980718","pt":1539169864528,"mc":[{"id":"1.149232333","rc":[{"ltp":4.1,"id":2263683},{"ltp":1.32,"id":4946664}]}]}
+{"op":"mcm","clk":"7688985865","pt":1539169924306,"mc":[{"id":"1.149232333","rc":[{"ltp":1.23,"id":4946664}]}]}
+{"op":"mcm","clk":"7688991260","pt":1539169985448,"mc":[{"id":"1.149232333","rc":[{"ltp":3.3,"id":2263683},{"ltp":1.44,"id":4946664}]}]}
+{"op":"mcm","clk":"7688996268","pt":1539170041064,"mc":[{"id":"1.149232333","rc":[{"ltp":1.65,"id":4946664}]}]}
+{"op":"mcm","clk":"7689002066","pt":1539170105447,"mc":[{"id":"1.149232333","rc":[{"ltp":2.62,"id":2263683},{"ltp":1.62,"id":4946664}]}]}
+{"op":"mcm","clk":"7689007358","pt":1539170164495,"mc":[{"id":"1.149232333","rc":[{"ltp":6.4,"id":2263683},{"ltp":1.19,"id":4946664}]}]}
+{"op":"mcm","clk":"7689028566","pt":1539170340800,"mc":[{"id":"1.149232333","rc":[{"ltp":1.17,"id":4946664}]}]}
+{"op":"mcm","clk":"7689033382","pt":1539170401381,"mc":[{"id":"1.149232333","rc":[{"ltp":1.22,"id":4946664}]}]}
+{"op":"mcm","clk":"7689038647","pt":1539170464358,"mc":[{"id":"1.149232333","rc":[{"ltp":5.7,"id":2263683},{"ltp":1.21,"id":4946664}]}]}
+{"op":"mcm","clk":"7689043380","pt":1539170524150,"mc":[{"id":"1.149232333","rc":[{"ltp":5.0,"id":2263683},{"ltp":1.27,"id":4946664}]}]}
+{"op":"mcm","clk":"7689048400","pt":1539170584206,"mc":[{"id":"1.149232333","rc":[{"ltp":3.75,"id":2263683},{"ltp":1.36,"id":4946664}]}]}
+{"op":"mcm","clk":"7689054158","pt":1539170645348,"mc":[{"id":"1.149232333","rc":[{"ltp":3.85,"id":2263683},{"ltp":1.35,"id":4946664}]}]}
+{"op":"mcm","clk":"7689059608","pt":1539170705449,"mc":[{"id":"1.149232333","rc":[{"ltp":3.4,"id":2263683},{"ltp":1.41,"id":4946664}]}]}
+{"op":"mcm","clk":"7689064881","pt":1539170764405,"mc":[{"id":"1.149232333","rc":[{"ltp":1.43,"id":4946664}]}]}
+{"op":"mcm","clk":"7689069695","pt":1539170823234,"mc":[{"id":"1.149232333","rc":[{"ltp":3.05,"id":2263683},{"ltp":1.52,"id":4946664}]}]}
+{"op":"mcm","clk":"7689074571","pt":1539170885126,"mc":[{"id":"1.149232333","rc":[{"ltp":1.48,"id":4946664}]}]}
+{"op":"mcm","clk":"7689079794","pt":1539170945192,"mc":[{"id":"1.149232333","rc":[{"ltp":2.78,"id":2263683},{"ltp":1.55,"id":4946664}]}]}
+{"op":"mcm","clk":"7689085448","pt":1539171004779,"mc":[{"id":"1.149232333","rc":[{"ltp":1.5,"id":4946664}]}]}
+{"op":"mcm","clk":"7689091532","pt":1539171063150,"mc":[{"id":"1.149232333","rc":[{"ltp":1.51,"id":4946664}]}]}
+{"op":"mcm","clk":"7689097764","pt":1539171124156,"mc":[{"id":"1.149232333","rc":[{"ltp":2.96,"id":2263683}]}]}
+{"op":"mcm","clk":"7689111118","pt":1539171185421,"mc":[{"id":"1.149232333","rc":[{"ltp":3.1,"id":2263683},{"ltp":1.42,"id":4946664}]}]}
+{"op":"mcm","clk":"7689115898","pt":1539171244704,"mc":[{"id":"1.149232333","rc":[{"ltp":1.34,"id":4946664}]}]}
+{"op":"mcm","clk":"7689121047","pt":1539171305289,"mc":[{"id":"1.149232333","rc":[{"ltp":4.7,"id":2263683},{"ltp":1.28,"id":4946664}]}]}
+{"op":"mcm","clk":"7689131176","pt":1539171421517,"mc":[{"id":"1.149232333","rc":[{"ltp":5.5,"id":2263683},{"ltp":1.22,"id":4946664}]}]}
+{"op":"mcm","clk":"7689136889","pt":1539171483687,"mc":[{"id":"1.149232333","rc":[{"ltp":1.18,"id":4946664}]}]}
+{"op":"mcm","clk":"7689142496","pt":1539171544949,"mc":[{"id":"1.149232333","rc":[{"ltp":6.2,"id":2263683},{"ltp":1.19,"id":4946664}]}]}
+{"op":"mcm","clk":"7689153172","pt":1539171663167,"mc":[{"id":"1.149232333","rc":[{"ltp":5.7,"id":2263683},{"ltp":1.23,"id":4946664}]}]}
+{"op":"mcm","clk":"7689158426","pt":1539171724437,"mc":[{"id":"1.149232333","rc":[{"ltp":6.4,"id":2263683},{"ltp":1.24,"id":4946664}]}]}
+{"op":"mcm","clk":"7689162792","pt":1539171780597,"mc":[{"id":"1.149232333","rc":[{"ltp":1.12,"id":4946664}]}]}
+{"op":"mcm","clk":"7689167694","pt":1539171843554,"mc":[{"id":"1.149232333","rc":[{"ltp":1.08,"id":4946664}]}]}
+{"op":"mcm","clk":"7689172876","pt":1539171904896,"mc":[{"id":"1.149232333","rc":[{"ltp":13.5,"id":2263683}]}]}
+{"op":"mcm","clk":"7689177227","pt":1539171956554,"mc":[{"id":"1.149232333","rc":[{"ltp":1.11,"id":4946664}]}]}
+{"op":"mcm","clk":"7689182691","pt":1539172022745,"mc":[{"id":"1.149232333","rc":[{"ltp":10.0,"id":2263683}]}]}
+{"op":"mcm","clk":"7689195430","pt":1539172079105,"mc":[{"id":"1.149232333","rc":[{"ltp":7.6,"id":2263683},{"ltp":1.16,"id":4946664}]}]}
+{"op":"mcm","clk":"7689199442","pt":1539172126442,"mc":[{"id":"1.149232333","rc":[{"ltp":4.3,"id":2263683},{"ltp":1.3,"id":4946664}]}]}
+{"op":"mcm","clk":"7689210921","pt":1539172259409,"mc":[{"id":"1.149232333","rc":[{"ltp":1.25,"id":4946664}]}]}
+{"op":"mcm","clk":"7689215570","pt":1539172316876,"mc":[{"id":"1.149232333","rc":[{"ltp":1.29,"id":4946664}]}]}
+{"op":"mcm","clk":"7689226017","pt":1539172445293,"mc":[{"id":"1.149232333","rc":[{"ltp":1.31,"id":4946664}]}]}
+{"op":"mcm","clk":"7689230863","pt":1539172505453,"mc":[{"id":"1.149232333","rc":[{"ltp":7.4,"id":2263683},{"ltp":1.19,"id":4946664}]}]}
+{"op":"mcm","clk":"7689235597","pt":1539172564345,"mc":[{"id":"1.149232333","rc":[{"ltp":7.0,"id":2263683},{"ltp":1.14,"id":4946664}]}]}
+{"op":"mcm","clk":"7689240621","pt":1539172623096,"mc":[{"id":"1.149232333","rc":[{"ltp":6.8,"id":2263683}]}]}
+{"op":"mcm","clk":"7689245528","pt":1539172685184,"mc":[{"id":"1.149232333","rc":[{"ltp":12.5,"id":2263683},{"ltp":1.03,"id":4946664}]}]}
+{"op":"mcm","clk":"7689250568","pt":1539172744740,"mc":[{"id":"1.149232333","rc":[{"ltp":15.0,"id":2263683},{"ltp":1.07,"id":4946664}]}]}
+{"op":"mcm","clk":"7689256148","pt":1539172805171,"mc":[{"id":"1.149232333","rc":[{"ltp":1.05,"id":4946664}]}]}
+{"op":"mcm","clk":"7689260514","pt":1539172846618,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:51:00.000Z","suspendTime":"2018-10-10T09:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"ACTIVE","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:51:00.000Z","version":2448416833,"name":"Match Odds","eventName":"Guez v Viola"},"rc":[{"ltp":21.0,"id":2263683},{"ltp":1.01,"id":4946664}]}]}
+{"op":"mcm","clk":"7689264719","pt":1539172887631,"mc":[{"id":"1.149232333","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28944351","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-10T09:51:00.000Z","suspendTime":"2018-10-10T09:51:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-10T12:01:22.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":2263683,"name":"David Guez"},{"status":"WINNER","sortPriority":2,"id":4946664,"name":"Matteo Viola"}],"regulators":["MR_INT"],"countryCode":"ES","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-10T09:51:00.000Z","version":2448419085,"name":"Match Odds","eventName":"Guez v Viola"}}]}

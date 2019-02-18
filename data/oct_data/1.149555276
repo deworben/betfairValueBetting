@@ -1,0 +1,112 @@
+{"op":"mcm","clk":"7698625324","pt":1539451239503,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T09:00:00.000Z","suspendTime":"2018-10-14T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2453697573,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7701202911","pt":1539476392460,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T09:00:00.000Z","version":2454594748,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7701203177","pt":1539476394589,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2454594748,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7704022696","pt":1539509942103,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7709689703","pt":1539551356030,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952}]}]}
+{"op":"mcm","clk":"7710527648","pt":1539562785168,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T09:00:00.000Z","suspendTime":"2018-10-16T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T09:00:00.000Z","version":2456815463,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7713514324","pt":1539613426403,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T14:00:00.000Z","suspendTime":"2018-10-16T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T14:00:00.000Z","version":2457137670,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7714794170","pt":1539626473745,"mc":[{"id":"1.149555276","rc":[{"ltp":1.23,"id":8735952}]}]}
+{"op":"mcm","clk":"7715167591","pt":1539630279761,"mc":[{"id":"1.149555276","rc":[{"ltp":5.6,"id":3622149}]}]}
+{"op":"mcm","clk":"7715672254","pt":1539636000933,"mc":[{"id":"1.149555276","rc":[{"ltp":5.4,"id":3622149}]}]}
+{"op":"mcm","clk":"7715695284","pt":1539636286519,"mc":[{"id":"1.149555276","rc":[{"ltp":5.6,"id":3622149}]}]}
+{"op":"mcm","clk":"7717160796","pt":1539660896895,"mc":[{"id":"1.149555276","rc":[{"ltp":1.22,"id":8735952}]}]}
+{"op":"mcm","clk":"7717213946","pt":1539661906052,"mc":[{"id":"1.149555276","rc":[{"ltp":1.24,"id":8735952}]}]}
+{"op":"mcm","clk":"7717508990","pt":1539667853795,"mc":[{"id":"1.149555276","rc":[{"ltp":1.22,"id":8735952}]}]}
+{"op":"mcm","clk":"7718441192","pt":1539681365408,"mc":[{"id":"1.149555276","rc":[{"ltp":5.1,"id":3622149}]}]}
+{"op":"mcm","clk":"7718752166","pt":1539685092482,"mc":[{"id":"1.149555276","rc":[{"ltp":1.23,"id":8735952}]}]}
+{"op":"mcm","clk":"7718971477","pt":1539687527346,"mc":[{"id":"1.149555276","rc":[{"ltp":5.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7719048674","pt":1539688433606,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952}]}]}
+{"op":"mcm","clk":"7719051922","pt":1539688475111,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719124357","pt":1539689306299,"mc":[{"id":"1.149555276","rc":[{"ltp":6.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7719217056","pt":1539690531203,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:45:00.000Z","suspendTime":"2018-10-16T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:45:00.000Z","version":2457928696,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7719289252","pt":1539691429701,"mc":[{"id":"1.149555276","rc":[{"ltp":5.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7719293627","pt":1539691490230,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952}]}]}
+{"op":"mcm","clk":"7719309866","pt":1539691691169,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719433719","pt":1539692931594,"mc":[{"id":"1.149555276","rc":[{"ltp":5.7,"id":3622149}]}]}
+{"op":"mcm","clk":"7719438752","pt":1539692989586,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952}]}]}
+{"op":"mcm","clk":"7719521335","pt":1539693832645,"mc":[{"id":"1.149555276","rc":[{"ltp":1.22,"id":8735952},{"ltp":5.6,"id":3622149}]}]}
+{"op":"mcm","clk":"7719526300","pt":1539693886363,"mc":[{"id":"1.149555276","rc":[{"ltp":1.23,"id":8735952}]}]}
+{"op":"mcm","clk":"7719538334","pt":1539694013489,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952},{"ltp":5.3,"id":3622149}]}]}
+{"op":"mcm","clk":"7719578039","pt":1539694487586,"mc":[{"id":"1.149555276","rc":[{"ltp":5.9,"id":3622149}]}]}
+{"op":"mcm","clk":"7719634858","pt":1539695013133,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719668749","pt":1539695333179,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952},{"ltp":5.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7719703294","pt":1539695565001,"mc":[{"id":"1.149555276","rc":[{"ltp":5.7,"id":3622149}]}]}
+{"op":"mcm","clk":"7719756438","pt":1539696051873,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952},{"ltp":5.9,"id":3622149}]}]}
+{"op":"mcm","clk":"7719762086","pt":1539696100814,"mc":[{"id":"1.149555276","rc":[{"ltp":1.21,"id":8735952},{"ltp":5.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7719774372","pt":1539696210149,"mc":[{"id":"1.149555276","rc":[{"ltp":1.19,"id":8735952}]}]}
+{"op":"mcm","clk":"7719819509","pt":1539696533729,"mc":[{"id":"1.149555276","rc":[{"ltp":6.2,"id":3622149}]}]}
+{"op":"mcm","clk":"7719825330","pt":1539696591763,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719845476","pt":1539696773745,"mc":[{"id":"1.149555276","rc":[{"ltp":6.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7719852318","pt":1539696832133,"mc":[{"id":"1.149555276","rc":[{"ltp":1.19,"id":8735952}]}]}
+{"op":"mcm","clk":"7719858093","pt":1539696880299,"mc":[{"id":"1.149555276","rc":[{"ltp":6.4,"id":3622149}]}]}
+{"op":"mcm","clk":"7719878962","pt":1539697047176,"mc":[{"id":"1.149555276","rc":[{"ltp":6.2,"id":3622149}]}]}
+{"op":"mcm","clk":"7719888198","pt":1539697120733,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:42:00.000Z","suspendTime":"2018-10-16T13:42:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:42:00.000Z","version":2458067354,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7719897531","pt":1539697193103,"mc":[{"id":"1.149555276","rc":[{"ltp":6.4,"id":3622149}]}]}
+{"op":"mcm","clk":"7719930262","pt":1539697369469,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719938230","pt":1539697431717,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:40:00.000Z","suspendTime":"2018-10-16T13:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:40:00.000Z","version":2458070447,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7719944724","pt":1539697486263,"mc":[{"id":"1.149555276","rc":[{"ltp":1.18,"id":8735952}]}]}
+{"op":"mcm","clk":"7719952884","pt":1539697553026,"mc":[{"id":"1.149555276","rc":[{"ltp":1.19,"id":8735952}]}]}
+{"op":"mcm","clk":"7719960096","pt":1539697611491,"mc":[{"id":"1.149555276","rc":[{"ltp":6.2,"id":3622149}]}]}
+{"op":"mcm","clk":"7719985772","pt":1539697851583,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7719991389","pt":1539697907725,"mc":[{"id":"1.149555276","rc":[{"ltp":1.19,"id":8735952}]}]}
+{"op":"mcm","clk":"7719996338","pt":1539697954935,"mc":[{"id":"1.149555276","rc":[{"ltp":6.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720004658","pt":1539698030208,"mc":[{"id":"1.149555276","rc":[{"ltp":1.2,"id":8735952}]}]}
+{"op":"mcm","clk":"7720017553","pt":1539698153579,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:40:00.000Z","suspendTime":"2018-10-16T13:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:40:00.000Z","version":2458089520,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}
+{"op":"mcm","clk":"7720023671","pt":1539698213615,"mc":[{"id":"1.149555276","rc":[{"ltp":1.13,"id":8735952},{"ltp":8.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720040083","pt":1539698273364,"mc":[{"id":"1.149555276","rc":[{"ltp":1.14,"id":8735952},{"ltp":6.4,"id":3622149}]}]}
+{"op":"mcm","clk":"7720046506","pt":1539698332815,"mc":[{"id":"1.149555276","rc":[{"ltp":6.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7720053359","pt":1539698393522,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952},{"ltp":9.2,"id":3622149}]}]}
+{"op":"mcm","clk":"7720060493","pt":1539698453241,"mc":[{"id":"1.149555276","rc":[{"ltp":1.14,"id":8735952},{"ltp":8.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720067940","pt":1539698512960,"mc":[{"id":"1.149555276","rc":[{"ltp":1.16,"id":8735952},{"ltp":6.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7720075052","pt":1539698572553,"mc":[{"id":"1.149555276","rc":[{"ltp":1.19,"id":8735952},{"ltp":6.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720082268","pt":1539698633739,"mc":[{"id":"1.149555276","rc":[{"ltp":1.15,"id":8735952},{"ltp":6.8,"id":3622149}]}]}
+{"op":"mcm","clk":"7720089523","pt":1539698693599,"mc":[{"id":"1.149555276","rc":[{"ltp":1.1,"id":8735952},{"ltp":8.6,"id":3622149}]}]}
+{"op":"mcm","clk":"7720097249","pt":1539698752451,"mc":[{"id":"1.149555276","rc":[{"ltp":10.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720104543","pt":1539698813342,"mc":[{"id":"1.149555276","rc":[{"ltp":11.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720111454","pt":1539698873635,"mc":[{"id":"1.149555276","rc":[{"ltp":1.09,"id":8735952}]}]}
+{"op":"mcm","clk":"7720117418","pt":1539698932818,"mc":[{"id":"1.149555276","rc":[{"ltp":1.12,"id":8735952},{"ltp":8.6,"id":3622149}]}]}
+{"op":"mcm","clk":"7720129772","pt":1539699053090,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952}]}]}
+{"op":"mcm","clk":"7720135968","pt":1539699112336,"mc":[{"id":"1.149555276","rc":[{"ltp":11.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720152297","pt":1539699173089,"mc":[{"id":"1.149555276","rc":[{"ltp":1.09,"id":8735952}]}]}
+{"op":"mcm","clk":"7720159116","pt":1539699232438,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952},{"ltp":10.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720166054","pt":1539699292792,"mc":[{"id":"1.149555276","rc":[{"ltp":1.13,"id":8735952},{"ltp":9.2,"id":3622149}]}]}
+{"op":"mcm","clk":"7720172538","pt":1539699353663,"mc":[{"id":"1.149555276","rc":[{"ltp":1.1,"id":8735952}]}]}
+{"op":"mcm","clk":"7720178772","pt":1539699413352,"mc":[{"id":"1.149555276","rc":[{"ltp":1.12,"id":8735952}]}]}
+{"op":"mcm","clk":"7720191956","pt":1539699533674,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952},{"ltp":11.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720198076","pt":1539699592212,"mc":[{"id":"1.149555276","rc":[{"ltp":1.09,"id":8735952},{"ltp":12.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720204627","pt":1539699653234,"mc":[{"id":"1.149555276","rc":[{"ltp":1.08,"id":8735952},{"ltp":13.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720210918","pt":1539699713011,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952},{"ltp":11.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720216922","pt":1539699773365,"mc":[{"id":"1.149555276","rc":[{"ltp":1.1,"id":8735952}]}]}
+{"op":"mcm","clk":"7720223353","pt":1539699833625,"mc":[{"id":"1.149555276","rc":[{"ltp":1.11,"id":8735952},{"ltp":10.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720229392","pt":1539699891686,"mc":[{"id":"1.149555276","rc":[{"ltp":10.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720235975","pt":1539699952008,"mc":[{"id":"1.149555276","rc":[{"ltp":1.09,"id":8735952},{"ltp":12.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720241707","pt":1539700013645,"mc":[{"id":"1.149555276","rc":[{"ltp":1.08,"id":8735952},{"ltp":15.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720257494","pt":1539700073641,"mc":[{"id":"1.149555276","rc":[{"ltp":13.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720268150","pt":1539700191958,"mc":[{"id":"1.149555276","rc":[{"ltp":1.09,"id":8735952},{"ltp":12.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720279664","pt":1539700313646,"mc":[{"id":"1.149555276","rc":[{"ltp":1.07,"id":8735952},{"ltp":15.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720285393","pt":1539700373286,"mc":[{"id":"1.149555276","rc":[{"ltp":1.05,"id":8735952},{"ltp":18.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720290717","pt":1539700431540,"mc":[{"id":"1.149555276","rc":[{"ltp":1.06,"id":8735952},{"ltp":17.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720309120","pt":1539700613258,"mc":[{"id":"1.149555276","rc":[{"ltp":1.08,"id":8735952}]}]}
+{"op":"mcm","clk":"7720314930","pt":1539700672339,"mc":[{"id":"1.149555276","rc":[{"ltp":14.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720321160","pt":1539700733551,"mc":[{"id":"1.149555276","rc":[{"ltp":1.1,"id":8735952},{"ltp":11.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720327003","pt":1539700793329,"mc":[{"id":"1.149555276","rc":[{"ltp":1.08,"id":8735952},{"ltp":10.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720333149","pt":1539700852850,"mc":[{"id":"1.149555276","rc":[{"ltp":13.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720339069","pt":1539700913388,"mc":[{"id":"1.149555276","rc":[{"ltp":1.07,"id":8735952},{"ltp":17.5,"id":3622149}]}]}
+{"op":"mcm","clk":"7720354646","pt":1539700972030,"mc":[{"id":"1.149555276","rc":[{"ltp":1.05,"id":8735952}]}]}
+{"op":"mcm","clk":"7720360517","pt":1539701033524,"mc":[{"id":"1.149555276","rc":[{"ltp":1.03,"id":8735952},{"ltp":34.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720372806","pt":1539701152189,"mc":[{"id":"1.149555276","rc":[{"ltp":1.02,"id":8735952}]}]}
+{"op":"mcm","clk":"7720384474","pt":1539701272188,"mc":[{"id":"1.149555276","rc":[{"ltp":55.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720395080","pt":1539701390396,"mc":[{"id":"1.149555276","rc":[{"ltp":1.01,"id":8735952},{"ltp":70.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720400765","pt":1539701452983,"mc":[{"id":"1.149555276","rc":[{"ltp":1.02,"id":8735952},{"ltp":55.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720406268","pt":1539701512353,"mc":[{"id":"1.149555276","rc":[{"ltp":1.03,"id":8735952},{"ltp":50.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720417016","pt":1539701632788,"mc":[{"id":"1.149555276","rc":[{"ltp":1.02,"id":8735952}]}]}
+{"op":"mcm","clk":"7720422354","pt":1539701693368,"mc":[{"id":"1.149555276","rc":[{"ltp":1.01,"id":8735952}]}]}
+{"op":"mcm","clk":"7720427408","pt":1539701752882,"mc":[{"id":"1.149555276","rc":[{"ltp":1.02,"id":8735952}]}]}
+{"op":"mcm","clk":"7720470840","pt":1539702109148,"mc":[{"id":"1.149555276","rc":[{"ltp":1.01,"id":8735952},{"ltp":90.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720476342","pt":1539702173142,"mc":[{"id":"1.149555276","rc":[{"ltp":100.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720481372","pt":1539702228448,"mc":[{"id":"1.149555276","rc":[{"ltp":140.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720487704","pt":1539702293591,"mc":[{"id":"1.149555276","rc":[{"ltp":1.02,"id":8735952},{"ltp":70.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720493957","pt":1539702353698,"mc":[{"id":"1.149555276","rc":[{"ltp":1.01,"id":8735952}]}]}
+{"op":"mcm","clk":"7720500650","pt":1539702412176,"mc":[{"id":"1.149555276","rc":[{"ltp":50.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720507629","pt":1539702472983,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:40:00.000Z","suspendTime":"2018-10-16T13:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"ACTIVE","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:40:00.000Z","version":2458183749,"name":"Match Odds","eventName":"Voegele v Muguruza"},"rc":[{"ltp":190.0,"id":3622149}]}]}
+{"op":"mcm","clk":"7720512122","pt":1539702514252,"mc":[{"id":"1.149555276","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955819","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-16T13:40:00.000Z","suspendTime":"2018-10-16T13:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-16T15:08:23.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":3622149,"name":"Stefanie Voegele"},{"status":"WINNER","sortPriority":2,"id":8735952,"name":"Garbiñe Muguruza"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-16T13:40:00.000Z","version":2458186134,"name":"Match Odds","eventName":"Voegele v Muguruza"}}]}

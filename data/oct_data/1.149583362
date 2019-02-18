@@ -1,0 +1,79 @@
+{"op":"mcm","clk":"7704878278","pt":1539516037658,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455203062,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}
+{"op":"mcm","clk":"7705012557","pt":1539516958138,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T09:00:00.000Z","suspendTime":"2018-10-15T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T09:00:00.000Z","version":2455203062,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}
+{"op":"mcm","clk":"7706806468","pt":1539527658300,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T11:30:00.000Z","suspendTime":"2018-10-15T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T11:30:00.000Z","version":2455686627,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}
+{"op":"mcm","clk":"7711840823","pt":1539595701132,"mc":[{"id":"1.149583362","rc":[{"ltp":1.56,"id":21143606}]}]}
+{"op":"mcm","clk":"7712102788","pt":1539599119797,"mc":[{"id":"1.149583362","rc":[{"ltp":1.57,"id":21143606}]}]}
+{"op":"mcm","clk":"7712406804","pt":1539602540265,"mc":[{"id":"1.149583362","rc":[{"ltp":1.56,"id":21143606}]}]}
+{"op":"mcm","clk":"7712421105","pt":1539602712318,"mc":[{"id":"1.149583362","rc":[{"ltp":1.61,"id":21143606},{"ltp":2.66,"id":21143607}]}]}
+{"op":"mcm","clk":"7712451002","pt":1539602958868,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T11:25:00.000Z","suspendTime":"2018-10-15T11:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T11:25:00.000Z","version":2457031154,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}
+{"op":"mcm","clk":"7712511311","pt":1539603700035,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T11:25:00.000Z","suspendTime":"2018-10-15T11:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T11:25:00.000Z","version":2457035334,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}
+{"op":"mcm","clk":"7712523689","pt":1539603757722,"mc":[{"id":"1.149583362","rc":[{"ltp":1.65,"id":21143606}]}]}
+{"op":"mcm","clk":"7712527918","pt":1539603809310,"mc":[{"id":"1.149583362","rc":[{"ltp":1.8,"id":21143606},{"ltp":2.24,"id":21143607}]}]}
+{"op":"mcm","clk":"7712538801","pt":1539603939512,"mc":[{"id":"1.149583362","rc":[{"ltp":1.6,"id":21143606}]}]}
+{"op":"mcm","clk":"7712547344","pt":1539604059849,"mc":[{"id":"1.149583362","rc":[{"ltp":1.75,"id":21143606},{"ltp":2.32,"id":21143607}]}]}
+{"op":"mcm","clk":"7712548570","pt":1539604077689,"mc":[{"id":"1.149583362","rc":[{"ltp":1.8,"id":21143606}]}]}
+{"op":"mcm","clk":"7712555657","pt":1539604174286,"mc":[{"id":"1.149583362","rc":[{"ltp":1.9,"id":21143606},{"ltp":2.12,"id":21143607}]}]}
+{"op":"mcm","clk":"7712560918","pt":1539604239984,"mc":[{"id":"1.149583362","rc":[{"ltp":2.08,"id":21143606},{"ltp":1.89,"id":21143607}]}]}
+{"op":"mcm","clk":"7712565431","pt":1539604298408,"mc":[{"id":"1.149583362","rc":[{"ltp":1.74,"id":21143606},{"ltp":2.36,"id":21143607}]}]}
+{"op":"mcm","clk":"7712570392","pt":1539604356793,"mc":[{"id":"1.149583362","rc":[{"ltp":1.6,"id":21143606}]}]}
+{"op":"mcm","clk":"7712579464","pt":1539604460452,"mc":[{"id":"1.149583362","rc":[{"ltp":1.89,"id":21143606},{"ltp":2.12,"id":21143607}]}]}
+{"op":"mcm","clk":"7712589464","pt":1539604600140,"mc":[{"id":"1.149583362","rc":[{"ltp":1.92,"id":21143606},{"ltp":2.06,"id":21143607}]}]}
+{"op":"mcm","clk":"7712602327","pt":1539604660281,"mc":[{"id":"1.149583362","rc":[{"ltp":1.89,"id":21143606},{"ltp":2.14,"id":21143607}]}]}
+{"op":"mcm","clk":"7712606950","pt":1539604715786,"mc":[{"id":"1.149583362","rc":[{"ltp":2.16,"id":21143607}]}]}
+{"op":"mcm","clk":"7712618092","pt":1539604839310,"mc":[{"id":"1.149583362","rc":[{"ltp":2.66,"id":21143606},{"ltp":1.63,"id":21143607}]}]}
+{"op":"mcm","clk":"7712622910","pt":1539604895281,"mc":[{"id":"1.149583362","rc":[{"ltp":2.86,"id":21143606},{"ltp":1.54,"id":21143607}]}]}
+{"op":"mcm","clk":"7712628713","pt":1539604958671,"mc":[{"id":"1.149583362","rc":[{"ltp":2.88,"id":21143606}]}]}
+{"op":"mcm","clk":"7712640140","pt":1539605080061,"mc":[{"id":"1.149583362","rc":[{"ltp":2.86,"id":21143606}]}]}
+{"op":"mcm","clk":"7712652158","pt":1539605197141,"mc":[{"id":"1.149583362","rc":[{"ltp":2.74,"id":21143606}]}]}
+{"op":"mcm","clk":"7712663700","pt":1539605308681,"mc":[{"id":"1.149583362","rc":[{"ltp":2.46,"id":21143606},{"ltp":1.68,"id":21143607}]}]}
+{"op":"mcm","clk":"7712670473","pt":1539605379166,"mc":[{"id":"1.149583362","rc":[{"ltp":1.92,"id":21143607}]}]}
+{"op":"mcm","clk":"7712674936","pt":1539605427721,"mc":[{"id":"1.149583362","rc":[{"ltp":1.98,"id":21143606}]}]}
+{"op":"mcm","clk":"7712681643","pt":1539605497314,"mc":[{"id":"1.149583362","rc":[{"ltp":2.0,"id":21143606},{"ltp":2.0,"id":21143607}]}]}
+{"op":"mcm","clk":"7712708756","pt":1539605679628,"mc":[{"id":"1.149583362","rc":[{"ltp":2.36,"id":21143607}]}]}
+{"op":"mcm","clk":"7712715407","pt":1539605739435,"mc":[{"id":"1.149583362","rc":[{"ltp":1.55,"id":21143606},{"ltp":2.84,"id":21143607}]}]}
+{"op":"mcm","clk":"7712720964","pt":1539605792004,"mc":[{"id":"1.149583362","rc":[{"ltp":1.43,"id":21143606},{"ltp":3.3,"id":21143607}]}]}
+{"op":"mcm","clk":"7712727290","pt":1539605858773,"mc":[{"id":"1.149583362","rc":[{"ltp":1.3,"id":21143606},{"ltp":4.4,"id":21143607}]}]}
+{"op":"mcm","clk":"7712759728","pt":1539606192464,"mc":[{"id":"1.149583362","rc":[{"ltp":1.2,"id":21143606},{"ltp":5.5,"id":21143607}]}]}
+{"op":"mcm","clk":"7712789623","pt":1539606458880,"mc":[{"id":"1.149583362","rc":[{"ltp":1.23,"id":21143606}]}]}
+{"op":"mcm","clk":"7712794143","pt":1539606507913,"mc":[{"id":"1.149583362","rc":[{"ltp":1.22,"id":21143606}]}]}
+{"op":"mcm","clk":"7712800944","pt":1539606579055,"mc":[{"id":"1.149583362","rc":[{"ltp":1.24,"id":21143606}]}]}
+{"op":"mcm","clk":"7712813630","pt":1539606699107,"mc":[{"id":"1.149583362","rc":[{"ltp":1.19,"id":21143606}]}]}
+{"op":"mcm","clk":"7712825549","pt":1539606820386,"mc":[{"id":"1.149583362","rc":[{"ltp":1.2,"id":21143606},{"ltp":6.0,"id":21143607}]}]}
+{"op":"mcm","clk":"7712831639","pt":1539606878983,"mc":[{"id":"1.149583362","rc":[{"ltp":1.25,"id":21143606},{"ltp":5.0,"id":21143607}]}]}
+{"op":"mcm","clk":"7712843698","pt":1539606998246,"mc":[{"id":"1.149583362","rc":[{"ltp":1.22,"id":21143606},{"ltp":5.5,"id":21143607}]}]}
+{"op":"mcm","clk":"7712849528","pt":1539607058540,"mc":[{"id":"1.149583362","rc":[{"ltp":1.28,"id":21143606},{"ltp":4.5,"id":21143607}]}]}
+{"op":"mcm","clk":"7712862230","pt":1539607180094,"mc":[{"id":"1.149583362","rc":[{"ltp":1.43,"id":21143606}]}]}
+{"op":"mcm","clk":"7712867915","pt":1539607238754,"mc":[{"id":"1.149583362","rc":[{"ltp":1.38,"id":21143606},{"ltp":3.6,"id":21143607}]}]}
+{"op":"mcm","clk":"7712873600","pt":1539607299121,"mc":[{"id":"1.149583362","rc":[{"ltp":1.31,"id":21143606},{"ltp":4.5,"id":21143607}]}]}
+{"op":"mcm","clk":"7712874879","pt":1539607313064,"mc":[{"id":"1.149583362","rc":[{"ltp":1.32,"id":21143606},{"ltp":4.1,"id":21143607}]}]}
+{"op":"mcm","clk":"7712892361","pt":1539607416867,"mc":[{"id":"1.149583362","rc":[{"ltp":1.25,"id":21143606}]}]}
+{"op":"mcm","clk":"7712897967","pt":1539607477104,"mc":[{"id":"1.149583362","rc":[{"ltp":1.21,"id":21143606}]}]}
+{"op":"mcm","clk":"7712903396","pt":1539607535702,"mc":[{"id":"1.149583362","rc":[{"ltp":6.0,"id":21143607}]}]}
+{"op":"mcm","clk":"7712909615","pt":1539607600185,"mc":[{"id":"1.149583362","rc":[{"ltp":6.2,"id":21143607}]}]}
+{"op":"mcm","clk":"7712915395","pt":1539607659619,"mc":[{"id":"1.149583362","rc":[{"ltp":1.24,"id":21143606},{"ltp":5.5,"id":21143607}]}]}
+{"op":"mcm","clk":"7712921375","pt":1539607719934,"mc":[{"id":"1.149583362","rc":[{"ltp":6.2,"id":21143607}]}]}
+{"op":"mcm","clk":"7712932599","pt":1539607837511,"mc":[{"id":"1.149583362","rc":[{"ltp":3.85,"id":21143607}]}]}
+{"op":"mcm","clk":"7712937916","pt":1539607898513,"mc":[{"id":"1.149583362","rc":[{"ltp":1.29,"id":21143606},{"ltp":4.4,"id":21143607}]}]}
+{"op":"mcm","clk":"7712942768","pt":1539607958867,"mc":[{"id":"1.149583362","rc":[{"ltp":1.41,"id":21143606},{"ltp":3.3,"id":21143607}]}]}
+{"op":"mcm","clk":"7712947385","pt":1539608015088,"mc":[{"id":"1.149583362","rc":[{"ltp":1.58,"id":21143606},{"ltp":2.72,"id":21143607}]}]}
+{"op":"mcm","clk":"7712953128","pt":1539608080330,"mc":[{"id":"1.149583362","rc":[{"ltp":1.47,"id":21143606},{"ltp":3.15,"id":21143607}]}]}
+{"op":"mcm","clk":"7712958084","pt":1539608135802,"mc":[{"id":"1.149583362","rc":[{"ltp":1.52,"id":21143606},{"ltp":2.94,"id":21143607}]}]}
+{"op":"mcm","clk":"7712964163","pt":1539608200214,"mc":[{"id":"1.149583362","rc":[{"ltp":1.54,"id":21143606},{"ltp":2.86,"id":21143607}]}]}
+{"op":"mcm","clk":"7712977246","pt":1539608251864,"mc":[{"id":"1.149583362","rc":[{"ltp":1.75,"id":21143606},{"ltp":2.34,"id":21143607}]}]}
+{"op":"mcm","clk":"7712982862","pt":1539608310711,"mc":[{"id":"1.149583362","rc":[{"ltp":1.73,"id":21143606},{"ltp":2.36,"id":21143607}]}]}
+{"op":"mcm","clk":"7712989200","pt":1539608378216,"mc":[{"id":"1.149583362","rc":[{"ltp":1.83,"id":21143607}]}]}
+{"op":"mcm","clk":"7712994967","pt":1539608438425,"mc":[{"id":"1.149583362","rc":[{"ltp":2.78,"id":21143606},{"ltp":1.57,"id":21143607}]}]}
+{"op":"mcm","clk":"7713000769","pt":1539608499965,"mc":[{"id":"1.149583362","rc":[{"ltp":3.7,"id":21143606},{"ltp":1.18,"id":21143607}]}]}
+{"op":"mcm","clk":"7713006824","pt":1539608560389,"mc":[{"id":"1.149583362","rc":[{"ltp":13.5,"id":21143606},{"ltp":1.05,"id":21143607}]}]}
+{"op":"mcm","clk":"7713013005","pt":1539608620091,"mc":[{"id":"1.149583362","rc":[{"ltp":1.08,"id":21143607}]}]}
+{"op":"mcm","clk":"7713019815","pt":1539608679681,"mc":[{"id":"1.149583362","rc":[{"ltp":1.14,"id":21143607}]}]}
+{"op":"mcm","clk":"7713026586","pt":1539608739310,"mc":[{"id":"1.149583362","rc":[{"ltp":5.5,"id":21143606},{"ltp":1.22,"id":21143607}]}]}
+{"op":"mcm","clk":"7713033358","pt":1539608798900,"mc":[{"id":"1.149583362","rc":[{"ltp":17.5,"id":21143606},{"ltp":1.05,"id":21143607}]}]}
+{"op":"mcm","clk":"7713039519","pt":1539608857100,"mc":[{"id":"1.149583362","rc":[{"ltp":50.0,"id":21143606},{"ltp":1.02,"id":21143607}]}]}
+{"op":"mcm","clk":"7713045868","pt":1539608920396,"mc":[{"id":"1.149583362","rc":[{"ltp":8.6,"id":21143606},{"ltp":1.1,"id":21143607}]}]}
+{"op":"mcm","clk":"7713050727","pt":1539608966615,"mc":[{"id":"1.149583362","rc":[{"ltp":4.8,"id":21143606},{"ltp":1.26,"id":21143607}]}]}
+{"op":"mcm","clk":"7713058148","pt":1539609036364,"mc":[{"id":"1.149583362","rc":[{"ltp":1.77,"id":21143606},{"ltp":1.33,"id":21143607}]}]}
+{"op":"mcm","clk":"7713063952","pt":1539609089254,"mc":[{"id":"1.149583362","rc":[{"ltp":1.82,"id":21143606},{"ltp":2.08,"id":21143607}]}]}
+{"op":"mcm","clk":"7713079712","pt":1539609158276,"mc":[{"id":"1.149583362","rc":[{"ltp":1.92,"id":21143606},{"ltp":2.16,"id":21143607}]}]}
+{"op":"mcm","clk":"7713086448","pt":1539609219671,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T11:25:00.000Z","suspendTime":"2018-10-15T11:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"ACTIVE","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T11:25:00.000Z","version":2457089434,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"},"rc":[{"ltp":2.78,"id":21143606},{"ltp":1.57,"id":21143607}]}]}
+{"op":"mcm","clk":"7713090031","pt":1539609253869,"mc":[{"id":"1.149583362","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28956908","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-15T11:25:00.000Z","suspendTime":"2018-10-15T11:25:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-15T13:14:11.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":21143606,"name":"Lister/Wacanno"},{"status":"WINNER","sortPriority":2,"id":21143607,"name":"Amanmuradova/Yashina"}],"regulators":["MR_INT"],"countryCode":"LU","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-15T11:25:00.000Z","version":2457090066,"name":"Match Odds","eventName":"Lister/Wacanno v Amanmuradova/Yashina"}}]}

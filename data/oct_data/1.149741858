@@ -1,0 +1,89 @@
+{"op":"mcm","clk":"7730035860","pt":1539801893009,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:30:00.000Z","suspendTime":"2018-10-18T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:30:00.000Z","version":2459784419,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7730182386","pt":1539802954256,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:30:00.000Z","suspendTime":"2018-10-18T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:30:00.000Z","version":2459784419,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7731127821","pt":1539812509246,"mc":[{"id":"1.149741858","rc":[{"ltp":1.58,"id":8659524}]}]}
+{"op":"mcm","clk":"7731141604","pt":1539812562580,"mc":[{"id":"1.149741858","rc":[{"ltp":1.66,"id":8659524}]}]}
+{"op":"mcm","clk":"7731211440","pt":1539813770679,"mc":[{"id":"1.149741858","rc":[{"ltp":1.56,"id":8659524}]}]}
+{"op":"mcm","clk":"7731560860","pt":1539818500846,"mc":[{"id":"1.149741858","rc":[{"ltp":1.55,"id":8659524},{"ltp":2.84,"id":8461316}]}]}
+{"op":"mcm","clk":"7731576503","pt":1539818699742,"mc":[{"id":"1.149741858","rc":[{"ltp":1.6,"id":8659524},{"ltp":2.68,"id":8461316}]}]}
+{"op":"mcm","clk":"7733132728","pt":1539842349555,"mc":[{"id":"1.149741858","rc":[{"ltp":1.55,"id":8659524}]}]}
+{"op":"mcm","clk":"7733894763","pt":1539854799238,"mc":[{"id":"1.149741858","rc":[{"ltp":2.82,"id":8461316}]}]}
+{"op":"mcm","clk":"7734068322","pt":1539857146242,"mc":[{"id":"1.149741858","rc":[{"ltp":1.49,"id":8659524}]}]}
+{"op":"mcm","clk":"7734464861","pt":1539861831948,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:22:00.000Z","suspendTime":"2018-10-18T13:22:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:22:00.000Z","version":2460471021,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7734510129","pt":1539862314516,"mc":[{"id":"1.149741858","rc":[{"ltp":1.47,"id":8659524},{"ltp":3.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7734514704","pt":1539862373776,"mc":[{"id":"1.149741858","rc":[{"ltp":1.41,"id":8659524}]}]}
+{"op":"mcm","clk":"7734519529","pt":1539862430628,"mc":[{"id":"1.149741858","rc":[{"ltp":1.38,"id":8659524}]}]}
+{"op":"mcm","clk":"7734524270","pt":1539862492930,"mc":[{"id":"1.149741858","rc":[{"ltp":3.65,"id":8461316}]}]}
+{"op":"mcm","clk":"7734529124","pt":1539862553271,"mc":[{"id":"1.149741858","rc":[{"ltp":3.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7734537803","pt":1539862674658,"mc":[{"id":"1.149741858","rc":[{"ltp":1.41,"id":8659524}]}]}
+{"op":"mcm","clk":"7734541234","pt":1539862733720,"mc":[{"id":"1.149741858","rc":[{"ltp":1.4,"id":8659524},{"ltp":3.5,"id":8461316}]}]}
+{"op":"mcm","clk":"7734545157","pt":1539862793135,"mc":[{"id":"1.149741858","rc":[{"ltp":3.55,"id":8461316}]}]}
+{"op":"mcm","clk":"7734549273","pt":1539862854324,"mc":[{"id":"1.149741858","rc":[{"ltp":1.35,"id":8659524},{"ltp":3.65,"id":8461316}]}]}
+{"op":"mcm","clk":"7734553549","pt":1539862913657,"mc":[{"id":"1.149741858","rc":[{"ltp":1.37,"id":8659524}]}]}
+{"op":"mcm","clk":"7734569617","pt":1539862974189,"mc":[{"id":"1.149741858","rc":[{"ltp":1.38,"id":8659524}]}]}
+{"op":"mcm","clk":"7734573421","pt":1539863032554,"mc":[{"id":"1.149741858","rc":[{"ltp":1.37,"id":8659524}]}]}
+{"op":"mcm","clk":"7734576638","pt":1539863080004,"mc":[{"id":"1.149741858","rc":[{"ltp":1.38,"id":8659524}]}]}
+{"op":"mcm","clk":"7734596750","pt":1539863385718,"mc":[{"id":"1.149741858","rc":[{"ltp":3.5,"id":8461316}]}]}
+{"op":"mcm","clk":"7734604169","pt":1539863512885,"mc":[{"id":"1.149741858","rc":[{"ltp":1.37,"id":8659524}]}]}
+{"op":"mcm","clk":"7734606813","pt":1539863558452,"mc":[{"id":"1.149741858","rc":[{"ltp":1.39,"id":8659524},{"ltp":3.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7734716539","pt":1539864951167,"mc":[{"id":"1.149741858","rc":[{"ltp":1.36,"id":8659524}]}]}
+{"op":"mcm","clk":"7734720672","pt":1539865011052,"mc":[{"id":"1.149741858","rc":[{"ltp":1.39,"id":8659524}]}]}
+{"op":"mcm","clk":"7734757093","pt":1539865612201,"mc":[{"id":"1.149741858","rc":[{"ltp":1.38,"id":8659524}]}]}
+{"op":"mcm","clk":"7734802763","pt":1539866152182,"mc":[{"id":"1.149741858","rc":[{"ltp":3.65,"id":8461316}]}]}
+{"op":"mcm","clk":"7734821974","pt":1539866453943,"mc":[{"id":"1.149741858","rc":[{"ltp":1.37,"id":8659524},{"ltp":3.7,"id":8461316}]}]}
+{"op":"mcm","clk":"7734940377","pt":1539867704036,"mc":[{"id":"1.149741858","rc":[{"ltp":3.55,"id":8461316}]}]}
+{"op":"mcm","clk":"7735020284","pt":1539868432292,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:17:00.000Z","suspendTime":"2018-10-18T13:17:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:17:00.000Z","version":2460550877,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7735029215","pt":1539868542197,"mc":[{"id":"1.149741858","rc":[{"ltp":3.75,"id":8461316}]}]}
+{"op":"mcm","clk":"7735039036","pt":1539868659810,"mc":[{"id":"1.149741858","rc":[{"ltp":3.5,"id":8461316}]}]}
+{"op":"mcm","clk":"7735045759","pt":1539868732220,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:13:00.000Z","suspendTime":"2018-10-18T13:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:13:00.000Z","version":2460553422,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7735080417","pt":1539869087264,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:13:00.000Z","suspendTime":"2018-10-18T13:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:13:00.000Z","version":2460558628,"name":"Match Odds","eventName":"Cachin v Masur"},"rc":[{"ltp":1.4,"id":8659524}]}]}
+{"op":"mcm","clk":"7735086463","pt":1539869154118,"mc":[{"id":"1.149741858","rc":[{"ltp":1.45,"id":8659524},{"ltp":3.2,"id":8461316}]}]}
+{"op":"mcm","clk":"7735108927","pt":1539869272971,"mc":[{"id":"1.149741858","rc":[{"ltp":1.3,"id":8659524},{"ltp":3.3,"id":8461316}]}]}
+{"op":"mcm","clk":"7735113759","pt":1539869334643,"mc":[{"id":"1.149741858","rc":[{"ltp":1.44,"id":8659524},{"ltp":3.15,"id":8461316}]}]}
+{"op":"mcm","clk":"7735123363","pt":1539869454691,"mc":[{"id":"1.149741858","rc":[{"ltp":1.39,"id":8659524},{"ltp":3.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7735128061","pt":1539869514371,"mc":[{"id":"1.149741858","rc":[{"ltp":1.32,"id":8659524},{"ltp":3.65,"id":8461316}]}]}
+{"op":"mcm","clk":"7735132728","pt":1539869574083,"mc":[{"id":"1.149741858","rc":[{"ltp":1.31,"id":8659524},{"ltp":4.5,"id":8461316}]}]}
+{"op":"mcm","clk":"7735136836","pt":1539869634470,"mc":[{"id":"1.149741858","rc":[{"ltp":1.3,"id":8659524},{"ltp":4.2,"id":8461316}]}]}
+{"op":"mcm","clk":"7735140842","pt":1539869693361,"mc":[{"id":"1.149741858","rc":[{"ltp":1.34,"id":8659524}]}]}
+{"op":"mcm","clk":"7735145693","pt":1539869752690,"mc":[{"id":"1.149741858","rc":[{"ltp":3.9,"id":8461316}]}]}
+{"op":"mcm","clk":"7735151055","pt":1539869812417,"mc":[{"id":"1.149741858","rc":[{"ltp":1.36,"id":8659524}]}]}
+{"op":"mcm","clk":"7735156989","pt":1539869874628,"mc":[{"id":"1.149741858","rc":[{"ltp":1.42,"id":8659524},{"ltp":3.35,"id":8461316}]}]}
+{"op":"mcm","clk":"7735162814","pt":1539869933799,"mc":[{"id":"1.149741858","rc":[{"ltp":1.46,"id":8659524}]}]}
+{"op":"mcm","clk":"7735169192","pt":1539869993424,"mc":[{"id":"1.149741858","rc":[{"ltp":1.44,"id":8659524},{"ltp":2.68,"id":8461316}]}]}
+{"op":"mcm","clk":"7735175838","pt":1539870053402,"mc":[{"id":"1.149741858","rc":[{"ltp":3.15,"id":8461316}]}]}
+{"op":"mcm","clk":"7735182568","pt":1539870114761,"mc":[{"id":"1.149741858","rc":[{"ltp":1.39,"id":8659524},{"ltp":3.65,"id":8461316}]}]}
+{"op":"mcm","clk":"7735200886","pt":1539870170253,"mc":[{"id":"1.149741858","rc":[{"ltp":1.41,"id":8659524},{"ltp":3.85,"id":8461316}]}]}
+{"op":"mcm","clk":"7735207027","pt":1539870234608,"mc":[{"id":"1.149741858","rc":[{"ltp":1.42,"id":8659524}]}]}
+{"op":"mcm","clk":"7735212230","pt":1539870292663,"mc":[{"id":"1.149741858","rc":[{"ltp":1.24,"id":8659524},{"ltp":3.9,"id":8461316}]}]}
+{"op":"mcm","clk":"7735217180","pt":1539870346376,"mc":[{"id":"1.149741858","rc":[{"ltp":1.39,"id":8659524},{"ltp":3.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7735223387","pt":1539870412952,"mc":[{"id":"1.149741858","rc":[{"ltp":1.32,"id":8659524}]}]}
+{"op":"mcm","clk":"7735229193","pt":1539870471662,"mc":[{"id":"1.149741858","rc":[{"ltp":1.25,"id":8659524}]}]}
+{"op":"mcm","clk":"7735234747","pt":1539870534607,"mc":[{"id":"1.149741858","rc":[{"ltp":1.16,"id":8659524},{"ltp":7.2,"id":8461316}]}]}
+{"op":"mcm","clk":"7735240088","pt":1539870594545,"mc":[{"id":"1.149741858","rc":[{"ltp":1.15,"id":8659524},{"ltp":7.8,"id":8461316}]}]}
+{"op":"mcm","clk":"7735256807","pt":1539870773843,"mc":[{"id":"1.149741858","rc":[{"ltp":1.18,"id":8659524}]}]}
+{"op":"mcm","clk":"7735262268","pt":1539870834268,"mc":[{"id":"1.149741858","rc":[{"ltp":1.12,"id":8659524},{"ltp":7.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7735267587","pt":1539870893846,"mc":[{"id":"1.149741858","rc":[{"ltp":1.13,"id":8659524},{"ltp":8.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7735273158","pt":1539870954651,"mc":[{"id":"1.149741858","rc":[{"ltp":1.1,"id":8659524}]}]}
+{"op":"mcm","clk":"7735278705","pt":1539871012137,"mc":[{"id":"1.149741858","rc":[{"ltp":11.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735296897","pt":1539871071973,"mc":[{"id":"1.149741858","rc":[{"ltp":1.09,"id":8659524}]}]}
+{"op":"mcm","clk":"7735302912","pt":1539871133030,"mc":[{"id":"1.149741858","rc":[{"ltp":1.12,"id":8659524}]}]}
+{"op":"mcm","clk":"7735308796","pt":1539871194171,"mc":[{"id":"1.149741858","rc":[{"ltp":1.11,"id":8659524}]}]}
+{"op":"mcm","clk":"7735315526","pt":1539871253666,"mc":[{"id":"1.149741858","rc":[{"ltp":1.1,"id":8659524}]}]}
+{"op":"mcm","clk":"7735335500","pt":1539871433709,"mc":[{"id":"1.149741858","rc":[{"ltp":1.09,"id":8659524},{"ltp":12.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735341309","pt":1539871493855,"mc":[{"id":"1.149741858","rc":[{"ltp":1.13,"id":8659524},{"ltp":9.4,"id":8461316}]}]}
+{"op":"mcm","clk":"7735347487","pt":1539871554700,"mc":[{"id":"1.149741858","rc":[{"ltp":8.6,"id":8461316}]}]}
+{"op":"mcm","clk":"7735353690","pt":1539871614603,"mc":[{"id":"1.149741858","rc":[{"ltp":1.2,"id":8659524},{"ltp":6.2,"id":8461316}]}]}
+{"op":"mcm","clk":"7735360170","pt":1539871674038,"mc":[{"id":"1.149741858","rc":[{"ltp":1.15,"id":8659524},{"ltp":6.4,"id":8461316}]}]}
+{"op":"mcm","clk":"7735366916","pt":1539871733752,"mc":[{"id":"1.149741858","rc":[{"ltp":1.13,"id":8659524}]}]}
+{"op":"mcm","clk":"7735373342","pt":1539871794396,"mc":[{"id":"1.149741858","rc":[{"ltp":1.15,"id":8659524}]}]}
+{"op":"mcm","clk":"7735379436","pt":1539871854109,"mc":[{"id":"1.149741858","rc":[{"ltp":1.11,"id":8659524},{"ltp":11.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735385140","pt":1539871914753,"mc":[{"id":"1.149741858","rc":[{"ltp":1.05,"id":8659524}]}]}
+{"op":"mcm","clk":"7735402531","pt":1539871974558,"mc":[{"id":"1.149741858","rc":[{"ltp":1.11,"id":8659524}]}]}
+{"op":"mcm","clk":"7735407843","pt":1539872031632,"mc":[{"id":"1.149741858","rc":[{"ltp":1.05,"id":8659524},{"ltp":21.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735414806","pt":1539872093654,"mc":[{"id":"1.149741858","rc":[{"ltp":1.06,"id":8659524}]}]}
+{"op":"mcm","clk":"7735421605","pt":1539872153838,"mc":[{"id":"1.149741858","rc":[{"ltp":1.03,"id":8659524}]}]}
+{"op":"mcm","clk":"7735428068","pt":1539872214113,"mc":[{"id":"1.149741858","rc":[{"ltp":1.02,"id":8659524},{"ltp":50.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735442044","pt":1539872332844,"mc":[{"id":"1.149741858","rc":[{"ltp":1.01,"id":8659524}]}]}
+{"op":"mcm","clk":"7735456049","pt":1539872452692,"mc":[{"id":"1.149741858","rc":[{"ltp":140.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735468460","pt":1539872570048,"mc":[{"id":"1.149741858","rc":[{"ltp":290.0,"id":8461316}]}]}
+{"op":"mcm","clk":"7735518304","pt":1539872873484,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:13:00.000Z","suspendTime":"2018-10-18T13:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"ACTIVE","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:13:00.000Z","version":2460604724,"name":"Match Odds","eventName":"Cachin v Masur"}}]}
+{"op":"mcm","clk":"7735525485","pt":1539872925967,"mc":[{"id":"1.149741858","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961837","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T13:13:00.000Z","suspendTime":"2018-10-18T13:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T14:28:40.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8461316,"name":"Pedro Cachin"},{"status":"WINNER","sortPriority":2,"id":8659524,"name":"Daniel Masur"}],"regulators":["MR_INT"],"countryCode":"DE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T13:13:00.000Z","version":2460605662,"name":"Match Odds","eventName":"Cachin v Masur"}}]}

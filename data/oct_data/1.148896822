@@ -1,0 +1,76 @@
+{"op":"mcm","clk":"7533022633","pt":1538325020340,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:30:00.000Z","suspendTime":"2018-10-01T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:30:00.000Z","version":2431287089,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}
+{"op":"mcm","clk":"7533150589","pt":1538325553706,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:30:00.000Z","suspendTime":"2018-10-01T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:30:00.000Z","version":2431287089,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}
+{"op":"mcm","clk":"7535556539","pt":1538345779155,"mc":[{"id":"1.148896822","rc":[{"ltp":2.4,"id":9634485},{"ltp":1.71,"id":8284482}]}]}
+{"op":"mcm","clk":"7535949169","pt":1538351945658,"mc":[{"id":"1.148896822","rc":[{"ltp":2.32,"id":9634485},{"ltp":1.76,"id":8284482}]}]}
+{"op":"mcm","clk":"7536455911","pt":1538362245296,"mc":[{"id":"1.148896822","rc":[{"ltp":2.36,"id":9634485}]}]}
+{"op":"mcm","clk":"7536663285","pt":1538366335649,"mc":[{"id":"1.148896822","rc":[{"ltp":1.73,"id":8284482}]}]}
+{"op":"mcm","clk":"7536754210","pt":1538367918911,"mc":[{"id":"1.148896822","rc":[{"ltp":2.34,"id":9634485}]}]}
+{"op":"mcm","clk":"7537093704","pt":1538374040990,"mc":[{"id":"1.148896822","rc":[{"ltp":2.36,"id":9634485}]}]}
+{"op":"mcm","clk":"7537434258","pt":1538379680231,"mc":[{"id":"1.148896822","rc":[{"ltp":2.48,"id":9634485}]}]}
+{"op":"mcm","clk":"7537595943","pt":1538382158597,"mc":[{"id":"1.148896822","rc":[{"ltp":1.7,"id":8284482}]}]}
+{"op":"mcm","clk":"7537604912","pt":1538382317500,"mc":[{"id":"1.148896822","rc":[{"ltp":2.22,"id":9634485},{"ltp":1.81,"id":8284482}]}]}
+{"op":"mcm","clk":"7537606871","pt":1538382354957,"mc":[{"id":"1.148896822","rc":[{"ltp":1.71,"id":8284482}]}]}
+{"op":"mcm","clk":"7537618366","pt":1538382560978,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:45:00.000Z","suspendTime":"2018-10-01T08:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:45:00.000Z","version":2432651473,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}
+{"op":"mcm","clk":"7537620997","pt":1538382604168,"mc":[{"id":"1.148896822","rc":[{"ltp":2.48,"id":9634485},{"ltp":1.67,"id":8284482}]}]}
+{"op":"mcm","clk":"7537631741","pt":1538382777064,"mc":[{"id":"1.148896822","rc":[{"ltp":2.26,"id":9634485},{"ltp":1.8,"id":8284482}]}]}
+{"op":"mcm","clk":"7537636470","pt":1538382862293,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:32:00.000Z","suspendTime":"2018-10-01T08:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:32:00.000Z","version":2432654784,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}
+{"op":"mcm","clk":"7537679039","pt":1538383514325,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:32:00.000Z","suspendTime":"2018-10-01T08:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"ACTIVE","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:32:00.000Z","version":2432657910,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}
+{"op":"mcm","clk":"7537681928","pt":1538383565289,"mc":[{"id":"1.148896822","rc":[{"ltp":2.38,"id":9634485},{"ltp":1.58,"id":8284482}]}]}
+{"op":"mcm","clk":"7537686373","pt":1538383639773,"mc":[{"id":"1.148896822","rc":[{"ltp":2.56,"id":9634485},{"ltp":1.65,"id":8284482}]}]}
+{"op":"mcm","clk":"7537697097","pt":1538383822335,"mc":[{"id":"1.148896822","rc":[{"ltp":1.6,"id":8284482}]}]}
+{"op":"mcm","clk":"7537712604","pt":1538383940401,"mc":[{"id":"1.148896822","rc":[{"ltp":2.88,"id":9634485},{"ltp":1.5,"id":8284482}]}]}
+{"op":"mcm","clk":"7537716385","pt":1538384000761,"mc":[{"id":"1.148896822","rc":[{"ltp":3.15,"id":9634485},{"ltp":1.47,"id":8284482}]}]}
+{"op":"mcm","clk":"7537731627","pt":1538384241503,"mc":[{"id":"1.148896822","rc":[{"ltp":1.41,"id":8284482}]}]}
+{"op":"mcm","clk":"7537738687","pt":1538384362071,"mc":[{"id":"1.148896822","rc":[{"ltp":2.76,"id":9634485},{"ltp":1.57,"id":8284482}]}]}
+{"op":"mcm","clk":"7537742462","pt":1538384421644,"mc":[{"id":"1.148896822","rc":[{"ltp":3.05,"id":9634485},{"ltp":1.48,"id":8284482}]}]}
+{"op":"mcm","clk":"7537745961","pt":1538384478151,"mc":[{"id":"1.148896822","rc":[{"ltp":3.1,"id":9634485}]}]}
+{"op":"mcm","clk":"7537750571","pt":1538384542335,"mc":[{"id":"1.148896822","rc":[{"ltp":1.6,"id":8284482}]}]}
+{"op":"mcm","clk":"7537754119","pt":1538384584591,"mc":[{"id":"1.148896822","rc":[{"ltp":1.59,"id":8284482}]}]}
+{"op":"mcm","clk":"7537759715","pt":1538384658397,"mc":[{"id":"1.148896822","rc":[{"ltp":1.55,"id":8284482}]}]}
+{"op":"mcm","clk":"7537768059","pt":1538384776848,"mc":[{"id":"1.148896822","rc":[{"ltp":2.88,"id":9634485},{"ltp":1.54,"id":8284482}]}]}
+{"op":"mcm","clk":"7537785775","pt":1538384900735,"mc":[{"id":"1.148896822","rc":[{"ltp":1.45,"id":8284482}]}]}
+{"op":"mcm","clk":"7537790374","pt":1538384961954,"mc":[{"id":"1.148896822","rc":[{"ltp":3.3,"id":9634485},{"ltp":1.44,"id":8284482}]}]}
+{"op":"mcm","clk":"7537794699","pt":1538385022223,"mc":[{"id":"1.148896822","rc":[{"ltp":3.5,"id":9634485},{"ltp":1.4,"id":8284482}]}]}
+{"op":"mcm","clk":"7537803679","pt":1538385142360,"mc":[{"id":"1.148896822","rc":[{"ltp":1.71,"id":8284482}]}]}
+{"op":"mcm","clk":"7537813168","pt":1538385261186,"mc":[{"id":"1.148896822","rc":[{"ltp":1.66,"id":8284482}]}]}
+{"op":"mcm","clk":"7537818121","pt":1538385321264,"mc":[{"id":"1.148896822","rc":[{"ltp":2.72,"id":9634485},{"ltp":1.59,"id":8284482}]}]}
+{"op":"mcm","clk":"7537826926","pt":1538385426096,"mc":[{"id":"1.148896822","rc":[{"ltp":2.88,"id":9634485},{"ltp":1.51,"id":8284482}]}]}
+{"op":"mcm","clk":"7537849370","pt":1538385681006,"mc":[{"id":"1.148896822","rc":[{"ltp":2.46,"id":9634485},{"ltp":1.68,"id":8284482}]}]}
+{"op":"mcm","clk":"7537868349","pt":1538385800671,"mc":[{"id":"1.148896822","rc":[{"ltp":2.64,"id":9634485},{"ltp":1.56,"id":8284482}]}]}
+{"op":"mcm","clk":"7537873873","pt":1538385861996,"mc":[{"id":"1.148896822","rc":[{"ltp":2.58,"id":9634485},{"ltp":1.58,"id":8284482}]}]}
+{"op":"mcm","clk":"7537878852","pt":1538385919176,"mc":[{"id":"1.148896822","rc":[{"ltp":1.48,"id":8284482}]}]}
+{"op":"mcm","clk":"7537888499","pt":1538386041844,"mc":[{"id":"1.148896822","rc":[{"ltp":1.56,"id":8284482}]}]}
+{"op":"mcm","clk":"7537893002","pt":1538386101925,"mc":[{"id":"1.148896822","rc":[{"ltp":3.6,"id":9634485},{"ltp":1.37,"id":8284482}]}]}
+{"op":"mcm","clk":"7537896787","pt":1538386153402,"mc":[{"id":"1.148896822","rc":[{"ltp":1.52,"id":8284482}]}]}
+{"op":"mcm","clk":"7537906937","pt":1538386279575,"mc":[{"id":"1.148896822","rc":[{"ltp":1.38,"id":8284482}]}]}
+{"op":"mcm","clk":"7537911893","pt":1538386340133,"mc":[{"id":"1.148896822","rc":[{"ltp":5.1,"id":9634485},{"ltp":1.24,"id":8284482}]}]}
+{"op":"mcm","clk":"7537922668","pt":1538386461707,"mc":[{"id":"1.148896822","rc":[{"ltp":5.0,"id":9634485},{"ltp":1.23,"id":8284482}]}]}
+{"op":"mcm","clk":"7537927560","pt":1538386519589,"mc":[{"id":"1.148896822","rc":[{"ltp":1.19,"id":8284482}]}]}
+{"op":"mcm","clk":"7537932320","pt":1538386574726,"mc":[{"id":"1.148896822","rc":[{"ltp":1.18,"id":8284482}]}]}
+{"op":"mcm","clk":"7537951001","pt":1538386687100,"mc":[{"id":"1.148896822","rc":[{"ltp":1.22,"id":8284482}]}]}
+{"op":"mcm","clk":"7537961375","pt":1538386820645,"mc":[{"id":"1.148896822","rc":[{"ltp":1.18,"id":8284482}]}]}
+{"op":"mcm","clk":"7537965772","pt":1538386875211,"mc":[{"id":"1.148896822","rc":[{"ltp":1.27,"id":8284482}]}]}
+{"op":"mcm","clk":"7537970677","pt":1538386938116,"mc":[{"id":"1.148896822","rc":[{"ltp":6.2,"id":9634485},{"ltp":1.19,"id":8284482}]}]}
+{"op":"mcm","clk":"7537985330","pt":1538387117537,"mc":[{"id":"1.148896822","rc":[{"ltp":8.2,"id":9634485},{"ltp":1.14,"id":8284482}]}]}
+{"op":"mcm","clk":"7537990186","pt":1538387180824,"mc":[{"id":"1.148896822","rc":[{"ltp":11.0,"id":9634485},{"ltp":1.07,"id":8284482}]}]}
+{"op":"mcm","clk":"7537994525","pt":1538387240764,"mc":[{"id":"1.148896822","rc":[{"ltp":1.08,"id":8284482}]}]}
+{"op":"mcm","clk":"7537999278","pt":1538387301523,"mc":[{"id":"1.148896822","rc":[{"ltp":15.5,"id":9634485},{"ltp":1.07,"id":8284482}]}]}
+{"op":"mcm","clk":"7538004022","pt":1538387362440,"mc":[{"id":"1.148896822","rc":[{"ltp":15.0,"id":9634485}]}]}
+{"op":"mcm","clk":"7538008909","pt":1538387421677,"mc":[{"id":"1.148896822","rc":[{"ltp":1.04,"id":8284482}]}]}
+{"op":"mcm","clk":"7538012933","pt":1538387478529,"mc":[{"id":"1.148896822","rc":[{"ltp":21.0,"id":9634485}]}]}
+{"op":"mcm","clk":"7538031447","pt":1538387602387,"mc":[{"id":"1.148896822","rc":[{"ltp":1.05,"id":8284482}]}]}
+{"op":"mcm","clk":"7538035276","pt":1538387656853,"mc":[{"id":"1.148896822","rc":[{"ltp":15.5,"id":9634485},{"ltp":1.07,"id":8284482}]}]}
+{"op":"mcm","clk":"7538044198","pt":1538387777365,"mc":[{"id":"1.148896822","rc":[{"ltp":1.05,"id":8284482}]}]}
+{"op":"mcm","clk":"7538049125","pt":1538387841340,"mc":[{"id":"1.148896822","rc":[{"ltp":26.0,"id":9634485}]}]}
+{"op":"mcm","clk":"7538053821","pt":1538387894888,"mc":[{"id":"1.148896822","rc":[{"ltp":1.04,"id":8284482}]}]}
+{"op":"mcm","clk":"7538059737","pt":1538387958966,"mc":[{"id":"1.148896822","rc":[{"ltp":34.0,"id":9634485},{"ltp":1.03,"id":8284482}]}]}
+{"op":"mcm","clk":"7538065832","pt":1538388022307,"mc":[{"id":"1.148896822","rc":[{"ltp":26.0,"id":9634485},{"ltp":1.04,"id":8284482}]}]}
+{"op":"mcm","clk":"7538071119","pt":1538388078077,"mc":[{"id":"1.148896822","rc":[{"ltp":1.05,"id":8284482}]}]}
+{"op":"mcm","clk":"7538075652","pt":1538388140570,"mc":[{"id":"1.148896822","rc":[{"ltp":21.0,"id":9634485}]}]}
+{"op":"mcm","clk":"7538080685","pt":1538388198947,"mc":[{"id":"1.148896822","rc":[{"ltp":17.5,"id":9634485},{"ltp":1.06,"id":8284482}]}]}
+{"op":"mcm","clk":"7538085815","pt":1538388260175,"mc":[{"id":"1.148896822","rc":[{"ltp":21.0,"id":9634485},{"ltp":1.05,"id":8284482}]}]}
+{"op":"mcm","clk":"7538089735","pt":1538388305987,"mc":[{"id":"1.148896822","rc":[{"ltp":1.06,"id":8284482}]}]}
+{"op":"mcm","clk":"7538109854","pt":1538388429173,"mc":[{"id":"1.148896822","rc":[{"ltp":1.05,"id":8284482}]}]}
+{"op":"mcm","clk":"7538115498","pt":1538388500281,"mc":[{"id":"1.148896822","rc":[{"ltp":1.07,"id":8284482}]}]}
+{"op":"mcm","clk":"7538120477","pt":1538388560372,"mc":[{"id":"1.148896822","rc":[{"ltp":55.0,"id":9634485},{"ltp":1.01,"id":8284482}]}]}
+{"op":"mcm","clk":"7538125767","pt":1538388618076,"mc":[{"id":"1.148896822","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28932463","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-01T08:32:00.000Z","suspendTime":"2018-10-01T08:32:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-01T10:10:12.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9634485,"name":"Nicola Kuhn"},{"status":"WINNER","sortPriority":2,"id":8284482,"name":"Gianluca Mager"}],"regulators":["MR_INT"],"countryCode":"IT","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-01T08:32:00.000Z","version":2432712451,"name":"Match Odds","eventName":"Kuhn v Mager"}}]}

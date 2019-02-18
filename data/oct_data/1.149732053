@@ -1,0 +1,83 @@
+{"op":"mcm","clk":"7740167402","pt":1539790159290,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:00:00.000Z","suspendTime":"2018-10-18T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:00:00.000Z","version":2459405576,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}
+{"op":"mcm","clk":"7740209848","pt":1539790534970,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T09:00:00.000Z","suspendTime":"2018-10-18T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:00:00.000Z","version":2459405576,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}
+{"op":"mcm","clk":"7740292683","pt":1539791324505,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T11:30:00.000Z","suspendTime":"2018-10-18T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T09:00:00.000Z","version":2459430592,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}
+{"op":"mcm","clk":"7740292975","pt":1539791327522,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T11:30:00.000Z","suspendTime":"2018-10-18T11:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T11:30:00.000Z","version":2459430592,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}
+{"op":"mcm","clk":"7745303595","pt":1539846466719,"mc":[{"id":"1.149732053","rc":[{"ltp":2.04,"id":15994804},{"ltp":1.96,"id":18329426}]}]}
+{"op":"mcm","clk":"7745310697","pt":1539846644528,"mc":[{"id":"1.149732053","rc":[{"ltp":1.94,"id":18329426}]}]}
+{"op":"mcm","clk":"7745311884","pt":1539846674820,"mc":[{"id":"1.149732053","rc":[{"ltp":1.88,"id":18329426}]}]}
+{"op":"mcm","clk":"7745631302","pt":1539852037691,"mc":[{"id":"1.149732053","rc":[{"ltp":1.98,"id":15994804},{"ltp":2.0,"id":18329426}]}]}
+{"op":"mcm","clk":"7745702372","pt":1539853186274,"mc":[{"id":"1.149732053","rc":[{"ltp":1.87,"id":15994804}]}]}
+{"op":"mcm","clk":"7745755820","pt":1539853890638,"mc":[{"id":"1.149732053","rc":[{"ltp":1.83,"id":15994804}]}]}
+{"op":"mcm","clk":"7745766545","pt":1539854087418,"mc":[{"id":"1.149732053","rc":[{"ltp":2.2,"id":18329426}]}]}
+{"op":"mcm","clk":"7745798575","pt":1539854460368,"mc":[{"id":"1.149732053","rc":[{"ltp":1.79,"id":15994804}]}]}
+{"op":"mcm","clk":"7746160206","pt":1539859125713,"mc":[{"id":"1.149732053","rc":[{"ltp":1.8,"id":15994804},{"ltp":2.18,"id":18329426}]}]}
+{"op":"mcm","clk":"7746170289","pt":1539859246954,"mc":[{"id":"1.149732053","rc":[{"ltp":1.78,"id":15994804}]}]}
+{"op":"mcm","clk":"7746311164","pt":1539860746253,"mc":[{"id":"1.149732053","rc":[{"ltp":2.06,"id":18329426}]}]}
+{"op":"mcm","clk":"7746326662","pt":1539860926597,"mc":[{"id":"1.149732053","rc":[{"ltp":1.76,"id":15994804}]}]}
+{"op":"mcm","clk":"7746407658","pt":1539861827474,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T11:18:00.000Z","suspendTime":"2018-10-18T11:18:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T11:18:00.000Z","version":2460470725,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"},"rc":[{"ltp":1.79,"id":15994804}]}]}
+{"op":"mcm","clk":"7746415230","pt":1539861912800,"mc":[{"id":"1.149732053","rc":[{"ltp":1.87,"id":15994804},{"ltp":2.16,"id":18329426}]}]}
+{"op":"mcm","clk":"7746439142","pt":1539862185176,"mc":[{"id":"1.149732053","rc":[{"ltp":1.76,"id":15994804}]}]}
+{"op":"mcm","clk":"7746521920","pt":1539863020223,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T11:18:00.000Z","suspendTime":"2018-10-18T11:18:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"ACTIVE","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T11:18:00.000Z","version":2460479786,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}
+{"op":"mcm","clk":"7746525949","pt":1539863066099,"mc":[{"id":"1.149732053","rc":[{"ltp":1.87,"id":18329426}]}]}
+{"op":"mcm","clk":"7746532246","pt":1539863136433,"mc":[{"id":"1.149732053","rc":[{"ltp":2.28,"id":15994804},{"ltp":1.79,"id":18329426}]}]}
+{"op":"mcm","clk":"7746537953","pt":1539863197392,"mc":[{"id":"1.149732053","rc":[{"ltp":2.6,"id":15994804},{"ltp":1.62,"id":18329426}]}]}
+{"op":"mcm","clk":"7746557705","pt":1539863266885,"mc":[{"id":"1.149732053","rc":[{"ltp":2.78,"id":15994804},{"ltp":1.56,"id":18329426}]}]}
+{"op":"mcm","clk":"7746572047","pt":1539863447300,"mc":[{"id":"1.149732053","rc":[{"ltp":3.05,"id":15994804},{"ltp":1.47,"id":18329426}]}]}
+{"op":"mcm","clk":"7746576542","pt":1539863505205,"mc":[{"id":"1.149732053","rc":[{"ltp":3.1,"id":15994804}]}]}
+{"op":"mcm","clk":"7746585705","pt":1539863626381,"mc":[{"id":"1.149732053","rc":[{"ltp":3.5,"id":15994804},{"ltp":1.4,"id":18329426}]}]}
+{"op":"mcm","clk":"7746600563","pt":1539863807294,"mc":[{"id":"1.149732053","rc":[{"ltp":4.7,"id":15994804},{"ltp":1.28,"id":18329426}]}]}
+{"op":"mcm","clk":"7746605768","pt":1539863866421,"mc":[{"id":"1.149732053","rc":[{"ltp":4.5,"id":15994804},{"ltp":1.27,"id":18329426}]}]}
+{"op":"mcm","clk":"7746611291","pt":1539863926229,"mc":[{"id":"1.149732053","rc":[{"ltp":4.7,"id":15994804}]}]}
+{"op":"mcm","clk":"7746616942","pt":1539863986101,"mc":[{"id":"1.149732053","rc":[{"ltp":5.3,"id":15994804},{"ltp":1.23,"id":18329426}]}]}
+{"op":"mcm","clk":"7746622997","pt":1539864047374,"mc":[{"id":"1.149732053","rc":[{"ltp":5.6,"id":15994804}]}]}
+{"op":"mcm","clk":"7746629195","pt":1539864107225,"mc":[{"id":"1.149732053","rc":[{"ltp":5.7,"id":15994804}]}]}
+{"op":"mcm","clk":"7746648607","pt":1539864164324,"mc":[{"id":"1.149732053","rc":[{"ltp":1.22,"id":18329426}]}]}
+{"op":"mcm","clk":"7746654775","pt":1539864224466,"mc":[{"id":"1.149732053","rc":[{"ltp":5.5,"id":15994804},{"ltp":1.21,"id":18329426}]}]}
+{"op":"mcm","clk":"7746666483","pt":1539864347468,"mc":[{"id":"1.149732053","rc":[{"ltp":6.0,"id":15994804},{"ltp":1.2,"id":18329426}]}]}
+{"op":"mcm","clk":"7746677291","pt":1539864466751,"mc":[{"id":"1.149732053","rc":[{"ltp":6.4,"id":15994804}]}]}
+{"op":"mcm","clk":"7746682691","pt":1539864527154,"mc":[{"id":"1.149732053","rc":[{"ltp":1.15,"id":18329426}]}]}
+{"op":"mcm","clk":"7746687491","pt":1539864587475,"mc":[{"id":"1.149732053","rc":[{"ltp":6.0,"id":15994804},{"ltp":1.2,"id":18329426}]}]}
+{"op":"mcm","clk":"7746692043","pt":1539864644231,"mc":[{"id":"1.149732053","rc":[{"ltp":5.2,"id":15994804},{"ltp":1.24,"id":18329426}]}]}
+{"op":"mcm","clk":"7746712997","pt":1539864885037,"mc":[{"id":"1.149732053","rc":[{"ltp":1.21,"id":18329426}]}]}
+{"op":"mcm","clk":"7746718265","pt":1539864942336,"mc":[{"id":"1.149732053","rc":[{"ltp":1.26,"id":18329426}]}]}
+{"op":"mcm","clk":"7746749201","pt":1539865127299,"mc":[{"id":"1.149732053","rc":[{"ltp":1.35,"id":18329426}]}]}
+{"op":"mcm","clk":"7746754190","pt":1539865185792,"mc":[{"id":"1.149732053","rc":[{"ltp":2.8,"id":15994804},{"ltp":1.52,"id":18329426}]}]}
+{"op":"mcm","clk":"7746758921","pt":1539865243479,"mc":[{"id":"1.149732053","rc":[{"ltp":1.44,"id":18329426}]}]}
+{"op":"mcm","clk":"7746763701","pt":1539865303322,"mc":[{"id":"1.149732053","rc":[{"ltp":4.7,"id":15994804},{"ltp":1.27,"id":18329426}]}]}
+{"op":"mcm","clk":"7746768712","pt":1539865363146,"mc":[{"id":"1.149732053","rc":[{"ltp":1.22,"id":18329426}]}]}
+{"op":"mcm","clk":"7746778470","pt":1539865481087,"mc":[{"id":"1.149732053","rc":[{"ltp":4.2,"id":15994804},{"ltp":1.28,"id":18329426}]}]}
+{"op":"mcm","clk":"7746782700","pt":1539865543064,"mc":[{"id":"1.149732053","rc":[{"ltp":4.0,"id":15994804},{"ltp":1.34,"id":18329426}]}]}
+{"op":"mcm","clk":"7746787692","pt":1539865606856,"mc":[{"id":"1.149732053","rc":[{"ltp":4.1,"id":15994804},{"ltp":1.22,"id":18329426}]}]}
+{"op":"mcm","clk":"7746790903","pt":1539865645789,"mc":[{"id":"1.149732053","rc":[{"ltp":4.2,"id":15994804},{"ltp":1.31,"id":18329426}]}]}
+{"op":"mcm","clk":"7746796967","pt":1539865727066,"mc":[{"id":"1.149732053","rc":[{"ltp":1.29,"id":18329426}]}]}
+{"op":"mcm","clk":"7746801563","pt":1539865785690,"mc":[{"id":"1.149732053","rc":[{"ltp":5.3,"id":15994804},{"ltp":1.24,"id":18329426}]}]}
+{"op":"mcm","clk":"7746811121","pt":1539865906835,"mc":[{"id":"1.149732053","rc":[{"ltp":4.5,"id":15994804},{"ltp":1.32,"id":18329426}]}]}
+{"op":"mcm","clk":"7746828410","pt":1539865949699,"mc":[{"id":"1.149732053","rc":[{"ltp":4.0,"id":15994804},{"ltp":1.33,"id":18329426}]}]}
+{"op":"mcm","clk":"7746845429","pt":1539866145626,"mc":[{"id":"1.149732053","rc":[{"ltp":1.32,"id":18329426}]}]}
+{"op":"mcm","clk":"7746850364","pt":1539866207371,"mc":[{"id":"1.149732053","rc":[{"ltp":1.3,"id":18329426}]}]}
+{"op":"mcm","clk":"7746855218","pt":1539866265301,"mc":[{"id":"1.149732053","rc":[{"ltp":1.28,"id":18329426}]}]}
+{"op":"mcm","clk":"7746858048","pt":1539866301884,"mc":[{"id":"1.149732053","rc":[{"ltp":3.95,"id":15994804},{"ltp":1.37,"id":18329426}]}]}
+{"op":"mcm","clk":"7746864507","pt":1539866386719,"mc":[{"id":"1.149732053","rc":[{"ltp":1.36,"id":18329426}]}]}
+{"op":"mcm","clk":"7746868977","pt":1539866447382,"mc":[{"id":"1.149732053","rc":[{"ltp":3.6,"id":15994804},{"ltp":1.39,"id":18329426}]}]}
+{"op":"mcm","clk":"7746873227","pt":1539866504028,"mc":[{"id":"1.149732053","rc":[{"ltp":1.27,"id":18329426}]}]}
+{"op":"mcm","clk":"7746877578","pt":1539866566895,"mc":[{"id":"1.149732053","rc":[{"ltp":4.3,"id":15994804},{"ltp":1.33,"id":18329426}]}]}
+{"op":"mcm","clk":"7746882462","pt":1539866626277,"mc":[{"id":"1.149732053","rc":[{"ltp":4.5,"id":15994804},{"ltp":1.28,"id":18329426}]}]}
+{"op":"mcm","clk":"7746887325","pt":1539866686698,"mc":[{"id":"1.149732053","rc":[{"ltp":4.0,"id":15994804}]}]}
+{"op":"mcm","clk":"7746891779","pt":1539866746134,"mc":[{"id":"1.149732053","rc":[{"ltp":3.95,"id":15994804},{"ltp":1.34,"id":18329426}]}]}
+{"op":"mcm","clk":"7746896609","pt":1539866805524,"mc":[{"id":"1.149732053","rc":[{"ltp":4.2,"id":15994804},{"ltp":1.31,"id":18329426}]}]}
+{"op":"mcm","clk":"7746915365","pt":1539866867488,"mc":[{"id":"1.149732053","rc":[{"ltp":4.9,"id":15994804},{"ltp":1.23,"id":18329426}]}]}
+{"op":"mcm","clk":"7746919976","pt":1539866922388,"mc":[{"id":"1.149732053","rc":[{"ltp":1.45,"id":18329426}]}]}
+{"op":"mcm","clk":"7746925132","pt":1539866986507,"mc":[{"id":"1.149732053","rc":[{"ltp":2.06,"id":15994804},{"ltp":1.93,"id":18329426}]}]}
+{"op":"mcm","clk":"7746929535","pt":1539867045532,"mc":[{"id":"1.149732053","rc":[{"ltp":2.1,"id":15994804},{"ltp":1.92,"id":18329426}]}]}
+{"op":"mcm","clk":"7746933799","pt":1539867106651,"mc":[{"id":"1.149732053","rc":[{"ltp":1.89,"id":15994804}]}]}
+{"op":"mcm","clk":"7746938225","pt":1539867167301,"mc":[{"id":"1.149732053","rc":[{"ltp":2.46,"id":15994804},{"ltp":1.68,"id":18329426}]}]}
+{"op":"mcm","clk":"7746943084","pt":1539867224384,"mc":[{"id":"1.149732053","rc":[{"ltp":2.12,"id":15994804},{"ltp":1.89,"id":18329426}]}]}
+{"op":"mcm","clk":"7746948038","pt":1539867284763,"mc":[{"id":"1.149732053","rc":[{"ltp":3.1,"id":15994804},{"ltp":1.48,"id":18329426}]}]}
+{"op":"mcm","clk":"7746953061","pt":1539867346673,"mc":[{"id":"1.149732053","rc":[{"ltp":4.0,"id":15994804},{"ltp":1.34,"id":18329426}]}]}
+{"op":"mcm","clk":"7746957640","pt":1539867404661,"mc":[{"id":"1.149732053","rc":[{"ltp":5.7,"id":15994804},{"ltp":1.21,"id":18329426}]}]}
+{"op":"mcm","clk":"7746962151","pt":1539867466558,"mc":[{"id":"1.149732053","rc":[{"ltp":4.2,"id":15994804},{"ltp":1.41,"id":18329426}]}]}
+{"op":"mcm","clk":"7746966540","pt":1539867526684,"mc":[{"id":"1.149732053","rc":[{"ltp":6.8,"id":15994804},{"ltp":1.17,"id":18329426}]}]}
+{"op":"mcm","clk":"7746970722","pt":1539867585891,"mc":[{"id":"1.149732053","rc":[{"ltp":26.0,"id":15994804},{"ltp":1.05,"id":18329426}]}]}
+{"op":"mcm","clk":"7746974529","pt":1539867645782,"mc":[{"id":"1.149732053","rc":[{"ltp":20.0,"id":15994804},{"ltp":1.07,"id":18329426}]}]}
+{"op":"mcm","clk":"7746978659","pt":1539867706719,"mc":[{"id":"1.149732053","rc":[{"ltp":17.5,"id":15994804},{"ltp":1.01,"id":18329426}]}]}
+{"op":"mcm","clk":"7746996426","pt":1539867755997,"mc":[{"id":"1.149732053","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28961559","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-18T11:18:00.000Z","suspendTime":"2018-10-18T11:18:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-18T13:02:32.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":15994804,"name":"Gonzalez/Jarry"},{"status":"WINNER","sortPriority":2,"id":18329426,"name":"Demoliner/Gonzalez"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-18T11:18:00.000Z","version":2460540680,"name":"Match Odds","eventName":"Gonzalez/Jarry v Demoliner/Gonzalez"}}]}

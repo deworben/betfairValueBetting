@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7735480271","pt":1539872674764,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:00:00.000Z","suspendTime":"2018-10-19T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:00:00.000Z","version":2460603282,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7735574773","pt":1539873314201,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T10:00:00.000Z","suspendTime":"2018-10-19T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T10:00:00.000Z","version":2460603282,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7738022210","pt":1539896549717,"mc":[{"id":"1.149774803","rc":[{"ltp":1.7,"id":18329426}]}]}
+{"op":"mcm","clk":"7738070273","pt":1539897199869,"mc":[{"id":"1.149774803","rc":[{"ltp":1.71,"id":18329426}]}]}
+{"op":"mcm","clk":"7738163860","pt":1539898719346,"mc":[{"id":"1.149774803","rc":[{"ltp":1.7,"id":18329426},{"ltp":2.42,"id":13254793}]}]}
+{"op":"mcm","clk":"7738164425","pt":1539898732659,"mc":[{"id":"1.149774803","rc":[{"ltp":1.69,"id":18329426}]}]}
+{"op":"mcm","clk":"7738405980","pt":1539902727705,"mc":[{"id":"1.149774803","rc":[{"ltp":1.7,"id":18329426}]}]}
+{"op":"mcm","clk":"7738538944","pt":1539904713809,"mc":[{"id":"1.149774803","rc":[{"ltp":1.67,"id":18329426}]}]}
+{"op":"mcm","clk":"7738786760","pt":1539908318171,"mc":[{"id":"1.149774803","rc":[{"ltp":1.68,"id":18329426}]}]}
+{"op":"mcm","clk":"7739491285","pt":1539916895218,"mc":[{"id":"1.149774803","rc":[{"ltp":2.4,"id":13254793}]}]}
+{"op":"mcm","clk":"7740365575","pt":1539931168518,"mc":[{"id":"1.149774803","rc":[{"ltp":2.42,"id":13254793}]}]}
+{"op":"mcm","clk":"7740415999","pt":1539931928134,"mc":[{"id":"1.149774803","rc":[{"ltp":1.72,"id":18329426}]}]}
+{"op":"mcm","clk":"7740418826","pt":1539931982799,"mc":[{"id":"1.149774803","rc":[{"ltp":1.67,"id":18329426}]}]}
+{"op":"mcm","clk":"7741000724","pt":1539939042939,"mc":[{"id":"1.149774803","rc":[{"ltp":2.4,"id":13254793}]}]}
+{"op":"mcm","clk":"7741073259","pt":1539939698788,"mc":[{"id":"1.149774803","rc":[{"ltp":1.64,"id":18329426}]}]}
+{"op":"mcm","clk":"7741276146","pt":1539941426310,"mc":[{"id":"1.149774803","rc":[{"ltp":1.7,"id":18329426}]}]}
+{"op":"mcm","clk":"7741341681","pt":1539942031447,"mc":[{"id":"1.149774803","rc":[{"ltp":1.67,"id":18329426}]}]}
+{"op":"mcm","clk":"7741442656","pt":1539942915645,"mc":[{"id":"1.149774803","rc":[{"ltp":1.72,"id":18329426}]}]}
+{"op":"mcm","clk":"7741479042","pt":1539943123641,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:55:00.000Z","suspendTime":"2018-10-19T09:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:55:00.000Z","version":2461300917,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"}}]}
+{"op":"mcm","clk":"7741484480","pt":1539943182733,"mc":[{"id":"1.149774803","rc":[{"ltp":1.62,"id":18329426}]}]}
+{"op":"mcm","clk":"7741546154","pt":1539943819121,"mc":[{"id":"1.149774803","rc":[{"ltp":1.66,"id":18329426},{"ltp":2.5,"id":13254793}]}]}
+{"op":"mcm","clk":"7741579800","pt":1539943961268,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:55:00.000Z","suspendTime":"2018-10-19T09:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:55:00.000Z","version":2461312559,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"},"rc":[{"ltp":1.67,"id":18329426}]}]}
+{"op":"mcm","clk":"7741585777","pt":1539944023267,"mc":[{"id":"1.149774803","rc":[{"ltp":1.88,"id":18329426},{"ltp":2.12,"id":13254793}]}]}
+{"op":"mcm","clk":"7741591113","pt":1539944080850,"mc":[{"id":"1.149774803","rc":[{"ltp":1.69,"id":18329426}]}]}
+{"op":"mcm","clk":"7741600844","pt":1539944193697,"mc":[{"id":"1.149774803","rc":[{"ltp":1.63,"id":18329426}]}]}
+{"op":"mcm","clk":"7741604670","pt":1539944224697,"mc":[{"id":"1.149774803","rc":[{"ltp":1.6,"id":18329426},{"ltp":2.66,"id":13254793}]}]}
+{"op":"mcm","clk":"7741616232","pt":1539944323851,"mc":[{"id":"1.149774803","rc":[{"ltp":1.61,"id":18329426}]}]}
+{"op":"mcm","clk":"7741621816","pt":1539944370713,"mc":[{"id":"1.149774803","rc":[{"ltp":1.54,"id":18329426},{"ltp":2.88,"id":13254793}]}]}
+{"op":"mcm","clk":"7741630706","pt":1539944442478,"mc":[{"id":"1.149774803","rc":[{"ltp":1.47,"id":18329426}]}]}
+{"op":"mcm","clk":"7741639167","pt":1539944503989,"mc":[{"id":"1.149774803","rc":[{"ltp":1.41,"id":18329426},{"ltp":4.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7741645506","pt":1539944558221,"mc":[{"id":"1.149774803","rc":[{"ltp":1.31,"id":18329426}]}]}
+{"op":"mcm","clk":"7741650563","pt":1539944606106,"mc":[{"id":"1.149774803","rc":[{"ltp":1.29,"id":18329426},{"ltp":4.5,"id":13254793}]}]}
+{"op":"mcm","clk":"7741659250","pt":1539944679402,"mc":[{"id":"1.149774803","rc":[{"ltp":1.27,"id":18329426}]}]}
+{"op":"mcm","clk":"7741666707","pt":1539944740464,"mc":[{"id":"1.149774803","rc":[{"ltp":1.2,"id":18329426}]}]}
+{"op":"mcm","clk":"7741672514","pt":1539944793089,"mc":[{"id":"1.149774803","rc":[{"ltp":1.19,"id":18329426}]}]}
+{"op":"mcm","clk":"7741695730","pt":1539944862934,"mc":[{"id":"1.149774803","rc":[{"ltp":1.16,"id":18329426}]}]}
+{"op":"mcm","clk":"7741701362","pt":1539944921407,"mc":[{"id":"1.149774803","rc":[{"ltp":1.15,"id":18329426},{"ltp":7.6,"id":13254793}]}]}
+{"op":"mcm","clk":"7741708162","pt":1539944980783,"mc":[{"id":"1.149774803","rc":[{"ltp":1.14,"id":18329426},{"ltp":8.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7741716033","pt":1539945036957,"mc":[{"id":"1.149774803","rc":[{"ltp":1.16,"id":18329426}]}]}
+{"op":"mcm","clk":"7741728316","pt":1539945161075,"mc":[{"id":"1.149774803","rc":[{"ltp":1.15,"id":18329426},{"ltp":7.8,"id":13254793}]}]}
+{"op":"mcm","clk":"7741733075","pt":1539945204375,"mc":[{"id":"1.149774803","rc":[{"ltp":1.17,"id":18329426}]}]}
+{"op":"mcm","clk":"7741750303","pt":1539945340444,"mc":[{"id":"1.149774803","rc":[{"ltp":1.21,"id":18329426},{"ltp":6.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7741764454","pt":1539945458996,"mc":[{"id":"1.149774803","rc":[{"ltp":1.23,"id":18329426},{"ltp":5.7,"id":13254793}]}]}
+{"op":"mcm","clk":"7741771426","pt":1539945523854,"mc":[{"id":"1.149774803","rc":[{"ltp":5.3,"id":13254793}]}]}
+{"op":"mcm","clk":"7741778509","pt":1539945581549,"mc":[{"id":"1.149774803","rc":[{"ltp":1.22,"id":18329426}]}]}
+{"op":"mcm","clk":"7741787527","pt":1539945643077,"mc":[{"id":"1.149774803","rc":[{"ltp":1.19,"id":18329426}]}]}
+{"op":"mcm","clk":"7741818568","pt":1539945763928,"mc":[{"id":"1.149774803","rc":[{"ltp":1.2,"id":18329426},{"ltp":5.7,"id":13254793}]}]}
+{"op":"mcm","clk":"7741824833","pt":1539945818051,"mc":[{"id":"1.149774803","rc":[{"ltp":1.25,"id":18329426}]}]}
+{"op":"mcm","clk":"7741832615","pt":1539945883943,"mc":[{"id":"1.149774803","rc":[{"ltp":5.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7741839457","pt":1539945940438,"mc":[{"id":"1.149774803","rc":[{"ltp":1.24,"id":18329426},{"ltp":5.6,"id":13254793}]}]}
+{"op":"mcm","clk":"7741846838","pt":1539946002995,"mc":[{"id":"1.149774803","rc":[{"ltp":1.18,"id":18329426},{"ltp":6.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7741853707","pt":1539946061214,"mc":[{"id":"1.149774803","rc":[{"ltp":1.14,"id":18329426}]}]}
+{"op":"mcm","clk":"7741862109","pt":1539946123365,"mc":[{"id":"1.149774803","rc":[{"ltp":1.11,"id":18329426},{"ltp":8.6,"id":13254793}]}]}
+{"op":"mcm","clk":"7741869501","pt":1539946181535,"mc":[{"id":"1.149774803","rc":[{"ltp":1.12,"id":18329426},{"ltp":9.2,"id":13254793}]}]}
+{"op":"mcm","clk":"7741878070","pt":1539946243993,"mc":[{"id":"1.149774803","rc":[{"ltp":1.28,"id":18329426},{"ltp":5.3,"id":13254793}]}]}
+{"op":"mcm","clk":"7741894476","pt":1539946363588,"mc":[{"id":"1.149774803","rc":[{"ltp":1.19,"id":18329426}]}]}
+{"op":"mcm","clk":"7741901058","pt":1539946423373,"mc":[{"id":"1.149774803","rc":[{"ltp":1.17,"id":18329426},{"ltp":6.4,"id":13254793}]}]}
+{"op":"mcm","clk":"7741909079","pt":1539946483038,"mc":[{"id":"1.149774803","rc":[{"ltp":1.19,"id":18329426}]}]}
+{"op":"mcm","clk":"7741915886","pt":1539946535639,"mc":[{"id":"1.149774803","rc":[{"ltp":1.27,"id":18329426},{"ltp":4.7,"id":13254793}]}]}
+{"op":"mcm","clk":"7741952253","pt":1539946719420,"mc":[{"id":"1.149774803","rc":[{"ltp":1.32,"id":18329426},{"ltp":4.2,"id":13254793}]}]}
+{"op":"mcm","clk":"7741958832","pt":1539946780213,"mc":[{"id":"1.149774803","rc":[{"ltp":1.22,"id":18329426}]}]}
+{"op":"mcm","clk":"7741965747","pt":1539946843845,"mc":[{"id":"1.149774803","rc":[{"ltp":5.4,"id":13254793}]}]}
+{"op":"mcm","clk":"7741972139","pt":1539946901319,"mc":[{"id":"1.149774803","rc":[{"ltp":1.12,"id":18329426}]}]}
+{"op":"mcm","clk":"7741979331","pt":1539946961514,"mc":[{"id":"1.149774803","rc":[{"ltp":1.07,"id":18329426},{"ltp":17.5,"id":13254793}]}]}
+{"op":"mcm","clk":"7741988511","pt":1539947021229,"mc":[{"id":"1.149774803","rc":[{"ltp":1.06,"id":18329426}]}]}
+{"op":"mcm","clk":"7741997802","pt":1539947083612,"mc":[{"id":"1.149774803","rc":[{"ltp":1.02,"id":18329426}]}]}
+{"op":"mcm","clk":"7742007803","pt":1539947143124,"mc":[{"id":"1.149774803","rc":[{"ltp":1.01,"id":18329426},{"ltp":50.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7742017723","pt":1539947203183,"mc":[{"id":"1.149774803","rc":[{"ltp":1.03,"id":18329426},{"ltp":46.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7742027334","pt":1539947263380,"mc":[{"id":"1.149774803","rc":[{"ltp":1.04,"id":18329426},{"ltp":50.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7742036646","pt":1539947321265,"mc":[{"id":"1.149774803","rc":[{"ltp":40.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7742046468","pt":1539947379727,"mc":[{"id":"1.149774803","rc":[{"ltp":1.06,"id":18329426},{"ltp":17.5,"id":13254793}]}]}
+{"op":"mcm","clk":"7742056252","pt":1539947442941,"mc":[{"id":"1.149774803","rc":[{"ltp":1.1,"id":18329426},{"ltp":11.0,"id":13254793}]}]}
+{"op":"mcm","clk":"7742062934","pt":1539947491015,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:55:00.000Z","suspendTime":"2018-10-19T09:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"ACTIVE","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:55:00.000Z","version":2461397789,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"},"rc":[{"ltp":1.03,"id":18329426}]}]}
+{"op":"mcm","clk":"7742066765","pt":1539947519211,"mc":[{"id":"1.149774803","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962998","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T09:55:00.000Z","suspendTime":"2018-10-19T09:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T11:11:54.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":18329426,"name":"Demoliner/Gonzalez"},{"status":"LOSER","sortPriority":2,"id":13254793,"name":"Granollers/Granollers"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T09:55:00.000Z","version":2461398344,"name":"Match Odds","eventName":"Demoliner/Gonzalez v Granollers/Granollers"}}]}

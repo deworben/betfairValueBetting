@@ -1,0 +1,64 @@
+{"op":"mcm","clk":"7770478590","pt":1540141190863,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T15:00:00.000Z","suspendTime":"2018-10-22T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"ACTIVE","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T15:00:00.000Z","version":2469338419,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"}}]}
+{"op":"mcm","clk":"7770531832","pt":1540141495176,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T15:00:00.000Z","suspendTime":"2018-10-22T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"ACTIVE","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T15:00:00.000Z","version":2469338419,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"}}]}
+{"op":"mcm","clk":"7774905385","pt":1540203785687,"mc":[{"id":"1.149972388","rc":[{"ltp":1.35,"id":8284716},{"ltp":3.9,"id":20832543}]}]}
+{"op":"mcm","clk":"7776377254","pt":1540220034122,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T14:53:00.000Z","suspendTime":"2018-10-22T14:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"ACTIVE","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T14:53:00.000Z","version":2470729088,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"}}]}
+{"op":"mcm","clk":"7776383976","pt":1540220128642,"mc":[{"id":"1.149972388","rc":[{"ltp":1.46,"id":8284716}]}]}
+{"op":"mcm","clk":"7776438006","pt":1540220815513,"mc":[{"id":"1.149972388","rc":[{"ltp":1.28,"id":8284716}]}]}
+{"op":"mcm","clk":"7776445715","pt":1540220954335,"mc":[{"id":"1.149972388","rc":[{"ltp":1.22,"id":8284716}]}]}
+{"op":"mcm","clk":"7776450415","pt":1540221040324,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T14:53:00.000Z","suspendTime":"2018-10-22T14:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"ACTIVE","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T14:53:00.000Z","version":2470737377,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"}}]}
+{"op":"mcm","clk":"7776477603","pt":1540221294026,"mc":[{"id":"1.149972388","rc":[{"ltp":1.27,"id":8284716}]}]}
+{"op":"mcm","clk":"7776485570","pt":1540221407954,"mc":[{"id":"1.149972388","rc":[{"ltp":1.15,"id":8284716}]}]}
+{"op":"mcm","clk":"7776494815","pt":1540221528944,"mc":[{"id":"1.149972388","rc":[{"ltp":1.12,"id":8284716}]}]}
+{"op":"mcm","clk":"7776498908","pt":1540221593493,"mc":[{"id":"1.149972388","rc":[{"ltp":1.16,"id":8284716},{"ltp":8.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776501735","pt":1540221648560,"mc":[{"id":"1.149972388","rc":[{"ltp":1.15,"id":8284716},{"ltp":7.4,"id":20832543}]}]}
+{"op":"mcm","clk":"7776505063","pt":1540221711399,"mc":[{"id":"1.149972388","rc":[{"ltp":1.13,"id":8284716},{"ltp":8.6,"id":20832543}]}]}
+{"op":"mcm","clk":"7776508141","pt":1540221770933,"mc":[{"id":"1.149972388","rc":[{"ltp":1.15,"id":8284716}]}]}
+{"op":"mcm","clk":"7776511118","pt":1540221833172,"mc":[{"id":"1.149972388","rc":[{"ltp":1.14,"id":8284716}]}]}
+{"op":"mcm","clk":"7776514178","pt":1540221893573,"mc":[{"id":"1.149972388","rc":[{"ltp":1.13,"id":8284716},{"ltp":9.2,"id":20832543}]}]}
+{"op":"mcm","clk":"7776517081","pt":1540221955025,"mc":[{"id":"1.149972388","rc":[{"ltp":1.14,"id":8284716}]}]}
+{"op":"mcm","clk":"7776519946","pt":1540222015689,"mc":[{"id":"1.149972388","rc":[{"ltp":1.21,"id":8284716}]}]}
+{"op":"mcm","clk":"7776533435","pt":1540222075383,"mc":[{"id":"1.149972388","rc":[{"ltp":1.17,"id":8284716}]}]}
+{"op":"mcm","clk":"7776539356","pt":1540222190057,"mc":[{"id":"1.149972388","rc":[{"ltp":1.14,"id":8284716}]}]}
+{"op":"mcm","clk":"7776542829","pt":1540222255622,"mc":[{"id":"1.149972388","rc":[{"ltp":1.11,"id":8284716}]}]}
+{"op":"mcm","clk":"7776545726","pt":1540222314611,"mc":[{"id":"1.149972388","rc":[{"ltp":1.1,"id":8284716}]}]}
+{"op":"mcm","clk":"7776548900","pt":1540222375689,"mc":[{"id":"1.149972388","rc":[{"ltp":1.07,"id":8284716},{"ltp":15.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776551531","pt":1540222422940,"mc":[{"id":"1.149972388","rc":[{"ltp":1.08,"id":8284716}]}]}
+{"op":"mcm","clk":"7776570573","pt":1540222733989,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776573752","pt":1540222793118,"mc":[{"id":"1.149972388","rc":[{"ltp":21.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776576246","pt":1540222851713,"mc":[{"id":"1.149972388","rc":[{"ltp":1.07,"id":8284716},{"ltp":15.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776578661","pt":1540222906873,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716}]}]}
+{"op":"mcm","clk":"7776595528","pt":1540223035444,"mc":[{"id":"1.149972388","rc":[{"ltp":21.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776597405","pt":1540223068999,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716},{"ltp":26.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776604472","pt":1540223214369,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716}]}]}
+{"op":"mcm","clk":"7776612654","pt":1540223387072,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716}]}]}
+{"op":"mcm","clk":"7776621340","pt":1540223559939,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776631270","pt":1540223752171,"mc":[{"id":"1.149972388","rc":[{"ltp":1.03,"id":8284716}]}]}
+{"op":"mcm","clk":"7776634893","pt":1540223813696,"mc":[{"id":"1.149972388","rc":[{"ltp":1.02,"id":8284716},{"ltp":50.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776648877","pt":1540223871989,"mc":[{"id":"1.149972388","rc":[{"ltp":1.03,"id":8284716}]}]}
+{"op":"mcm","clk":"7776654847","pt":1540223992753,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716},{"ltp":26.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776658160","pt":1540224052422,"mc":[{"id":"1.149972388","rc":[{"ltp":1.03,"id":8284716},{"ltp":34.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776684031","pt":1540224473864,"mc":[{"id":"1.149972388","rc":[{"ltp":1.02,"id":8284716}]}]}
+{"op":"mcm","clk":"7776687496","pt":1540224527905,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776692090","pt":1540224595425,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716},{"ltp":17.5,"id":20832543}]}]}
+{"op":"mcm","clk":"7776695996","pt":1540224654525,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716}]}]}
+{"op":"mcm","clk":"7776698931","pt":1540224703903,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716},{"ltp":26.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776713213","pt":1540224764357,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716}]}]}
+{"op":"mcm","clk":"7776717949","pt":1540224832096,"mc":[{"id":"1.149972388","rc":[{"ltp":1.03,"id":8284716},{"ltp":34.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776722433","pt":1540224892497,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776727148","pt":1540224954432,"mc":[{"id":"1.149972388","rc":[{"ltp":1.07,"id":8284716},{"ltp":15.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776731858","pt":1540225012659,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716},{"ltp":21.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776736749","pt":1540225073284,"mc":[{"id":"1.149972388","rc":[{"ltp":17.5,"id":20832543}]}]}
+{"op":"mcm","clk":"7776741890","pt":1540225134437,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776750284","pt":1540225253713,"mc":[{"id":"1.149972388","rc":[{"ltp":1.04,"id":8284716},{"ltp":25.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776754265","pt":1540225312433,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716},{"ltp":17.5,"id":20832543}]}]}
+{"op":"mcm","clk":"7776758365","pt":1540225373829,"mc":[{"id":"1.149972388","rc":[{"ltp":1.1,"id":8284716},{"ltp":11.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776762271","pt":1540225433998,"mc":[{"id":"1.149972388","rc":[{"ltp":8.6,"id":20832543}]}]}
+{"op":"mcm","clk":"7776765996","pt":1540225492132,"mc":[{"id":"1.149972388","rc":[{"ltp":1.16,"id":8284716},{"ltp":10.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776770047","pt":1540225554186,"mc":[{"id":"1.149972388","rc":[{"ltp":1.09,"id":8284716}]}]}
+{"op":"mcm","clk":"7776773966","pt":1540225612267,"mc":[{"id":"1.149972388","rc":[{"ltp":1.06,"id":8284716}]}]}
+{"op":"mcm","clk":"7776793048","pt":1540225735934,"mc":[{"id":"1.149972388","rc":[{"ltp":17.5,"id":20832543}]}]}
+{"op":"mcm","clk":"7776797311","pt":1540225795477,"mc":[{"id":"1.149972388","rc":[{"ltp":1.08,"id":8284716}]}]}
+{"op":"mcm","clk":"7776806592","pt":1540225915740,"mc":[{"id":"1.149972388","rc":[{"ltp":1.02,"id":8284716},{"ltp":50.0,"id":20832543}]}]}
+{"op":"mcm","clk":"7776811461","pt":1540225974008,"mc":[{"id":"1.149972388","rc":[{"ltp":1.05,"id":8284716}]}]}
+{"op":"mcm","clk":"7776815256","pt":1540226017766,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T14:53:00.000Z","suspendTime":"2018-10-22T14:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"ACTIVE","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T14:53:00.000Z","version":2470817538,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"},"rc":[{"ltp":1.03,"id":8284716}]}]}
+{"op":"mcm","clk":"7776818349","pt":1540226053387,"mc":[{"id":"1.149972388","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28969391","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-22T14:53:00.000Z","suspendTime":"2018-10-22T14:53:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-22T16:34:10.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8284716,"name":"Andrea Collarini"},{"status":"LOSER","sortPriority":2,"id":20832543,"name":"Conner Huertas del pino"}],"regulators":["MR_INT"],"countryCode":"PE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-22T14:53:00.000Z","version":2470818780,"name":"Match Odds","eventName":"Collarini v Co Huertas Del Pino"}}]}

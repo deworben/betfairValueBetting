@@ -1,0 +1,103 @@
+{"op":"mcm","clk":"7751588879","pt":1540020568031,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T02:00:00.000Z","suspendTime":"2018-10-21T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T02:00:00.000Z","version":2463248744,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7751669042","pt":1540021314855,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T02:00:00.000Z","suspendTime":"2018-10-21T02:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T02:00:00.000Z","version":2463248744,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7752870596","pt":1540029234487,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:00:00.000Z","suspendTime":"2018-10-21T04:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:00:00.000Z","version":2463487931,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7762439345","pt":1540087134628,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:15:00.000Z","suspendTime":"2018-10-21T04:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:15:00.000Z","version":2466872188,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7762458349","pt":1540087434138,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:01:00.000Z","suspendTime":"2018-10-21T04:01:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:01:00.000Z","version":2466886727,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7763032442","pt":1540093407451,"mc":[{"id":"1.149898863","rc":[{"ltp":2.3,"id":11510021}]}]}
+{"op":"mcm","clk":"7763080558","pt":1540094175799,"mc":[{"id":"1.149898863","rc":[{"ltp":2.38,"id":11510021},{"ltp":1.72,"id":9630816}]}]}
+{"op":"mcm","clk":"7763127823","pt":1540094633965,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:02:00.000Z","suspendTime":"2018-10-21T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:02:00.000Z","version":2467031366,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7763181559","pt":1540095221490,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:02:00.000Z","suspendTime":"2018-10-21T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:02:00.000Z","version":2467040499,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}
+{"op":"mcm","clk":"7763197668","pt":1540095405259,"mc":[{"id":"1.149898863","rc":[{"ltp":2.12,"id":11510021},{"ltp":1.89,"id":9630816}]}]}
+{"op":"mcm","clk":"7763203336","pt":1540095467686,"mc":[{"id":"1.149898863","rc":[{"ltp":1.78,"id":9630816}]}]}
+{"op":"mcm","clk":"7763236237","pt":1540095826744,"mc":[{"id":"1.149898863","rc":[{"ltp":2.48,"id":11510021}]}]}
+{"op":"mcm","clk":"7763250655","pt":1540096007913,"mc":[{"id":"1.149898863","rc":[{"ltp":2.84,"id":11510021},{"ltp":1.54,"id":9630816}]}]}
+{"op":"mcm","clk":"7763268648","pt":1540096050108,"mc":[{"id":"1.149898863","rc":[{"ltp":2.88,"id":11510021},{"ltp":1.53,"id":9630816}]}]}
+{"op":"mcm","clk":"7763273951","pt":1540096125428,"mc":[{"id":"1.149898863","rc":[{"ltp":2.8,"id":11510021},{"ltp":1.56,"id":9630816}]}]}
+{"op":"mcm","clk":"7763279111","pt":1540096187988,"mc":[{"id":"1.149898863","rc":[{"ltp":3.0,"id":11510021},{"ltp":1.52,"id":9630816}]}]}
+{"op":"mcm","clk":"7763284743","pt":1540096247494,"mc":[{"id":"1.149898863","rc":[{"ltp":3.55,"id":11510021},{"ltp":1.39,"id":9630816}]}]}
+{"op":"mcm","clk":"7763300338","pt":1540096427657,"mc":[{"id":"1.149898863","rc":[{"ltp":3.9,"id":11510021}]}]}
+{"op":"mcm","clk":"7763304820","pt":1540096483881,"mc":[{"id":"1.149898863","rc":[{"ltp":4.2,"id":11510021},{"ltp":1.32,"id":9630816}]}]}
+{"op":"mcm","clk":"7763309890","pt":1540096547129,"mc":[{"id":"1.149898863","rc":[{"ltp":1.31,"id":9630816}]}]}
+{"op":"mcm","clk":"7763314126","pt":1540096600104,"mc":[{"id":"1.149898863","rc":[{"ltp":2.62,"id":11510021}]}]}
+{"op":"mcm","clk":"7763318144","pt":1540096648921,"mc":[{"id":"1.149898863","rc":[{"ltp":4.8,"id":11510021},{"ltp":1.26,"id":9630816}]}]}
+{"op":"mcm","clk":"7763327043","pt":1540096760210,"mc":[{"id":"1.149898863","rc":[{"ltp":4.7,"id":11510021},{"ltp":1.27,"id":9630816}]}]}
+{"op":"mcm","clk":"7763332826","pt":1540096842423,"mc":[{"id":"1.149898863","rc":[{"ltp":4.8,"id":11510021},{"ltp":1.26,"id":9630816}]}]}
+{"op":"mcm","clk":"7763337217","pt":1540096904764,"mc":[{"id":"1.149898863","rc":[{"ltp":5.9,"id":11510021},{"ltp":1.2,"id":9630816}]}]}
+{"op":"mcm","clk":"7763360429","pt":1540097024363,"mc":[{"id":"1.149898863","rc":[{"ltp":6.0,"id":11510021}]}]}
+{"op":"mcm","clk":"7763369294","pt":1540097139854,"mc":[{"id":"1.149898863","rc":[{"ltp":4.7,"id":11510021},{"ltp":1.27,"id":9630816}]}]}
+{"op":"mcm","clk":"7763466769","pt":1540098279822,"mc":[{"id":"1.149898863","rc":[{"ltp":2.6,"id":11510021},{"ltp":1.63,"id":9630816}]}]}
+{"op":"mcm","clk":"7763480925","pt":1540098431270,"mc":[{"id":"1.149898863","rc":[{"ltp":1.27,"id":9630816}]}]}
+{"op":"mcm","clk":"7763535889","pt":1540098817092,"mc":[{"id":"1.149898863","rc":[{"ltp":3.75,"id":11510021},{"ltp":1.36,"id":9630816}]}]}
+{"op":"mcm","clk":"7763547997","pt":1540098935029,"mc":[{"id":"1.149898863","rc":[{"ltp":4.3,"id":11510021}]}]}
+{"op":"mcm","clk":"7763561094","pt":1540099058422,"mc":[{"id":"1.149898863","rc":[{"ltp":1.32,"id":9630816}]}]}
+{"op":"mcm","clk":"7763568366","pt":1540099126165,"mc":[{"id":"1.149898863","rc":[{"ltp":4.8,"id":11510021},{"ltp":1.27,"id":9630816}]}]}
+{"op":"mcm","clk":"7763594991","pt":1540099364430,"mc":[{"id":"1.149898863","rc":[{"ltp":1.18,"id":9630816}]}]}
+{"op":"mcm","clk":"7763611306","pt":1540099544442,"mc":[{"id":"1.149898863","rc":[{"ltp":15.0,"id":11510021},{"ltp":1.07,"id":9630816}]}]}
+{"op":"mcm","clk":"7763616469","pt":1540099608061,"mc":[{"id":"1.149898863","rc":[{"ltp":17.5,"id":11510021},{"ltp":1.06,"id":9630816}]}]}
+{"op":"mcm","clk":"7763666728","pt":1540099967513,"mc":[{"id":"1.149898863","rc":[{"ltp":6.2,"id":11510021},{"ltp":1.13,"id":9630816}]}]}
+{"op":"mcm","clk":"7763686479","pt":1540100146237,"mc":[{"id":"1.149898863","rc":[{"ltp":4.5,"id":11510021},{"ltp":1.28,"id":9630816}]}]}
+{"op":"mcm","clk":"7763691915","pt":1540100198412,"mc":[{"id":"1.149898863","rc":[{"ltp":5.7,"id":11510021},{"ltp":1.21,"id":9630816}]}]}
+{"op":"mcm","clk":"7763705953","pt":1540100327976,"mc":[{"id":"1.149898863","rc":[{"ltp":4.2,"id":11510021},{"ltp":1.31,"id":9630816}]}]}
+{"op":"mcm","clk":"7763717671","pt":1540100437159,"mc":[{"id":"1.149898863","rc":[{"ltp":3.6,"id":11510021},{"ltp":1.38,"id":9630816}]}]}
+{"op":"mcm","clk":"7763725385","pt":1540100507553,"mc":[{"id":"1.149898863","rc":[{"ltp":2.78,"id":11510021},{"ltp":1.56,"id":9630816}]}]}
+{"op":"mcm","clk":"7763745853","pt":1540100567496,"mc":[{"id":"1.149898863","rc":[{"ltp":3.0,"id":11510021},{"ltp":1.49,"id":9630816}]}]}
+{"op":"mcm","clk":"7763751445","pt":1540100625106,"mc":[{"id":"1.149898863","rc":[{"ltp":2.6,"id":11510021},{"ltp":1.74,"id":9630816}]}]}
+{"op":"mcm","clk":"7763758338","pt":1540100687426,"mc":[{"id":"1.149898863","rc":[{"ltp":2.42,"id":11510021},{"ltp":1.72,"id":9630816}]}]}
+{"op":"mcm","clk":"7763763682","pt":1540100739065,"mc":[{"id":"1.149898863","rc":[{"ltp":1.71,"id":9630816}]}]}
+{"op":"mcm","clk":"7763774740","pt":1540100860805,"mc":[{"id":"1.149898863","rc":[{"ltp":2.38,"id":11510021},{"ltp":1.72,"id":9630816}]}]}
+{"op":"mcm","clk":"7763779578","pt":1540100914362,"mc":[{"id":"1.149898863","rc":[{"ltp":2.46,"id":11510021},{"ltp":1.68,"id":9630816}]}]}
+{"op":"mcm","clk":"7763786143","pt":1540100985546,"mc":[{"id":"1.149898863","rc":[{"ltp":1.6,"id":9630816}]}]}
+{"op":"mcm","clk":"7763797442","pt":1540101106798,"mc":[{"id":"1.149898863","rc":[{"ltp":2.0,"id":11510021},{"ltp":2.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7763807558","pt":1540101219471,"mc":[{"id":"1.149898863","rc":[{"ltp":1.8,"id":9630816}]}]}
+{"op":"mcm","clk":"7763811805","pt":1540101270438,"mc":[{"id":"1.149898863","rc":[{"ltp":2.36,"id":11510021},{"ltp":1.74,"id":9630816}]}]}
+{"op":"mcm","clk":"7763818113","pt":1540101341602,"mc":[{"id":"1.149898863","rc":[{"ltp":2.12,"id":11510021},{"ltp":1.99,"id":9630816}]}]}
+{"op":"mcm","clk":"7763823815","pt":1540101401417,"mc":[{"id":"1.149898863","rc":[{"ltp":1.89,"id":9630816}]}]}
+{"op":"mcm","clk":"7763844397","pt":1540101468006,"mc":[{"id":"1.149898863","rc":[{"ltp":1.92,"id":11510021},{"ltp":2.08,"id":9630816}]}]}
+{"op":"mcm","clk":"7763850102","pt":1540101525008,"mc":[{"id":"1.149898863","rc":[{"ltp":1.7,"id":11510021},{"ltp":2.42,"id":9630816}]}]}
+{"op":"mcm","clk":"7763856378","pt":1540101587773,"mc":[{"id":"1.149898863","rc":[{"ltp":2.02,"id":11510021},{"ltp":1.98,"id":9630816}]}]}
+{"op":"mcm","clk":"7763862194","pt":1540101646872,"mc":[{"id":"1.149898863","rc":[{"ltp":1.99,"id":11510021},{"ltp":2.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7763868773","pt":1540101702131,"mc":[{"id":"1.149898863","rc":[{"ltp":1.68,"id":11510021},{"ltp":2.46,"id":9630816}]}]}
+{"op":"mcm","clk":"7763874905","pt":1540101766961,"mc":[{"id":"1.149898863","rc":[{"ltp":1.64,"id":11510021},{"ltp":2.56,"id":9630816}]}]}
+{"op":"mcm","clk":"7763886735","pt":1540101886578,"mc":[{"id":"1.149898863","rc":[{"ltp":1.51,"id":11510021},{"ltp":2.84,"id":9630816}]}]}
+{"op":"mcm","clk":"7763893106","pt":1540101947715,"mc":[{"id":"1.149898863","rc":[{"ltp":1.29,"id":11510021},{"ltp":4.5,"id":9630816}]}]}
+{"op":"mcm","clk":"7763898367","pt":1540102008117,"mc":[{"id":"1.149898863","rc":[{"ltp":1.19,"id":11510021}]}]}
+{"op":"mcm","clk":"7763904022","pt":1540102068172,"mc":[{"id":"1.149898863","rc":[{"ltp":1.15,"id":11510021},{"ltp":6.4,"id":9630816}]}]}
+{"op":"mcm","clk":"7763909659","pt":1540102128158,"mc":[{"id":"1.149898863","rc":[{"ltp":1.09,"id":11510021}]}]}
+{"op":"mcm","clk":"7763914347","pt":1540102178971,"mc":[{"id":"1.149898863","rc":[{"ltp":1.1,"id":11510021},{"ltp":11.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7763920691","pt":1540102247282,"mc":[{"id":"1.149898863","rc":[{"ltp":13.5,"id":9630816}]}]}
+{"op":"mcm","clk":"7763945857","pt":1540102364780,"mc":[{"id":"1.149898863","rc":[{"ltp":1.11,"id":11510021},{"ltp":9.2,"id":9630816}]}]}
+{"op":"mcm","clk":"7763951459","pt":1540102427285,"mc":[{"id":"1.149898863","rc":[{"ltp":1.14,"id":11510021}]}]}
+{"op":"mcm","clk":"7763956406","pt":1540102487318,"mc":[{"id":"1.149898863","rc":[{"ltp":1.11,"id":11510021}]}]}
+{"op":"mcm","clk":"7763962264","pt":1540102547466,"mc":[{"id":"1.149898863","rc":[{"ltp":1.16,"id":11510021}]}]}
+{"op":"mcm","clk":"7763974225","pt":1540102667176,"mc":[{"id":"1.149898863","rc":[{"ltp":1.11,"id":11510021}]}]}
+{"op":"mcm","clk":"7763979204","pt":1540102725130,"mc":[{"id":"1.149898863","rc":[{"ltp":1.17,"id":11510021},{"ltp":12.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7763984284","pt":1540102787848,"mc":[{"id":"1.149898863","rc":[{"ltp":1.07,"id":11510021},{"ltp":11.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7763988989","pt":1540102846694,"mc":[{"id":"1.149898863","rc":[{"ltp":1.1,"id":11510021}]}]}
+{"op":"mcm","clk":"7763994837","pt":1540102905387,"mc":[{"id":"1.149898863","rc":[{"ltp":1.04,"id":11510021}]}]}
+{"op":"mcm","clk":"7764000395","pt":1540102964442,"mc":[{"id":"1.149898863","rc":[{"ltp":1.08,"id":11510021}]}]}
+{"op":"mcm","clk":"7764005717","pt":1540103026437,"mc":[{"id":"1.149898863","rc":[{"ltp":1.07,"id":11510021},{"ltp":17.5,"id":9630816}]}]}
+{"op":"mcm","clk":"7764010177","pt":1540103080620,"mc":[{"id":"1.149898863","rc":[{"ltp":1.09,"id":11510021},{"ltp":11.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7764014983","pt":1540103134831,"mc":[{"id":"1.149898863","rc":[{"ltp":1.11,"id":11510021},{"ltp":17.5,"id":9630816}]}]}
+{"op":"mcm","clk":"7764021620","pt":1540103208201,"mc":[{"id":"1.149898863","rc":[{"ltp":1.13,"id":11510021},{"ltp":8.4,"id":9630816}]}]}
+{"op":"mcm","clk":"7764041378","pt":1540103267890,"mc":[{"id":"1.149898863","rc":[{"ltp":1.75,"id":11510021},{"ltp":2.32,"id":9630816}]}]}
+{"op":"mcm","clk":"7764046233","pt":1540103326919,"mc":[{"id":"1.149898863","rc":[{"ltp":1.57,"id":11510021},{"ltp":2.84,"id":9630816}]}]}
+{"op":"mcm","clk":"7764052122","pt":1540103386901,"mc":[{"id":"1.149898863","rc":[{"ltp":1.58,"id":11510021},{"ltp":2.76,"id":9630816}]}]}
+{"op":"mcm","clk":"7764057909","pt":1540103447082,"mc":[{"id":"1.149898863","rc":[{"ltp":1.5,"id":11510021},{"ltp":2.88,"id":9630816}]}]}
+{"op":"mcm","clk":"7764063293","pt":1540103502244,"mc":[{"id":"1.149898863","rc":[{"ltp":1.54,"id":11510021}]}]}
+{"op":"mcm","clk":"7764082113","pt":1540103683943,"mc":[{"id":"1.149898863","rc":[{"ltp":1.29,"id":11510021},{"ltp":4.4,"id":9630816}]}]}
+{"op":"mcm","clk":"7764088741","pt":1540103746178,"mc":[{"id":"1.149898863","rc":[{"ltp":1.5,"id":11510021},{"ltp":3.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7764094963","pt":1540103807260,"mc":[{"id":"1.149898863","rc":[{"ltp":1.81,"id":11510021},{"ltp":1.94,"id":9630816}]}]}
+{"op":"mcm","clk":"7764100919","pt":1540103864138,"mc":[{"id":"1.149898863","rc":[{"ltp":2.04,"id":11510021},{"ltp":1.96,"id":9630816}]}]}
+{"op":"mcm","clk":"7764107291","pt":1540103926055,"mc":[{"id":"1.149898863","rc":[{"ltp":1.83,"id":11510021}]}]}
+{"op":"mcm","clk":"7764112649","pt":1540103985403,"mc":[{"id":"1.149898863","rc":[{"ltp":1.51,"id":11510021},{"ltp":2.96,"id":9630816}]}]}
+{"op":"mcm","clk":"7764118628","pt":1540104045502,"mc":[{"id":"1.149898863","rc":[{"ltp":1.54,"id":11510021},{"ltp":2.88,"id":9630816}]}]}
+{"op":"mcm","clk":"7764125046","pt":1540104105802,"mc":[{"id":"1.149898863","rc":[{"ltp":1.55,"id":11510021}]}]}
+{"op":"mcm","clk":"7764145524","pt":1540104166879,"mc":[{"id":"1.149898863","rc":[{"ltp":1.83,"id":11510021},{"ltp":2.2,"id":9630816}]}]}
+{"op":"mcm","clk":"7764151267","pt":1540104227566,"mc":[{"id":"1.149898863","rc":[{"ltp":1.94,"id":11510021},{"ltp":2.24,"id":9630816}]}]}
+{"op":"mcm","clk":"7764157304","pt":1540104288036,"mc":[{"id":"1.149898863","rc":[{"ltp":1.2,"id":11510021},{"ltp":4.0,"id":9630816}]}]}
+{"op":"mcm","clk":"7764162614","pt":1540104344794,"mc":[{"id":"1.149898863","rc":[{"ltp":1.15,"id":11510021}]}]}
+{"op":"mcm","clk":"7764167218","pt":1540104390818,"mc":[{"id":"1.149898863","rc":[{"ltp":1.29,"id":11510021},{"ltp":4.4,"id":9630816}]}]}
+{"op":"mcm","clk":"7764173952","pt":1540104467240,"mc":[{"id":"1.149898863","rc":[{"ltp":1.16,"id":11510021}]}]}
+{"op":"mcm","clk":"7764179403","pt":1540104525945,"mc":[{"id":"1.149898863","rc":[{"ltp":1.05,"id":11510021}]}]}
+{"op":"mcm","clk":"7764184178","pt":1540104582645,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:02:00.000Z","suspendTime":"2018-10-21T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"ACTIVE","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:02:00.000Z","version":2467164624,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"},"rc":[{"ltp":1.01,"id":11510021}]}]}
+{"op":"mcm","clk":"7764187281","pt":1540104614846,"mc":[{"id":"1.149898863","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28966271","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-21T04:02:00.000Z","suspendTime":"2018-10-21T04:02:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-21T06:50:09.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":11510021,"name":"Ye Cong Mo"},{"status":"LOSER","sortPriority":2,"id":9630816,"name":"Shi Hong Zeng"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-21T04:02:00.000Z","version":2467165116,"name":"Match Odds","eventName":"Ye Mo v Shi Zeng"}}]}

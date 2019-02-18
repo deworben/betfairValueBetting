@@ -1,0 +1,82 @@
+{"op":"mcm","clk":"7842735534","pt":1540906684355,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:30:00.000Z","version":2485830650,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7842741705","pt":1540906782858,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:30:00.000Z","version":2485830650,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843215362","pt":1540912333262,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:40:00.000Z","version":2485934506,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843271838","pt":1540912931689,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T15:20:00.000Z","version":2485941561,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843282752","pt":1540913051229,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:45:00.000Z","version":2485943949,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843501706","pt":1540915322249,"mc":[{"id":"1.150485984","rc":[{"ltp":1.36,"id":9626957}]}]}
+{"op":"mcm","clk":"7843632595","pt":1540916646354,"mc":[{"id":"1.150485984","rc":[{"ltp":3.05,"id":9694523}]}]}
+{"op":"mcm","clk":"7843639683","pt":1540916734279,"mc":[{"id":"1.150485984","rc":[{"ltp":1.5,"id":9626957}]}]}
+{"op":"mcm","clk":"7843749756","pt":1540917825181,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:45:00.000Z","version":2486027099,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843778710","pt":1540918193277,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"ACTIVE","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:49:48.000Z","version":2486038752,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}
+{"op":"mcm","clk":"7843809001","pt":1540918555605,"mc":[{"id":"1.150485984","rc":[{"ltp":1.71,"id":9626957}]}]}
+{"op":"mcm","clk":"7843855292","pt":1540918978239,"mc":[{"id":"1.150485984","rc":[{"ltp":1.84,"id":9694523}]}]}
+{"op":"mcm","clk":"7843861306","pt":1540919044833,"mc":[{"id":"1.150485984","rc":[{"ltp":2.18,"id":9626957}]}]}
+{"op":"mcm","clk":"7843873627","pt":1540919165502,"mc":[{"id":"1.150485984","rc":[{"ltp":2.7,"id":9626957},{"ltp":1.59,"id":9694523}]}]}
+{"op":"mcm","clk":"7843885203","pt":1540919285701,"mc":[{"id":"1.150485984","rc":[{"ltp":2.86,"id":9626957},{"ltp":1.5,"id":9694523}]}]}
+{"op":"mcm","clk":"7843890953","pt":1540919346277,"mc":[{"id":"1.150485984","rc":[{"ltp":1.47,"id":9694523}]}]}
+{"op":"mcm","clk":"7843920854","pt":1540919526102,"mc":[{"id":"1.150485984","rc":[{"ltp":1.51,"id":9694523}]}]}
+{"op":"mcm","clk":"7843927320","pt":1540919585468,"mc":[{"id":"1.150485984","rc":[{"ltp":3.3,"id":9626957},{"ltp":1.44,"id":9694523}]}]}
+{"op":"mcm","clk":"7843933756","pt":1540919645083,"mc":[{"id":"1.150485984","rc":[{"ltp":1.53,"id":9694523}]}]}
+{"op":"mcm","clk":"7843937851","pt":1540919684580,"mc":[{"id":"1.150485984","rc":[{"ltp":1.46,"id":9694523}]}]}
+{"op":"mcm","clk":"7843964305","pt":1540919946059,"mc":[{"id":"1.150485984","rc":[{"ltp":1.45,"id":9694523}]}]}
+{"op":"mcm","clk":"7843970220","pt":1540920004090,"mc":[{"id":"1.150485984","rc":[{"ltp":1.44,"id":9694523}]}]}
+{"op":"mcm","clk":"7843988030","pt":1540920178991,"mc":[{"id":"1.150485984","rc":[{"ltp":1.42,"id":9694523}]}]}
+{"op":"mcm","clk":"7844000410","pt":1540920306307,"mc":[{"id":"1.150485984","rc":[{"ltp":1.59,"id":9694523}]}]}
+{"op":"mcm","clk":"7844006140","pt":1540920365445,"mc":[{"id":"1.150485984","rc":[{"ltp":1.63,"id":9694523}]}]}
+{"op":"mcm","clk":"7844030678","pt":1540920485894,"mc":[{"id":"1.150485984","rc":[{"ltp":1.62,"id":9694523}]}]}
+{"op":"mcm","clk":"7844048901","pt":1540920664375,"mc":[{"id":"1.150485984","rc":[{"ltp":1.52,"id":9694523}]}]}
+{"op":"mcm","clk":"7844053261","pt":1540920706620,"mc":[{"id":"1.150485984","rc":[{"ltp":2.44,"id":9626957},{"ltp":1.69,"id":9694523}]}]}
+{"op":"mcm","clk":"7844059973","pt":1540920773460,"mc":[{"id":"1.150485984","rc":[{"ltp":1.73,"id":9694523}]}]}
+{"op":"mcm","clk":"7844067400","pt":1540920841032,"mc":[{"id":"1.150485984","rc":[{"ltp":2.0,"id":9694523}]}]}
+{"op":"mcm","clk":"7844086050","pt":1540921024112,"mc":[{"id":"1.150485984","rc":[{"ltp":2.68,"id":9626957},{"ltp":1.59,"id":9694523}]}]}
+{"op":"mcm","clk":"7844092457","pt":1540921083834,"mc":[{"id":"1.150485984","rc":[{"ltp":1.6,"id":9694523}]}]}
+{"op":"mcm","clk":"7844098834","pt":1540921143401,"mc":[{"id":"1.150485984","rc":[{"ltp":1.65,"id":9694523}]}]}
+{"op":"mcm","clk":"7844109570","pt":1540921255492,"mc":[{"id":"1.150485984","rc":[{"ltp":1.77,"id":9694523}]}]}
+{"op":"mcm","clk":"7844133855","pt":1540921386217,"mc":[{"id":"1.150485984","rc":[{"ltp":1.69,"id":9626957},{"ltp":2.34,"id":9694523}]}]}
+{"op":"mcm","clk":"7844138980","pt":1540921442061,"mc":[{"id":"1.150485984","rc":[{"ltp":1.88,"id":9626957},{"ltp":1.73,"id":9694523}]}]}
+{"op":"mcm","clk":"7844145200","pt":1540921505493,"mc":[{"id":"1.150485984","rc":[{"ltp":1.92,"id":9626957},{"ltp":2.1,"id":9694523}]}]}
+{"op":"mcm","clk":"7844153777","pt":1540921601215,"mc":[{"id":"1.150485984","rc":[{"ltp":2.42,"id":9626957},{"ltp":1.7,"id":9694523}]}]}
+{"op":"mcm","clk":"7844160755","pt":1540921684360,"mc":[{"id":"1.150485984","rc":[{"ltp":1.56,"id":9694523}]}]}
+{"op":"mcm","clk":"7844165667","pt":1540921746313,"mc":[{"id":"1.150485984","rc":[{"ltp":1.51,"id":9694523}]}]}
+{"op":"mcm","clk":"7844169170","pt":1540921789593,"mc":[{"id":"1.150485984","rc":[{"ltp":3.0,"id":9626957},{"ltp":1.5,"id":9694523}]}]}
+{"op":"mcm","clk":"7844174772","pt":1540921855674,"mc":[{"id":"1.150485984","rc":[{"ltp":1.54,"id":9694523}]}]}
+{"op":"mcm","clk":"7844186729","pt":1540921985383,"mc":[{"id":"1.150485984","rc":[{"ltp":1.35,"id":9694523}]}]}
+{"op":"mcm","clk":"7844192313","pt":1540922044587,"mc":[{"id":"1.150485984","rc":[{"ltp":3.35,"id":9626957},{"ltp":1.57,"id":9694523}]}]}
+{"op":"mcm","clk":"7844197238","pt":1540922099586,"mc":[{"id":"1.150485984","rc":[{"ltp":1.75,"id":9694523}]}]}
+{"op":"mcm","clk":"7844207996","pt":1540922224788,"mc":[{"id":"1.150485984","rc":[{"ltp":1.64,"id":9694523}]}]}
+{"op":"mcm","clk":"7844231950","pt":1540922344385,"mc":[{"id":"1.150485984","rc":[{"ltp":1.87,"id":9626957},{"ltp":2.14,"id":9694523}]}]}
+{"op":"mcm","clk":"7844262298","pt":1540922646158,"mc":[{"id":"1.150485984","rc":[{"ltp":1.87,"id":9694523}]}]}
+{"op":"mcm","clk":"7844288459","pt":1540922873546,"mc":[{"id":"1.150485984","rc":[{"ltp":1.35,"id":9694523}]}]}
+{"op":"mcm","clk":"7844296941","pt":1540922945922,"mc":[{"id":"1.150485984","rc":[{"ltp":2.2,"id":9626957},{"ltp":1.82,"id":9694523}]}]}
+{"op":"mcm","clk":"7844301250","pt":1540922983948,"mc":[{"id":"1.150485984","rc":[{"ltp":1.77,"id":9694523}]}]}
+{"op":"mcm","clk":"7844316470","pt":1540923124328,"mc":[{"id":"1.150485984","rc":[{"ltp":1.9,"id":9626957},{"ltp":2.1,"id":9694523}]}]}
+{"op":"mcm","clk":"7844340093","pt":1540923237714,"mc":[{"id":"1.150485984","rc":[{"ltp":1.5,"id":9626957},{"ltp":3.0,"id":9694523}]}]}
+{"op":"mcm","clk":"7844345870","pt":1540923300480,"mc":[{"id":"1.150485984","rc":[{"ltp":1.51,"id":9626957},{"ltp":2.96,"id":9694523}]}]}
+{"op":"mcm","clk":"7844352312","pt":1540923365249,"mc":[{"id":"1.150485984","rc":[{"ltp":1.6,"id":9626957},{"ltp":2.52,"id":9694523}]}]}
+{"op":"mcm","clk":"7844358203","pt":1540923425894,"mc":[{"id":"1.150485984","rc":[{"ltp":1.46,"id":9626957}]}]}
+{"op":"mcm","clk":"7844364196","pt":1540923485364,"mc":[{"id":"1.150485984","rc":[{"ltp":1.45,"id":9626957}]}]}
+{"op":"mcm","clk":"7844375470","pt":1540923600918,"mc":[{"id":"1.150485984","rc":[{"ltp":1.31,"id":9626957},{"ltp":4.2,"id":9694523}]}]}
+{"op":"mcm","clk":"7844382246","pt":1540923663408,"mc":[{"id":"1.150485984","rc":[{"ltp":1.34,"id":9626957},{"ltp":3.2,"id":9694523}]}]}
+{"op":"mcm","clk":"7844401332","pt":1540923841230,"mc":[{"id":"1.150485984","rc":[{"ltp":1.68,"id":9626957}]}]}
+{"op":"mcm","clk":"7844408873","pt":1540923903856,"mc":[{"id":"1.150485984","rc":[{"ltp":1.63,"id":9626957},{"ltp":2.6,"id":9694523}]}]}
+{"op":"mcm","clk":"7844422226","pt":1540924017435,"mc":[{"id":"1.150485984","rc":[{"ltp":1.39,"id":9626957},{"ltp":3.55,"id":9694523}]}]}
+{"op":"mcm","clk":"7844450393","pt":1540924145577,"mc":[{"id":"1.150485984","rc":[{"ltp":1.65,"id":9626957},{"ltp":2.52,"id":9694523}]}]}
+{"op":"mcm","clk":"7844470511","pt":1540924326159,"mc":[{"id":"1.150485984","rc":[{"ltp":1.37,"id":9626957}]}]}
+{"op":"mcm","clk":"7844477345","pt":1540924384886,"mc":[{"id":"1.150485984","rc":[{"ltp":1.4,"id":9626957},{"ltp":3.5,"id":9694523}]}]}
+{"op":"mcm","clk":"7844484788","pt":1540924445113,"mc":[{"id":"1.150485984","rc":[{"ltp":1.57,"id":9626957},{"ltp":2.74,"id":9694523}]}]}
+{"op":"mcm","clk":"7844498546","pt":1540924564823,"mc":[{"id":"1.150485984","rc":[{"ltp":1.64,"id":9626957},{"ltp":2.48,"id":9694523}]}]}
+{"op":"mcm","clk":"7844506004","pt":1540924625852,"mc":[{"id":"1.150485984","rc":[{"ltp":1.9,"id":9626957},{"ltp":2.12,"id":9694523}]}]}
+{"op":"mcm","clk":"7844513339","pt":1540924686351,"mc":[{"id":"1.150485984","rc":[{"ltp":1.5,"id":9626957},{"ltp":3.0,"id":9694523}]}]}
+{"op":"mcm","clk":"7844520771","pt":1540924745976,"mc":[{"id":"1.150485984","rc":[{"ltp":1.39,"id":9626957}]}]}
+{"op":"mcm","clk":"7844528008","pt":1540924806062,"mc":[{"id":"1.150485984","rc":[{"ltp":1.43,"id":9626957}]}]}
+{"op":"mcm","clk":"7844535574","pt":1540924865488,"mc":[{"id":"1.150485984","rc":[{"ltp":1.2,"id":9626957},{"ltp":6.0,"id":9694523}]}]}
+{"op":"mcm","clk":"7844556590","pt":1540924926417,"mc":[{"id":"1.150485984","rc":[{"ltp":1.16,"id":9626957},{"ltp":7.2,"id":9694523}]}]}
+{"op":"mcm","clk":"7844564608","pt":1540924985398,"mc":[{"id":"1.150485984","rc":[{"ltp":1.22,"id":9626957},{"ltp":10.5,"id":9694523}]}]}
+{"op":"mcm","clk":"7844573056","pt":1540925045966,"mc":[{"id":"1.150485984","rc":[{"ltp":1.07,"id":9626957},{"ltp":3.4,"id":9694523}]}]}
+{"op":"mcm","clk":"7844581045","pt":1540925104516,"mc":[{"id":"1.150485984","rc":[{"ltp":1.12,"id":9626957}]}]}
+{"op":"mcm","clk":"7844596284","pt":1540925224839,"mc":[{"id":"1.150485984","rc":[{"ltp":1.19,"id":9626957},{"ltp":12.0,"id":9694523}]}]}
+{"op":"mcm","clk":"7844602759","pt":1540925283215,"mc":[{"id":"1.150485984","rc":[{"ltp":1.12,"id":9626957}]}]}
+{"op":"mcm","clk":"7844609131","pt":1540925346297,"mc":[{"id":"1.150485984","rc":[{"ltp":1.03,"id":9626957},{"ltp":4.2,"id":9694523}]}]}
+{"op":"mcm","clk":"7844615645","pt":1540925404466,"mc":[{"id":"1.150485984","rc":[{"ltp":1.05,"id":9626957}]}]}
+{"op":"mcm","clk":"7844621594","pt":1540925461553,"mc":[{"id":"1.150485984","rc":[{"ltp":1.01,"id":9626957}]}]}
+{"op":"mcm","clk":"7844626570","pt":1540925507685,"mc":[{"id":"1.150485984","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28984985","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-30T16:30:00.000Z","suspendTime":"2018-10-30T16:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-30T18:51:43.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":9694523,"name":"G Brodsky"},{"status":"WINNER","sortPriority":2,"id":9626957,"name":"B Haddad Maia"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-30T16:49:48.000Z","version":2486256044,"name":"Match Odds","eventName":"G Brodsky v B Haddad Maia"}}]}

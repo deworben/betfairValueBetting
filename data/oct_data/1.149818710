@@ -1,0 +1,74 @@
+{"op":"mcm","clk":"7739819698","pt":1539921866494,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T22:00:00.000Z","suspendTime":"2018-10-19T22:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T22:00:00.000Z","version":2461174579,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}
+{"op":"mcm","clk":"7740336040","pt":1539930588396,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T22:00:00.000Z","suspendTime":"2018-10-19T22:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T22:00:00.000Z","version":2461174579,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}
+{"op":"mcm","clk":"7748228242","pt":1539981079519,"mc":[{"id":"1.149818710","rc":[{"ltp":2.88,"id":21149530},{"ltp":1.54,"id":8241858}]}]}
+{"op":"mcm","clk":"7748498637","pt":1539984283190,"mc":[{"id":"1.149818710","rc":[{"ltp":1.38,"id":8241858}]}]}
+{"op":"mcm","clk":"7748505558","pt":1539984392596,"mc":[{"id":"1.149818710","rc":[{"ltp":3.5,"id":21149530},{"ltp":1.4,"id":8241858}]}]}
+{"op":"mcm","clk":"7748527648","pt":1539984460955,"mc":[{"id":"1.149818710","rc":[{"ltp":3.0,"id":21149530},{"ltp":1.5,"id":8241858}]}]}
+{"op":"mcm","clk":"7748538452","pt":1539984632438,"mc":[{"id":"1.149818710","rc":[{"ltp":3.5,"id":21149530},{"ltp":1.4,"id":8241858}]}]}
+{"op":"mcm","clk":"7748549924","pt":1539984821604,"mc":[{"id":"1.149818710","rc":[{"ltp":3.45,"id":21149530},{"ltp":1.49,"id":8241858}]}]}
+{"op":"mcm","clk":"7748555601","pt":1539984940161,"mc":[{"id":"1.149818710","rc":[{"ltp":1.48,"id":8241858}]}]}
+{"op":"mcm","clk":"7748561075","pt":1539985059212,"mc":[{"id":"1.149818710","rc":[{"ltp":3.4,"id":21149530},{"ltp":1.42,"id":8241858}]}]}
+{"op":"mcm","clk":"7748610943","pt":1539985724215,"mc":[{"id":"1.149818710","rc":[{"ltp":1.52,"id":8241858}]}]}
+{"op":"mcm","clk":"7748614397","pt":1539985777698,"mc":[{"id":"1.149818710","rc":[{"ltp":1.42,"id":8241858}]}]}
+{"op":"mcm","clk":"7748629434","pt":1539986022612,"mc":[{"id":"1.149818710","rc":[{"ltp":2.88,"id":21149530},{"ltp":1.54,"id":8241858}]}]}
+{"op":"mcm","clk":"7748664242","pt":1539986323837,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T22:15:00.000Z","suspendTime":"2018-10-19T22:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T22:15:00.000Z","version":2462749544,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}
+{"op":"mcm","clk":"7748665456","pt":1539986343672,"mc":[{"id":"1.149818710","rc":[{"ltp":1.4,"id":8241858}]}]}
+{"op":"mcm","clk":"7748737638","pt":1539987222701,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T23:30:00.000Z","suspendTime":"2018-10-19T23:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T23:30:00.000Z","version":2462758875,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}
+{"op":"mcm","clk":"7748754340","pt":1539987516494,"mc":[{"id":"1.149818710","rc":[{"ltp":1.39,"id":8241858}]}]}
+{"op":"mcm","clk":"7748757693","pt":1539987566244,"mc":[{"id":"1.149818710","rc":[{"ltp":1.37,"id":8241858}]}]}
+{"op":"mcm","clk":"7748771765","pt":1539987808673,"mc":[{"id":"1.149818710","rc":[{"ltp":3.55,"id":21149530},{"ltp":1.39,"id":8241858}]}]}
+{"op":"mcm","clk":"7748782123","pt":1539987991607,"mc":[{"id":"1.149818710","rc":[{"ltp":1.35,"id":8241858}]}]}
+{"op":"mcm","clk":"7748950732","pt":1539989922850,"mc":[{"id":"1.149818710","rc":[{"ltp":1.29,"id":8241858}]}]}
+{"op":"mcm","clk":"7748953998","pt":1539989978631,"mc":[{"id":"1.149818710","rc":[{"ltp":3.6,"id":21149530},{"ltp":1.4,"id":8241858}]}]}
+{"op":"mcm","clk":"7748959926","pt":1539990081801,"mc":[{"id":"1.149818710","rc":[{"ltp":1.38,"id":8241858}]}]}
+{"op":"mcm","clk":"7749012507","pt":1539990884771,"mc":[{"id":"1.149818710","rc":[{"ltp":3.65,"id":21149530},{"ltp":1.37,"id":8241858}]}]}
+{"op":"mcm","clk":"7749024991","pt":1539991123872,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T23:16:00.000Z","suspendTime":"2018-10-19T23:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T23:16:00.000Z","version":2462795131,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}
+{"op":"mcm","clk":"7749035533","pt":1539991276435,"mc":[{"id":"1.149818710","rc":[{"ltp":1.42,"id":8241858}]}]}
+{"op":"mcm","clk":"7749057677","pt":1539991603602,"mc":[{"id":"1.149818710","rc":[{"ltp":1.37,"id":8241858}]}]}
+{"op":"mcm","clk":"7749078497","pt":1539991657416,"mc":[{"id":"1.149818710","rc":[{"ltp":1.35,"id":8241858}]}]}
+{"op":"mcm","clk":"7749088782","pt":1539991839234,"mc":[{"id":"1.149818710","rc":[{"ltp":1.36,"id":8241858}]}]}
+{"op":"mcm","clk":"7749091692","pt":1539991899834,"mc":[{"id":"1.149818710","rc":[{"ltp":3.7,"id":21149530},{"ltp":1.37,"id":8241858}]}]}
+{"op":"mcm","clk":"7749099440","pt":1539992014875,"mc":[{"id":"1.149818710","rc":[{"ltp":1.36,"id":8241858}]}]}
+{"op":"mcm","clk":"7749105371","pt":1539992084940,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T23:16:00.000Z","suspendTime":"2018-10-19T23:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"ACTIVE","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T23:16:00.000Z","version":2462801128,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"},"rc":[{"ltp":3.6,"id":21149530},{"ltp":1.39,"id":8241858}]}]}
+{"op":"mcm","clk":"7749109118","pt":1539992144853,"mc":[{"id":"1.149818710","rc":[{"ltp":1.37,"id":8241858}]}]}
+{"op":"mcm","clk":"7749112279","pt":1539992205103,"mc":[{"id":"1.149818710","rc":[{"ltp":5.1,"id":21149530},{"ltp":1.24,"id":8241858}]}]}
+{"op":"mcm","clk":"7749117829","pt":1539992325055,"mc":[{"id":"1.149818710","rc":[{"ltp":1.21,"id":8241858}]}]}
+{"op":"mcm","clk":"7749120105","pt":1539992385436,"mc":[{"id":"1.149818710","rc":[{"ltp":1.28,"id":8241858}]}]}
+{"op":"mcm","clk":"7749122701","pt":1539992445380,"mc":[{"id":"1.149818710","rc":[{"ltp":5.0,"id":21149530},{"ltp":1.22,"id":8241858}]}]}
+{"op":"mcm","clk":"7749125217","pt":1539992503139,"mc":[{"id":"1.149818710","rc":[{"ltp":6.0,"id":21149530}]}]}
+{"op":"mcm","clk":"7749145893","pt":1539992564548,"mc":[{"id":"1.149818710","rc":[{"ltp":1.21,"id":8241858}]}]}
+{"op":"mcm","clk":"7749147863","pt":1539992615543,"mc":[{"id":"1.149818710","rc":[{"ltp":1.25,"id":8241858}]}]}
+{"op":"mcm","clk":"7749150924","pt":1539992685655,"mc":[{"id":"1.149818710","rc":[{"ltp":1.22,"id":8241858}]}]}
+{"op":"mcm","clk":"7749153257","pt":1539992741056,"mc":[{"id":"1.149818710","rc":[{"ltp":1.2,"id":8241858}]}]}
+{"op":"mcm","clk":"7749156322","pt":1539992804898,"mc":[{"id":"1.149818710","rc":[{"ltp":1.17,"id":8241858}]}]}
+{"op":"mcm","clk":"7749158763","pt":1539992865735,"mc":[{"id":"1.149818710","rc":[{"ltp":1.14,"id":8241858}]}]}
+{"op":"mcm","clk":"7749161033","pt":1539992918297,"mc":[{"id":"1.149818710","rc":[{"ltp":1.2,"id":8241858}]}]}
+{"op":"mcm","clk":"7749163723","pt":1539992984127,"mc":[{"id":"1.149818710","rc":[{"ltp":1.22,"id":8241858}]}]}
+{"op":"mcm","clk":"7749166219","pt":1539993042884,"mc":[{"id":"1.149818710","rc":[{"ltp":1.17,"id":8241858}]}]}
+{"op":"mcm","clk":"7749169136","pt":1539993105697,"mc":[{"id":"1.149818710","rc":[{"ltp":7.2,"id":21149530},{"ltp":1.16,"id":8241858}]}]}
+{"op":"mcm","clk":"7749171964","pt":1539993163851,"mc":[{"id":"1.149818710","rc":[{"ltp":1.14,"id":8241858}]}]}
+{"op":"mcm","clk":"7749174573","pt":1539993221262,"mc":[{"id":"1.149818710","rc":[{"ltp":7.6,"id":21149530},{"ltp":1.15,"id":8241858}]}]}
+{"op":"mcm","clk":"7749176919","pt":1539993266904,"mc":[{"id":"1.149818710","rc":[{"ltp":1.14,"id":8241858}]}]}
+{"op":"mcm","clk":"7749180776","pt":1539993345022,"mc":[{"id":"1.149818710","rc":[{"ltp":8.0,"id":21149530},{"ltp":1.13,"id":8241858}]}]}
+{"op":"mcm","clk":"7749183835","pt":1539993405649,"mc":[{"id":"1.149818710","rc":[{"ltp":1.12,"id":8241858}]}]}
+{"op":"mcm","clk":"7749204592","pt":1539993465709,"mc":[{"id":"1.149818710","rc":[{"ltp":1.09,"id":8241858}]}]}
+{"op":"mcm","clk":"7749207998","pt":1539993523211,"mc":[{"id":"1.149818710","rc":[{"ltp":1.11,"id":8241858}]}]}
+{"op":"mcm","clk":"7749210906","pt":1539993581332,"mc":[{"id":"1.149818710","rc":[{"ltp":11.0,"id":21149530},{"ltp":1.09,"id":8241858}]}]}
+{"op":"mcm","clk":"7749214236","pt":1539993644521,"mc":[{"id":"1.149818710","rc":[{"ltp":12.0,"id":21149530}]}]}
+{"op":"mcm","clk":"7749220820","pt":1539993765710,"mc":[{"id":"1.149818710","rc":[{"ltp":17.5,"id":21149530},{"ltp":1.06,"id":8241858}]}]}
+{"op":"mcm","clk":"7749228920","pt":1539993942739,"mc":[{"id":"1.149818710","rc":[{"ltp":13.5,"id":21149530},{"ltp":1.07,"id":8241858}]}]}
+{"op":"mcm","clk":"7749231555","pt":1539994003176,"mc":[{"id":"1.149818710","rc":[{"ltp":12.0,"id":21149530},{"ltp":1.09,"id":8241858}]}]}
+{"op":"mcm","clk":"7749234807","pt":1539994060752,"mc":[{"id":"1.149818710","rc":[{"ltp":1.08,"id":8241858}]}]}
+{"op":"mcm","clk":"7749237145","pt":1539994119638,"mc":[{"id":"1.149818710","rc":[{"ltp":17.5,"id":21149530}]}]}
+{"op":"mcm","clk":"7749239504","pt":1539994183736,"mc":[{"id":"1.149818710","rc":[{"ltp":1.06,"id":8241858}]}]}
+{"op":"mcm","clk":"7749241876","pt":1539994241026,"mc":[{"id":"1.149818710","rc":[{"ltp":13.5,"id":21149530},{"ltp":1.09,"id":8241858}]}]}
+{"op":"mcm","clk":"7749244221","pt":1539994304901,"mc":[{"id":"1.149818710","rc":[{"ltp":10.0,"id":21149530},{"ltp":1.11,"id":8241858}]}]}
+{"op":"mcm","clk":"7749264828","pt":1539994359620,"mc":[{"id":"1.149818710","rc":[{"ltp":1.08,"id":8241858}]}]}
+{"op":"mcm","clk":"7749267591","pt":1539994423077,"mc":[{"id":"1.149818710","rc":[{"ltp":13.5,"id":21149530},{"ltp":1.09,"id":8241858}]}]}
+{"op":"mcm","clk":"7749273689","pt":1539994539058,"mc":[{"id":"1.149818710","rc":[{"ltp":1.07,"id":8241858}]}]}
+{"op":"mcm","clk":"7749277745","pt":1539994600298,"mc":[{"id":"1.149818710","rc":[{"ltp":1.03,"id":8241858}]}]}
+{"op":"mcm","clk":"7749281397","pt":1539994662410,"mc":[{"id":"1.149818710","rc":[{"ltp":34.0,"id":21149530},{"ltp":1.01,"id":8241858}]}]}
+{"op":"mcm","clk":"7749285117","pt":1539994722843,"mc":[{"id":"1.149818710","rc":[{"ltp":50.0,"id":21149530},{"ltp":1.02,"id":8241858}]}]}
+{"op":"mcm","clk":"7749288411","pt":1539994779595,"mc":[{"id":"1.149818710","rc":[{"ltp":1.01,"id":8241858}]}]}
+{"op":"mcm","clk":"7749292105","pt":1539994845272,"mc":[{"id":"1.149818710","rc":[{"ltp":140.0,"id":21149530}]}]}
+{"op":"mcm","clk":"7749302047","pt":1539995019943,"mc":[{"id":"1.149818710","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28963952","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T23:16:00.000Z","suspendTime":"2018-10-19T23:16:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-20T00:23:35.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8241858,"name":"Reid/Smith"},{"status":"LOSER","sortPriority":2,"id":21149530,"name":"Martinez/Quiroz"}],"regulators":["MR_INT"],"countryCode":"CA","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-19T23:16:00.000Z","version":2462857259,"name":"Match Odds","eventName":"Reid/Smith v Martinez/Quiroz"}}]}

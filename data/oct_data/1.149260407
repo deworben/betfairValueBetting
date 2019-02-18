@@ -1,0 +1,191 @@
+{"op":"mcm","clk":"7660243504","pt":1539000923727,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:00:00.000Z","suspendTime":"2018-10-09T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:00:00.000Z","version":2446212691,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7660583148","pt":1539004655736,"mc":[{"id":"1.149260407","rc":[{"ltp":3.5,"id":4943481}]}]}
+{"op":"mcm","clk":"7660597607","pt":1539004829750,"mc":[{"id":"1.149260407","rc":[{"ltp":1.4,"id":7446579}]}]}
+{"op":"mcm","clk":"7660688753","pt":1539005846189,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7660759387","pt":1539006507696,"mc":[{"id":"1.149260407","rc":[{"ltp":3.2,"id":4943481},{"ltp":1.46,"id":7446579}]}]}
+{"op":"mcm","clk":"7660775699","pt":1539006693292,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481}]}]}
+{"op":"mcm","clk":"7660826586","pt":1539007225445,"mc":[{"id":"1.149260407","rc":[{"ltp":3.5,"id":4943481}]}]}
+{"op":"mcm","clk":"7660855095","pt":1539007524154,"mc":[{"id":"1.149260407","rc":[{"ltp":3.55,"id":4943481},{"ltp":1.39,"id":7446579}]}]}
+{"op":"mcm","clk":"7660980693","pt":1539008732621,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481},{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7661036977","pt":1539009273041,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:00:00.000Z","suspendTime":"2018-10-09T11:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:00:00.000Z","version":2446386488,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7661236196","pt":1539011367708,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481}]}]}
+{"op":"mcm","clk":"7661590555","pt":1539016110416,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7661785597","pt":1539018750892,"mc":[{"id":"1.149260407","rc":[{"ltp":3.6,"id":4943481},{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7661798109","pt":1539018930223,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7662048612","pt":1539021940789,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481}]}]}
+{"op":"mcm","clk":"7662142444","pt":1539023130809,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7662662942","pt":1539029121337,"mc":[{"id":"1.149260407","rc":[{"ltp":3.6,"id":4943481}]}]}
+{"op":"mcm","clk":"7662668086","pt":1539029182500,"mc":[{"id":"1.149260407","rc":[{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7662693306","pt":1539029500954,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7662834890","pt":1539031325860,"mc":[{"id":"1.149260407","rc":[{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7662868505","pt":1539031984777,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481}]}]}
+{"op":"mcm","clk":"7663486463","pt":1539042171768,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7663828318","pt":1539047306213,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7663832324","pt":1539047388087,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481}]}]}
+{"op":"mcm","clk":"7664171745","pt":1539053535747,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481}]}]}
+{"op":"mcm","clk":"7664495503","pt":1539060565186,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:47:00.000Z","suspendTime":"2018-10-09T10:47:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:47:00.000Z","version":2447051161,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7664664896","pt":1539064226890,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7664763047","pt":1539066272544,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:27:00.000Z","suspendTime":"2018-10-09T10:27:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:27:00.000Z","version":2447087087,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7664784672","pt":1539066623372,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7664796256","pt":1539066917978,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7664834702","pt":1539067647391,"mc":[{"id":"1.149260407","rc":[{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7664840382","pt":1539067769379,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665049586","pt":1539070942421,"mc":[{"id":"1.149260407","rc":[{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7665053709","pt":1539071012895,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665121033","pt":1539071974593,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665268613","pt":1539073762426,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:42:00.000Z","suspendTime":"2018-10-09T10:42:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:42:00.000Z","version":2447142195,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7665281322","pt":1539073938133,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665317566","pt":1539074448802,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665339680","pt":1539074663036,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T10:57:00.000Z","suspendTime":"2018-10-09T10:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T10:57:00.000Z","version":2447148231,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7665341790","pt":1539074690920,"mc":[{"id":"1.149260407","rc":[{"ltp":3.8,"id":4943481}]}]}
+{"op":"mcm","clk":"7665349203","pt":1539074793365,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481}]}]}
+{"op":"mcm","clk":"7665366933","pt":1539075079384,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7665374179","pt":1539075191720,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665399294","pt":1539075441676,"mc":[{"id":"1.149260407","rc":[{"ltp":3.8,"id":4943481}]}]}
+{"op":"mcm","clk":"7665409296","pt":1539075568842,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:12:00.000Z","suspendTime":"2018-10-09T11:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:12:00.000Z","version":2447157229,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7665488085","pt":1539076463795,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:09:00.000Z","suspendTime":"2018-10-09T11:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:09:00.000Z","version":2447170938,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7665549104","pt":1539077188069,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7665604239","pt":1539077763035,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7665620659","pt":1539077972346,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665663345","pt":1539078445044,"mc":[{"id":"1.149260407","rc":[{"ltp":3.8,"id":4943481}]}]}
+{"op":"mcm","clk":"7665676244","pt":1539078632116,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7665698526","pt":1539078938170,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7665728458","pt":1539079274135,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481}]}]}
+{"op":"mcm","clk":"7665733494","pt":1539079353597,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665744903","pt":1539079520876,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7665747686","pt":1539079567322,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7665771146","pt":1539079888334,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665787095","pt":1539080001464,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481}]}]}
+{"op":"mcm","clk":"7665798727","pt":1539080132697,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7665851791","pt":1539080772656,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665864275","pt":1539080843737,"mc":[{"id":"1.149260407","rc":[{"ltp":3.8,"id":4943481}]}]}
+{"op":"mcm","clk":"7665869292","pt":1539080913610,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481},{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665877052","pt":1539081021164,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481},{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7665881737","pt":1539081091544,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7665921783","pt":1539081626336,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481},{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665944384","pt":1539081809226,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7665948461","pt":1539081861020,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7665963331","pt":1539082052976,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481}]}]}
+{"op":"mcm","clk":"7665992057","pt":1539082447029,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666020304","pt":1539082713471,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7666029852","pt":1539082831985,"mc":[{"id":"1.149260407","rc":[{"ltp":3.6,"id":4943481},{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7666045312","pt":1539083013376,"mc":[{"id":"1.149260407","rc":[{"ltp":3.55,"id":4943481},{"ltp":1.39,"id":7446579}]}]}
+{"op":"mcm","clk":"7666050413","pt":1539083069058,"mc":[{"id":"1.149260407","rc":[{"ltp":3.6,"id":4943481}]}]}
+{"op":"mcm","clk":"7666055054","pt":1539083126280,"mc":[{"id":"1.149260407","rc":[{"ltp":3.5,"id":4943481},{"ltp":1.4,"id":7446579}]}]}
+{"op":"mcm","clk":"7666060427","pt":1539083193473,"mc":[{"id":"1.149260407","rc":[{"ltp":1.39,"id":7446579}]}]}
+{"op":"mcm","clk":"7666065018","pt":1539083251133,"mc":[{"id":"1.149260407","rc":[{"ltp":3.55,"id":4943481}]}]}
+{"op":"mcm","clk":"7666075027","pt":1539083372563,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:24:00.000Z","suspendTime":"2018-10-09T11:24:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:24:00.000Z","version":2447250858,"name":"Match Odds","eventName":"Klahn v Coric"},"rc":[{"ltp":3.5,"id":4943481},{"ltp":1.38,"id":7446579}]}]}
+{"op":"mcm","clk":"7666080274","pt":1539083432734,"mc":[{"id":"1.149260407","rc":[{"ltp":3.6,"id":4943481}]}]}
+{"op":"mcm","clk":"7666085326","pt":1539083492393,"mc":[{"id":"1.149260407","rc":[{"ltp":3.65,"id":4943481}]}]}
+{"op":"mcm","clk":"7666098228","pt":1539083553229,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666103201","pt":1539083613288,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481},{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666108285","pt":1539083672477,"mc":[{"id":"1.149260407","rc":[{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7666118312","pt":1539083791184,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666123356","pt":1539083851869,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666137818","pt":1539084025657,"mc":[{"id":"1.149260407","rc":[{"ltp":3.9,"id":4943481},{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666143467","pt":1539084093409,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666147574","pt":1539084148083,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666158178","pt":1539084270632,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:39:00.000Z","suspendTime":"2018-10-09T11:39:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:39:00.000Z","version":2447259588,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7666163772","pt":1539084331886,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666168409","pt":1539084391262,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666180443","pt":1539084447303,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666189626","pt":1539084572064,"mc":[{"id":"1.149260407","rc":[{"ltp":3.9,"id":4943481},{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666196741","pt":1539084669991,"mc":[{"id":"1.149260407","rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666229223","pt":1539085103652,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666234609","pt":1539085171032,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T11:54:00.000Z","suspendTime":"2018-10-09T11:54:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T11:54:00.000Z","version":2447268131,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7666239213","pt":1539085227266,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666274809","pt":1539085533563,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666278579","pt":1539085576824,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666297223","pt":1539085814298,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666301199","pt":1539085866720,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666316782","pt":1539086073343,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:09:00.000Z","suspendTime":"2018-10-09T12:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:09:00.000Z","version":2447277190,"name":"Match Odds","eventName":"Klahn v Coric"},"rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666318938","pt":1539086103403,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666326106","pt":1539086191602,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666338862","pt":1539086253439,"mc":[{"id":"1.149260407","rc":[{"ltp":1.33,"id":7446579}]}]}
+{"op":"mcm","clk":"7666346041","pt":1539086361488,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666350746","pt":1539086433257,"mc":[{"id":"1.149260407","rc":[{"ltp":3.95,"id":4943481},{"ltp":1.33,"id":7446579}]}]}
+{"op":"mcm","clk":"7666354874","pt":1539086493524,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666359177","pt":1539086553491,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666362561","pt":1539086600341,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666367704","pt":1539086672135,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666371536","pt":1539086726769,"mc":[{"id":"1.149260407","rc":[{"ltp":3.95,"id":4943481},{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666378654","pt":1539086830186,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666388788","pt":1539086971235,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:24:00.000Z","suspendTime":"2018-10-09T12:24:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:24:00.000Z","version":2447286495,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7666410157","pt":1539087153043,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666414356","pt":1539087212426,"mc":[{"id":"1.149260407","rc":[{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666419282","pt":1539087273544,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:30:00.000Z","suspendTime":"2018-10-09T12:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:30:00.000Z","version":2447289432,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7666428989","pt":1539087392875,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666433398","pt":1539087452579,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666437662","pt":1539087510852,"mc":[{"id":"1.149260407","rc":[{"ltp":3.9,"id":4943481},{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666442001","pt":1539087573403,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666445991","pt":1539087633007,"mc":[{"id":"1.149260407","rc":[{"ltp":3.9,"id":4943481}]}]}
+{"op":"mcm","clk":"7666449889","pt":1539087691531,"mc":[{"id":"1.149260407","rc":[{"ltp":3.85,"id":4943481}]}]}
+{"op":"mcm","clk":"7666458403","pt":1539087812271,"mc":[{"id":"1.149260407","rc":[{"ltp":1.34,"id":7446579}]}]}
+{"op":"mcm","clk":"7666463162","pt":1539087872744,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:21:00.000Z","suspendTime":"2018-10-09T12:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:21:00.000Z","version":2447295314,"name":"Match Odds","eventName":"Klahn v Coric"},"rc":[{"ltp":3.8,"id":4943481},{"ltp":1.35,"id":7446579}]}]}
+{"op":"mcm","clk":"7666467381","pt":1539087933007,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481},{"ltp":1.37,"id":7446579}]}]}
+{"op":"mcm","clk":"7666471542","pt":1539087991659,"mc":[{"id":"1.149260407","rc":[{"ltp":3.7,"id":4943481}]}]}
+{"op":"mcm","clk":"7666483713","pt":1539088047024,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481}]}]}
+{"op":"mcm","clk":"7666488363","pt":1539088112576,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:21:00.000Z","suspendTime":"2018-10-09T12:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:21:00.000Z","version":2447296988,"name":"Match Odds","eventName":"Klahn v Coric"},"rc":[{"ltp":1.36,"id":7446579}]}]}
+{"op":"mcm","clk":"7666492774","pt":1539088173506,"mc":[{"id":"1.149260407","rc":[{"ltp":3.5,"id":4943481},{"ltp":1.4,"id":7446579}]}]}
+{"op":"mcm","clk":"7666496891","pt":1539088232815,"mc":[{"id":"1.149260407","rc":[{"ltp":3.9,"id":4943481},{"ltp":1.33,"id":7446579}]}]}
+{"op":"mcm","clk":"7666501431","pt":1539088293459,"mc":[{"id":"1.149260407","rc":[{"ltp":3.75,"id":4943481},{"ltp":1.32,"id":7446579}]}]}
+{"op":"mcm","clk":"7666505279","pt":1539088353237,"mc":[{"id":"1.149260407","rc":[{"ltp":5.0,"id":4943481},{"ltp":1.31,"id":7446579}]}]}
+{"op":"mcm","clk":"7666509163","pt":1539088413367,"mc":[{"id":"1.149260407","rc":[{"ltp":4.3,"id":4943481},{"ltp":1.3,"id":7446579}]}]}
+{"op":"mcm","clk":"7666513441","pt":1539088473294,"mc":[{"id":"1.149260407","rc":[{"ltp":1.26,"id":7446579}]}]}
+{"op":"mcm","clk":"7666517690","pt":1539088532332,"mc":[{"id":"1.149260407","rc":[{"ltp":1.18,"id":7446579}]}]}
+{"op":"mcm","clk":"7666521919","pt":1539088593530,"mc":[{"id":"1.149260407","rc":[{"ltp":5.5,"id":4943481},{"ltp":1.2,"id":7446579}]}]}
+{"op":"mcm","clk":"7666526171","pt":1539088653476,"mc":[{"id":"1.149260407","rc":[{"ltp":6.2,"id":4943481},{"ltp":1.19,"id":7446579}]}]}
+{"op":"mcm","clk":"7666530142","pt":1539088712540,"mc":[{"id":"1.149260407","rc":[{"ltp":5.6,"id":4943481},{"ltp":1.22,"id":7446579}]}]}
+{"op":"mcm","clk":"7666534145","pt":1539088773391,"mc":[{"id":"1.149260407","rc":[{"ltp":6.4,"id":4943481},{"ltp":1.18,"id":7446579}]}]}
+{"op":"mcm","clk":"7666538138","pt":1539088833420,"mc":[{"id":"1.149260407","rc":[{"ltp":7.4,"id":4943481},{"ltp":1.17,"id":7446579}]}]}
+{"op":"mcm","clk":"7666542527","pt":1539088893538,"mc":[{"id":"1.149260407","rc":[{"ltp":6.2,"id":4943481},{"ltp":1.18,"id":7446579}]}]}
+{"op":"mcm","clk":"7666554921","pt":1539088953506,"mc":[{"id":"1.149260407","rc":[{"ltp":6.0,"id":4943481},{"ltp":1.2,"id":7446579}]}]}
+{"op":"mcm","clk":"7666559699","pt":1539089013165,"mc":[{"id":"1.149260407","rc":[{"ltp":5.7,"id":4943481},{"ltp":1.21,"id":7446579}]}]}
+{"op":"mcm","clk":"7666564317","pt":1539089073545,"mc":[{"id":"1.149260407","rc":[{"ltp":6.2,"id":4943481},{"ltp":1.19,"id":7446579}]}]}
+{"op":"mcm","clk":"7666568053","pt":1539089133187,"mc":[{"id":"1.149260407","rc":[{"ltp":1.18,"id":7446579}]}]}
+{"op":"mcm","clk":"7666572020","pt":1539089193152,"mc":[{"id":"1.149260407","rc":[{"ltp":6.8,"id":4943481},{"ltp":1.16,"id":7446579}]}]}
+{"op":"mcm","clk":"7666575996","pt":1539089253305,"mc":[{"id":"1.149260407","rc":[{"ltp":6.4,"id":4943481},{"ltp":1.18,"id":7446579}]}]}
+{"op":"mcm","clk":"7666583986","pt":1539089373328,"mc":[{"id":"1.149260407","rc":[{"ltp":1.19,"id":7446579}]}]}
+{"op":"mcm","clk":"7666587532","pt":1539089432767,"mc":[{"id":"1.149260407","rc":[{"ltp":6.2,"id":4943481}]}]}
+{"op":"mcm","clk":"7666591410","pt":1539089493556,"mc":[{"id":"1.149260407","rc":[{"ltp":6.8,"id":4943481},{"ltp":1.17,"id":7446579}]}]}
+{"op":"mcm","clk":"7666595260","pt":1539089553497,"mc":[{"id":"1.149260407","rc":[{"ltp":7.4,"id":4943481},{"ltp":1.16,"id":7446579}]}]}
+{"op":"mcm","clk":"7666599034","pt":1539089613199,"mc":[{"id":"1.149260407","rc":[{"ltp":7.2,"id":4943481},{"ltp":1.17,"id":7446579}]}]}
+{"op":"mcm","clk":"7666610269","pt":1539089793158,"mc":[{"id":"1.149260407","rc":[{"ltp":7.4,"id":4943481},{"ltp":1.15,"id":7446579}]}]}
+{"op":"mcm","clk":"7666622097","pt":1539089853442,"mc":[{"id":"1.149260407","rc":[{"ltp":8.0,"id":4943481},{"ltp":1.14,"id":7446579}]}]}
+{"op":"mcm","clk":"7666626271","pt":1539089913407,"mc":[{"id":"1.149260407","rc":[{"ltp":8.2,"id":4943481}]}]}
+{"op":"mcm","clk":"7666630456","pt":1539089973001,"mc":[{"id":"1.149260407","rc":[{"ltp":8.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666638979","pt":1539090093600,"mc":[{"id":"1.149260407","rc":[{"ltp":8.6,"id":4943481}]}]}
+{"op":"mcm","clk":"7666643361","pt":1539090153504,"mc":[{"id":"1.149260407","rc":[{"ltp":8.2,"id":4943481},{"ltp":1.13,"id":7446579}]}]}
+{"op":"mcm","clk":"7666647530","pt":1539090209244,"mc":[{"id":"1.149260407","rc":[{"ltp":8.6,"id":4943481},{"ltp":1.14,"id":7446579}]}]}
+{"op":"mcm","clk":"7666657688","pt":1539090332985,"mc":[{"id":"1.149260407","rc":[{"ltp":8.8,"id":4943481},{"ltp":1.12,"id":7446579}]}]}
+{"op":"mcm","clk":"7666662619","pt":1539090393134,"mc":[{"id":"1.149260407","rc":[{"ltp":1.13,"id":7446579}]}]}
+{"op":"mcm","clk":"7666667723","pt":1539090453600,"mc":[{"id":"1.149260407","rc":[{"ltp":8.0,"id":4943481},{"ltp":1.16,"id":7446579}]}]}
+{"op":"mcm","clk":"7666673437","pt":1539090513574,"mc":[{"id":"1.149260407","rc":[{"ltp":9.2,"id":4943481},{"ltp":1.12,"id":7446579}]}]}
+{"op":"mcm","clk":"7666702189","pt":1539090752289,"mc":[{"id":"1.149260407","rc":[{"ltp":1.11,"id":7446579}]}]}
+{"op":"mcm","clk":"7666707263","pt":1539090812768,"mc":[{"id":"1.149260407","rc":[{"ltp":11.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666712198","pt":1539090873125,"mc":[{"id":"1.149260407","rc":[{"ltp":8.0,"id":4943481},{"ltp":1.13,"id":7446579}]}]}
+{"op":"mcm","clk":"7666717263","pt":1539090933591,"mc":[{"id":"1.149260407","rc":[{"ltp":8.6,"id":4943481}]}]}
+{"op":"mcm","clk":"7666722332","pt":1539090993224,"mc":[{"id":"1.149260407","rc":[{"ltp":10.0,"id":4943481},{"ltp":1.12,"id":7446579}]}]}
+{"op":"mcm","clk":"7666727732","pt":1539091053205,"mc":[{"id":"1.149260407","rc":[{"ltp":11.0,"id":4943481},{"ltp":1.1,"id":7446579}]}]}
+{"op":"mcm","clk":"7666733205","pt":1539091113391,"mc":[{"id":"1.149260407","rc":[{"ltp":8.6,"id":4943481},{"ltp":1.11,"id":7446579}]}]}
+{"op":"mcm","clk":"7666739393","pt":1539091172833,"mc":[{"id":"1.149260407","rc":[{"ltp":10.5,"id":4943481},{"ltp":1.08,"id":7446579}]}]}
+{"op":"mcm","clk":"7666745427","pt":1539091233499,"mc":[{"id":"1.149260407","rc":[{"ltp":34.0,"id":4943481},{"ltp":1.04,"id":7446579}]}]}
+{"op":"mcm","clk":"7666751458","pt":1539091293156,"mc":[{"id":"1.149260407","rc":[{"ltp":36.0,"id":4943481},{"ltp":1.03,"id":7446579}]}]}
+{"op":"mcm","clk":"7666757361","pt":1539091353418,"mc":[{"id":"1.149260407","rc":[{"ltp":40.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666762989","pt":1539091412854,"mc":[{"id":"1.149260407","rc":[{"ltp":44.0,"id":4943481},{"ltp":1.02,"id":7446579}]}]}
+{"op":"mcm","clk":"7666768715","pt":1539091471934,"mc":[{"id":"1.149260407","rc":[{"ltp":50.0,"id":4943481},{"ltp":1.03,"id":7446579}]}]}
+{"op":"mcm","clk":"7666774471","pt":1539091532602,"mc":[{"id":"1.149260407","rc":[{"ltp":48.0,"id":4943481},{"ltp":1.02,"id":7446579}]}]}
+{"op":"mcm","clk":"7666780140","pt":1539091592769,"mc":[{"id":"1.149260407","rc":[{"ltp":50.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666793914","pt":1539091653045,"mc":[{"id":"1.149260407","rc":[{"ltp":110.0,"id":4943481},{"ltp":1.01,"id":7446579}]}]}
+{"op":"mcm","clk":"7666799522","pt":1539091712800,"mc":[{"id":"1.149260407","rc":[{"ltp":170.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666805258","pt":1539091773452,"mc":[{"id":"1.149260407","rc":[{"ltp":350.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666810226","pt":1539091825401,"mc":[{"id":"1.149260407","rc":[{"ltp":140.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666815707","pt":1539091886175,"mc":[{"id":"1.149260407","rc":[{"ltp":190.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666826892","pt":1539092010581,"mc":[{"id":"1.149260407","rc":[{"ltp":450.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666832340","pt":1539092071807,"mc":[{"id":"1.149260407","rc":[{"ltp":490.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666843841","pt":1539092193507,"mc":[{"id":"1.149260407","rc":[{"ltp":280.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666854684","pt":1539092310445,"mc":[{"id":"1.149260407","rc":[{"ltp":200.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666860575","pt":1539092373596,"mc":[{"id":"1.149260407","rc":[{"ltp":510.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666866035","pt":1539092430673,"mc":[{"id":"1.149260407","rc":[{"ltp":500.0,"id":4943481}]}]}
+{"op":"mcm","clk":"7666870966","pt":1539092481970,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:21:00.000Z","suspendTime":"2018-10-09T12:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"ACTIVE","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:21:00.000Z","version":2447349402,"name":"Match Odds","eventName":"Klahn v Coric"}}]}
+{"op":"mcm","clk":"7666883139","pt":1539092530052,"mc":[{"id":"1.149260407","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28946282","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-09T12:21:00.000Z","suspendTime":"2018-10-09T12:21:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-09T13:41:55.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":4943481,"name":"Bradley Klahn"},{"status":"WINNER","sortPriority":2,"id":7446579,"name":"Borna Coric"}],"regulators":["MR_INT"],"countryCode":"CN","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-09T12:21:00.000Z","version":2447350130,"name":"Match Odds","eventName":"Klahn v Coric"}}]}

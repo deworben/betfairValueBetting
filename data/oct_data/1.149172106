@@ -1,0 +1,60 @@
+{"op":"mcm","clk":"7634677990","pt":1538803246327,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:00:00.000Z","suspendTime":"2018-10-06T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:00:00.000Z","version":2439383914,"name":"Match Odds","eventName":"Fanselow v A Harris"}}]}
+{"op":"mcm","clk":"7634753667","pt":1538803966072,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T17:00:00.000Z","suspendTime":"2018-10-06T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T17:00:00.000Z","version":2439383914,"name":"Match Odds","eventName":"Fanselow v A Harris"}}]}
+{"op":"mcm","clk":"7636349823","pt":1538816914936,"mc":[{"id":"1.149172106","rc":[{"ltp":2.74,"id":9623671},{"ltp":1.58,"id":8172415}]}]}
+{"op":"mcm","clk":"7636605798","pt":1538818603575,"mc":[{"id":"1.149172106","rc":[{"ltp":4.4,"id":9623671}]}]}
+{"op":"mcm","clk":"7637100571","pt":1538821479185,"mc":[{"id":"1.149172106","rc":[{"ltp":2.44,"id":9623671},{"ltp":1.7,"id":8172415}]}]}
+{"op":"mcm","clk":"7637147850","pt":1538821655939,"mc":[{"id":"1.149172106","rc":[{"ltp":2.1,"id":9623671},{"ltp":1.9,"id":8172415}]}]}
+{"op":"mcm","clk":"7637202828","pt":1538821974218,"mc":[{"id":"1.149172106","rc":[{"ltp":2.0,"id":9623671}]}]}
+{"op":"mcm","clk":"7637512475","pt":1538823646406,"mc":[{"id":"1.149172106","rc":[{"ltp":1.99,"id":9623671}]}]}
+{"op":"mcm","clk":"7637758148","pt":1538824833028,"mc":[{"id":"1.149172106","rc":[{"ltp":2.0,"id":9623671},{"ltp":2.0,"id":8172415}]}]}
+{"op":"mcm","clk":"7642110333","pt":1538843493406,"mc":[{"id":"1.149172106","rc":[{"ltp":2.04,"id":9623671}]}]}
+{"op":"mcm","clk":"7642392267","pt":1538844994945,"mc":[{"id":"1.149172106","rc":[{"ltp":2.0,"id":9623671},{"ltp":1.83,"id":8172415}]}]}
+{"op":"mcm","clk":"7642433513","pt":1538845187169,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:57:00.000Z","suspendTime":"2018-10-06T16:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:57:00.000Z","version":2441558638,"name":"Match Odds","eventName":"Fanselow v A Harris"},"rc":[{"ltp":2.12,"id":9623671},{"ltp":1.89,"id":8172415}]}]}
+{"op":"mcm","clk":"7642576368","pt":1538845937029,"mc":[{"id":"1.149172106","rc":[{"ltp":2.04,"id":9623671}]}]}
+{"op":"mcm","clk":"7642586373","pt":1538845989286,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:57:00.000Z","suspendTime":"2018-10-06T16:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:57:00.000Z","version":2441612937,"name":"Match Odds","eventName":"Fanselow v A Harris"}}]}
+{"op":"mcm","clk":"7642601698","pt":1538846070889,"mc":[{"id":"1.149172106","rc":[{"ltp":2.02,"id":8172415}]}]}
+{"op":"mcm","clk":"7642645885","pt":1538846326601,"mc":[{"id":"1.149172106","rc":[{"ltp":1.8,"id":9623671},{"ltp":2.24,"id":8172415}]}]}
+{"op":"mcm","clk":"7642703801","pt":1538846625681,"mc":[{"id":"1.149172106","rc":[{"ltp":2.12,"id":8172415}]}]}
+{"op":"mcm","clk":"7642737616","pt":1538846806857,"mc":[{"id":"1.149172106","rc":[{"ltp":2.24,"id":9623671},{"ltp":1.76,"id":8172415}]}]}
+{"op":"mcm","clk":"7642761142","pt":1538846859460,"mc":[{"id":"1.149172106","rc":[{"ltp":1.89,"id":8172415}]}]}
+{"op":"mcm","clk":"7642827794","pt":1538847225929,"mc":[{"id":"1.149172106","rc":[{"ltp":1.5,"id":9623671}]}]}
+{"op":"mcm","clk":"7642903179","pt":1538847631243,"mc":[{"id":"1.149172106","rc":[{"ltp":2.2,"id":9623671},{"ltp":1.84,"id":8172415}]}]}
+{"op":"mcm","clk":"7642914128","pt":1538847696915,"mc":[{"id":"1.149172106","rc":[{"ltp":2.12,"id":9623671},{"ltp":1.89,"id":8172415}]}]}
+{"op":"mcm","clk":"7642939205","pt":1538847763348,"mc":[{"id":"1.149172106","rc":[{"ltp":1.84,"id":8172415}]}]}
+{"op":"mcm","clk":"7642957399","pt":1538847867486,"mc":[{"id":"1.149172106","rc":[{"ltp":2.48,"id":9623671},{"ltp":1.6,"id":8172415}]}]}
+{"op":"mcm","clk":"7642970131","pt":1538847937556,"mc":[{"id":"1.149172106","rc":[{"ltp":3.6,"id":9623671},{"ltp":1.39,"id":8172415}]}]}
+{"op":"mcm","clk":"7643003626","pt":1538848122455,"mc":[{"id":"1.149172106","rc":[{"ltp":2.84,"id":9623671}]}]}
+{"op":"mcm","clk":"7643015353","pt":1538848186612,"mc":[{"id":"1.149172106","rc":[{"ltp":3.9,"id":9623671},{"ltp":1.3,"id":8172415}]}]}
+{"op":"mcm","clk":"7643024983","pt":1538848246341,"mc":[{"id":"1.149172106","rc":[{"ltp":3.75,"id":9623671},{"ltp":1.37,"id":8172415}]}]}
+{"op":"mcm","clk":"7643033284","pt":1538848304031,"mc":[{"id":"1.149172106","rc":[{"ltp":4.0,"id":9623671},{"ltp":1.34,"id":8172415}]}]}
+{"op":"mcm","clk":"7643043855","pt":1538848363836,"mc":[{"id":"1.149172106","rc":[{"ltp":4.2,"id":9623671}]}]}
+{"op":"mcm","clk":"7643124314","pt":1538848779673,"mc":[{"id":"1.149172106","rc":[{"ltp":2.3,"id":9623671}]}]}
+{"op":"mcm","clk":"7643133717","pt":1538848837069,"mc":[{"id":"1.149172106","rc":[{"ltp":1.74,"id":8172415}]}]}
+{"op":"mcm","clk":"7643142396","pt":1538848896130,"mc":[{"id":"1.149172106","rc":[{"ltp":2.1,"id":9623671},{"ltp":1.91,"id":8172415}]}]}
+{"op":"mcm","clk":"7643231766","pt":1538849384600,"mc":[{"id":"1.149172106","rc":[{"ltp":2.06,"id":9623671}]}]}
+{"op":"mcm","clk":"7643243418","pt":1538849442158,"mc":[{"id":"1.149172106","rc":[{"ltp":1.8,"id":9623671}]}]}
+{"op":"mcm","clk":"7643253284","pt":1538849490829,"mc":[{"id":"1.149172106","rc":[{"ltp":2.24,"id":8172415}]}]}
+{"op":"mcm","clk":"7643281272","pt":1538849566629,"mc":[{"id":"1.149172106","rc":[{"ltp":1.67,"id":9623671}]}]}
+{"op":"mcm","clk":"7643304724","pt":1538849686667,"mc":[{"id":"1.149172106","rc":[{"ltp":1.62,"id":9623671}]}]}
+{"op":"mcm","clk":"7643317086","pt":1538849747190,"mc":[{"id":"1.149172106","rc":[{"ltp":1.68,"id":9623671},{"ltp":2.46,"id":8172415}]}]}
+{"op":"mcm","clk":"7643327327","pt":1538849798023,"mc":[{"id":"1.149172106","rc":[{"ltp":1.72,"id":9623671},{"ltp":2.4,"id":8172415}]}]}
+{"op":"mcm","clk":"7643338677","pt":1538849856801,"mc":[{"id":"1.149172106","rc":[{"ltp":1.78,"id":9623671}]}]}
+{"op":"mcm","clk":"7643372400","pt":1538850045344,"mc":[{"id":"1.149172106","rc":[{"ltp":1.66,"id":9623671},{"ltp":2.5,"id":8172415}]}]}
+{"op":"mcm","clk":"7643411381","pt":1538850285969,"mc":[{"id":"1.149172106","rc":[{"ltp":1.27,"id":9623671}]}]}
+{"op":"mcm","clk":"7643420594","pt":1538850344918,"mc":[{"id":"1.149172106","rc":[{"ltp":1.29,"id":9623671}]}]}
+{"op":"mcm","clk":"7643430737","pt":1538850405460,"mc":[{"id":"1.149172106","rc":[{"ltp":1.23,"id":9623671}]}]}
+{"op":"mcm","clk":"7643462644","pt":1538850524022,"mc":[{"id":"1.149172106","rc":[{"ltp":1.21,"id":9623671},{"ltp":5.7,"id":8172415}]}]}
+{"op":"mcm","clk":"7643472296","pt":1538850583268,"mc":[{"id":"1.149172106","rc":[{"ltp":1.31,"id":9623671}]}]}
+{"op":"mcm","clk":"7643483682","pt":1538850645611,"mc":[{"id":"1.149172106","rc":[{"ltp":1.2,"id":9623671}]}]}
+{"op":"mcm","clk":"7643494679","pt":1538850705885,"mc":[{"id":"1.149172106","rc":[{"ltp":1.27,"id":9623671}]}]}
+{"op":"mcm","clk":"7643503889","pt":1538850756615,"mc":[{"id":"1.149172106","rc":[{"ltp":1.28,"id":9623671}]}]}
+{"op":"mcm","clk":"7643547235","pt":1538851007020,"mc":[{"id":"1.149172106","rc":[{"ltp":1.24,"id":9623671}]}]}
+{"op":"mcm","clk":"7643557695","pt":1538851066187,"mc":[{"id":"1.149172106","rc":[{"ltp":5.2,"id":8172415}]}]}
+{"op":"mcm","clk":"7643567953","pt":1538851124439,"mc":[{"id":"1.149172106","rc":[{"ltp":1.05,"id":9623671}]}]}
+{"op":"mcm","clk":"7643578522","pt":1538851186076,"mc":[{"id":"1.149172106","rc":[{"ltp":1.03,"id":9623671},{"ltp":13.5,"id":8172415}]}]}
+{"op":"mcm","clk":"7643588494","pt":1538851246874,"mc":[{"id":"1.149172106","rc":[{"ltp":34.0,"id":8172415}]}]}
+{"op":"mcm","clk":"7643632575","pt":1538851427084,"mc":[{"id":"1.149172106","rc":[{"ltp":1.05,"id":9623671}]}]}
+{"op":"mcm","clk":"7643642198","pt":1538851484994,"mc":[{"id":"1.149172106","rc":[{"ltp":1.01,"id":9623671},{"ltp":50.0,"id":8172415}]}]}
+{"op":"mcm","clk":"7643662138","pt":1538851603345,"mc":[{"id":"1.149172106","rc":[{"ltp":110.0,"id":8172415}]}]}
+{"op":"mcm","clk":"7643672022","pt":1538851661144,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:57:00.000Z","suspendTime":"2018-10-06T16:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"ACTIVE","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:57:00.000Z","version":2441972990,"name":"Match Odds","eventName":"Fanselow v A Harris"}}]}
+{"op":"mcm","clk":"7643688764","pt":1538851762835,"mc":[{"id":"1.149172106","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28941482","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-06T16:57:00.000Z","suspendTime":"2018-10-06T16:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-06T18:49:18.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":9623671,"name":"Sebastian Fanselow"},{"status":"LOSER","sortPriority":2,"id":8172415,"name":"Andrew Harris"}],"regulators":["MR_INT"],"countryCode":"US","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-06T16:57:00.000Z","version":2441978612,"name":"Match Odds","eventName":"Fanselow v A Harris"}}]}

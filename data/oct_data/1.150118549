@@ -1,0 +1,79 @@
+{"op":"mcm","clk":"7807128682","pt":1540392373062,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:00:00.000Z","suspendTime":"2018-10-24T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:00:00.000Z","version":2473366458,"name":"Match Odds","eventName":"T Wang v Brkic"}}]}
+{"op":"mcm","clk":"7807175145","pt":1540392610315,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:00:00.000Z","suspendTime":"2018-10-24T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:00:00.000Z","version":2473366458,"name":"Match Odds","eventName":"T Wang v Brkic"}}]}
+{"op":"mcm","clk":"7807786677","pt":1540396003091,"mc":[{"id":"1.150118549","rc":[{"ltp":2.08,"id":3957838},{"ltp":1.93,"id":8284527}]}]}
+{"op":"mcm","clk":"7807847455","pt":1540396346911,"mc":[{"id":"1.150118549","rc":[{"ltp":2.1,"id":3957838},{"ltp":1.91,"id":8284527}]}]}
+{"op":"mcm","clk":"7807878787","pt":1540396591582,"mc":[{"id":"1.150118549","rc":[{"ltp":1.82,"id":8284527}]}]}
+{"op":"mcm","clk":"7808559524","pt":1540402288923,"mc":[{"id":"1.150118549","rc":[{"ltp":2.2,"id":3957838}]}]}
+{"op":"mcm","clk":"7808647864","pt":1540403100299,"mc":[{"id":"1.150118549","rc":[{"ltp":1.66,"id":8284527}]}]}
+{"op":"mcm","clk":"7808716545","pt":1540403718576,"mc":[{"id":"1.150118549","rc":[{"ltp":2.4,"id":3957838},{"ltp":1.72,"id":8284527}]}]}
+{"op":"mcm","clk":"7808733322","pt":1540403925585,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:15:00.000Z","suspendTime":"2018-10-24T18:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:15:00.000Z","version":2473879816,"name":"Match Odds","eventName":"T Wang v Brkic"}}]}
+{"op":"mcm","clk":"7808785025","pt":1540404371174,"mc":[{"id":"1.150118549","rc":[{"ltp":2.8,"id":3957838},{"ltp":1.55,"id":8284527}]}]}
+{"op":"mcm","clk":"7808799614","pt":1540404520312,"mc":[{"id":"1.150118549","rc":[{"ltp":2.76,"id":3957838},{"ltp":1.54,"id":8284527}]}]}
+{"op":"mcm","clk":"7808828742","pt":1540404827442,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:09:00.000Z","suspendTime":"2018-10-24T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:09:00.000Z","version":2473945447,"name":"Match Odds","eventName":"T Wang v Brkic"}}]}
+{"op":"mcm","clk":"7808862556","pt":1540405068088,"mc":[{"id":"1.150118549","rc":[{"ltp":1.62,"id":8284527}]}]}
+{"op":"mcm","clk":"7808875496","pt":1540405230749,"mc":[{"id":"1.150118549","rc":[{"ltp":1.55,"id":8284527}]}]}
+{"op":"mcm","clk":"7808905476","pt":1540405547783,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:09:00.000Z","suspendTime":"2018-10-24T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:09:00.000Z","version":2473960696,"name":"Match Odds","eventName":"T Wang v Brkic"},"rc":[{"ltp":2.32,"id":3957838},{"ltp":1.75,"id":8284527}]}]}
+{"op":"mcm","clk":"7808911355","pt":1540405609113,"mc":[{"id":"1.150118549","rc":[{"ltp":2.52,"id":3957838},{"ltp":1.62,"id":8284527}]}]}
+{"op":"mcm","clk":"7808916371","pt":1540405664692,"mc":[{"id":"1.150118549","rc":[{"ltp":2.86,"id":3957838},{"ltp":1.58,"id":8284527}]}]}
+{"op":"mcm","clk":"7808927830","pt":1540405785973,"mc":[{"id":"1.150118549","rc":[{"ltp":1.5,"id":8284527}]}]}
+{"op":"mcm","clk":"7808933472","pt":1540405841349,"mc":[{"id":"1.150118549","rc":[{"ltp":1.37,"id":8284527}]}]}
+{"op":"mcm","clk":"7808959000","pt":1540405963259,"mc":[{"id":"1.150118549","rc":[{"ltp":4.2,"id":3957838},{"ltp":1.31,"id":8284527}]}]}
+{"op":"mcm","clk":"7808971419","pt":1540406072424,"mc":[{"id":"1.150118549","rc":[{"ltp":1.23,"id":8284527}]}]}
+{"op":"mcm","clk":"7808985563","pt":1540406209100,"mc":[{"id":"1.150118549","rc":[{"ltp":1.25,"id":8284527}]}]}
+{"op":"mcm","clk":"7808998295","pt":1540406324805,"mc":[{"id":"1.150118549","rc":[{"ltp":4.5,"id":3957838},{"ltp":1.3,"id":8284527}]}]}
+{"op":"mcm","clk":"7809005531","pt":1540406388015,"mc":[{"id":"1.150118549","rc":[{"ltp":1.21,"id":8284527}]}]}
+{"op":"mcm","clk":"7809027715","pt":1540406568104,"mc":[{"id":"1.150118549","rc":[{"ltp":1.22,"id":8284527}]}]}
+{"op":"mcm","clk":"7809033959","pt":1540406629002,"mc":[{"id":"1.150118549","rc":[{"ltp":1.25,"id":8284527}]}]}
+{"op":"mcm","clk":"7809039226","pt":1540406687057,"mc":[{"id":"1.150118549","rc":[{"ltp":1.32,"id":8284527}]}]}
+{"op":"mcm","clk":"7809045183","pt":1540406748104,"mc":[{"id":"1.150118549","rc":[{"ltp":1.24,"id":8284527}]}]}
+{"op":"mcm","clk":"7809050741","pt":1540406803259,"mc":[{"id":"1.150118549","rc":[{"ltp":1.21,"id":8284527}]}]}
+{"op":"mcm","clk":"7809070824","pt":1540406868003,"mc":[{"id":"1.150118549","rc":[{"ltp":1.2,"id":8284527}]}]}
+{"op":"mcm","clk":"7809082831","pt":1540406989055,"mc":[{"id":"1.150118549","rc":[{"ltp":1.18,"id":8284527}]}]}
+{"op":"mcm","clk":"7809089267","pt":1540407048255,"mc":[{"id":"1.150118549","rc":[{"ltp":1.15,"id":8284527}]}]}
+{"op":"mcm","clk":"7809102759","pt":1540407164059,"mc":[{"id":"1.150118549","rc":[{"ltp":7.6,"id":3957838},{"ltp":1.16,"id":8284527}]}]}
+{"op":"mcm","clk":"7809110269","pt":1540407225262,"mc":[{"id":"1.150118549","rc":[{"ltp":1.17,"id":8284527}]}]}
+{"op":"mcm","clk":"7809118312","pt":1540407289106,"mc":[{"id":"1.150118549","rc":[{"ltp":1.18,"id":8284527}]}]}
+{"op":"mcm","clk":"7809126200","pt":1540407347898,"mc":[{"id":"1.150118549","rc":[{"ltp":1.13,"id":8284527}]}]}
+{"op":"mcm","clk":"7809143466","pt":1540407467558,"mc":[{"id":"1.150118549","rc":[{"ltp":10.0,"id":3957838},{"ltp":1.11,"id":8284527}]}]}
+{"op":"mcm","clk":"7809150994","pt":1540407526977,"mc":[{"id":"1.150118549","rc":[{"ltp":1.16,"id":8284527}]}]}
+{"op":"mcm","clk":"7809158780","pt":1540407589081,"mc":[{"id":"1.150118549","rc":[{"ltp":1.14,"id":8284527}]}]}
+{"op":"mcm","clk":"7809164981","pt":1540407637323,"mc":[{"id":"1.150118549","rc":[{"ltp":1.12,"id":8284527}]}]}
+{"op":"mcm","clk":"7809173353","pt":1540407706834,"mc":[{"id":"1.150118549","rc":[{"ltp":9.4,"id":3957838},{"ltp":1.14,"id":8284527}]}]}
+{"op":"mcm","clk":"7809194083","pt":1540407767683,"mc":[{"id":"1.150118549","rc":[{"ltp":8.0,"id":3957838}]}]}
+{"op":"mcm","clk":"7809202737","pt":1540407828563,"mc":[{"id":"1.150118549","rc":[{"ltp":1.15,"id":8284527}]}]}
+{"op":"mcm","clk":"7809227580","pt":1540408005801,"mc":[{"id":"1.150118549","rc":[{"ltp":1.13,"id":8284527}]}]}
+{"op":"mcm","clk":"7809236022","pt":1540408066624,"mc":[{"id":"1.150118549","rc":[{"ltp":1.11,"id":8284527}]}]}
+{"op":"mcm","clk":"7809253565","pt":1540408188705,"mc":[{"id":"1.150118549","rc":[{"ltp":1.12,"id":8284527}]}]}
+{"op":"mcm","clk":"7809271991","pt":1540408308963,"mc":[{"id":"1.150118549","rc":[{"ltp":6.8,"id":3957838},{"ltp":1.17,"id":8284527}]}]}
+{"op":"mcm","clk":"7809280731","pt":1540408368400,"mc":[{"id":"1.150118549","rc":[{"ltp":1.2,"id":8284527}]}]}
+{"op":"mcm","clk":"7809289146","pt":1540408428762,"mc":[{"id":"1.150118549","rc":[{"ltp":4.7,"id":3957838},{"ltp":1.35,"id":8284527}]}]}
+{"op":"mcm","clk":"7809296703","pt":1540408487693,"mc":[{"id":"1.150118549","rc":[{"ltp":1.31,"id":8284527}]}]}
+{"op":"mcm","clk":"7809311851","pt":1540408608423,"mc":[{"id":"1.150118549","rc":[{"ltp":3.55,"id":3957838},{"ltp":1.42,"id":8284527}]}]}
+{"op":"mcm","clk":"7809331928","pt":1540408667095,"mc":[{"id":"1.150118549","rc":[{"ltp":3.35,"id":3957838}]}]}
+{"op":"mcm","clk":"7809339180","pt":1540408729016,"mc":[{"id":"1.150118549","rc":[{"ltp":2.74,"id":3957838},{"ltp":1.54,"id":8284527}]}]}
+{"op":"mcm","clk":"7809345612","pt":1540408786184,"mc":[{"id":"1.150118549","rc":[{"ltp":1.41,"id":8284527}]}]}
+{"op":"mcm","clk":"7809352782","pt":1540408849020,"mc":[{"id":"1.150118549","rc":[{"ltp":2.8,"id":3957838},{"ltp":1.55,"id":8284527}]}]}
+{"op":"mcm","clk":"7809359677","pt":1540408908835,"mc":[{"id":"1.150118549","rc":[{"ltp":2.92,"id":3957838},{"ltp":1.52,"id":8284527}]}]}
+{"op":"mcm","clk":"7809366288","pt":1540408968676,"mc":[{"id":"1.150118549","rc":[{"ltp":3.1,"id":3957838},{"ltp":1.46,"id":8284527}]}]}
+{"op":"mcm","clk":"7809372857","pt":1540409026848,"mc":[{"id":"1.150118549","rc":[{"ltp":1.48,"id":8284527}]}]}
+{"op":"mcm","clk":"7809380157","pt":1540409087516,"mc":[{"id":"1.150118549","rc":[{"ltp":1.36,"id":8284527}]}]}
+{"op":"mcm","clk":"7809387532","pt":1540409146380,"mc":[{"id":"1.150118549","rc":[{"ltp":2.86,"id":3957838},{"ltp":1.55,"id":8284527}]}]}
+{"op":"mcm","clk":"7809395429","pt":1540409208974,"mc":[{"id":"1.150118549","rc":[{"ltp":1.52,"id":8284527}]}]}
+{"op":"mcm","clk":"7809403351","pt":1540409267944,"mc":[{"id":"1.150118549","rc":[{"ltp":1.53,"id":8284527}]}]}
+{"op":"mcm","clk":"7809412518","pt":1540409327903,"mc":[{"id":"1.150118549","rc":[{"ltp":1.37,"id":8284527}]}]}
+{"op":"mcm","clk":"7809420631","pt":1540409388220,"mc":[{"id":"1.150118549","rc":[{"ltp":1.42,"id":8284527}]}]}
+{"op":"mcm","clk":"7809428636","pt":1540409448984,"mc":[{"id":"1.150118549","rc":[{"ltp":1.13,"id":8284527}]}]}
+{"op":"mcm","clk":"7809435522","pt":1540409508138,"mc":[{"id":"1.150118549","rc":[{"ltp":1.11,"id":8284527}]}]}
+{"op":"mcm","clk":"7809455150","pt":1540409565655,"mc":[{"id":"1.150118549","rc":[{"ltp":1.12,"id":8284527}]}]}
+{"op":"mcm","clk":"7809462202","pt":1540409626802,"mc":[{"id":"1.150118549","rc":[{"ltp":1.09,"id":8284527}]}]}
+{"op":"mcm","clk":"7809469189","pt":1540409687352,"mc":[{"id":"1.150118549","rc":[{"ltp":26.0,"id":3957838},{"ltp":1.07,"id":8284527}]}]}
+{"op":"mcm","clk":"7809476147","pt":1540409747324,"mc":[{"id":"1.150118549","rc":[{"ltp":15.0,"id":3957838}]}]}
+{"op":"mcm","clk":"7809482993","pt":1540409808870,"mc":[{"id":"1.150118549","rc":[{"ltp":8.6,"id":3957838},{"ltp":1.16,"id":8284527}]}]}
+{"op":"mcm","clk":"7809489716","pt":1540409866719,"mc":[{"id":"1.150118549","rc":[{"ltp":1.17,"id":8284527}]}]}
+{"op":"mcm","clk":"7809496423","pt":1540409926318,"mc":[{"id":"1.150118549","rc":[{"ltp":1.2,"id":8284527}]}]}
+{"op":"mcm","clk":"7809503630","pt":1540409988859,"mc":[{"id":"1.150118549","rc":[{"ltp":1.04,"id":8284527}]}]}
+{"op":"mcm","clk":"7809510599","pt":1540410048320,"mc":[{"id":"1.150118549","rc":[{"ltp":1.02,"id":8284527}]}]}
+{"op":"mcm","clk":"7809517889","pt":1540410107520,"mc":[{"id":"1.150118549","rc":[{"ltp":1.04,"id":8284527}]}]}
+{"op":"mcm","clk":"7809525051","pt":1540410168035,"mc":[{"id":"1.150118549","rc":[{"ltp":34.0,"id":3957838},{"ltp":1.03,"id":8284527}]}]}
+{"op":"mcm","clk":"7809532092","pt":1540410229032,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:09:00.000Z","suspendTime":"2018-10-24T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"ACTIVE","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:09:00.000Z","version":2474182774,"name":"Match Odds","eventName":"T Wang v Brkic"},"rc":[{"ltp":1.01,"id":8284527}]}]}
+{"op":"mcm","clk":"7809536447","pt":1540410271535,"mc":[{"id":"1.150118549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28973715","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-24T18:09:00.000Z","suspendTime":"2018-10-24T18:09:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-24T19:44:27.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8284527,"name":"Tak Khunn Wang"},{"status":"LOSER","sortPriority":2,"id":3957838,"name":"Tomislav Brkic"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-24T18:09:00.000Z","version":2474184450,"name":"Match Odds","eventName":"T Wang v Brkic"}}]}

@@ -1,0 +1,68 @@
+{"op":"mcm","clk":"7869181817","pt":1540979035415,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"ACTIVE","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:30:00.000Z","version":2487121778,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}
+{"op":"mcm","clk":"7869187226","pt":1540979151410,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"ACTIVE","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:30:00.000Z","version":2487121778,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}
+{"op":"mcm","clk":"7869429574","pt":1540982642270,"mc":[{"id":"1.150522648","rc":[{"ltp":1.93,"id":19167426}]}]}
+{"op":"mcm","clk":"7870736444","pt":1540995369700,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"ACTIVE","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:40:00.000Z","version":2487458983,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}
+{"op":"mcm","clk":"7871294976","pt":1540999544860,"mc":[{"id":"1.150522648","rc":[{"ltp":2.06,"id":8597181}]}]}
+{"op":"mcm","clk":"7871367306","pt":1540999994115,"mc":[{"id":"1.150522648","rc":[{"ltp":1.75,"id":19167426}]}]}
+{"op":"mcm","clk":"7871397982","pt":1541000225841,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"ACTIVE","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:40:00.000Z","version":2487601902,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}
+{"op":"mcm","clk":"7871443111","pt":1541000564267,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"ACTIVE","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:42:41.000Z","version":2487609432,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}
+{"op":"mcm","clk":"7871453862","pt":1541000645369,"mc":[{"id":"1.150522648","rc":[{"ltp":1.99,"id":19167426},{"ltp":2.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7871506658","pt":1541000942744,"mc":[{"id":"1.150522648","rc":[{"ltp":1.86,"id":8597181}]}]}
+{"op":"mcm","clk":"7871513330","pt":1541001000039,"mc":[{"id":"1.150522648","rc":[{"ltp":1.52,"id":8597181}]}]}
+{"op":"mcm","clk":"7871528380","pt":1541001124153,"mc":[{"id":"1.150522648","rc":[{"ltp":1.42,"id":8597181}]}]}
+{"op":"mcm","clk":"7871544903","pt":1541001244504,"mc":[{"id":"1.150522648","rc":[{"ltp":1.39,"id":8597181}]}]}
+{"op":"mcm","clk":"7871558245","pt":1541001349878,"mc":[{"id":"1.150522648","rc":[{"ltp":1.37,"id":8597181}]}]}
+{"op":"mcm","clk":"7871576078","pt":1541001483936,"mc":[{"id":"1.150522648","rc":[{"ltp":1.35,"id":8597181}]}]}
+{"op":"mcm","clk":"7871633805","pt":1541001786848,"mc":[{"id":"1.150522648","rc":[{"ltp":3.0,"id":19167426},{"ltp":1.5,"id":8597181}]}]}
+{"op":"mcm","clk":"7871642960","pt":1541001845427,"mc":[{"id":"1.150522648","rc":[{"ltp":3.6,"id":19167426},{"ltp":1.35,"id":8597181}]}]}
+{"op":"mcm","clk":"7871660874","pt":1541001963635,"mc":[{"id":"1.150522648","rc":[{"ltp":4.1,"id":19167426},{"ltp":1.32,"id":8597181}]}]}
+{"op":"mcm","clk":"7871670044","pt":1541002021710,"mc":[{"id":"1.150522648","rc":[{"ltp":1.34,"id":8597181}]}]}
+{"op":"mcm","clk":"7871687669","pt":1541002142519,"mc":[{"id":"1.150522648","rc":[{"ltp":1.25,"id":8597181}]}]}
+{"op":"mcm","clk":"7871704553","pt":1541002261831,"mc":[{"id":"1.150522648","rc":[{"ltp":1.23,"id":8597181}]}]}
+{"op":"mcm","clk":"7871713242","pt":1541002322930,"mc":[{"id":"1.150522648","rc":[{"ltp":1.26,"id":8597181}]}]}
+{"op":"mcm","clk":"7871730475","pt":1541002437293,"mc":[{"id":"1.150522648","rc":[{"ltp":1.22,"id":8597181}]}]}
+{"op":"mcm","clk":"7871826878","pt":1541002971240,"mc":[{"id":"1.150522648","rc":[{"ltp":1.34,"id":8597181}]}]}
+{"op":"mcm","clk":"7871875809","pt":1541003284456,"mc":[{"id":"1.150522648","rc":[{"ltp":3.0,"id":19167426},{"ltp":1.49,"id":8597181}]}]}
+{"op":"mcm","clk":"7871882943","pt":1541003340026,"mc":[{"id":"1.150522648","rc":[{"ltp":1.62,"id":8597181}]}]}
+{"op":"mcm","clk":"7871891750","pt":1541003406434,"mc":[{"id":"1.150522648","rc":[{"ltp":2.34,"id":19167426},{"ltp":1.74,"id":8597181}]}]}
+{"op":"mcm","clk":"7871900835","pt":1541003465458,"mc":[{"id":"1.150522648","rc":[{"ltp":1.8,"id":8597181}]}]}
+{"op":"mcm","clk":"7871905911","pt":1541003502430,"mc":[{"id":"1.150522648","rc":[{"ltp":1.78,"id":8597181}]}]}
+{"op":"mcm","clk":"7871948671","pt":1541003705834,"mc":[{"id":"1.150522648","rc":[{"ltp":1.67,"id":8597181}]}]}
+{"op":"mcm","clk":"7872006798","pt":1541004066874,"mc":[{"id":"1.150522648","rc":[{"ltp":1.82,"id":19167426},{"ltp":2.08,"id":8597181}]}]}
+{"op":"mcm","clk":"7872015422","pt":1541004125800,"mc":[{"id":"1.150522648","rc":[{"ltp":1.9,"id":19167426}]}]}
+{"op":"mcm","clk":"7872024951","pt":1541004186597,"mc":[{"id":"1.150522648","rc":[{"ltp":1.84,"id":19167426},{"ltp":2.2,"id":8597181}]}]}
+{"op":"mcm","clk":"7872052737","pt":1541004360538,"mc":[{"id":"1.150522648","rc":[{"ltp":2.0,"id":19167426},{"ltp":2.04,"id":8597181}]}]}
+{"op":"mcm","clk":"7872083898","pt":1541004486516,"mc":[{"id":"1.150522648","rc":[{"ltp":2.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7872096123","pt":1541004582796,"mc":[{"id":"1.150522648","rc":[{"ltp":1.41,"id":19167426}]}]}
+{"op":"mcm","clk":"7872105705","pt":1541004660802,"mc":[{"id":"1.150522648","rc":[{"ltp":1.31,"id":19167426}]}]}
+{"op":"mcm","clk":"7872113992","pt":1541004726546,"mc":[{"id":"1.150522648","rc":[{"ltp":1.19,"id":19167426},{"ltp":6.2,"id":8597181}]}]}
+{"op":"mcm","clk":"7872121532","pt":1541004786060,"mc":[{"id":"1.150522648","rc":[{"ltp":1.24,"id":19167426}]}]}
+{"op":"mcm","clk":"7872128675","pt":1541004846027,"mc":[{"id":"1.150522648","rc":[{"ltp":5.4,"id":8597181}]}]}
+{"op":"mcm","clk":"7872135698","pt":1541004901161,"mc":[{"id":"1.150522648","rc":[{"ltp":1.33,"id":19167426}]}]}
+{"op":"mcm","clk":"7872142072","pt":1541004961949,"mc":[{"id":"1.150522648","rc":[{"ltp":1.3,"id":19167426},{"ltp":4.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7872149608","pt":1541005021197,"mc":[{"id":"1.150522648","rc":[{"ltp":4.4,"id":8597181}]}]}
+{"op":"mcm","clk":"7872157587","pt":1541005080510,"mc":[{"id":"1.150522648","rc":[{"ltp":1.35,"id":19167426}]}]}
+{"op":"mcm","clk":"7872165718","pt":1541005141662,"mc":[{"id":"1.150522648","rc":[{"ltp":1.32,"id":19167426}]}]}
+{"op":"mcm","clk":"7872182130","pt":1541005266781,"mc":[{"id":"1.150522648","rc":[{"ltp":1.35,"id":19167426}]}]}
+{"op":"mcm","clk":"7872189042","pt":1541005314354,"mc":[{"id":"1.150522648","rc":[{"ltp":1.22,"id":19167426}]}]}
+{"op":"mcm","clk":"7872212915","pt":1541005386817,"mc":[{"id":"1.150522648","rc":[{"ltp":1.17,"id":19167426}]}]}
+{"op":"mcm","clk":"7872221614","pt":1541005446691,"mc":[{"id":"1.150522648","rc":[{"ltp":1.27,"id":19167426}]}]}
+{"op":"mcm","clk":"7872229542","pt":1541005500758,"mc":[{"id":"1.150522648","rc":[{"ltp":1.29,"id":19167426}]}]}
+{"op":"mcm","clk":"7872246706","pt":1541005622330,"mc":[{"id":"1.150522648","rc":[{"ltp":1.2,"id":19167426}]}]}
+{"op":"mcm","clk":"7872255372","pt":1541005685057,"mc":[{"id":"1.150522648","rc":[{"ltp":1.25,"id":19167426},{"ltp":5.7,"id":8597181}]}]}
+{"op":"mcm","clk":"7872263087","pt":1541005739686,"mc":[{"id":"1.150522648","rc":[{"ltp":1.28,"id":19167426}]}]}
+{"op":"mcm","clk":"7872282398","pt":1541005866366,"mc":[{"id":"1.150522648","rc":[{"ltp":1.2,"id":19167426}]}]}
+{"op":"mcm","clk":"7872291042","pt":1541005926839,"mc":[{"id":"1.150522648","rc":[{"ltp":1.32,"id":19167426},{"ltp":4.2,"id":8597181}]}]}
+{"op":"mcm","clk":"7872300613","pt":1541005986667,"mc":[{"id":"1.150522648","rc":[{"ltp":1.18,"id":19167426}]}]}
+{"op":"mcm","clk":"7872330675","pt":1541006166609,"mc":[{"id":"1.150522648","rc":[{"ltp":1.27,"id":19167426},{"ltp":4.7,"id":8597181}]}]}
+{"op":"mcm","clk":"7872338719","pt":1541006221498,"mc":[{"id":"1.150522648","rc":[{"ltp":1.24,"id":19167426},{"ltp":5.2,"id":8597181}]}]}
+{"op":"mcm","clk":"7872361900","pt":1541006286175,"mc":[{"id":"1.150522648","rc":[{"ltp":1.26,"id":19167426}]}]}
+{"op":"mcm","clk":"7872370873","pt":1541006346483,"mc":[{"id":"1.150522648","rc":[{"ltp":1.25,"id":19167426},{"ltp":4.2,"id":8597181}]}]}
+{"op":"mcm","clk":"7872388149","pt":1541006466590,"mc":[{"id":"1.150522648","rc":[{"ltp":1.13,"id":19167426},{"ltp":8.8,"id":8597181}]}]}
+{"op":"mcm","clk":"7872397209","pt":1541006526104,"mc":[{"id":"1.150522648","rc":[{"ltp":1.16,"id":19167426}]}]}
+{"op":"mcm","clk":"7872405870","pt":1541006584462,"mc":[{"id":"1.150522648","rc":[{"ltp":7.8,"id":8597181}]}]}
+{"op":"mcm","clk":"7872414274","pt":1541006644687,"mc":[{"id":"1.150522648","rc":[{"ltp":1.2,"id":19167426},{"ltp":6.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7872423823","pt":1541006706876,"mc":[{"id":"1.150522648","rc":[{"ltp":1.25,"id":19167426},{"ltp":5.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7872432681","pt":1541006766212,"mc":[{"id":"1.150522648","rc":[{"ltp":1.05,"id":19167426}]}]}
+{"op":"mcm","clk":"7872441527","pt":1541006824775,"mc":[{"id":"1.150522648","rc":[{"ltp":1.01,"id":19167426},{"ltp":36.0,"id":8597181}]}]}
+{"op":"mcm","clk":"7872447785","pt":1541006865756,"mc":[{"id":"1.150522648","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28986159","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-31T15:30:00.000Z","suspendTime":"2018-10-31T15:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-31T17:27:42.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8597181,"name":"N Broady"},{"status":"WINNER","sortPriority":2,"id":19167426,"name":"D Lopatetskaya"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-31T15:42:41.000Z","version":2487852763,"name":"Match Odds","eventName":"N Broady v D Lopatetskaya"}}]}

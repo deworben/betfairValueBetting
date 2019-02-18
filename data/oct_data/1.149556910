@@ -1,0 +1,130 @@
+{"op":"mcm","clk":"7643966930","pt":1539451281660,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:00:00.000Z","suspendTime":"2018-10-14T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:00:00.000Z","version":2453703274,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7644255831","pt":1539453811902,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:00:00.000Z","suspendTime":"2018-10-14T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:00:00.000Z","version":2453703274,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7647931979","pt":1539488068107,"mc":[{"id":"1.149556910","rc":[{"ltp":1.94,"id":2284304}]}]}
+{"op":"mcm","clk":"7648695536","pt":1539498822321,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034},{"ltp":2.26,"id":2284304}]}]}
+{"op":"mcm","clk":"7648823623","pt":1539500256592,"mc":[{"id":"1.149556910","rc":[{"ltp":1.71,"id":5617034}]}]}
+{"op":"mcm","clk":"7649208766","pt":1539504463538,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034}]}]}
+{"op":"mcm","clk":"7649534181","pt":1539507564681,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:57:00.000Z","suspendTime":"2018-10-14T14:57:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:57:00.000Z","version":2454977509,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7649894094","pt":1539510148893,"mc":[{"id":"1.149556910","rc":[{"ltp":1.78,"id":5617034}]}]}
+{"op":"mcm","clk":"7650055969","pt":1539511167696,"mc":[{"id":"1.149556910","rc":[{"ltp":2.08,"id":2284304}]}]}
+{"op":"mcm","clk":"7650563721","pt":1539513740616,"mc":[{"id":"1.149556910","rc":[{"ltp":1.81,"id":5617034}]}]}
+{"op":"mcm","clk":"7650745173","pt":1539514760273,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:12:00.000Z","suspendTime":"2018-10-14T15:12:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:12:00.000Z","version":2455171128,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7651320091","pt":1539518107733,"mc":[{"id":"1.149556910","rc":[{"ltp":1.8,"id":5617034}]}]}
+{"op":"mcm","clk":"7651330517","pt":1539518190981,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034},{"ltp":2.06,"id":2284304}]}]}
+{"op":"mcm","clk":"7651657696","pt":1539520461277,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:37:00.000Z","suspendTime":"2018-10-14T14:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:37:00.000Z","version":2455376771,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7651666022","pt":1539520516914,"mc":[{"id":"1.149556910","rc":[{"ltp":1.78,"id":5617034}]}]}
+{"op":"mcm","clk":"7651714299","pt":1539520760545,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:35:00.000Z","suspendTime":"2018-10-14T14:35:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:35:00.000Z","version":2455388278,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7652326238","pt":1539524226616,"mc":[{"id":"1.149556910","rc":[{"ltp":1.97,"id":5617034},{"ltp":2.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7652359009","pt":1539524413494,"mc":[{"id":"1.149556910","rc":[{"ltp":2.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7652452258","pt":1539524970395,"mc":[{"id":"1.149556910","rc":[{"ltp":1.88,"id":5617034},{"ltp":2.2,"id":2284304}]}]}
+{"op":"mcm","clk":"7652490229","pt":1539525149838,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034}]}]}
+{"op":"mcm","clk":"7652571209","pt":1539525666043,"mc":[{"id":"1.149556910","rc":[{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7652580465","pt":1539525726834,"mc":[{"id":"1.149556910","rc":[{"ltp":2.1,"id":2284304}]}]}
+{"op":"mcm","clk":"7652602896","pt":1539525866635,"mc":[{"id":"1.149556910","rc":[{"ltp":1.8,"id":5617034}]}]}
+{"op":"mcm","clk":"7652609608","pt":1539525906580,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034}]}]}
+{"op":"mcm","clk":"7652652864","pt":1539526104816,"mc":[{"id":"1.149556910","rc":[{"ltp":1.93,"id":5617034},{"ltp":2.08,"id":2284304}]}]}
+{"op":"mcm","clk":"7652696987","pt":1539526344484,"mc":[{"id":"1.149556910","rc":[{"ltp":1.8,"id":5617034}]}]}
+{"op":"mcm","clk":"7652777392","pt":1539526769385,"mc":[{"id":"1.149556910","rc":[{"ltp":1.78,"id":5617034}]}]}
+{"op":"mcm","clk":"7652863291","pt":1539527180533,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034},{"ltp":2.28,"id":2284304}]}]}
+{"op":"mcm","clk":"7652908869","pt":1539527426396,"mc":[{"id":"1.149556910","rc":[{"ltp":1.8,"id":5617034},{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7652950649","pt":1539527667306,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:50:00.000Z","suspendTime":"2018-10-14T14:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:50:00.000Z","version":2455688411,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"},"rc":[{"ltp":1.74,"id":5617034}]}]}
+{"op":"mcm","clk":"7653066832","pt":1539528268530,"mc":[{"id":"1.149556910","rc":[{"ltp":1.77,"id":5617034}]}]}
+{"op":"mcm","clk":"7653116066","pt":1539528567291,"mc":[{"id":"1.149556910","rc":[{"ltp":1.71,"id":5617034},{"ltp":2.44,"id":2284304}]}]}
+{"op":"mcm","clk":"7653123085","pt":1539528610528,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T15:05:00.000Z","suspendTime":"2018-10-14T15:05:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T15:05:00.000Z","version":2455725059,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7653134298","pt":1539528683318,"mc":[{"id":"1.149556910","rc":[{"ltp":1.77,"id":5617034}]}]}
+{"op":"mcm","clk":"7653152633","pt":1539528744306,"mc":[{"id":"1.149556910","rc":[{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7653185557","pt":1539528979575,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034}]}]}
+{"op":"mcm","clk":"7653196170","pt":1539529051034,"mc":[{"id":"1.149556910","rc":[{"ltp":1.73,"id":5617034},{"ltp":2.38,"id":2284304}]}]}
+{"op":"mcm","clk":"7653205697","pt":1539529111009,"mc":[{"id":"1.149556910","rc":[{"ltp":1.7,"id":5617034}]}]}
+{"op":"mcm","clk":"7653213497","pt":1539529159734,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:56:00.000Z","suspendTime":"2018-10-14T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:56:00.000Z","version":2455749838,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"},"rc":[{"ltp":2.32,"id":2284304}]}]}
+{"op":"mcm","clk":"7653220022","pt":1539529199763,"mc":[{"id":"1.149556910","rc":[{"ltp":1.71,"id":5617034}]}]}
+{"op":"mcm","clk":"7653243494","pt":1539529340624,"mc":[{"id":"1.149556910","rc":[{"ltp":1.75,"id":5617034}]}]}
+{"op":"mcm","clk":"7653253463","pt":1539529402196,"mc":[{"id":"1.149556910","rc":[{"ltp":2.3,"id":2284304}]}]}
+{"op":"mcm","clk":"7653264178","pt":1539529465956,"mc":[{"id":"1.149556910","rc":[{"ltp":1.76,"id":5617034},{"ltp":2.28,"id":2284304}]}]}
+{"op":"mcm","clk":"7653285270","pt":1539529590598,"mc":[{"id":"1.149556910","rc":[{"ltp":1.74,"id":5617034}]}]}
+{"op":"mcm","clk":"7653304133","pt":1539529649542,"mc":[{"id":"1.149556910","rc":[{"ltp":1.79,"id":5617034}]}]}
+{"op":"mcm","clk":"7653305902","pt":1539529660293,"mc":[{"id":"1.149556910","rc":[{"ltp":1.75,"id":5617034}]}]}
+{"op":"mcm","clk":"7653355205","pt":1539529950236,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:56:00.000Z","suspendTime":"2018-10-14T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:56:00.000Z","version":2455804265,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}
+{"op":"mcm","clk":"7653365010","pt":1539530008590,"mc":[{"id":"1.149556910","rc":[{"ltp":1.89,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653375448","pt":1539530071015,"mc":[{"id":"1.149556910","rc":[{"ltp":1.92,"id":5617034}]}]}
+{"op":"mcm","clk":"7653385988","pt":1539530131146,"mc":[{"id":"1.149556910","rc":[{"ltp":1.94,"id":5617034},{"ltp":2.06,"id":2284304}]}]}
+{"op":"mcm","clk":"7653396464","pt":1539530191001,"mc":[{"id":"1.149556910","rc":[{"ltp":1.83,"id":5617034},{"ltp":2.16,"id":2284304}]}]}
+{"op":"mcm","clk":"7653406928","pt":1539530249636,"mc":[{"id":"1.149556910","rc":[{"ltp":2.2,"id":2284304}]}]}
+{"op":"mcm","clk":"7653417758","pt":1539530310912,"mc":[{"id":"1.149556910","rc":[{"ltp":1.8,"id":5617034},{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7653428034","pt":1539530370984,"mc":[{"id":"1.149556910","rc":[{"ltp":1.91,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653437915","pt":1539530429651,"mc":[{"id":"1.149556910","rc":[{"ltp":1.96,"id":5617034},{"ltp":2.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7653446937","pt":1539530483789,"mc":[{"id":"1.149556910","rc":[{"ltp":1.98,"id":5617034},{"ltp":2.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7653467231","pt":1539530550813,"mc":[{"id":"1.149556910","rc":[{"ltp":1.87,"id":5617034},{"ltp":2.14,"id":2284304}]}]}
+{"op":"mcm","clk":"7653477394","pt":1539530611059,"mc":[{"id":"1.149556910","rc":[{"ltp":1.83,"id":5617034},{"ltp":2.2,"id":2284304}]}]}
+{"op":"mcm","clk":"7653488028","pt":1539530671146,"mc":[{"id":"1.149556910","rc":[{"ltp":1.82,"id":5617034},{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7653498372","pt":1539530730109,"mc":[{"id":"1.149556910","rc":[{"ltp":1.98,"id":5617034},{"ltp":2.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7653509107","pt":1539530789661,"mc":[{"id":"1.149556910","rc":[{"ltp":1.96,"id":5617034},{"ltp":2.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7653519951","pt":1539530850955,"mc":[{"id":"1.149556910","rc":[{"ltp":1.89,"id":5617034},{"ltp":2.06,"id":2284304}]}]}
+{"op":"mcm","clk":"7653530627","pt":1539530911138,"mc":[{"id":"1.149556910","rc":[{"ltp":1.84,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653541125","pt":1539530970811,"mc":[{"id":"1.149556910","rc":[{"ltp":1.85,"id":5617034},{"ltp":2.16,"id":2284304}]}]}
+{"op":"mcm","clk":"7653551854","pt":1539531030587,"mc":[{"id":"1.149556910","rc":[{"ltp":1.66,"id":5617034},{"ltp":2.7,"id":2284304}]}]}
+{"op":"mcm","clk":"7653562659","pt":1539531090736,"mc":[{"id":"1.149556910","rc":[{"ltp":1.86,"id":5617034},{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7653573937","pt":1539531151126,"mc":[{"id":"1.149556910","rc":[{"ltp":1.94,"id":5617034},{"ltp":2.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7653585056","pt":1539531210892,"mc":[{"id":"1.149556910","rc":[{"ltp":1.92,"id":5617034},{"ltp":2.1,"id":2284304}]}]}
+{"op":"mcm","clk":"7653596277","pt":1539531270988,"mc":[{"id":"1.149556910","rc":[{"ltp":2.0,"id":5617034},{"ltp":1.98,"id":2284304}]}]}
+{"op":"mcm","clk":"7653607457","pt":1539531330119,"mc":[{"id":"1.149556910","rc":[{"ltp":1.83,"id":5617034},{"ltp":2.24,"id":2284304}]}]}
+{"op":"mcm","clk":"7653618244","pt":1539531391110,"mc":[{"id":"1.149556910","rc":[{"ltp":1.96,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653637960","pt":1539531451092,"mc":[{"id":"1.149556910","rc":[{"ltp":2.0,"id":2284304}]}]}
+{"op":"mcm","clk":"7653648315","pt":1539531509560,"mc":[{"id":"1.149556910","rc":[{"ltp":2.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7653658770","pt":1539531570321,"mc":[{"id":"1.149556910","rc":[{"ltp":1.99,"id":5617034},{"ltp":2.0,"id":2284304}]}]}
+{"op":"mcm","clk":"7653669725","pt":1539531631058,"mc":[{"id":"1.149556910","rc":[{"ltp":2.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7653680415","pt":1539531691071,"mc":[{"id":"1.149556910","rc":[{"ltp":1.88,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653690818","pt":1539531751142,"mc":[{"id":"1.149556910","rc":[{"ltp":1.92,"id":5617034},{"ltp":2.26,"id":2284304}]}]}
+{"op":"mcm","clk":"7653701231","pt":1539531810690,"mc":[{"id":"1.149556910","rc":[{"ltp":2.02,"id":5617034},{"ltp":1.99,"id":2284304}]}]}
+{"op":"mcm","clk":"7653711340","pt":1539531870365,"mc":[{"id":"1.149556910","rc":[{"ltp":1.99,"id":5617034},{"ltp":2.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7653722247","pt":1539531931039,"mc":[{"id":"1.149556910","rc":[{"ltp":1.84,"id":5617034},{"ltp":2.12,"id":2284304}]}]}
+{"op":"mcm","clk":"7653732766","pt":1539531991005,"mc":[{"id":"1.149556910","rc":[{"ltp":1.69,"id":5617034},{"ltp":2.44,"id":2284304}]}]}
+{"op":"mcm","clk":"7653742775","pt":1539532050756,"mc":[{"id":"1.149556910","rc":[{"ltp":1.85,"id":5617034},{"ltp":2.16,"id":2284304}]}]}
+{"op":"mcm","clk":"7653752772","pt":1539532111034,"mc":[{"id":"1.149556910","rc":[{"ltp":2.06,"id":5617034},{"ltp":1.98,"id":2284304}]}]}
+{"op":"mcm","clk":"7653762065","pt":1539532170905,"mc":[{"id":"1.149556910","rc":[{"ltp":1.49,"id":5617034},{"ltp":3.15,"id":2284304}]}]}
+{"op":"mcm","clk":"7653771628","pt":1539532230567,"mc":[{"id":"1.149556910","rc":[{"ltp":1.37,"id":5617034},{"ltp":3.75,"id":2284304}]}]}
+{"op":"mcm","clk":"7653780918","pt":1539532290229,"mc":[{"id":"1.149556910","rc":[{"ltp":1.3,"id":5617034},{"ltp":4.2,"id":2284304}]}]}
+{"op":"mcm","clk":"7653799389","pt":1539532351082,"mc":[{"id":"1.149556910","rc":[{"ltp":1.35,"id":5617034},{"ltp":3.85,"id":2284304}]}]}
+{"op":"mcm","clk":"7653808025","pt":1539532410426,"mc":[{"id":"1.149556910","rc":[{"ltp":1.43,"id":5617034},{"ltp":3.5,"id":2284304}]}]}
+{"op":"mcm","clk":"7653816634","pt":1539532467419,"mc":[{"id":"1.149556910","rc":[{"ltp":1.34,"id":5617034}]}]}
+{"op":"mcm","clk":"7653826355","pt":1539532530651,"mc":[{"id":"1.149556910","rc":[{"ltp":1.74,"id":5617034},{"ltp":2.32,"id":2284304}]}]}
+{"op":"mcm","clk":"7653835649","pt":1539532591140,"mc":[{"id":"1.149556910","rc":[{"ltp":2.02,"id":5617034},{"ltp":1.97,"id":2284304}]}]}
+{"op":"mcm","clk":"7653844292","pt":1539532651024,"mc":[{"id":"1.149556910","rc":[{"ltp":2.5,"id":5617034},{"ltp":1.66,"id":2284304}]}]}
+{"op":"mcm","clk":"7653853331","pt":1539532710998,"mc":[{"id":"1.149556910","rc":[{"ltp":3.2,"id":5617034},{"ltp":1.47,"id":2284304}]}]}
+{"op":"mcm","clk":"7653862370","pt":1539532770495,"mc":[{"id":"1.149556910","rc":[{"ltp":3.1,"id":5617034}]}]}
+{"op":"mcm","clk":"7653871030","pt":1539532829249,"mc":[{"id":"1.149556910","rc":[{"ltp":3.05,"id":5617034}]}]}
+{"op":"mcm","clk":"7653880337","pt":1539532890860,"mc":[{"id":"1.149556910","rc":[{"ltp":2.9,"id":5617034},{"ltp":1.52,"id":2284304}]}]}
+{"op":"mcm","clk":"7653889667","pt":1539532951136,"mc":[{"id":"1.149556910","rc":[{"ltp":3.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7653899614","pt":1539533011020,"mc":[{"id":"1.149556910","rc":[{"ltp":2.96,"id":5617034}]}]}
+{"op":"mcm","clk":"7653909508","pt":1539533070404,"mc":[{"id":"1.149556910","rc":[{"ltp":3.0,"id":5617034},{"ltp":1.49,"id":2284304}]}]}
+{"op":"mcm","clk":"7653920367","pt":1539533131037,"mc":[{"id":"1.149556910","rc":[{"ltp":3.1,"id":5617034},{"ltp":1.5,"id":2284304}]}]}
+{"op":"mcm","clk":"7653931220","pt":1539533191122,"mc":[{"id":"1.149556910","rc":[{"ltp":3.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7653951079","pt":1539533249156,"mc":[{"id":"1.149556910","rc":[{"ltp":2.68,"id":5617034},{"ltp":1.6,"id":2284304}]}]}
+{"op":"mcm","clk":"7653965282","pt":1539533310491,"mc":[{"id":"1.149556910","rc":[{"ltp":2.58,"id":5617034},{"ltp":1.59,"id":2284304}]}]}
+{"op":"mcm","clk":"7653976812","pt":1539533370757,"mc":[{"id":"1.149556910","rc":[{"ltp":2.28,"id":5617034},{"ltp":1.6,"id":2284304}]}]}
+{"op":"mcm","clk":"7653987671","pt":1539533430228,"mc":[{"id":"1.149556910","rc":[{"ltp":2.9,"id":5617034},{"ltp":1.51,"id":2284304}]}]}
+{"op":"mcm","clk":"7653999452","pt":1539533490992,"mc":[{"id":"1.149556910","rc":[{"ltp":2.8,"id":5617034},{"ltp":1.54,"id":2284304}]}]}
+{"op":"mcm","clk":"7654011293","pt":1539533550993,"mc":[{"id":"1.149556910","rc":[{"ltp":3.35,"id":5617034},{"ltp":1.42,"id":2284304}]}]}
+{"op":"mcm","clk":"7654022819","pt":1539533611097,"mc":[{"id":"1.149556910","rc":[{"ltp":3.75,"id":5617034},{"ltp":1.47,"id":2284304}]}]}
+{"op":"mcm","clk":"7654033374","pt":1539533670856,"mc":[{"id":"1.149556910","rc":[{"ltp":3.2,"id":5617034},{"ltp":1.46,"id":2284304}]}]}
+{"op":"mcm","clk":"7654044275","pt":1539533729813,"mc":[{"id":"1.149556910","rc":[{"ltp":3.25,"id":5617034},{"ltp":1.44,"id":2284304}]}]}
+{"op":"mcm","clk":"7654055562","pt":1539533790970,"mc":[{"id":"1.149556910","rc":[{"ltp":4.0,"id":5617034},{"ltp":1.35,"id":2284304}]}]}
+{"op":"mcm","clk":"7654066218","pt":1539533850138,"mc":[{"id":"1.149556910","rc":[{"ltp":7.2,"id":5617034},{"ltp":1.16,"id":2284304}]}]}
+{"op":"mcm","clk":"7654087798","pt":1539533970308,"mc":[{"id":"1.149556910","rc":[{"ltp":9.2,"id":5617034}]}]}
+{"op":"mcm","clk":"7654098536","pt":1539534030457,"mc":[{"id":"1.149556910","rc":[{"ltp":10.0,"id":5617034},{"ltp":1.11,"id":2284304}]}]}
+{"op":"mcm","clk":"7654109141","pt":1539534090980,"mc":[{"id":"1.149556910","rc":[{"ltp":12.0,"id":5617034},{"ltp":1.08,"id":2284304}]}]}
+{"op":"mcm","clk":"7654128545","pt":1539534150839,"mc":[{"id":"1.149556910","rc":[{"ltp":13.5,"id":5617034}]}]}
+{"op":"mcm","clk":"7654139354","pt":1539534211054,"mc":[{"id":"1.149556910","rc":[{"ltp":26.0,"id":5617034},{"ltp":1.04,"id":2284304}]}]}
+{"op":"mcm","clk":"7654150122","pt":1539534269755,"mc":[{"id":"1.149556910","rc":[{"ltp":110.0,"id":5617034},{"ltp":1.01,"id":2284304}]}]}
+{"op":"mcm","clk":"7654161147","pt":1539534331027,"mc":[{"id":"1.149556910","rc":[{"ltp":50.0,"id":5617034},{"ltp":1.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7654180554","pt":1539534446148,"mc":[{"id":"1.149556910","rc":[{"ltp":140.0,"id":5617034},{"ltp":1.01,"id":2284304}]}]}
+{"op":"mcm","clk":"7654245586","pt":1539534811117,"mc":[{"id":"1.149556910","rc":[{"ltp":50.0,"id":5617034},{"ltp":1.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7654256567","pt":1539534870612,"mc":[{"id":"1.149556910","rc":[{"ltp":17.5,"id":5617034},{"ltp":1.06,"id":2284304}]}]}
+{"op":"mcm","clk":"7654266427","pt":1539534927713,"mc":[{"id":"1.149556910","rc":[{"ltp":15.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7654277797","pt":1539534990819,"mc":[{"id":"1.149556910","rc":[{"ltp":21.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7654296881","pt":1539535050560,"mc":[{"id":"1.149556910","rc":[{"ltp":17.5,"id":5617034},{"ltp":1.05,"id":2284304}]}]}
+{"op":"mcm","clk":"7654317362","pt":1539535170821,"mc":[{"id":"1.149556910","rc":[{"ltp":1.06,"id":2284304}]}]}
+{"op":"mcm","clk":"7654327339","pt":1539535229872,"mc":[{"id":"1.149556910","rc":[{"ltp":34.0,"id":5617034},{"ltp":1.03,"id":2284304}]}]}
+{"op":"mcm","clk":"7654337277","pt":1539535290148,"mc":[{"id":"1.149556910","rc":[{"ltp":26.0,"id":5617034},{"ltp":1.02,"id":2284304}]}]}
+{"op":"mcm","clk":"7654346486","pt":1539535346393,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:56:00.000Z","suspendTime":"2018-10-14T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"ACTIVE","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:56:00.000Z","version":2456053806,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"},"rc":[{"ltp":25.0,"id":5617034}]}]}
+{"op":"mcm","clk":"7654349636","pt":1539535365437,"mc":[{"id":"1.149556910","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28955911","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-14T14:56:00.000Z","suspendTime":"2018-10-14T14:56:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-14T16:42:34.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":5617034,"name":"Kenny De Schepper"},{"status":"WINNER","sortPriority":2,"id":2284304,"name":"Sergiy Stakhovsky"}],"regulators":["MR_INT"],"countryCode":"BE","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-14T14:56:00.000Z","version":2456059266,"name":"Match Odds","eventName":"De Schepper v Stakhovsky"}}]}

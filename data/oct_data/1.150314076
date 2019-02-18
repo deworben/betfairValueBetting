@@ -1,0 +1,98 @@
+{"op":"mcm","clk":"7759017835","pt":1540637985585,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2478039537,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7759141857","pt":1540638663807,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T09:00:00.000Z","suspendTime":"2018-10-28T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2478039537,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7767581496","pt":1540686525012,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T09:00:00.000Z","suspendTime":"2018-10-29T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T09:00:00.000Z","version":2480943918,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7767581830","pt":1540686527979,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T09:00:00.000Z","suspendTime":"2018-10-29T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T09:00:00.000Z","version":2480943918,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7770532509","pt":1540719956167,"mc":[{"id":"1.150314076","rc":[{"ltp":1.09,"id":21370952}]}]}
+{"op":"mcm","clk":"7775098479","pt":1540742924091,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T12:00:00.000Z","suspendTime":"2018-10-29T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T12:00:00.000Z","version":2482865767,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7780302917","pt":1540796145877,"mc":[{"id":"1.150314076","rc":[{"ltp":3.15,"id":21370952}]}]}
+{"op":"mcm","clk":"7780306495","pt":1540796235835,"mc":[{"id":"1.150314076","rc":[{"ltp":3.0,"id":21370952},{"ltp":1.5,"id":8176467}]}]}
+{"op":"mcm","clk":"7780358578","pt":1540797153332,"mc":[{"id":"1.150314076","rc":[{"ltp":1.46,"id":8176467}]}]}
+{"op":"mcm","clk":"7780964530","pt":1540806418503,"mc":[{"id":"1.150314076","rc":[{"ltp":1.48,"id":8176467}]}]}
+{"op":"mcm","clk":"7781000581","pt":1540806820254,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T11:49:00.000Z","suspendTime":"2018-10-29T11:49:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T11:49:00.000Z","version":2484427993,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7781043046","pt":1540807424984,"mc":[{"id":"1.150314076","rc":[{"ltp":2.74,"id":21370952}]}]}
+{"op":"mcm","clk":"7781135060","pt":1540808348797,"mc":[{"id":"1.150314076","rc":[{"ltp":3.1,"id":21370952},{"ltp":1.47,"id":8176467}]}]}
+{"op":"mcm","clk":"7781206779","pt":1540809073820,"mc":[{"id":"1.150314076","rc":[{"ltp":2.84,"id":21370952}]}]}
+{"op":"mcm","clk":"7781255241","pt":1540809512330,"mc":[{"id":"1.150314076","rc":[{"ltp":3.05,"id":21370952},{"ltp":1.48,"id":8176467}]}]}
+{"op":"mcm","clk":"7781336260","pt":1540810341790,"mc":[{"id":"1.150314076","rc":[{"ltp":3.35,"id":21370952},{"ltp":1.42,"id":8176467}]}]}
+{"op":"mcm","clk":"7781444545","pt":1540811654871,"mc":[{"id":"1.150314076","rc":[{"ltp":1.43,"id":8176467}]}]}
+{"op":"mcm","clk":"7781578159","pt":1540813120136,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T11:37:00.000Z","suspendTime":"2018-10-29T11:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T11:37:00.000Z","version":2484539014,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7781587139","pt":1540813238843,"mc":[{"id":"1.150314076","rc":[{"ltp":2.96,"id":21370952}]}]}
+{"op":"mcm","clk":"7781590854","pt":1540813300040,"mc":[{"id":"1.150314076","rc":[{"ltp":2.86,"id":21370952},{"ltp":1.54,"id":8176467}]}]}
+{"op":"mcm","clk":"7781594868","pt":1540813359834,"mc":[{"id":"1.150314076","rc":[{"ltp":2.68,"id":21370952}]}]}
+{"op":"mcm","clk":"7781599026","pt":1540813419976,"mc":[{"id":"1.150314076","rc":[{"ltp":2.94,"id":21370952},{"ltp":1.52,"id":8176467}]}]}
+{"op":"mcm","clk":"7781603306","pt":1540813480322,"mc":[{"id":"1.150314076","rc":[{"ltp":2.8,"id":21370952},{"ltp":1.56,"id":8176467}]}]}
+{"op":"mcm","clk":"7781607723","pt":1540813540597,"mc":[{"id":"1.150314076","rc":[{"ltp":1.51,"id":8176467}]}]}
+{"op":"mcm","clk":"7781621124","pt":1540813721689,"mc":[{"id":"1.150314076","rc":[{"ltp":1.5,"id":8176467}]}]}
+{"op":"mcm","clk":"7781624799","pt":1540813782091,"mc":[{"id":"1.150314076","rc":[{"ltp":1.49,"id":8176467}]}]}
+{"op":"mcm","clk":"7781654732","pt":1540814085622,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T11:37:00.000Z","suspendTime":"2018-10-29T11:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"ACTIVE","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T11:37:00.000Z","version":2484550720,"name":"Match Odds","eventName":"18742300"}}]}
+{"op":"mcm","clk":"7781657908","pt":1540814143372,"mc":[{"id":"1.150314076","rc":[{"ltp":2.62,"id":21370952},{"ltp":1.62,"id":8176467}]}]}
+{"op":"mcm","clk":"7781661121","pt":1540814205904,"mc":[{"id":"1.150314076","rc":[{"ltp":2.24,"id":21370952}]}]}
+{"op":"mcm","clk":"7781666769","pt":1540814321679,"mc":[{"id":"1.150314076","rc":[{"ltp":2.16,"id":21370952},{"ltp":1.86,"id":8176467}]}]}
+{"op":"mcm","clk":"7781670362","pt":1540814382178,"mc":[{"id":"1.150314076","rc":[{"ltp":2.06,"id":21370952},{"ltp":1.8,"id":8176467}]}]}
+{"op":"mcm","clk":"7781676475","pt":1540814504598,"mc":[{"id":"1.150314076","rc":[{"ltp":2.86,"id":21370952},{"ltp":1.54,"id":8176467}]}]}
+{"op":"mcm","clk":"7781679906","pt":1540814564715,"mc":[{"id":"1.150314076","rc":[{"ltp":3.2,"id":21370952},{"ltp":1.46,"id":8176467}]}]}
+{"op":"mcm","clk":"7781686535","pt":1540814679505,"mc":[{"id":"1.150314076","rc":[{"ltp":2.96,"id":21370952},{"ltp":1.51,"id":8176467}]}]}
+{"op":"mcm","clk":"7781689789","pt":1540814735098,"mc":[{"id":"1.150314076","rc":[{"ltp":1.47,"id":8176467}]}]}
+{"op":"mcm","clk":"7781693634","pt":1540814801538,"mc":[{"id":"1.150314076","rc":[{"ltp":2.86,"id":21370952},{"ltp":1.41,"id":8176467}]}]}
+{"op":"mcm","clk":"7781707401","pt":1540814853752,"mc":[{"id":"1.150314076","rc":[{"ltp":1.25,"id":8176467}]}]}
+{"op":"mcm","clk":"7781711455","pt":1540814917746,"mc":[{"id":"1.150314076","rc":[{"ltp":5.0,"id":21370952},{"ltp":1.24,"id":8176467}]}]}
+{"op":"mcm","clk":"7781715862","pt":1540814985272,"mc":[{"id":"1.150314076","rc":[{"ltp":5.8,"id":21370952},{"ltp":1.21,"id":8176467}]}]}
+{"op":"mcm","clk":"7781719301","pt":1540815043091,"mc":[{"id":"1.150314076","rc":[{"ltp":6.4,"id":21370952},{"ltp":1.18,"id":8176467}]}]}
+{"op":"mcm","clk":"7781722951","pt":1540815103257,"mc":[{"id":"1.150314076","rc":[{"ltp":4.7,"id":21370952},{"ltp":1.24,"id":8176467}]}]}
+{"op":"mcm","clk":"7781726339","pt":1540815163878,"mc":[{"id":"1.150314076","rc":[{"ltp":3.35,"id":21370952},{"ltp":1.4,"id":8176467}]}]}
+{"op":"mcm","clk":"7781729724","pt":1540815224039,"mc":[{"id":"1.150314076","rc":[{"ltp":3.4,"id":21370952},{"ltp":1.42,"id":8176467}]}]}
+{"op":"mcm","clk":"7781733571","pt":1540815285932,"mc":[{"id":"1.150314076","rc":[{"ltp":3.75,"id":21370952},{"ltp":1.36,"id":8176467}]}]}
+{"op":"mcm","clk":"7781737074","pt":1540815344887,"mc":[{"id":"1.150314076","rc":[{"ltp":3.9,"id":21370952}]}]}
+{"op":"mcm","clk":"7781743196","pt":1540815465728,"mc":[{"id":"1.150314076","rc":[{"ltp":2.96,"id":21370952},{"ltp":1.45,"id":8176467}]}]}
+{"op":"mcm","clk":"7781746588","pt":1540815525780,"mc":[{"id":"1.150314076","rc":[{"ltp":3.15,"id":21370952},{"ltp":1.46,"id":8176467}]}]}
+{"op":"mcm","clk":"7781749485","pt":1540815574703,"mc":[{"id":"1.150314076","rc":[{"ltp":2.78,"id":21370952},{"ltp":1.56,"id":8176467}]}]}
+{"op":"mcm","clk":"7781753546","pt":1540815641531,"mc":[{"id":"1.150314076","rc":[{"ltp":3.35,"id":21370952},{"ltp":1.49,"id":8176467}]}]}
+{"op":"mcm","clk":"7781757046","pt":1540815695837,"mc":[{"id":"1.150314076","rc":[{"ltp":1.43,"id":8176467}]}]}
+{"op":"mcm","clk":"7781771214","pt":1540815761117,"mc":[{"id":"1.150314076","rc":[{"ltp":1.42,"id":8176467}]}]}
+{"op":"mcm","clk":"7781774879","pt":1540815823866,"mc":[{"id":"1.150314076","rc":[{"ltp":2.96,"id":21370952},{"ltp":1.51,"id":8176467}]}]}
+{"op":"mcm","clk":"7781778281","pt":1540815884973,"mc":[{"id":"1.150314076","rc":[{"ltp":1.69,"id":8176467}]}]}
+{"op":"mcm","clk":"7781781381","pt":1540815945302,"mc":[{"id":"1.150314076","rc":[{"ltp":1.86,"id":21370952},{"ltp":1.86,"id":8176467}]}]}
+{"op":"mcm","clk":"7781784206","pt":1540816002096,"mc":[{"id":"1.150314076","rc":[{"ltp":1.92,"id":8176467}]}]}
+{"op":"mcm","clk":"7781787078","pt":1540816063574,"mc":[{"id":"1.150314076","rc":[{"ltp":1.74,"id":21370952},{"ltp":2.4,"id":8176467}]}]}
+{"op":"mcm","clk":"7781792840","pt":1540816182433,"mc":[{"id":"1.150314076","rc":[{"ltp":1.96,"id":21370952},{"ltp":2.08,"id":8176467}]}]}
+{"op":"mcm","clk":"7781795809","pt":1540816245789,"mc":[{"id":"1.150314076","rc":[{"ltp":1.71,"id":8176467}]}]}
+{"op":"mcm","clk":"7781798769","pt":1540816305887,"mc":[{"id":"1.150314076","rc":[{"ltp":2.66,"id":21370952}]}]}
+{"op":"mcm","clk":"7781802127","pt":1540816365910,"mc":[{"id":"1.150314076","rc":[{"ltp":2.92,"id":21370952},{"ltp":1.53,"id":8176467}]}]}
+{"op":"mcm","clk":"7781805903","pt":1540816425839,"mc":[{"id":"1.150314076","rc":[{"ltp":3.3,"id":21370952},{"ltp":1.44,"id":8176467}]}]}
+{"op":"mcm","clk":"7781809241","pt":1540816481694,"mc":[{"id":"1.150314076","rc":[{"ltp":3.4,"id":21370952},{"ltp":1.42,"id":8176467}]}]}
+{"op":"mcm","clk":"7781813162","pt":1540816544278,"mc":[{"id":"1.150314076","rc":[{"ltp":1.4,"id":8176467}]}]}
+{"op":"mcm","clk":"7781816324","pt":1540816603300,"mc":[{"id":"1.150314076","rc":[{"ltp":2.8,"id":21370952},{"ltp":1.53,"id":8176467}]}]}
+{"op":"mcm","clk":"7781829528","pt":1540816660372,"mc":[{"id":"1.150314076","rc":[{"ltp":2.64,"id":21370952},{"ltp":1.61,"id":8176467}]}]}
+{"op":"mcm","clk":"7781833010","pt":1540816722866,"mc":[{"id":"1.150314076","rc":[{"ltp":2.3,"id":21370952},{"ltp":1.91,"id":8176467}]}]}
+{"op":"mcm","clk":"7781836369","pt":1540816785427,"mc":[{"id":"1.150314076","rc":[{"ltp":2.32,"id":21370952},{"ltp":1.76,"id":8176467}]}]}
+{"op":"mcm","clk":"7781842310","pt":1540816902175,"mc":[{"id":"1.150314076","rc":[{"ltp":3.05,"id":21370952},{"ltp":1.32,"id":8176467}]}]}
+{"op":"mcm","clk":"7781845624","pt":1540816963936,"mc":[{"id":"1.150314076","rc":[{"ltp":3.4,"id":21370952},{"ltp":1.41,"id":8176467}]}]}
+{"op":"mcm","clk":"7781848834","pt":1540817025422,"mc":[{"id":"1.150314076","rc":[{"ltp":4.2,"id":21370952},{"ltp":1.19,"id":8176467}]}]}
+{"op":"mcm","clk":"7781851621","pt":1540817083822,"mc":[{"id":"1.150314076","rc":[{"ltp":6.8,"id":21370952}]}]}
+{"op":"mcm","clk":"7781854584","pt":1540817145455,"mc":[{"id":"1.150314076","rc":[{"ltp":6.2,"id":21370952}]}]}
+{"op":"mcm","clk":"7781857918","pt":1540817205929,"mc":[{"id":"1.150314076","rc":[{"ltp":5.0,"id":21370952},{"ltp":1.18,"id":8176467}]}]}
+{"op":"mcm","clk":"7781861813","pt":1540817265932,"mc":[{"id":"1.150314076","rc":[{"ltp":5.7,"id":21370952},{"ltp":1.21,"id":8176467}]}]}
+{"op":"mcm","clk":"7781865760","pt":1540817325259,"mc":[{"id":"1.150314076","rc":[{"ltp":12.0,"id":21370952},{"ltp":1.09,"id":8176467}]}]}
+{"op":"mcm","clk":"7781872568","pt":1540817441325,"mc":[{"id":"1.150314076","rc":[{"ltp":1.06,"id":8176467}]}]}
+{"op":"mcm","clk":"7781876578","pt":1540817504269,"mc":[{"id":"1.150314076","rc":[{"ltp":1.04,"id":8176467}]}]}
+{"op":"mcm","clk":"7781890491","pt":1540817564876,"mc":[{"id":"1.150314076","rc":[{"ltp":1.03,"id":8176467}]}]}
+{"op":"mcm","clk":"7781898103","pt":1540817684740,"mc":[{"id":"1.150314076","rc":[{"ltp":30.0,"id":21370952}]}]}
+{"op":"mcm","clk":"7781901403","pt":1540817741954,"mc":[{"id":"1.150314076","rc":[{"ltp":17.5,"id":21370952},{"ltp":1.07,"id":8176467}]}]}
+{"op":"mcm","clk":"7781904389","pt":1540817801857,"mc":[{"id":"1.150314076","rc":[{"ltp":21.0,"id":21370952},{"ltp":1.05,"id":8176467}]}]}
+{"op":"mcm","clk":"7781907682","pt":1540817863937,"mc":[{"id":"1.150314076","rc":[{"ltp":1.06,"id":8176467}]}]}
+{"op":"mcm","clk":"7781910672","pt":1540817924421,"mc":[{"id":"1.150314076","rc":[{"ltp":13.5,"id":21370952},{"ltp":1.08,"id":8176467}]}]}
+{"op":"mcm","clk":"7781913875","pt":1540817985181,"mc":[{"id":"1.150314076","rc":[{"ltp":8.6,"id":21370952},{"ltp":1.13,"id":8176467}]}]}
+{"op":"mcm","clk":"7781917761","pt":1540818045378,"mc":[{"id":"1.150314076","rc":[{"ltp":1.04,"id":8176467}]}]}
+{"op":"mcm","clk":"7781921744","pt":1540818104857,"mc":[{"id":"1.150314076","rc":[{"ltp":1.02,"id":8176467}]}]}
+{"op":"mcm","clk":"7781926066","pt":1540818165734,"mc":[{"id":"1.150314076","rc":[{"ltp":1.05,"id":8176467}]}]}
+{"op":"mcm","clk":"7781930753","pt":1540818224441,"mc":[{"id":"1.150314076","rc":[{"ltp":1.01,"id":8176467}]}]}
+{"op":"mcm","clk":"7781935500","pt":1540818282952,"mc":[{"id":"1.150314076","rc":[{"ltp":100.0,"id":21370952}]}]}
+{"op":"mcm","clk":"7781944444","pt":1540818403059,"mc":[{"id":"1.150314076","rc":[{"ltp":190.0,"id":21370952}]}]}
+{"op":"mcm","clk":"7781973539","pt":1540818644676,"mc":[{"id":"1.150314076","rc":[{"ltp":110.0,"id":21370952},{"ltp":1.02,"id":8176467}]}]}
+{"op":"mcm","clk":"7781978319","pt":1540818705916,"mc":[{"id":"1.150314076","rc":[{"ltp":36.0,"id":21370952},{"ltp":1.03,"id":8176467}]}]}
+{"op":"mcm","clk":"7781982700","pt":1540818765940,"mc":[{"id":"1.150314076","rc":[{"ltp":21.0,"id":21370952},{"ltp":1.05,"id":8176467}]}]}
+{"op":"mcm","clk":"7781987413","pt":1540818825625,"mc":[{"id":"1.150314076","rc":[{"ltp":1.06,"id":8176467}]}]}
+{"op":"mcm","clk":"7781997530","pt":1540818945887,"mc":[{"id":"1.150314076","rc":[{"ltp":13.5,"id":21370952},{"ltp":1.1,"id":8176467}]}]}
+{"op":"mcm","clk":"7782002574","pt":1540819005487,"mc":[{"id":"1.150314076","rc":[{"ltp":9.0,"id":21370952},{"ltp":1.13,"id":8176467}]}]}
+{"op":"mcm","clk":"7782007605","pt":1540819065820,"mc":[{"id":"1.150314076","rc":[{"ltp":50.0,"id":21370952},{"ltp":1.03,"id":8176467}]}]}
+{"op":"mcm","clk":"7782012025","pt":1540819119506,"mc":[{"id":"1.150314076","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28979335","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T11:37:00.000Z","suspendTime":"2018-10-29T11:37:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T13:18:33.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8176467,"name":"Rojer/Tecau"},{"status":"LOSER","sortPriority":2,"id":21370952,"name":"18742299"}],"regulators":["MR_INT"],"countryCode":"FR","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T11:37:00.000Z","version":2484617739,"name":"Match Odds","eventName":"18742300"}}]}

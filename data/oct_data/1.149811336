@@ -1,0 +1,66 @@
+{"op":"mcm","clk":"7750737366","pt":1539904520772,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"ACTIVE","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:00:00.000Z","version":2461005245,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"}}]}
+{"op":"mcm","clk":"7750760758","pt":1539904648326,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"ACTIVE","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:00:00.000Z","version":2461005245,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"}}]}
+{"op":"mcm","clk":"7751131226","pt":1539910518521,"mc":[{"id":"1.149811336","rc":[{"ltp":1.6,"id":9630182},{"ltp":2.68,"id":11152243}]}]}
+{"op":"mcm","clk":"7751191772","pt":1539911143015,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"ACTIVE","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:00:00.000Z","version":2461086185,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"}}]}
+{"op":"mcm","clk":"7751220692","pt":1539911611544,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"ACTIVE","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:13:13.000Z","version":2461091587,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"}}]}
+{"op":"mcm","clk":"7751228692","pt":1539911731408,"mc":[{"id":"1.149811336","rc":[{"ltp":3.25,"id":11152243}]}]}
+{"op":"mcm","clk":"7751267534","pt":1539912102933,"mc":[{"id":"1.149811336","rc":[{"ltp":3.05,"id":11152243}]}]}
+{"op":"mcm","clk":"7751268416","pt":1539912118915,"mc":[{"id":"1.149811336","rc":[{"ltp":3.3,"id":11152243}]}]}
+{"op":"mcm","clk":"7751273475","pt":1539912213812,"mc":[{"id":"1.149811336","rc":[{"ltp":1.36,"id":9630182}]}]}
+{"op":"mcm","clk":"7751277059","pt":1539912281782,"mc":[{"id":"1.149811336","rc":[{"ltp":1.23,"id":9630182}]}]}
+{"op":"mcm","clk":"7751280272","pt":1539912341417,"mc":[{"id":"1.149811336","rc":[{"ltp":1.36,"id":9630182},{"ltp":3.75,"id":11152243}]}]}
+{"op":"mcm","clk":"7751290083","pt":1539912509424,"mc":[{"id":"1.149811336","rc":[{"ltp":1.3,"id":9630182}]}]}
+{"op":"mcm","clk":"7751295807","pt":1539912610001,"mc":[{"id":"1.149811336","rc":[{"ltp":1.36,"id":9630182}]}]}
+{"op":"mcm","clk":"7751346643","pt":1539913242515,"mc":[{"id":"1.149811336","rc":[{"ltp":1.64,"id":9630182},{"ltp":2.56,"id":11152243}]}]}
+{"op":"mcm","clk":"7751349606","pt":1539913301914,"mc":[{"id":"1.149811336","rc":[{"ltp":1.41,"id":9630182}]}]}
+{"op":"mcm","clk":"7751353874","pt":1539913392831,"mc":[{"id":"1.149811336","rc":[{"ltp":1.37,"id":9630182}]}]}
+{"op":"mcm","clk":"7751397575","pt":1539913874456,"mc":[{"id":"1.149811336","rc":[{"ltp":3.55,"id":11152243}]}]}
+{"op":"mcm","clk":"7751462161","pt":1539914733589,"mc":[{"id":"1.149811336","rc":[{"ltp":3.25,"id":11152243}]}]}
+{"op":"mcm","clk":"7751466655","pt":1539914802429,"mc":[{"id":"1.149811336","rc":[{"ltp":1.57,"id":9630182},{"ltp":2.64,"id":11152243}]}]}
+{"op":"mcm","clk":"7751470044","pt":1539914862510,"mc":[{"id":"1.149811336","rc":[{"ltp":2.76,"id":11152243}]}]}
+{"op":"mcm","clk":"7751491551","pt":1539915221458,"mc":[{"id":"1.149811336","rc":[{"ltp":1.58,"id":9630182}]}]}
+{"op":"mcm","clk":"7751500372","pt":1539915369688,"mc":[{"id":"1.149811336","rc":[{"ltp":1.57,"id":9630182}]}]}
+{"op":"mcm","clk":"7751528535","pt":1539915584807,"mc":[{"id":"1.149811336","rc":[{"ltp":1.51,"id":9630182},{"ltp":2.96,"id":11152243}]}]}
+{"op":"mcm","clk":"7751531785","pt":1539915642783,"mc":[{"id":"1.149811336","rc":[{"ltp":1.44,"id":9630182},{"ltp":3.3,"id":11152243}]}]}
+{"op":"mcm","clk":"7751535524","pt":1539915704479,"mc":[{"id":"1.149811336","rc":[{"ltp":1.26,"id":9630182}]}]}
+{"op":"mcm","clk":"7751545060","pt":1539915879359,"mc":[{"id":"1.149811336","rc":[{"ltp":3.8,"id":11152243}]}]}
+{"op":"mcm","clk":"7751551372","pt":1539916004822,"mc":[{"id":"1.149811336","rc":[{"ltp":1.63,"id":9630182},{"ltp":2.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751553432","pt":1539916044774,"mc":[{"id":"1.149811336","rc":[{"ltp":2.22,"id":11152243}]}]}
+{"op":"mcm","clk":"7751557598","pt":1539916124293,"mc":[{"id":"1.149811336","rc":[{"ltp":1.45,"id":9630182}]}]}
+{"op":"mcm","clk":"7751560542","pt":1539916175289,"mc":[{"id":"1.149811336","rc":[{"ltp":1.5,"id":9630182}]}]}
+{"op":"mcm","clk":"7751565057","pt":1539916244284,"mc":[{"id":"1.149811336","rc":[{"ltp":1.58,"id":9630182}]}]}
+{"op":"mcm","clk":"7751569063","pt":1539916304756,"mc":[{"id":"1.149811336","rc":[{"ltp":1.4,"id":9630182}]}]}
+{"op":"mcm","clk":"7751589872","pt":1539916359709,"mc":[{"id":"1.149811336","rc":[{"ltp":3.25,"id":11152243}]}]}
+{"op":"mcm","clk":"7751599647","pt":1539916479313,"mc":[{"id":"1.149811336","rc":[{"ltp":1.26,"id":9630182}]}]}
+{"op":"mcm","clk":"7751635453","pt":1539917133733,"mc":[{"id":"1.149811336","rc":[{"ltp":1.2,"id":9630182}]}]}
+{"op":"mcm","clk":"7751661732","pt":1539917310951,"mc":[{"id":"1.149811336","rc":[{"ltp":1.11,"id":9630182}]}]}
+{"op":"mcm","clk":"7751670972","pt":1539917500564,"mc":[{"id":"1.149811336","rc":[{"ltp":1.08,"id":9630182}]}]}
+{"op":"mcm","clk":"7751676861","pt":1539917643780,"mc":[{"id":"1.149811336","rc":[{"ltp":1.07,"id":9630182}]}]}
+{"op":"mcm","clk":"7751680664","pt":1539917742675,"mc":[{"id":"1.149811336","rc":[{"ltp":1.11,"id":9630182},{"ltp":10.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751691192","pt":1539917981693,"mc":[{"id":"1.149811336","rc":[{"ltp":1.15,"id":9630182}]}]}
+{"op":"mcm","clk":"7751693151","pt":1539918032453,"mc":[{"id":"1.149811336","rc":[{"ltp":1.18,"id":9630182}]}]}
+{"op":"mcm","clk":"7751723164","pt":1539918284672,"mc":[{"id":"1.149811336","rc":[{"ltp":1.21,"id":9630182}]}]}
+{"op":"mcm","clk":"7751725469","pt":1539918337352,"mc":[{"id":"1.149811336","rc":[{"ltp":4.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751728578","pt":1539918402084,"mc":[{"id":"1.149811336","rc":[{"ltp":1.12,"id":9630182},{"ltp":7.2,"id":11152243}]}]}
+{"op":"mcm","clk":"7751731563","pt":1539918464721,"mc":[{"id":"1.149811336","rc":[{"ltp":1.14,"id":9630182}]}]}
+{"op":"mcm","clk":"7751733866","pt":1539918521198,"mc":[{"id":"1.149811336","rc":[{"ltp":1.13,"id":9630182},{"ltp":8.2,"id":11152243}]}]}
+{"op":"mcm","clk":"7751740238","pt":1539918644874,"mc":[{"id":"1.149811336","rc":[{"ltp":1.12,"id":9630182},{"ltp":9.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751743019","pt":1539918702832,"mc":[{"id":"1.149811336","rc":[{"ltp":1.08,"id":9630182},{"ltp":8.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751746141","pt":1539918764548,"mc":[{"id":"1.149811336","rc":[{"ltp":1.17,"id":9630182},{"ltp":6.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751749214","pt":1539918823594,"mc":[{"id":"1.149811336","rc":[{"ltp":1.16,"id":9630182}]}]}
+{"op":"mcm","clk":"7751751745","pt":1539918877472,"mc":[{"id":"1.149811336","rc":[{"ltp":8.6,"id":11152243}]}]}
+{"op":"mcm","clk":"7751755005","pt":1539918944815,"mc":[{"id":"1.149811336","rc":[{"ltp":1.11,"id":9630182},{"ltp":10.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751758612","pt":1539919003644,"mc":[{"id":"1.149811336","rc":[{"ltp":1.03,"id":9630182},{"ltp":13.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751778552","pt":1539919055629,"mc":[{"id":"1.149811336","rc":[{"ltp":22.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751782239","pt":1539919124346,"mc":[{"id":"1.149811336","rc":[{"ltp":13.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751784654","pt":1539919174719,"mc":[{"id":"1.149811336","rc":[{"ltp":1.02,"id":9630182},{"ltp":34.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751794685","pt":1539919362816,"mc":[{"id":"1.149811336","rc":[{"ltp":1.04,"id":9630182}]}]}
+{"op":"mcm","clk":"7751800577","pt":1539919483575,"mc":[{"id":"1.149811336","rc":[{"ltp":1.07,"id":9630182},{"ltp":15.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751803409","pt":1539919543115,"mc":[{"id":"1.149811336","rc":[{"ltp":1.04,"id":9630182},{"ltp":26.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751805995","pt":1539919602475,"mc":[{"id":"1.149811336","rc":[{"ltp":1.07,"id":9630182},{"ltp":15.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751808540","pt":1539919664421,"mc":[{"id":"1.149811336","rc":[{"ltp":1.09,"id":9630182},{"ltp":12.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751813275","pt":1539919781718,"mc":[{"id":"1.149811336","rc":[{"ltp":1.05,"id":9630182},{"ltp":22.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751815754","pt":1539919839988,"mc":[{"id":"1.149811336","rc":[{"ltp":1.02,"id":9630182},{"ltp":4.5,"id":11152243}]}]}
+{"op":"mcm","clk":"7751838441","pt":1539919964512,"mc":[{"id":"1.149811336","rc":[{"ltp":1.01,"id":9630182},{"ltp":34.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751842762","pt":1539920078133,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"ACTIVE","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:13:13.000Z","version":2461165200,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"},"rc":[{"ltp":1000.0,"id":11152243}]}]}
+{"op":"mcm","clk":"7751843449","pt":1539920093845,"mc":[{"id":"1.149811336","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28962792","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-19T01:00:00.000Z","suspendTime":"2018-10-19T01:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-19T03:34:51.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":11152243,"name":"M Yudanov"},{"status":"WINNER","sortPriority":2,"id":9630182,"name":"M Ayukawa"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2018-10-19T01:13:13.000Z","version":2461165593,"name":"Match Odds","eventName":"M Yudanov v M Ayukawa"}}]}

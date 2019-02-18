@@ -1,0 +1,126 @@
+{"op":"mcm","clk":"7838101777","pt":1540666874584,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480241387,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7838187321","pt":1540667256943,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-28T15:00:00.000Z","suspendTime":"2018-10-28T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-28T15:00:00.000Z","version":2480241387,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7840501611","pt":1540686582477,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T15:00:00.000Z","suspendTime":"2018-10-29T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T15:00:00.000Z","version":2480954009,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7851559983","pt":1540759428547,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:30:00.000Z","suspendTime":"2018-10-29T19:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:30:00.000Z","version":2483822258,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7852162560","pt":1540764463198,"mc":[{"id":"1.150332592","rc":[{"ltp":1.62,"id":8257862}]}]}
+{"op":"mcm","clk":"7854926515","pt":1540812607922,"mc":[{"id":"1.150332592","rc":[{"ltp":1.61,"id":8257862}]}]}
+{"op":"mcm","clk":"7855210884","pt":1540815018149,"mc":[{"id":"1.150332592","rc":[{"ltp":1.6,"id":8257862}]}]}
+{"op":"mcm","clk":"7855392000","pt":1540816338831,"mc":[{"id":"1.150332592","rc":[{"ltp":2.68,"id":10410214}]}]}
+{"op":"mcm","clk":"7855462826","pt":1540816937933,"mc":[{"id":"1.150332592","rc":[{"ltp":1.58,"id":8257862}]}]}
+{"op":"mcm","clk":"7856131958","pt":1540822560606,"mc":[{"id":"1.150332592","rc":[{"ltp":2.72,"id":10410214}]}]}
+{"op":"mcm","clk":"7856150405","pt":1540822638462,"mc":[{"id":"1.150332592","rc":[{"ltp":1.49,"id":8257862}]}]}
+{"op":"mcm","clk":"7856258540","pt":1540823597531,"mc":[{"id":"1.150332592","rc":[{"ltp":2.96,"id":10410214}]}]}
+{"op":"mcm","clk":"7856262937","pt":1540823639196,"mc":[{"id":"1.150332592","rc":[{"ltp":1.47,"id":8257862}]}]}
+{"op":"mcm","clk":"7856347607","pt":1540824351820,"mc":[{"id":"1.150332592","rc":[{"ltp":3.35,"id":10410214},{"ltp":1.43,"id":8257862}]}]}
+{"op":"mcm","clk":"7857181180","pt":1540831750781,"mc":[{"id":"1.150332592","rc":[{"ltp":1.41,"id":8257862}]}]}
+{"op":"mcm","clk":"7857430701","pt":1540834127917,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:45:00.000Z","suspendTime":"2018-10-29T19:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:45:00.000Z","version":2484858046,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7857529157","pt":1540835026141,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T20:00:00.000Z","suspendTime":"2018-10-29T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T20:00:00.000Z","version":2484871141,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7857619641","pt":1540835927098,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:55:00.000Z","suspendTime":"2018-10-29T19:55:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:55:00.000Z","version":2484885848,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7857926546","pt":1540838477296,"mc":[{"id":"1.150332592","rc":[{"ltp":3.4,"id":10410214},{"ltp":1.37,"id":8257862}]}]}
+{"op":"mcm","clk":"7857933060","pt":1540838537960,"mc":[{"id":"1.150332592","rc":[{"ltp":4.5,"id":10410214},{"ltp":1.42,"id":8257862}]}]}
+{"op":"mcm","clk":"7857939939","pt":1540838598158,"mc":[{"id":"1.150332592","rc":[{"ltp":1.41,"id":8257862}]}]}
+{"op":"mcm","clk":"7857945813","pt":1540838652026,"mc":[{"id":"1.150332592","rc":[{"ltp":3.45,"id":10410214}]}]}
+{"op":"mcm","clk":"7858004622","pt":1540839135772,"mc":[{"id":"1.150332592","rc":[{"ltp":3.35,"id":10410214}]}]}
+{"op":"mcm","clk":"7858300966","pt":1540841475644,"mc":[{"id":"1.150332592","rc":[{"ltp":1.4,"id":8257862}]}]}
+{"op":"mcm","clk":"7858399274","pt":1540842198604,"mc":[{"id":"1.150332592","rc":[{"ltp":3.3,"id":10410214}]}]}
+{"op":"mcm","clk":"7858404085","pt":1540842237525,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:40:00.000Z","suspendTime":"2018-10-29T19:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:40:00.000Z","version":2485057078,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7858461165","pt":1540842609166,"mc":[{"id":"1.150332592","rc":[{"ltp":3.25,"id":10410214},{"ltp":1.44,"id":8257862}]}]}
+{"op":"mcm","clk":"7858480410","pt":1540842797033,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:40:00.000Z","suspendTime":"2018-10-29T19:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:40:00.000Z","version":2485082322,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7858486662","pt":1540842858012,"mc":[{"id":"1.150332592","rc":[{"ltp":3.65,"id":10410214},{"ltp":1.38,"id":8257862}]}]}
+{"op":"mcm","clk":"7858491691","pt":1540842904315,"mc":[{"id":"1.150332592","rc":[{"ltp":1.36,"id":8257862}]}]}
+{"op":"mcm","clk":"7858499270","pt":1540842976682,"mc":[{"id":"1.150332592","rc":[{"ltp":4.0,"id":10410214},{"ltp":1.35,"id":8257862}]}]}
+{"op":"mcm","clk":"7858511782","pt":1540843097249,"mc":[{"id":"1.150332592","rc":[{"ltp":4.4,"id":10410214},{"ltp":1.3,"id":8257862}]}]}
+{"op":"mcm","clk":"7858517775","pt":1540843156596,"mc":[{"id":"1.150332592","rc":[{"ltp":6.0,"id":10410214},{"ltp":1.25,"id":8257862}]}]}
+{"op":"mcm","clk":"7858548997","pt":1540843337459,"mc":[{"id":"1.150332592","rc":[{"ltp":3.9,"id":10410214},{"ltp":1.36,"id":8257862}]}]}
+{"op":"mcm","clk":"7858555482","pt":1540843397067,"mc":[{"id":"1.150332592","rc":[{"ltp":1.39,"id":8257862}]}]}
+{"op":"mcm","clk":"7858562187","pt":1540843458390,"mc":[{"id":"1.150332592","rc":[{"ltp":1.34,"id":8257862}]}]}
+{"op":"mcm","clk":"7858573855","pt":1540843554953,"mc":[{"id":"1.150332592","rc":[{"ltp":1.33,"id":8257862}]}]}
+{"op":"mcm","clk":"7858583201","pt":1540843637996,"mc":[{"id":"1.150332592","rc":[{"ltp":1.36,"id":8257862}]}]}
+{"op":"mcm","clk":"7858589920","pt":1540843698648,"mc":[{"id":"1.150332592","rc":[{"ltp":1.32,"id":8257862}]}]}
+{"op":"mcm","clk":"7858610293","pt":1540843875129,"mc":[{"id":"1.150332592","rc":[{"ltp":4.3,"id":10410214},{"ltp":1.3,"id":8257862}]}]}
+{"op":"mcm","clk":"7858617797","pt":1540843937560,"mc":[{"id":"1.150332592","rc":[{"ltp":1.23,"id":8257862}]}]}
+{"op":"mcm","clk":"7858624702","pt":1540843996177,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.24,"id":8257862}]}]}
+{"op":"mcm","clk":"7858631393","pt":1540844057955,"mc":[{"id":"1.150332592","rc":[{"ltp":4.8,"id":10410214},{"ltp":1.29,"id":8257862}]}]}
+{"op":"mcm","clk":"7858638300","pt":1540844117825,"mc":[{"id":"1.150332592","rc":[{"ltp":1.38,"id":8257862}]}]}
+{"op":"mcm","clk":"7858645328","pt":1540844178027,"mc":[{"id":"1.150332592","rc":[{"ltp":3.95,"id":10410214},{"ltp":1.34,"id":8257862}]}]}
+{"op":"mcm","clk":"7858664300","pt":1540844238102,"mc":[{"id":"1.150332592","rc":[{"ltp":1.39,"id":8257862}]}]}
+{"op":"mcm","clk":"7858670815","pt":1540844298229,"mc":[{"id":"1.150332592","rc":[{"ltp":1.33,"id":8257862}]}]}
+{"op":"mcm","clk":"7858677385","pt":1540844358584,"mc":[{"id":"1.150332592","rc":[{"ltp":4.3,"id":10410214},{"ltp":1.3,"id":8257862}]}]}
+{"op":"mcm","clk":"7858684026","pt":1540844418549,"mc":[{"id":"1.150332592","rc":[{"ltp":4.4,"id":10410214},{"ltp":1.29,"id":8257862}]}]}
+{"op":"mcm","clk":"7858690172","pt":1540844475809,"mc":[{"id":"1.150332592","rc":[{"ltp":3.8,"id":10410214},{"ltp":1.39,"id":8257862}]}]}
+{"op":"mcm","clk":"7858696337","pt":1540844538564,"mc":[{"id":"1.150332592","rc":[{"ltp":3.75,"id":10410214},{"ltp":1.37,"id":8257862}]}]}
+{"op":"mcm","clk":"7858701869","pt":1540844597727,"mc":[{"id":"1.150332592","rc":[{"ltp":3.5,"id":10410214},{"ltp":1.4,"id":8257862}]}]}
+{"op":"mcm","clk":"7858707469","pt":1540844657493,"mc":[{"id":"1.150332592","rc":[{"ltp":4.0,"id":10410214},{"ltp":1.36,"id":8257862}]}]}
+{"op":"mcm","clk":"7858713429","pt":1540844718193,"mc":[{"id":"1.150332592","rc":[{"ltp":1.37,"id":8257862}]}]}
+{"op":"mcm","clk":"7858719022","pt":1540844773553,"mc":[{"id":"1.150332592","rc":[{"ltp":1.33,"id":8257862}]}]}
+{"op":"mcm","clk":"7858724844","pt":1540844835868,"mc":[{"id":"1.150332592","rc":[{"ltp":4.4,"id":10410214},{"ltp":1.28,"id":8257862}]}]}
+{"op":"mcm","clk":"7858731281","pt":1540844898133,"mc":[{"id":"1.150332592","rc":[{"ltp":4.3,"id":10410214}]}]}
+{"op":"mcm","clk":"7858738018","pt":1540844958611,"mc":[{"id":"1.150332592","rc":[{"ltp":4.8,"id":10410214},{"ltp":1.26,"id":8257862}]}]}
+{"op":"mcm","clk":"7858744053","pt":1540845018302,"mc":[{"id":"1.150332592","rc":[{"ltp":4.1,"id":10410214}]}]}
+{"op":"mcm","clk":"7858749569","pt":1540845076338,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.31,"id":8257862}]}]}
+{"op":"mcm","clk":"7858767149","pt":1540845138595,"mc":[{"id":"1.150332592","rc":[{"ltp":3.6,"id":10410214},{"ltp":1.35,"id":8257862}]}]}
+{"op":"mcm","clk":"7858772909","pt":1540845197507,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.31,"id":8257862}]}]}
+{"op":"mcm","clk":"7858778749","pt":1540845258327,"mc":[{"id":"1.150332592","rc":[{"ltp":1.29,"id":8257862}]}]}
+{"op":"mcm","clk":"7858784729","pt":1540845317591,"mc":[{"id":"1.150332592","rc":[{"ltp":5.3,"id":10410214},{"ltp":1.23,"id":8257862}]}]}
+{"op":"mcm","clk":"7858791172","pt":1540845378389,"mc":[{"id":"1.150332592","rc":[{"ltp":1.11,"id":8257862}]}]}
+{"op":"mcm","clk":"7858803748","pt":1540845498358,"mc":[{"id":"1.150332592","rc":[{"ltp":11.0,"id":10410214},{"ltp":1.1,"id":8257862}]}]}
+{"op":"mcm","clk":"7858809590","pt":1540845558239,"mc":[{"id":"1.150332592","rc":[{"ltp":1.11,"id":8257862}]}]}
+{"op":"mcm","clk":"7858815442","pt":1540845616524,"mc":[{"id":"1.150332592","rc":[{"ltp":12.0,"id":10410214},{"ltp":1.09,"id":8257862}]}]}
+{"op":"mcm","clk":"7858821460","pt":1540845678096,"mc":[{"id":"1.150332592","rc":[{"ltp":1.1,"id":8257862}]}]}
+{"op":"mcm","clk":"7858834359","pt":1540845798071,"mc":[{"id":"1.150332592","rc":[{"ltp":1.08,"id":8257862}]}]}
+{"op":"mcm","clk":"7858840748","pt":1540845856619,"mc":[{"id":"1.150332592","rc":[{"ltp":15.0,"id":10410214}]}]}
+{"op":"mcm","clk":"7858846024","pt":1540845916935,"mc":[{"id":"1.150332592","rc":[{"ltp":13.5,"id":10410214},{"ltp":1.1,"id":8257862}]}]}
+{"op":"mcm","clk":"7858851606","pt":1540845977578,"mc":[{"id":"1.150332592","rc":[{"ltp":8.6,"id":10410214}]}]}
+{"op":"mcm","clk":"7858869074","pt":1540846038511,"mc":[{"id":"1.150332592","rc":[{"ltp":11.0,"id":10410214},{"ltp":1.12,"id":8257862}]}]}
+{"op":"mcm","clk":"7858874372","pt":1540846097686,"mc":[{"id":"1.150332592","rc":[{"ltp":9.2,"id":10410214}]}]}
+{"op":"mcm","clk":"7858879955","pt":1540846157921,"mc":[{"id":"1.150332592","rc":[{"ltp":6.0,"id":10410214},{"ltp":1.2,"id":8257862}]}]}
+{"op":"mcm","clk":"7858885212","pt":1540846218620,"mc":[{"id":"1.150332592","rc":[{"ltp":5.7,"id":10410214},{"ltp":1.21,"id":8257862}]}]}
+{"op":"mcm","clk":"7858890503","pt":1540846277743,"mc":[{"id":"1.150332592","rc":[{"ltp":5.1,"id":10410214},{"ltp":1.24,"id":8257862}]}]}
+{"op":"mcm","clk":"7858896014","pt":1540846338524,"mc":[{"id":"1.150332592","rc":[{"ltp":4.4,"id":10410214},{"ltp":1.28,"id":8257862}]}]}
+{"op":"mcm","clk":"7858900951","pt":1540846392973,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.33,"id":8257862}]}]}
+{"op":"mcm","clk":"7858906109","pt":1540846458525,"mc":[{"id":"1.150332592","rc":[{"ltp":3.9,"id":10410214}]}]}
+{"op":"mcm","clk":"7858910477","pt":1540846518646,"mc":[{"id":"1.150332592","rc":[{"ltp":3.5,"id":10410214},{"ltp":1.4,"id":8257862}]}]}
+{"op":"mcm","clk":"7858915225","pt":1540846578640,"mc":[{"id":"1.150332592","rc":[{"ltp":1.35,"id":8257862}]}]}
+{"op":"mcm","clk":"7858919960","pt":1540846635973,"mc":[{"id":"1.150332592","rc":[{"ltp":4.1,"id":10410214},{"ltp":1.33,"id":8257862}]}]}
+{"op":"mcm","clk":"7858925267","pt":1540846698555,"mc":[{"id":"1.150332592","rc":[{"ltp":4.3,"id":10410214},{"ltp":1.3,"id":8257862}]}]}
+{"op":"mcm","clk":"7858930505","pt":1540846757063,"mc":[{"id":"1.150332592","rc":[{"ltp":3.85,"id":10410214},{"ltp":1.35,"id":8257862}]}]}
+{"op":"mcm","clk":"7858934857","pt":1540846818306,"mc":[{"id":"1.150332592","rc":[{"ltp":4.3,"id":10410214},{"ltp":1.3,"id":8257862}]}]}
+{"op":"mcm","clk":"7858938782","pt":1540846878004,"mc":[{"id":"1.150332592","rc":[{"ltp":3.7,"id":10410214},{"ltp":1.39,"id":8257862}]}]}
+{"op":"mcm","clk":"7858954904","pt":1540846937666,"mc":[{"id":"1.150332592","rc":[{"ltp":3.5,"id":10410214},{"ltp":1.4,"id":8257862}]}]}
+{"op":"mcm","clk":"7858959659","pt":1540846998270,"mc":[{"id":"1.150332592","rc":[{"ltp":3.6,"id":10410214},{"ltp":1.38,"id":8257862}]}]}
+{"op":"mcm","clk":"7858964065","pt":1540847057954,"mc":[{"id":"1.150332592","rc":[{"ltp":4.1,"id":10410214},{"ltp":1.34,"id":8257862}]}]}
+{"op":"mcm","clk":"7858968315","pt":1540847117840,"mc":[{"id":"1.150332592","rc":[{"ltp":4.4,"id":10410214},{"ltp":1.29,"id":8257862}]}]}
+{"op":"mcm","clk":"7858972466","pt":1540847177165,"mc":[{"id":"1.150332592","rc":[{"ltp":7.0,"id":10410214},{"ltp":1.17,"id":8257862}]}]}
+{"op":"mcm","clk":"7858976689","pt":1540847238456,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.32,"id":8257862}]}]}
+{"op":"mcm","clk":"7858980873","pt":1540847297675,"mc":[{"id":"1.150332592","rc":[{"ltp":3.35,"id":10410214},{"ltp":1.43,"id":8257862}]}]}
+{"op":"mcm","clk":"7858985208","pt":1540847358654,"mc":[{"id":"1.150332592","rc":[{"ltp":3.5,"id":10410214},{"ltp":1.4,"id":8257862}]}]}
+{"op":"mcm","clk":"7858989507","pt":1540847416786,"mc":[{"id":"1.150332592","rc":[{"ltp":1.43,"id":8257862}]}]}
+{"op":"mcm","clk":"7858994153","pt":1540847476865,"mc":[{"id":"1.150332592","rc":[{"ltp":1.41,"id":8257862}]}]}
+{"op":"mcm","clk":"7858998370","pt":1540847534608,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.38,"id":8257862}]}]}
+{"op":"mcm","clk":"7859003069","pt":1540847596025,"mc":[{"id":"1.150332592","rc":[{"ltp":3.3,"id":10410214},{"ltp":1.39,"id":8257862}]}]}
+{"op":"mcm","clk":"7859007281","pt":1540847655404,"mc":[{"id":"1.150332592","rc":[{"ltp":4.2,"id":10410214},{"ltp":1.31,"id":8257862}]}]}
+{"op":"mcm","clk":"7859011266","pt":1540847717455,"mc":[{"id":"1.150332592","rc":[{"ltp":5.5,"id":10410214},{"ltp":1.28,"id":8257862}]}]}
+{"op":"mcm","clk":"7859015023","pt":1540847778596,"mc":[{"id":"1.150332592","rc":[{"ltp":6.0,"id":10410214},{"ltp":1.18,"id":8257862}]}]}
+{"op":"mcm","clk":"7859030547","pt":1540847836138,"mc":[{"id":"1.150332592","rc":[{"ltp":6.4,"id":10410214}]}]}
+{"op":"mcm","clk":"7859034764","pt":1540847898632,"mc":[{"id":"1.150332592","rc":[{"ltp":4.5,"id":10410214},{"ltp":1.28,"id":8257862}]}]}
+{"op":"mcm","clk":"7859038761","pt":1540847958607,"mc":[{"id":"1.150332592","rc":[{"ltp":4.1,"id":10410214},{"ltp":1.31,"id":8257862}]}]}
+{"op":"mcm","clk":"7859042649","pt":1540848018196,"mc":[{"id":"1.150332592","rc":[{"ltp":8.6,"id":10410214},{"ltp":1.18,"id":8257862}]}]}
+{"op":"mcm","clk":"7859046753","pt":1540848078544,"mc":[{"id":"1.150332592","rc":[{"ltp":10.5,"id":10410214},{"ltp":1.1,"id":8257862}]}]}
+{"op":"mcm","clk":"7859051016","pt":1540848137381,"mc":[{"id":"1.150332592","rc":[{"ltp":1.07,"id":8257862}]}]}
+{"op":"mcm","clk":"7859055288","pt":1540848197595,"mc":[{"id":"1.150332592","rc":[{"ltp":17.0,"id":10410214},{"ltp":1.06,"id":8257862}]}]}
+{"op":"mcm","clk":"7859059418","pt":1540848256608,"mc":[{"id":"1.150332592","rc":[{"ltp":1.03,"id":8257862}]}]}
+{"op":"mcm","clk":"7859063601","pt":1540848317836,"mc":[{"id":"1.150332592","rc":[{"ltp":34.0,"id":10410214}]}]}
+{"op":"mcm","clk":"7859067302","pt":1540848375191,"mc":[{"id":"1.150332592","rc":[{"ltp":1.05,"id":8257862}]}]}
+{"op":"mcm","clk":"7859071103","pt":1540848438024,"mc":[{"id":"1.150332592","rc":[{"ltp":17.5,"id":10410214}]}]}
+{"op":"mcm","clk":"7859074315","pt":1540848498600,"mc":[{"id":"1.150332592","rc":[{"ltp":10.5,"id":10410214},{"ltp":1.11,"id":8257862}]}]}
+{"op":"mcm","clk":"7859077403","pt":1540848555664,"mc":[{"id":"1.150332592","rc":[{"ltp":7.2,"id":10410214},{"ltp":1.16,"id":8257862}]}]}
+{"op":"mcm","clk":"7859080963","pt":1540848617758,"mc":[{"id":"1.150332592","rc":[{"ltp":10.0,"id":10410214},{"ltp":1.11,"id":8257862}]}]}
+{"op":"mcm","clk":"7859084506","pt":1540848678650,"mc":[{"id":"1.150332592","rc":[{"ltp":1.13,"id":8257862}]}]}
+{"op":"mcm","clk":"7859099500","pt":1540848736239,"mc":[{"id":"1.150332592","rc":[{"ltp":7.4,"id":10410214},{"ltp":1.16,"id":8257862}]}]}
+{"op":"mcm","clk":"7859102514","pt":1540848798579,"mc":[{"id":"1.150332592","rc":[{"ltp":5.6,"id":10410214},{"ltp":1.23,"id":8257862}]}]}
+{"op":"mcm","clk":"7859105497","pt":1540848858288,"mc":[{"id":"1.150332592","rc":[{"ltp":7.4,"id":10410214},{"ltp":1.17,"id":8257862}]}]}
+{"op":"mcm","clk":"7859108567","pt":1540848918602,"mc":[{"id":"1.150332592","rc":[{"ltp":10.0,"id":10410214},{"ltp":1.11,"id":8257862}]}]}
+{"op":"mcm","clk":"7859111458","pt":1540848978480,"mc":[{"id":"1.150332592","rc":[{"ltp":21.0,"id":10410214},{"ltp":1.05,"id":8257862}]}]}
+{"op":"mcm","clk":"7859114466","pt":1540849038337,"mc":[{"id":"1.150332592","rc":[{"ltp":55.0,"id":10410214},{"ltp":1.01,"id":8257862}]}]}
+{"op":"mcm","clk":"7859117243","pt":1540849096312,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:40:00.000Z","suspendTime":"2018-10-29T19:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"ACTIVE","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:40:00.000Z","version":2485217451,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
+{"op":"mcm","clk":"7859117395","pt":1540849099468,"mc":[{"id":"1.150332592","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"28980174","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2018-10-29T19:40:00.000Z","suspendTime":"2018-10-29T19:40:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2018-10-29T21:38:11.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":8257862,"name":"Pedja Krstin"},{"status":"LOSER","sortPriority":2,"id":10410214,"name":"Roberto Cid Subervi"}],"regulators":["MR_INT"],"countryCode":"EC","discountAllowed":true,"timezone":"UTC","openDate":"2018-10-29T19:40:00.000Z","version":2485217497,"name":"Match Odds","eventName":"Krstin v Ro Cid Subervi"}}]}
