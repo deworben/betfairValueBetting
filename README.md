@@ -7,4 +7,4 @@ Testing has been done on tennis match odds, however code can easily be modified 
 
 interperateData shows the opportunities that exist in the market and highlight the accuracies and inaccuracies comparing historical (actual) and provided (theoretical) odds per match.
 
-Finally, analysis is done and uses two successful betting strategies. Bankrolls are simulated and projected if you were to apply these strategies over the provided data.
+Finally, analysis is done and uses two successful betting strategies. Bankrolls are simulated and projected if you were to apply these strategies over the provided data - creating useful backtesting benchmarks.
