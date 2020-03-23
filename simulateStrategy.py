@@ -13,11 +13,13 @@ testingValuesLiveStrat = [1, 2, 3, 10, 20]
 #stratList = {"simpleAboveOdds":simpleAboveOdds, "earlyLiveValue":earlyLiveValue}
 strat = "earlyLiveValue"
 testingValues = testingValuesLiveStrat
-
+tempArr = [sm.simpleAboveOdds]
+# klass = globals()["class_name"]
+# instance = klass()
 
 
 bankrolls = []
-timesAndPrices = np.load("tennisArraysTemp.npy")
+timesAndPrices = np.load("tennisArrays.npy")
 # timesAndPrices = np.load("tennisArraysFullYr.npy")
 NOBET = 0
 
@@ -25,7 +27,8 @@ def run():
     createBankrolls()
     for bankrollIndex, testingValue in enumerate(testingValues):
         for timePrice in timesAndPrices:
-            betprice, betsize, outcome = sm.stratList[strat](timePrice, testingValue)
+            # betprice, betsize, outcome = sm.stratList[strat](timePrice, testingValue)
+            betprice, betsize, outcome = tempArr[0](timePrice, testingValue)
             executeDecision(betprice, betsize, outcome, bankrollIndex)
     plotBankroll()
     plotReturns()
