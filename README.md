@@ -1,7 +1,7 @@
 # Betfair Trading Analysis and Execution Tool
 This code was used to analyse the accuracy of betfair odds, simulate strategies to backtest ideas according to the historical data, and run these ideas live on the market.
 
-*WARNING*: This code has not been refactored to fit the pep8 standard, or any standard whatsoever. Please cover your eyes.
+**WARNING**: This code has not been refactored to fit the pep8 standard, or any standard whatsoever. Please cover your eyes.
 
 ## How this works
 The scripts in this repository were designed to be used sequentially (0, then 1, then 2, then 3). This is a reflection of how they were built to assist me after I had gathered insights from the steps previous.
