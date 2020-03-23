@@ -1,9 +1,9 @@
-# betfairTennisAnalysis
+# Betfair Trading Analysis and Execution Tool
 This code was used to analyse the accuracy of betfair odds, simulate strategies to backtest ideas according to the historical data, and run these ideas live on the market.
 
-#WARNING: This code has not been refactored to fit the pep8 standard, or any standard whatsoever. Please cover your eyes.
+*WARNING*: This code has not been refactored to fit the pep8 standard, or any standard whatsoever. Please cover your eyes.
 
-##How this works
+## How this works
 The scripts in this repository were designed to be used sequentially (0, then 1, then 2, then 3). This is a reflection of how they were built to assist me after I had gathered insights from the steps previous.
 
 0. Parse Betfair historical data. This data is surprisingly messy and isn't adjusted to reflect the real odds after Betfair takes their commission.
@@ -11,7 +11,7 @@ The scripts in this repository were designed to be used sequentially (0, then 1,
 2. Simulate how applying different strategies would affect your bankroll. This supports different betting strategies, money management techniques, and inputs.
 3. Finally, there is functionality to connect your own Betfair account credentials and apply the strategies from backtesting immediately. This is quite resillient against the unreliable connection, start times and odds quoting from the Betfair servers.
 
-##Finally
+## Finally
 Testing has been done on tennis match odds, however code can easily be modified for different sports.
 There is plenty of scope for improvement. My highest priority items are:
 * Creating more modular designs for more complicated strategies for backtesting
