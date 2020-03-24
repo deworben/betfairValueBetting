@@ -10,7 +10,7 @@ NOBET = 0
 
 class MultivariableSimulation():
 
-    def __init__(self, fig, testVariables=defaultOdds):       
+    def __init__(self, fig, testVariables=defaultOdds):
         #----------------------setup vraibles - do not change ------------------------
         self.bankrolls = []
         self.timesAndPrices = None
@@ -23,7 +23,7 @@ class MultivariableSimulation():
             "earlyLiveOdds":sm.earlyLiveOdds
         }
 
-        
+
         self.testVariableUnits = {
             "minBuyPrice":"dollars",
             "minArrayLength":"datapoints",
@@ -56,7 +56,7 @@ class MultivariableSimulation():
 
     def test(self, variableName, variableList):
         self.createBankrolls(len(variableList))
-        
+
         for bankrollIndex, testingValue in enumerate(variableList):
             for timePrice in self.timesAndPrices:
 
@@ -65,7 +65,7 @@ class MultivariableSimulation():
 
                 betprice, betsize, outcome = obj.main()
                 self.executeDecision(betprice, betsize, outcome, bankrollIndex)
-              
+
         # print(len(self.bankrolls))
         self.plotGraphs(variableName, variableList)
 
@@ -80,7 +80,7 @@ class MultivariableSimulation():
     def plotGraphs(self, variableName, variableList):
         self.plotBankroll(variableName, variableList)
         self.plotReturns(variableName, variableList)
-        
+
 
 
     def executeDecision(self, betprice, betsize, outcome, bankrollIndex):
@@ -111,7 +111,7 @@ class MultivariableSimulation():
             a.plot(bankroll)
             # pyplot.plot(bankroll, label=line)
             # pyplot.legend()
-        
+
 
 
     def plotReturns(self, variableName, variableList):
@@ -129,7 +129,7 @@ class MultivariableSimulation():
             returns.append(((bankroll[-1]/bankroll[0])-1)*100)
         # pyplot.plot(tryValues, returns)
         b.plot(tryValues, returns)
-        
+
 
 
 # something = MultivariableSimulation()

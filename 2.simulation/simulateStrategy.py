@@ -8,7 +8,7 @@ import strategies.strategyMaster as sm
 #change these values
 initialValue = [10000]
 testingValuesSimpleStrat = [5, 7, 10, 20, 50]
-testingValuesLiveStrat = [1, 2, 3, 10, 20] 
+testingValuesLiveStrat = [1, 2, 3, 10, 20]
 
 #stratList = {"simpleAboveOdds":simpleAboveOdds, "earlyLiveValue":earlyLiveValue}
 strat = "earlyLiveValue"
@@ -64,7 +64,7 @@ def plotBankroll():
         line = str(testingValues[i])+" mins"
         pyplot.plot(bankroll, label=line)
         pyplot.legend()
-    
+
 
 def plotReturns():
     tryValues = []

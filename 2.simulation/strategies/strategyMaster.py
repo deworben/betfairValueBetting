@@ -1,4 +1,4 @@
-NOBET = 0 
+NOBET = 0
 
 
 class simpleAboveOdds():
@@ -10,7 +10,7 @@ class simpleAboveOdds():
         self.varDict = {"minArrayLength":self.minArrayLength, "minBuyPrice":self.minBuyPrice}
         self.decodeVars(changableVars)
 
-    
+
     def decodeVars(self,changableVars):
         # print(changableVars)
         for k,v in changableVars.items():
@@ -18,7 +18,7 @@ class simpleAboveOdds():
                 self.minArrayLength = v
             if k == "minBuyPrice":
                 self.minBuyPrice = v
-                
+
 
 
     def main(self):
@@ -48,7 +48,7 @@ class earlyLiveOdds():
         self.minOdds = 4
         self.edge = 0.05
         self.varDict = {
-            "minArrayLength":self.minArrayLength, 
+            "minArrayLength":self.minArrayLength,
             "timeForCutoff":self.timeForCutoff,
             "minOdds":self.minOdds,
             "edge":self.edge
@@ -56,7 +56,7 @@ class earlyLiveOdds():
         self.bankAmount = bankAmount
         self.decodeVars(changableVars)
 
-    
+
     def decodeVars(self,changableVars):
         # self.singleVsMultiVarFormat(changableVars)
         for k,v in changableVars.items():
@@ -72,25 +72,25 @@ class earlyLiveOdds():
     def singleVsMultiVarFormat(self, changableVars):
         for k,v in changableVars.items():
             if isinstance(v, list):
-                break 
+                break
             else:
                 return
         else:
             for k,v in changableVars.items():
                 changableVars[k] = v[0]
         return
-                
-        
+
+
 
     def main(self):
-        #first testingValue mins into the match 
+        #first testingValue mins into the match
         times = self.timePrice[0]
         prices = self.timePrice[1]
 
-        # buyingPrices = [] #try with or without the first odds price 
+        # buyingPrices = [] #try with or without the first odds price
         # betamounts = []
 
-        try:     
+        try:
             if(len(prices)<self.minArrayLength):
                 return 0, 0, 0
             if(prices[0]<self.minOdds):
@@ -105,7 +105,7 @@ class earlyLiveOdds():
         try:
             while times[cutoff] < cutoffTimeInMs:
                 cutoff += 1
-            
+
             # for price in prices[1:cutoff]:
             #     if price>prices[0]:
             #         return price, kelly(self.bankAmount, 1/prices[0], price), prices[-1]
@@ -120,8 +120,8 @@ class earlyLiveOdds():
                 if (((prices[i]-prices[0])/prices[0])) > self.edge:
                     # print("---------")
                     # print(timePrice)
-                    # print("start price = %lf, edge = %lf as a percentage = %lf" %(prices[i], prices[i]-prices[0],(prices[i]-prices[0])/prices[0]))  
-                    
+                    # print("start price = %lf, edge = %lf as a percentage = %lf" %(prices[i], prices[i]-prices[0],(prices[i]-prices[0])/prices[0]))
+
                     # buyingPrices.append(10)
                     # print("startprice=%lf, ourvalue=%lf, edge=%lf"%(prices[0], prices[i], ((prices[i]-prices[0])/prices[0])))
                     return prices[i], kelly(self.bankAmount, 1/prices[0], prices[i]), prices[-1]

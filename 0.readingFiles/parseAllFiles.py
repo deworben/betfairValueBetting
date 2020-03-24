@@ -7,7 +7,7 @@ import numpy as np
 # run this script once per data set to create a saved list where you can perform analysis
 dataTimeframe = "oct_data"
 currentDir = os.path.dirname(os.path.abspath(__file__))
-path_to_folder = os.path.join(currentDir, "..", "data", dataTimeframe)
+path_to_folder = os.path.join(   currentDir ,  ".." ,  "data", dataTimeframe)
 
 i = 0
 
@@ -39,4 +39,3 @@ except:
 np.save(outputDump, listOfLists)
 
 print("--------------------------------------\n\n\n")
-

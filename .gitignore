@@ -3,7 +3,3 @@ __pycache__/
 desktop.ini
 *.b2z
 data.tar
-fullYrData/*
-python_gui/*
-tennisArraysFullYr.npy
-/onlineTut/*

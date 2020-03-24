@@ -5,7 +5,7 @@ import os
 
 # Load the array that was created in step 0 (all the parsed betfair data)
 dataList = np.load(os.path.dirname(
-    os.path.abspath(__file__)) + r"\..\tennisArrays.npy", allow_pickle=True)
+    os.path.abspath(  __file__) ) + r"\..\tennisArrays.npy", allow_pickle=True     )
 
 
 # e.g. [ 5 (wins), 6 (losses), 11 (total) ]
